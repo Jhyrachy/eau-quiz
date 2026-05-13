@@ -1,315 +1,470 @@
 /**
- * app.js
- * Main SPA router and view dispatcher.
- * Hash-based routing: #, #quiz/<slug>, #quiz/<slug>/<section>, #results, #export
+ * EAU Guidelines Quiz — single-file SPA
+ * All logic in one file for simplicity.
  */
 
-const ROUTES = {
-  LANDING: '',
-  QUIZ: 'quiz',
-  RESULTS: 'results',
-  EXPORT: 'export'
-};
+const BASE = 'data';
+const STORAGE_KEY = 'eau-quiz-session';
+const REPO_ISSUES = 'https://github.com/Jhyrachy/eau-quiz/issues/new';
 
-let guidelinesData = null;
-let questionsData = null;   // slug -> question JSON
+// ─── Storage ────────────────────────────────────────────────────────────────
 
-// ─── Router ────────────────────────────────────────────────────────────────
+function saveSession(session) {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(session));
+}
+
+function loadSession() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    return raw ? JSON.parse(raw) : null;
+  } catch { return null; }
+}
+
+function clearSession() {
+  localStorage.removeItem(STORAGE_KEY);
+}
+
+// ─── Data Loading ───────────────────────────────────────────────────────────
+
+async function fetchJSON(file) {
+  const res = await fetch(`${BASE}/${file}`);
+  if (!res.ok) throw new Error(`Failed to load ${file}: ${res.status}`);
+  return res.json();
+}
+
+async function loadIndex() {
+  return fetchJSON('index.json');
+}
+
+async function loadQuestionFile(slug) {
+  return fetchJSON(`questions/${slug}.json`);
+}
+
+// ─── Router ─────────────────────────────────────────────────────────────────
+
 function getRoute() {
   const hash = window.location.hash.slice(1) || '';
   const parts = hash.split('/').filter(Boolean);
-  return parts;
+  return { parts, route: parts[0] || 'landing' };
 }
 
 function navigate(path) {
   window.location.hash = path;
 }
 
-function renderAll() {
-  const parts = getRoute();
-  const route = parts[0] || '';
+window.addEventListener('hashchange', render);
+
+// ─── App State ──────────────────────────────────────────────────────────────
+
+let state = {
+  view: 'landing',     // landing | quiz | results
+  guidelines: [],      // loaded index
+  selected: [],         // slugs checked on landing
+  questions: [],        // all questions for current session
+  current: 0,           // current question index
+  answers: {},          // question_id -> selected option
+  startTime: null,
+  elapsed: 0,
+  timerInterval: null,
+};
+
+// ─── Shuffle ─────────────────────────────────────────────────────────────────
+
+function shuffle(arr) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+// ─── Render ─────────────────────────────────────────────────────────────────
+
+function render() {
+  const { route, parts } = getRoute();
   const app = document.getElementById('app');
 
-  (async () => {
-    if (!guidelinesData) {
-      guidelinesData = await DataLoader.getGuidelines();
-    }
-
-    switch (route) {
-      case 'quiz': {
-        const slug = parts[1];
-        const section = parts[2];
-        if (slug) {
-          app.innerHTML = renderQuizView(slug, section);
-          await loadQuiz(slug, section);
-        } else {
-          app.innerHTML = renderSectionPicker();
-        }
-        break;
-      }
-      case 'results':
-        app.innerHTML = renderResultsView();
-        break;
-      case 'export':
-        app.innerHTML = renderExportView();
-        break;
-      default:
-        app.innerHTML = renderLandingView();
-    }
-  })();
-}
-
-// ─── Views ────────────────────────────────────────────────────────────────
-function renderLandingView() {
-  const guidelineCards = (guidelinesData || []).map(g => `
-    <div class="card" style="cursor:pointer" onclick="navigate('quiz/${g.slug}')">
-      <div class="guideline-name">${g.name}</div>
-      <div class="guideline-meta">${g.year} · ${g.chapters?.length || 0} chapters</div>
-    </div>
-  `).join('');
-
-  return `
-    <div class="container">
-      <header class="header">
-        <h1>EAU Guidelines Quiz</h1>
-        <p>Multiple choice questions from <a href="https://uroweb.org/guidelines" target="_blank">European Association of Urology</a> guidelines</p>
-        <div class="flex gap-1 mt-2" style="justify-content:center">
-          <button class="btn btn-ghost" onclick="navigate('export')">📦 Export Anki Deck</button>
-        </div>
-      </header>
-      <div class="guideline-list">${guidelineCards || '<div class="loading">Loading guidelines...</div>'}</div>
-    </div>
-  `;
-}
-
-function renderSectionPicker() {
-  if (!guidelinesData) return '<div class="loading">Loading...</div>';
-  return `
-    <div class="container">
-      <a class="nav-back" onclick="navigate('')">← Back to guidelines</a>
-      <h2 style="margin-top:1rem">Select a guideline</h2>
-      <div class="section-grid mt-1">
-        ${guidelinesData.map(g => `
-          <a class="section-chip" onclick="navigate('quiz/${g.slug}')">${g.name}</a>
-        `).join('')}
-      </div>
-    </div>
-  `;
-}
-
-async function loadQuiz(slug, sectionFilter) {
-  const container = document.getElementById('quiz-container');
-  if (!container) return;
-
-  container.innerHTML = '<div class="loading">Loading questions...</div>';
-
-  try {
-    if (!questionsData) questionsData = {};
-    if (!questionsData[slug]) {
-      questionsData[slug] = await DataLoader.getQuestionsForGuideline(slug);
-    }
-    const data = questionsData[slug];
-
-    if (!data || !data.questions || data.questions.length === 0) {
-      container.innerHTML = '<div class="empty">No questions found for this guideline.<br>Data may not be generated yet.</div>';
-      return;
-    }
-
-    let questions = data.questions;
-    if (sectionFilter) {
-      questions = questions.filter(q => q.chapter === sectionFilter);
-    }
-
-    QuizEngine.init(questions);
-    renderQuizQuestion();
-  } catch (e) {
-    container.innerHTML = `<div class="empty">Error loading questions: ${e.message}</div>`;
+  switch (route) {
+    case 'quiz':
+      renderQuiz(app, parts[1]);
+      break;
+    case 'results':
+      renderResults(app);
+      break;
+    default:
+      renderLanding(app);
   }
 }
 
-function renderQuizView(slug, sectionFilter) {
-  const guideline = guidelinesData?.find(g => g.slug === slug);
-  const name = guideline?.name || slug;
+// ─── Landing ─────────────────────────────────────────────────────────────────
 
-  return `
-    <div class="container">
-      <a class="nav-back" onclick="navigate('')">← All Guidelines</a>
-      <div class="quiz-header mt-1">
-        <div>
-          <h2 style="font-size:1.2rem">${name}</h2>
-          ${sectionFilter ? `<div style="font-size:0.8rem;color:var(--text-muted)">Section: ${sectionFilter}</div>` : ''}
-        </div>
-        <div class="quiz-progress text-right">
-          <span id="progress-text">0 / 0</span>
-          <div class="quiz-progress-bar" style="width:120px"><div class="quiz-progress-fill" id="progress-fill" style="width:0%"></div></div>
-        </div>
-      </div>
-      <div id="quiz-container">
-        <div class="loading">Loading...</div>
-      </div>
-    </div>
-  `;
-}
+async function renderLanding(app) {
+  state.view = 'landing';
 
-function renderQuizQuestion() {
-  const container = document.getElementById('quiz-container');
-  if (!container) return;
-
-  const q = QuizEngine.current();
-  if (!q) return;
-
-  container.innerHTML = QuizEngine.renderQuestion(q);
-  updateProgressBar();
-
-  // Attach event listeners
-  container.querySelectorAll('.option').forEach(opt => {
-    opt.addEventListener('click', () => {
-      QuizEngine.selectAnswer(q.id, opt.dataset.option);
-      renderQuizQuestion();
-    });
-  });
-
-  const checkBtn = container.querySelector('#check-answer');
-  if (checkBtn) checkBtn.addEventListener('click', () => {
-    QuizEngine.checkAnswer(q.id);
-    renderQuizQuestion();
-  });
-
-  const nextBtn = container.querySelector('#next-question');
-  if (nextBtn) nextBtn.addEventListener('click', () => {
-    QuizEngine.next();
-    renderQuizQuestion();
-  });
-
-  const finishBtn = container.querySelector('#finish-quiz');
-  if (finishBtn) finishBtn.addEventListener('click', () => {
-    navigate('results');
-  });
-}
-
-function updateProgressBar() {
-  const p = QuizEngine.progress();
-  const el = document.getElementById('progress-text');
-  const fill = document.getElementById('progress-fill');
-  if (el) el.textContent = `${p.current} / ${p.total}`;
-  if (fill) fill.style.width = `${(p.current / p.total) * 100}%`;
-}
-
-function renderResultsView() {
-  const results = QuizEngine.getAllResults();
-  const score = QuizEngine.score();
-  const pct = score.total > 0 ? Math.round((score.correct / score.total) * 100) : 0;
-
-  const resultItems = results.filter(r => r.answered).map(r => {
-    const q = r.question;
-    const res = r.result;
-    return `
-      <div class="card result-item">
-        <div class="question-text">${q.question}</div>
-        <div class="options">
-          ${q.options.map(opt => {
-            let cls = 'option';
-            if (opt.id === q.correct) cls += ' correct';
-            if (res && opt.id === res.your && opt.id !== q.correct) cls += ' wrong';
-            return `<div class="${cls}">
-              <span class="option-id">${opt.id}.</span>
-              <span class="option-text">${opt.text}</span>
-            </div>`;
-          }).join('')}
-        </div>
-        ${res ? `<div class="result-answer">
-          ${res.correct ? '<span style="color:var(--correct)">✓ Correct</span>' : `<span class="your-answer wrong">✗ Wrong (your answer: ${res.your})</span> — <span class="correct-text">Correct: ${q.correct}</span>`}
-          <div style="font-size:0.82rem;margin-top:0.4rem;color:var(--text-muted)">${q.explanation} <a href="${q.source_url || '#'}" target="_blank">Source</a></div>
-        </div>` : ''}
-      </div>
-    `;
-  }).join('');
-
-  return `
-    <div class="container">
-      <a class="nav-back" onclick="navigate('')">← Back to Guidelines</a>
-      <div class="results-header mt-2">
-        <div class="results-score">${pct}%</div>
-        <div class="results-sub">${score.correct} / ${score.total} correct</div>
-      </div>
-      <div class="mt-2">${resultItems}</div>
-      <div class="text-center mt-2">
-        <button class="btn btn-primary" onclick="navigate('')">Try Another Guideline</button>
-        <button class="btn btn-ghost" onclick="navigate('export')">📦 Export to Anki</button>
-      </div>
-    </div>
-  `;
-}
-
-function renderExportView() {
-  if (!guidelinesData) return '<div class="loading">Loading...</div>';
-
-  const checks = guidelinesData.map(g => `
-    <div class="card export-item">
-      <input type="checkbox" id="cb-${g.slug}" value="${g.slug}" />
-      <label for="cb-${g.slug}">
-        <div class="guideline-name">${g.name}</div>
-        <div class="guideline-meta">${g.year} · ${g.chapters?.length || 0} chapters</div>
-      </label>
-    </div>
-  `).join('');
-
-  return `
-    <div class="container">
-      <a class="nav-back" onclick="navigate('')">← Back</a>
-      <h2 class="mt-1">Export Anki Deck</h2>
-      <p style="font-size:0.85rem;color:var(--text-muted);margin-top:0.4rem">Select the guidelines you want to include in your Anki deck.</p>
-      <div class="export-grid mt-1">${checks}</div>
-      <div style="margin-top:1.5rem">
-        <input type="text" id="deck-name" value="EAU Guidelines Quiz" placeholder="Deck name"
-          style="background:var(--surface);border:1px solid var(--border);color:var(--text);padding:0.6rem 1rem;border-radius:8px;font-size:0.9rem;width:100%;max-width:320px" />
-      </div>
-      <div class="mt-1">
-        <button class="btn btn-primary" id="export-btn" onclick="doExport()">📦 Download .apkg</button>
-      </div>
-      <div id="export-status" style="margin-top:1rem;font-size:0.85rem;color:var(--text-muted)"></div>
-    </div>
-  `;
-}
-
-window.doExport = async function() {
-  const btn = document.getElementById('export-btn');
-  const status = document.getElementById('export-status');
-  const deckName = document.getElementById('deck-name')?.value || 'EAU Guidelines Quiz';
-
-  const checked = [...document.querySelectorAll('#export-view input[type=checkbox]:checked')].map(cb => cb.value);
-  if (checked.length === 0) {
-    status.textContent = 'Please select at least one guideline.';
+  let index;
+  try {
+    index = await loadIndex();
+  } catch {
+    app.innerHTML = `<div class="container"><p class="error">Failed to load guidelines index.</p></div>`;
     return;
   }
 
-  btn.disabled = true;
-  status.textContent = 'Generating deck...';
-
-  try {
-    // Load all selected guideline question data
-    const data = {};
-    for (const slug of checked) {
-      if (!questionsData?.[slug]) {
-        try {
-          questionsData[slug] = await DataLoader.getQuestionsForGuideline(slug);
-        } catch {}
-      }
-      data[slug] = questionsData?.[slug];
-    }
-
-    await AnkiExport.exportAndDownload(data, checked, deckName);
-    status.textContent = '✓ Deck downloaded!';
-  } catch (e) {
-    status.textContent = `✗ Error: ${e.message}`;
-  } finally {
-    btn.disabled = false;
+  // Load availability (which have question files)
+  const available = [];
+  for (const g of index) {
+    try {
+      await loadQuestionFile(g.slug);
+      available.push(g);
+    } catch { /* skip */ }
   }
-};
 
-// ─── Init ─────────────────────────────────────────────────────────────────
-window.addEventListener('hashchange', renderAll);
-window.addEventListener('DOMContentLoaded', renderAll);
+  const session = loadSession();
+  const hasSession = session && session.questions && session.questions.length > 0;
 
-// Initial render
-renderAll();
+  app.innerHTML = `
+    <div class="container">
+      <header class="header">
+        <h1>EAU Guidelines Quiz</h1>
+        <p>Select guidelines and start quizzing — all client-side.</p>
+        ${hasSession ? `<button class="btn btn-ghost" id="resume-btn">Resume session</button>` : ''}
+      </header>
+
+      ${available.length === 0
+        ? `<p class="empty">No question sets available yet.</p>`
+        : `
+        <div class="controls-row">
+          <button class="btn btn-ghost btn-sm" id="select-all">Select all</button>
+          <button class="btn btn-ghost btn-sm" id="clear-all">Clear</button>
+        </div>
+        <div class="checklist" id="checklist">
+          ${available.map(g => `
+            <label class="check-item">
+              <input type="checkbox" value="${g.slug}" class="guideline-check" />
+              <span class="check-name">${g.name}</span>
+              <span class="check-slug">${g.slug}</span>
+            </label>
+          `).join('')}
+        </div>
+        <button class="btn btn-primary start-btn" id="start-btn" disabled>Start Quiz</button>
+        `}
+    </div>
+  `;
+
+  // Wire up checklist
+  const checks = document.querySelectorAll('.guideline-check');
+  const startBtn = document.getElementById('start-btn');
+
+  function updateStart() {
+    const sel = [...checks].filter(c => c.checked).map(c => c.value);
+    startBtn.disabled = sel.length === 0;
+    state.selected = sel;
+  }
+
+  checks.forEach(c => c.addEventListener('change', updateStart));
+  document.getElementById('select-all')?.addEventListener('click', () => {
+    checks.forEach(c => { c.checked = true; });
+    updateStart();
+  });
+  document.getElementById('clear-all')?.addEventListener('click', () => {
+    checks.forEach(c => { c.checked = false; });
+    updateStart();
+  });
+
+  startBtn?.addEventListener('click', startQuiz);
+
+  document.getElementById('resume-btn')?.addEventListener('click', () => {
+    restoreSession(loadSession());
+    navigate('quiz');
+  });
+}
+
+// ─── Start Quiz ─────────────────────────────────────────────────────────────
+
+async function startQuiz() {
+  if (state.selected.length === 0) return;
+
+  // Load all selected question files
+  const allQuestions = [];
+  for (const slug of state.selected) {
+    try {
+      const data = await loadQuestionFile(slug);
+      const qs = data.questions || [];
+      allQuestions.push(...qs);
+    } catch (e) {
+      console.warn(`Failed to load ${slug}:`, e);
+    }
+  }
+
+  if (allQuestions.length === 0) {
+    alert('No questions found for selected guidelines.');
+    return;
+  }
+
+  const shuffled = shuffle(allQuestions);
+
+  state.questions = shuffled;
+  state.current = 0;
+  state.answers = {};
+  state.startTime = Date.now();
+  state.elapsed = 0;
+
+  clearInterval(state.timerInterval);
+  state.timerInterval = setInterval(() => {
+    state.elapsed = Math.floor((Date.now() - state.startTime) / 1000);
+    const el = document.getElementById('elapsed-display');
+    if (el) el.textContent = formatElapsed(state.elapsed);
+  }, 1000);
+
+  saveSession({
+    questions: shuffled,
+    current: 0,
+    answers: {},
+    startTime: state.startTime,
+  });
+
+  navigate('quiz');
+}
+
+// ─── Quiz View ──────────────────────────────────────────────────────────────
+
+function renderQuiz(app, action) {
+  if (action === 'end') {
+    endQuiz();
+    return;
+  }
+
+  if (state.questions.length === 0) {
+    navigate('');
+    return;
+  }
+
+  state.view = 'quiz';
+  const q = state.questions[state.current];
+  const answered = state.answers[q.id];
+  const isCorrect = answered ? answered === q.correct : null;
+
+  app.innerHTML = `
+    <div class="container quiz-container">
+      <div class="quiz-topbar">
+        <span class="elapsed" id="elapsed-display">${formatElapsed(state.elapsed)}</span>
+        <span class="counter">${state.current + 1} / ${state.questions.length}</span>
+        <button class="btn btn-ghost btn-sm" id="end-btn">End quiz</button>
+      </div>
+
+      <div class="question-block">
+        <div class="q-meta">${q.chapter ? q.chapter.replace(/-/g, ' ') : ''} · ${q.difficulty || 'medium'}</div>
+        <div class="q-text">${q.question}</div>
+      </div>
+
+      <div class="options" id="options">
+        ${['A','B','C','D'].map(opt => {
+          const text = q.options.find(o => o.id === opt)?.text || '';
+          const cls = answered
+            ? opt === q.correct ? 'correct'
+              : opt === answered ? 'wrong'
+              : ''
+            : '';
+          const dis = answered ? 'disabled' : '';
+          return `
+            <div class="option ${cls}" data-opt="${opt}" ${dis}>
+              <span class="opt-id">${opt}</span>
+              <span class="opt-text">${text}</span>
+            </div>`;
+        }).join('')}
+      </div>
+
+      ${answered ? `
+        <div class="explanation">
+          <strong>Explanation:</strong> ${q.explanation}
+          <div class="src-link">
+            Source: <a href="${q.source_url || '#'}" target="_blank">${q.section || ' guideline'}</a>
+          </div>
+        </div>
+        <button class="btn btn-primary next-btn" id="next-btn">
+          ${state.current < state.questions.length - 1 ? 'Next →' : 'Show results'}
+        </button>
+      ` : ''}
+
+      <div class="report-row">
+        <a class="report-link" href="${buildIssueURL(q)}" target="_blank" title="Report an issue with this question">
+          Report issue
+        </a>
+      </div>
+    </div>
+  `;
+
+  // Wire up options (if not yet answered)
+  if (!answered) {
+    document.querySelectorAll('.option').forEach(el => {
+      el.addEventListener('click', () => selectOption(el.dataset.opt));
+    });
+  }
+
+  document.getElementById('next-btn')?.addEventListener('click', nextQuestion);
+  document.getElementById('end-btn')?.addEventListener('click', () => {
+    if (confirm('End quiz now?')) endQuiz();
+  });
+
+  // Keyboard: 1-4 select, Enter next, E explanation
+  document.onkeydown = (e) => {
+    if (['A','B','C','D'].includes(answered)) {
+      if (e.key === 'Enter') nextQuestion();
+    } else {
+      const map = { '1': 'A', '2': 'B', '3': 'C', '4': 'D' };
+      if (map[e.key]) selectOption(map[e.key]);
+    }
+  };
+}
+
+function selectOption(opt) {
+  const q = state.questions[state.current];
+  state.answers[q.id] = opt;
+  saveSession({ questions: state.questions, current: state.current, answers: state.answers, startTime: state.startTime });
+  renderQuiz(document.getElementById('app'));
+}
+
+function nextQuestion() {
+  if (state.current < state.questions.length - 1) {
+    state.current++;
+    saveSession({ questions: state.questions, current: state.current, answers: state.answers, startTime: state.startTime });
+    renderQuiz(document.getElementById('app'));
+  } else {
+    endQuiz();
+  }
+}
+
+function endQuiz() {
+  clearInterval(state.timerInterval);
+  state.elapsed = Math.floor((Date.now() - state.startTime) / 1000);
+  navigate('results');
+}
+
+// ─── Results ─────────────────────────────────────────────────────────────────
+
+function renderResults(app) {
+  state.view = 'results';
+  const total = state.questions.length;
+  const answers = state.answers;
+  const correct = Object.entries(answers).filter(([id, opt]) => {
+    const q = state.questions.find(q => q.id === id);
+    return q && q.correct === opt;
+  }).length;
+  const score = Math.round((correct / total) * 100);
+
+  const mistakes = state.questions.filter(q => {
+    const a = answers[q.id];
+    return a && a !== q.correct;
+  });
+
+  app.innerHTML = `
+    <div class="container">
+      <header class="header">
+        <h1>Results</h1>
+        <p>${correct} / ${total} correct (${score}%) — ${formatElapsed(state.elapsed)}</p>
+        <div class="flex gap-1 mt-2">
+          <button class="btn btn-ghost" id="review-btn" ${mistakes.length === 0 ? 'disabled' : ''}>
+            Review mistakes (${mistakes.length})
+          </button>
+          <button class="btn btn-ghost" id="new-btn">New session</button>
+          <button class="btn btn-ghost" id="export-btn">Export Anki</button>
+        </div>
+      </header>
+
+      ${mistakes.length > 0 ? `
+        <h2 class="section-title">Review mistakes</h2>
+        ${mistakes.map((q, i) => `
+          <div class="result-card">
+            <div class="q-text">${q.question}</div>
+            <div class="q-answers">
+              <span class="your wrong">Your answer: ${q.options.find(o=>o.id===answers[q.id])?.text}</span>
+              <span class="correct-text">Correct: ${q.options.find(o=>o.id===q.correct)?.text}</span>
+            </div>
+            <div class="explanation-sm">${q.explanation}</div>
+            <a class="report-link" href="${buildIssueURL(q)}" target="_blank">Report issue</a>
+          </div>
+        `).join('')}
+      ` : `<p class="empty">Perfect score! 🎉</p>`}
+    </div>
+  `;
+
+  document.getElementById('review-btn')?.addEventListener('click', () => {
+    state.questions = shuffle(mistakes);
+    state.current = 0;
+    state.answers = {};
+    state.startTime = Date.now();
+    state.elapsed = 0;
+    navigate('quiz');
+  });
+
+  document.getElementById('new-btn')?.addEventListener('click', () => {
+    clearSession();
+    navigate('');
+  });
+
+  document.getElementById('export-btn')?.addEventListener('click', exportAnki);
+}
+
+// ─── Anki Export ─────────────────────────────────────────────────────────────
+
+function exportAnki() {
+  const qs = state.questions;
+  // Build TSV: front, back, tags
+  const lines = qs.map(q => {
+    const front = q.question.replace(/\t/g, ' ').replace(/\n/g, ' ');
+    const back = `${q.options.find(o=>o.id===q.correct)?.text}\n\n${q.explanation}`.replace(/\t/g, ' ').replace(/\n/g, '<br>');
+    const tags = `${q.guideline} ${q.chapter || ''} ${q.difficulty || ''}`.trim().replace(/\s+/g, ' ');
+    return [front, back, tags].join('\t');
+  });
+
+  const tsv = lines.join('\n');
+  const blob = new Blob([tsv], { type: 'text/tab-separated-values' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `eau-quiz-${Date.now()}.txt`;
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+// ─── Restore Session ─────────────────────────────────────────────────────────
+
+function restoreSession(session) {
+  if (!session) return;
+  state.questions = session.questions || [];
+  state.current = session.current || 0;
+  state.answers = session.answers || {};
+  state.startTime = session.startTime || Date.now();
+  state.elapsed = Math.floor((Date.now() - state.startTime) / 1000);
+
+  clearInterval(state.timerInterval);
+  state.timerInterval = setInterval(() => {
+    state.elapsed = Math.floor((Date.now() - state.startTime) / 1000);
+    const el = document.getElementById('elapsed-display');
+    if (el) el.textContent = formatElapsed(state.elapsed);
+  }, 1000);
+}
+
+// ─── Helpers ─────────────────────────────────────────────────────────────────
+
+function formatElapsed(s) {
+  const m = Math.floor(s / 60);
+  const sec = s % 60;
+  return `${m}:${sec.toString().padStart(2, '0')}`;
+}
+
+function buildIssueURL(q) {
+  const title = encodeURIComponent(`Issue with question: ${q.id}`);
+  const body = encodeURIComponent(
+`## Question\n${q.question}\n\n**ID:** \`${q.id}\`\n**Guideline:** ${q.guideline}\n**Chapter:** ${q.chapter}\n**Difficulty:** ${q.difficulty}\n\n## Problem\n- [ ] Factually incorrect\n- [ ] Wrong answer marked correct\n- [ ] Explanation is wrong\n- [ ] Other: ___
+
+
+**Correct answer should be:** ${q.correct}
+`
+  );
+  return `${REPO_ISSUES}?title=${title}&body=${body}&labels=question-error`;
+}
+
+// ─── Boot ─────────────────────────────────────────────────────────────────────
+
+render();

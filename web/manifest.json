@@ -1,0 +1,16 @@
+{
+  "name": "EAU Guidelines Quiz",
+  "short_name": "EAU Quiz",
+  "description": "Multiple choice questions from EAU clinical guidelines",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f1117",
+  "theme_color": "#6c8ee6",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%236c8ee6'/><text y='.9em' font-size='70' x='50%' text-anchor='middle'>?</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
