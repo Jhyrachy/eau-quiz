@@ -1,0 +1,1828 @@
+{
+  "guideline": "muscle-invasive-and-metastatic-bladder-cancer",
+  "chapter": "disease-management",
+  "url": "https://uroweb.org/guidelines/muscle-invasive-and-metastatic-bladder-cancer/chapter/disease-management",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Future goals",
+      "anchor": "#2-3-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AND AETIOLOGY",
+      "anchor": "#3-epidemiology-and-aetiology"
+    },
+    {
+      "level": 2,
+      "text": "3.1 Clinical presentation",
+      "anchor": "#3-1-clinical-presentation"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Aetiology",
+      "anchor": "#3-3-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Tobacco smoking",
+      "anchor": "#3-3-1-tobacco-smoking"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Occupational exposure to chemicals",
+      "anchor": "#3-3-2-occupational-exposure-to-chemicals"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Radiotherapy",
+      "anchor": "#3-3-3-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Dietary factors",
+      "anchor": "#3-3-4-dietary-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. Metabolic disorders",
+      "anchor": "#3-3-5-metabolic-disorders"
+    },
+    {
+      "level": 4,
+      "text": "3.3.6. Bladder schistosomiasis and chronic urinary tract infection",
+      "anchor": "#3-3-6-bladder-schistosomiasis-and-chronic-urinary-tract-infection"
+    },
+    {
+      "level": 4,
+      "text": "3.3.7. Sex",
+      "anchor": "#3-3-7-sex"
+    },
+    {
+      "level": 4,
+      "text": "3.3.8. Genetic factors",
+      "anchor": "#3-3-8-genetic-factors"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Summary of evidence and recommendations for epidemiology and risk factors",
+      "anchor": "#3-4-summary-of-evidence-and-recommendations-for-epidemiology-and-risk-factors"
+    },
+    {
+      "level": 2,
+      "text": "4. PATHOLOGY AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-pathology-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Cytology",
+      "anchor": "#4-1-cytology"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Histology",
+      "anchor": "#4-2-histology"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Pathological staging",
+      "anchor": "#4-3-pathological-staging"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Tumour, Node, Metastasis classification",
+      "anchor": "#4-4-tumour-node-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Pathological markers",
+      "anchor": "#4-5-pathological-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Lymphovascular invasion",
+      "anchor": "#4-5-1-lymphovascular-invasion"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Carcinoma",
+      "anchor": "#4-5-2-carcinoma"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Tumour location",
+      "anchor": "#4-5-3-tumour-location"
+    },
+    {
+      "level": 4,
+      "text": "4.5.4. Lymph node-positive disease",
+      "anchor": "#4-5-4-lymph-node-positive-disease"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Tissue handling",
+      "anchor": "#4-6-tissue-handling"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Recommendations for the assessment of tumour specimens",
+      "anchor": "#4-7-recommendations-for-the-assessment-of-tumour-specimens"
+    },
+    {
+      "level": 3,
+      "text": "4.8. EAU-ESMO consensus statements on the management of advanced- and variant bladder cancer [82, 83]*",
+      "anchor": "#4-8-eau-esmo-consensus-statements-on-the-management-of-advanced--and-variant-bladder-cancer-82-83"
+    },
+    {
+      "level": 3,
+      "text": "4.9. Markers",
+      "anchor": "#4-9-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.9.1. Introduction",
+      "anchor": "#4-9-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "4.9.2. Clinical and histopathological markers",
+      "anchor": "#4-9-2-clinical-and-histopathological-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.9.3. Molecular variants",
+      "anchor": "#4-9-3-molecular-variants"
+    },
+    {
+      "level": 4,
+      "text": "4.9.4. Molecular markers",
+      "anchor": "#4-9-4-molecular-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.9.5. Conclusion",
+      "anchor": "#4-9-5-conclusion"
+    },
+    {
+      "level": 4,
+      "text": "4.9.6. Summary of evidence and recommendations for urothelial markers",
+      "anchor": "#4-9-6-summary-of-evidence-and-recommendations-for-urothelial-markers"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSIS",
+      "anchor": "#5-diagnosis"
+    },
+    {
+      "level": 3,
+      "text": "5.1. History and physical examination",
+      "anchor": "#5-1-history-and-physical-examination"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Urine cytology",
+      "anchor": "#5-2-urine-cytology"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Cystoscopy",
+      "anchor": "#5-3-cystoscopy"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Transurethral resection of invasive bladder tumours",
+      "anchor": "#5-4-transurethral-resection-of-invasive-bladder-tumours"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Summary of evidence and recommendations for the primary assessment of presumably invasive bladder tumours*",
+      "anchor": "#5-5-summary-of-evidence-and-recommendations-for-the-primary-assessment-of-presumably-invasive-bladder-tumours"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Imaging for staging",
+      "anchor": "#5-6-imaging-for-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.1. Local staging",
+      "anchor": "#5-6-1-local-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.2. Upper tract evaluation",
+      "anchor": "#5-6-2-upper-tract-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "5.6.3. Lymph node staging",
+      "anchor": "#5-6-3-lymph-node-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.4. Distant staging",
+      "anchor": "#5-6-4-distant-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.5. Future perspectives",
+      "anchor": "#5-6-5-future-perspectives"
+    },
+    {
+      "level": 4,
+      "text": "5.6.6. Summary of evidence and recommendations for staging in MIBC",
+      "anchor": "#5-6-6-summary-of-evidence-and-recommendations-for-staging-in-mibc"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT",
+      "anchor": "#6-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Multidisciplinary team for patients with MIBC",
+      "anchor": "#6-1-multidisciplinary-team-for-patients-with-mibc"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Recommendations for a multidisciplinary team",
+      "anchor": "#6-1-1-recommendations-for-a-multidisciplinary-team"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Health status assessment",
+      "anchor": "#6-2-health-status-assessment"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Evaluation of comorbidity, frailty and cognition",
+      "anchor": "#6-3-evaluation-of-comorbidity-frailty-and-cognition"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Comorbidity scales, anaesthetic risk classification and geriatric assessment",
+      "anchor": "#6-4-comorbidity-scales-anaesthetic-risk-classification-and-geriatric-assessment"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Summary of evidence and recommendations for comorbidity scales",
+      "anchor": "#6-4-1-summary-of-evidence-and-recommendations-for-comorbidity-scales"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Perioperative systemic therapy",
+      "anchor": "#6-5-perioperative-systemic-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.5.1. Neoadjuvant",
+      "anchor": "#6-5-1-neoadjuvant"
+    },
+    {
+      "level": 4,
+      "text": "6.5.2. Adjuvant therapy",
+      "anchor": "#6-5-2-adjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Perioperative radiotherapy",
+      "anchor": "#6-6-perioperative-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.6.1. Preoperative radiotherapy",
+      "anchor": "#6-6-1-preoperative-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.6.2. Postoperative radiotherapy",
+      "anchor": "#6-6-2-postoperative-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.6.3. Summary of evidence and recommendations for pre- and postoperative radiotherapy",
+      "anchor": "#6-6-3-summary-of-evidence-and-recommendations-for-pre--and-postoperative-radiotherapy"
+    },
+    {
+      "level": 3,
+      "text": "6.7. Radical cystectomy with pelvic lymph node dissection",
+      "anchor": "#6-7-radical-cystectomy-with-pelvic-lymph-node-dissection"
+    },
+    {
+      "level": 4,
+      "text": "6.7.1. Removal of the tumour-bearing bladder",
+      "anchor": "#6-7-1-removal-of-the-tumour-bearing-bladder"
+    },
+    {
+      "level": 4,
+      "text": "6.7.2. Radical cystectomy: technique and extent",
+      "anchor": "#6-7-2-radical-cystectomy-technique-and-extent"
+    },
+    {
+      "level": 4,
+      "text": "6.7.3. Lymphadenectomy: role and extent",
+      "anchor": "#6-7-3-lymphadenectomy-role-and-extent"
+    },
+    {
+      "level": 4,
+      "text": "6.7.4. Robotic-assisted laparoscopic cystectomy",
+      "anchor": "#6-7-4-robotic-assisted-laparoscopic-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.7.5. Urinary diversion after radical cystectomy",
+      "anchor": "#6-7-5-urinary-diversion-after-radical-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.7.6. Morbidity and mortality",
+      "anchor": "#6-7-6-morbidity-and-mortality"
+    },
+    {
+      "level": 4,
+      "text": "6.7.7. Survival",
+      "anchor": "#6-7-7-survival"
+    },
+    {
+      "level": 4,
+      "text": "6.7.8. Impact of hospital and surgeon volume on treatment outcomes",
+      "anchor": "#6-7-8-impact-of-hospital-and-surgeon-volume-on-treatment-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "6.7.9. Summary of evidence and recommendations for quality indicators in radical cystectomy",
+      "anchor": "#6-7-9-summary-of-evidence-and-recommendations-for-quality-indicators-in-radical-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.7.10. Palliative cystectomy",
+      "anchor": "#6-7-10-palliative-cystectomy"
+    },
+    {
+      "level": 3,
+      "text": "6.8. Trimodality therapy",
+      "anchor": "#6-8-trimodality-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.8.1. Trimodality bladder-preserving treatment",
+      "anchor": "#6-8-1-trimodality-bladder-preserving-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.9. External beam radiotherapy",
+      "anchor": "#6-9-external-beam-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.9.1. Definitive external beam radiotherapy",
+      "anchor": "#6-9-1-definitive-external-beam-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.9.2. Palliative external beam radiotherapy",
+      "anchor": "#6-9-2-palliative-external-beam-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.9.3. Summary of evidence and recommendation for external beam radiotherapy",
+      "anchor": "#6-9-3-summary-of-evidence-and-recommendation-for-external-beam-radiotherapy"
+    },
+    {
+      "level": 3,
+      "text": "6.10. Other approaches",
+      "anchor": "#6-10-other-approaches"
+    },
+    {
+      "level": 4,
+      "text": "6.10.1. Transurethral resection of bladder tumour",
+      "anchor": "#6-10-1-transurethral-resection-of-bladder-tumour"
+    },
+    {
+      "level": 4,
+      "text": "6.10.2. Chemotherapy",
+      "anchor": "#6-10-2-chemotherapy"
+    },
+    {
+      "level": 2,
+      "text": "7. FOLLOW-UP AND SURVEILLANCE",
+      "anchor": "#7-follow-up-and-surveillance"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Response to neoadjuvant therapy",
+      "anchor": "#7-1-response-to-neoadjuvant-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.1.1. Recommendation for response to neoadjuvant therapy",
+      "anchor": "#7-1-1-recommendation-for-response-to-neoadjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Follow-up after radical cystectomy",
+      "anchor": "#7-2-follow-up-after-radical-cystectomy"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Follow-up after trimodality therapy",
+      "anchor": "#7-3-follow-up-after-trimodality-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Follow-up of functional outcomes and complications",
+      "anchor": "#7-4-follow-up-of-functional-outcomes-and-complications"
+    },
+    {
+      "level": 2,
+      "text": "8. RECURRENT DISEASE",
+      "anchor": "#8-recurrent-disease"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Intravesical recurrence",
+      "anchor": "#8-1-intravesical-recurrence"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Post-trimodality therapy bladder recurrences and salvage cystectomy",
+      "anchor": "#8-1-1-post-trimodality-therapy-bladder-recurrences-and-salvage-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Salvage cystectomy post-trimodality therapy",
+      "anchor": "#8-1-2-salvage-cystectomy-post-trimodality-therapy"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Recommendation for salvage cystectomy",
+      "anchor": "#8-1-3-recommendation-for-salvage-cystectomy"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Pelvic recurrence",
+      "anchor": "#8-2-pelvic-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Upper tract recurrence",
+      "anchor": "#8-3-upper-tract-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.4. Urethral recurrence",
+      "anchor": "#8-4-urethral-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.5. Distant recurrence",
+      "anchor": "#8-5-distant-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.6. Summary of evidence and recommendations for specific recurrence sites",
+      "anchor": "#8-6-summary-of-evidence-and-recommendations-for-specific-recurrence-sites"
+    },
+    {
+      "level": 2,
+      "text": "9. METASTATIC DISEASE",
+      "anchor": "#9-metastatic-disease"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Introduction",
+      "anchor": "#9-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Management of oligometastatic bladder cancer",
+      "anchor": "#9-2-management-of-oligometastatic-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "9.3. First-line systemic therapy for metastatic disease: patient selection",
+      "anchor": "#9-3-first-line-systemic-therapy-for-metastatic-disease-patient-selection"
+    },
+    {
+      "level": 3,
+      "text": "9.4. First-line therapy in patients fit for combination therapy",
+      "anchor": "#9-4-first-line-therapy-in-patients-fit-for-combination-therapy"
+    },
+    {
+      "level": 4,
+      "text": "9.4.1. Enfortumab vedotin plus pembrolizumab",
+      "anchor": "#9-4-1-enfortumab-vedotin-plus-pembrolizumab"
+    },
+    {
+      "level": 4,
+      "text": "9.4.2. Patients eligible for combination therapy but not eligible for enfortumab vedotin or enfortumab vedotin not available",
+      "anchor": "#9-4-2-patients-eligible-for-combination-therapy-but-not-eligible-for-enfortumab-vedotin-or-enfortumab-vedotin-not-available"
+    },
+    {
+      "level": 3,
+      "text": "9.5. First-line therapy in patients not eligible for combination therapy",
+      "anchor": "#9-5-first-line-therapy-in-patients-not-eligible-for-combination-therapy"
+    },
+    {
+      "level": 3,
+      "text": "9.6. Results of other trials integrating immunotherapy in the first-line setting without overall survival benefit",
+      "anchor": "#9-6-results-of-other-trials-integrating-immunotherapy-in-the-first-line-setting-without-overall-survival-benefit"
+    },
+    {
+      "level": 3,
+      "text": "9.7. Further-line systemic therapy for metastatic disease",
+      "anchor": "#9-7-further-line-systemic-therapy-for-metastatic-disease"
+    },
+    {
+      "level": 4,
+      "text": "9.7.1. Introduction",
+      "anchor": "#9-7-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "9.7.2. Chemotherapy",
+      "anchor": "#9-7-2-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "9.7.3. Immunotherapy for platinum-pretreated patients without previous immunotherapy",
+      "anchor": "#9-7-3-immunotherapy-for-platinum-pretreated-patients-without-previous-immunotherapy"
+    },
+    {
+      "level": 3,
+      "text": "9.8. Integration of other agents",
+      "anchor": "#9-8-integration-of-other-agents"
+    },
+    {
+      "level": 4,
+      "text": "9.8.1. Enfortumab vedotin monotherapy",
+      "anchor": "#9-8-1-enfortumab-vedotin-monotherapy"
+    },
+    {
+      "level": 4,
+      "text": "9.8.2. Sacituzumab govitecan",
+      "anchor": "#9-8-2-sacituzumab-govitecan"
+    },
+    {
+      "level": 4,
+      "text": "9.8.3. FGFR inhibition",
+      "anchor": "#9-8-3-fgfr-inhibition"
+    },
+    {
+      "level": 4,
+      "text": "9.8.4. HER2 targeted agents",
+      "anchor": "#9-8-4-her2-targeted-agents"
+    },
+    {
+      "level": 4,
+      "text": "9.8.6. Systemic treatment of metastatic disease with histology other than pure urothelial carcinoma",
+      "anchor": "#9-8-6-systemic-treatment-of-metastatic-disease-with-histology-other-than-pure-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "9.9. Treatment of patients with bone metastases",
+      "anchor": "#9-9-treatment-of-patients-with-bone-metastases"
+    },
+    {
+      "level": 3,
+      "text": "9.10. Treatment algorithm for metastatic urothelial cancer",
+      "anchor": "#9-10-treatment-algorithm-for-metastatic-urothelial-cancer"
+    },
+    {
+      "level": 3,
+      "text": "9.11. Summary of evidence and recommendations for metastatic disease",
+      "anchor": "#9-11-summary-of-evidence-and-recommendations-for-metastatic-disease"
+    },
+    {
+      "level": 2,
+      "text": "10. QUALITY OF LIFE AND PALLIATIVE CARE",
+      "anchor": "#10-quality-of-life-and-palliative-care"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Introduction",
+      "anchor": "#10-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Neoadjuvant therapy",
+      "anchor": "#10-2-neoadjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Radical cystectomy and urinary diversion",
+      "anchor": "#10-3-radical-cystectomy-and-urinary-diversion"
+    },
+    {
+      "level": 3,
+      "text": "10.4. Adjuvant therapy",
+      "anchor": "#10-4-adjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "10.5. Bladder-sparing trimodality therapy",
+      "anchor": "#10-5-bladder-sparing-trimodality-therapy"
+    },
+    {
+      "level": 3,
+      "text": "10.6. Noncurative or metastatic bladder cancer",
+      "anchor": "#10-6-noncurative-or-metastatic-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "10.7. Summary of evidence and recommendations for health-related quality of life",
+      "anchor": "#10-7-summary-of-evidence-and-recommendations-for-health-related-quality-of-life"
+    },
+    {
+      "level": 3,
+      "text": "10.8. Supportive care",
+      "anchor": "#10-8-supportive-care"
+    },
+    {
+      "level": 4,
+      "text": "10.8.1. Obstruction of the upper urinary tract",
+      "anchor": "#10-8-1-obstruction-of-the-upper-urinary-tract"
+    },
+    {
+      "level": 4,
+      "text": "10.8.2. Bleeding and pain",
+      "anchor": "#10-8-2-bleeding-and-pain"
+    },
+    {
+      "level": 2,
+      "text": "11. REFERENCES",
+      "anchor": "#11-references"
+    },
+    {
+      "level": 2,
+      "text": "12. CONFLICT OF INTEREST",
+      "anchor": "#12-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "13. CITATION INFORMATION",
+      "anchor": "#13-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "14. COPYRIGHT AND TERMS OF USE ",
+      "anchor": "#14-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#muscle-invasive-and-metastatic-bladder-cancer",
+      "title": "Muscle-invasive and Metastatic Bladder Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 6. Disease Management Introduction Methods Epidemiology And Aetiology Pathology And Classification Systems Diagnosis Disease Management Follow-up And Surveillance Recurrent Disease Metastatic Disease Quality Of Life And Palliative Care References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#6-disease-management",
+      "title": "6. DISEASE MANAGEMENT",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-multidisciplinary-team-for-patients-with-mibc",
+      "title": "6.1. Multidisciplinary team for patients with MIBC",
+      "level": 3,
+      "text": "All patients with MIBC should be discussed in a multidisciplinary team (MDT) before treatment initiation. For all suitable candidates, both bladder-preserving techniques and RC should be discussed to enable informed decision-making [82,83]. This approach aligns with international consensus and policy recommendations, including the Lancet Oncology Policy Statement [170]. An MDT facilitates the integration of pathology, TURBT findings, molecular information (when available) and imaging results. Joint decision-making is essential to define the optimal treatment strategy, including RC, bladder-sparing strategies or systemic therapy. MIBC patients should be informed about the benefits and the risks of all possible treatment strategies.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-1-recommendations-for-a-multidisciplinary-team",
+      "title": "6.1.1. Recommendations for a multidisciplinary team",
+      "level": 4,
+      "text": "Recommendations Strength rating Manage all patients who are candidates for trimodality therapy in a multidisciplinary team setting. The choice of treatment modality should be made through a shared decision-making process. Strong Fully inform the patient about the benefits and potential risks of all possible alternatives before radical cystectomy. The final decision should be based on a balanced discussion between the patient and the surgeon. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Manage all patients who are candidates for trimodality therapy in a multidisciplinary team setting. The choice of treatment modality should be made through a shared decision-making process.",
+              "Strong"
+            ],
+            [
+              "Fully inform the patient about the benefits and potential risks of all possible alternatives before radical cystectomy. The final decision should be based on a balanced discussion between the patient and the surgeon.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-2-health-status-assessment",
+      "title": "6.2. Health status assessment",
+      "level": 3,
+      "text": "Complications from RC may be directly related to pre-existing comorbidity as well as the surgical procedure, bowel anastomosis or urinary diversion. A significant body of literature has evaluated the usefulness of age as a prognostic factor for RC, although chronological age is less important than frailty [171-173]. Frailty is a syndrome of reduced ability to respond to stressors. Patients with frailty have a higher risk of mortality and negative side effects of cancer treatment [174]. Controversy remains regarding age, RC and the type of urinary diversion. Radical cystectomy is associated with the greatest risk reduction in disease-related and non-disease-related death in patients aged < 80 years [175]. A systematic review and meta-analysis including 58,504 older patients undergoing RC reported a 90-day mortality of 11% in patients aged ≥ 80 years, compared with 2% in those aged < 80 years. While the overall rate of major complications was not higher in older patients, they were significantly more likely to die as a result of these complications. Co-morbid status was predictive of post-RC mortality in both age groups, with a stronger association in the older patients [176]. Although some octogenarians successfully underwent a neobladder procedure, most patients were treated with an ileal conduit diversion. It is important to evaluate functioning and quality of life (QoL) of older patients using a standardised geriatric assessment, as well as carrying out a standard medical evaluation [177]. In a large multicentre study with patients undergoing RC for BC, sarcopenia has been shown to be an independent predictor for OS and CSS [178]. To predict CSM after RC in patients receiving NAC, sarcopenia should be assessed after completing chemotherapy [179]. Other risk factors for morbidity include prior abdominal surgery, extravesical disease and prior RT [180]. Female sex, an increased BMI and lower preoperative albumin levels are associated with a higher rate of parastomal hernias [181]. Low preoperative serum albumin is also associated with impaired wound healing, gastrointestinal (GI) complications and a decrease of recurrence-free and OS after RC [182,183]. Therefore, it could be used as a prognostic biomarker for patients undergoing RC. Metformin has been suggested as having possibly anticancer activity in BC by inhibiting tumour growth as well as being synergistic with cisplatin. A systematic review and meta-analysis of 4,006 patients suggests that metformin use was associated with lower cancer specific and overall mortality in patients with MIBC [184].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-3-evaluation-of-comorbidity-frailty-and-cognition",
+      "title": "6.3. Evaluation of comorbidity, frailty and cognition",
+      "level": 3,
+      "text": "Evaluation of comorbidity provides a better indicator of life expectancy in MIBC than patient age [185]. Evaluation of comorbidity helps to identify factors likely to interfere with, or have an impact on, treatment and the evolution and prognosis of MIBC [186]. The value of assessing overall health before recommending and proceeding with surgery was emphasised in a study that demonstrated an association between comorbidity and adverse pathological and survival outcomes following RC [187]. In a population-based competing risk analysis of > 11,260 patients from the Surveillance, Epidemiology, and End Results (SEER) registries, similar results were found for the impact of comorbidity on cancer-specific and other-cause mortality. Age carried the highest risk for other-cause mortality, but not for increased cancer-specific death, while the stage of locally advanced tumour was the strongest predictor for decreased CSS [188]. Stratifying older patients according to frailty using a multidisciplinary approach will help select patients most likely to benefit from radical surgery and to optimise treatment outcomes [189]. Many different screening tools are available to treat frailty, and local approaches can be used. Examples include the G8 screening tool and the Clinical Frailty Scale (See Table 6.1 and Figure 6.1 below). Cognitive impairment can be screened for using a tool such as the mini-COG ( https://mini-cog.com/ ), which consists of three-word recall and a clock-drawing test, and can be completed within five minutes. A score of ≤ 3/5 indicates the need to refer the patient for full cognitive assessment. Patients with any form of cognitive impairment (e.g. Alzheimer’s disease or vascular dementia) may need a capacity assessment of their ability to make an informed decision, which is an important factor in health status assessment. Cognitive impairment also predicts risk of delirium, which is important for patients undergoing surgery [190]. Table 6.1: G8 screening tool (adapted from [191])   Items Possible responses (score) A Has food intake declined over the past three months due to loss of appetite, digestive problems, chewing or swallowing difficulties? 0 = severe decrease in food intake 1 = moderate decrease in food intake 2 = no decrease in food intake B Weight loss during the last three months? 0 = weight loss > 3kg 1 = does not know 2 = weight loss between 1 and 3kg 3 = no weight loss C Mobility? 0 = bed or chair bound 1 = able to get out of bed/chair but does not go out 2 = goes out D Neuropsychological problems? 0 = severe dementia or depression 1 = mild dementia 2 = no psychological problems E BMI? (weight in kg)/(height in m 2 ) 0 = BMI < 19 1 = BMI 19 to < 21 2 = BMI 21 to < 23 3 = BMI ≥ 23 F Takes more than three prescription drugs per day? 0 = yes 1 = no G In comparison with other people of the same age, how does the patient consider their health status? 0.0 = not as good 0.5 = does not know 1.0 = as good 2.0 = better H Age 0 = > 85 1 = 80-85 2 = < 80 Total score 0-17 Figure 6.1: Clinical Frailty Scale © , Version 2.0* [192] *Permission to reproduce the Clinical Frailty Scale © has been granted by the copyright holder.",
+      "tables": [
+        {
+          "rows": [
+            [
+              " ",
+              "Items",
+              "Possible responses (score)"
+            ],
+            [
+              "A",
+              "Has food intake declined over the past three months due to loss of appetite, digestive problems, chewing or swallowing difficulties?",
+              "0 = severe decrease in food intake"
+            ],
+            [
+              "1 = moderate decrease in food intake"
+            ],
+            [
+              "2 = no decrease in food intake"
+            ],
+            [
+              "B",
+              "Weight loss during the last three months?",
+              "0 = weight loss > 3kg"
+            ],
+            [
+              "1 = does not know"
+            ],
+            [
+              "2 = weight loss between 1 and 3kg"
+            ],
+            [
+              "3 = no weight loss"
+            ],
+            [
+              "C",
+              "Mobility?",
+              "0 = bed or chair bound"
+            ],
+            [
+              "1 = able to get out of bed/chair but does not go out"
+            ],
+            [
+              "2 = goes out"
+            ],
+            [
+              "D",
+              "Neuropsychological problems?",
+              "0 = severe dementia or depression"
+            ],
+            [
+              "1 = mild dementia"
+            ],
+            [
+              "2 = no psychological problems"
+            ],
+            [
+              "E",
+              "BMI? (weight in kg)/(height in m2)",
+              "0 = BMI < 19"
+            ],
+            [
+              "1 = BMI 19 to < 21"
+            ],
+            [
+              "2 = BMI 21 to < 23"
+            ],
+            [
+              "3 = BMI ≥ 23"
+            ],
+            [
+              "F",
+              "Takes more than three prescription drugs per day?",
+              "0 = yes"
+            ],
+            [
+              "1 = no"
+            ],
+            [
+              "G",
+              "In comparison with other people of the same age, how does the patient consider their health status?",
+              "0.0 = not as good"
+            ],
+            [
+              "0.5 = does not know"
+            ],
+            [
+              "1.0 = as good"
+            ],
+            [
+              "2.0 = better"
+            ],
+            [
+              "H",
+              "Age",
+              "0 = > 85"
+            ],
+            [
+              "1 = 80-85"
+            ],
+            [
+              "2 = < 80"
+            ],
+            [
+              "Total score",
+              "0-17"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-4-comorbidity-scales-anaesthetic-risk-classification-and-geriatric-assessment",
+      "title": "6.4. Comorbidity scales, anaesthetic risk classification and geriatric assessment",
+      "level": 3,
+      "text": "A range of comorbidity scales has been developed [193], seven of which have been validated [194-200]. The Charlson Comorbidity Index (CCI) ranges from 0 to 30 according to the importance of comorbidity described at four levels and is calculated by healthcare practitioners based on a patient’s medical records. The score has been widely studied in patients with BC and found to be an independent prognostic factor for perioperative mortality [201,202], overall mortality [203] and CSM [175,204-206]. Only the age-adjusted version of the CCI was correlated with both cancer-specific and other-cause mortality [207]. The age-adjusted CCI (Table 6.2) is the most widely used comorbidity index in cancer for estimating long-term survival and is easily calculated [208]. Health assessment of oncology patients must be supplemented by measuring their activity level. A prospective study has shown that there is no correlation between morbidity and competitive activity level [209]. The Eastern Cooperative Oncology Group (ECOG) performance status (PS) scores and Karnofsky index have been validated to measure patient activity [210]. Performance status score is correlated with patient OS after RC [205] and palliative chemotherapy [211-213]. Patients who have screened positive for frailty or cognitive impairment benefit from an assessment by a geriatrician. This enables identification of geriatric syndromes and any scope for optimisation. The most complete protocol is the Comprehensive Geriatric Assessment (CGA) [214], which is useful in the care of cancer patients [215]. In BC, the CGA has been used to adapt gemcitabine chemotherapy in previously untreated older patients with advanced BC [216]. Table 6.2: Calculation of the Charlson Comorbidity Index Number of points Conditions 1 50-60 years Myocardial infarction Heart failure Peripheral vascular insufficiency Cerebrovascular disease Dementia Chronic lung disease Connective tissue disease Ulcer disease Mild liver disease Diabetes 2 61-70 years Hemiplegia Moderate to severe kidney disease Diabetes with organ damage Tumours of all origins 3 71-80 years Moderate to severe liver disease 4 81-90 years 5 > 90 years 6 Metastatic solid tumours AIDS Interpretation: Calculate Charlson Comorbidity Score or Index = i a. Add comorbidity score to age score b. Total denoted as ‘i’ in the Charlson Probability calculation (see below). i = sum of comorbidity score to age score Calculate Charlson Probability (ten-year mortality = Y) a. Calculate Y = 10 (i x 0.9) b. Calculate Z = 0.983 Y (where Z is the ten-year survival)",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Number of points",
+              "Conditions"
+            ],
+            [
+              "1",
+              "50-60 years"
+            ],
+            [
+              "Myocardial infarction"
+            ],
+            [
+              "Heart failure"
+            ],
+            [
+              "Peripheral vascular insufficiency"
+            ],
+            [
+              "Cerebrovascular disease"
+            ],
+            [
+              "Dementia"
+            ],
+            [
+              "Chronic lung disease"
+            ],
+            [
+              "Connective tissue disease"
+            ],
+            [
+              "Ulcer disease"
+            ],
+            [
+              "Mild liver disease"
+            ],
+            [
+              "Diabetes"
+            ],
+            [
+              "2",
+              "61-70 years"
+            ],
+            [
+              "Hemiplegia"
+            ],
+            [
+              "Moderate to severe kidney disease"
+            ],
+            [
+              "Diabetes with organ damage"
+            ],
+            [
+              "Tumours of all origins"
+            ],
+            [
+              "3",
+              "71-80 years"
+            ],
+            [
+              "Moderate to severe liver disease"
+            ],
+            [
+              "4",
+              "81-90 years"
+            ],
+            [
+              "5",
+              "> 90 years"
+            ],
+            [
+              "6",
+              "Metastatic solid tumours"
+            ],
+            [
+              "AIDS"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-4-1-summary-of-evidence-and-recommendations-for-comorbidity-scales",
+      "title": "6.4.1. Summary of evidence and recommendations for comorbidity scales",
+      "level": 4,
+      "text": "Summary of evidence LE Chronological age is of limited relevance. 3 It is important to screen for frailty and cognitive impairment and provide a CGA where optimisation is needed. 3 In patients aged > 80 years with MIBC, cystectomy is an option. 3 Recommendations Strength rating Base the decision on bladder-sparing treatment or radical cystectomy in older/frail patients with invasive bladder cancer on tumour stage and frailty. Strong Assess comorbidity by a validated score, such as the Charlson Comorbidity Index. The American Society of Anesthesiologists score should not be used in this setting (see Section 6.4). Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Chronological age is of limited relevance.",
+              "3"
+            ],
+            [
+              "It is important to screen for frailty and cognitive impairment and provide a CGA where optimisation is needed.",
+              "3"
+            ],
+            [
+              "In patients aged > 80 years with MIBC, cystectomy is an option.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Base the decision on bladder-sparing treatment or radical cystectomy in older/frail patients with invasive bladder cancer on tumour stage and frailty.",
+              "Strong"
+            ],
+            [
+              "Assess comorbidity by a validated score, such as the Charlson Comorbidity Index. The American Society of Anesthesiologists score should not be used in this setting (see Section 6.4).",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-5-perioperative-systemic-therapy",
+      "title": "6.5. Perioperative systemic therapy",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-5-1-neoadjuvant",
+      "title": "6.5.1. Neoadjuvant",
+      "level": 4,
+      "text": "6.5.1.a. Neoadjuvant chemotherapy The standard surgical treatment for patients with urothelial MIBC and MIBC with subtypes is RC. However, RC only provides five-year survival in about 50% of patients [217-219]. To improve survival in patients with non-metastatic disease, cisplatin-based NAC has been used since the 1980s [217-221]. There are theoretical advantages and disadvantages of administering chemotherapy before planned definitive surgery to patients with resectable muscle-invasive cN0M0 UC of the bladder: Chemotherapy is delivered at the earliest point in time, when the burden of micrometastatic disease is expected to be low. Potential reflection of in vivo chemosensitivity. Tolerability of chemotherapy and patient compliance are expected to be better pre-cystectomy. Patients may respond to NAC and have a favourable pathological response as determined mainly by achieving ypT0, ≤ ypT1, ypN0 and negative surgical margins. An analysis to identify the optimal definition of pathological response reported a significantly higher risk of recurrence in patients with ypTaN0 or ypT1N0 disease (with or without Tis) at RC and thus proposed that optimal pathological response after NAC be defined as attainment of ypT0N0/ypTisN0 at RC [222]. However, the definition of pathological responses remains unclear. Delayed cystectomy might compromise the outcome in patients not sensitive to chemotherapy [223-225]. A comparative survival analysis of patients treated with NAC and RC versus RC alone based on data from the United States (U.S.) National Cancer Database showed that organ-confined disease (≤ pT2) after NAC was associated with decreased risk of death (HR: 0.85; 95% CI: 0.79-0.91) compared to RC alone, whereas > pT2 was associated with increased risk of death (HR: 1.46; 95% CI: 1.34-1.60) [226]. However, there are no prospective trials indicating that delayed surgery due to NAC has a negative impact on survival. Neoadjuvant chemotherapy does not appear to affect the outcome of surgical morbidity. In a large multicentre retrospective analysis, NAC did not lead to an increased risk of postoperative complications after RC [227]. In the combined Nordic trials (n = 620), NAC did not have a major adverse effect on the percentage of performable cystectomies. The cystectomy frequency was 86% in the experimental arm and 87% in the control arm with 71% of patients receiving all three chemotherapy cycles [228]. Sex may have an impact on chemotherapeutic response and oncologic outcomes [229,230]. Female patients tend to have a better cancer-related response to NAC compared to male patients. Neoadjuvant chemotherapy should only be used in patients eligible for cisplatin-combination chemotherapy [231-238]. Several phase III RCTs addressed the potential survival benefit of NAC administration [231-235,239-241]. As these studies differed considerably for patient numbers, patient characteristics (e.g. clinical T-stages included) and the type of definitive treatment offered (cystectomy and/or RT), pooling of results was not possible. Three meta-analyses were undertaken to establish if NAC prolongs survival [236-238]. In a meta-analysis including patient data from 11 randomised trials (n = 3,005), a significant survival benefit was shown in favour of NAC [238]. Another meta-analysis included four additional RCTs and used the results from the Nordic I, Nordic II and BA06 30894 trials, including data from 427 new patients and information from 1,596 patients. The results of this analysis confirmed the previously published data and showed an 8% absolute improvement in survival at five years with a needed-to-treat number of 12.5 [242]. The analysis of a large phase III RCT [232] with a median follow-up of eight years confirmed previous results and provided additional findings: 16% reduction in mortality risk; improvement in ten-year survival from 30% to 36% with neoadjuvant Cisplatin, Methotrexate and Vinblastin (CMV); benefit regarding distant metastases; and the addition of neoadjuvant CMV provided no benefit for locoregional control and locoregional DFS, independent of the definitive treatment. Based on retrospective data alone, patients with secondary MIBC have a worse response to NAC compared to patients with primary MIBC [243]. A retrospective analysis of clinicopathologic outcomes comparing 245 patients with clinical T2-4a N0M0 primary MIBC and 43 patients with secondary MIBC treated with NAC and RC found that patients with secondary MIBC had lower pathologic response rates following NAC than those with primary MIBC (multivariable OR: 0.4; 95% CI: 0.18-0.84; p = 0.02). The results of the retrospective analysis also showed that MIBC patients progressing after NAC had worse CSS as compared to patients treated with cystectomy alone (p = 0.002). More-modern chemotherapeutic regimens such as GC have shown similar pT0/pT1 rates as methotrexate, vinblastine, adriamycin plus cisplatin in retrospective series and pooled data analyses [244-247]",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Neoadjuvant cisplatin-containing combination chemotherapy improves OS (8% at five years).",
+              "1a"
+            ],
+            [
+              "Neoadjuvant treatment may have a major impact on OS in patients who achieve ypT0N0 or ≤ ypT2N0.",
+              "2a"
+            ],
+            [
+              "Perioperative durvalumab plus neoadjuvant GC improves EFS and OS compared to neoadjuvant GC alone.",
+              "1b"
+            ],
+            [
+              "Perioperative EV + P improves EFS and OS compared to surgery followed by observation in patients with cisplatin-ineligible MIBC.",
+              "1b"
+            ],
+            [
+              "There are still no reliable tools available to select patients who have a higher probability of benefitting from NAC. In future, genomic markers in a personalised medicine setting might facilitate the selection of patients for NAC and differentiate responders from non-responders.",
+              "-"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer perioperative chemoimmunotherapy with cisplatin/gemcitabine and durvalumab to patients with muscle-invasive bladder cancer (MIBC) (T2-T4a, cN0-1 M0) who are eligible for cisplatin-based chemotherapy (glomerular filtration rate ≥ 40mL/min. allowed) and immunotherapy.",
+              "Strong"
+            ],
+            [
+              "Offer perioperative enfortumab vedotin plus pembrolizumab to patients with MIBC who are ineligible for cisplatin-based chemotherapy.",
+              "Strong"
+            ],
+            [
+              "Offer neoadjuvant cisplatin-based combination chemotherapy to patients with MIBC (T2-T4a, cN0-1 M0) who are eligible for cisplatin-based chemotherapy.",
+              "Strong"
+            ],
+            [
+              "Do not offer neoadjuvant carboplatin-containing combination chemotherapy to patients who are ineligible for cisplatin-based combination chemotherapy.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-5-2-adjuvant-therapy",
+      "title": "6.5.2. Adjuvant therapy",
+      "level": 4,
+      "text": "6.5.2.a. Adjuvant chemotherapy Adjuvant chemotherapy after RC for patients with pT3/4 and/or LN positive (pN+) disease without clinically detectable metastases (M0) is still under debate. The general benefits of adjuvant chemotherapy include: chemotherapy is administered after accurate pathological staging, therefore treatment in patients at low risk for micro-metastases is avoided; and no delay in definitive surgical treatment. The drawbacks of adjuvant chemotherapy are: assessment of in vivo chemosensitivity of the tumour is not possible and overtreatment is an unavoidable problem; and delay of or intolerability to chemotherapy, due to postoperative morbidity [275]. There is limited evidence from adequately conducted and accrued phase III RCTs in favour of the routine use of adjuvant chemotherapy [276-281]. An individual patient data meta-analysis [282] of survival data from six RCTs of adjuvant chemotherapy [283-285] included 491 patients. All included trials suffered from significant methodological flaws including small sample size (underpowered), incomplete accrual, use of inadequate statistical methods and design flaws [276]. The data were not convincing to support an unequivocal recommendation for the use of adjuvant chemotherapy. In 2014, this meta-analysis was updated with three additional studies [279-281] resulting in the inclusion of 945 patients from nine trials [278]. None of the trials had fully accrued and individual patient data were not used in the analysis. None of the included individual trials were significantly positive for OS in favour of adjuvant chemotherapy. The HR for OS was 0.77 (95% CI: 0.59-0.99; p = 0.049) and for DFS was 0.66 (95% CI: 0.45-0.91; p = 0.014). A systematic review and meta-analysis of individual patient data from RCTs in patients treated with adjuvant cisplatin-based chemotherapy for MIBC has more recently been conducted [286]. In an analysis of ten RCTs (n = 1,183), an OS benefit was demonstrated for cisplatin-based adjuvant chemotherapy (HR: 0.82; 95% CI: 0.70-0.96; p = 0.02). This translates into an absolute improvement in survival of 6% at five years, from 50% to 56%, and a 9% absolute benefit when adjusted for age, sex, pT stage, and pN category (HR: 0.77; 95% CI: 0.65-0.92; p = 0.004). A retrospective cohort analysis including 3,974 patients after cystectomy and LND showed an OS benefit in high-risk subgroups (extravesical extension and nodal involvement) (HR: 0.75; CI: 0.62-0.90) [287]. Although not fully accrued, a publication of the largest RCT (European Organisation for Research and Treatment of Cancer [EORTC] 30994) showed a significant improvement of PFS for immediate, compared with deferred, cisplatin-based chemotherapy (HR: 0.54; 95% CI: 0.4-0.73, p < 0.0001), but there was no significant OS benefit [288]. Furthermore, a large observational study including 5,653 patients with pathological T3-4 and/or pathological node-positive BC treated between 2003 and 2006. compared the effectiveness of adjuvant chemotherapy versus observation. Twenty-three percent of patients received adjuvant chemotherapy with a five-year OS of 37% for the adjuvant arm versus 29.1% (HR: 0.70; 95% CI: 0.64-0.76) in the observation group [289]. Another large retrospective analysis based on the U.S. National Cancer Database, including 15,397 patients with locally-advanced (pT3/4) or LN-positive disease, also demonstrated an OS benefit in patients with UC histology [290]. In patients with concomitant histological subtypes, however, no benefit was found. Patients should be informed about potential chemotherapy options before RC and the limited evidence for adjuvant chemotherapy. 6.5.2.b. Adjuvant immunotherapy Four phase III RCTs have evaluated CPI monotherapy with atezolizumab, nivolumab or pembrolizumab in patients with muscle-invasive UC (MIUC). CheckMate 274, a phase III, double-blind RCT of adjuvant nivolumab versus placebo for up to one year in 709 patients with MIUC with a high risk of recurrence (≥ ypT2 or ypN+ after NAC or pT3, pT4a, or pN+ without neoadjuvant therapy), demonstrated a significant improvement in median DFS (20.8 months [95% CI: 16.5-27.6] with nivolumab and 10.8 months [95% CI: 8.3-13.9] with placebo). The percentage of patients who were alive and disease-free at six months was 74.9% with nivolumab and 60.3% with placebo (HR for disease recurrence or death: 0.70; 98.22% CI: 0.55-0.90; p < 0.001). Among patients with a PD-L1 expression level of ≥ 1% (tumour cell [TC] score), the percentage of patients was 74.5% and 55.7%, respectively (HR: 0.55; 98.72% CI: 0.35-0.85; p < 0.001) [291]. In an analysis using both PD-L1 TC score and CPS, more patients had CPS ≥ 1 than TC ≥ 1% and patients with CPS ≥ 1 had improved DFS with nivolumab which may have contributed to the benefit seen with adjuvant nivolumab in patients with TC < 1% and CPS ≥ 1 [292]. There was no clinically meaningful deterioration in health-related QoL with adjuvant nivolumab compared to placebo [293",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Adjuvant cisplatin-based chemotherapy for high-risk patients (pT3, 4 and/or or N+) without neoadjuvant treatment can be associated with improvement in DFS and OS but trials are underpowered to adequately answer this question.",
+              "2a"
+            ],
+            [
+              "Two studies using immune CPI in the adjuvant setting for high-risk MIBC patients have demonstrated an improvement in DFS (CheckMate 274 with nivolumab, AMBASSADOR with pembrolizumab). In contrast, one study (IMvigor 010 with adjuvant atezolizumab) failed to show a DFS benefit.",
+              "1b"
+            ],
+            [
+              "In patients with MIBC, ctDNA-guided adjuvant therapy with atezolizumab improves DFS and OS.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer adjuvant cisplatin-based combination chemotherapy to patients with pT3/4 and/or pN+ disease if no neoadjuvant systemic therapy has been given.",
+              "Strong"
+            ],
+            [
+              "Offer adjuvant nivolumab to patients with high-risk muscle-invasive urothelial carcinoma (≥ ypT2N0 after NAC or pT3/4 and/or pN+) who are not eligible for, or who declined, adjuvant cisplatin-based chemotherapy. Of note: FDA approval irrespective of PD-L1 status, EMA approval only for PD-L1 tumour cell expression ≥ 1%.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-6-perioperative-radiotherapy",
+      "title": "6.6. Perioperative radiotherapy",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-6-1-preoperative-radiotherapy",
+      "title": "6.6.1. Preoperative radiotherapy",
+      "level": 4,
+      "text": "Historical data from six older RCTs assessing pre-operative RT before RC have shown improved pathologic downstaging but did not demonstrate a clear or consistent OS benefit. The largest trial, which used preoperative RT at a dose of 45 Gy, increased pathologic complete response (9% to 34%) but had major protocol deviations and/or non-adherence (> 50% excluded from final analysis) and selective chemotherapy use, limiting interpretation of survival outcomes [299]. Two small 20 Gy studies suggested only a modest survival signal in ≥ T3 disease [300,301], and other smaller trials confirmed downstaging without survival gain [302,303]. A meta-analysis of five RCTs showed a non-significant five-tear OS increase, which disappeared when the largest, non-adherent trial was excluded from the analysis [304]. A subsequent RCT (n = 100; mixed UC/SCC) found similar OS/DFS and complication rates for pre- versus postoperative RT [305]. Collectively, these older data do not support routine use of preoperative RT before RC. Interest has shifted to carefully selected adjuvant RT after cystectomy for high-risk pathology, with newer randomised data emerging for postoperative RT.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-6-2-postoperative-radiotherapy",
+      "title": "6.6.2. Postoperative radiotherapy",
+      "level": 4,
+      "text": "Locoregional recurrence after RC occurs in up to 30% of patients with pT3-4 disease, contributing to poor survival despite systemic therapy. Adjuvant RT aims to reduce this risk, particularly in patients with high-risk pathological features (pT3/pT4, pN+, positive margins or low nodal yield). Early evidence was limited, but several prospective and retrospective studies using modern radiation techniques have demonstrated improved locoregional control with acceptable toxicity [306]. In a phase II trial of patients with locally advanced disease and negative margins after RC (with one or more risk factors: ≥ pT3b, grade 3, or node-positive; n = 120; mixed UC/SCC), adjuvant sequential chemotherapy and RT significantly improved two-year locoregional relapse-free survival (96% vs. 69%) compared with chemotherapy alone, with low rates of late ≥ grade 3 GI toxicity (7%) [307]. An Egyptian randomised study (n = 122) using adjuvant IMRT (50Gy/25fx) reported three-year locoregional RFS 81% versus 71% (p = 0.046) favouring adjuvant RT, without significant OS or distant metastasis-free benefit and with similar late toxicity [308]. The BART phase III RCT (n = 153; urothelial MIBC with ≥ 1 high-risk feature after RC: pT3-4, pN1-3; nodal yield < 10; positive margin; or ≥ cT3 downstaged with NAC) compared observation with stoma-sparing image-guided IMRT (50.4Gy/28fx) prescribed to the cystectomy bed and pelvic nodes. Severe, acute and late toxicity were low and similar in both arms [309]. Adjuvant RT using modern conformal or IMRT techniques therefore appears safe and feasible, particularly for patients at high locoregional risk. Typical doses range 45-50.4Gy to the cystectomy bed and pelvic nodes, adapted to individual pathological findings [310]. Small studies have suggested that orthotopic neobladders can likely tolerate these doses with minimal morbidity [311]. Where adjuvant systemic therapy is indicated, sequential integration (‘sandwich’ approach) of RT between chemotherapy cycles may be considered. The role of concurrent radio-sensitising chemotherapy in the adjuvant setting remains investigational. With the advent of adjuvant IO (e.g. nivolumab in CheckMate 274 showing improved DFS), the optimal sequencing or combination of RT with immune CPIs is not yet defined, and no prospective data currently guide their integration. Participation in ongoing clinical trials evaluating RT-IO combinations is encouraged for eligible high-risk patients. In summary, adjuvant RT may be considered in selected high-risk patients (≥ pT3, pN+, positive margins) after RC to improve locoregional control, while routine use awaits confirmation of survival benefit and clarification of its role alongside modern systemic and immunotherapeutic strategies.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-6-3-summary-of-evidence-and-recommendations-for-pre--and-postoperative-radiotherapy",
+      "title": "6.6.3. Summary of evidence and recommendations for pre- and postoperative radiotherapy",
+      "level": 4,
+      "text": "Summary of evidence LE No contemporary data exists to support that preoperative RT for operable MIBC increases survival. 2a Preoperative RT for operable MIBC, using a dose of 45-50Gy in fractions of 1.8-2Gy, results in downstaging after four to six weeks. 2 Limited evidence supports the safe use of pre- and postoperative RT if a neobladder is planned or in situ . 3 Limited high-quality evidence supports the use of preoperative RT to decrease local recurrence of MIBC after RC. 3 Addition of adjuvant RT is associated with an improvement in local relapse-free survival following cystectomy for locally advanced BC (pT3b-4 or node-positive). 2a Recommendations Strength rating Do not offer preoperative radiotherapy (RT) for operable muscle-invasive bladder cancer since it will not improve survival. Strong Adjuvant RT to the cystectomy bed and local pelvic nodes can be offered following radical cystectomy (pT3b-4 or positive nodes or positive margins) to improve locoregional relapse free survival, but not overall survival. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "No contemporary data exists to support that preoperative RT for operable MIBC increases survival.",
+              "2a"
+            ],
+            [
+              "Preoperative RT for operable MIBC, using a dose of 45-50Gy in fractions of 1.8-2Gy, results in downstaging after four to six weeks.",
+              "2"
+            ],
+            [
+              "Limited evidence supports the safe use of pre- and postoperative RT if a neobladder is planned or in situ.",
+              "3"
+            ],
+            [
+              "Limited high-quality evidence supports the use of preoperative RT to decrease local recurrence of MIBC after RC.",
+              "3"
+            ],
+            [
+              "Addition of adjuvant RT is associated with an improvement in local relapse-free survival following cystectomy for locally advanced BC (pT3b-4 or node-positive).",
+              "2a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Do not offer preoperative radiotherapy (RT) for operable muscle-invasive bladder cancer since it will not improve survival.",
+              "Strong"
+            ],
+            [
+              "Adjuvant RT to the cystectomy bed and local pelvic nodes can be offered following radical cystectomy (pT3b-4 or positive nodes or positive margins) to improve locoregional relapse free survival, but not overall survival.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-7-radical-cystectomy-with-pelvic-lymph-node-dissection",
+      "title": "6.7. Radical cystectomy with pelvic lymph node dissection",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-7-1-removal-of-the-tumour-bearing-bladder",
+      "title": "6.7.1. Removal of the tumour-bearing bladder",
+      "level": 4,
+      "text": "6.7.1.a. Introduction For decades, the standard surgical treatment for patients with MIBC has been RC, pelvic LND, and urinary diversion, with or without NAC [312]. However, growing attention to QoL has led to an increasing use of bladder-sparing approaches, such as RT or trimodality therapy (TMT), in select patients. Performance status and life expectancy influence the choice of primary treatment and type of urinary diversion. 6.7.1.b. Radical cystectomy: timing A meta-analysis including 19 studies concluded that a delay of more than three months has a negative effect on OS (HR: 134; 95% CI: 1.18-1.53). The lack of standardisation regarding the definition of delays was highlighted, as this made it impossible to identify a clear cut-off time [313]. It was concluded that BC patients scheduled for RC should be treated without delays to maximise survival. 6.7.1.c. Radical cystectomy: indications Radical cystectomy is recommended in patients with T2-T4a, N0M0 disease, very high-risk NMIBC, bacillus Calmette-Guérin (BCG)-refractory, BCG-relapsing and BCG-unresponsive NMIBC (see the EAU Guidelines on NMIBC [2]), as well as extensive papillary disease that cannot be controlled with TURBT and intravesical chemotherapy/IO alone. Salvage cystectomy is indicated in non-responders to bladder-sparing therapy, that is, non-metastatic muscle invasive recurrence after TMT. Rarely, RC can be used as a palliative intervention, for example, for fistula formation, pain and recurrent uncontrollable haematuria (see Section 6.7.10). 6.7.1.d. Recommendation for radical cystectomy Recommendation Strength rating Offer radical cystectomy to patients with T2-T4a N0M0 disease. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Offer radical cystectomy to patients with T2-T4a N0M0 disease.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-7-2-radical-cystectomy-technique-and-extent",
+      "title": "6.7.2. Radical cystectomy: technique and extent",
+      "level": 4,
+      "text": "Various techniques have been suggested to improve functional outcomes in patients undergoing RC for BC. However, concerns remain about their potential impact on cancer control, and there is no consensus on which method is most effective in preserving these functions. 6.7.2.a. Radical cystectomy in male patients In male patients, standard RC involves the removal of the bladder, prostate, seminal vesicles, distal ureters, and regional LNs. 6.7.2.a.1. Concomitant prostate cancer A systematic review and meta-analysis of 13,140 patients showed an incidental prostate cancer rate of 24% in RC specimens [314]. Incidental prostate cancer was associated with higher age and lower five-year OS, likely due to the older age of affected patient. Pathological reporting of prostate cancer in the RC specimens should follow the recommendations outlined in the EAU-EANM-ESTRO-ESUR-ISUP-SIOG Prostate Cancer Guidelines [315]. 6.7.2.a.2. Sexual-preserving techniques Four main types of sexual-preserving RC techniques in male patients have been described: Prostate-sparing cystectomy: Preserves part or all of the prostate, including seminal vesicles, vas deferens and neurovascular bundles. Prostate capsule sparing cystectomy: Preserves the capsule or peripheral part of the prostate. Adenoma (including prostatic urethra) removed by transurethral resection of the prostate or en bloc with the bladder. Seminal vesicles, vas deferens and neurovascular bundles are preserved. Seminal vesicle sparing cystectomy: Preserves the seminal vesicles, vas deferens and neurovascular bundles. Nerve-sparing cystectomy: Only the neurovascular bundles are preserved. A systematic review on oncological and functional outcomes of sexual function-preserving cystectomy in males identified 12 studies (n = 1,098) [316]. Most of these studies employed an open surgical approach, with orthotopic neobladder. Median follow-up exceeded three years in nine of the studies, and five years in three studies. Most of the studies included patients who were potent preoperatively with organ-confined disease and no bladder neck and/or prostatic urethra involvement. Prostate cancer was ruled out in all sexual-preserving cystectomy techniques, except for the nerve-sparing approach [315]. Oncological outcomes did not differ between groups in any of the comparative studies that measured local recurrence, metastatic recurrence, DSS and OS. Incidental prostate cancer rates in prostate- or capsule-sparing techniques ranged from 0 to 15%, with no cases of ISUP grade ≥ 4 reported. Postoperative potency was significantly higher in patients who underwent any type of sexual-preserving cystectomy technique compared to conventional RC (p < 0.05), ranging from 80 to 90%, 50 to 100%, and 29 to 78% for prostate-, capsule- or nerve-sparing techniques, respectively. Urinary continence, defined as ‘no pads’, ranged from 88 to 100% (daytime continence) and from 31 to 96% (night-time continence) in the prostate-sparing cystectomy patients. No major differences were seen regarding continence rates between any of these approaches. The evidence base suggests that these procedures may yield better sexual outcomes than standard RC without compromising oncological outcomes. However, the overall quality of the evidence is moderate. Therefore, if a sexual-preserving cystectomy technique is offered, patients must be carefully selected, counselled and closely monitored. 6.7.2.a.3. Summary of evidence and recommendations for sexual-preserving techniques in males Summary of evidence LE The majority of eligible patients motivated to preserve their sexual function will benefit from sexual-preserving techniques. 2a None of the sexual-preserving techniques (prostate/capsule/seminal/nerve-sparing) have shown to be superior, and no particular technique can be recommended. 3 Recommendations Strength rating Only offer sexual-preserving techniques to eligible male patients who are highly motivated to preserve their sexual function. Strong Select patients based on: organ-confined disease; and absence of malignancy at the level of the prostate, prostatic urethra or bladder neck. Strong 6.7.2.b. Radical cystectomy in female patients Historically, standard RC in female patients includes removal of the bladder, the entire urethra, adjacent vagina, uterus, distal ureters and regional LNs. Pelvic floor disorders, along with sexual and voiding dysfunction in female patients are prevalent after RC [317]. As part of the preoperative evaluation, a gynaecological history should be obtained, and patients should be counselled about the potential negative impact of RC on sexual function and/or vaginal prolapse. A history of cervical cancer screening, abnormal vaginal bleeding, and a family history of breast and/or ovarian cancer should be documented, along with an assessment for pelvic organ prolapse. Postoperatively, screening for sexual and urinary function and prolapse is mandatory. 6.7.2.b.1. Concomitant gynaecological malignanci",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "The majority of eligible patients motivated to preserve their sexual function will benefit from sexual-preserving techniques.",
+              "2a"
+            ],
+            [
+              "None of the sexual-preserving techniques (prostate/capsule/seminal/nerve-sparing) have shown to be superior, and no particular technique can be recommended.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Only offer sexual-preserving techniques to eligible male patients who are highly motivated to preserve their sexual function.",
+              "Strong"
+            ],
+            [
+              "Select patients based on:organ-confined disease; andabsence of malignancy at the level of the prostate, prostatic urethra or bladder neck.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "The risk of gynaecological organ involvement in female patients undergoing RC without clinical evidence of non-organ-confined disease is low.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Perform sexual organ-preserving techniques in eligible female patients. Select patients based on absence of tumour in the area to be preserved to avoid positive soft tissue margins.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-7-3-lymphadenectomy-role-and-extent",
+      "title": "6.7.3. Lymphadenectomy: role and extent",
+      "level": 4,
+      "text": "A number of LN templates have been described. Standard LND in MIBC patients involves removal of nodal tissue cranially up to the common iliac bifurcation, with the ureter being the medial border, and including the internal iliac, obturator fossa and external iliac nodes. The lateral borders are the genitofemoral nerves, caudally the circumflex iliac vein, the lacunar ligament and the LN of Cloquet [328]. Limited LND includes the nodes from the true pelvis but excludes the deep obturator nodes. Extended LND includes the same boundaries as a standard LND, except for the cranial limit, which is the region of the aortic bifurcation [329]. A super-extended LND extends cranially to the level of the inferior mesenteric artery [330]. Controversies in the clinical importance of LND are related to the question of whether it should be considered a staging tool, a therapeutic procedure, or both. The two RCTs investigating the anatomic extend of the LND are the German LEA trial and the U.S./Canadian SWOG S1011 trial [331,332]. In the LEA trial, patients with MIBC (n = 346) or T1G3 disease (n = 55) were included. Patients underwent either a limited LND (n = 203) or extended LND (n = 198). Small survival differences between the groups were seen in favour of extended LND. However, extended LND failed to show a significant advantage (the trial was designed to show an absolute improvement of 15% in five-year RFS by extended LND) over limited LND for RFS, CSS and OS [331]. The results of the SWOG S1011 trial comparing standard versus extended LND showed no DFS (HR: 1.10; 95% CI: 0.86-1.40; p = 0.45) or OS (HR: 1.13; 95% CI: 0.88-1.45; p = 0.29) benefit for an extended LND in patients with clinically localised BC after a median six years follow-up [332]. Adverse events of grade 3 to 5 occurred in 157 patients (54%) in the extended LND group and in 132 (44%) in the standard LND group; death within 90 days after surgery occurred in 19 patients (7%) and seven patients (2%), respectively. Based on these studies, an extended LND is not associated with improved survival and increases the risk of morbidity. 6.7.3.a. Summary of evidence and recommendations for lymphadenectomy Summary of evidence LE An extended LND is not superior to a standard LND - it does not improve survival and increases the risk of morbidity. 1a Radical cystectomy includes removal of regional LNs. 3 Recommendations Strength rating Perform a lymph node dissection (LND) as an integral part of radical cystectomy. Strong Perform a standard LND, because an extended LND does not improve survival and increases the risk of morbidity. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "An extended LND is not superior to a standard LND - it does not improve survival and increases the risk of morbidity.",
+              "1a"
+            ],
+            [
+              "Radical cystectomy includes removal of regional LNs.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform a lymph node dissection (LND) as an integral part of radical cystectomy.",
+              "Strong"
+            ],
+            [
+              "Perform a standard LND, because an extended LND does not improve survival and increases the risk of morbidity.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-7-4-robotic-assisted-laparoscopic-cystectomy",
+      "title": "6.7.4. Robotic-assisted laparoscopic cystectomy",
+      "level": 4,
+      "text": "In 2023, a systematic review and meta-analysis compared open RC and RARC [333]. This study included eight RCTs, of which five studies performed extracorporeal urinary diversion (ECUD) and three studies intracorporeal urinary diversion (ICUD). The Early Recovery After Surgery (ERAS) pathway was adopted in one study with ECUD and in all three studies with ICUD [334-337]. The following outcomes were reported: Longer length of hospital stay for open RC (0.2 days), however, differences were seen depending on geographical location. In four U.S. and two United Kingdom trials, longer hospital stay for open RC was reported (0.6 and 1.5 days, respectively), whilst in two European-based trials, longer hospital stay for RARC was reported (0.9 days). Higher venous thromboembolic events (OR: 1.8) and transfusion rates (0.5 blood units) for open RC. Longer operative time for RARC (mean difference: 76 min.). No differences in 90-day complication rate and post-operative ileus rate. No differences in positive surgical margin rate. No differences in QoL, except for the domain of physical functioning favouring RARC. No differences in OS and RFS (median follow-up time: 36 months). An RCT reported on functional outcomes of RARC with ICUD padua neobladder. Quantitative analysis of pad wetness revealed that 56% and 54% of patients were totally dry after RARC or open RC, respectively. However, there was no significant difference in the probability of night-time continence recovery at one year (RARC 36% vs. open RC 58%; HR: 0.6; 95% CI: 0.3-1.0; log rank p = 0.054). A quantitative analysis of pad use and wetness revealed a better night-time continence status in the open RC cohort [338]. Long-term oncological outcomes were also reported in a large (n = 595) single-centre study with a median follow-up of over five years. The study reported comparable recurrence and survival data, including atypical recurrences (defined as one or a combination of the following: port-site metastasis or peritoneal carcinomatosis) [339]. An economic evaluation (healthcare and societal perspective) of a Dutch prospective multicentre comparative effectiveness study assessing open RC (n = 168) versus RARC (n = 180) showed that both mean healthcare costs and societal costs per patient were significantly higher after RARC, resulting in an increase in quality-adjusted life years of 0.02 [340]. Data on post-RC ureteroenteric stricture rates for both open RC and RARC remain inconclusive. Results are mainly reported by high-volume centres or derived from population-based studies with a large variety of endpoints and poor controlling of potential confounders, making comparison difficult [341-345]. Those managed by extracorporeal diversion (RARC-ECUD) tend to have more strictures compared to intracorporeal diversion (RARC-ICUD) [345]. This is explained by the need for more extensive dissection of the ureter in RARC-ECUD and increased tension, resulting in impaired blood supply [346,347]. 6.7.4.a. Summary of evidence and recommendations for robotic-assisted laparoscopic cystectomy Summary of evidence LE Robot-assisted radical cystectomy and open RC provide similar 90-day complication rates, surgical margin rates, median-term oncological outcomes and QoL outcome. 1a Operative time is longer for RARC compared to open RC (1 to 1.5 hours), but with less blood loss and possibly shorter length of hospital stay compared to open RC. 1a Surgeon experience and institutional volume are considered the key factors for outcome of both RARC and open RC, not the technique. 4 Recommendations Strength rating Inform the patient of the advantages and disadvantages of open radical cystectomy (RC) and robotic assisted radical cystectomy (RARC) to allow selection of the proper procedure. Strong Select centres for both RARC and open RC based on experience, rather than the technique used. Strong Do not delay RC for more than three months, as this increases the risk of progression and cancer-specific mortality, unless the patient receives neoadjuvant chemotherapy. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Robot-assisted radical cystectomy and open RC provide similar 90-day complication rates, surgical margin rates, median-term oncological outcomes and QoL outcome.",
+              "1a"
+            ],
+            [
+              "Operative time is longer for RARC compared to open RC (1 to 1.5 hours), but with less blood loss and possibly shorter length of hospital stay compared to open RC.",
+              "1a"
+            ],
+            [
+              "Surgeon experience and institutional volume are considered the key factors for outcome of both RARC and open RC, not the technique.",
+              "4"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Inform the patient of the advantages and disadvantages of open radical cystectomy (RC) and robotic assisted radical cystectomy (RARC) to allow selection of the proper procedure.",
+              "Strong"
+            ],
+            [
+              "Select centres for both RARC and open RC based on experience, rather than the technique used.",
+              "Strong"
+            ],
+            [
+              "Do not delay RC for more than three months, as this increases the risk of progression and cancer-specific mortality, unless the patient receives neoadjuvant chemotherapy.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-7-5-urinary-diversion-after-radical-cystectomy",
+      "title": "6.7.5. Urinary diversion after radical cystectomy",
+      "level": 4,
+      "text": "Various types of segments of the intestinal tract can be used to reconstruct the urinary tract, including the ileum, colon and appendix, with ileum used in most cases. Several studies have compared advantages and disadvantages in terms of QoL, sexual function, urinary continence and body image between different urinary diversions [348], but further research evaluating the impact of tumour stage, functional and socioeconomic status are needed. 6.7.5.a. Different types of urinary diversion For the choice of urinary diversion, comorbidity, cardiac, pulmonary and cognitive function are important factors that should be considered, along with the patient’s social support and preference (see Section 6.7.5.2). Age > 80 years is often considered to be the threshold after which neobladder reconstruction is not recommended. However, there is no exact age for a strict contraindication [349]. Randomised controlled trials comparing conduit diversion with neobladder or continent cutaneous diversion have not been performed. 6.7.5.a.1. Ureterocutaneostomy Ureteral diversion to the abdominal wall is the simplest form of cutaneous diversion. Operating time, complication rate, blood loss, transfusion rate, stay at intensive care, and length of hospital stay are lower in patients treated with ureterocutaneostomy as compared to ileal conduit [350]. In frail patients and/or in those with a solitary kidney who need a supravesical diversion, ureterocutaneostomy is the preferred procedure. If patients have both kidneys and need a ureterocutaneostomy, either one ureter, to which the other shorter one is attached end-to-side, is connected to the skin (trans-uretero-cutaneostomy) or both ureters can be directly anastomosed to the abdominal wall to create a stoma. Due to the smaller diameter of the ureters, stoma stenosis and ascending UTIs have been observed more frequently for this technique when compared to using small or large bowel to create an intestinal stoma [351]. 6.7.5.a.2. Ileal conduit The ileal conduit is an established option with well-known/predictable results. Early complications (30-day cut-off, used in most publications) include UTIs, pyelonephritis, ureteroileal leakage and stenosis, which occur in 48% of patients [352]. 6.7.5.a.3. Orthotopic neobladder According to Dutch, German and Spanish BC registry data, an orthotopic bladder substitution to the urethra is used in approximately 10-20% of both male and female patients. Emptying of the reservoir anastomosed to the urethra requires abdominal straining and sphincter relaxation. The terminal ileum is the GI segment most often used for orthotopic bladder substitution. Early and late morbidity in up to 22% of patients is reported [353]. Various forms of upper urinary tract reflux protection, including a simple isoperistaltic tunnel, ileal intussusception, tapered ileal prolongation implanted subserosally, and direct (sub)mucosal or subserosal ureteral implantation have been described [354,355]. According to the long-term results, the upper urinary tract is protected sufficiently by either method [353]. A study comparing cancer control and patterns of disease recurrence in patients with neobladder and ileal conduit showed no difference in CSS between the two groups when adjusting for pathological stage [356]. Urethral recurrence in neobladder patients seems rare (0.8-13.7% [pooled estimate of 4.6% in both male and female patients, also considering the significantly higher recurrence rates in male patients]) [357]. These results indicate that neobladder in male and female patients does not compromise the oncological outcome of cystectomy. 6.7.5.a.4. Continent cutaneous urinary diversion Nowadays, continent cutaneous urinary diversion (a low-pressure detubularised ileal reservoir for self-catheterisation) and ureterorectosigmoidostomy are rarely used because of high complication rates, including stomal stenosis and incontinence with continent cutaneous diversion, and upper urinary tract infections and stone formation with ureterorectosigmoidostomy [358]. 6.7.5.b. Patient selection Ensuring that patients make a well-informed decision about the type of urinary diversion is associated with less decision regret postoperatively, independent of the method selected [359]. Therefore, all applicable forms of urinary diversion should be discussed, taking into account patient preference, comorbidities, age and tumour characteristics. Diagnosis of an invasive urethral tumour prior to cystectomy leads to urethrectomy, which is a contraindication for a neobladder reconstruction. Non-muscle-invasive BC in prostatic urethra or bladder neck biopsies does not necessarily preclude orthotopic neobladder substitution, provided that patients undergo regular follow-up cystoscopy and urinary cytology [360]. In females undergoing RC, the rate of concomitant urethral malignancy has been reported to range from 12 to 16% [361]. Localisation of the primary tumour at the bladder neck correlated strongl",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Ensuring that patients are well informed about the various urinary diversion options prior to making a decision may help prevent or reduce decision regret, independent of the method of diversion selected.",
+              "3"
+            ],
+            [
+              "The type of urinary diversion does not affect oncological outcome.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Do not offer an orthotopic bladder substitute diversion to patients who have an invasive tumour in the urethra or at the level of urethral dissection.",
+              "Strong"
+            ],
+            [
+              "Do not offer preoperative bowel preparation.",
+              "Strong"
+            ],
+            [
+              "Employ ‘fast track’ measurements to reduce the time to bowel recovery.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-7-6-morbidity-and-mortality",
+      "title": "6.7.6. Morbidity and mortality",
+      "level": 4,
+      "text": "In four retrospective studies and one population-based cohort study, the perioperative mortality after RC was reported as 2.1-3.2% at 30 days and 3.4-8.0% at 90 days [373,374]. Morbidity rates differ strongly according to the reporting system used. Using the Clavien-Dindo Classification system, complication rates ranged from 50 to 88% (I-IV) and severe complications from 30 to 42% (≥ III) [375-378]. In large national databases and institutional series, readmission rates are approximately 25% within 30 days of discharge [379]. An analysis of 4,638 RC patients in the Swedish national database showed that centralisation of RC services from 24 centres to ten resulted in significant reductions in 90-day mortality and reoperation rates [380]. In addition, the study revealed that the average age and comorbidity of patients being offered RC increased following centralisation. Late morbidity was usually linked to the type of urinary diversion (see also above). Early morbidity associated with RC for NMIBC (at high risk for disease progression) is similar and no less than that associated with muscle-invasive tumours [381,382]. In general, lower morbidity and (perioperative) mortality have been observed by surgeons and in hospitals with a higher case load and therefore more experience [383-386]. A retrospective analysis of 1,303 patients managed in seven (non-academic) Dutch hospitals revealed variation in treatment preferences between them. However, despite this, no significant difference was observed in OS [387]. Table 6.3: Management of neobladder morbidity (30-64%) [388] CLAVIEN System Morbidity Management Grade I Any deviation from the normal postoperative course without the need for pharmacological treatment or surgical, endoscopic and radiological interventions.   Allowed therapeutic regimens are: drugs such as antiemetics, antipyretics, analgesics, diuretics and electrolytes, and physiotherapy.   This grade also includes wound infections opened at the bedside. Immediate complications: Postoperative ileus Nasogastric intubation (usually removed at day one) Chewing gum Avoid fluid excess and hypovolemia (provoke splanchnic hypoperfusion) Postoperative nausea and vomiting Antiemetic agent (decrease opioids) Nasogastric intubation Urinary infection Antibiotics, no ureteral catheter removal Check the three drainages (ureters and neobladder) Ureteral catheter obstruction Inject 5cc saline in the ureteral catheter to resolve the obstruction Increase volume infusion to increase diuresis Intra-abdominal urine leakage (anastomosis leakage) Check and reposition drainages, if required Anaemia well tolerated Martial treatment (give iron supplement) Late complications: Non-compressive lymphocele Watchful waiting Mucus cork Catheterise and rinse the bladder Incontinence Urine analysis (infection) Echography (post-void residual) Physiotherapy Retention Drainage and self-catheterisation education Ureteral reflux No treatment if asymptomatic Grade II Requiring pharmacological treatment with drugs other than those allowed for grade I complications. Blood transfusions and total parenteral nutrition are also included. Anaemia badly tolerated or if myocardial cardiopathy history Transfusion 1 Pulmonary embolism Heparinotherapy 2 Pyelonephritis Antibiotics and check kidney drainage (nephrostomy if necessary) Confusion or neurological disorder Neuroleptics and avoid opioids Grade III Requiring surgical, endoscopic or radiological intervention Ureteral catheter accidentally dislodged Reposition the ureteral catheter Anastomosis stenosis (7%) Renal drainage (ureteral catheter or nephrostomy) III-a Intervention not under general anaesthesia Compressive lymphocele Transcutaneous drainage III-b Intervention under general anaesthesia Ileal anastomosis leakage Ileostomy, as soon as possible Evisceration Surgery in emergency Compressive lymphocele Surgery (marsupialisation) Grade IV Life-threatening complication (including central nervous system complications: brain haemorrhage, ischaemic stroke, subarachnoid bleeding, but excluding transient ischaemic attacks) requiring intensive care/intensive care unit management. Neobladder rupture Nephrostomy and indwelling catheter/surgery for draining the neobladder Severe sepsis Antibiotics and check all the urinary drainages and CT scan in emergency IV-a Single organ dysfunction Non-obstructive renal failure Bicarbonate/aetiology treatment (including dialysis) IV-b Multi-organ dysfunction Obstructive pyelonephritis and septicaemia Treatment at intensive care unit, including urinary drainage and antibiotics Grade V Death of a patient Suffix ‘d’ If the patient suffers from a complication at the time of discharge, the suffix ‘d’ (for ‘disability’) is added to the respective grade of complication. This label indicates the need for a follow-up to fully evaluate the complication. 1 A systematic review showed that perioperative blood transfusion in patients who undergo RC correlates with increased overall m",
+      "tables": [
+        {
+          "rows": [
+            [
+              "CLAVIEN System",
+              "Morbidity",
+              "Management"
+            ],
+            [
+              "Grade I",
+              "Any deviation from the normal postoperative course without the need for pharmacological treatment or surgical, endoscopic and radiological interventions. Allowed therapeutic regimens are: drugs such as antiemetics, antipyretics, analgesics, diuretics and electrolytes, and physiotherapy. This grade also includes wound infections opened at the bedside.",
+              "Immediate complications:"
+            ],
+            [
+              "Postoperative ileus",
+              "Nasogastric intubation (usually removed at day one)Chewing gumAvoid fluid excess and hypovolemia (provoke splanchnic hypoperfusion)"
+            ],
+            [
+              "Postoperative nausea and vomiting",
+              "Antiemetic agent (decrease opioids)Nasogastric intubation"
+            ],
+            [
+              "Urinary infection",
+              "Antibiotics, no ureteral catheter removalCheck the three drainages (ureters and neobladder)"
+            ],
+            [
+              "Ureteral catheter obstruction",
+              "Inject 5cc saline in the ureteral catheter to resolve the obstructionIncrease volume infusion to increase diuresis"
+            ],
+            [
+              "Intra-abdominal urine leakage (anastomosis leakage)",
+              "Check and reposition drainages, if required"
+            ],
+            [
+              "Anaemia well tolerated",
+              "Martial treatment (give iron supplement)"
+            ],
+            [
+              "Late complications:"
+            ],
+            [
+              "Non-compressive lymphocele",
+              "Watchful waiting"
+            ],
+            [
+              "Mucus cork",
+              "Catheterise and rinse the bladder"
+            ],
+            [
+              "Incontinence",
+              "Urine analysis (infection)Echography (post-void residual)Physiotherapy"
+            ],
+            [
+              "Retention",
+              "Drainage and self-catheterisation education"
+            ],
+            [
+              "Ureteral reflux",
+              "No treatment if asymptomatic"
+            ],
+            [
+              "Grade II",
+              "Requiring pharmacological treatment with drugs other than those allowed for grade I complications. Blood transfusions and total parenteral nutrition are also included.",
+              "Anaemia badlytolerated or if myocardial cardiopathy history",
+              "Transfusion1"
+            ],
+            [
+              "Pulmonary embolism",
+              "Heparinotherapy2"
+            ],
+            [
+              "Pyelonephritis",
+              "Antibiotics and check kidney drainage (nephrostomy if necessary)"
+            ],
+            [
+              "Confusion or neurological disorder",
+              "Neuroleptics and avoid opioids"
+            ],
+            [
+              "Grade III",
+              "Requiring surgical, endoscopic or radiological intervention",
+              "Ureteral catheter accidentally dislodged",
+              "Reposition the ureteral catheter"
+            ],
+            [
+              "Anastomosis stenosis (7%)",
+              "Renal drainage (ureteral catheter or nephrostomy)"
+            ],
+            [
+              "III-a",
+              "Intervention not under general anaesthesia",
+              "Compressive lymphocele",
+              "Transcutaneous drainage"
+            ],
+            [
+              "III-b",
+              "Intervention under general anaesthesia",
+              "Ileal anastomosis leakage",
+              "Ileostomy, as soon as possible"
+            ],
+            [
+              "Evisceration",
+              "Surgery in emergency"
+            ],
+            [
+              "Compressive lymphocele",
+              "Surgery (marsupialisation)"
+            ],
+            [
+              "Grade IV",
+              "Life-threatening complication (including central nervous system complications: brain haemorrhage, ischaemic stroke, subarachnoid bleeding, but excluding transient ischaemic attacks) requiring intensive care/intensive care unit management.",
+              "Neobladder rupture",
+              "Nephrostomy and indwelling catheter/surgery for draining the neobladder"
+            ],
+            [
+              "Severe sepsis",
+              "Antibiotics and check all the urinary drainages and CT scan in emergency"
+            ],
+            [
+              "IV-a",
+              "Single organ dysfunction",
+              "Non-obstructive renal failure",
+              "Bicarbonate/aetiology treatment (including dialysis)"
+            ],
+            [
+              "IV-b",
+              "Multi-organ dysfunction",
+              "Obstructive pyelonephritis and septicaemia",
+              "Treatment at intensive care unit, including urinary drainage and antibiotics"
+            ],
+            [
+              "Grade V",
+              "Death of a patient"
+            ],
+            [
+              "Suffix ‘d’",
+              "If the patient suffers from a complication at the time of discharge, the suffix ‘d’ (for ‘disability’) is added to the respective grade of complication. This label indicates the need for a follow-up to fully evaluate the complication."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-7-7-survival",
+      "title": "6.7.7. Survival",
+      "level": 4,
+      "text": "Of all cancers, BC ranks 13 th in terms of mortality, with rates decreasing particularly in the most developed countries [390]. Disease-free survival and OS in a large population-based study were 35% and 58% at ten years, respectively [391]. However, the five-year OS in node-positive patients who underwent cystectomy was only 18% [392].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-7-8-impact-of-hospital-and-surgeon-volume-on-treatment-outcomes",
+      "title": "6.7.8. Impact of hospital and surgeon volume on treatment outcomes",
+      "level": 4,
+      "text": "In a systematic review including 40 retrospective studies with 56,000 patients, the impact of hospital and/or surgeon volume and perioperative outcomes of RC was assessed [393]. A higher hospital volume was associated with lower in-hospital, 30-day and 90-day mortality. In addition, higher volume hospitals were more likely to have lower positive surgical margins, higher number of LNDs and neobladders and lower complication rates. For surgeon volume, less evidence was available. The study suggested performing at least ten RCs per centre annually and preferably more than 20. A nationwide analysis of the Dutch Cancer Registry including nearly 9,500 patients between 2008 and 2018 reported decreased 30- and 90-day mortality rates for annual hospital volumes of > 30 RCs. Moreover, this study showed no true plateau curve for 30- and 90-day mortality beyond 30 RCs, supporting the ‘more is better’ principle [394,395]. An analysis of 4,638 RC patients in the Swedish national database showed that centralisation of RC services from 24 centres to ten resulted in significant reductions in 90-day mortality and reoperation rates. In addition, the study revealed that the average age and comorbidity of patients being offered RC increased following centralisation [380]. A German nationwide analysis found that hospitals performing over 50 RCs per year had lower in-patient mortality, shorter length of hospital stay, and fewer complications in comparison to the centres with 20-49 RCs per year [396].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-7-9-summary-of-evidence-and-recommendations-for-quality-indicators-in-radical-cystectomy",
+      "title": "6.7.9. Summary of evidence and recommendations for quality indicators in radical cystectomy",
+      "level": 4,
+      "text": "Summary of evidence LE Higher RC hospital volume is associated with lower post-operative mortality rates and higher quality of care. 3 The use of extended VTE prophylaxis significantly decreases the incidence of VTE after RC. 3 Surgical complications of cystectomy and urinary diversion should be reported using a uniform grading system. Currently, the best-adapted grading system for cystectomy is the Clavien Dindo grading system. 2b Recommendations Strength rating Perform at least 20 radical cystectomies (RCs) per hospital/per year. Strong Offer pharmacological venous thromboembolism prophylaxis, such as low-molecular-weight heparin, to RC patients, starting the first day post-surgery for a period of at least four weeks. Strong Figure 6.2: Flow chart for the management of T2-T4a N0M0 urothelial bladder cancer CT = computed tomography; MRI = magnetic resonance imaging; TMT = trimodality therapy; TURBT = transurethral resection of bladder tumour; UUT = upper urinary tract.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Higher RC hospital volume is associated with lower post-operative mortality rates and higher quality of care.",
+              "3"
+            ],
+            [
+              "The use of extended VTE prophylaxis significantly decreases the incidence of VTE after RC.",
+              "3"
+            ],
+            [
+              "Surgical complications of cystectomy and urinary diversion should be reported using a uniform grading system. Currently, the best-adapted grading system for cystectomy is the Clavien Dindo grading system.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform at least 20 radical cystectomies (RCs) per hospital/per year.",
+              "Strong"
+            ],
+            [
+              "Offer pharmacological venous thromboembolism prophylaxis, such as low-molecular-weight heparin, to RC patients, starting the first day post-surgery for a period of at least four weeks.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-7-10-palliative-cystectomy",
+      "title": "6.7.10. Palliative cystectomy",
+      "level": 4,
+      "text": "Locally advanced tumours may be accompanied by debilitating symptoms, including bleeding, pain, dysuria and urinary obstruction. These patients are candidates for palliative treatments, such as palliative RT [397]. If control of the symptoms is not possible by less invasive methods, patients may be offered a palliative cystectomy with urinary diversion or urinary diversion only. Palliative cystectomy carries the greatest morbidity, particularly in patients with a poor PS. In a series of 74 patients who underwent palliative cystectomy, severe complications (Clavien-Dindo grade ≥ 3) occurred in 30%. The 30-day mortality rate was 9% and, at eight months follow-up, 70% had died [398]. 6.7.10.a. Recommendations for palliative cystectomy Recommendations Strength rating Offer cystectomy as a palliative treatment to patients with locally advanced tumours. Weak Offer palliative cystectomy to patients with symptoms, if control is not possible by less invasive methods. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer cystectomy as a palliative treatment to patients with locally advanced tumours.",
+              "Weak"
+            ],
+            [
+              "Offer palliative cystectomy to patients with symptoms, if control is not possible by less invasive methods.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-8-trimodality-therapy",
+      "title": "6.8. Trimodality therapy",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-8-1-trimodality-bladder-preserving-treatment",
+      "title": "6.8.1. Trimodality bladder-preserving treatment",
+      "level": 4,
+      "text": "6.8.1.a. Patient selection and treatment paradigm Trimodality therapy combines TURBT, followed by concurrent chemo-RT. Trimodality therapy aims to achieve durable local control without compromising oncological outcome while also preserving bladder function and QoL. The addition of radio-sensitising chemotherapy or other radiosensitisers (as described below) is aimed at the potentiation of RT. Trimodality therapy is best suited for patients with solitary, unifocal cT2-T3a tumours, absence of extensive or multifocal CIS, no or unilateral hydronephrosis, and good baseline bladder function. Patient selection is critical in achieving good outcomes [399-401]. In contemporary series, approximately 25-30% of cystectomy candidates may be appropriate for bladder preservation [402]. Trimodality therapy should also be considered for patients medically unfit or unwilling to undergo RC. During TURBT, as much visible tumour as possible should be resected; a repeat transurethral resection may reveal residual disease in > 50% of cases [403]. Pelvic node dissection before TMT is not routinely performed [82,83]. In higher-risk cases (e.g. more advanced stage T3-T4 or node positive disease), neoadjuvant or adjuvant platinum-based chemotherapy may be considered (for details, see Section 6.5), although robust evidence supporting its integration with chemoradiation is limited [404]. 6.8.1.b. Radiation therapy A collaborative review has described the principles of TMT [399]. For radiation, the two most commonly used schedules have been the historically employed RTOG split-course regimen with mid-treatment cystoscopy, [405] and the continuous single-phase schedule, which is now considered standard [406]. A conventional radiation schedule includes EBRT to the bladder +/- limited pelvic LNs with an initial dose of 40-45Gy, with a boost to 60-66Gy to the entire bladder or tumour bed. Elective pelvic nodal irradiation (when node negative) remains optional and should take into account patient comorbidities and the risks of toxicity to adjacent critical structures. Retrospective data suggest that pelvic nodal radiation may be associated with better survival compared with bladder radiation alone after adjusted analysis [407]. For node-positive disease, consider boosting grossly involved nodes within normal tissue dose constraints. An accepted radiation dosing alternative to conventional fractionation when treating the bladder-only fields is moderately hypofractionated EBRT to 55Gy in 20 fractions. In a meta-analysis of individual patient data from the BC2001 and BCON studies, this was shown to be non-inferior to 64Gy in 32 fractions in terms of invasive locoregional control, OS and late toxicity [408,409]. 6.8.1.c. Concurrent radiosensitising chemotherapy Various concurrent chemotherapy regimens have been used, but the most evidence is available for cisplatin [405,410], mitomycin-C plus 5-FU [406] or gemcitabine [411,412]. The BC2001 trial with ten-year follow-up showed that combined RT with mitomycin-C and fluorouracil significantly improved locoregional control and five-year cystectomy rates and non-significantly improved DFS, OS and DSS compared to RT alone [413]. Alternative regimens that have been evaluated include: capecitabine [414], paclitaxel [415] and hypoxia modification with carbogen/nicotinamide [82,83,414]. In a phase II RCT, twice-daily radiation plus 5-FU/cisplatin was compared to once-daily radiation plus gemcitabine [412]. Both arms were found to result in a > 75% distant metastases-free rates at three years (78% and 84%, respectively). Therefore, good chemotherapy options are available for non-cisplatin candidates, such as 5-FU/mitomycin-C or low-dose gemcitabine. The integration of IO with TMT is under investigation. Future studies may clarify sequencing of IO with bladder-preserving chemoradiation. Outside of trials, combined use remains investigational. 6.8.1.d. Outcomes Across modern TMT series, five-year CSS and OS rates vary between 50 and 84% and 36 and 74%, respectively, with salvage cystectomy rates of 10-30% [399,400,402,406,416,417]. No successfully completed RCTs are available comparing the outcomes of TMT with RC. Many of the reported TMT series have differing baseline characteristics when compared to the larger surgical series. For example, in surgical series, typical median ages are in the mid-to-late 60s, as compared to mid-70s for RT series [406]. As there are no completed RCTs, RC and TMT have been compared in systematic reviews, meta-analyses, large population-based studies and multi-institutional propensity score matched and weighted analyses [391,402,418]. A systematic review including 57 studies (n = 30,293) assessed the long-term survival of patients treated with TMT and RC [391]. Ten-year OS was 30.9% and 35.1% for TMT and RC (p = 0.32), respectively, with a mean DSS of 50.9% for TMT and 57.8% for RC (p = 0.26). For T2 disease, ten-year DSS was 69% and 78.9% for TMT and RC, respectively, and for ",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Long-term survival rates of bladder-preserving TMT are comparable to those of early cystectomy. The contraindications for TMT or surgery have to be considered.",
+              "2"
+            ],
+            [
+              "Combined chemotherapy and RT is more effective than RT alone in bladder sparing treatment.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer radical cystectomy or bladder-preserving trimodality treatment (TMT) as primary curative option for eligible patients since they are more effective than radiotherapy alone.",
+              "Strong"
+            ],
+            [
+              "Advise patients who are candidates for TMT that bladder monitoring post-treatment is essential.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-9-external-beam-radiotherapy",
+      "title": "6.9. External beam radiotherapy",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-9-1-definitive-external-beam-radiotherapy",
+      "title": "6.9.1. Definitive external beam radiotherapy",
+      "level": 4,
+      "text": "Earlier studies suggested inferior OS with EBRT compared to RC [430], though more recent propensity-matched analyses have not confirmed a significant difference when accounting for patient and tumour factors [431]. A large U.S. National Cancer Database study (cT2-4N0-3M0) demonstrated superior two-year OS with chemoradiation (56%) versus EBRT alone (42%) [432], underscoring the benefit of concurrent radiosensitisation. Similar benefit was also demonstrated in the BC2001 RCT discussed above [413]. However, EBRT alone remains appropriate for patients unfit for cystectomy or concurrent radiosensitisation. Prognostic factors for outcome have included age, T-stage, response to EBRT, tumour size, hydronephrosis, presence of CIS and completeness of the initial TURBT [433]. 6.9.1.a. Radiation technique and dose With advances in planning, image guidance and delivery, the efficacy and safety of EBRT for MIBC have improved substantially. Modern image-guided and intensity-modulated RT (IGRT/IMRT) allows accurate target coverage while sparing bowel and other normal tissues. Typical curative EBRT doses are 64-66Gy in 32-33 fractions (conventional fractionation) [408,434] or 55Gy in 20 fractions (moderate hypofractionation), the latter of which showed non-inferior in terms of locoregional control, OS and late toxicity in pooled individual-patient analysis from BC2001 and BCON trials [408,409]. In a phase II study, 55 patients (median age 86) with BC, unfit for cystectomy or even daily RT, were treated with six-weekly doses of 6Gy [435]. Forty-eight patients completed EBRT with acceptable toxicity and 17% showed local progression after two years demonstrating good local control with this more ultra-hypofractionated schedule. The RAIDER Phase II trial evaluated dose-escalated, image-guided adaptive radiotherapy (DART) to the tumour subvolume (60Gy in 20 fractions or 70Gy in 32 fraction) compared with standard whole-bladder RT (55Gy in 20 fractions or 64Gy in 32 fractions). The adaptive approach was feasible across multiple centres, achieved excellent target coverage, and showed low rates of ≥ grade 3 late toxicity with promising two-year OS (± 80%), though not statistically different to standard dosing [428]. Elective pelvic nodal irradiation remains optional and should take into account patient comorbidities and the risks of toxicity to adjacent critical structures. A retrospective study suggested that pelvic nodal radiation was associated with better survival compared with bladder radiation alone after adjusted analysis [407]. For node-positive disease, consider boosting grossly involved nodes to the maximum achievable safe dose within normal tissue constraints based on the clinical scenario. The use of modern standard EBRT techniques results in major related late morbidity of the urinary bladder or bowel in less than 5% of patients [436]. Acute diarrhoea is reduced even more with intensity-modulated RT [437]. In conclusion, EBRT outcomes have improved with modern delivery, but EBRT alone remains less effective than TMT (chemoradiation) or surgery (see Section 6.8.1). However, ERBT provides a reasonable alternative for patients unfit or unsuitable for radical surgery or concurrent chemotherapy.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-9-2-palliative-external-beam-radiotherapy",
+      "title": "6.9.2. Palliative external beam radiotherapy",
+      "level": 4,
+      "text": "For symptomatic locally advanced/metastatic disease, hypofractionated bladder RT provides rapid relief, especially of haematuria, with high response rates and acceptable toxicity. The MRC BA09 RCT showed that 21Gy/3 fractions is as effective as 35Gy/10 fractions for palliation, supporting short schedules in frail patients [397]. Symptom control regimens commonly used include 30-35Gy/5-10 fractions, 36Gy/6 once-weekly [438], and even once only 8Gy. Haematuria control is achieved in ± 70-90% with durability often spanning most of a patient’s remaining lifespan. Higher biological dose does not clearly improve initial response, though it may prolong haematuria control. Modern image-guided delivery further reduces acute GI toxicity.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-9-3-summary-of-evidence-and-recommendation-for-external-beam-radiotherapy",
+      "title": "6.9.3. Summary of evidence and recommendation for external beam radiotherapy",
+      "level": 4,
+      "text": "Summary of evidence LE External beam RT alone should only be considered as a therapeutic option when the patient is unfit for cystectomy or chemoradiation. 3 Radiotherapy can also be used to stop bleeding from the tumour when local control cannot be achieved by transurethral manipulation. 1b Recommendation Strength rating Do not offer radiotherapy alone as primary therapy for localised bladder cancer. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "External beam RT alone should only be considered as a therapeutic option when the patient is unfit for cystectomy or chemoradiation.",
+              "3"
+            ],
+            [
+              "Radiotherapy can also be used to stop bleeding from the tumour when local control cannot be achieved by transurethral manipulation.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Do not offer radiotherapy alone as primary therapy for localised bladder cancer.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-10-other-approaches",
+      "title": "6.10. Other approaches",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-10-1-transurethral-resection-of-bladder-tumour",
+      "title": "6.10.1. Transurethral resection of bladder tumour",
+      "level": 4,
+      "text": "Transurethral resection of bladder tumour alone in MIBC patients is only possible as a therapeutic option if tumour growth is limited to the superficial muscle layer and if restaging biopsies are negative for residual (invasive) tumour [439]. In general, approximately 50% of patients will still have to undergo RC for recurrent MIBC with a disease-specific mortality rate of up to 47% in this group [440]. A disease-free status at restaging TURBT appears to be crucial in making the decision not to perform RC [441,442]. A prospective study including 133 patients after radical TURBT and restaging negative biopsies, reported a 15-year follow-up [442]. Thirty percent of patients had recurrent NMIBC and went on to intravesical therapy, and 30% (n = 40) progressed, of which 27 died of BC. After 5, 10 and 15 years, the results showed CSS rates of 81.9%, 79.5% and 76.7%, respectively, and PFS rates with an intact bladder of 75.5%, 64.9% and 57.8%, respectively. It is essential to recognise that this is a highly selected population. In conclusion, TURBT alone should only be considered as a therapeutic option for MIBC after radical TURBT when the patient is unfit for cystectomy or refuses open surgery, or as part of a TMT bladder-preserving approach. 6.10.1.a. Recommendation for transurethral resection of bladder tumour Recommendation Strength rating Do not offer transurethral resection of bladder tumour alone as a curative treatment option as most patients will not benefit. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Do not offer transurethral resection of bladder tumour alone as a curative treatment option as most patients will not benefit.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-10-2-chemotherapy",
+      "title": "6.10.2. Chemotherapy",
+      "level": 4,
+      "text": "Chemotherapy alone rarely produces durable CR. In general, a clinical complete response rate of up to 56% is reported in some series, which must be weighed against a staging error of > 60% [443,444]. Response to chemotherapy is a prognostic factor for treatment outcome and eventual survival, although it may be confounded by patient selection [445]. Several groups have reported the effect of chemotherapy on resectable tumours (neoadjuvant approach), as well as unresectable primary tumours [231,241,446,447]. Neoadjuvant chemotherapy with two to three cycles of MVAC or CMV has led to a downstaging of the primary tumour in various prospective series [231,241,446]. A bladder-conserving strategy with TURBT and systemic cisplatin-based chemotherapy has been reported several years ago and could lead to long-term survival with intact bladder in a highly select patient population [448]. A large retrospective analysis of a U.S. National Cancer Database cohort reported on 1,538 patients treated with TURBT and multiagent chemotherapy [449]. The two- and five-year OS for all patients was 49% and 32.9% and for cT2 patients it was 52.6% and 36.2%, respectively. While these data show that long-term survival with intact bladder can be achieved in a subset of patients, it is not recommended for routine use. 6.10.2.a. Summary of evidence and recommendation for chemotherapy Summary of evidence LE Complete and partial local responses have been reported with cisplatin-based chemotherapy as primary therapy for locally advanced tumours in highly selected patients. 2b Recommendation Strength rating Do not offer chemotherapy alone as primary therapy for localised bladder cancer. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Complete and partial local responses have been reported with cisplatin-based chemotherapy as primary therapy for locally advanced tumours in highly selected patients.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Do not offer chemotherapy alone as primary therapy for localised bladder cancer.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 33
+}

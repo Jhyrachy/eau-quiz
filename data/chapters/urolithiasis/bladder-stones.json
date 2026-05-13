@@ -1,0 +1,832 @@
+{
+  "guideline": "urolithiasis",
+  "chapter": "bladder-stones",
+  "url": "https://uroweb.org/guidelines/urolithiasis/chapter/bladder-stones",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODOLOGY",
+      "anchor": "#2-methodology"
+    },
+    {
+      "level": 3,
+      "text": "2.1 Methods",
+      "anchor": "#2-1-methods"
+    },
+    {
+      "level": 2,
+      "text": "3. GUIDELINES",
+      "anchor": "#3-guidelines"
+    },
+    {
+      "level": 3,
+      "text": "3.1.3.1 Prevalence, aetiology, risk of recurrence",
+      "anchor": "#3-1-3-1-prevalence-aetiology-risk-of-recurrence"
+    },
+    {
+      "level": 4,
+      "text": "3.1.1. Introduction",
+      "anchor": "#3-1-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "3.1.2. Stone composition",
+      "anchor": "#3-1-2-stone-composition"
+    },
+    {
+      "level": 4,
+      "text": "3.1.3. Risk groups for stone formation",
+      "anchor": "#3-1-3-risk-groups-for-stone-formation"
+    },
+    {
+      "level": 4,
+      "text": "3.1.4. Genetic factors and testing",
+      "anchor": "#3-1-4-genetic-factors-and-testing"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Classification of stones",
+      "anchor": "#3-2-classification-of-stones"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Stone size",
+      "anchor": "#3-2-1-stone-size"
+    },
+    {
+      "level": 4,
+      "text": "3.2.2. Stone location",
+      "anchor": "#3-2-2-stone-location"
+    },
+    {
+      "level": 4,
+      "text": "3.2.3. X-ray characteristics",
+      "anchor": "#3-2-3-x-ray-characteristics"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Diagnostic evaluation",
+      "anchor": "#3-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Diagnostic imaging",
+      "anchor": "#3-3-1-diagnostic-imaging"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Diagnostics: metabolism-related",
+      "anchor": "#3-3-2-diagnostics-metabolism-related"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Diagnosis in special groups and conditions",
+      "anchor": "#3-3-3-diagnosis-in-special-groups-and-conditions"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Disease management",
+      "anchor": "#3-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Renal colic",
+      "anchor": "#3-4-1-renal-colic"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Medical expulsive therapy",
+      "anchor": "#3-4-3-medical-expulsive-therapy"
+    },
+    {
+      "level": 4,
+      "text": "3.4.4. Chemolysis",
+      "anchor": "#3-4-4-chemolysis"
+    },
+    {
+      "level": 4,
+      "text": "3.4.5. Extracorporeal shock wave lithotripsy (SWL)",
+      "anchor": "#3-4-5-extracorporeal-shock-wave-lithotripsy-swl"
+    },
+    {
+      "level": 4,
+      "text": "3.4.6. Ureteroscopy (retrograde and antegrade)",
+      "anchor": "#3-4-6-ureteroscopy-retrograde-and-antegrade"
+    },
+    {
+      "level": 4,
+      "text": "3.4.7. Percutaneous nephrolithotomy",
+      "anchor": "#3-4-7-percutaneous-nephrolithotomy"
+    },
+    {
+      "level": 4,
+      "text": "3.4.8. General recommendations and precautions for stone removal",
+      "anchor": "#3-4-8-general-recommendations-and-precautions-for-stone-removal"
+    },
+    {
+      "level": 4,
+      "text": "3.4.9. Specific stone management of ureteral stones",
+      "anchor": "#3-4-9-specific-stone-management-of-ureteral-stones"
+    },
+    {
+      "level": 4,
+      "text": "3.4.10. Specific stone management of renal stones",
+      "anchor": "#3-4-10-specific-stone-management-of-renal-stones"
+    },
+    {
+      "level": 4,
+      "text": "3.4.11. Laparoscopy and open surgery",
+      "anchor": "#3-4-11-laparoscopy-and-open-surgery"
+    },
+    {
+      "level": 4,
+      "text": "3.4.12. Steinstrasse",
+      "anchor": "#3-4-12-steinstrasse"
+    },
+    {
+      "level": 4,
+      "text": "3.4.13. Management of patients with residual stones",
+      "anchor": "#3-4-13-management-of-patients-with-residual-stones"
+    },
+    {
+      "level": 4,
+      "text": "3.4.14. Management of specific patient groups",
+      "anchor": "#3-4-14-management-of-specific-patient-groups"
+    },
+    {
+      "level": 4,
+      "text": "3.4.15. Management of stones in children",
+      "anchor": "#3-4-15-management-of-stones-in-children"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Radiation exposure and protection during endourology",
+      "anchor": "#3-5-radiation-exposure-and-protection-during-endourology"
+    },
+    {
+      "level": 2,
+      "text": "4. METABOLIC EVALUATION AND RECURRENCE PREVENTION",
+      "anchor": "#4-metabolic-evaluation-and-recurrence-prevention"
+    },
+    {
+      "level": 3,
+      "text": "4.1. General metabolic considerations for patient work-up",
+      "anchor": "#4-1-general-metabolic-considerations-for-patient-work-up"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. Evaluation of patient risk",
+      "anchor": "#4-1-1-evaluation-of-patient-risk"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. Urine sampling",
+      "anchor": "#4-1-2-urine-sampling"
+    },
+    {
+      "level": 4,
+      "text": "4.1.3. Timing of specific metabolic work-up",
+      "anchor": "#4-1-3-timing-of-specific-metabolic-work-up"
+    },
+    {
+      "level": 4,
+      "text": "4.1.4. Reference ranges of laboratory values",
+      "anchor": "#4-1-4-reference-ranges-of-laboratory-values"
+    },
+    {
+      "level": 4,
+      "text": "4.1.5. Risk indices and additional diagnostic tools",
+      "anchor": "#4-1-5-risk-indices-and-additional-diagnostic-tools"
+    },
+    {
+      "level": 3,
+      "text": "4.2. General considerations for recurrence prevention",
+      "anchor": "#4-2-general-considerations-for-recurrence-prevention"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. Fluid intake",
+      "anchor": "#4-2-1-fluid-intake"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. Diet",
+      "anchor": "#4-2-2-diet"
+    },
+    {
+      "level": 4,
+      "text": "4.2.3. Lifestyle",
+      "anchor": "#4-2-3-lifestyle"
+    },
+    {
+      "level": 4,
+      "text": "4.2.4. Summary of evidence and recommendation for recurrence prevention",
+      "anchor": "#4-2-4-summary-of-evidence-and-recommendation-for-recurrence-prevention"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Stone-specific metabolic evaluation and pharmacological recurrence prevention",
+      "anchor": "#4-3-stone-specific-metabolic-evaluation-and-pharmacological-recurrence-prevention"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. Introduction",
+      "anchor": "#4-3-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Calcium oxalate stones",
+      "anchor": "#4-4-calcium-oxalate-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Diagnosis",
+      "anchor": "#4-4-1-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Interpretation of results and aetiology",
+      "anchor": "#4-4-2-interpretation-of-results-and-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "4.4.3. Specific treatment",
+      "anchor": "#4-4-3-specific-treatment"
+    },
+    {
+      "level": 4,
+      "text": "4.4.4. Summary of evidence and recommendations for pharmacological treatments for patients with specific abnormalities in urine composition (based on 24-hour urine samples)",
+      "anchor": "#4-4-4-summary-of-evidence-and-recommendations-for-pharmacological-treatments-for-patients-with-specific-abnormalities-in-urine-composition-based-on-24-hour-urine-samples"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Calcium phosphate stones [649, 679, 687, 700, 701, 705, 724]",
+      "anchor": "#4-5-calcium-phosphate-stones-649-679-687-700-701-705-724"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Diagnosis",
+      "anchor": "#4-5-1-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Interpretation of results and aetiology",
+      "anchor": "#4-5-2-interpretation-of-results-and-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Pharmacological therapy [649,679,687,700,701,705,724]",
+      "anchor": "#4-5-3-pharmacological-therapy-649679687700701705724"
+    },
+    {
+      "level": 4,
+      "text": "4.5.4. Summary of evidence and recommendation for the management of calcium phosphate stones",
+      "anchor": "#4-5-4-summary-of-evidence-and-recommendation-for-the-management-of-calcium-phosphate-stones"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Disorders and diseases related to calcium stones",
+      "anchor": "#4-6-disorders-and-diseases-related-to-calcium-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.6.1. Hyperparathyroidism [725-730]",
+      "anchor": "#4-6-1-hyperparathyroidism-725-730"
+    },
+    {
+      "level": 4,
+      "text": "4.6.2. Granulomatous Diseases [732]",
+      "anchor": "#4-6-2-granulomatous-diseases-732"
+    },
+    {
+      "level": 4,
+      "text": "4.6.3. Primary Hyperoxaluria [692]",
+      "anchor": "#4-6-3-primary-hyperoxaluria-692"
+    },
+    {
+      "level": 4,
+      "text": "4.6.4. Enteric hyperoxaluria [667,672,736-738]",
+      "anchor": "#4-6-4-enteric-hyperoxaluria-667672736-738"
+    },
+    {
+      "level": 4,
+      "text": "4.6.5. Renal tubular acidosis [649,687,739,740]",
+      "anchor": "#4-6-5-renal-tubular-acidosis-649687739740"
+    },
+    {
+      "level": 4,
+      "text": "4.6.6. Nephrocalcinosis [742]",
+      "anchor": "#4-6-6-nephrocalcinosis-742"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Uric acid and ammonium urate stones",
+      "anchor": "#4-7-uric-acid-and-ammonium-urate-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.7.1. Diagnosis",
+      "anchor": "#4-7-1-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.7.2. Interpretation of results",
+      "anchor": "#4-7-2-interpretation-of-results"
+    },
+    {
+      "level": 4,
+      "text": "4.7.3. Specific treatment",
+      "anchor": "#4-7-3-specific-treatment"
+    },
+    {
+      "level": 4,
+      "text": "4.7.4. Summary of evidence and recommendations for the management of uric acid and ammonium urate stones",
+      "anchor": "#4-7-4-summary-of-evidence-and-recommendations-for-the-management-of-uric-acid-and-ammonium-urate-stones"
+    },
+    {
+      "level": 3,
+      "text": "4.8. Struvite and infection stones",
+      "anchor": "#4-8-struvite-and-infection-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.8.1. Diagnosis",
+      "anchor": "#4-8-1-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.8.2. Interpretation",
+      "anchor": "#4-8-2-interpretation"
+    },
+    {
+      "level": 4,
+      "text": "4.8.3. Specific treatment",
+      "anchor": "#4-8-3-specific-treatment"
+    },
+    {
+      "level": 3,
+      "text": "4.9. Cystine stones",
+      "anchor": "#4-9-cystine-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.9.1. Diagnosis",
+      "anchor": "#4-9-1-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.9.2. Specific treatment",
+      "anchor": "#4-9-2-specific-treatment"
+    },
+    {
+      "level": 4,
+      "text": "4.9.3. Summary of evidence and recommendations for the management of cystine stones",
+      "anchor": "#4-9-3-summary-of-evidence-and-recommendations-for-the-management-of-cystine-stones"
+    },
+    {
+      "level": 3,
+      "text": "4.10.2,8-Dihydroxyadenine stones and xanthine stones",
+      "anchor": "#4-10-28-dihydroxyadenine-stones-and-xanthine-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.10.1.2,8-Dihydroxyadenine stones",
+      "anchor": "#4-10-1-28-dihydroxyadenine-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.10.2. Xanthine stones",
+      "anchor": "#4-10-2-xanthine-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.10.3. Fluid intake and diet",
+      "anchor": "#4-10-3-fluid-intake-and-diet"
+    },
+    {
+      "level": 3,
+      "text": "4.11. Drug-induced stones",
+      "anchor": "#4-11-drug-induced-stones"
+    },
+    {
+      "level": 3,
+      "text": "4.12. Matrix stones",
+      "anchor": "#4-12-matrix-stones"
+    },
+    {
+      "level": 3,
+      "text": "4.13. Unknown stone composition [16]",
+      "anchor": "#4-13-unknown-stone-composition-16"
+    },
+    {
+      "level": 4,
+      "text": "4.13.1. Recommendations for investigations for the assessment of patients with stones of unknown composition [17,23,76,679]",
+      "anchor": "#4-13-1-recommendations-for-investigations-for-the-assessment-of-patients-with-stones-of-unknown-composition-172376679"
+    },
+    {
+      "level": 2,
+      "text": "5. FOLLOW UP OF URINARY STONES",
+      "anchor": "#5-follow-up-of-urinary-stones"
+    },
+    {
+      "level": 2,
+      "text": "6. BLADDER STONES",
+      "anchor": "#6-bladder-stones"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Prevalence, aetiology and risk factors of bladder stones",
+      "anchor": "#6-1-prevalence-aetiology-and-risk-factors-of-bladder-stones"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Presentation",
+      "anchor": "#6-2-presentation"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Diagnostic evaluation",
+      "anchor": "#6-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. Diagnostic investigations for bladder stones",
+      "anchor": "#6-3-1-diagnostic-investigations-for-bladder-stones"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Diagnosing the cause of bladder stones",
+      "anchor": "#6-3-2-diagnosing-the-cause-of-bladder-stones"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Disease management",
+      "anchor": "#6-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Conservative treatment and indications for active stone removal",
+      "anchor": "#6-4-1-conservative-treatment-and-indications-for-active-stone-removal"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Medical management of bladder stones",
+      "anchor": "#6-4-2-medical-management-of-bladder-stones"
+    },
+    {
+      "level": 4,
+      "text": "6.4.3. Bladder stone interventions",
+      "anchor": "#6-4-3-bladder-stone-interventions"
+    },
+    {
+      "level": 4,
+      "text": "6.4.4. Treatment for bladder stones secondary to bladder outlet obstruction in adult men",
+      "anchor": "#6-4-4-treatment-for-bladder-stones-secondary-to-bladder-outlet-obstruction-in-adult-men"
+    },
+    {
+      "level": 4,
+      "text": "6.4.5. Special situations",
+      "anchor": "#6-4-5-special-situations"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Bladder stones follow-up",
+      "anchor": "#6-5-bladder-stones-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Summary of evidence and recommendations for the treatment of bladder stones",
+      "anchor": "#6-6-summary-of-evidence-and-recommendations-for-the-treatment-of-bladder-stones"
+    },
+    {
+      "level": 2,
+      "text": "7. REFERENCES",
+      "anchor": "#7-references"
+    },
+    {
+      "level": 2,
+      "text": "8. CONFLICT OF INTEREST",
+      "anchor": "#8-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "9. CITATION INFORMATION",
+      "anchor": "#9-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "10. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#10-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#urolithiasis",
+      "title": "Urolithiasis",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 6. Bladder Stones Introduction Methodology Guidelines Metabolic Evaluation And Recurrence Prevention Follow Up Of Urinary Stones Bladder Stones References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#6-bladder-stones",
+      "title": "6. BLADDER STONES",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-prevalence-aetiology-and-risk-factors-of-bladder-stones",
+      "title": "6.1. Prevalence, aetiology and risk factors of bladder stones",
+      "level": 3,
+      "text": "Bladder stones constitute only approximately 5% of all urinary tract stones [792] yet are responsible for 8% of urolithiasis-related mortalities in developed nations [793]. The incidence is higher in developing countries [794]. The prevalence of bladder stones is higher in males, with a reported male-to-female ratio between 10:1 and 4:1 [795,796]. The age distribution is bimodal: incidence peaks at three years in children in developing countries [795,797] and 60 years in adulthood [796]. The aetiology of bladder stones is typically multifactorial [796]. Bladder stones can be classified as primary, secondary or migratory [798]. Primary or endemic bladder stones occur in the absence of other urinary tract pathology, typically seen in children in areas with poor hydration, recurrent diarrhoea and a diet deficient in animal protein [799]. Secondary bladder stones occur in the presence of other urinary tract abnormalities, which include bladder outlet obstruction (BOO), neurogenic bladder dysfunction, chronic bacteriuria, foreign bodies (including catheters), bladder diverticula, and bladder augmentation or urinary diversion. In adults, BOO is the most common predisposing factor for bladder stone formation and accounts for 45–79% of vesical calculi [796,800-803]. Migratory bladder stones are those that have passed from the upper urinary tract where they formed and may then serve as a nidus for bladder stone growth. Patients with bladder calculi are more likely to have a history of upper tract stones and risk factors for their formation [804]. A wide range of metabolic urinary abnormalities can predispose to calculi anywhere in the urinary tract, which is covered in more detail in Section 4. Metabolic Evaluation and Recurrence Prevention. There is a paucity of studies on the specific metabolic abnormalities that predispose to bladder stones. Bladder stones will form in 3–4.7% of men undergoing surgery for benign prostatic obstruction (BPO) [805,806], 19–39% and 36–67% of motor-incomplete and motor-complete spinal cord injury patients, respectively [807], and 2.2% of patients with long-term catheters [808]. Two research groups have identified that a larger intravesical protrusion of the prostate is an independent risk factor for bladder stone formation in patients with benign prostatic hyperplasia (BPH) undergoing transurethral resection of the prostate (TURP) [809,810]. Kim and colleagues additionally found older age and a lower Q max to be predictive of bladder stones [809]. In men with chronic urinary retention secondary to BPO, the 24-hour urine of 27 men with bladder stones had a higher uric acid supersaturation (2.2 vs. 0.6mmol/L, p < 0.01), lower magnesium (106 vs. 167mmol/L, p = 0.01) and lower pH (5.9 vs. 6.4, p = 0.02) than the 21 men without bladder stones [804]. It is therefore likely that patients with these conditions who form bladder stones also have an abnormal urine composition which predisposes them to bladder stone formation. The metabolic abnormalities which predispose patients to form secondary bladder stones are poorly understood. Stone analysis of 86 men with a BPO-related bladder stone demonstrated that 42% had calcium- based stones (oxalate, phosphate), 33% had magnesium ammonium phosphate, 10% had mixed stones and 14% had urate stones [796]. Similar findings were reported in more recent studies [811-813], and it is therefore likely that multiple metabolic factors predispose patients to secondary bladder stone formation. Low urine volume (poor hydration) is the most consistently demonstrable abnormality in children [814-816]. As an outlet obstruction is more often absent in children than in adults, the aetiology is most likely quite different in this population. Twenty-four-hour urine analysis in children with endemic bladder stones is reported in two studies. Of 57 children in Pakistan, 89.5% had hypocitraturia, 49% had a low urine volume, 44% had hyperoxaluria and 42% had hypocalciuria [814]. Of 61 children in India, stone formers had higher urine calcium and uromucoid concentrations than controls [815]. One study from Thailand compared 24-hour urine analyses from children from a rural area with a high prevalence of bladder stones with those from an urban area: rural children had lower urine volumes and, despite equal calcium, oxalate and uric acid concentrations, crystalluria with uric acid and calcium oxalate crystals was more prevalent in rural children [816]. Table 6.1: Bladder stones classified by aetiology Type of bladder stone Primary Secondary Migratory Cause/Associations Occur in the absence of other urinary tract pathology, typically in children in areas with poor hydration, recurrent diarrhoea, and a diet deficient in animal protein BOO (e.g. BPO, urethral stricture) Form in the upper urinary tract, then passed into the bladder where they may be a nidus for stone growth     Neurogenic bladder dysfunction   Chronic bacteriuria Foreign bodies (including catheters) Bladder divert",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Type of bladder stone",
+              "Primary",
+              "Secondary",
+              "Migratory"
+            ],
+            [
+              "Cause/Associations",
+              "Occur in the absence of other urinary tract pathology, typically in children in areas with poor hydration, recurrent diarrhoea, and a diet deficient in animal protein",
+              "BOO (e.g. BPO, urethral stricture)",
+              "Form in the upper urinary tract, then passed into the bladder where they may be a nidus for stone growth"
+            ],
+            [
+              " ",
+              " ",
+              "Neurogenic bladder dysfunction",
+              " "
+            ],
+            [
+              "Chronic bacteriuria"
+            ],
+            [
+              "Foreign bodies (including catheters)"
+            ],
+            [
+              "Bladder diverticula"
+            ],
+            [
+              "Bladder augmentation"
+            ],
+            [
+              "Urinary diversion"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-2-presentation",
+      "title": "6.2. Presentation",
+      "level": 3,
+      "text": "The symptoms most associated with bladder stones are urinary frequency, haematuria (which is typically terminal), and dysuria or suprapubic pain, which are worst towards the end of micturition. Sudden movement and exercise may exacerbate these symptoms. Detrusor overactivity is found in over two-thirds of adult male patients with vesical calculi and is significantly more common in patients with larger stones (> 4cm). However, recurrent urinary tract infections (UTIs) may be the only symptom [801,802]. In children, symptoms may also include pulling of the penis, difficulties in micturition, urinary retention, enuresis and rectal prolapse (resulting from straining due to bladder spasms). Bladder stones may also be an incidental finding in 10% of cases [799,817].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-3-diagnostic-evaluation",
+      "title": "6.3. Diagnostic evaluation",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-3-1-diagnostic-investigations-for-bladder-stones",
+      "title": "6.3.1. Diagnostic investigations for bladder stones",
+      "level": 4,
+      "text": "Plain X-ray of KUB has a reported sensitivity of 21–78% for cystoscopically detected bladder stones in adults [801,818]. Larger (> 2.0cm) stones are more likely to be radiopaque [818]. However, plain X-ray provides information on radio-opacity which may guide treatment and follow-up (see Section 3.2.3). Ultrasound has a reported sensitivity and specificity of 20–83% and 98–100%, respectively, for the detection of bladder stones in adults [819,820]. Computed tomography and cystoscopy have a higher sensitivity for detecting bladder stones than US or X-ray in adults [819,820]. No study compares cystoscopy and CT for the diagnosis of bladder stones. Cystoscopy has the advantage of detecting other potential causes for a patient’s symptoms (e.g. bladder cancer), whilst CT can also assess upper tract urolithiasis (see also Section 3.2.3) [821]. There is a paucity of evidence for the investigation of bladder stones, particularly in children [97,822]. See also Section 3.3, for further information on diagnostic imaging for urolithiasis. The principle of ALARA should be applied, especially in children [823].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-3-2-diagnosing-the-cause-of-bladder-stones",
+      "title": "6.3.2. Diagnosing the cause of bladder stones",
+      "level": 4,
+      "text": "The cause of the bladder stone should be considered prior to bladder stone treatment, as eliminating the underlying cause will reduce recurrence rates [824]. The following should be performed where possible prior to (or at the time of) bladder stone treatment: physical examination of external genitalia and peripheral nervous system (including digital rectal examination, peri-anal tone and sensation in men); uroflowmetry and post-void residual urine assessment; urine dipstick to include pH ± culture; metabolic assessment (see also Section 3.3.2.c) including: serum (creatinine, [ionised] calcium, uric acid, sodium, potassium, blood cell count); urine pH; stone analysis: in first-time formers using a valid procedure (X-ray diffraction or infrared spectroscopy). The following investigations should also be considered for selected patients: upper tract imaging (in patients with a history of urolithiasis or loin pain); cystourethroscopy or urethrogram.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-4-disease-management",
+      "title": "6.4. Disease management",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-4-1-conservative-treatment-and-indications-for-active-stone-removal",
+      "title": "6.4.1. Conservative treatment and indications for active stone removal",
+      "level": 4,
+      "text": "Migratory bladder stones in adults may typically be left untreated, especially asymptomatic small stones. Rates of spontaneous stone passage are unknown, but data on ureteric stones suggest stones < 1cm are likely to pass in the absence of BOO, bladder dysfunction or long-term catheterisation (see Section 3.4.9). Primary and secondary bladder stones are usually symptomatic and are unlikely to pass spontaneously: active treatment of such stones is therefore indicated.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-4-2-medical-management-of-bladder-stones",
+      "title": "6.4.2. Medical management of bladder stones",
+      "level": 4,
+      "text": "There is a paucity of evidence on chemolitholysis of bladder stones. However, guidance on the medical management of urinary tract stones in Section 3.4.9, can be applied to urinary stones in all locations. Uric acid stones can be dissolved by oral urinary alkalinisation when a PH > 6.5 is consistently achieved, typically using alkaline citrate or sodium bicarbonate. Regular monitoring is required during therapy (see Section 3.4.4). Irrigation chemolysis is also possible using a catheter, however, this is time-consuming, may cause chemical cystitis and is therefore not commonly employed [825,826].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-4-3-bladder-stone-interventions",
+      "title": "6.4.3. Bladder stone interventions",
+      "level": 4,
+      "text": "Minimally invasive techniques for the removal of bladder stones have been widely adopted to reduce the risk of complications and shorten hospital stay and convalescence. Bladder stones can be treated with open, laparoscopic, robotic-assisted laparoscopic, endoscopic (transurethral or percutaneous) surgery or SWL [827]. 6.4.3.a. Suprapubic cystolithotomy Open suprapubic cystolithotomy is very effective but is associated with a need for catheterisation and longer hospital stay in both adults and children compared to all other stone removal modalities [827]. I In children, a non-randomised study found that, when the bladder was closed meticulously in two layers, ‘tubeless’ (drain-less and catheter-less) cystolithotomy was associated with a significantly shorter hospital stay compared with traditional cystolithotomy. This was achieved without significant differences in late or intraoperative complications, provided that children with prior UTI, recurrent stones, or previous anorectal malformation surgery (or other relevant surgery) were excluded [828]. 6.4.3.b. Transurethral cystolithotripsy In both adults and children, transurethral cystolithotripsy provides high SFRs and appears to be safe, with a very low risk of unplanned procedures and major postoperative and late complications [827]. 6.4.3.b.1. Transurethral cystolithotripsy in adults In adults, an MA of four RCTs including 409 patients demonstrated that transurethral cystolithotripsy has a shorter hospital stay and convalescence with less pain, but equivalent SFR and complications compared to percutaneous cystolithotripsy [827]. Transurethral cystolithotripsy with a nephroscope was quicker than percutaneous cystolithotripsy in three RCTs, although transurethral cystolithotripsy with a cystoscope was slower than percutaneous cystolithotripsy [827]. Rates of urethral strictures following transurethral procedures were not robustly reported: studies report rates between 2.9% and 19.6% during a follow-up period of 12–24 months [811,827,829]. One small RCT demonstrated a shorter duration of catheterisation, hospital stay and procedure with transurethral cystolithotripsy than open cystolithotomy with similar SFR [827]. Meta-analysis of five RCTs found significantly shorter procedure duration for transurethral cystolithotripsy using a nephroscope versus cystoscope with similar SFRs, hospital stay, convalescence, pain and complications [830]. Two retrospective studies (n = 188) reported that using a resectoscope or nephroscope was associated with a shorter procedure duration (p < 0.05) than a cystoscope for transurethral cystolithotripsy [831,832]. This suggests that transurethral cystolithotripsy is quicker when using a continuous flow instrument. 6.4.3.b.1.a. Lithotripsy modalities used during transurethral cystolithotripsy in adults When considering lithotripsy modalities for transurethral cystolithotripsy, the Panel’s systematic review found very low-quality evidence from five non-randomised studies (n = 385) which found no difference in SFR between modalities (mechanical, laser, pneumatic, ultrasonic, electrohydraulic lithotripsy [EHL] or washout alone) [827]. Unplanned procedures and major postoperative complications were low-rate events and were not significantly different between lithotripsy modalities, although one non-randomised study (NRS) suggested these might be higher with EHL or mechanical lithotripsy than pneumatic or ultrasonic lithotripsy [833]. All outcomes had very low-quality evidence (GRADE) [827]. High-powered lasers seem to reduce lithotripsy time. Laser lithotripsy was faster than pneumatic lithotripsy (MD 16.6 minutes; CI: 23.51–9.69, p < 0.0001) in one NRS (n = 62); however, a laser was used with a resectoscope and the pneumatic device with a cystoscope [834]. The same conclusion was stated in an MA of ten RCTs with high heterogeneity and small sample sizes in some of the included RCTs [835]. An SR states post-laser lithotripsy SFR of 96% [836]. Continuous versus intermittent irrigating instruments may affect the operation time more significantly than the choice of lithotripsy device [827]. 6.4.3.b.1.b. Transurethral cystolithotripsy in children In children, three NRS suggest that transurethral cystolithotripsy has a shorter hospital stay and catheterisation time than open cystolithotomy, but similar stone-free and complication rates [837-839]. One small quasi-RCT found a shorter procedure time using laser versus pneumatic lithotripsy for < 1.5cm bladder stones with no difference in SFR or other outcomes [838]. Another RCT (n = 73) found shorter procedure time using pneumatic versus laser therapy for bladder stones ≤ 1.5cm with similar SFRs and higher (minor) complication rates for pneumatic lithotripsy [839]. An SR showed that open cystolithotomy offers a shorter procedure duration than endourological management, whereas a percutaneous approach features a shorter procedure duration than transurethral approach. In terms of length of sta",
+      "tables": []
+    },
+    {
+      "anchor": "#6-4-4-treatment-for-bladder-stones-secondary-to-bladder-outlet-obstruction-in-adult-men",
+      "title": "6.4.4. Treatment for bladder stones secondary to bladder outlet obstruction in adult men",
+      "level": 4,
+      "text": "Bladder stones in men aged over 40 years may be caused by BPO, the management of which should also be considered. Bladder stones were traditionally an indication for a surgical intervention for BPO – a doctrine that has been questioned by studies. One prospective study reports urodynamics (cystometrogram) findings in 46 men aged > 60 years before and after bladder stone treatment [802]. Only 51% of men had BOO while 10% had detrusor underactivity. Eighteen percent of men had a completely normal urodynamic study and 68% had detrusor overactivity. There was no significant difference between pre- and post-bladder-stone-removal urodynamic findings [802]. One NRS compared 64 men undergoing transurethral cystolithotripsy with either transurethral resection of the prostate (TURP) or medical management for BPO (α-blocker with or without 5-alpha-reductase inhibitor). After 28 months of follow-up, no men on medication had had a recurrence, but 34% underwent TURP – a high post-void residual urine volume predicted the need for subsequent TURP [849]. Another observational study of 23 men undergoing cystolithotripsy and commencing medical management for BPO found 22% developed a BPO-related complication, including 17% who had recurrent stones [824]. One RCT comparing cystolithotripsy with concomitant TURP to cystolithotripsy with medical management of bladder outlet obstruction with tamsulosin and finasteride demonstrated that both groups had a significantly improved Q max , IPSS and PVR at follow-up, although the TURP group had a longer procedure and catheterisation time [850]. Large prostates (> 54gr) and a high PVR (> 190ml) were predictive of needing a TURP over time in the medical management cohort, although this was based on only a small number of patients. Large studies support the safety of performing BPO and bladder stone procedures during the same operation with no difference in major complications compared to a BPO procedure alone [851-853]. An observational study on 2,271 patients undergoing TURP found no difference in complications except UTIs, which occurred slightly more frequently in patients with simultaneously treated bladder stones: 0% vs. 0.6%, p = 0.044 [851]. An observational study of 320 men undergoing Holmium laser enucleation of the prostate (HoLEP) found a higher rate of early postoperative incontinence (26.8% vs. 12.5%, p = 0.03) in men having concomitant transurethral cystolithotripsy, but no difference in long-term continence rates [853]. Another larger multicentre observational study of 963 patients undergoing HoLEP found no significant differences in the frequency of complications in patients with (n = 54 [5.6%]) or without concomitant transurethral cystolithotripsy [854].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-4-5-special-situations",
+      "title": "6.4.5. Special situations",
+      "level": 4,
+      "text": "6.4.5.a. Neurogenic bladder and stone formation Patients with a neurogenic bladder secondary to spinal cord injury or myelomeningocele are at increased risk of forming bladder stones. Within eight to ten years, 15–36% of patients with spinal cord injury will develop a bladder stone [855-857]. According to a systematic review, the prevalence of stone formation depends on the level of the spinal cord injury with 19–39% and 36–67% of motor-incomplete and motor-complete spinal cord injury patients developing bladder stones over time, respectively [807]. The absolute annual risk of stone formation in spinal cord injury patients with an indwelling catheter is 4%, compared with 0.2% for those voiding with clean intermittent self-catheterisation (CISC) [858]. A study of 2,825 spinal cord injury patients over eight years found a 3.3% incidence of bladder stones: 2% with CISC, 6.6% with an indwelling urethral catheter, 11% with a suprapubic catheter, and 1.1% in patients voiding using reflex micturition [859]. However, another study of 457 spinal cord injury patients for six months found no difference in bladder stones between urethral and suprapubic catheterisation [858]. Spinal cord injury patients with an indwelling urethral catheter are six times more likely to develop bladder stones than patients with normal micturition [857,859]. The risk of stone recurrence after complete removal in spinal cord injury patients is 16% per year [858]. An RCT of 78 spinal cord injury patients who perform CISC found a significant reduction in bladder stone formation when twice weekly manual bladder irrigations were performed for six months (49% vs. 0%, p = < 0.0001), as well as less symptomatic UTIs (41% vs. 8%; p = 0.001) [860]. However, this study excluded patients who developed autonomic dysreflexia during bladder irrigations. The irrigation volume used was not reported. 6.4.5.b. Bladder augmentation The incidence of vesical calculus formation after bladder augmentation is 2–44% in adults [861-870] and 4–53% in children [870-885]. Following cystoplasty, stones form after 24–31 months in adults [862,864,869] and after 25–68 months in children [875,878,879,883,886-888]. The reported cumulative incidence of bladder stone formation after 10 years is 28–36% and after twenty years is 41% [870,889]. Risk factors for bladder stone formation after augmentation include excess mucus production, incomplete bladder emptying, noncompliance with CIC or bladder irrigations, bacteriuria or urinary tract infections (due to urease-producing bacteria), foreign bodies (including staples, mesh, non-absorbable sutures), drainage by vesico-entero-cystostomy (Mitrofanoff or Monti) [516,862,865,867,868,875,879,882,889]. Stone formation is also more common in patients voiding by CISC compared with those voiding spontaneously [866]. Gastric segment augmentation confers a lower risk of bladder stones than ileal or colonic segment cystoplasty [871,875,879,882]. In previous stone formers, the rate of recurrence is 15–44% in adults [862-864,866,869] and 19–56% in children [516,871,875,877-880,882,888]. The risk of recurrence is greatest during the first two years, at approximately 12% per patient per year, with the risk decreasing with time [888]. Daily or three-times-weekly bladder irrigations reduce the incidence of bladder stones following bladder augmentation or continent urinary diversion [516,865]. A randomised study found that daily bladder irrigation with 240mL of saline reduced stone recurrences (p < 0.0002, p = 0.0152) and symptomatic UTIs (p < 0.0001, p < 0.0001) compared to 60mL or 120mL [865]. The frequency of bladder irrigations required is unclear. 6.4.5.c. Urinary diversion The incidence of stone formation after urinary diversion with an ileal or colon conduit is 0–3% [890,891]. The incidence of stone formation is 0–34% in orthotopic ileal neobladders (Hautmann, hemi-Kock, Studer, T-pouch or w-neobladder) [514,866,891-898] and 4–6% in orthotopic sigmoid neobladders (Reddy) [896,899]. The risk of pouch stone formation is 4–43% in adults with an ileocaecal continent cutaneous urinary diversion (Indiana, modified Indiana, Kock, or Mainz I) [506,866,890,891,900,901]. The average interval from construction of the urinary diversion to stone detection is 71–99 months [895,902]. In children, the incidence of neobladder stone formation is 30% after Mainz II diversion (rectosigmoid reservoir) [872] and 27% after Kock ileal reservoir construction [884]. 6.4.5.d. Treatment of stones in patients with bladder augmentation or urinary diversion Stones may be removed by open or endoscopic surgery in patients with bladder augmentation or diversion [877]. However, access often cannot be obtained through a continent vesico-entero-cystostomy without damaging the continence apparatus; hence a percutaneous or open approach is typically preferred [877]. No studies comparing outcomes following procedures for stones in reconstructed or augmented bladders were found. Tw",
+      "tables": []
+    },
+    {
+      "anchor": "#6-5-bladder-stones-follow-up",
+      "title": "6.5. Bladder stones follow-up",
+      "level": 3,
+      "text": "There are no studies examining the merits of differing follow-up modalities or frequencies following conservative, medical or operative treatment of bladder stones in adults or children. Identification and prevention of the cause of bladder stone formation will be crucial to prevent recurrence (see Section 6.3.2). In adults, there is a paucity of evidence on dietary modification or medical treatment for the prevention of bladder stone recurrence. Recommendations in the EAU Guidelines on Urolithiasis, based on evidence from upper tract stones, constitute the best available recommendations, especially for migratory bladder stones (see Chapter 4). Where it is possible to address the cause of secondary bladder stones (e.g. treatment of BPO), it is unclear whether metabolic intervention would offer any significant additional benefit in preventing stone recurrence. However, especially where the secondary cause cannot be addressed (e.g. indwelling catheter, neuropathic bladder, bladder augmentation, urinary diversion), metabolic interventions are likely to reduce bladder stone recurrence rates. Regular bladder irrigation reduces the chances of bladder stone recurrence in adults and children with bladder augmentation or continent cutaneous urinary diversion and adults with spinal cord injury who perform CISC (see Section 6.4.5) [860,865,891]. In children with primary (endemic) bladder stones, maintenance of hydration, avoidance of diarrhoea and a mixed cereal diet with milk and vitamins A and B supplements, with the addition of eggs, meat and boiled cow’s milk after one year of age are recommended to prevent a recurrence [814]. Finally, there are contradictory reports on a possible association between bladder calculi and the future development of bladder cancer [905-907]. The need for follow-up with regular cystoscopy therefore remains controversial.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-6-summary-of-evidence-and-recommendations-for-the-treatment-of-bladder-stones",
+      "title": "6.6. Summary of evidence and recommendations for the treatment of bladder stones",
+      "level": 3,
+      "text": "Summary of evidence LE The incidence of bladder stones peaks at three years in children (endemic/primary stones in developing countries) and 60 years in adults. 2c In adults, BOO is the most common predisposing factor for bladder stone formation. 2c Of men undergoing surgery for BPO, 3–4.7% form bladder stones. 2b Primary (endemic) bladder stones typically occur in children in areas with poor hydration, recurrent diarrhoea and a diet deficient in animal protein. The following measures are proposed to reduce their incidence: maintenance of hydration, avoidance of diarrhoea, and a mixed cereal diet with milk and Vitamins A and B supplements, with the addition of eggs, meat and boiled cows’ milk after one year of age. 5 Endoscopic bladder stone treatments (transurethral or percutaneous) are associated with comparable SFRs, but a shorter length of hospital stay, duration of procedure and duration of catheterisation compared to open cystolithotomy in adults. 1a Stone-free rates are lower in patients treated with SWL than those treated with open or endoscopic procedures in both adults and children. 2a Transurethral cystolithotripsy is associated with a shorter length of hospital stay, less pain and a shorter convalescence period than percutaneous cystolithotripsy in adults. 1b Transurethral cystolithotripsy with a nephroscope is quicker than when using a cystoscope with no difference in SFR in adults. 1a Mechanical, pneumatic and laser appear equivalent lithotripsy modalities for use in endoscopic bladder stone treatments in adults and children. 2a Open cystolithotomy without a retropubic drain or urethral catheter (‘tubeless’) is associated with a shorter length of hospital stay than traditional cystolithotomy and can be performed safely in children with primary stones and no prior bladder surgery or infections. 2b Bladder stone removal with concomitant treatment for BOO is associated with no significant difference in major postoperative complications when compared to BOO treatment alone in adults. However, concomitant bladder stone treatment does increase the rates of short-term postoperative incontinence and UTI. 2b The incidence of bladder stone formation in spinal cord injury patients is 19–67% over time. The absolute annual risk of stone formation in spinal cord injury patients is significantly higher with an indwelling catheter compared to those voiding with CISC or spontaneously. 2b The incidence of bladder stone formation after bladder augmentation or vesico-entero-cystostomy is between 2–53% in adults and children. 2b The risk of bladder stone formation in spinal cord injury, bladder augmentation or continent urinary diversion patients is reduced by performing regular bladder irrigation. 2b Recommendations Strength rating Use ultrasound as first-line imaging with symptoms suggestive of a bladder stone. Strong Use cystoscopy or computed tomography, or kidney-ureter-bladder X-Ray (KUB) to investigate adults with persistent symptoms suggestive of a bladder stone if US is negative. Strong All patients with bladder stones should be examined and investigated for the cause of bladder stone formation, including: uroflowmetry and post-void residual; urine dipstick, pH, ± culture; and metabolic assessment and stone analysis (see sections 3.3.2.c and 4.1 of the Urolithiasis Guidelines for further details). In selected patients, consider: upper tract imaging (in patients with a history of urolithiasis or loin pain); and cystourethroscopy or urethrogram. Weak Offer oral chemolitholysis for radiolucent or known uric acid bladder stones in adults. Weak Offer adults with bladder stones transurethral cystolithotripsy where possible. Strong Perform transurethral cystolithotripsy with a continuous flow instrument in adults (e.g. nephroscope or resectoscope) where possible. Weak Offer adults percutaneous cystolithotripsy where transurethral cystolithotripsy is not possible or advisable. Strong Suggest open cystolithotomy as an option for very large bladder stones in adults and children. Weak Offer children with bladder stones transurethral cystolithotripsy where possible. Weak Offer children percutaneous cystolithotripsy where transurethral cystolithotripsy is not possible or is associated with a high risk of urethral stricture (e.g. young children, previous urethral reconstruction and spinal cord injury). Weak Open, laparoscopic and extracorporeal shock wave lithotripsy are alternative treatments where endoscopic treatment is not advisable in adults and children. Weak Prefer ‘tubeless’ procedure (without placing a catheter or drain) for children with primary bladder stones and no prior infection, surgery or bladder dysfunction where open cystolithotomy is indicated. Weak Individualise imaging follow-up for each patient as there is a paucity of evidence. Factors affecting follow-up will include: whether the underlying functional predisposition to stone formation can be treated (e.g. TURP); and metabolic risk. Weak Recommen",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "The incidence of bladder stones peaks at three years in children (endemic/primary stones in developing countries) and 60 years in adults.",
+              "2c"
+            ],
+            [
+              "In adults, BOO is the most common predisposing factor for bladder stone formation.",
+              "2c"
+            ],
+            [
+              "Of men undergoing surgery for BPO, 3–4.7% form bladder stones.",
+              "2b"
+            ],
+            [
+              "Primary (endemic) bladder stones typically occur in children in areas with poor hydration, recurrent diarrhoea and a diet deficient in animal protein. The following measures are proposed to reduce their incidence: maintenance of hydration, avoidance of diarrhoea, and a mixed cereal diet with milk and Vitamins A and B supplements, with the addition of eggs, meat and boiled cows’ milk after one year of age.",
+              "5"
+            ],
+            [
+              "Endoscopic bladder stone treatments (transurethral or percutaneous) are associated with comparable SFRs, but a shorter length of hospital stay, duration of procedure and duration of catheterisation compared to open cystolithotomy in adults.",
+              "1a"
+            ],
+            [
+              "Stone-free rates are lower in patients treated with SWL than those treated with open or endoscopic procedures in both adults and children.",
+              "2a"
+            ],
+            [
+              "Transurethral cystolithotripsy is associated with a shorter length of hospital stay, less pain and a shorter convalescence period than percutaneous cystolithotripsy in adults.",
+              "1b"
+            ],
+            [
+              "Transurethral cystolithotripsy with a nephroscope is quicker than when using a cystoscope with no difference in SFR in adults.",
+              "1a"
+            ],
+            [
+              "Mechanical, pneumatic and laser appear equivalent lithotripsy modalities for use in endoscopic bladder stone treatments in adults and children.",
+              "2a"
+            ],
+            [
+              "Open cystolithotomy without a retropubic drain or urethral catheter (‘tubeless’) is associated with a shorter length of hospital stay than traditional cystolithotomy and can be performed safely in children with primary stones and no prior bladder surgery or infections.",
+              "2b"
+            ],
+            [
+              "Bladder stone removal with concomitant treatment for BOO is associated with no significant difference in major postoperative complications when compared to BOO treatment alone in adults. However, concomitant bladder stone treatment does increase the rates of short-term postoperative incontinence and UTI.",
+              "2b"
+            ],
+            [
+              "The incidence of bladder stone formation in spinal cord injury patients is 19–67% over time. The absolute annual risk of stone formation in spinal cord injury patients is significantly higher with an indwelling catheter compared to those voiding with CISC or spontaneously.",
+              "2b"
+            ],
+            [
+              "The incidence of bladder stone formation after bladder augmentation or vesico-entero-cystostomy is between 2–53% in adults and children.",
+              "2b"
+            ],
+            [
+              "The risk of bladder stone formation in spinal cord injury, bladder augmentation or continent urinary diversion patients is reduced by performing regular bladder irrigation.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use ultrasound as first-line imaging with symptoms suggestive of a bladder stone.",
+              "Strong"
+            ],
+            [
+              "Use cystoscopy or computed tomography, or kidney-ureter-bladder X-Ray (KUB) to investigate adults with persistent symptoms suggestive of a bladder stone if US is negative.",
+              "Strong"
+            ],
+            [
+              "All patients with bladder stones should be examined and investigated for the cause of bladder stone formation, including:uroflowmetry and post-void residual;urine dipstick, pH, ± culture; andmetabolic assessment and stone analysis (see sections 3.3.2.c and 4.1 of the Urolithiasis Guidelines for further details).In selected patients, consider:upper tract imaging (in patients with a history of urolithiasis or loin pain); andcystourethroscopy or urethrogram.",
+              "Weak"
+            ],
+            [
+              "Offer oral chemolitholysis for radiolucent or known uric acid bladder stones in adults.",
+              "Weak"
+            ],
+            [
+              "Offer adults with bladder stones transurethral cystolithotripsy where possible.",
+              "Strong"
+            ],
+            [
+              "Perform transurethral cystolithotripsy with a continuous flow instrument in adults(e.g. nephroscope or resectoscope) where possible.",
+              "Weak"
+            ],
+            [
+              "Offer adults percutaneous cystolithotripsy where transurethral cystolithotripsy is not possible or advisable.",
+              "Strong"
+            ],
+            [
+              "Suggest open cystolithotomy as an option for very large bladder stones in adults and children.",
+              "Weak"
+            ],
+            [
+              "Offer children with bladder stones transurethral cystolithotripsy where possible.",
+              "Weak"
+            ],
+            [
+              "Offer children percutaneous cystolithotripsy where transurethral cystolithotripsy is not possible or is associated with a high risk of urethral stricture (e.g. young children, previous urethral reconstruction and spinal cord injury).",
+              "Weak"
+            ],
+            [
+              "Open, laparoscopic and extracorporeal shock wave lithotripsy are alternative treatments where endoscopic treatment is not advisable in adults and children.",
+              "Weak"
+            ],
+            [
+              "Prefer ‘tubeless’ procedure (without placing a catheter or drain) for children with primary bladder stones and no prior infection, surgery or bladder dysfunction where open cystolithotomy is indicated.",
+              "Weak"
+            ],
+            [
+              "Individualise imaging follow-up for each patient as there is a paucity of evidence. Factors affecting follow-up will include:whether the underlying functional predisposition to stone formation can be treated(e.g. TURP); andmetabolic risk.",
+              "Weak"
+            ],
+            [
+              "Recommend regular irrigation therapy with saline solution to adults and children with bladder augmentation, continent cutaneous urinary reservoir or neuropathic bladder dysfunction, and no history of autonomic dysreflexia to reduce the risk of stone recurrence.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 3
+}

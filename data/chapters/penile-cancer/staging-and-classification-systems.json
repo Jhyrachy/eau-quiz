@@ -1,0 +1,658 @@
+{
+  "guideline": "penile-cancer",
+  "chapter": "staging-and-classification-systems",
+  "url": "https://uroweb.org/guidelines/penile-cancer/chapter/staging-and-classification-systems",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Preface",
+      "anchor": "#1-5-preface"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review and future goals",
+      "anchor": "#2-2-review-and-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AETIOLOGY AND PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definition of penile cancer",
+      "anchor": "#3-1-definition-of-penile-cancer"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Risk factors, prognosis and prevention",
+      "anchor": "#3-3-risk-factors-prognosis-and-prevention"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Pathology",
+      "anchor": "#3-4-pathology"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Gross handling of pathology specimens",
+      "anchor": "#3-4-1-gross-handling-of-pathology-specimens"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Pathology report",
+      "anchor": "#3-4-2-pathology-report"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Grading",
+      "anchor": "#3-4-3-grading"
+    },
+    {
+      "level": 4,
+      "text": "3.4.4. Pathological prognostic factors",
+      "anchor": "#3-4-4-pathological-prognostic-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.4.5. Penile cancer and HPV",
+      "anchor": "#3-4-5-penile-cancer-and-hpv"
+    },
+    {
+      "level": 4,
+      "text": "3.4.6. Penile biopsy: pathological and technical considerations",
+      "anchor": "#3-4-6-penile-biopsy-pathological-and-technical-considerations"
+    },
+    {
+      "level": 4,
+      "text": "3.4.7. Summary of evidence and guidelines for the pathological assessment of tumour specimens",
+      "anchor": "#3-4-7-summary-of-evidence-and-guidelines-for-the-pathological-assessment-of-tumour-specimens"
+    },
+    {
+      "level": 2,
+      "text": "4. CLASSIFICATION SYSTEMS",
+      "anchor": "#4-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Tumour, node and metastasis classification",
+      "anchor": "#4-1-tumour-node-and-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Cancer stage grouping",
+      "anchor": "#4-2-cancer-stage-grouping"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION AND STAGING",
+      "anchor": "#5-diagnostic-evaluation-and-staging"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Primary lesion",
+      "anchor": "#5-1-primary-lesion"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Physical examination",
+      "anchor": "#5-1-1-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Imaging of the primary tumour",
+      "anchor": "#5-1-2-imaging-of-the-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "5.1.3. Penile biopsy: indications",
+      "anchor": "#5-1-3-penile-biopsy-indications"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Lymph node staging",
+      "anchor": "#5-2-lymph-node-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Physical examination",
+      "anchor": "#5-2-1-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Clinically node-negative (cN0)",
+      "anchor": "#5-2-2-clinically-node-negative-cn0"
+    },
+    {
+      "level": 4,
+      "text": "5.2.3. Clinically node-positive (cN+)",
+      "anchor": "#5-2-3-clinically-node-positive-cn"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Genomic testing",
+      "anchor": "#5-3-genomic-testing"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Summary of evidence and guidelines for the diagnosis and staging of penile cancer",
+      "anchor": "#5-4-summary-of-evidence-and-guidelines-for-the-diagnosis-and-staging-of-penile-cancer"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT",
+      "anchor": "#6-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Treatment of the primary tumour",
+      "anchor": "#6-1-treatment-of-the-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Treatment of superficial non-invasive disease (PeIN, Ta)",
+      "anchor": "#6-1-1-treatment-of-superficial-non-invasive-disease-pein-ta"
+    },
+    {
+      "level": 4,
+      "text": "6.1.3. Locally advanced disease (T3–T4)",
+      "anchor": "#6-1-3-locally-advanced-disease-t3t4"
+    },
+    {
+      "level": 4,
+      "text": "6.1.4. Local recurrence after organ-sparing surgery",
+      "anchor": "#6-1-4-local-recurrence-after-organ-sparing-surgery"
+    },
+    {
+      "level": 4,
+      "text": "6.1.5. Summary of evidence and guidelines for local treatment of penile carcinoma",
+      "anchor": "#6-1-5-summary-of-evidence-and-guidelines-for-local-treatment-of-penile-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Regional lymph node management: clinically evident disease (cN1–cN3)",
+      "anchor": "#6-2-regional-lymph-node-management-clinically-evident-disease-cn1cn3"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Introduction",
+      "anchor": "#6-2-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "6.2.2.c N1–N2 disease: radical inguinal lymph node dissection",
+      "anchor": "#6-2-2-c-n1n2-disease-radical-inguinal-lymph-node-dissection"
+    },
+    {
+      "level": 4,
+      "text": "6.2.3. Prophylactic pelvic lymph node dissection",
+      "anchor": "#6-2-3-prophylactic-pelvic-lymph-node-dissection"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Clinical N3 disease (cN3)",
+      "anchor": "#6-3-clinical-n3-disease-cn3"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. Diagnostic evaluation",
+      "anchor": "#6-3-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Management strategy",
+      "anchor": "#6-3-2-management-strategy"
+    },
+    {
+      "level": 4,
+      "text": "6.3.4. Surgical technique",
+      "anchor": "#6-3-4-surgical-technique"
+    },
+    {
+      "level": 4,
+      "text": "6.3.5. Summary of evidence and guidelines for the surgical management of cN3 disease",
+      "anchor": "#6-3-5-summary-of-evidence-and-guidelines-for-the-surgical-management-of-cn3-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Systemic therapy",
+      "anchor": "#6-4-1-systemic-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Radiotherapy",
+      "anchor": "#6-4-2-radiotherapy"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Systemic and palliative therapies for advanced disease",
+      "anchor": "#6-5-systemic-and-palliative-therapies-for-advanced-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.5.1. Introduction",
+      "anchor": "#6-5-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "6.5.2. Chemotherapy",
+      "anchor": "#6-5-2-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.5.3. Role of radiotherapy in palliation",
+      "anchor": "#6-5-3-role-of-radiotherapy-in-palliation"
+    },
+    {
+      "level": 4,
+      "text": "6.5.4. Summary of evidence and guidelines for systemic and palliative therapies for advanced penile cancer",
+      "anchor": "#6-5-4-summary-of-evidence-and-guidelines-for-systemic-and-palliative-therapies-for-advanced-penile-cancer"
+    },
+    {
+      "level": 2,
+      "text": "7. FOLLOW-UP AND QUALITY OF LIFE",
+      "anchor": "#7-follow-up-and-quality-of-life"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Unmet needs",
+      "anchor": "#7-1-unmet-needs"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Rationale for follow-up",
+      "anchor": "#7-2-rationale-for-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. When and how to follow-up",
+      "anchor": "#7-2-1-when-and-how-to-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Recurrence of the primary tumour",
+      "anchor": "#7-2-2-recurrence-of-the-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Regional recurrence",
+      "anchor": "#7-2-3-regional-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Patient support services",
+      "anchor": "#7-3-patient-support-services"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Psychological support",
+      "anchor": "#7-3-1-psychological-support"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Quality of life",
+      "anchor": "#7-3-2-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. Urinary function",
+      "anchor": "#7-3-3-urinary-function"
+    },
+    {
+      "level": 4,
+      "text": "7.3.4. Sexual function",
+      "anchor": "#7-3-4-sexual-function"
+    },
+    {
+      "level": 4,
+      "text": "7.3.5. Lymphoedema",
+      "anchor": "#7-3-5-lymphoedema"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Centralisation of penile cancer services",
+      "anchor": "#7-4-centralisation-of-penile-cancer-services"
+    },
+    {
+      "level": 4,
+      "text": "7.4.1. Advantages of centralised care",
+      "anchor": "#7-4-1-advantages-of-centralised-care"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Guideline adherence",
+      "anchor": "#7-4-2-guideline-adherence"
+    },
+    {
+      "level": 4,
+      "text": "7.4.3. Survival",
+      "anchor": "#7-4-3-survival"
+    },
+    {
+      "level": 4,
+      "text": "7.4.4. Disadvantages of centralised care",
+      "anchor": "#7-4-4-disadvantages-of-centralised-care"
+    },
+    {
+      "level": 3,
+      "text": "7.5. Summary of evidence and guidelines for follow-up and quality of life",
+      "anchor": "#7-5-summary-of-evidence-and-guidelines-for-follow-up-and-quality-of-life"
+    },
+    {
+      "level": 2,
+      "text": "8. REFERENCES",
+      "anchor": "#8-references"
+    },
+    {
+      "level": 2,
+      "text": "9. CONFLICT OF INTEREST",
+      "anchor": "#9-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "10. CITATION INFORMATION",
+      "anchor": "#10-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "11. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#11-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#penile-cancer",
+      "title": "Penile Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 4. Classification Systems Introduction Methods Epidemiology Aetiology And Pathology Classification Systems Diagnostic Evaluation And Staging Disease Management Follow-up And Quality Of Life References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#4-classification-systems",
+      "title": "4. CLASSIFICATION SYSTEMS",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-tumour-node-and-metastasis-classification",
+      "title": "4.1. Tumour, node and metastasis classification",
+      "level": 3,
+      "text": "The 9 th edition of the UICC/American Joint Committee on Cancer (AJCC) TNM classification published in 2025 does not differ from the 8 th edition [96,106]. Some changes were introduced compared to the 7 th edition. The T1 category is stratified into two different risk groups, depending on the absence or presence of lymphovascular invasion, perineural invasion or poor differentiation (T1a vs. T1b, respectively [see Table 4.1]) [107]. Furthermore, invasion into the urethra was previously classified as T3 disease. However, a tumour near the meatus may directly invade into the distal urethra through the corpus spongiosum, which is not associated with worse outcome. In addition, previous studies have shown that corpus spongiosum invasion is associated with a lower incidence of inguinal LN metastasis and has better survival compared to corpus cavernosum invasion. Therefore, invasion into the corpus spongiosum and corpus cavernosum is classified into T2 and T3, respectively [108,109]. Patients with T4 tumours have extension into adjacent tissues (e.g. prepubic fat, scrotum, spermatic cord, pubic bone, prostate). The pN1 category was modified to include up to two unilateral inguinal LN metastases, while the pN2 category was modified to be three or more unilateral, or any bilateral LN metastases. This was based on data showing poor outcomes in cases involving three or more unilateral or bilateral LNs compared with those involving one or two unilateral LNs [109,110]. pN3 stage is defined as pelvic nodes (unilateral or bilateral) or presence of extranodal extension (ENE) (inguinal or pelvic, regardless of the number of LN metastases) [96,106]. Further retroperitoneal LN spread cranial to the pelvic template is classified as extraregional and therefore as distant metastases. Table 4.1: UICC/AJCC 8th and 9th editions TNM clinical and pathological classification of penile cancer [96, 106] Clinical classification T – Primary tumour TX Primary tumour cannot be assessed T0 No evidence of primary tumour Tis Carcinoma in situ (penile intraepithelial neoplasia – PeIN) Ta Non-invasive verrucous carcinoma* T1 Tumour invades subepithelial connective tissue   T1a Tumour invades subepithelial connective tissue without lymphovascular invasion or perineural invasion and is not poorly differentiated   T1b Tumour invades subepithelial connective tissue with lymphovascular invasion or perineural invasion or is poorly differentiated T2 Tumour invades corpus spongiosum with or without invasion of the urethra T3 Tumour invades corpus cavernosum with or without invasion of the urethra T4 Tumour invades other adjacent structures N – Regional lymph nodes cNX Regional lymph nodes cannot be assessed cN0 No palpable or visibly enlarged inguinal lymph nodes cN1 Palpable mobile unilateral inguinal lymph node cN2 Palpable mobile multiple or bilateral inguinal lymph nodes cN3 Fixed inguinal nodal mass or pelvic lymphadenopathy, unilateral or bilateral M – Distant metastasis cM0 No distant metastasis cM1 Distant metastasis Pathological classification The pT categories correspond to the clinical T categories. The pN categories are based upon biopsy or surgical excision pN – Regional lymph nodes pNX Regional lymph nodes cannot be assessed pN0 No regional lymph node metastasis pN1 Metastasis in one or two inguinal lymph nodes pN2 Metastasis in more than two unilateral inguinal nodes or bilateral inguinal lymph nodes pN3 Metastasis in pelvic lymph node(s), unilateral or bilateral or extranodal extension of regional lymph node metastasis pM – Distant metastasis pM1 Distant metastasis microscopically confirmed G – Histopathological grading GX Grade of differentiation cannot be assessed G1 Well differentiated G2 Moderately differentiated G3 G4 Poorly differentiated Undifferentiated *Including verrucous carcinoma.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Clinical classification"
+            ],
+            [
+              "T – Primary tumour"
+            ],
+            [
+              "TX",
+              "Primary tumour cannot be assessed"
+            ],
+            [
+              "T0",
+              "No evidence of primary tumour"
+            ],
+            [
+              "Tis",
+              "Carcinoma in situ (penile intraepithelial neoplasia – PeIN)"
+            ],
+            [
+              "Ta",
+              "Non-invasive verrucous carcinoma*"
+            ],
+            [
+              "T1",
+              "Tumour invades subepithelial connective tissue"
+            ],
+            [
+              " ",
+              "T1a",
+              "Tumour invades subepithelial connective tissue without lymphovascular invasion or perineural invasion and is not poorly differentiated"
+            ],
+            [
+              " ",
+              "T1b",
+              "Tumour invades subepithelial connective tissue with lymphovascular invasion or perineural invasion or is poorly differentiated"
+            ],
+            [
+              "T2",
+              "Tumour invades corpus spongiosum with or without invasion of the urethra"
+            ],
+            [
+              "T3",
+              "Tumour invades corpus cavernosum with or without invasion of the urethra"
+            ],
+            [
+              "T4",
+              "Tumour invades other adjacent structures"
+            ],
+            [
+              "N – Regional lymph nodes"
+            ],
+            [
+              "cNX",
+              "Regional lymph nodes cannot be assessed"
+            ],
+            [
+              "cN0",
+              "No palpable or visibly enlarged inguinal lymph nodes"
+            ],
+            [
+              "cN1",
+              "Palpable mobile unilateral inguinal lymph node"
+            ],
+            [
+              "cN2",
+              "Palpable mobile multiple or bilateral inguinal lymph nodes"
+            ],
+            [
+              "cN3",
+              "Fixed inguinal nodal mass or pelvic lymphadenopathy, unilateral or bilateral"
+            ],
+            [
+              "M – Distant metastasis"
+            ],
+            [
+              "cM0",
+              "No distant metastasis"
+            ],
+            [
+              "cM1",
+              "Distant metastasis"
+            ],
+            [
+              "Pathological classification"
+            ],
+            [
+              "The pT categories correspond to the clinical T categories.The pN categories are based upon biopsy or surgical excision"
+            ],
+            [
+              "pN – Regional lymph nodes"
+            ],
+            [
+              "pNX",
+              "Regional lymph nodes cannot be assessed"
+            ],
+            [
+              "pN0",
+              "No regional lymph node metastasis"
+            ],
+            [
+              "pN1",
+              "Metastasis in one or two inguinal lymph nodes"
+            ],
+            [
+              "pN2",
+              "Metastasis in more than two unilateral inguinal nodes or bilateral inguinal lymph nodes"
+            ],
+            [
+              "pN3",
+              "Metastasis in pelvic lymph node(s), unilateral or bilateral or extranodal extension of regional lymph node metastasis"
+            ],
+            [
+              "pM – Distant metastasis"
+            ],
+            [
+              "pM1",
+              "Distant metastasis microscopically confirmed"
+            ],
+            [
+              "G – Histopathological grading"
+            ],
+            [
+              "GX",
+              "Grade of differentiation cannot be assessed"
+            ],
+            [
+              "G1",
+              "Well differentiated"
+            ],
+            [
+              "G2",
+              "Moderately differentiated"
+            ],
+            [
+              "G3G4",
+              "Poorly differentiatedUndifferentiated"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-2-cancer-stage-grouping",
+      "title": "4.2. Cancer stage grouping",
+      "level": 3,
+      "text": "In the UICC TNM 8 th edition, stage II was newly subdivided into Stage IIA and Stage IIB based on T categories. Stage IIA is defined as T1b–2N0M0, while Stage IIB is defined as T3N0M0 [96] (Table 4.2). Table 4.2: UICC TNM stage/Prognostic groups [96] Stage T N M 0 Tis N0 M0 Ta N0 M0 I T1a N0 M0 IIA T1b N0 M0 T2 N0 M0 IIB T3 N0 M0 IIIA T1–3 N1 M0 IIIB T1–3 N2 M0 IV T4 Any N M0 Any T N3 M0 Any T Any N M1",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Stage",
+              "T",
+              "N",
+              "M"
+            ],
+            [
+              "0",
+              "Tis",
+              "N0",
+              "M0"
+            ],
+            [
+              "Ta",
+              "N0",
+              "M0"
+            ],
+            [
+              "I",
+              "T1a",
+              "N0",
+              "M0"
+            ],
+            [
+              "IIA",
+              "T1b",
+              "N0",
+              "M0"
+            ],
+            [
+              "T2",
+              "N0",
+              "M0"
+            ],
+            [
+              "IIB",
+              "T3",
+              "N0",
+              "M0"
+            ],
+            [
+              "IIIA",
+              "T1–3",
+              "N1",
+              "M0"
+            ],
+            [
+              "IIIB",
+              "T1–3",
+              "N2",
+              "M0"
+            ],
+            [
+              "IV",
+              "T4",
+              "Any N",
+              "M0"
+            ],
+            [
+              "Any T",
+              "N3",
+              "M0"
+            ],
+            [
+              "Any T",
+              "Any N",
+              "M1"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 2
+}

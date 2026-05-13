@@ -1,0 +1,2151 @@
+{
+  "guideline": "paediatric-urology",
+  "chapter": "foetal-urology",
+  "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/foetal-urology",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim",
+      "anchor": "#1-1-aim"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Summary of changes",
+      "anchor": "#1-5-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Introduction",
+      "anchor": "#2-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 2,
+      "text": "3. PHIMOSIS AND OTHER ABNORMALITIES OF THE PENILE SKIN",
+      "anchor": "#3-phimosis-and-other-abnormalities-of-the-penile-skin"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Terminology, epidemiology and pathophysiology",
+      "anchor": "#3-1-terminology-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Classification and diagnostic evaluation",
+      "anchor": "#3-2-classification-and-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Management",
+      "anchor": "#3-3-management"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Complications",
+      "anchor": "#3-4-complications"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Follow-up",
+      "anchor": "#3-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "3.6. Summary of evidence and recommendations for the management of phimosis",
+      "anchor": "#3-6-summary-of-evidence-and-recommendations-for-the-management-of-phimosis"
+    },
+    {
+      "level": 2,
+      "text": "4. MANAGEMENT OF UNDESCENDED TESTES",
+      "anchor": "#4-management-of-undescended-testes"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Background",
+      "anchor": "#4-1-background"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Classification",
+      "anchor": "#4-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. Palpable testes",
+      "anchor": "#4-2-1-palpable-testes"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. Nonpalpable testes",
+      "anchor": "#4-2-2-nonpalpable-testes"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Diagnostic evaluation",
+      "anchor": "#4-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. History",
+      "anchor": "#4-3-1-history"
+    },
+    {
+      "level": 4,
+      "text": "4.3.2. Physical examination",
+      "anchor": "#4-3-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "4.3.3. Imaging studies",
+      "anchor": "#4-3-3-imaging-studies"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Management",
+      "anchor": "#4-4-management"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Medical therapy",
+      "anchor": "#4-4-1-medical-therapy"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Surgical therapy",
+      "anchor": "#4-4-2-surgical-therapy"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Undescended testes and fertility",
+      "anchor": "#4-5-undescended-testes-and-fertility"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Undescended testes and malignancy",
+      "anchor": "#4-6-undescended-testes-and-malignancy"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Summary of evidence and recommendations for the management of undescended testes",
+      "anchor": "#4-7-summary-of-evidence-and-recommendations-for-the-management-of-undescended-testes"
+    },
+    {
+      "level": 2,
+      "text": "5. TESTICULAR TUMOURS IN PREPUBERTAL BOYS",
+      "anchor": "#5-testicular-tumours-in-prepubertal-boys"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Epidemiology and pathophysiology",
+      "anchor": "#5-1-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Clinical presentation",
+      "anchor": "#5-2-clinical-presentation"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Evaluation",
+      "anchor": "#5-3-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Tumour entities in prepubertal boys",
+      "anchor": "#5-5-tumour-entities-in-prepubertal-boys"
+    },
+    {
+      "level": 4,
+      "text": "5.5.1. Germ cell tumours",
+      "anchor": "#5-5-1-germ-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "5.5.2. Gonadal stromal tumours",
+      "anchor": "#5-5-2-gonadal-stromal-tumours"
+    },
+    {
+      "level": 4,
+      "text": "5.5.3. Other tumours",
+      "anchor": "#5-5-3-other-tumours"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Follow-up",
+      "anchor": "#5-6-follow-up"
+    },
+    {
+      "level": 2,
+      "text": "6. FERTILITY PRESERVATION IN CHILDREN AND ADOLESCENTS",
+      "anchor": "#6-fertility-preservation-in-children-and-adolescents"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Ovarian tissue cryopreservation in prepubertal and adolescent girls",
+      "anchor": "#6-1-ovarian-tissue-cryopreservation-in-prepubertal-and-adolescent-girls"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Cryopreservation in prepubertal and adolescent boys",
+      "anchor": "#6-2-cryopreservation-in-prepubertal-and-adolescent-boys"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Summary of evidence and recommendations fertility preservation in children and adolescents",
+      "anchor": "#6-3-summary-of-evidence-and-recommendations-fertility-preservation-in-children-and-adolescents"
+    },
+    {
+      "level": 2,
+      "text": "7. HYDROCELE",
+      "anchor": "#7-hydrocele"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#7-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Diagnostic evaluation",
+      "anchor": "#7-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Management",
+      "anchor": "#7-3-management"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Summary of evidence and recommendations for the management of hydrocele",
+      "anchor": "#7-4-summary-of-evidence-and-recommendations-for-the-management-of-hydrocele"
+    },
+    {
+      "level": 2,
+      "text": "8. ACUTE SCROTUM",
+      "anchor": "#8-acute-scrotum"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#8-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Diagnostic evaluation",
+      "anchor": "#8-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Management",
+      "anchor": "#8-3-management"
+    },
+    {
+      "level": 4,
+      "text": "8.3.1. Epididymitis",
+      "anchor": "#8-3-1-epididymitis"
+    },
+    {
+      "level": 4,
+      "text": "8.3.2. Testicular torsion",
+      "anchor": "#8-3-2-testicular-torsion"
+    },
+    {
+      "level": 4,
+      "text": "8.3.3. Surgical treatment",
+      "anchor": "#8-3-3-surgical-treatment"
+    },
+    {
+      "level": 3,
+      "text": "8.4. Follow-up",
+      "anchor": "#8-4-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "8.4.1. Fertility",
+      "anchor": "#8-4-1-fertility"
+    },
+    {
+      "level": 4,
+      "text": "8.4.2. Subfertility",
+      "anchor": "#8-4-2-subfertility"
+    },
+    {
+      "level": 4,
+      "text": "8.4.3. Androgen levels",
+      "anchor": "#8-4-3-androgen-levels"
+    },
+    {
+      "level": 2,
+      "text": "9. HYPOSPADIAS",
+      "anchor": "#9-hypospadias"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Epidemiology, aetiology, and pathophysiology",
+      "anchor": "#9-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "9.1.1. Epidemiology",
+      "anchor": "#9-1-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Risk factors",
+      "anchor": "#9-2-risk-factors"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Classification systems",
+      "anchor": "#9-3-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "9.4. Diagnostic evaluation",
+      "anchor": "#9-4-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "9.5. Management",
+      "anchor": "#9-5-management"
+    },
+    {
+      "level": 4,
+      "text": "9.5.1. Indication for reconstruction and therapeutic objectives",
+      "anchor": "#9-5-1-indication-for-reconstruction-and-therapeutic-objectives"
+    },
+    {
+      "level": 4,
+      "text": "9.5.2. Preoperative hormonal treatment",
+      "anchor": "#9-5-2-preoperative-hormonal-treatment"
+    },
+    {
+      "level": 4,
+      "text": "9.5.3. Age at surgery",
+      "anchor": "#9-5-3-age-at-surgery"
+    },
+    {
+      "level": 4,
+      "text": "9.5.4. Penile curvature",
+      "anchor": "#9-5-4-penile-curvature"
+    },
+    {
+      "level": 4,
+      "text": "9.5.5. Urethral reconstruction",
+      "anchor": "#9-5-5-urethral-reconstruction"
+    },
+    {
+      "level": 4,
+      "text": "9.5.6. Redo hypospadias repairs",
+      "anchor": "#9-5-6-redo-hypospadias-repairs"
+    },
+    {
+      "level": 4,
+      "text": "9.5.7. Penile reconstruction following formation of the neo-urethra",
+      "anchor": "#9-5-7-penile-reconstruction-following-formation-of-the-neo-urethra"
+    },
+    {
+      "level": 4,
+      "text": "9.5.8. Urine drainage and wound dressing",
+      "anchor": "#9-5-8-urine-drainage-and-wound-dressing"
+    },
+    {
+      "level": 4,
+      "text": "9.5.9. Analgesia (regional blocks)",
+      "anchor": "#9-5-9-analgesia-regional-blocks"
+    },
+    {
+      "level": 3,
+      "text": "9.6. Outcomes and complications",
+      "anchor": "#9-6-outcomes-and-complications"
+    },
+    {
+      "level": 4,
+      "text": "9.6.1. Factors influencing outcomes",
+      "anchor": "#9-6-1-factors-influencing-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "9.6.2. Complications",
+      "anchor": "#9-6-2-complications"
+    },
+    {
+      "level": 3,
+      "text": "9.7. Long-term follow-up and transition",
+      "anchor": "#9-7-long-term-follow-up-and-transition"
+    },
+    {
+      "level": 4,
+      "text": "9.7.1. Voiding",
+      "anchor": "#9-7-1-voiding"
+    },
+    {
+      "level": 4,
+      "text": "9.7.2. Penile appearance",
+      "anchor": "#9-7-2-penile-appearance"
+    },
+    {
+      "level": 4,
+      "text": "9.7.3. Sexual function and fertility",
+      "anchor": "#9-7-3-sexual-function-and-fertility"
+    },
+    {
+      "level": 4,
+      "text": "9.7.4. Health-related quality of life",
+      "anchor": "#9-7-4-health-related-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "9.7.5. Transition",
+      "anchor": "#9-7-5-transition"
+    },
+    {
+      "level": 3,
+      "text": "9.8. Summary of evidence and recommendations for the management of hypospadias",
+      "anchor": "#9-8-summary-of-evidence-and-recommendations-for-the-management-of-hypospadias"
+    },
+    {
+      "level": 2,
+      "text": "10. CONGENITAL PENILE CURVATURE",
+      "anchor": "#10-congenital-penile-curvature"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#10-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Diagnostic evaluation",
+      "anchor": "#10-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Management",
+      "anchor": "#10-3-management"
+    },
+    {
+      "level": 3,
+      "text": "10.4. Summary of evidence and recommendations for the management of congenital penile curvature",
+      "anchor": "#10-4-summary-of-evidence-and-recommendations-for-the-management-of-congenital-penile-curvature"
+    },
+    {
+      "level": 2,
+      "text": "11. VARICOCELE IN CHILDREN AND ADOLESCENTS",
+      "anchor": "#11-varicocele-in-children-and-adolescents"
+    },
+    {
+      "level": 3,
+      "text": "11.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#11-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "11.2. Classification systems",
+      "anchor": "#11-2-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "11.3. Diagnostic evaluation",
+      "anchor": "#11-3-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "11.4. Management",
+      "anchor": "#11-4-management"
+    },
+    {
+      "level": 4,
+      "text": "11.4.1. Surgical management",
+      "anchor": "#11-4-1-surgical-management"
+    },
+    {
+      "level": 4,
+      "text": "11.4.2. Radiological management",
+      "anchor": "#11-4-2-radiological-management"
+    },
+    {
+      "level": 3,
+      "text": "11.5. Summary of evidence and recommendations for the management of varicocele",
+      "anchor": "#11-5-summary-of-evidence-and-recommendations-for-the-management-of-varicocele"
+    },
+    {
+      "level": 2,
+      "text": "12. URINARY TRACT INFECTIONS IN CHILDREN",
+      "anchor": "#12-urinary-tract-infections-in-children"
+    },
+    {
+      "level": 3,
+      "text": "12.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#12-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "12.2. Presentation symptoms",
+      "anchor": "#12-2-presentation-symptoms"
+    },
+    {
+      "level": 3,
+      "text": "12.3. Classification systems",
+      "anchor": "#12-3-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "12.3.1. Classification according to clinical presentation",
+      "anchor": "#12-3-1-classification-according-to-clinical-presentation"
+    },
+    {
+      "level": 4,
+      "text": "12.3.2. Classification according to episode: first, recurrent, breakthrough",
+      "anchor": "#12-3-2-classification-according-to-episode-first-recurrent-breakthrough"
+    },
+    {
+      "level": 4,
+      "text": "12.3.3. Classification according to age and toilet-training status",
+      "anchor": "#12-3-3-classification-according-to-age-and-toilet-training-status"
+    },
+    {
+      "level": 4,
+      "text": "12.3.4. Classification according to the clinical course",
+      "anchor": "#12-3-4-classification-according-to-the-clinical-course"
+    },
+    {
+      "level": 4,
+      "text": "12.3.5. Classification according to urinary tract abnormalities",
+      "anchor": "#12-3-5-classification-according-to-urinary-tract-abnormalities"
+    },
+    {
+      "level": 3,
+      "text": "12.4. Diagnostic evaluation",
+      "anchor": "#12-4-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "12.4.1. Medical history",
+      "anchor": "#12-4-1-medical-history"
+    },
+    {
+      "level": 4,
+      "text": "12.4.2. Physical examination",
+      "anchor": "#12-4-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "12.4.3. Urine sampling, analysis and culture",
+      "anchor": "#12-4-3-urine-sampling-analysis-and-culture"
+    },
+    {
+      "level": 4,
+      "text": "12.4.4. Blood tests",
+      "anchor": "#12-4-4-blood-tests"
+    },
+    {
+      "level": 3,
+      "text": "12.5. Additional workup",
+      "anchor": "#12-5-additional-workup"
+    },
+    {
+      "level": 4,
+      "text": "12.5.1. Ultrasound (US)",
+      "anchor": "#12-5-1-ultrasound-us"
+    },
+    {
+      "level": 3,
+      "text": "12.6. Management",
+      "anchor": "#12-6-management"
+    },
+    {
+      "level": 4,
+      "text": "12.6.1. Administration route of antibacterial therapy",
+      "anchor": "#12-6-1-administration-route-of-antibacterial-therapy"
+    },
+    {
+      "level": 4,
+      "text": "12.6.2. Adjustment of antimicrobial agents",
+      "anchor": "#12-6-2-adjustment-of-antimicrobial-agents"
+    },
+    {
+      "level": 4,
+      "text": "12.6.3. Duration of therapy",
+      "anchor": "#12-6-3-duration-of-therapy"
+    },
+    {
+      "level": 4,
+      "text": "12.6.4. Adjunct steroid treatment",
+      "anchor": "#12-6-4-adjunct-steroid-treatment"
+    },
+    {
+      "level": 4,
+      "text": "12.6.5. Temporary urinary diversion",
+      "anchor": "#12-6-5-temporary-urinary-diversion"
+    },
+    {
+      "level": 4,
+      "text": "12.6.6. Monitoring",
+      "anchor": "#12-6-6-monitoring"
+    },
+    {
+      "level": 3,
+      "text": "12.7. Measures to prevent UTI recurrences",
+      "anchor": "#12-7-measures-to-prevent-uti-recurrences"
+    },
+    {
+      "level": 4,
+      "text": "12.7.1. Chemoprophylaxis",
+      "anchor": "#12-7-1-chemoprophylaxis"
+    },
+    {
+      "level": 4,
+      "text": "12.7.2. Nonantibiotic prophylaxis",
+      "anchor": "#12-7-2-nonantibiotic-prophylaxis"
+    },
+    {
+      "level": 4,
+      "text": "12.7.3. Phimosis",
+      "anchor": "#12-7-3-phimosis"
+    },
+    {
+      "level": 4,
+      "text": "12.7.4. Bladder and bowel dysfunction and lower urinary tract disorders",
+      "anchor": "#12-7-4-bladder-and-bowel-dysfunction-and-lower-urinary-tract-disorders"
+    },
+    {
+      "level": 3,
+      "text": "12.8. Summary of evidence and recommendations for the management of UTI in children",
+      "anchor": "#12-8-summary-of-evidence-and-recommendations-for-the-management-of-uti-in-children"
+    },
+    {
+      "level": 2,
+      "text": "13. DAYTIME LOWER URINARY TRACT CONDITIONS",
+      "anchor": "#13-daytime-lower-urinary-tract-conditions"
+    },
+    {
+      "level": 3,
+      "text": "13.1. Terminology, classification, epidemiology and pathophysiology",
+      "anchor": "#13-1-terminology-classification-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "13.1.1. Filling-phase (storage) dysfunctions",
+      "anchor": "#13-1-1-filling-phase-storage-dysfunctions"
+    },
+    {
+      "level": 4,
+      "text": "13.1.2. Voiding-phase (emptying) dysfunctions",
+      "anchor": "#13-1-2-voiding-phase-emptying-dysfunctions"
+    },
+    {
+      "level": 3,
+      "text": "13.2. Diagnostic evaluation",
+      "anchor": "#13-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "13.2.1. History and physical examination",
+      "anchor": "#13-2-1-history-and-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "13.2.2. Ultrasound and urinalysis",
+      "anchor": "#13-2-2-ultrasound-and-urinalysis"
+    },
+    {
+      "level": 4,
+      "text": "13.2.3. Urodynamics",
+      "anchor": "#13-2-3-urodynamics"
+    },
+    {
+      "level": 3,
+      "text": "13.3. Management",
+      "anchor": "#13-3-management"
+    },
+    {
+      "level": 4,
+      "text": "13.3.1. Urotherapy and specific add-on interventions",
+      "anchor": "#13-3-1-urotherapy-and-specific-add-on-interventions"
+    },
+    {
+      "level": 4,
+      "text": "13.3.2. Medication",
+      "anchor": "#13-3-2-medication"
+    },
+    {
+      "level": 4,
+      "text": "13.3.3. Neuromodulation",
+      "anchor": "#13-3-3-neuromodulation"
+    },
+    {
+      "level": 4,
+      "text": "13.3.4. Surgery",
+      "anchor": "#13-3-4-surgery"
+    },
+    {
+      "level": 3,
+      "text": "13.4. Quality of life",
+      "anchor": "#13-4-quality-of-life"
+    },
+    {
+      "level": 3,
+      "text": "13.5. Follow-up",
+      "anchor": "#13-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "13.6. Summary of evidence and recommendations for the management of daytime lower urinary tract conditions",
+      "anchor": "#13-6-summary-of-evidence-and-recommendations-for-the-management-of-daytime-lower-urinary-tract-conditions"
+    },
+    {
+      "level": 2,
+      "text": "14. MONOSYMPTOMATIC NOCTURNAL ENURESIS - BEDWETTING",
+      "anchor": "#14-monosymptomatic-nocturnal-enuresis---bedwetting"
+    },
+    {
+      "level": 3,
+      "text": "14.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#14-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "14.2. Diagnostic evaluation",
+      "anchor": "#14-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "14.3. Management",
+      "anchor": "#14-3-management"
+    },
+    {
+      "level": 4,
+      "text": "14.3.1. Supportive treatment measures",
+      "anchor": "#14-3-1-supportive-treatment-measures"
+    },
+    {
+      "level": 4,
+      "text": "14.3.2. Wetting alarm treatment",
+      "anchor": "#14-3-2-wetting-alarm-treatment"
+    },
+    {
+      "level": 4,
+      "text": "14.3.3. Medical treatment",
+      "anchor": "#14-3-3-medical-treatment"
+    },
+    {
+      "level": 4,
+      "text": "14.3.4. Electrical neuromodulation",
+      "anchor": "#14-3-4-electrical-neuromodulation"
+    },
+    {
+      "level": 4,
+      "text": "14.3.5. Complementary treatments:",
+      "anchor": "#14-3-5-complementary-treatments"
+    },
+    {
+      "level": 4,
+      "text": "14.3.6. Conservative ‘wait-and-see’ approach",
+      "anchor": "#14-3-6-conservative-wait-and-see-approach"
+    },
+    {
+      "level": 3,
+      "text": "14.4. Summary of evidence and recommendations for the management of monosymptomatic enuresis",
+      "anchor": "#14-4-summary-of-evidence-and-recommendations-for-the-management-of-monosymptomatic-enuresis"
+    },
+    {
+      "level": 2,
+      "text": "15. SPINAL DYSRAPHISM IN CHILDREN AND ADOLESCENTS (FORMALLY NEUROGENIC BLADDER)",
+      "anchor": "#15-spinal-dysraphism-in-children-and-adolescents-formally-neurogenic-bladder"
+    },
+    {
+      "level": 2,
+      "text": "16. DILATATION OF THE UPPER URINARY TRACT (PUJ OBSTRUCTION)",
+      "anchor": "#16-dilatation-of-the-upper-urinary-tract-puj-obstruction"
+    },
+    {
+      "level": 3,
+      "text": "16.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#16-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "16.2. Diagnostic evaluation",
+      "anchor": "#16-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "16.2.1. Antenatal ultrasound",
+      "anchor": "#16-2-1-antenatal-ultrasound"
+    },
+    {
+      "level": 4,
+      "text": "16.2.2. Postnatal ultrasound",
+      "anchor": "#16-2-2-postnatal-ultrasound"
+    },
+    {
+      "level": 4,
+      "text": "16.2.3. Voiding cystourethrogram",
+      "anchor": "#16-2-3-voiding-cystourethrogram"
+    },
+    {
+      "level": 4,
+      "text": "16.2.4. Diuretic renography",
+      "anchor": "#16-2-4-diuretic-renography"
+    },
+    {
+      "level": 4,
+      "text": "16.2.5. Severity classification and risk stratification",
+      "anchor": "#16-2-5-severity-classification-and-risk-stratification"
+    },
+    {
+      "level": 4,
+      "text": "16.2.6. Biomarkers",
+      "anchor": "#16-2-6-biomarkers"
+    },
+    {
+      "level": 3,
+      "text": "16.3. Management",
+      "anchor": "#16-3-management"
+    },
+    {
+      "level": 4,
+      "text": "16.3.1. Prenatal management",
+      "anchor": "#16-3-1-prenatal-management"
+    },
+    {
+      "level": 4,
+      "text": "16.3.2. PUJ obstruction",
+      "anchor": "#16-3-2-puj-obstruction"
+    },
+    {
+      "level": 3,
+      "text": "16.4. Summary of evidence and recommendations for the management of PUJ obstruction",
+      "anchor": "#16-4-summary-of-evidence-and-recommendations-for-the-management-of-puj-obstruction"
+    },
+    {
+      "level": 2,
+      "text": "17. VESICOURETERIC REFLUX",
+      "anchor": "#17-vesicoureteric-reflux"
+    },
+    {
+      "level": 3,
+      "text": "17.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#17-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "17.2. Diagnostic evaluation",
+      "anchor": "#17-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "17.2.1. Recommendation for diagnosis of VUR",
+      "anchor": "#17-2-1-recommendation-for-diagnosis-of-vur"
+    },
+    {
+      "level": 4,
+      "text": "17.2.2. Infants presenting with prenatally diagnosed hydronephrosis",
+      "anchor": "#17-2-2-infants-presenting-with-prenatally-diagnosed-hydronephrosis"
+    },
+    {
+      "level": 4,
+      "text": "17.2.3. Siblings and offspring of reflux patients",
+      "anchor": "#17-2-3-siblings-and-offspring-of-reflux-patients"
+    },
+    {
+      "level": 4,
+      "text": "17.2.4. Recommendation for paediatric screening of VUR",
+      "anchor": "#17-2-4-recommendation-for-paediatric-screening-of-vur"
+    },
+    {
+      "level": 4,
+      "text": "17.2.5. Children with febrile urinary tract infections",
+      "anchor": "#17-2-5-children-with-febrile-urinary-tract-infections"
+    },
+    {
+      "level": 4,
+      "text": "17.2.6. Children with lower urinary tract symptoms and vesicoureteric reflux",
+      "anchor": "#17-2-6-children-with-lower-urinary-tract-symptoms-and-vesicoureteric-reflux"
+    },
+    {
+      "level": 3,
+      "text": "17.3. Disease management",
+      "anchor": "#17-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "17.3.1. Nonsurgical therapy",
+      "anchor": "#17-3-1-nonsurgical-therapy"
+    },
+    {
+      "level": 4,
+      "text": "17.3.2. Surgical treatment",
+      "anchor": "#17-3-2-surgical-treatment"
+    },
+    {
+      "level": 3,
+      "text": "17.4. Summary of evidence and recommendations for the management of vesicoureteric reflux in childhood",
+      "anchor": "#17-4-summary-of-evidence-and-recommendations-for-the-management-of-vesicoureteric-reflux-in-childhood"
+    },
+    {
+      "level": 2,
+      "text": "18. URINARY STONE DISEASE",
+      "anchor": "#18-urinary-stone-disease"
+    },
+    {
+      "level": 3,
+      "text": "18.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#18-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "18.2. Classification systems",
+      "anchor": "#18-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "18.2.1. Calcium stones",
+      "anchor": "#18-2-1-calcium-stones"
+    },
+    {
+      "level": 4,
+      "text": "18.2.2. Uric acid stones",
+      "anchor": "#18-2-2-uric-acid-stones"
+    },
+    {
+      "level": 4,
+      "text": "18.2.3. Cystine stones",
+      "anchor": "#18-2-3-cystine-stones"
+    },
+    {
+      "level": 4,
+      "text": "18.2.4. Infection stones (struvite stones)",
+      "anchor": "#18-2-4-infection-stones-struvite-stones"
+    },
+    {
+      "level": 3,
+      "text": "18.3. Diagnostic evaluation",
+      "anchor": "#18-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "18.3.1. Imaging",
+      "anchor": "#18-3-1-imaging"
+    },
+    {
+      "level": 4,
+      "text": "18.3.2. Metabolic evaluation",
+      "anchor": "#18-3-2-metabolic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "18.3.3. Urolithiasis in infants",
+      "anchor": "#18-3-3-urolithiasis-in-infants"
+    },
+    {
+      "level": 3,
+      "text": "18.4. Management",
+      "anchor": "#18-4-management"
+    },
+    {
+      "level": 4,
+      "text": "18.4.1. Extracorporeal shockwave lithotripsy",
+      "anchor": "#18-4-1-extracorporeal-shockwave-lithotripsy"
+    },
+    {
+      "level": 4,
+      "text": "18.4.2. Percutaneous nephrolithotomy",
+      "anchor": "#18-4-2-percutaneous-nephrolithotomy"
+    },
+    {
+      "level": 4,
+      "text": "18.4.3. Ureterorenoscopy",
+      "anchor": "#18-4-3-ureterorenoscopy"
+    },
+    {
+      "level": 4,
+      "text": "18.4.4. Open or laparoscopic stone surgery",
+      "anchor": "#18-4-4-open-or-laparoscopic-stone-surgery"
+    },
+    {
+      "level": 3,
+      "text": "18.5. Summary of evidence and recommendations for the management of urinary stones",
+      "anchor": "#18-5-summary-of-evidence-and-recommendations-for-the-management-of-urinary-stones"
+    },
+    {
+      "level": 2,
+      "text": "19. URETEROCELE AND ECTOPIC URETER",
+      "anchor": "#19-ureterocele-and-ectopic-ureter"
+    },
+    {
+      "level": 3,
+      "text": "19.1. Ureterocele",
+      "anchor": "#19-1-ureterocele"
+    },
+    {
+      "level": 4,
+      "text": "19.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#19-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "19.1.2. Classification systems",
+      "anchor": "#19-1-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "19.1.3. Diagnostic evaluation",
+      "anchor": "#19-1-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "19.1.4. Management",
+      "anchor": "#19-1-4-management"
+    },
+    {
+      "level": 3,
+      "text": "19.2. Ectopic ureter",
+      "anchor": "#19-2-ectopic-ureter"
+    },
+    {
+      "level": 4,
+      "text": "19.2.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#19-2-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "19.2.2. Classification",
+      "anchor": "#19-2-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "19.2.3. Clinical presentation and diagnostic evaluation",
+      "anchor": "#19-2-3-clinical-presentation-and-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "19.2.4. Management",
+      "anchor": "#19-2-4-management"
+    },
+    {
+      "level": 3,
+      "text": "19.3. Summary of evidence and recommendations for the management of obstructive pathology of renal duplication: ureterocele and ectopic ureter",
+      "anchor": "#19-3-summary-of-evidence-and-recommendations-for-the-management-of-obstructive-pathology-of-renal-duplication-ureterocele-and-ectopic-ureter"
+    },
+    {
+      "level": 3,
+      "text": "20.1. Introduction",
+      "anchor": "#20-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "20.2. International consensus statements on DSD management",
+      "anchor": "#20-2-international-consensus-statements-on-dsd-management"
+    },
+    {
+      "level": 3,
+      "text": "20.3. Current classification of DSD conditions",
+      "anchor": "#20-3-current-classification-of-dsd-conditions"
+    },
+    {
+      "level": 3,
+      "text": "20.4. Diagnostic evaluation",
+      "anchor": "#20-4-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "20.4.1. The neonatal emergency",
+      "anchor": "#20-4-1-the-neonatal-emergency"
+    },
+    {
+      "level": 4,
+      "text": "20.4.2. Family history and clinical examination",
+      "anchor": "#20-4-2-family-history-and-clinical-examination"
+    },
+    {
+      "level": 3,
+      "text": "20.5. Gender assignment",
+      "anchor": "#20-5-gender-assignment"
+    },
+    {
+      "level": 3,
+      "text": "20.6. Risk of tumour development",
+      "anchor": "#20-6-risk-of-tumour-development"
+    },
+    {
+      "level": 3,
+      "text": "20.7. Quality of life",
+      "anchor": "#20-7-quality-of-life"
+    },
+    {
+      "level": 2,
+      "text": "21. CONGENITAL LOWER URINARY TRACT OBSTRUCTION",
+      "anchor": "#21-congenital-lower-urinary-tract-obstruction"
+    },
+    {
+      "level": 3,
+      "text": "21.1. Epidemiology and pathophysiology",
+      "anchor": "#21-1-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "21.2. Classification systems of the urethral valves",
+      "anchor": "#21-2-classification-systems-of-the-urethral-valves"
+    },
+    {
+      "level": 3,
+      "text": "21.3. Diagnostic evaluation",
+      "anchor": "#21-3-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "21.4. Management",
+      "anchor": "#21-4-management"
+    },
+    {
+      "level": 4,
+      "text": "21.4.1. Prenatal treatment",
+      "anchor": "#21-4-1-prenatal-treatment"
+    },
+    {
+      "level": 4,
+      "text": "21.4.2. Postnatal treatment",
+      "anchor": "#21-4-2-postnatal-treatment"
+    },
+    {
+      "level": 3,
+      "text": "21.5. Follow-up",
+      "anchor": "#21-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "21.6. Summary of evidence and recommendations for the management of posterior urethral valves",
+      "anchor": "#21-6-summary-of-evidence-and-recommendations-for-the-management-of-posterior-urethral-valves"
+    },
+    {
+      "level": 2,
+      "text": "22. RARE CONDITIONS IN CHILDHOOD",
+      "anchor": "#22-rare-conditions-in-childhood"
+    },
+    {
+      "level": 3,
+      "text": "22.1. Urachal remnants",
+      "anchor": "#22-1-urachal-remnants"
+    },
+    {
+      "level": 4,
+      "text": "22.1.1. Introduction",
+      "anchor": "#22-1-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "22.1.2. Epidemiology",
+      "anchor": "#22-1-2-epidemiology"
+    },
+    {
+      "level": 4,
+      "text": "22.1.3. Symptoms",
+      "anchor": "#22-1-3-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "22.1.4. Diagnosis",
+      "anchor": "#22-1-4-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "22.1.5. Treatment",
+      "anchor": "#22-1-5-treatment"
+    },
+    {
+      "level": 4,
+      "text": "22.1.6. Pathology of removed remnants",
+      "anchor": "#22-1-6-pathology-of-removed-remnants"
+    },
+    {
+      "level": 4,
+      "text": "22.1.7. Urachal cancer",
+      "anchor": "#22-1-7-urachal-cancer"
+    },
+    {
+      "level": 4,
+      "text": "22.1.8. Summary of evidence and recommendation for management of urachal remnants",
+      "anchor": "#22-1-8-summary-of-evidence-and-recommendation-for-management-of-urachal-remnants"
+    },
+    {
+      "level": 3,
+      "text": "22.2. Papillary tumours of the bladder in children and adolescents (Papillary urothelial neoplasm of low malignant potential)",
+      "anchor": "#22-2-papillary-tumours-of-the-bladder-in-children-and-adolescents-papillary-urothelial-neoplasm-of-low-malignant-potential"
+    },
+    {
+      "level": 4,
+      "text": "22.2.1. Incidence",
+      "anchor": "#22-2-1-incidence"
+    },
+    {
+      "level": 4,
+      "text": "22.2.2. Differences and similarities of papillary tumours of the bladder in children and adults",
+      "anchor": "#22-2-2-differences-and-similarities-of-papillary-tumours-of-the-bladder-in-children-and-adults"
+    },
+    {
+      "level": 4,
+      "text": "22.2.3. Risk factors",
+      "anchor": "#22-2-3-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "22.2.4. Presentation",
+      "anchor": "#22-2-4-presentation"
+    },
+    {
+      "level": 4,
+      "text": "22.2.5. Investigations and treatment",
+      "anchor": "#22-2-5-investigations-and-treatment"
+    },
+    {
+      "level": 4,
+      "text": "22.2.6. Histology",
+      "anchor": "#22-2-6-histology"
+    },
+    {
+      "level": 4,
+      "text": "22.2.7. Additional treatment",
+      "anchor": "#22-2-7-additional-treatment"
+    },
+    {
+      "level": 4,
+      "text": "22.2.8. Prognosis, recurrence and surveillance",
+      "anchor": "#22-2-8-prognosis-recurrence-and-surveillance"
+    },
+    {
+      "level": 4,
+      "text": "22.2.9. Summary of evidence and recommendations for papillary tumours of the bladder in children",
+      "anchor": "#22-2-9-summary-of-evidence-and-recommendations-for-papillary-tumours-of-the-bladder-in-children"
+    },
+    {
+      "level": 3,
+      "text": "22.3. Penile rare conditions",
+      "anchor": "#22-3-penile-rare-conditions"
+    },
+    {
+      "level": 4,
+      "text": "22.3.1. Cystic lesions",
+      "anchor": "#22-3-1-cystic-lesions"
+    },
+    {
+      "level": 4,
+      "text": "22.3.2. Vascular malformations",
+      "anchor": "#22-3-2-vascular-malformations"
+    },
+    {
+      "level": 4,
+      "text": "22.3.3. Neurogenic lesions",
+      "anchor": "#22-3-3-neurogenic-lesions"
+    },
+    {
+      "level": 4,
+      "text": "22.3.4. Soft tissue tumours of penis",
+      "anchor": "#22-3-4-soft-tissue-tumours-of-penis"
+    },
+    {
+      "level": 4,
+      "text": "22.3.5. Penile lymphedema",
+      "anchor": "#22-3-5-penile-lymphedema"
+    },
+    {
+      "level": 2,
+      "text": "23. EMERGENCIES IN PAEDIATRIC UROLOGY",
+      "anchor": "#23-emergencies-in-paediatric-urology"
+    },
+    {
+      "level": 3,
+      "text": "23.1. Acute scrotum",
+      "anchor": "#23-1-acute-scrotum"
+    },
+    {
+      "level": 3,
+      "text": "23.2. Paraphimosis",
+      "anchor": "#23-2-paraphimosis"
+    },
+    {
+      "level": 3,
+      "text": "23.3. Priapism",
+      "anchor": "#23-3-priapism"
+    },
+    {
+      "level": 4,
+      "text": "23.3.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#23-3-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "23.3.2. Classification",
+      "anchor": "#23-3-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "23.3.3. Diagnostic evaluation",
+      "anchor": "#23-3-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "23.3.4. Disease management",
+      "anchor": "#23-3-4-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "23.4. Summary of evidence and recommendations for the diagnosis and management of priapism",
+      "anchor": "#23-4-summary-of-evidence-and-recommendations-for-the-diagnosis-and-management-of-priapism"
+    },
+    {
+      "level": 2,
+      "text": "24. PAEDIATRIC UROLOGICAL TRAUMA",
+      "anchor": "#24-paediatric-urological-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.1. Paediatric renal trauma",
+      "anchor": "#24-1-paediatric-renal-trauma"
+    },
+    {
+      "level": 4,
+      "text": "24.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#24-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "24.1.2. Classification systems",
+      "anchor": "#24-1-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "24.1.3. Diagnostic evaluation",
+      "anchor": "#24-1-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.1.4. Disease management",
+      "anchor": "#24-1-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "24.1.5. Recommendations for the diagnosis and management of paediatric renal trauma",
+      "anchor": "#24-1-5-recommendations-for-the-diagnosis-and-management-of-paediatric-renal-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.2. Paediatric ureteral trauma",
+      "anchor": "#24-2-paediatric-ureteral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "24.2.1. Diagnostic evaluation",
+      "anchor": "#24-2-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.2.2. Management",
+      "anchor": "#24-2-2-management"
+    },
+    {
+      "level": 4,
+      "text": "24.2.3. Recommendations for the diagnosis and management of paediatric ureteral trauma",
+      "anchor": "#24-2-3-recommendations-for-the-diagnosis-and-management-of-paediatric-ureteral-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.3. Paediatric bladder injuries",
+      "anchor": "#24-3-paediatric-bladder-injuries"
+    },
+    {
+      "level": 4,
+      "text": "24.3.1. Diagnostic evaluation",
+      "anchor": "#24-3-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.3.2. Management",
+      "anchor": "#24-3-2-management"
+    },
+    {
+      "level": 4,
+      "text": "24.3.3. Recommendations for the diagnosis and management of paediatric bladder injuries",
+      "anchor": "#24-3-3-recommendations-for-the-diagnosis-and-management-of-paediatric-bladder-injuries"
+    },
+    {
+      "level": 3,
+      "text": "24.4. Paediatric urethral injuries",
+      "anchor": "#24-4-paediatric-urethral-injuries"
+    },
+    {
+      "level": 4,
+      "text": "24.4.1. Diagnostic evaluation",
+      "anchor": "#24-4-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.4.2. Disease management",
+      "anchor": "#24-4-2-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "24.4.3. Recommendations for the diagnosis and management of paediatric trauma",
+      "anchor": "#24-4-3-recommendations-for-the-diagnosis-and-management-of-paediatric-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.5. Urosepsis",
+      "anchor": "#24-5-urosepsis"
+    },
+    {
+      "level": 2,
+      "text": "25. PERIOPERATIVE MANAGEMENT",
+      "anchor": "#25-perioperative-management"
+    },
+    {
+      "level": 3,
+      "text": "25.1. Preoperative fasting, intraoperative fluid therapy, postoperative feeding, fasting and fluid management",
+      "anchor": "#25-1-preoperative-fasting-intraoperative-fluid-therapy-postoperative-feeding-fasting-and-fluid-management"
+    },
+    {
+      "level": 4,
+      "text": "25.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#25-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "25.1.2. Disease management",
+      "anchor": "#25-1-2-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "25.1.3. Summary of evidence and recommendations for the management of perioperative fluid management",
+      "anchor": "#25-1-3-summary-of-evidence-and-recommendations-for-the-management-of-perioperative-fluid-management"
+    },
+    {
+      "level": 3,
+      "text": "25.2. Postoperative pain management: general information",
+      "anchor": "#25-2-postoperative-pain-management-general-information"
+    },
+    {
+      "level": 4,
+      "text": "25.2.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#25-2-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "25.2.2. Diagnostic evaluation",
+      "anchor": "#25-2-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "25.2.3. Disease management",
+      "anchor": "#25-2-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "25.2.4. Summary of evidence and recommendations for the management of post-operative pain",
+      "anchor": "#25-2-4-summary-of-evidence-and-recommendations-for-the-management-of-post-operative-pain"
+    },
+    {
+      "level": 3,
+      "text": "25.3. Antibiotics management: general information",
+      "anchor": "#25-3-antibiotics-management-general-information"
+    },
+    {
+      "level": 3,
+      "text": "25.4. Thromboprophylaxis management: general information",
+      "anchor": "#25-4-thromboprophylaxis-management-general-information"
+    },
+    {
+      "level": 4,
+      "text": "25.4.1. Epidemiology, aetiology, pathophysiology",
+      "anchor": "#25-4-1-epidemiology-aetiology-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "25.4.2. Diagnostic evaluation",
+      "anchor": "#25-4-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "25.4.3. Disease management",
+      "anchor": "#25-4-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "25.4.4. Pharmacological treatment for thromboprophylaxis",
+      "anchor": "#25-4-4-pharmacological-treatment-for-thromboprophylaxis"
+    },
+    {
+      "level": 4,
+      "text": "25.4.5. Prevention of CVL-related VTE",
+      "anchor": "#25-4-5-prevention-of-cvl-related-vte"
+    },
+    {
+      "level": 4,
+      "text": "25.4.6. Summary of evidence and recommendations for the management of thromboprophylaxis management",
+      "anchor": "#25-4-6-summary-of-evidence-and-recommendations-for-the-management-of-thromboprophylaxis-management"
+    },
+    {
+      "level": 3,
+      "text": "25.5. Premedication management: general information",
+      "anchor": "#25-5-premedication-management-general-information"
+    },
+    {
+      "level": 4,
+      "text": "25.5.1. Recommendations for premedication management: general recommendations",
+      "anchor": "#25-5-1-recommendations-for-premedication-management-general-recommendations"
+    },
+    {
+      "level": 2,
+      "text": "26. BASIC PRINCIPLES OF LAPAROSCOPIC SURGERY IN CHILDREN",
+      "anchor": "#26-basic-principles-of-laparoscopic-surgery-in-children"
+    },
+    {
+      "level": 3,
+      "text": "26.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#26-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "26.2. Technical considerations and physiological consequences",
+      "anchor": "#26-2-technical-considerations-and-physiological-consequences"
+    },
+    {
+      "level": 4,
+      "text": "26.2.1. Preoperative evaluation",
+      "anchor": "#26-2-1-preoperative-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "26.2.2. Abdominal insufflation",
+      "anchor": "#26-2-2-abdominal-insufflation"
+    },
+    {
+      "level": 4,
+      "text": "26.2.3. Pulmonary effects",
+      "anchor": "#26-2-3-pulmonary-effects"
+    },
+    {
+      "level": 4,
+      "text": "26.2.4. Cardiovascular effects",
+      "anchor": "#26-2-4-cardiovascular-effects"
+    },
+    {
+      "level": 4,
+      "text": "26.2.5. Effects on renal function",
+      "anchor": "#26-2-5-effects-on-renal-function"
+    },
+    {
+      "level": 4,
+      "text": "26.2.6. Effects on neurological system",
+      "anchor": "#26-2-6-effects-on-neurological-system"
+    },
+    {
+      "level": 4,
+      "text": "26.2.7. Comparison of robot-assisted laparoscopic surgery versus laparoscopic surgery",
+      "anchor": "#26-2-7-comparison-of-robot-assisted-laparoscopic-surgery-versus-laparoscopic-surgery"
+    },
+    {
+      "level": 3,
+      "text": "26.3. Summary of evidence and recommendations for laparoscopy in children",
+      "anchor": "#26-3-summary-of-evidence-and-recommendations-for-laparoscopy-in-children"
+    },
+    {
+      "level": 2,
+      "text": "27. TRANSITIONAL UROLOGY",
+      "anchor": "#27-transitional-urology"
+    },
+    {
+      "level": 3,
+      "text": "27.1. Introduction",
+      "anchor": "#27-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "27.2. Barriers in transition",
+      "anchor": "#27-2-barriers-in-transition"
+    },
+    {
+      "level": 3,
+      "text": "27.3. The transition process",
+      "anchor": "#27-3-the-transition-process"
+    },
+    {
+      "level": 3,
+      "text": "27.4. Specific genitourinary conditions",
+      "anchor": "#27-4-specific-genitourinary-conditions"
+    },
+    {
+      "level": 4,
+      "text": "27.4.1. Neurogenic bladder",
+      "anchor": "#27-4-1-neurogenic-bladder"
+    },
+    {
+      "level": 4,
+      "text": "27.4.2. Posterior urethral valves",
+      "anchor": "#27-4-2-posterior-urethral-valves"
+    },
+    {
+      "level": 4,
+      "text": "27.4.3. Hypospadias",
+      "anchor": "#27-4-3-hypospadias"
+    },
+    {
+      "level": 4,
+      "text": "27.4.4. Bladder-exstrophy-epispadias complex",
+      "anchor": "#27-4-4-bladder-exstrophy-epispadias-complex"
+    },
+    {
+      "level": 4,
+      "text": "27.4.5. Differences of sex development",
+      "anchor": "#27-4-5-differences-of-sex-development"
+    },
+    {
+      "level": 3,
+      "text": "27.5. Summary of evidence and recommendations for transitional urology",
+      "anchor": "#27-5-summary-of-evidence-and-recommendations-for-transitional-urology"
+    },
+    {
+      "level": 2,
+      "text": "28. FOETAL UROLOGY",
+      "anchor": "#28-foetal-urology"
+    },
+    {
+      "level": 3,
+      "text": "28.1. Normal renal development",
+      "anchor": "#28-1-normal-renal-development"
+    },
+    {
+      "level": 4,
+      "text": "28.1.1. Introduction",
+      "anchor": "#28-1-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "28.1.2. Renal and bladder development",
+      "anchor": "#28-1-2-renal-and-bladder-development"
+    },
+    {
+      "level": 3,
+      "text": "28.2. Antenatal hydronephrosis",
+      "anchor": "#28-2-antenatal-hydronephrosis"
+    },
+    {
+      "level": 4,
+      "text": "28.2.1. Definitions and follow-up during pregnancy",
+      "anchor": "#28-2-1-definitions-and-follow-up-during-pregnancy"
+    },
+    {
+      "level": 4,
+      "text": "28.2.2. Aetiology",
+      "anchor": "#28-2-2-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "28.2.3. Classification systems for postnatal outcomes",
+      "anchor": "#28-2-3-classification-systems-for-postnatal-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "28.2.4. Postnatal outcomes",
+      "anchor": "#28-2-4-postnatal-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "28.2.5. Long-term outcomes",
+      "anchor": "#28-2-5-long-term-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "28.2.6. Prophylactic measures against UTIs",
+      "anchor": "#28-2-6-prophylactic-measures-against-utis"
+    },
+    {
+      "level": 3,
+      "text": "28.3. Congenital lower urinary tract obstruction",
+      "anchor": "#28-3-congenital-lower-urinary-tract-obstruction"
+    },
+    {
+      "level": 4,
+      "text": "28.3.1. Introduction",
+      "anchor": "#28-3-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "28.3.2. Diagnosis",
+      "anchor": "#28-3-2-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "28.3.3. Management",
+      "anchor": "#28-3-3-management"
+    },
+    {
+      "level": 4,
+      "text": "28.3.4. Foetal cystoscopy",
+      "anchor": "#28-3-4-foetal-cystoscopy"
+    },
+    {
+      "level": 4,
+      "text": "28.3.5. Serial amniotic infusions",
+      "anchor": "#28-3-5-serial-amniotic-infusions"
+    },
+    {
+      "level": 4,
+      "text": "28.3.6. Outcomes postnatally",
+      "anchor": "#28-3-6-outcomes-postnatally"
+    },
+    {
+      "level": 4,
+      "text": "28.3.7. Postnatal management",
+      "anchor": "#28-3-7-postnatal-management"
+    },
+    {
+      "level": 4,
+      "text": "28.3.8. Complex urogenital pathologies - prenatal management and considerations",
+      "anchor": "#28-3-8-complex-urogenital-pathologies---prenatal-management-and-considerations"
+    },
+    {
+      "level": 4,
+      "text": "28.3.9. Summary of evidence and recommendations for foetal urology",
+      "anchor": "#28-3-9-summary-of-evidence-and-recommendations-for-foetal-urology"
+    },
+    {
+      "level": 2,
+      "text": "29. REFERENCES",
+      "anchor": "#29-references"
+    },
+    {
+      "level": 2,
+      "text": "30. CONFLICT OF INTEREST",
+      "anchor": "#30-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "31. CITATION INFORMATION",
+      "anchor": "#31-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "32. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#32-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#paediatric-urology",
+      "title": "Paediatric Urology",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 28. Foetal Urology Introduction Methods Phimosis And Other Abnormalities Of The Penile Skin Management Of Undescended Testes Testicular Tumours In Prepubertal Boys Fertility Preservation In Children And Adolescents Hydrocele Acute Scrotum Hypospadias Congenital Penile Curvature Varicocele In Children And Adolescents Urinary Tract Infections In Children Daytime Lower Urinary Tract Conditions Monosymptomatic Nocturnal Enuresis Bedwetting Spinal Dysraphism In Children And Adolescents Formally Neurogenic Bladder Dilatation Of The Upper Urinary Tract Puj Obstruction Vesicoureteric Reflux Urinary Stone Disease Ureterocele And Ectopic Ureter Disorders/differences Of Sex Development Congenital Lower Urinary Tract Obstruction Rare Conditions In Childhood Emergencies In Paediatric Urology Paediatric Urological Trauma Perioperative Management Basic Principles Of Laparoscopic Surgery In Children Transitional Urology Foetal Urology References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#28-foetal-urology",
+      "title": "28. FOETAL UROLOGY",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#28-1-normal-renal-development",
+      "title": "28.1. Normal renal development",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#28-1-1-introduction",
+      "title": "28.1.1. Introduction",
+      "level": 4,
+      "text": "Congenital urogenital anomalies account for approximately 20-30% of all abnormalities detected on prenatal ultrasonography, with urinary tract malformations being the most frequent within this group [1584-1588]. These anomalies range from mild findings, such as low-grade hydronephrosis, to conditions incompatible with life, such as bilateral renal agenesis. Over recent decades, prenatal diagnosis has advanced considerably due to the widespread use of second- and third-trimester ultrasonography and, increasingly, foetal magnetic resonance imaging as a complementary tool. Early detection enables delivery planning in tertiary centres with multidisciplinary teams. It also allows tailored postnatal management aimed at reducing neonatal morbidity and optimising long-term renal prognosis. Accurate interpretation of congenital anomalies requires knowledge of normal urinary tract embryology and the principal aspects of imaging assessment. Prenatal findings provide essential information for parental counselling and perinatal planning. Families should be informed not only about the immediate anatomical findings but also about the possible impact on renal and/or bladder function, associations with genetic or syndromic conditions, and implications for neonatal management [1589,1590]. This highlights the role of prenatal imaging as both a diagnostic and a prognostic tool, while underscoring its limitations. At the same time, it is important to communicate that prenatal diagnoses are not necessarily definitive and may require postnatal confirmation to establish the exact nature and severity of the condition.",
+      "tables": []
+    },
+    {
+      "anchor": "#28-1-2-renal-and-bladder-development",
+      "title": "28.1.2. Renal and bladder development",
+      "level": 4,
+      "text": "28.1.2.a. Normal development The kidneys develop from the intermediate mesoderm through three successive stages, with the metanephros forming the permanent kidney. Migration from the pelvis to the lumbar region occurs between weeks 6 and 9, and abnormal interaction or ascent may result in ectopia, fusion anomalies such as horseshoe kidney, or renal agenesis [1589,1591,1592]. Complete failure of ureteric bud induction may result in unilateral or bilateral renal agenesis [1591]. Persistence of embryonic vessels may lead to accessory renal arteries, which in some cases can contribute to ureteropelvic junction obstruction [1592]. Corticomedullary differentiation becomes progressively more visible with advancing gestation and should be routinely assessed during prenatal imaging [1589]. The urinary bladder originates from the anterior cloaca and can usually be identified from 9 to 10 weeks as a midline anechoic structure that fills and empties regularly. The visualisation of the urinary bladder confirms the presence of at least one functioning kidney and offers an early indirect marker of urinary tract patency [1589]. Understanding normal renal and bladder development is essential for interpreting their appearance on prenatal imaging. 28.1.2.b. Prenatal ultrasound Prenatal ultrasound is an essential technique for monitoring foetal development and detecting congenital anomalies. Although the frequency and timing of these examinations vary between countries, there is broad consensus that all pregnant women should undergo at least one ultrasound in the first trimester and another in the second trimester, while the use of a third-trimester scan depends on national recommendations. While ultrasound remains the cornerstone for detection of urinary tract malformations, its accuracy can be limited by maternal factors, oligohydramnios or when complex malformations are suspected. In such situations, foetal MRI can provide complementary information to better define anatomy and guide counselling [1593]. • First trimester (11-14 weeks) During this period, the main objectives of ultrasound are to confirm pregnancy viability, establish accurate gestational age and initiate screening for aneuploidy and early preeclampsia [1594-1596]. In addition, first-trimester ultrasound can identify some major structural anomalies. Early recognition of such findings enables earlier genetic testing and provides more time for parental counselling and decision-making. When an anomaly is detected or suspected at this stage, the patient should be referred to a specialised centre without waiting for the midtrimester scan [1589,1590]. The urinary bladder should always be visible from 12 weeks onwards with a longitudinal diameter < 7mm [1228,1594]. Persistent no visualisation at this stage may suggest bilateral renal agenesis, cloacal exstrophy or bladder exstrophy, and requires repeat scanning for confirmation. The kidneys are usually detectable from 12 to 13 weeks in a paravertebral position, with reniform morphology and a central hypoechoic pelvis. The echogenicity of kidneys is compared to that of the liver and spleen. Ureters are not normally visible [1589]. The most characteristic urinary malformation detectable in this period is megacystis, which is defined as a bladder diameter ≥ 7mm between 11 and 14 weeks. If the bladder diameter measures between 7 and 15mm, this is considered mild megacystis. Such cases carry an increased risk of aneuploidy, but a spontaneous resolution is likely. For this reason, a follow-up ultrasound within one week is recommended to confirm progression or resolution [1590,1596]. If the diameter exceeds 15mm, the probability of significant lower urinary tract obstruction (CLUTO) is considered high. In these cases, the bladder is markedly enlarged and the ‘keyhole sign’ (distension of the proximal urethra) may be seen, with secondary effects on the kidneys (enlargement and increased echogenicity) and dilatation of the ureters [1589,1590]. Although amniotic fluid depends primarily on maternal origin in the first trimester and does not yet reflect foetal renal function, severe forms of LUTO can later evolve into oligohydramnios and pulmonary hypoplasia, which carry major prognostic implications [1589]. • Second trimester (18-22 weeks) The second trimester represents the period of highest diagnostic yield for structural anomalies. The mid-trimester scan, performed between 18 and 22 weeks, is the key morphological assessment and allows detection of most clinically relevant urinary tract anomalies [869,1585,1590]. At this stage, amniotic fluid volume mainly reflects foetal renal function, serving as an indirect functional marker. Normal sonographic findings Both kidneys should be bilaterally visible in the paravertebral region, with reniform morphology and clear corticomedullary differentiation. Echogenicity should be equal to or lower than that of the liver; diffuse hyperechogenicity suggests dysplasia. The renal pelvis is p",
+      "tables": []
+    },
+    {
+      "anchor": "#28-2-antenatal-hydronephrosis",
+      "title": "28.2. Antenatal hydronephrosis",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#28-2-1-definitions-and-follow-up-during-pregnancy",
+      "title": "28.2.1. Definitions and follow-up during pregnancy",
+      "level": 4,
+      "text": "Antenatal hydronephrosis (ANH) is defined as a prenatally detected dilatation of the renal pelvis and is a common finding in 1-2% of pregnancies [1590,1615]. Antenatal hydronephrosis is more often seen in male foetuses compared to female foetuses at a rate of approximately 3:1 [1599,1616-1618]. The anterior-posterior renal pelvic diameter is commonly used to quantify ANH on foetal ultrasound. An APRPD that exceeds 4mm and 7mm before and after 28 weeks, respectively, is considered dilated [1619]. The ureters are considered dilated when visible [1615]. There is a large variety of clinical presentations of ANH, with a majority being transient findings (up to 80%) and others indicating more severe postnatal outcomes where surgical intervention is needed [1590]. Prenatal parameters such as parenchymal appearance, kidney size and echogenicity, and amniotic fluid volume, as well as selected foetal urinary biochemical markers (e.g. sodium, chloride, β2-microglobulin, cystatin C), may provide supportive information regarding postnatal renal function, but their predictive value remains variable [1620]. ANH has also been associated with chromosomal anomalies, single-gene disorders, and other congenital malformations, including digestive anomalies [1621]. When relevant, genetic counselling and testing should be offered based on ultrasound findings and family preferences [1622].",
+      "tables": []
+    },
+    {
+      "anchor": "#28-2-2-aetiology",
+      "title": "28.2.2. Aetiology",
+      "level": 4,
+      "text": "Antenatal hydronephrosis can present in isolation but may also be associated with abnormalities of the ureters, bladder or renal parenchyma, and is considered part of the congenital anomalies of the kidneys and urinary tract (CAKUT). Possible diagnoses that are found after birth in children with ANH include ureteropelvic junction obstruction (UPJO), duplex kidney, poly- or multicystic kidney (P/MCDK), vesicoureteral reflux (VUR), posterior urethral valves (PUV), ectopic ureter, ureterocoele and ureterovesical junction obstruction (UVJO) [1618,1623,1624]. UPJO represents the most common underlying diagnosis in cases with isolated ANH, whereas the presence of additional anomalies typically prompts more extensive postnatal investigations to clarify the underlying pathology [1625]. Figure 17 presents a proposed management pathway to differentiate between the possible diagnosis during the pre- and postnatal period [1625].",
+      "tables": []
+    },
+    {
+      "anchor": "#28-2-3-classification-systems-for-postnatal-outcomes",
+      "title": "28.2.3. Classification systems for postnatal outcomes",
+      "level": 4,
+      "text": "Two classification systems are most often used to determine the severity of ANH and to support risk stratification for postnatal outcomes. The SFU grading system includes the Renal Pelvis Anteroposterior Diameter (RPAPD), collecting systems and renal parenchymal appearance [1626]. The urinary tract diameter (UDT) classification system can be used both ante- and postnatally and additionally assesses other parameters in the urinary tract, e.g. aspect of ureters and bladder compared to the SFU system [1590]. Tables 14 and 15 summarise both classification systems. A comparison between these classification systems demonstrated that both systems allow a proper risk stratification and prediction of clinical outcomes [1627]. The Hydronephrosis Severity Index (HSI), an artificial intelligence-based tool, has shown promise in predicting the presence of obstruction based on ultrasound images and SFU grading. While this may assist in decision-making regarding follow-up, its clinical use remains investigational [1628].",
+      "tables": []
+    },
+    {
+      "anchor": "#28-2-4-postnatal-outcomes",
+      "title": "28.2.4. Postnatal outcomes",
+      "level": 4,
+      "text": "When ANH is diagnosed, counselling should emphasise the range of possible postnatal outcomes and the fact that prenatal findings may not be definitive. Differentiating between isolated ANH, bilateral ANH and ANH associated with other CAKUT is important for planning follow-up. Various predictive factors have been described and are now summarised. A spontaneous resolving ANH during pregnancy resulted in a recurrent postnatal hydronephrosis in 44% of children. However, none of these patients required surgical intervention during follow-up [1629]. The Anteroposterior Renal Pelvic Diameter (APRPD) is commonly used as a marker to assess postnatal risk. In children with an isolated APRPD of < 20mm, spontaneous resolution rates of 72% have been described, with higher resolution rates for lower APRPD [1630]. Larger APRPD values and increasing measurements during gestation have been associated with a higher likelihood of postnatal intervention [1599,1618]. A cut-off of 15mm has been proposed in some studies, but no single threshold is absolute, and decisions must be guided by the overall clinical and imaging context. The presence of associated CAKUT further increases the likelihood of intervention or abnormal outcomes compared to isolated ANH [1599]. The Urinary Tract Dilation (UTD) classification system can be used to predict postnatal outcome, and outcomes vary whether ANH is isolated or in concurrence with additional abnormalities. Resolution rates for UTD A1 of 73% and resolution rates of 21% for A2/A3 have been demonstrated [1631]. The need for additional treatment antibiotics/surgery becomes higher with increasing UDT grade [1631]. In isolated ANH, the need for surgery was shown to be lower when using the UDT classification P1 1% and P2/P3 31% [1627]. The rate of UTI was lower in the P1 group with 2% compared to 10% in P2/P3 [1627]. The SFU classification system has been used to predict resolution and need for surgery. Grouping often occurs with grade 1-2 classified as low and grade 3-4 as high. Lower SFU grades have higher chances to resolve spontaneously and less often require surgery [1623,1632]. Spontaneous resolution rates are per grade: SFU grade 1 89-94%; grade 2 57-77%, grade 3 34.4-46% and grade 4 11% [1616,1630]. Need for surgery has been reported to be 2-15% for low grades and 32-77% for high grades, with lower ages at surgery for higher SFU grades [1616,1617,1627].",
+      "tables": []
+    },
+    {
+      "anchor": "#28-2-5-long-term-outcomes",
+      "title": "28.2.5. Long-term outcomes",
+      "level": 4,
+      "text": "Long-term follow-up studies suggest that outcomes correlate with UTD grade, but variability exists. In one nine-year follow-up study of isolated ANH, surgical intervention and UTI rates increased with UTD grade, whereas no hypertension, CKD or renal injury was observed in children with UTD P1 [810]. Children with higher grades (P2 and P3) showed higher frequencies of hypertension, CKD and renal injury, but these associations should be interpreted in the context of study heterogeneity and selection bias. A separate 13-year follow-up reported variable surgical needs and UTI rates depending on the underlying anomaly [1624].",
+      "tables": []
+    },
+    {
+      "anchor": "#28-2-6-prophylactic-measures-against-utis",
+      "title": "28.2.6. Prophylactic measures against UTIs",
+      "level": 4,
+      "text": "Two systematic reviews found no proven benefits for continuous antibiotic prophylaxis in the heterogeneous group of children with ANH involving all various aetiologies. However, individual risk stratification is warranted with children with risk factors such as ureteral dilatation, circumcision status, girls and high-grade ANH [825,1633]. Circumcision was found to reduce the frequency of UTIs in boys with isolated ANH, ANH secondary to VUR and ANH secondary to PUV in a different systematic review [1634]. Additional measures, such as foreskin care and topical steroid use, may further reduce UTI risk in selected cases [1635]. Table 14: Society for Foetal Urology (SFU) classification system SFU grading system   0 No hydronephrosis 1 Dilatation of renal pelvis only, with no calyceal involvement or parenchymal atrophy 2 Dilatation of both the renal pelvis and some calyces. 3 Significant dilatation of the renal pelvis and all calyces, along with a mild thinning of the renal cortex 4 Gross, balloon-like dilatation of the renal pelvis and calyces, with marked loss of the border between them and visible thinning of the renal parenchyma Table 15: The Urinary Tract Dilation (UTD) classification system (adopted from Nguyen et al., 2022 [1590]   Antenatal Postnatal (> 48h)   UTD A1 UTD A2-3 UTD P1 UTD P2 UTD P3 APRPD 4 - < 7mm (< 28w) 7- < 10mm (≥ 28w) ≥ 7mm (< 28w) ≥ 10mm (≥ 28w) 10 - < 15mm ≥ 15mm ≥ 10mm Calyces   Any dilatation Central dilatation Peripheral dilatation Any dilatation Ureter   Any dilatation (with APRPD ≥ 4mm or calyceal dilatation)   ≥ 4mm (with APRPD ≥ 10 mm or calyceal dilatation)   Parenchymal abnl., Bladder abnl., or Oligohydramnios   Yes (with APRPD ≥ 4mm or calyceal dilatation)     Yes APRPD = Anterior Posterior Renal Pelvic Diameter. Parenchymal abnormalities = cortical thinning, hyperechogenicity, or cystic dysplasia, indistinct corticomedullary differentiation. Bladder abnormalities = wall thickening, ureterocoele, dilatated posterior urethra. Figure 17: Diagnostic and management pathway for foetuses with ANH (Adapted from Rickard et al., 2022) [1625] AFV = amniotic fluid volume; APRPD = anteroposterior renal pelvic diameter; CAP = Continuous antibiotic prophylaxis; HN = Hydronephrosis; HUN = Hydroureteronephrosis; SFU = Society for Fetal Urology grading system; US = Ultrasound.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "SFU grading system",
+              " "
+            ],
+            [
+              "0",
+              "No hydronephrosis"
+            ],
+            [
+              "1",
+              "Dilatation of renal pelvis only, with no calyceal involvement or parenchymal atrophy"
+            ],
+            [
+              "2",
+              "Dilatation of both the renal pelvis and some calyces."
+            ],
+            [
+              "3",
+              "Significant dilatation of the renal pelvis and all calyces, along with a mild thinning of the renal cortex"
+            ],
+            [
+              "4",
+              "Gross, balloon-like dilatation of the renal pelvis and calyces, with marked loss of the border between them and visible thinning of the renal parenchyma"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              " ",
+              "Antenatal",
+              "Postnatal (> 48h)"
+            ],
+            [
+              " ",
+              "UTD A1",
+              "UTD A2-3",
+              "UTD P1",
+              "UTD P2",
+              "UTD P3"
+            ],
+            [
+              "APRPD",
+              "4 - < 7mm (< 28w)7- < 10mm (≥ 28w)",
+              "≥ 7mm (< 28w)≥ 10mm (≥ 28w)",
+              "10 - < 15mm",
+              "≥ 15mm",
+              "≥ 10mm"
+            ],
+            [
+              "Calyces",
+              " ",
+              "Any dilatation",
+              "Central dilatation",
+              "Peripheral dilatation",
+              "Any dilatation"
+            ],
+            [
+              "Ureter",
+              " ",
+              "Any dilatation(with APRPD ≥ 4mm or calyceal dilatation)",
+              " ",
+              "≥ 4mm(with APRPD ≥ 10 mm or calyceal dilatation)",
+              " "
+            ],
+            [
+              "Parenchymal abnl., Bladder abnl., or Oligohydramnios",
+              " ",
+              "Yes(with APRPD ≥ 4mm or calyceal dilatation)",
+              " ",
+              " ",
+              "Yes"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#28-3-congenital-lower-urinary-tract-obstruction",
+      "title": "28.3. Congenital lower urinary tract obstruction",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#28-3-1-introduction",
+      "title": "28.3.1. Introduction",
+      "level": 4,
+      "text": "The term congenital lower urinary tract obstruction is used to refer to intrauterine dilatation of the bladder and/or the upper urinary tract. This condition affects roughly 2-3/10,000 births [1233,1636]. The three most common causes include posterior urethral valves in males, urethral atresia or urethral stenosis [1637]. The outflow obstruction of the bladder in children with CLUTO leads to progressive bladder dilatation, bladder wall thickening, hydroureteronephrosis with subsequent compression of the renal parenchyma and/or oligo- or anhydramnios [1228]. Oligo- and especially anhydramnios can compromise pulmonary development and result in pulmonary hypoplasia, especially in or before the critical period of lung development (canalicular phase, 16-24 weeks) [1638]. The presence of CLUTO in a foetus is therefore associated with a high morbidity and pre- and perinatal mortality [1233]. Due to the heterogeneity and the rare spectrum of clinical manifestations of CLUTO, referral of such cases is recommended to a tertiary centre with multidisciplinary expertise in prenatal and postnatal management of obstructive uropathies [1228]. This section deals with the prenatal diagnosis and prenatal management of foetuses with CLUTO. Details on postnatal diagnostics, management and outcomes can be found in Chapter 21 on congenital lower urinary tract obstruction.",
+      "tables": []
+    },
+    {
+      "anchor": "#28-3-2-diagnosis",
+      "title": "28.3.2. Diagnosis",
+      "level": 4,
+      "text": "28.3.2.a. Ultrasound parameters CLUTO is usually suspected or diagnosed during the routine prenatal ultrasound check-ups. Ultrasound is the first-line diagnostic tool in foetuses with suspected CLUTO. However, in some circumstances, when technical ultrasound conditions are poor, foetal MRI may provide additional information [1247]. The following ultrasound features can help discern an obstructive pathology from isolated hydronephrosis: Megacystis, defined as a longitudinal bladder diameter of ≥ 7mm in the first trimester and ≥ 15mm in the second trimester [1228]. Bladder wall thickening, dilated posterior urethra (keyhole sign), bilateral hydroureteronephrosis [1639] and oligo- or anhydramnios [1228,1597]. However, differentiation between obstructive and nonobstructive aetiologies on prenatal US is challenging, as both have a similar sonographic appearance [1245]. Oligohydramnios is defined (beyond 16 weeks GA) as the deepest vertical pocket of amniotic fluid ≤ 2cm, anhydramnios as complete absence of amniotic fluid [1597]. Anhydramnios before 20 weeks gestation is a strong predictor of pulmonary hypoplasia and of foetal and neonatal death with survival rates of just 15-24% in this group [1228]. Therefore, the GA at the appearance of oligo- or anhydramnios is an important predictive factor [1597]. 28.3.2.b. Biomarkers As an addition to ultrasound parameters, foetal urinary biomarkers can be measured. This measurement is usually performed as a serial vesicocentesis. The idea behind this being that the first puncture most likely represents old urine, whereas the sampling done 24 and 48 hours later represents newer urine and offers an idea of bladder cycling. Common elements evaluated in foetal urine chemistries include sodium, chloride, calcium, protein, osmolality and beta-2 macroglobulin, with normal reference values shown in Table 16. Additionally, foetal serum beta-2 microglobulin appears to have a high sensitivity (80-100%) and specificity (66-99%) in predicting postnatal renal function [1640], particularly in late gestation. As it does not cross the placenta, foetal serum beta-2 microglobulin represents foetal renal function without the influence of maternal renal function and is not dependent on gestational age [1641]. Studies have shown that beta-2-microglobulin levels above 5mg/L appear to be a predictor of postnatal renal impairment [1640-1642]. However, it cannot be used to determine the benefit of foetal intervention with regards to improvement of renal function [1637]. More recently, a 12-peptide signature (12 PUV) has been designed by proteome analysis of foetal urine. It specifically identifies foetuses who would develop ESRD before the age of two years. The final validation of the 12 PUV signature is currently ongoing [1643]. Foetal urinary peptides to predict postnatal outcome of renal disease in foetuses with posterior urethral valves (PUV) [1643,1644]. Table 16: Favourable foetal urine chemistry (reproduced from Menchaca et al., 2024) [1637] Foetal urinary marker Value Sodium, mEq/L < 100 Chloride, mEq/L < 90 Calcium, mg/dL < 8 Protein, mg/dL < 20 Osmolality, mOsm/L < 200 Beta-2 microglobulin, mg/dL < 6",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Foetal urinary marker",
+              "Value"
+            ],
+            [
+              "Sodium, mEq/L",
+              "< 100"
+            ],
+            [
+              "Chloride, mEq/L",
+              "< 90"
+            ],
+            [
+              "Calcium, mg/dL",
+              "< 8"
+            ],
+            [
+              "Protein, mg/dL",
+              "< 20"
+            ],
+            [
+              "Osmolality, mOsm/L",
+              "< 200"
+            ],
+            [
+              "Beta-2 microglobulin, mg/dL",
+              "< 6"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#28-3-3-management",
+      "title": "28.3.3. Management",
+      "level": 4,
+      "text": "28.3.3.a. Indication for Treatment and Staging systems Goals of foetal intervention in CLUTO include improvement of foetal and neonatal survival, as well as improvement of postnatal kidney and bladder function. Before considering foetal intervention, life-limiting genetic or structural anomalies should be excluded [1597]. Indications for foetal intervention in CLUTO include ultrasound findings suggestive of obstruction and reduced amniotic fluid volume. Additional factors such as bladder refill and renal biochemistry can be taken into consideration for decision-making [1597]. Multiple staging systems for the estimation of the severity of the prenatal obstruction and guidance on indicating prenatal intervention have been proposed. However, there is currently no recommendation to adopt any one of these staging systems into clinical practice yet [1597]. The staging system proposed by Ruano et al. includes ultrasound parameters and foetal urinary biomarkers. The proposed system includes four stages of LUTO severity. Stage II and III foetuses are potential candidates for foetal intervention. Stage IV represents foetal renal failure leading to anhydramnios and pulmonary hypoplasia. No foetal intervention is recommended, and further studies are needed to determine the role of amnioinfusion in this population [1252]. The staging system proposed by Fontanella et al. is based solely on ultrasound parameters and uses amniotic fluid volume (AFV) and bladder volume (BV) to determine severity of foetal LUTO. LUTO cases with a BV ≥ 5.4cm 3 or abnormal AF before 20 weeks’ gestation were defined as severe and those with BV < 5.4cm 3 and still normal AF at the 20 weeks’ scan were defined as moderate. Risk of perinatal mortality significantly increased according to the stage of severity [1645]. Table 17: Staging systems for the estimation of the severity of CLUTO Ruano et al. 2017 Stage I Stage II Stage III Stage IV Ultrasound Normal AFI. No renal cysts or dysplasia Oligohydramnios, severe bilateral hydronephrosis. Absent cysts or dysplasia An- or oligohydramnios. Hyperechogenic kidneys, renal cysts; and/or dysplasia Anhydramnios and anuria after monitoring bladder refilling rate. Renal dysplasia and hyperechogenicity Biochemistry Favourable after sequential sampling Favourable after maximum of 3 sequential samplings Unfavourable after sequential sampling Unfavourable biochemistries and documented anuria Possible foetal therapies Weekly US monitoring Cystoscopy or VAS VAS with possible Amnioinfusion Amnioinfusion   Fontanella et al. 2021 Stage I Stage II Stage III Ultrasound Normal AFV at 26 weeks Bladder volume < 5.4cm 3 and/or normal AFV at 20 weeks Bladder volume ≥ 5.4cm 3 and/or oligohydramnios or anhydramnios before 20 weeks AFI = Amniotic fluid index; AFV = amniotic fluid volume; US = Ultrasound; VAS = Vesicoamniotic shunting.. Figure 18: Management pathway for foetuses with suspected CLUTO (as suggested by Mustafa et al.) [1597] AFV = amniotic fluid volume; CLUTO = Congenital lower urinary tract obstruction; DVP = Deepest vertical pocket; GU = Genitourinary; HUN = Hydroureteronephrosis; MRI = Magnetic resonance imaging; TOP = Termination of pregnancy. • Timing of intervention Foetal intervention can be performed in selected cases with moderate and severe CLUTO, ideally before 27 weeks of gestation [1228]. Historically, the ideal timeframe was said to be 16-27 weeks, which represents a vulnerable phase during lung development (canalicular phase). However, newer studies suggest that early intervention in the first trimester (< 14 weeks) is feasible, though technically more challenging and might better preserve renal function. The indication for performing an early intervention in published case series is foetal megacystis ≥ 15mm in the first trimester. Late intervention performed > 17 weeks is thought to improve survival and postnatal pulmonary function but cannot prevent kidney damage [1646]. • Techniques The most common techniques for foetal intervention in CLUTO include vesicoamniotic shunting (VAS), foetal cystoscopy and serial amniotic infusions. • Vesicoamniotic shunting The most common intervention in foetuses with CLUTO is vesicoamniotic shunting (VAS). In VAS, the foetal bladder is punctured under ultrasound guidance. A drainage catheter is then introduced with one end in the bladder and the other end in the amniotic cavity [1228]. Various stenting systems are available, subject to clinician preference. The rationale of VAS is to bypass the obstruction and ensure amniotic fluid cycling by continuous drainage of the bladder into the amniotic cavity. This prevents oligo- and ahydramnios and subsequent pulmonary hypoplasia [1647]. An SR and meta-analysis on the outcomes of ‘late’ foetal interventions (16-28 weeks) including 10 studies showed an improved perinatal survival of the VAS group compared to the control group (57% vs. 38.8%) [1256,1263]. Subgroup analysis showed that perinatal survival was improved in foet",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Ruano et al. 2017",
+              "Stage I",
+              "Stage II",
+              "Stage III",
+              "Stage IV"
+            ],
+            [
+              "Ultrasound",
+              "Normal AFI. No renal cysts or dysplasia",
+              "Oligohydramnios, severe bilateral hydronephrosis. Absent cysts or dysplasia",
+              "An- or oligohydramnios. Hyperechogenic kidneys, renal cysts; and/or dysplasia",
+              "Anhydramnios and anuria after monitoring bladder refilling rate. Renal dysplasia and hyperechogenicity"
+            ],
+            [
+              "Biochemistry",
+              "Favourable after sequential sampling",
+              "Favourable after maximum of 3 sequential samplings",
+              "Unfavourable after sequential sampling",
+              "Unfavourable biochemistries and documented anuria"
+            ],
+            [
+              "Possible foetal therapies",
+              "Weekly US monitoring",
+              "Cystoscopy or VAS",
+              "VAS with possible Amnioinfusion",
+              "Amnioinfusion"
+            ],
+            [
+              " "
+            ],
+            [
+              "Fontanella et al. 2021",
+              "Stage I",
+              "Stage II",
+              "Stage III"
+            ],
+            [
+              "Ultrasound",
+              "Normal AFV at 26 weeks",
+              "Bladder volume < 5.4cm3 and/or normal AFV at 20 weeks",
+              "Bladder volume ≥ 5.4cm3 and/or oligohydramnios or anhydramnios before 20 weeks"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#28-3-4-foetal-cystoscopy",
+      "title": "28.3.4. Foetal cystoscopy",
+      "level": 4,
+      "text": "Foetal cystoscopy with laser ablation of the PUV has been reported as an alternative treatment to VAS. Two SR on this topic show improved survival in the treatment group comparing to the group without treatment [1256,1652]. However, numbers are small and urological fistulas have been reported in up to 10% of patients. The evidence on foetal cystoscopy is limited to case series with a limited number of patients. Therefore, no clear recommendations can be made.",
+      "tables": []
+    },
+    {
+      "anchor": "#28-3-5-serial-amniotic-infusions",
+      "title": "28.3.5. Serial amniotic infusions",
+      "level": 4,
+      "text": "Serial amnioinfusions were first described in the 1990s in the setting of preterm premature rupture of the membranes (PPROM) [1653]. However, the role of serial amnioinfusions in foetuses with LUTO remains experimental. A recent expert consensus statement recommended using serial amnioinfusions only experimentally as part of research protocols, such as the RAFT trial [1654], as its benefits have not yet been proven.",
+      "tables": []
+    },
+    {
+      "anchor": "#28-3-6-outcomes-postnatally",
+      "title": "28.3.6. Outcomes postnatally",
+      "level": 4,
+      "text": "There is a scarcity of studies on long-term outcomes after foetal intervention for CLUTO. An SR shows that postnatal renal function between six months and two years appears to be improved in patients after prenatal intervention compared to patients with no intervention [1256,1263]. After early VAS, patients appear to have higher preservation rates of renal function, even after intermediate follow-up of 4-10 years [1648].",
+      "tables": []
+    },
+    {
+      "anchor": "#28-3-7-postnatal-management",
+      "title": "28.3.7. Postnatal management",
+      "level": 4,
+      "text": "Details on postnatal diagnostics and management and outcomes can be found in Chapter 21 on the congenital lower urinary tract obstruction.",
+      "tables": []
+    },
+    {
+      "anchor": "#28-3-8-complex-urogenital-pathologies---prenatal-management-and-considerations",
+      "title": "28.3.8. Complex urogenital pathologies - prenatal management and considerations",
+      "level": 4,
+      "text": "• Megacystis Foetal megacystis is defined as an abnormally enlarged foetal bladder if diagnosed in the first trimester when the longitudinal bladder diameter exceeds 7mm and in the second/third trimester when the large and full bladder fails to empty during an extended ultrasound examination. The reported incidence of foetal megacystis is approximately 1 in 1,500-7,000 pregnancies, with a slight male predominance. The condition may represent a transient, self-limiting finding, or be the first manifestation of significant lower urinary tract obstruction (LUTO), chromosomal anomalies or syndromic disorders, thereby influencing prognosis, counselling and management. However, and even in the event of an isolated first-trimester foetal megacystis, completely resolved, the prevalence of chromosomal abnormalities was found in 2.4% of the cases, as was found in a large retrospective multicentre study [1655]. Nevertheless, the authors warrant for specialised paediatric follow-up. While posterior urethral valves (PUV) constitute the most common cause of LUTO in male foetuses, not all cases of foetal megacystis are attributable to PUV. Distinction is critical, as megacystis may also arise from non-obstructive aetiologies or other obstructive mechanisms (e.g. urethral atresia, prune belly syndrome). Therefore, careful differentiation between isolated megacystis and valve-related bladder outlet obstruction is essential for appropriate prenatal risk stratification and postnatal follow-up. A large bladder, bilateral hydroureteronephrosis and bladder wall thickening are the accurate predictors of LUTO [1639]. The keyhole sign, however, has a low diagnostic performance and a low specificity. A retrospective study in 53 foetuses with a megacystis and an attempt for treatment via intrauterine vesicoamniotic shunting has concluded that, despite early intervention, no improved rate of normal renal function could be observed, and morbidity and mortality also remained high [1656]. Megacystis can be part of a syndrome known as megacystis-microcolon-intestinal hypoperistalsis syndrome (MMIHS), and the large bladder is characterised as a bladder distention without mechanical obstruction [1608]. • Bladder exstrophy-epispadias complex The bladder exstrophy-epispadias complex (BEEC) is a rare congenital anomaly involving the lower abdominal wall, urinary tract, external genitalia and, in some cases, the gastrointestinal tract. BEEC encompasses epispadias and classic bladder exstrophy. The estimated prevalence is 1:30,000-50,000 live births, with a male predominance. The aetiology is multifactorial, with contributions from genetic factors and early embryonic maldevelopment of the cloacal membrane. Prenatal diagnosis is increasingly possible and important thanks to prenatal ultrasound and foetal MRI, enabling parental counselling and delivery planning. However, in a recent study of more than 280 children born with BEEC, only 60% had been detected during a foetal ultrasound [1606]. Another large study observing the detection during foetal ultrasound over a 20-year period revealed an increase in detection over the years [1605]. Bladder exstrophy has typical characteristics during foetal ultrasound, such as a nonvisible foetal bladder, a low insertion of the umbilical cord, normal kidney anatomy, normal amount of amniotic fluid, an abnormal pubic diastasis, a low umbilical cord insertion-to-genital tubercle length, and malformation of the external genitalia, and can be detected between the 15 th and 33 rd week of gestation [1607]. An early detection allows for appropriate parental counselling and time for reflection, and in some cases, termination of pregnancy. It is not always possible during foetal ultrasound to distinguish between BEEC and cloacal exstrophy, which a foetal MRI is able to do. Despite advances in reconstructive surgery, BEEC has lifelong consequences for urinary continence, sexual function, fertility and quality of life, requiring multidisciplinary long-term follow-up. • Prune belly syndrome Prune belly syndrome (PBS) is another rare congenital disorder defined by the triad of deficient or absent abdominal wall musculature, bilateral cryptorchidism, and urinary tract dilation. PBS has an incidence of one in 30,000-50,000 live births and shows a male predominance in over 95% of cases [1657]. The clinical spectrum is highly variable, ranging from severe, often lethal presentations with pulmonary hypoplasia and early renal failure, to milder phenotypes compatible with long-term survival but associated with chronic urological morbidity. The prognosis of prune belly syndrome is determined by the degree of renal impairment and associated anomalies. The differential diagnosis from a bladder outlet obstruction, as in LUTO during foetal development, is challenging. In a study with 45 prune belly syndrome patients observed over a period of 18 years, the diagnosis was made prenatally in 39%, two out of three of whom underwent an intr",
+      "tables": []
+    },
+    {
+      "anchor": "#28-3-9-summary-of-evidence-and-recommendations-for-foetal-urology",
+      "title": "28.3.9. Summary of evidence and recommendations for foetal urology",
+      "level": 4,
+      "text": "Summary of evidence LE Ultrasound examination in the first and second trimester remain the cornerstone for detection of urinary tract malformations. 1b Megacystis is defined as a longitudinal bladder diameter of ≥ 7mm in the first trimester and ≥ 15mm in the second trimester. 2a An APD of ≥ 4mm before 28 weeks and ≥ 7mm after 28 weeks is considered abnormal. An APD > 15mm strongly predicts the need for postnatal surgery. 1b Individual risk stratification regarding the need for antibiotic prophylaxis is warranted in children with risk factors such as ureteral dilatation, circumcision status, being a girl and showing high-grade ANH 4 Early oligo- and especially anhydramnios can compromise pulmonary development and result in pulmonary hypoplasia. 1b Ultrasound parameters that help differentiate obstructive from nonobstructive pathologies include: megacystis, bladder wall thickening, dilated posterior urethra (keyhole sign), bilateral hydroureteronephrosis and oligo- or anhydramnios. 4 Anhydramnios before 20 weeks’ gestation is a strong predictor of pulmonary hypoplasia and of foetal and neonatal death. 2a VAS for CLUTO has been shown to improve perinatal survival in select patients. 4 Differentiation between isolated megacystis and valve-related bladder outlet obstruction is essential for appropriate prenatal risk stratification and postnatal follow-up. 4 Recommendations Strength rating Perform screening ultrasound examination in the first (11-14 weeks) and second (17-22 weeks) trimesters to assess for urinary tract malformations. Strong Care for patients with urinary tract malformations in a multidisciplinary team (MDT), including maternal-foetal medicine specialists, clinical geneticists, paediatric urologists and nephrologists, neonatologists, and psychologists. Strong Obtain foetal urine for prenatal biochemistries by means of serial vesicocenteses. Weak Exclude life-limiting genetic or structural anomalies before considering foetal intervention in congenital lower urinary tract obstruction. Weak Consider foetal intervention in a foetus with ultrasonographic signs of obstruction and reduced amniotic fluid in the second trimester. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Ultrasound examination in the first and second trimester remain the cornerstone for detection of urinary tract malformations.",
+              "1b"
+            ],
+            [
+              "Megacystis is defined as a longitudinal bladder diameter of ≥ 7mm in the first trimester and ≥ 15mm in the second trimester.",
+              "2a"
+            ],
+            [
+              "An APD of ≥ 4mm before 28 weeks and ≥ 7mm after 28 weeks is considered abnormal. An APD > 15mm strongly predicts the need for postnatal surgery.",
+              "1b"
+            ],
+            [
+              "Individual risk stratification regarding the need for antibiotic prophylaxis is warranted in children with risk factors such as ureteral dilatation, circumcision status, being a girl and showing high-grade ANH",
+              "4"
+            ],
+            [
+              "Early oligo- and especially anhydramnios can compromise pulmonary development and result in pulmonary hypoplasia.",
+              "1b"
+            ],
+            [
+              "Ultrasound parameters that help differentiate obstructive from nonobstructive pathologies include: megacystis, bladder wall thickening, dilated posterior urethra (keyhole sign), bilateral hydroureteronephrosis and oligo- or anhydramnios.",
+              "4"
+            ],
+            [
+              "Anhydramnios before 20 weeks’ gestation is a strong predictor of pulmonary hypoplasia and of foetal and neonatal death.",
+              "2a"
+            ],
+            [
+              "VAS for CLUTO has been shown to improve perinatal survival in select patients.",
+              "4"
+            ],
+            [
+              "Differentiation between isolated megacystis and valve-related bladder outlet obstruction is essential for appropriate prenatal risk stratification and postnatal follow-up.",
+              "4"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform screening ultrasound examination in the first (11-14 weeks) and second (17-22 weeks) trimesters to assess for urinary tract malformations.",
+              "Strong"
+            ],
+            [
+              "Care for patients with urinary tract malformations in a multidisciplinary team (MDT), including maternal-foetal medicine specialists, clinical geneticists, paediatric urologists and nephrologists, neonatologists, and psychologists.",
+              "Strong"
+            ],
+            [
+              "Obtain foetal urine for prenatal biochemistries by means of serial vesicocenteses.",
+              "Weak"
+            ],
+            [
+              "Exclude life-limiting genetic or structural anomalies before considering foetal intervention in congenital lower urinary tract obstruction.",
+              "Weak"
+            ],
+            [
+              "Consider foetal intervention in a foetus with ultrasonographic signs of obstruction and reduced amniotic fluid in the second trimester.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 6
+}

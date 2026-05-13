@@ -1,0 +1,773 @@
+{
+  "guideline": "non-muscle-invasive-bladder-cancer",
+  "chapter": "followup-of-patients-with-nmibc",
+  "url": "https://uroweb.org/guidelines/non-muscle-invasive-bladder-cancer/chapter/followup-of-patients-with-nmibc",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and scope",
+      "anchor": "#1-1-aim-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1 Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AND AETIOLOGY",
+      "anchor": "#3-epidemiology-and-aetiology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology",
+      "anchor": "#3-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Aetiology",
+      "anchor": "#3-2-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Main risk factors",
+      "anchor": "#3-2-1-main-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.2.2. Genetic",
+      "anchor": "#3-2-2-genetic"
+    },
+    {
+      "level": 4,
+      "text": "3.2.3. Dietary habits",
+      "anchor": "#3-2-3-dietary-habits"
+    },
+    {
+      "level": 4,
+      "text": "3.2.4. Environmental exposure",
+      "anchor": "#3-2-4-environmental-exposure"
+    },
+    {
+      "level": 4,
+      "text": "3.2.5. Pelvic radiation",
+      "anchor": "#3-2-5-pelvic-radiation"
+    },
+    {
+      "level": 4,
+      "text": "3.2.6. Other",
+      "anchor": "#3-2-6-other"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Summary of evidence for epidemiology and aetiology",
+      "anchor": "#3-3-summary-of-evidence-for-epidemiology-and-aetiology"
+    },
+    {
+      "level": 2,
+      "text": "4. PATHOLOGICAL STAGING, GRADING AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-pathological-staging-grading-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Definition of non-muscle-invasive bladder cancer",
+      "anchor": "#4-1-definition-of-non-muscle-invasive-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Tumour, Node, Metastasis classification",
+      "anchor": "#4-2-tumour-node-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.3. T 1 subclassification",
+      "anchor": "#4-3-t-1-subclassification"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Lymphovascular invasion",
+      "anchor": "#4-4-lymphovascular-invasion"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Histological grading of non-muscle-invasive bladder urothelial carcinomas",
+      "anchor": "#4-5-histological-grading-of-non-muscle-invasive-bladder-urothelial-carcinomas"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Types of histological grading systems",
+      "anchor": "#4-5-1-types-of-histological-grading-systems"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Prognostic value of histological grading",
+      "anchor": "#4-5-2-prognostic-value-of-histological-grading"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Clinical application of histological grading systems",
+      "anchor": "#4-5-3-clinical-application-of-histological-grading-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Carcinoma",
+      "anchor": "#4-6-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Inter- and intra-observer variability in staging and grading",
+      "anchor": "#4-7-inter--and-intra-observer-variability-in-staging-and-grading"
+    },
+    {
+      "level": 3,
+      "text": "4.8. Subtypes of urothelial carcinoma",
+      "anchor": "#4-8-subtypes-of-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "4.9. Tumour markers and molecular classification",
+      "anchor": "#4-9-tumour-markers-and-molecular-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.10. Summary of evidence and recommendations for bladder cancer classification",
+      "anchor": "#4-10-summary-of-evidence-and-recommendations-for-bladder-cancer-classification"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSIS",
+      "anchor": "#5-diagnosis"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Patient history",
+      "anchor": "#5-1-patient-history"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Signs and symptoms",
+      "anchor": "#5-2-signs-and-symptoms"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Physical examination",
+      "anchor": "#5-3-physical-examination"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Imaging",
+      "anchor": "#5-4-imaging"
+    },
+    {
+      "level": 4,
+      "text": "5.4.1. Computed tomography urography and intravenous urography",
+      "anchor": "#5-4-1-computed-tomography-urography-and-intravenous-urography"
+    },
+    {
+      "level": 4,
+      "text": "5.4.2. Ultrasound",
+      "anchor": "#5-4-2-ultrasound"
+    },
+    {
+      "level": 4,
+      "text": "5.4.3. Multi-parametric magnetic resonance imaging",
+      "anchor": "#5-4-3-multi-parametric-magnetic-resonance-imaging"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Urinary cytology",
+      "anchor": "#5-5-urinary-cytology"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Urinary molecular marker tests",
+      "anchor": "#5-6-urinary-molecular-marker-tests"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Potential application of urinary cytology and markers",
+      "anchor": "#5-7-potential-application-of-urinary-cytology-and-markers"
+    },
+    {
+      "level": 4,
+      "text": "5.7.1. Screening of the population at risk of bladder cancer",
+      "anchor": "#5-7-1-screening-of-the-population-at-risk-of-bladder-cancer"
+    },
+    {
+      "level": 4,
+      "text": "5.7.2. Investigation of patients after haematuria or other symptoms suggestive of bladder cancer (primary detection)",
+      "anchor": "#5-7-2-investigation-of-patients-after-haematuria-or-other-symptoms-suggestive-of-bladder-cancer-primary-detection"
+    },
+    {
+      "level": 4,
+      "text": "5.7.3. Follow-up of non-muscle-invasive bladder cancer",
+      "anchor": "#5-7-3-follow-up-of-non-muscle-invasive-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "5.8. Cystoscopy",
+      "anchor": "#5-8-cystoscopy"
+    },
+    {
+      "level": 3,
+      "text": "5.9. Summary of evidence and recommendations for the primary assessment of non-muscle-invasive bladder cancer",
+      "anchor": "#5-9-summary-of-evidence-and-recommendations-for-the-primary-assessment-of-non-muscle-invasive-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "5.10. Transurethral resection of TaT1 bladder tumours",
+      "anchor": "#5-10-transurethral-resection-of-tat1-bladder-tumours"
+    },
+    {
+      "level": 4,
+      "text": "5.10.1. Strategy of the procedure",
+      "anchor": "#5-10-1-strategy-of-the-procedure"
+    },
+    {
+      "level": 4,
+      "text": "5.10.2. Surgical and technical aspects of tumour resection",
+      "anchor": "#5-10-2-surgical-and-technical-aspects-of-tumour-resection"
+    },
+    {
+      "level": 3,
+      "text": "5.11. Endoscopic biopsies",
+      "anchor": "#5-11-endoscopic-biopsies"
+    },
+    {
+      "level": 4,
+      "text": "5.11.1. Bladder biopsies",
+      "anchor": "#5-11-1-bladder-biopsies"
+    },
+    {
+      "level": 4,
+      "text": "5.11.2. Prostatic urethral biopsies",
+      "anchor": "#5-11-2-prostatic-urethral-biopsies"
+    },
+    {
+      "level": 3,
+      "text": "5.12. New methods of tumour visualisation",
+      "anchor": "#5-12-new-methods-of-tumour-visualisation"
+    },
+    {
+      "level": 4,
+      "text": "5.12.1. Photodynamic diagnosis (fluorescence cystoscopy or blue light cystoscopy)",
+      "anchor": "#5-12-1-photodynamic-diagnosis-fluorescence-cystoscopy-or-blue-light-cystoscopy"
+    },
+    {
+      "level": 4,
+      "text": "5.12.2. Narrow-band imaging",
+      "anchor": "#5-12-2-narrow-band-imaging"
+    },
+    {
+      "level": 4,
+      "text": "5.12.3. IMAGE1 S™, and other technologies",
+      "anchor": "#5-12-3-image1-s-and-other-technologies"
+    },
+    {
+      "level": 3,
+      "text": "5.13. Second resection (second TURBT)",
+      "anchor": "#5-13-second-resection-second-turbt"
+    },
+    {
+      "level": 4,
+      "text": "5.13.1. Detection of residual disease and tumour upstaging",
+      "anchor": "#5-13-1-detection-of-residual-disease-and-tumour-upstaging"
+    },
+    {
+      "level": 4,
+      "text": "5.13.2. The impact of second resection on treatment outcomes",
+      "anchor": "#5-13-2-the-impact-of-second-resection-on-treatment-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "5.13.3. Timing of second resection",
+      "anchor": "#5-13-3-timing-of-second-resection"
+    },
+    {
+      "level": 4,
+      "text": "5.13.4. Recording of results",
+      "anchor": "#5-13-4-recording-of-results"
+    },
+    {
+      "level": 3,
+      "text": "5.14. Pathology report",
+      "anchor": "#5-14-pathology-report"
+    },
+    {
+      "level": 3,
+      "text": "5.15. Summary of evidence and recommendations for TURBT, biopsies and pathology report",
+      "anchor": "#5-15-summary-of-evidence-and-recommendations-for-turbt-biopsies-and-pathology-report"
+    },
+    {
+      "level": 2,
+      "text": "6. PREDICTING DISEASE RECURRENCE AND PROGRESSION",
+      "anchor": "#6-predicting-disease-recurrence-and-progression"
+    },
+    {
+      "level": 3,
+      "text": "6.1. TaT1 tumours",
+      "anchor": "#6-1-tat1-tumours"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Scoring models using the 1973 WHO classification system",
+      "anchor": "#6-1-1-scoring-models-using-the-1973-who-classification-system"
+    },
+    {
+      "level": 4,
+      "text": "6.1.3. Further prognostic factors",
+      "anchor": "#6-1-3-further-prognostic-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Primary carcinoma",
+      "anchor": "#6-2-primary-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Histological subtypes",
+      "anchor": "#6-3-histological-subtypes"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Patient stratification into risk groups",
+      "anchor": "#6-4-patient-stratification-into-risk-groups"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Summary of evidence and recommendations for stratification of NMIBC",
+      "anchor": "#6-5-summary-of-evidence-and-recommendations-for-stratification-of-nmibc"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT",
+      "anchor": "#7-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Counselling of smoking cessation",
+      "anchor": "#7-1-counselling-of-smoking-cessation"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Office-based fulguration and laser vaporisation",
+      "anchor": "#7-2-office-based-fulguration-and-laser-vaporisation"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Active surveillance",
+      "anchor": "#7-3-active-surveillance"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Adjuvant intravesical treatment",
+      "anchor": "#7-4-adjuvant-intravesical-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.4.1. Postoperative irrigation",
+      "anchor": "#7-4-1-postoperative-irrigation"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Intravesical chemotherapy",
+      "anchor": "#7-4-2-intravesical-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.4.3. Intravesical BCG immunotherapy",
+      "anchor": "#7-4-3-intravesical-bcg-immunotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.4.4. Combination therapy",
+      "anchor": "#7-4-4-combination-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.5. Intravesical chemoablation and neoadjuvant treatment",
+      "anchor": "#7-5-intravesical-chemoablation-and-neoadjuvant-treatment"
+    },
+    {
+      "level": 3,
+      "text": "7.6. Radical cystectomy for NMIBC",
+      "anchor": "#7-6-radical-cystectomy-for-nmibc"
+    },
+    {
+      "level": 3,
+      "text": "7.7. Primary treatment by disease type",
+      "anchor": "#7-7-primary-treatment-by-disease-type"
+    },
+    {
+      "level": 4,
+      "text": "7.7.1. Primary treatment by risk category",
+      "anchor": "#7-7-1-primary-treatment-by-risk-category"
+    },
+    {
+      "level": 4,
+      "text": "7.7.2. Treatment of carcinoma",
+      "anchor": "#7-7-2-treatment-of-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "7.8. Treatment of failure of intravesical therapy",
+      "anchor": "#7-8-treatment-of-failure-of-intravesical-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.8.1. Recurrence during or after intravesical chemotherapy",
+      "anchor": "#7-8-1-recurrence-during-or-after-intravesical-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.8.2. Recurrence during or after intravesical BCG therapy",
+      "anchor": "#7-8-2-recurrence-during-or-after-intravesical-bcg-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.8.3. Summary of evidence - treatment failure of intravesical therapy",
+      "anchor": "#7-8-3-summary-of-evidence---treatment-failure-of-intravesical-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.9. Multidisciplinary tumour board",
+      "anchor": "#7-9-multidisciplinary-tumour-board"
+    },
+    {
+      "level": 3,
+      "text": "7.10. Recommendations for adjuvant therapy in TaT1 tumours and for therapy of carcinoma",
+      "anchor": "#7-10-recommendations-for-adjuvant-therapy-in-tat1-tumours-and-for-therapy-of-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "7.11. Recommendations for the treatment of TaT1 tumours and carcinoma",
+      "anchor": "#7-11-recommendations-for-the-treatment-of-tat1-tumours-and-carcinoma"
+    },
+    {
+      "level": 2,
+      "text": "8. FOLLOW-UP OF PATIENTS WITH NMIBC",
+      "anchor": "#8-follow-up-of-patients-with-nmibc"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Intravesical surveillance during follow-up",
+      "anchor": "#8-1-intravesical-surveillance-during-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Follow-up of low-risk NMIBC",
+      "anchor": "#8-1-1-follow-up-of-low-risk-nmibc"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Follow-up of intermediate-risk NMIBC",
+      "anchor": "#8-1-2-follow-up-of-intermediate-risk-nmibc"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Follow-up of high- and very high-risk NMIBC",
+      "anchor": "#8-1-3-follow-up-of-high--and-very-high-risk-nmibc"
+    },
+    {
+      "level": 4,
+      "text": "8.1.4. Follow-up of extravesical sites urothelium",
+      "anchor": "#8-1-4-follow-up-of-extravesical-sites-urothelium"
+    },
+    {
+      "level": 4,
+      "text": "8.1.5. Aids for tumour detection during follow-up",
+      "anchor": "#8-1-5-aids-for-tumour-detection-during-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Summary of evidence and recommendations for follow-up of patients after TURBT for NMIBC",
+      "anchor": "#8-2-summary-of-evidence-and-recommendations-for-follow-up-of-patients-after-turbt-for-nmibc"
+    },
+    {
+      "level": 2,
+      "text": "9. PATIENT REPORTED OUTCOME MEASURES AND QUALITY INDICATORS FOR NMIBC",
+      "anchor": "#9-patient-reported-outcome-measures-and-quality-indicators-for-nmibc"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Patient Reported Outcome Measures and Patient Reported Experience Measures in NMIBC",
+      "anchor": "#9-1-patient-reported-outcome-measures-and-patient-reported-experience-measures-in-nmibc"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Quality Indicators in bladder cancer",
+      "anchor": "#9-2-quality-indicators-in-bladder-cancer"
+    },
+    {
+      "level": 2,
+      "text": "10. PRAGMATIC DEINTENSIFICATION STRATEGY IN NMIBC",
+      "anchor": "#10-pragmatic-deintensification-strategy-in-nmibc"
+    },
+    {
+      "level": 2,
+      "text": "11. REFERENCES",
+      "anchor": "#11-references"
+    },
+    {
+      "level": 2,
+      "text": "12. CONFLICT OF INTEREST",
+      "anchor": "#12-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "13. CITATION INFORMATION",
+      "anchor": "#13-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "14. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#14-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#non-muscle-invasive-bladder-cancer",
+      "title": "Non-muscle-invasive Bladder Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 8. Follow-up Of Patients With Nmibc Introduction Methods Epidemiology And Aetiology Pathological Staging, Grading And Classification Systems Diagnosis Predicting Disease Recurrence And Progression Disease Management Follow-up Of Patients With Nmibc Patient Reported Outcome Measures And Quality Indicators For Nmibc Pragmatic Deintensification Strategy In Nmibc References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#8-follow-up-of-patients-with-nmibc",
+      "title": "8. FOLLOW-UP OF PATIENTS WITH NMIBC",
+      "level": 2,
+      "text": "Due to the risk of recurrence and progression, patients with NMIBC require follow-up after treatment. The first cystoscopy after TURBT at three months is an important prognostic indicator for recurrence and progression [264, 265, 292, 295, 498]. Therefore, the first cystoscopy should always be performed three months after TURBT in all patients with TaT1 tumours and CIS. The subsequent frequency and duration of cystoscopy and imaging follow-up should reflect the individual patient’s degree of risk. This can be defined by using the EAU NMIBC prognostic factor risk groups (Section 6.3, Tables 6.1 and 6.2) or further prognostic models for specific patient populations (Chapter 6) which predict the short- and long-term risks of recurrence and progression in individual patients (Section 8.1) [251, 253]. However, recommendations for follow-up are mainly based on retrospective data and there is a lack of RCTs investigating the possibility of safely reducing the frequency of follow-up cystoscopy.",
+      "tables": []
+    },
+    {
+      "anchor": "#8-1-intravesical-surveillance-during-follow-up",
+      "title": "8.1. Intravesical surveillance during follow-up",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#8-1-1-follow-up-of-low-risk-nmibc",
+      "title": "8.1.1. Follow-up of low-risk NMIBC",
+      "level": 4,
+      "text": "The low-risk group is nearly always low stage and LG/G1. Small, Ta LG/G1 papillary recurrence does not present an immediate danger to the patient and early detection is not essential for successful therapy [294, 499]. In addition, recurrence after five recurrence-free years is low [295]. Therefore, in low-risk tumours, after five years of follow-up, discontinuation of cystoscopy or its replacement with less invasive methods should be considered [498, 500, 501]. For example, one study found that a negative dipstick test for haematuria has a high negative predictive value in two cohorts with low-risk tumours at follow-up (0.89 and 0.94, respectively), suggesting its possible use as a surveillance strategy with limited costs [502].",
+      "tables": []
+    },
+    {
+      "anchor": "#8-1-2-follow-up-of-intermediate-risk-nmibc",
+      "title": "8.1.2. Follow-up of intermediate-risk NMIBC",
+      "level": 4,
+      "text": "Patients in the intermediate-risk group carry a risk of progression somewhere in between the low- and high-risk categories [257]; therefore, the intensity of any follow-up scheme could be adapted in line with this. Based on the safety of a reduced intensity follow-up scheme compared to high-risk NMIBC, in a small RCT of multiple and/or recurrent grade 1 and 2 tumours [503], these patients can be safely followed-up with a cystoscopy at three months and, if negative, with six monthly cystoscopies for two years followed by yearly cystoscopies up to ten years. This surveillance scheme for this disease category has already been adopted by the Scottish Access Collaborative Workstream [504]. Due to lack of data supporting the safety of a reduced scheme in the subgroup of HG intermediate-risk NMIBC, the Panel recommend this group be followed-up in the same way as high-risk NMIBC.",
+      "tables": []
+    },
+    {
+      "anchor": "#8-1-3-follow-up-of-high--and-very-high-risk-nmibc",
+      "title": "8.1.3. Follow-up of high- and very high-risk NMIBC",
+      "level": 4,
+      "text": "In originally high-risk or very high-risk tumours that were treated conservatively, the prompt detection of muscle-invasive and HG/G3 non-muscle-invasive recurrence is crucial and the percentage of tumours missed should be as low as possible because a delay in diagnosis and therapy can be life-threatening. Therefore, the best surveillance strategy for these patients will continue to include frequent cystoscopy and voided urine cytology. Recurrences after ten years tumour-free are not unusual [505]. Therefore, the optimal surveillance strategy for these patients includes initial frequent cystoscopy and voided urine cytology and life-long follow-up [498].",
+      "tables": []
+    },
+    {
+      "anchor": "#8-1-4-follow-up-of-extravesical-sites-urothelium",
+      "title": "8.1.4. Follow-up of extravesical sites urothelium",
+      "level": 4,
+      "text": "The follow-up strategy must reflect the risk of extravesical recurrence (prostatic urethra in males and upper urinary tract in both genders, particularly after double-J stenting during TURBT) [506]. This risk becomes significant for both sites in high-risk tumours [107], with ten-year tumour rates in the upper urinary tract varying between 1.9% in T1 tumours [507] and 25% in patients with multiple and recurrent high-risk NMIBC [508]. In a population-based study, 3.6% of patients with high-risk tumours (Ta G3 and CIS) developed upper urinary tract disease within ten years of diagnosis [509]. Voided urine cytology, cystoscopy and CT urography are key investigations for early detection of extravesical recurrence.",
+      "tables": []
+    },
+    {
+      "anchor": "#8-1-5-aids-for-tumour-detection-during-follow-up",
+      "title": "8.1.5. Aids for tumour detection during follow-up",
+      "level": 4,
+      "text": "8.1.5.a. Enhanced visualisation There may be a role for newer methods of tumour visualisation in follow-up cystoscopy. However, a systematic review and meta-analysis including two randomised trials showed that 100 blue light flexible cystoscopies (BLFC) are needed to detect any additional tumour and 50 to detect one CIS when consecutively applying BLFC during follow-up, suggesting a risk stratified strategy when considering BLFC during follow-up [510]. 8.1.5.b. Ultrasound In patients initially diagnosed with Ta LG/G1-2 BC, US of the bladder and/or a urinary marker may be a mode of surveillance if cystoscopy is not possible or refused by the patient [144, 511, 512]. 8.1.5.c. Urine cytology Non-invasive follow-up strategies include urine cytology as an adjunct (or companion) test to improve detection of HG disease at the time of flexible cystoscopy. With the implementation of the Paris system when reporting urinary tract cytology with the emphasis on improving the detection of HG tumours and recognising the limitation of cytology in diagnosing LG disease, urine cytology is not recommended for follow-up in the low-risk group and intermediate-risk group (with the exception of HG/G3 tumours). However, the Paris system has improved the clinical utility in HG disease as demonstrated in a systematic review where the average proportion HG malignancy for the three categories atypical urothelial cells (atypia), suspicious for HG UC (suspicious), and HG/G3 UC (malignant) were 40%, 81%, and 91%, respectively [513]. 8.1.5.d. Urinary molecular markers Non-invasive follow-up strategies include urinary cytology and urinary molecular marker tests as an adjunct test to improve detection of HG disease at the time of flexible cystoscopy or as replacement tests to reduce the number of flexible cystoscopies (marker guided use). In order to reduce or replace cystoscopy altogether, urinary markers should be able to detect recurrence in all or specific risk groups. However, the reported low sensitivity for LG recurrences limits their utility in this group [141, 514] although more recent studies have shown reasonable sensitivity of 40-65% in detecting LG recurrences [515, 516]. For clinical implementation of urinary molecular markers for NMIBC surveillance, some key issues are relevant [143]: Inflated negative predictive value (NPVs): Prevalence of recurrence influences both NPV and PPV at a given sensitivity and specificity, i.e. a low proportion of recurring patients in a cohort automatically renders a higher NPV. For example, a urinary marker missing all recurrences in a cohort in which 15% recur will display an NPV of 0.85 despite not being clinically useful. Clinical context: In a patient with high- or very high-risk NMIBC, the consequence if a urinary marker test misses recurrent disease is more severe than in a patient with either low- or intermediate-risk NMIBC. In these lower risk categories, the clinical utility of a urinary marker would be to postpone or even replace a cystoscopy (marker guided use). Moreover, in a high-risk NMIBC scenario, a marker-enforced application would be simultaneously relevant to improve detection of a HG recurrence. Patient preferences: Patients prefer certainty over the burden of cystoscopic surveillance [517]. Cost-effectiveness: Must be shown prior to implementation, i.e. to calculate quality-adjusted life-years (QALY), total costs, and incremental cost effectiveness ratios (ICERs) for different follow-up scenarios. Some urinary markers, chiefly those detecting multiple genetic alterations in the urine (so-called “multiplex” urine markers), have shown fairly high sensitivities to detect tumour recurrence, particularly in HG disease, along with very high NPVs to make the premises for their future implementation in follow-up [516, 518-520] (Table 8.1). Additionally, two randomised trials explored the use of marker-guided surveillance in low- and intermediate-risk patients [127] and the role of alternating a specific urinary marker (the Xpert BC Monitor) with cystoscopies in HG tumours [128], respectively, with both studies showing non-inferiority compared to standard surveillance. In the low- and intermediate-risk setting, a panel of urinary molecular markers were applied every six months after a negative three-month cystoscopy, which altogether detected > 80% of recurrences according to the study hypothesis. However, the marker or combination of markers to be adopted remains unclear [127]. In patients with HG tumours and a negative follow-up cystoscopy, alternating the urine marker with current standard surveillance (a cystoscopy at follow-up year one and two) significantly reduced the number of follow-up cystoscopies without affecting detection of any recurrence at a median of two years follow-up [127]. XPERT BC ® MONITOR showed high sensitivity (91%) for the detection of HG disease at the price of 16% PPV (false positive result in nearly one out of three patients). Table 8.2 summarises the cu",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Multiplex urinary marker",
+              "Target",
+              "Sensitivity Overall*",
+              "HG*",
+              "SpecificityOverall*",
+              "HG*",
+              "N studies/patients"
+            ],
+            [
+              "XPERT BC® MONITOR [134]",
+              "5 mRNAs (ABL1, CRH, IGF2, ANXA10, UPK1B)",
+              "52-91",
+              "79-100",
+              "41-91",
+              "76-91",
+              "11 studies2,800 pts"
+            ],
+            [
+              "EpiCheckTM [133]",
+              "15 DNA methylations",
+              "62-90",
+              "78-95",
+              "82-88",
+              " ",
+              "6 studies2,236 pts"
+            ],
+            [
+              "CX BLADDER [521]",
+              "5 mRNAs (IGF, HOXA, MDK, CDC, IL8R)",
+              "93",
+              "95",
+              "61",
+              "-",
+              "1 study763 pts"
+            ],
+            [
+              "UROMONITOR [522,523]",
+              "DNA mutations FDFR 3 + TERT + KRAS",
+              "49-93",
+              "-",
+              "86-99",
+              "-",
+              "5 studies1,190 pts"
+            ],
+            [
+              "Galeas Bladder [524]",
+              "Multiple DNA mutations (n = 443 in 23 genes)",
+              "86",
+              "100",
+              "63",
+              "-",
+              "1 study293 pts"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Risk group",
+              "Cytology*",
+              "Cystoscopy",
+              "Imaging",
+              "Duration of follow-up"
+            ],
+            [
+              "Low",
+              "No",
+              "At 3 and 12 monthsThen annually",
+              "Not systematic",
+              "5 years"
+            ],
+            [
+              "Intermediate (not including HG/G3 subgroup)*",
+              "No",
+              "At 3 monthsThen every 6 months for 2 yearsThen annually",
+              "Not systematic",
+              "10 years"
+            ],
+            [
+              "High andVery High",
+              "Yes**",
+              "Every 3 months for 2 yearsThen every 6 months up to 5 yearsThen annually",
+              "Computed tomography (CT) annually up to 5 years, then CT every 2 years up to 10 years Life long",
+              "Life long"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#8-2-summary-of-evidence-and-recommendations-for-follow-up-of-patients-after-turbt-for-nmibc",
+      "title": "8.2. Summary of evidence and recommendations for follow-up of patients after TURBT for NMIBC",
+      "level": 3,
+      "text": "Summary of evidence LE The first cystoscopy after TURBT at three months is an important prognostic indicator for recurrence and progression. 1a The risk of upper urinary tract recurrence increases in patients with multiple- and high-risk tumours. 3 Recommendations Strength rating Base follow-up of TaT1 tumours and carcinoma in situ (CIS) on regular cystoscopy. Strong Patients with low-risk Ta tumours should undergo cystoscopy at three months. If negative, subsequent cystoscopy is advised nine months later, and then yearly for five years. Weak Patients with intermediate-risk Ta low-grade tumours should undergo cystoscopy at three months. If negative, subsequent cystoscopy can be repeated every six months for two years, and then annually for ten years. The subgroup of patients with intermediate-risk Ta that are high-grade should be followed up as high-risk (see below). Weak Patients with high-risk and those with very high-risk tumours should undergo cystoscopy and urinary cytology at three months. If negative, subsequent cystoscopy and cytology should be repeated every three months for a period of two years, and every six months thereafter until five years, and then annually lifelong. Weak Take yearly and long-term upper tract imaging (computed tomography [CT] urography) for high-risk and very high-risk tumours. Weak During follow-up in patients with positive cytology and no visible tumour in the bladder, mapping biopsies or photodynamic diagnosis-guided biopsies (if equipment is available) and investigation of extravesical locations (CT urography, prostatic urethra biopsy) are recommended. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "The first cystoscopy after TURBT at three months is an important prognostic indicator for recurrence and progression.",
+              "1a"
+            ],
+            [
+              "The risk of upper urinary tract recurrence increases in patients with multiple- and high-risk tumours.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Base follow-up of TaT1 tumours and carcinoma in situ (CIS) on regular cystoscopy.",
+              "Strong"
+            ],
+            [
+              "Patients with low-risk Ta tumours should undergo cystoscopy at three months. If negative, subsequent cystoscopy is advised nine months later, and then yearly for five years.",
+              "Weak"
+            ],
+            [
+              "Patients with intermediate-risk Ta low-grade tumours should undergo cystoscopy at three months. If negative, subsequent cystoscopy can be repeated every six months for two years, and then annually for ten years. The subgroup of patients with intermediate-risk Ta that are high-grade should be followed up as high-risk (see below).",
+              "Weak"
+            ],
+            [
+              "Patients with high-risk and those with very high-risk tumours should undergo cystoscopy and urinary cytology at three months. If negative, subsequent cystoscopy and cytology should be repeated every three months for a period of two years, and every six months thereafter until five years, and then annually lifelong.",
+              "Weak"
+            ],
+            [
+              "Take yearly and long-term upper tract imaging (computed tomography [CT] urography) for high-risk and very high-risk tumours.",
+              "Weak"
+            ],
+            [
+              "During follow-up in patients with positive cytology and no visible tumour in the bladder, mapping biopsies or photodynamic diagnosis-guided biopsies (if equipment is available) and investigation of extravesical locations (CT urography, prostatic urethra biopsy) are recommended.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 4
+}

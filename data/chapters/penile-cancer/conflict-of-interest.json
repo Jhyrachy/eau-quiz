@@ -1,0 +1,429 @@
+{
+  "guideline": "penile-cancer",
+  "chapter": "conflict-of-interest",
+  "url": "https://uroweb.org/guidelines/penile-cancer/chapter/conflict-of-interest",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Preface",
+      "anchor": "#1-5-preface"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review and future goals",
+      "anchor": "#2-2-review-and-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AETIOLOGY AND PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definition of penile cancer",
+      "anchor": "#3-1-definition-of-penile-cancer"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Risk factors, prognosis and prevention",
+      "anchor": "#3-3-risk-factors-prognosis-and-prevention"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Pathology",
+      "anchor": "#3-4-pathology"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Gross handling of pathology specimens",
+      "anchor": "#3-4-1-gross-handling-of-pathology-specimens"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Pathology report",
+      "anchor": "#3-4-2-pathology-report"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Grading",
+      "anchor": "#3-4-3-grading"
+    },
+    {
+      "level": 4,
+      "text": "3.4.4. Pathological prognostic factors",
+      "anchor": "#3-4-4-pathological-prognostic-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.4.5. Penile cancer and HPV",
+      "anchor": "#3-4-5-penile-cancer-and-hpv"
+    },
+    {
+      "level": 4,
+      "text": "3.4.6. Penile biopsy: pathological and technical considerations",
+      "anchor": "#3-4-6-penile-biopsy-pathological-and-technical-considerations"
+    },
+    {
+      "level": 4,
+      "text": "3.4.7. Summary of evidence and guidelines for the pathological assessment of tumour specimens",
+      "anchor": "#3-4-7-summary-of-evidence-and-guidelines-for-the-pathological-assessment-of-tumour-specimens"
+    },
+    {
+      "level": 2,
+      "text": "4. CLASSIFICATION SYSTEMS",
+      "anchor": "#4-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Tumour, node and metastasis classification",
+      "anchor": "#4-1-tumour-node-and-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Cancer stage grouping",
+      "anchor": "#4-2-cancer-stage-grouping"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION AND STAGING",
+      "anchor": "#5-diagnostic-evaluation-and-staging"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Primary lesion",
+      "anchor": "#5-1-primary-lesion"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Physical examination",
+      "anchor": "#5-1-1-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Imaging of the primary tumour",
+      "anchor": "#5-1-2-imaging-of-the-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "5.1.3. Penile biopsy: indications",
+      "anchor": "#5-1-3-penile-biopsy-indications"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Lymph node staging",
+      "anchor": "#5-2-lymph-node-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Physical examination",
+      "anchor": "#5-2-1-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Clinically node-negative (cN0)",
+      "anchor": "#5-2-2-clinically-node-negative-cn0"
+    },
+    {
+      "level": 4,
+      "text": "5.2.3. Clinically node-positive (cN+)",
+      "anchor": "#5-2-3-clinically-node-positive-cn"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Genomic testing",
+      "anchor": "#5-3-genomic-testing"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Summary of evidence and guidelines for the diagnosis and staging of penile cancer",
+      "anchor": "#5-4-summary-of-evidence-and-guidelines-for-the-diagnosis-and-staging-of-penile-cancer"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT",
+      "anchor": "#6-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Treatment of the primary tumour",
+      "anchor": "#6-1-treatment-of-the-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Treatment of superficial non-invasive disease (PeIN, Ta)",
+      "anchor": "#6-1-1-treatment-of-superficial-non-invasive-disease-pein-ta"
+    },
+    {
+      "level": 4,
+      "text": "6.1.3. Locally advanced disease (T3–T4)",
+      "anchor": "#6-1-3-locally-advanced-disease-t3t4"
+    },
+    {
+      "level": 4,
+      "text": "6.1.4. Local recurrence after organ-sparing surgery",
+      "anchor": "#6-1-4-local-recurrence-after-organ-sparing-surgery"
+    },
+    {
+      "level": 4,
+      "text": "6.1.5. Summary of evidence and guidelines for local treatment of penile carcinoma",
+      "anchor": "#6-1-5-summary-of-evidence-and-guidelines-for-local-treatment-of-penile-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Regional lymph node management: clinically evident disease (cN1–cN3)",
+      "anchor": "#6-2-regional-lymph-node-management-clinically-evident-disease-cn1cn3"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Introduction",
+      "anchor": "#6-2-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "6.2.2.c N1–N2 disease: radical inguinal lymph node dissection",
+      "anchor": "#6-2-2-c-n1n2-disease-radical-inguinal-lymph-node-dissection"
+    },
+    {
+      "level": 4,
+      "text": "6.2.3. Prophylactic pelvic lymph node dissection",
+      "anchor": "#6-2-3-prophylactic-pelvic-lymph-node-dissection"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Clinical N3 disease (cN3)",
+      "anchor": "#6-3-clinical-n3-disease-cn3"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. Diagnostic evaluation",
+      "anchor": "#6-3-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Management strategy",
+      "anchor": "#6-3-2-management-strategy"
+    },
+    {
+      "level": 4,
+      "text": "6.3.4. Surgical technique",
+      "anchor": "#6-3-4-surgical-technique"
+    },
+    {
+      "level": 4,
+      "text": "6.3.5. Summary of evidence and guidelines for the surgical management of cN3 disease",
+      "anchor": "#6-3-5-summary-of-evidence-and-guidelines-for-the-surgical-management-of-cn3-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Systemic therapy",
+      "anchor": "#6-4-1-systemic-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Radiotherapy",
+      "anchor": "#6-4-2-radiotherapy"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Systemic and palliative therapies for advanced disease",
+      "anchor": "#6-5-systemic-and-palliative-therapies-for-advanced-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.5.1. Introduction",
+      "anchor": "#6-5-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "6.5.2. Chemotherapy",
+      "anchor": "#6-5-2-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.5.3. Role of radiotherapy in palliation",
+      "anchor": "#6-5-3-role-of-radiotherapy-in-palliation"
+    },
+    {
+      "level": 4,
+      "text": "6.5.4. Summary of evidence and guidelines for systemic and palliative therapies for advanced penile cancer",
+      "anchor": "#6-5-4-summary-of-evidence-and-guidelines-for-systemic-and-palliative-therapies-for-advanced-penile-cancer"
+    },
+    {
+      "level": 2,
+      "text": "7. FOLLOW-UP AND QUALITY OF LIFE",
+      "anchor": "#7-follow-up-and-quality-of-life"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Unmet needs",
+      "anchor": "#7-1-unmet-needs"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Rationale for follow-up",
+      "anchor": "#7-2-rationale-for-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. When and how to follow-up",
+      "anchor": "#7-2-1-when-and-how-to-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Recurrence of the primary tumour",
+      "anchor": "#7-2-2-recurrence-of-the-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Regional recurrence",
+      "anchor": "#7-2-3-regional-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Patient support services",
+      "anchor": "#7-3-patient-support-services"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Psychological support",
+      "anchor": "#7-3-1-psychological-support"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Quality of life",
+      "anchor": "#7-3-2-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. Urinary function",
+      "anchor": "#7-3-3-urinary-function"
+    },
+    {
+      "level": 4,
+      "text": "7.3.4. Sexual function",
+      "anchor": "#7-3-4-sexual-function"
+    },
+    {
+      "level": 4,
+      "text": "7.3.5. Lymphoedema",
+      "anchor": "#7-3-5-lymphoedema"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Centralisation of penile cancer services",
+      "anchor": "#7-4-centralisation-of-penile-cancer-services"
+    },
+    {
+      "level": 4,
+      "text": "7.4.1. Advantages of centralised care",
+      "anchor": "#7-4-1-advantages-of-centralised-care"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Guideline adherence",
+      "anchor": "#7-4-2-guideline-adherence"
+    },
+    {
+      "level": 4,
+      "text": "7.4.3. Survival",
+      "anchor": "#7-4-3-survival"
+    },
+    {
+      "level": 4,
+      "text": "7.4.4. Disadvantages of centralised care",
+      "anchor": "#7-4-4-disadvantages-of-centralised-care"
+    },
+    {
+      "level": 3,
+      "text": "7.5. Summary of evidence and guidelines for follow-up and quality of life",
+      "anchor": "#7-5-summary-of-evidence-and-guidelines-for-follow-up-and-quality-of-life"
+    },
+    {
+      "level": 2,
+      "text": "8. REFERENCES",
+      "anchor": "#8-references"
+    },
+    {
+      "level": 2,
+      "text": "9. CONFLICT OF INTEREST",
+      "anchor": "#9-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "10. CITATION INFORMATION",
+      "anchor": "#10-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "11. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#11-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#penile-cancer",
+      "title": "Penile Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 9. Conflict Of Interest Introduction Methods Epidemiology Aetiology And Pathology Classification Systems Diagnostic Evaluation And Staging Disease Management Follow-up And Quality Of Life References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#9-conflict-of-interest",
+      "title": "9. CONFLICT OF INTEREST",
+      "level": 2,
+      "text": "All members of the EAU-ASCO Penile Cancer Guidelines working group have provided disclosure statements of all relationships that they have that might be perceived as a potential source of a conflict of interest. This information is provided below and is also publicly available on the EAU website: http://uroweb.org/guideline/penile-cancer/ . This Guidelines document was developed with the financial support of the European Association of Urology. No external sources of funding and support have been involved. The EAU is a nonprofit organisation, and funding is limited to administrative assistance and travel and meeting expenses. No honoraria or other reimbursements have been provided.  Disclosures: The EAU Guidelines Office certifies that all conflicts of interest, including specific financial interests and relationships and affiliations relevant to the subject matter or materials discussed in the manuscript (e.g. employment/affiliation, grants or funding, consultancies, honoraria, stock ownership or options, expert testimony, royalties, or patents filed, received or pending) are the following: O. Brouwer reported trial participation for NKI AVL. S.T. Tagawa reported trial participation and receiving honoraria or consultant fees from Novartis. B.E. Ayres reported trial participation for MSD. M. Albersen reported trial participation for MSD and receiving grants and research support from Astellas Pharma. M.S. van der Heijden reported receiving honoraria or consultation fees from Bristol-Myers Squibb Company, Daiichi-Sankyo, Merck & Co., AstraZeneca, Seattle Genetics, and Astellas, and receiving grants or research support from Bristol-Myers Squibb Company, Roche, AstraZeneca, 4SC AG, Pfizer, Janssen – Oncology, and Merck Sharp & Dohme B.V. P. Spiess reported trial participation for International Penile Cancer Advanced Trial (US ECOG/NCI). D.F. Sánchez Martínez reported trial participation for Instituto de Patología e Investigación. L.C. Pagliaro reported receiving grants or research support from Astellas Pharma US. P. Oliveira, A. Parnham, C. Protzel, J.M. Crook, P.A.S. Johnstone, C.A. Pettaway, R.B. Rumble, J. Osborne, K. Manzie, J.D. Marcus, L. Barreto, H.A. Garcia-Perdomo, I. Greco and K. Patterson have nothing to declare.",
+      "tables": []
+    }
+  ],
+  "tables_count": 0
+}

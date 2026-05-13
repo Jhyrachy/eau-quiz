@@ -1,0 +1,1088 @@
+{
+  "guideline": "muscle-invasive-and-metastatic-bladder-cancer",
+  "chapter": "metastatic-disease",
+  "url": "https://uroweb.org/guidelines/muscle-invasive-and-metastatic-bladder-cancer/chapter/metastatic-disease",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Future goals",
+      "anchor": "#2-3-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AND AETIOLOGY",
+      "anchor": "#3-epidemiology-and-aetiology"
+    },
+    {
+      "level": 2,
+      "text": "3.1 Clinical presentation",
+      "anchor": "#3-1-clinical-presentation"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Aetiology",
+      "anchor": "#3-3-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Tobacco smoking",
+      "anchor": "#3-3-1-tobacco-smoking"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Occupational exposure to chemicals",
+      "anchor": "#3-3-2-occupational-exposure-to-chemicals"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Radiotherapy",
+      "anchor": "#3-3-3-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Dietary factors",
+      "anchor": "#3-3-4-dietary-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. Metabolic disorders",
+      "anchor": "#3-3-5-metabolic-disorders"
+    },
+    {
+      "level": 4,
+      "text": "3.3.6. Bladder schistosomiasis and chronic urinary tract infection",
+      "anchor": "#3-3-6-bladder-schistosomiasis-and-chronic-urinary-tract-infection"
+    },
+    {
+      "level": 4,
+      "text": "3.3.7. Sex",
+      "anchor": "#3-3-7-sex"
+    },
+    {
+      "level": 4,
+      "text": "3.3.8. Genetic factors",
+      "anchor": "#3-3-8-genetic-factors"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Summary of evidence and recommendations for epidemiology and risk factors",
+      "anchor": "#3-4-summary-of-evidence-and-recommendations-for-epidemiology-and-risk-factors"
+    },
+    {
+      "level": 2,
+      "text": "4. PATHOLOGY AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-pathology-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Cytology",
+      "anchor": "#4-1-cytology"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Histology",
+      "anchor": "#4-2-histology"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Pathological staging",
+      "anchor": "#4-3-pathological-staging"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Tumour, Node, Metastasis classification",
+      "anchor": "#4-4-tumour-node-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Pathological markers",
+      "anchor": "#4-5-pathological-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Lymphovascular invasion",
+      "anchor": "#4-5-1-lymphovascular-invasion"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Carcinoma",
+      "anchor": "#4-5-2-carcinoma"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Tumour location",
+      "anchor": "#4-5-3-tumour-location"
+    },
+    {
+      "level": 4,
+      "text": "4.5.4. Lymph node-positive disease",
+      "anchor": "#4-5-4-lymph-node-positive-disease"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Tissue handling",
+      "anchor": "#4-6-tissue-handling"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Recommendations for the assessment of tumour specimens",
+      "anchor": "#4-7-recommendations-for-the-assessment-of-tumour-specimens"
+    },
+    {
+      "level": 3,
+      "text": "4.8. EAU-ESMO consensus statements on the management of advanced- and variant bladder cancer [82, 83]*",
+      "anchor": "#4-8-eau-esmo-consensus-statements-on-the-management-of-advanced--and-variant-bladder-cancer-82-83"
+    },
+    {
+      "level": 3,
+      "text": "4.9. Markers",
+      "anchor": "#4-9-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.9.1. Introduction",
+      "anchor": "#4-9-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "4.9.2. Clinical and histopathological markers",
+      "anchor": "#4-9-2-clinical-and-histopathological-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.9.3. Molecular variants",
+      "anchor": "#4-9-3-molecular-variants"
+    },
+    {
+      "level": 4,
+      "text": "4.9.4. Molecular markers",
+      "anchor": "#4-9-4-molecular-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.9.5. Conclusion",
+      "anchor": "#4-9-5-conclusion"
+    },
+    {
+      "level": 4,
+      "text": "4.9.6. Summary of evidence and recommendations for urothelial markers",
+      "anchor": "#4-9-6-summary-of-evidence-and-recommendations-for-urothelial-markers"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSIS",
+      "anchor": "#5-diagnosis"
+    },
+    {
+      "level": 3,
+      "text": "5.1. History and physical examination",
+      "anchor": "#5-1-history-and-physical-examination"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Urine cytology",
+      "anchor": "#5-2-urine-cytology"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Cystoscopy",
+      "anchor": "#5-3-cystoscopy"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Transurethral resection of invasive bladder tumours",
+      "anchor": "#5-4-transurethral-resection-of-invasive-bladder-tumours"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Summary of evidence and recommendations for the primary assessment of presumably invasive bladder tumours*",
+      "anchor": "#5-5-summary-of-evidence-and-recommendations-for-the-primary-assessment-of-presumably-invasive-bladder-tumours"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Imaging for staging",
+      "anchor": "#5-6-imaging-for-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.1. Local staging",
+      "anchor": "#5-6-1-local-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.2. Upper tract evaluation",
+      "anchor": "#5-6-2-upper-tract-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "5.6.3. Lymph node staging",
+      "anchor": "#5-6-3-lymph-node-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.4. Distant staging",
+      "anchor": "#5-6-4-distant-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.5. Future perspectives",
+      "anchor": "#5-6-5-future-perspectives"
+    },
+    {
+      "level": 4,
+      "text": "5.6.6. Summary of evidence and recommendations for staging in MIBC",
+      "anchor": "#5-6-6-summary-of-evidence-and-recommendations-for-staging-in-mibc"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT",
+      "anchor": "#6-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Multidisciplinary team for patients with MIBC",
+      "anchor": "#6-1-multidisciplinary-team-for-patients-with-mibc"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Recommendations for a multidisciplinary team",
+      "anchor": "#6-1-1-recommendations-for-a-multidisciplinary-team"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Health status assessment",
+      "anchor": "#6-2-health-status-assessment"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Evaluation of comorbidity, frailty and cognition",
+      "anchor": "#6-3-evaluation-of-comorbidity-frailty-and-cognition"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Comorbidity scales, anaesthetic risk classification and geriatric assessment",
+      "anchor": "#6-4-comorbidity-scales-anaesthetic-risk-classification-and-geriatric-assessment"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Summary of evidence and recommendations for comorbidity scales",
+      "anchor": "#6-4-1-summary-of-evidence-and-recommendations-for-comorbidity-scales"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Perioperative systemic therapy",
+      "anchor": "#6-5-perioperative-systemic-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.5.1. Neoadjuvant",
+      "anchor": "#6-5-1-neoadjuvant"
+    },
+    {
+      "level": 4,
+      "text": "6.5.2. Adjuvant therapy",
+      "anchor": "#6-5-2-adjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Perioperative radiotherapy",
+      "anchor": "#6-6-perioperative-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.6.1. Preoperative radiotherapy",
+      "anchor": "#6-6-1-preoperative-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.6.2. Postoperative radiotherapy",
+      "anchor": "#6-6-2-postoperative-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.6.3. Summary of evidence and recommendations for pre- and postoperative radiotherapy",
+      "anchor": "#6-6-3-summary-of-evidence-and-recommendations-for-pre--and-postoperative-radiotherapy"
+    },
+    {
+      "level": 3,
+      "text": "6.7. Radical cystectomy with pelvic lymph node dissection",
+      "anchor": "#6-7-radical-cystectomy-with-pelvic-lymph-node-dissection"
+    },
+    {
+      "level": 4,
+      "text": "6.7.1. Removal of the tumour-bearing bladder",
+      "anchor": "#6-7-1-removal-of-the-tumour-bearing-bladder"
+    },
+    {
+      "level": 4,
+      "text": "6.7.2. Radical cystectomy: technique and extent",
+      "anchor": "#6-7-2-radical-cystectomy-technique-and-extent"
+    },
+    {
+      "level": 4,
+      "text": "6.7.3. Lymphadenectomy: role and extent",
+      "anchor": "#6-7-3-lymphadenectomy-role-and-extent"
+    },
+    {
+      "level": 4,
+      "text": "6.7.4. Robotic-assisted laparoscopic cystectomy",
+      "anchor": "#6-7-4-robotic-assisted-laparoscopic-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.7.5. Urinary diversion after radical cystectomy",
+      "anchor": "#6-7-5-urinary-diversion-after-radical-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.7.6. Morbidity and mortality",
+      "anchor": "#6-7-6-morbidity-and-mortality"
+    },
+    {
+      "level": 4,
+      "text": "6.7.7. Survival",
+      "anchor": "#6-7-7-survival"
+    },
+    {
+      "level": 4,
+      "text": "6.7.8. Impact of hospital and surgeon volume on treatment outcomes",
+      "anchor": "#6-7-8-impact-of-hospital-and-surgeon-volume-on-treatment-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "6.7.9. Summary of evidence and recommendations for quality indicators in radical cystectomy",
+      "anchor": "#6-7-9-summary-of-evidence-and-recommendations-for-quality-indicators-in-radical-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.7.10. Palliative cystectomy",
+      "anchor": "#6-7-10-palliative-cystectomy"
+    },
+    {
+      "level": 3,
+      "text": "6.8. Trimodality therapy",
+      "anchor": "#6-8-trimodality-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.8.1. Trimodality bladder-preserving treatment",
+      "anchor": "#6-8-1-trimodality-bladder-preserving-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.9. External beam radiotherapy",
+      "anchor": "#6-9-external-beam-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.9.1. Definitive external beam radiotherapy",
+      "anchor": "#6-9-1-definitive-external-beam-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.9.2. Palliative external beam radiotherapy",
+      "anchor": "#6-9-2-palliative-external-beam-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.9.3. Summary of evidence and recommendation for external beam radiotherapy",
+      "anchor": "#6-9-3-summary-of-evidence-and-recommendation-for-external-beam-radiotherapy"
+    },
+    {
+      "level": 3,
+      "text": "6.10. Other approaches",
+      "anchor": "#6-10-other-approaches"
+    },
+    {
+      "level": 4,
+      "text": "6.10.1. Transurethral resection of bladder tumour",
+      "anchor": "#6-10-1-transurethral-resection-of-bladder-tumour"
+    },
+    {
+      "level": 4,
+      "text": "6.10.2. Chemotherapy",
+      "anchor": "#6-10-2-chemotherapy"
+    },
+    {
+      "level": 2,
+      "text": "7. FOLLOW-UP AND SURVEILLANCE",
+      "anchor": "#7-follow-up-and-surveillance"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Response to neoadjuvant therapy",
+      "anchor": "#7-1-response-to-neoadjuvant-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.1.1. Recommendation for response to neoadjuvant therapy",
+      "anchor": "#7-1-1-recommendation-for-response-to-neoadjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Follow-up after radical cystectomy",
+      "anchor": "#7-2-follow-up-after-radical-cystectomy"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Follow-up after trimodality therapy",
+      "anchor": "#7-3-follow-up-after-trimodality-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Follow-up of functional outcomes and complications",
+      "anchor": "#7-4-follow-up-of-functional-outcomes-and-complications"
+    },
+    {
+      "level": 2,
+      "text": "8. RECURRENT DISEASE",
+      "anchor": "#8-recurrent-disease"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Intravesical recurrence",
+      "anchor": "#8-1-intravesical-recurrence"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Post-trimodality therapy bladder recurrences and salvage cystectomy",
+      "anchor": "#8-1-1-post-trimodality-therapy-bladder-recurrences-and-salvage-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Salvage cystectomy post-trimodality therapy",
+      "anchor": "#8-1-2-salvage-cystectomy-post-trimodality-therapy"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Recommendation for salvage cystectomy",
+      "anchor": "#8-1-3-recommendation-for-salvage-cystectomy"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Pelvic recurrence",
+      "anchor": "#8-2-pelvic-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Upper tract recurrence",
+      "anchor": "#8-3-upper-tract-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.4. Urethral recurrence",
+      "anchor": "#8-4-urethral-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.5. Distant recurrence",
+      "anchor": "#8-5-distant-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.6. Summary of evidence and recommendations for specific recurrence sites",
+      "anchor": "#8-6-summary-of-evidence-and-recommendations-for-specific-recurrence-sites"
+    },
+    {
+      "level": 2,
+      "text": "9. METASTATIC DISEASE",
+      "anchor": "#9-metastatic-disease"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Introduction",
+      "anchor": "#9-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Management of oligometastatic bladder cancer",
+      "anchor": "#9-2-management-of-oligometastatic-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "9.3. First-line systemic therapy for metastatic disease: patient selection",
+      "anchor": "#9-3-first-line-systemic-therapy-for-metastatic-disease-patient-selection"
+    },
+    {
+      "level": 3,
+      "text": "9.4. First-line therapy in patients fit for combination therapy",
+      "anchor": "#9-4-first-line-therapy-in-patients-fit-for-combination-therapy"
+    },
+    {
+      "level": 4,
+      "text": "9.4.1. Enfortumab vedotin plus pembrolizumab",
+      "anchor": "#9-4-1-enfortumab-vedotin-plus-pembrolizumab"
+    },
+    {
+      "level": 4,
+      "text": "9.4.2. Patients eligible for combination therapy but not eligible for enfortumab vedotin or enfortumab vedotin not available",
+      "anchor": "#9-4-2-patients-eligible-for-combination-therapy-but-not-eligible-for-enfortumab-vedotin-or-enfortumab-vedotin-not-available"
+    },
+    {
+      "level": 3,
+      "text": "9.5. First-line therapy in patients not eligible for combination therapy",
+      "anchor": "#9-5-first-line-therapy-in-patients-not-eligible-for-combination-therapy"
+    },
+    {
+      "level": 3,
+      "text": "9.6. Results of other trials integrating immunotherapy in the first-line setting without overall survival benefit",
+      "anchor": "#9-6-results-of-other-trials-integrating-immunotherapy-in-the-first-line-setting-without-overall-survival-benefit"
+    },
+    {
+      "level": 3,
+      "text": "9.7. Further-line systemic therapy for metastatic disease",
+      "anchor": "#9-7-further-line-systemic-therapy-for-metastatic-disease"
+    },
+    {
+      "level": 4,
+      "text": "9.7.1. Introduction",
+      "anchor": "#9-7-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "9.7.2. Chemotherapy",
+      "anchor": "#9-7-2-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "9.7.3. Immunotherapy for platinum-pretreated patients without previous immunotherapy",
+      "anchor": "#9-7-3-immunotherapy-for-platinum-pretreated-patients-without-previous-immunotherapy"
+    },
+    {
+      "level": 3,
+      "text": "9.8. Integration of other agents",
+      "anchor": "#9-8-integration-of-other-agents"
+    },
+    {
+      "level": 4,
+      "text": "9.8.1. Enfortumab vedotin monotherapy",
+      "anchor": "#9-8-1-enfortumab-vedotin-monotherapy"
+    },
+    {
+      "level": 4,
+      "text": "9.8.2. Sacituzumab govitecan",
+      "anchor": "#9-8-2-sacituzumab-govitecan"
+    },
+    {
+      "level": 4,
+      "text": "9.8.3. FGFR inhibition",
+      "anchor": "#9-8-3-fgfr-inhibition"
+    },
+    {
+      "level": 4,
+      "text": "9.8.4. HER2 targeted agents",
+      "anchor": "#9-8-4-her2-targeted-agents"
+    },
+    {
+      "level": 4,
+      "text": "9.8.6. Systemic treatment of metastatic disease with histology other than pure urothelial carcinoma",
+      "anchor": "#9-8-6-systemic-treatment-of-metastatic-disease-with-histology-other-than-pure-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "9.9. Treatment of patients with bone metastases",
+      "anchor": "#9-9-treatment-of-patients-with-bone-metastases"
+    },
+    {
+      "level": 3,
+      "text": "9.10. Treatment algorithm for metastatic urothelial cancer",
+      "anchor": "#9-10-treatment-algorithm-for-metastatic-urothelial-cancer"
+    },
+    {
+      "level": 3,
+      "text": "9.11. Summary of evidence and recommendations for metastatic disease",
+      "anchor": "#9-11-summary-of-evidence-and-recommendations-for-metastatic-disease"
+    },
+    {
+      "level": 2,
+      "text": "10. QUALITY OF LIFE AND PALLIATIVE CARE",
+      "anchor": "#10-quality-of-life-and-palliative-care"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Introduction",
+      "anchor": "#10-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Neoadjuvant therapy",
+      "anchor": "#10-2-neoadjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Radical cystectomy and urinary diversion",
+      "anchor": "#10-3-radical-cystectomy-and-urinary-diversion"
+    },
+    {
+      "level": 3,
+      "text": "10.4. Adjuvant therapy",
+      "anchor": "#10-4-adjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "10.5. Bladder-sparing trimodality therapy",
+      "anchor": "#10-5-bladder-sparing-trimodality-therapy"
+    },
+    {
+      "level": 3,
+      "text": "10.6. Noncurative or metastatic bladder cancer",
+      "anchor": "#10-6-noncurative-or-metastatic-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "10.7. Summary of evidence and recommendations for health-related quality of life",
+      "anchor": "#10-7-summary-of-evidence-and-recommendations-for-health-related-quality-of-life"
+    },
+    {
+      "level": 3,
+      "text": "10.8. Supportive care",
+      "anchor": "#10-8-supportive-care"
+    },
+    {
+      "level": 4,
+      "text": "10.8.1. Obstruction of the upper urinary tract",
+      "anchor": "#10-8-1-obstruction-of-the-upper-urinary-tract"
+    },
+    {
+      "level": 4,
+      "text": "10.8.2. Bleeding and pain",
+      "anchor": "#10-8-2-bleeding-and-pain"
+    },
+    {
+      "level": 2,
+      "text": "11. REFERENCES",
+      "anchor": "#11-references"
+    },
+    {
+      "level": 2,
+      "text": "12. CONFLICT OF INTEREST",
+      "anchor": "#12-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "13. CITATION INFORMATION",
+      "anchor": "#13-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "14. COPYRIGHT AND TERMS OF USE ",
+      "anchor": "#14-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#muscle-invasive-and-metastatic-bladder-cancer",
+      "title": "Muscle-invasive and Metastatic Bladder Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 9. Metastatic Disease Introduction Methods Epidemiology And Aetiology Pathology And Classification Systems Diagnosis Disease Management Follow-up And Surveillance Recurrent Disease Metastatic Disease Quality Of Life And Palliative Care References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#9-metastatic-disease",
+      "title": "9. METASTATIC DISEASE",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#9-1-introduction",
+      "title": "9.1. Introduction",
+      "level": 3,
+      "text": "The treatment of mUC had remained largely unchanged since pivotal trials published over 20 years ago set the standard of care for first-line treatment with cisplatin-based combinations demonstrating an OS benefit. This longstanding paradigm has been challenged in the past years by the introduction of IO using CPIs and was upended in October 2023 with the presentation of the results of two practice-changing RCTs (EV-302/KEYNOTE A39 and CheckMate 901) demonstrating an OS benefit in the first-line setting against platinum-based chemotherapy [492,493].",
+      "tables": []
+    },
+    {
+      "anchor": "#9-2-management-of-oligometastatic-bladder-cancer",
+      "title": "9.2. Management of oligometastatic bladder cancer",
+      "level": 3,
+      "text": "Oligometastatic cancer is defined as a situation with a limited number of metastatic sites. In a recent consensus, a maximum of three metastatic sites, all either resectable or amenable to stereotactic therapy, was proposed as the definition of oligometastatic BC [494]. Studies from other tumour types (e.g. prostate cancer, colorectal cancer and lung cancer) suggest possible survival benefit when adding local therapy. In BC, some retrospective studies suggest a potential survival benefit when incorporating local therapy to the bladder (including radiation therapy over chemotherapy alone) in metastatic disease [495,496], and when employing metastasis-directed therapy [491,497-499]. A favourable response to systemic treatment has been proposed as the criterion for selection of patients for any metastasis-directed therapy [494]. In a systematic review and meta-analysis of metastasis-directed therapy in the management of mUC, in which most patients were treated with surgical metastasectomy, many patients achieved long-term survival. The median OS was 46.2 months in patients treated for lung metastases (95% CI: 28.7-62.6), 31.2 months in those treated for LN metastases (95% CI: 16.1-51.8), and 29 months in those with mixed-location metastases (95% CI: 23.8-38.4) [500]. Another systematic review identified eight studies using SBRT for mUC with or without concomitant systemic therapies [501]. In metachronous patients, SBRT delivered with ablative doses (BED10 ≥ 78Gy) was associated with a two-year OS rate of 50.7% (95% CI: 35.1-64.4%). The use of subablative SBRT doses (BED10 = 43.2Gy) in combination with IO did not demonstrate significant clinical outcome improvement in two prospective studies. The overall tolerance was good, with only one study reporting toxicity of grade 3 in up to 18% of the patients treated with SBRT in combination with IO. Overall, the data in oligometastatic disease are limited and it remains unclear how to best manage patients with oligometastatic disease. Further prospective studies in BC patients are needed.",
+      "tables": []
+    },
+    {
+      "anchor": "#9-3-first-line-systemic-therapy-for-metastatic-disease-patient-selection",
+      "title": "9.3. First-line systemic therapy for metastatic disease: patient selection",
+      "level": 3,
+      "text": "In general, patients with untreated mUC can be divided into two broad categories: eligible or ineligible for combination therapies. The distinction between the two groups is currently based on the eligibility criteria for the pivotal EV-302/KEYNOTE 39A trial and is likely to undergo changes in the near future based on results from real-world evidence investigations. Major criteria include ECOG PS 0-2, GFR ≥ 30mL/min. and adequate organ functions based on eligibility for treatment with EV + P. With regards to platinum-based chemotherapy, the definitions to distinguish patients fit for cisplatin, fit for carboplatin and unfit for any platinum-based therapy remain valid, as outlined in Table 9.1. Definitions: ‘Fit for cisplatin, fit for carboplatin, unfit for any platinum-based chemotherapy’ An international survey among BC experts [443] was the basis for a consensus statement on how to classify patients unfit for cisplatin-based chemotherapy. At least one of the following criteria must be present: PS > 1; GFR ≤ 60mL/min.; grade ≥ 2 audiometric hearing loss; grade ≥ 2 peripheral neuropathy or New York Heart Association (NYHA) class III heart failure [444]. Approximately 50% of patients with BC are not eligible for cisplatin-based chemotherapy [444]. Renal function assessment is of utmost importance for treatment selection. Measuring GFR with radioisotopes (99mTc DTPA or 51Cr-EDTA) is recommended in equivocal cases. Cisplatin has also been administered in patients with a lower GFR (40-60mL/min.) using various split-dose schedules. The respective studies were mostly small phase I and II trials in various settings (neoadjuvant and advanced disease), demonstrating that the use of split-dose cisplatin is feasible and appears to result in encouraging efficacy [298,502,503]. However, no prospective RCT has compared split-dose cisplatin with conventional dosing. Most patients that are deemed unfit for cisplatin are able to receive carboplatin-based chemotherapy. However, some patients are deemed unfit for any platinum-based chemotherapy, that is, both cisplatin and carboplatin. Patients are unfit for any platinum-based chemotherapy in case of PS > 2, GFR < 30mL/min. or the combination of PS 2 and GFR < 60mL/min. as the outcome in this patient population is poor regardless of whether or not platinum-based treatment is given [504]. Patients with multiple comorbidities may also be poor candidates for platinum-based chemotherapy. Table 9.1: Definitions of platinum-eligibility for first-line treatment of metastatic urothelial carcinoma Platinum-eligible Platinum-ineligible Cisplatin-eligible Carboplatin-eligible   ECOG PS 0-1 and ECOG PS 2 or GFR 30-60mL/min. Any of the following: GFR > 50-60mL/min. and or not fulfilling other cisplatin-eligibility criteria GFR < 30mL/min. Audiometric hearing loss grade < 2  and   ECOG PS > 2 Peripheral neuropathy grade < 2 and   ECOG PS 2 and GFR < 60mL/min. Cardiac insufficiency NYHA class < III   Comorbidites > Grade 2 ECOG PS = Eastern Cooperative Oncology Group performance status; GFR = glomerular filtration rate; NYHA = New York Heart Association.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Platinum-eligible",
+              "Platinum-ineligible"
+            ],
+            [
+              "Cisplatin-eligible",
+              "Carboplatin-eligible",
+              " "
+            ],
+            [
+              "ECOG PS 0-1 and",
+              "ECOG PS 2 or GFR 30-60mL/min.",
+              "Any of the following:"
+            ],
+            [
+              "GFR > 50-60mL/min. and",
+              "or not fulfilling other cisplatin-eligibility criteria",
+              "GFR < 30mL/min."
+            ],
+            [
+              "Audiometric hearing loss grade < 2 and",
+              " ",
+              "ECOG PS > 2"
+            ],
+            [
+              "Peripheral neuropathy grade < 2 and",
+              " ",
+              "ECOG PS 2 and GFR < 60mL/min."
+            ],
+            [
+              "Cardiac insufficiency NYHA class < III",
+              " ",
+              "Comorbidites > Grade 2"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#9-4-first-line-therapy-in-patients-fit-for-combination-therapy",
+      "title": "9.4. First-line therapy in patients fit for combination therapy",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#9-4-1-enfortumab-vedotin-plus-pembrolizumab",
+      "title": "9.4.1. Enfortumab vedotin plus pembrolizumab",
+      "level": 4,
+      "text": "The combination of EV + P represents the new standard of care for patients who are deemed fit for combination therapies. This is based on EV-302/KEYNOTE 39A, a phase III trial that tested the antibody-drug conjugate EV directed against nectin-4 (EV: administered any number of times until progression) in combination with the immune CPI pembrolizumab (maximum of 35 cycles), against platinum-based chemotherapy (cisplatin or carboplatin permitted) in combination with gemcitabine (up to six cycles) in first-line advanced unresectable or metastatic UC. Thirty percent of the patients in the control arm received switch maintenance IO with avelumab. Both coprimary endpoints, PFS and OS, were clearly met with a significant improvement, with a median PFS of 12.5 versus 6.3 months (HR: 0.45; 95% CI: 0.38-0.54) and median OS of 31.5 versus 16.1 months (HR: 0.47; 95% CI: 0.38-0.58), respectively. The overall ORR was 67.7% (29.1% CR) compared to 44.4% (12.5% CR) with platinum-based chemotherapy (p < 0.001). All prespecified subgroups benefited equally from EV + P, regardless of cisplatin eligibility, PD-L1 expression or presence of liver metastases. Treatment-related toxicity grade ≥ 3 was reported in 56% for EV + P versus 70% in the chemotherapy arm. Specific and relevant EV toxicities include skin rash, peripheral neuropathy, ocular disorders and hyperglycaemia. Toxicity of EV + P must be managed proactively and attentively to avoid severe sequelae. The administration of EV + P requires adequate knowledge and care from a specialised MDT [493]. The combination of EV + P as first-line treatment in 45 cisplatin-ineligible patients with locally advanced mUC was also investigated in EV-103 - a phase Ib/II study. The results of the study demonstrated a confirmed objective response rate after a median of nine cycles of 73.3% with a complete response rate of 15.6% [505]. The median duration of response and median OS were 25.6 months and 26.1 months, respectively. The most common treatment-related AEs were peripheral sensory neuropathy (55.6%), fatigue (51.1%) and alopecia (48.9%) [505]. A second cohort within the same study randomly assigned previously untreated cisplatin-ineligible patients to EV alone or EV + P [506]. The ORR was 64.5% (95% CI: 52.7-75.1) and 45.2% (95% CI: 33.5-57.3) for patients treated with EV + P (n = 76) and EV monotherapy (n = 73), respectively. The median duration of response was not reached for the combination and was 13.2 months for monotherapy. Based on these results, EV + P has been granted FDA and EMA approval for patients with locally advanced UC or mUC.",
+      "tables": []
+    },
+    {
+      "anchor": "#9-4-2-patients-eligible-for-combination-therapy-but-not-eligible-for-enfortumab-vedotin-or-enfortumab-vedotin-not-available",
+      "title": "9.4.2. Patients eligible for combination therapy but not eligible for enfortumab vedotin or enfortumab vedotin not available",
+      "level": 4,
+      "text": "Despite the results of the EV-302/KEYNOTE 39A study, EV is not available in all countries. Moreover, some patients might not be eligible for or refuse treatment with EV, including patients with uncontrolled diabetes, peripheral neuropathy grade ≥ 2 and pre-existing significant skin disorders. Platinum-based chemotherapy with integration of CPIs represents the preferred option in such patients. The general presumptions for cisplatin- and carboplatin-based therapy remain unchanged in this case and are outlined above. 9.4.2.a. Patients fit for cisplatin Cisplatin-containing combination chemotherapy was the standard of care since the late 1980s demonstrating an OS of 12 to 14 months in various series (for a review, see [507]). Methotrexate, vinblastine, adriamycin plus cisplatin and GC achieved survival of 14.8 and 13.8 months, respectively [508]. Overall response rates were 46% for MVAC and 49% for GC. The lower toxicity of GC [212] compared to standard MVAC has resulted in GC becoming the standard regimen. Dose-dense MVAC combined with granulocyte colony-stimulating factor (G-CSF) is less toxic and more efficacious than standard MVAC in terms of complete response, and two-year OS. However, there is no significant difference in median survival between the two regimens [509,510]. Further intensification of treatment using paclitaxel, cisplatin and gemcitabine (PCG) triplet regimen did not result in a significant improvement in OS in the ITT population of a phase III RCT comparing PCG to GC [511]. Similarly, the addition of the angiogenesis inhibitor bevacizumab to GC did not result in OS improvement [512]. The disease sites have an impact on long-term survival. In LN-only disease, 20.9% of patients were alive at five years compared to only 6.8% of patients with visceral metastases [508]. In the trials with long-term follow-up, approximately 10-15% of patients with mUC were alive at five years and longer, suggesting a sustained benefit from cisplatin-based chemotherapy in a minority of patients [508,510]. Carboplatin-containing chemotherapy, without the inclusion of IO, is not considered to be equivalent to cisplatin-based combinations and should not be considered interchangeable or standard in patients fit for cisplatin. A comparative analysis of four randomised phase II trials of carboplatin versus cisplatin combination chemotherapy demonstrated lower complete response rates and shorter OS for the carboplatin arms [513]. A retrospective study highlighted the importance of applying cisplatin in cisplatin-eligible patients to maintain benefit [514]. Switch maintenance with immunotherapy after platinum-based chemotherapy A randomised phase II trial evaluated switch maintenance treatment with pembrolizumab in patients achieving at least stable disease on platinum-based first-line chemotherapy. The primary endpoint of PFS was met (5.4 months [95% CI: 3.1-7.3 months] vs. 3.0 months [95% CI: 2.7-5.5 months]; HR: 0.65; p = 0.04) [515]. The JAVELIN Bladder 100 study investigated the impact of switch maintenance with the PD-L1 inhibitor avelumab after initial treatment with platinum-gemcitabine chemotherapy. Patients achieving at least stable disease or better after four to six cycles of platinum-gemcitabine were randomised to avelumab or best supportive care (BSC). Overall survival was the primary endpoint which improved to 21.4 months with avelumab compared to 14.3 months with BSC (HR: 0.69; 95% CI: 0.56-0.86; p < 0.001). Of patients who discontinued BSC and received subsequent treatment, 53% received IO. Immune-related AEs occurred in 29% of all patients and 7% experienced grade 3 complications [516]. Patient-reported outcomes from JAVELIN Bladder 100 demonstrated no detrimental effect on QoL [517]. After ≥ two years of follow-up, OS remained significantly longer with avelumab plus BSC versus BSC alone (HR: 0.76; 95% CI: 0.63-0.91; p = 0.0036) [518]. Until recently, maintenance IO with avelumab was the standard of care for all patients with at least stable disease on first-line platinum-based chemotherapy. In patients who are fit for cisplatin, the results of CheckMate 901 should be considered [492]. This trial tested the addition of nivolumab in combination with GC and followed by nivolumab maintenance (until progression or maximum of 24 months) compared to GC alone. Of note, only 9% in the control arm received switch maintenance therapy with avelumab. The coprimary endpoints, PFS and OS were reached with a median PFS of 7.9 versus 7.6 months (HR: 0.72; 95% CI: 0.59-0.88) and a median OS of 21.7 versus 18.9 months (HR: 0.78; 95% CI: 0.63-0.96). The response rate was improved with GC plus nivolumab (57.6% vs. 43.1.%). A CR was achieved in 21.7% of patients with nivolumab plus GC with a duration of 37.1 months. Nivolumab plus GC had higher treatment related grade ≥ 3 toxicity (62% vs. 52%). This combination represents an alternative to GC followed by maintenance therapy with avelumab in patients not eligible for EV or",
+      "tables": []
+    },
+    {
+      "anchor": "#9-5-first-line-therapy-in-patients-not-eligible-for-combination-therapy",
+      "title": "9.5. First-line therapy in patients not eligible for combination therapy",
+      "level": 3,
+      "text": "Limited data exist regarding the optimal treatment for this patient population that is characterised by severely impaired PS (PS > 2) and/or severely impaired renal function (GFR < 30mL/min.) or inadequate organ function. Historically, the outcome in this patient group has been poor. Best supportive care has often been chosen instead of systemic therapy. Most trials evaluating alternative treatment options to cisplatin-based chemotherapy did not focus specifically on this patient population, thus making interpretation of data difficult. The FDA (but not EMA) has approved pembrolizumab as first-line treatment for patients not fit to receive any platinum-based chemotherapy, regardless of PD-L1 status, based on the results of one single-arm phase II trial [519]. Based on the results of two single-arm phase II trials [519,520], the CPIs pembrolizumab and atezolizumab have been approved by EMA for first-line treatment in cisplatin-unfit patients in case of positive PD-L1 status. PD-L1 positivity for use of pembrolizumab is defined by immunohistochemistry as a CPS of ≥ 10 using the Dako 22C33 platform and, for atezolizumab, as positivity of ≥ 5% tumour-infiltrating immune cells using Ventana SP142. Pembrolizumab was tested in 370 patients with advanced UC or mUC ineligible for cisplatin, showing an ORR of 29% and CR in 7% of patients [519,521]. Atezolizumab was evaluated in the same patient population in a phase II trial (n = 119) showing an ORR of 23% with 9% of patients achieving CR [520]. First-line avelumab was evaluated in patients with PD-L1 positive, metastatic or locally advanced disease and demonstrated a median OS of 10.0 months (95% CI: 5.5-14.5 months) with 43% of patients alive at one year. A phase II randomised trial (BAYOU) evaluating durvalumab with olaparib or placebo in platinum-ineligible patients with mUC demonstrated no PFS or OS benefit for the addition of olaparib [522]. The IMvigor 130, Keynote 361 and DANUBE trials all included an experimental arm with IO alone using atezolizumab, pembrolizumab and durvalumab, respectively [102-104]. No benefit in terms of PFS or OS for the use of single-agent IO compared to platinum-based chemotherapy was found. Therefore, the combination of carboplatin/gemcitabine remains the preferred first-line treatment option for patients who are ineligible for cisplatin and are planned to receive chemotherapy.",
+      "tables": []
+    },
+    {
+      "anchor": "#9-6-results-of-other-trials-integrating-immunotherapy-in-the-first-line-setting-without-overall-survival-benefit",
+      "title": "9.6. Results of other trials integrating immunotherapy in the first-line setting without overall survival benefit",
+      "level": 3,
+      "text": "In 2020, the results of three phase III trials were published that investigated the use of IO in the first-line setting for platinum-eligible patients. The first trial, IMvigor130, investigated the combination of the PD-L1 inhibitor atezolizumab plus platinum-gemcitabine chemotherapy versus chemotherapy plus placebo versus atezolizumab alone [102]. The primary endpoint of PFS benefit for the combination versus chemotherapy alone in the ITT group was reached (8.2 months vs. 6.3 months [HR: 0.82; 95% CI: 0.70-0.96; one-sided, p = 0.007]) after a median follow-up of 11.8 months. In the final OS analysis from IMvigor130, the PFS benefit did not translate into a significant OS benefit for combination therapy or atezolizumab versus chemotherapy alone [523]. The KEYNOTE 361 study had a very similar design using the PD-1 inhibitor pembrolizumab plus platinum-gemcitabine versus chemotherapy plus placebo versus pembrolizumab alone. The results of the primary endpoints of PFS and OS for the comparison of pembrolizumab plus chemotherapy versus chemotherapy plus placebo in the ITT population showed no benefit for the combination or pembrolizumab monotherapy versus chemotherapy alone [103]. DANUBE compared the IO combination (IO-IO) of CTLA-4 inhibitor tremelimumab and PD-L1 inhibitor durvalumab with chemotherapy alone or durvalumab alone [104]. The coprimary endpoint of improved OS for the IO-IO combination versus chemotherapy was not reached in the ITT group nor was the OS improved for durvalumab monotherapy versus chemotherapy in the PD-L1-positive population. In conclusion, unlike CheckMate 901, these three trials do not support the use or combination of the PD-1/L1 CPIs plus platinum-based chemotherapy or the IO-IO combination as first-line treatment.",
+      "tables": []
+    },
+    {
+      "anchor": "#9-7-further-line-systemic-therapy-for-metastatic-disease",
+      "title": "9.7. Further-line systemic therapy for metastatic disease",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#9-7-1-introduction",
+      "title": "9.7.1. Introduction",
+      "level": 4,
+      "text": "Due to the results of the EV-302/KEYNOTE A39 trial and the expected paradigm shift in first-line therapy with establishment of the EV + P combination, as well as the CheckMate 901 trial with the combination of cisplatin, gemcitabine and nivolumab, selecting subsequent therapy lines in patients who fail during or progress after first-line treatment poses a significant challenge. Depending on the choice of first-line therapy, the below options exist.",
+      "tables": []
+    },
+    {
+      "anchor": "#9-7-2-chemotherapy",
+      "title": "9.7.2. Chemotherapy",
+      "level": 4,
+      "text": "In patients eligible for combination therapy that received EV + P, platinum-based chemotherapy with gemcitabine plus cisplatin or carboplatin may be considered. However, data is limited for this new post-EV + P clinical disease state and toxicities, for example, neuropathy from prior therapy, must be taken into consideration in determining a treatment plan. For patients that already received platinum-based chemotherapy with or without IO further-line chemotherapy, data are highly variable and mainly derive from small single-arm phase II trials, apart from one single phase III RCT. A reasonable strategy has been to rechallenge former platinum-sensitive patients if progression occurred at least six to 12 months after first-line platinum-based combination chemotherapy. A retrospective analysis of 296 patients within the Retrospective International Study of Cancers of the Urothelium (RISC) cohort revealed that subsequent platinum-based combination chemotherapy achieved a somewhat higher disease control rate (57.4% vs. 44.8%; p = 0.041) and OS (7.9 vs. 5.5 months; p = 0.035) compared to subsequent non-platinum-based chemotherapy [524]. Second-line response rates of single-agent treatment with paclitaxel (weekly), docetaxel, gemcitabine, nab-paclitaxel, oxaliplatin, ifosfamide, topotecan, pemetrexed, lapatinib, gefitinib and bortezomib have ranged between 0% and 28% in small phase II trials [525,526]. The paclitaxel/gemcitabine combination has shown good response rates in small single-arm studies, but no adequate phase III RCT has been conducted [527,528]. Vinflunine was tested in a phase III RCT and compared against BSC in patients progressing after first-line treatment with platinum-based chemotherapy [529]. The results showed a very modest ORR (8.6%), a clinical benefit with a favourable safety profile and a survival benefit, which was, however, only statistically significant in the eligible patient population (not in the ITT population). A randomised phase III trial evaluated the addition of the angiogenesis inhibitor ramucirumab to docetaxel chemotherapy versus docetaxel alone, which resulted in improved PFS (4.1 vs. 2.8 months) and higher response rates (24.5% vs. 14%), but no OS benefit was achieved [530,531].",
+      "tables": []
+    },
+    {
+      "anchor": "#9-7-3-immunotherapy-for-platinum-pretreated-patients-without-previous-immunotherapy",
+      "title": "9.7.3. Immunotherapy for platinum-pretreated patients without previous immunotherapy",
+      "level": 4,
+      "text": "The immune CPIs pembrolizumab, nivolumab, atezolizumab, avelumab and durvalumab have demonstrated similar efficacy and safety in patients progressing during or after previous platinum-based chemotherapy in phase I, II and III trials. Pembrolizumab demonstrated a significant OS improvement as second-line treatment in a phase III RCT leading to EMA and FDA approval. Patients (n = 542) were randomised to receive either pembrolizumab monotherapy or chemotherapy (paclitaxel, docetaxel or vinflunine). The median OS with pembrolizumab was 10.3 months (95% CI: 8.0-11.8) versus 7.4 months (95% CI: 6.1-8.3) with chemotherapy (HR 0.73; 95% CI: 0.59-0.91; p = 0.002) independent of PD-L1 expression levels [521,532]. Atezolizumab was the first CPI approved by the FDA for mUC based on the results of phase I and II trials [110,533], however, the indication has subsequently been withdrawn. The phase III RCT (IMvigor211) included 931 patients comparing atezolizumab with second-line chemotherapy (paclitaxel, docetaxel or vinflunine), but did not meet its primary endpoint of improved OS for patients with high PD-L1 expression with 11.1 months (atezolizumab) versus 10.6 (chemotherapy) months (stratified HR: 0.87; 95% CI: 0.63-1.21; p = 0.41) [282]. The PD-1 inhibitor nivolumab was approved by the FDA based on the results of a single-arm phase II trial (CheckMate 275), enrolling 270 platinum pretreated patients. The primary endpoint of ORR was 19.6%, and OS was 8.74 months for the entire group [534]. The TITAN-TCC study evaluated the safety and activity of nivolumab induction plus high-dose ipilumumab (3mg/kg) boosts in non-responders (stable or progressive disease) in the second-line treatment of 83 patients with mUC. Fifty patients (60%) received at least one boost with an investigator-assessed response rate of 33% (CR: 7%), demonstrating promising outcomes with this strategy compared to the rate reported in CheckMate 275 [535]. 9.7.3.a. Side effect profile of immunotherapy Checkpoint inhibitors, including PD-1 or PD-L1 antibodies and CTLA-4 antibodies, have a distinct side effect profile associated with their mechanism of action, leading to enhanced immune system activity. These AEs can affect any organ in the body leading to mild, moderate or severe side effects. The most common organs affected are the skin, GI tract, liver, lung, thyroid, adrenal and pituitary gland. Other systems that may be affected include musculoskeletal, renal, nervous, haematologic, ocular and cardiovascular system. Any change during IO treatment should raise suspicion regarding a possible relation to the treatment. The nature of immune-related AEs has been very well characterised and published [536]. The timely and appropriate treatment of immune-related side effects is crucial to achieve optimal benefit from the treatment while maintaining safety. Clear Guidelines for side effect management have been published [537]. Immunotherapy treatment should be applied and supervised by trained clinicians only to ensure early side effect recognition and treatment. In case of interruption of IO, rechallenge will require close monitoring for AEs [538].",
+      "tables": []
+    },
+    {
+      "anchor": "#9-8-integration-of-other-agents",
+      "title": "9.8. Integration of other agents",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#9-8-1-enfortumab-vedotin-monotherapy",
+      "title": "9.8.1. Enfortumab vedotin monotherapy",
+      "level": 4,
+      "text": "The first antibody-drug conjugate to report encouraging data in patients previously treated with platinum-based chemotherapy and checkpoint inhibition was EV. The phase-II single-arm study EV-201 in 125 patients showed a confirmed objective response rate of 44%, including 12% complete responses [539]. This data led to accelerated FDA and EMA approval for EV in locally advanced or metastatic UC patients who previously received a PD-1 or PD-L1 inhibitor and platinum-containing chemotherapy, as well as for cisplatin-ineligible patients who received one or more prior lines of therapy [540,541]. Another cohort of the same EV-201 trial demonstrated similar promising results in 91 patients that were cisplatin-ineligible and had received prior IO [542]. A phase III RCT (n = 608) comparing EV with single-agent chemotherapy after prior platinum chemotherapy and CPI IO demonstrated significant survival benefit of almost four months (12.88 months vs. 8.97 months; HR: 0.7; 95% CI: 0.56-0.89) [543]. The most common treatment-related AEs included alopecia (45%), peripheral neuropathy (34%), fatigue (31%, 7.4% ≥ grade 3), decreased appetite (31%), diarrhoea (24%), nausea (23%) and skin rash (16%, 7.4% ≥ grade 3). The reported 24-month findings from the EV-301 trial confirm the PFS, OS and overall response benefit for EV versus single-agent chemotherapy [544].",
+      "tables": []
+    },
+    {
+      "anchor": "#9-8-2-sacituzumab-govitecan",
+      "title": "9.8.2. Sacituzumab govitecan",
+      "level": 4,
+      "text": "Another new and promising antibody-drug conjugate is sacituzumab govitecan, consisting of a humanised monoclonal antibody targeting trophoblast cell surface antigen 2 (Trop-2) conjugated to SN-38, the active metabolite of irinotecan. In the TROPHY-U-01 study, sacituzumab govitecan was tested in 113 platinum and IO pretreated mUC patients [539]. It achieved an ORR of 27%, with a median PFS of 5.4 months and a median OS of 10.9 months [545]. Side effects consisted of haematological toxicities (neutropenia 34% ≥ grade 3; febrile neutropenia 10% ≥ grade 3), fatigue (52%), alopecia (47%), nausea (60%), diarrhoea (65%, 10% ≥ grade 3) and decreased appetite (36%) [545]. Sacituzumab govitecan received accelerated FDA approval for mUC with prior platinum and IO pretreatment. However, the indication was withdrawn after the TROPiCS-04 trial in patients with advanced UC whose disease had progressed on prior platinum-based chemotherapy and immune CPIs, because sacituzumab govitecan did not significantly improve OS or PFS compared with physician’s choice of chemotherapy (paclitaxel, docetaxel or vinflunine). In addition, grade 3 treatment-related AEs (67% vs. 35%) and grade 5 treatment-emergent AEs 7% vs. 2%; majority were infections with neutropenia) were higher with sacituzumab govitecan versus chemotherapy [546].",
+      "tables": []
+    },
+    {
+      "anchor": "#9-8-3-fgfr-inhibition",
+      "title": "9.8.3. FGFR inhibition",
+      "level": 4,
+      "text": "Genomic profiling of UC has revealed common potentially actionable genomic alterations, including alterations in FGFR [547]. Erdafitinib is a pan-FGFR tyrosine kinase inhibitor and the first FDA-approved targeted therapy for mUC with susceptible FGFR 2/3 alterations following platinum-containing chemotherapy. The phase II trial of erdafitinib included 99 patients whose tumour harboured an FGFR 3 mutation or FGFR 2/3 fusion and who had disease progression following chemotherapy [97]. The confirmed ORR was 40% and an additional 39% of patients had stable disease. A total of 22 patients had previously received IO with only one patient achieving a response, yet the response rate for erdafitinib for this subgroup was 59%. At a median follow-up of 24 months, the median PFS was 5.5 months (95% CI: 4.0-6.0) and the median OS was 11.3 months (95% CI: 9.7-15.2) [97]. Treatment-related AEs of ≥ grade 3 occurred in 46% of patients. Common AEs of ≥ grade 3 were hyponatraemia (11%), stomatitis (10%) and asthenia (7%). Thirteen patients discontinued erdafitinib due to AEs, including retinal pigment epithelial detachment, hand-foot syndrome, dry mouth and skin/nail events. In a long-term follow-up, the efficacy and safety profile remained similar with no new safety signals with longer follow-up [548]. The THOR cohort 1 trial, a phase III trial of erdafitinib compared with chemotherapy (docetaxel or vinflunine) in patients with mUC with susceptible FGFR 2/3 alterations who had progression after one or two previous treatments that included an anti-PD-1 or anti-PD-L1, demonstrated an improvement in OS with erdafitinib compared to chemotherapy (12.1 months vs. 7.8 months; HR: 0.64; 95% CI: 0.47-0.88; p = 0.005). Median PFS was also longer with erdafitinib than with chemotherapy (5.6 vs. 2.7 months; HR: 0.58; 95% CI: 0.44-0.78) [99]. Treatment-related toxicity grade ≥ 3 was similar in the two groups. The most common treatment-related AEs of grade 3 or higher were palmar-plantar erythrodysesthesia syndrome (9.6%), stomatitis (8.1%), onycholysis (5.9%) and hyperphosphatemia (5.2%) in the erdafitinib group. Data on cohort 2 with n = 351, anti-PD-L1 naïve and progressing after one prior treatment line compared erdafitinib with pembrolizumab. No difference in OS was detected (10.9 vs. 11.1 months; HR: 1.18; 95% CI: 0.92-1.51) [549]. The ORR was 40% and 21.6% and median duration of response was 4.3 and 14.4 months for erdafitinib and pembrolizumab, respectively. In addition, 64.7% and 50.9% of patients in the erdafitinib and pembrolizumab arms had ≥ 1 grade 3-4 AEs. Based on the THOR cohorts 1 and 2, erdafitinib has received both FDA and EMA approval for the treatment of patients with advanced or mUC with susceptible FGFR 3 genetic alterations who have previously received at least one line of therapy containing a PD-1 or PD-L1 inhibitor. In addition to erdafitinib, several other FGFR inhibitors are being evaluated, including infigratinib, which has demonstrated promising activity [98]. A phase II/III trial of the pan-FGFR inhibitor rogaratinib versus chemotherapy in patients with locally advanced or mUC with FGFR 1-3 mRNA overexpression demonstrated similar outcomes as compared to chemotherapy [550]. The increased identification of FGFR 3 mutations/fusion has led to several ongoing trials with different agents and combinations in various disease settings.",
+      "tables": []
+    },
+    {
+      "anchor": "#9-8-4-her2-targeted-agents",
+      "title": "9.8.4. HER2 targeted agents",
+      "level": 4,
+      "text": "For several years, HER2 has represented a potential target for the treatment of UC. The DESTINY-PanTumor02 phase II trial of the antibody-drug conjugate trastuzumab deruxtecan in patients with HER2-expressing solid tumours included a cohort of 41 patients with locally advanced or metastatic BC after ≥ 1 systemic treatment or without alternative treatment options [117]. The ORR for patients with BC, regardless of HER2 IHC status, was 39% with an ORR of 56.3% and 35% in HER2 IHC 3+ and 2+, respectively. The median PFS for all patients with BC was 7.0 months, and median OS was 12.8 months. For all patients in the study across seven tumour cohorts, grade ≥ 3 drug-related AEs were seen in 40.8% of patients with 10.5% experiencing drug-related interstitial lung disease, including three deaths. Based on this study, the FDA has granted accelerated approval to transtuzumab deruxtecan for patients with unresectable or metastatic HER2-positive (IHC3+) solid tumours who have received prior systemic therapy and have no satisfactory alternative treatment options. Other HER2 targeted agents are being explored, including a recently reported combined analysis of two phase II trials evaluating the safety and efficacy of the antibody-drug conjugate Disitamab Vedotin in patients with HER2-positive locally advanced UC or mUC who have progressed on at least one line of systemic chemotherapy [551]. In 107 patients, the ORR was 50.5% with median PFS and OS of 5.9 months and 14.2 months, respectively. The most common treatment-related AEs were peripheral sensory neuropathy, leukopenia, AST increased and neutropenia. Ongoing studies are evaluating disitamab vedotin as monotherapy and in combinations.",
+      "tables": []
+    },
+    {
+      "anchor": "#9-8-5-impact-of-prior-neoadjuvantadjuvant-therapy-on-treatment-sequence",
+      "title": "9.8.5. Impact of prior neoadjuvant/adjuvant therapy on treatment sequence",
+      "level": 4,
+      "text": "Perioperative systemic treatment is increasingly used in UC, including cisplatin-based chemotherapy in the neoadjuvant setting for BC and adjuvant platinum-based chemotherapy for upper tract UC [552]. Many ongoing phase III trials are investigating the use of IO in this setting as well (see Section 7.6.2). So far, two trials have reported a significant DFS benefit for adjuvant immune CPIs (nivolumab compared with placebo and pembrolizumab compared with surveillance), whereas another trial reported no significant benefit using atezolizumab versus placebo in the same setting [291,296]. A growing number of patients with mUC are expected to have undergone pretreatment with platinum and/or IO agents. However, no prospective trials have investigated the treatment of these patients. The choice of treatment depends on the applied perioperative treatment and the time until relapse. If at least 12 months have passed since the end of perioperative treatment, the same systemic treatment as in treatment-naïve patients is recommended.",
+      "tables": []
+    },
+    {
+      "anchor": "#9-8-6-systemic-treatment-of-metastatic-disease-with-histology-other-than-pure-urothelial-carcinoma",
+      "title": "9.8.6. Systemic treatment of metastatic disease with histology other than pure urothelial carcinoma",
+      "level": 4,
+      "text": "Pure UC represents the predominant histology in over 90% of patients with mUC. Subtypes (e.g. micropapillary, nested, sarcomatoid) and divergent differentiation (e.g. SCC, adenocarcinoma) can be found in addition to pure UC in up to 33% of patients. Such patients were often excluded from large phase II and phase III trials. Therefore, the knowledge about the best management of such patients is limited. The literature was reviewed [52] and an expert Delphi survey and consensus conference provided guidance [83]. In case of predominant pure UC, it is recommended to treat patients with mixed histology the same way as patients with a pure UC histology. Patients with predominant non-urothelial differentiation, such as small cell NE carcinoma, urachal adenocarcinoma, SCC and adenocarcinoma, should be treated individually.",
+      "tables": []
+    },
+    {
+      "anchor": "#9-9-treatment-of-patients-with-bone-metastases",
+      "title": "9.9. Treatment of patients with bone metastases",
+      "level": 3,
+      "text": "The prevalence of metastatic bone disease (MBD) in patients with advanced or metastatic UC is 30-40% [553]. An interesting report described several observations concerning age- and sex-related differences in the distribution of metastases in patients with metastatic BC and demonstrated that bone was the most common metastatic site in males with other differences noted according to patient age and sex [554]. Skeletal complications due to MBD have a detrimental effect on pain and QoL and are also associated with increased mortality [555]. Bisphosphonates such as zoledronic acid reduce and delay skeletal-related events (SREs) due to bone metastases by inhibiting bone resorption, as shown in a small pilot study [556]. Denosumab, a fully human monoclonal antibody that binds to and neutralises RANKL (receptor activator of nuclear factor κB ligand), was shown to be non-inferior to zoledronic acid in preventing or delaying SREs in patients with solid tumours and advanced MBD, including patients with UC [557]. Patients with MBD, irrespective of the cancer type, should be considered for bone-targeted treatment [555]. Patients treated with zoledronic acid or denosumab should be informed about possible side effects, including osteonecrosis of the jaw and hypocalcaemia. Supplementation with calcium and vitamin D is mandatory. Dosing regimens of zoledronic acid should follow regulatory recommendations and must be adjusted according to pre-existing medical conditions, especially renal function [558]. For denosumab, no dose adjustments are required for variations in renal function.",
+      "tables": []
+    },
+    {
+      "anchor": "#9-10-treatment-algorithm-for-metastatic-urothelial-cancer",
+      "title": "9.10. Treatment algorithm for metastatic urothelial cancer",
+      "level": 3,
+      "text": "Figure 9.2 summarises the treatment algorithm for metastatic BC based on the evidence discussed in the text above. Patients with treatment-naïve mUC can be divided into two broad categories: eligible for combination therapies or ineligible for combination therapies (see Section 9.3). The combination of EV + P represents the new standard of care for patients who are deemed fit for combination therapies. In patients that might not be eligible for or who refuse treatment with EV, including patients with uncontrolled diabetes, peripheral neuropathy grade ≥ 2 and pre-existing significant skin disorders, platinum-based chemotherapy with integration of immune CPIs represents the preferred options. With regard to platinum-based chemotherapy, the definitions are grouped according to platinum eligibility based on clear definitions. In platinum-based chemotherapy, cisplatin is to be preferred to carboplatin. Patients who are cisplatin-ineligible but carboplatin-eligible should receive gemcitabine carboplatin combination chemotherapy. In case of positive PD-L1 status, treatment with CPIs (atezolizumab or pembrolizumab) could be an alternative option. Patients unfit for both cisplatin and carboplatin (platinum-unfit) can be considered for IO (FDA approved irrespective of PD-L1 status, EMA approved only for PD-L1 positive patients) or receive BSC. In cases of disease stabilisation or better on platinum-based chemotherapy, switch maintenance treatment with IO (avelumab) is recommended. Alternatively, patients can be followed closely and receive second-line IO at the time of progression (pembrolizumab). Determining FGFR mutation status is recommended before deciding about further-line treatment. Patients with FGFR 3 mutations are candidates for FGFR inhibitor treatment. Enfortumab vedotin therapy is standard in case of progression after platinum chemotherapy and IO. However, based on EV-302/KEYNOTE 39A, the majority of patients will be candidates for EV + P in the first-line setting. The optimal sequence of novel agents and potential combinations are the subject of several ongoing trials. Treating patients within ongoing clinical trials is recommended whenever possible.",
+      "tables": []
+    },
+    {
+      "anchor": "#9-11-summary-of-evidence-and-recommendations-for-metastatic-disease",
+      "title": "9.11. Summary of evidence and recommendations for metastatic disease",
+      "level": 3,
+      "text": "Summary of evidence LE Enfortumab vedotin in combination with pembrolizumab in the first-line setting demonstrated significant survival benefit as compared to chemotherapy. 1 The combination of cisplatin and gemcitabine plus nivolumab in the first-line setting demonstrated significant survival benefit as compared to chemotherapy alone. 1b Switch maintenance with the PD-L1 inhibitor avelumab has demonstrated significant OS benefit in patients achieving at least stable disease on first-line platinum-based chemotherapy. 1b The combination of chemotherapy plus pembrolizumab or atezolizumab and the combination of durvalumab and tremelimumab have not demonstrated OS survival benefit compared to platinum-based chemotherapy alone. 1b Enfortumab vedotin after platinum-containing chemotherapy and a CPI has demonstrated a significant survival benefit as compared to chemotherapy. 1b Erdafitinib demonstrated a survival benefit compared to chemotherapy in patients with susceptible FGFR 3 genetic alterations who received one or two previous treatments that included at least a CPI. 1b Pembrolizumab, a PD-1 inhibitor, has been approved for patients that have progressed during or after previous platinum-based chemotherapy based on the results of a phase III trial. 1b Atezolizumab, a PD-1 inhibitor, is approved for patients with advanced UC or mUC unfit for cisplatin-based chemotherapy in case of high PD-L1 expression defined as tumour-infiltrating immune cells covering ≥ 5% of the tumour area using the SP142 assay. 1b Pembrolizumab, a PD-1 inhibitor, is approved for patients with advanced or mUC unfit for any platinum-based chemotherapy in case of high PD-L1 expression defined as CPS of ≥ 10 using the Dako 22C33 platform (EMA; FDA approval independent of PD-L1 status). 1b Carboplatin combination chemotherapy is less effective than cisplatin-based chemotherapy in terms of complete response and survival. 2a Single-agent chemotherapy provides low response rates of usually short duration. 2a Post-chemotherapy surgery after partial or complete response may contribute to long-term DFS in highly selected patients. 3 Zoledronic acid and denosumab have been approved for supportive treatment in case of bone metastases of all cancer types including UC, because they reduce and delay skeletal related events. 1b Retrospective case series show some survival benefit for the additional of local therapy (to the primary and to sites of metastases) in oligometastatic BC. 3 Recommendations Strength rating First-line treatment if eligible for combination therapy Use antibody-drug conjugate enfortumab vedotin (EV) in combination with checkpoint inhibitor (CPI) pembrolizumab. Strong If contraindications for EV or EV not available: Offer platinum-containing combination chemotherapy (cisplatin or carboplatin plus gemcitabine) followed by maintenance treatment with CPI avelumab in patients with at least stable disease on chemotherapy. Strong If contraindications for EV (or EV not available) and cisplatin-eligible: Offer cisplatin/gemcitabine in combination with CPI nivolumab. Strong If contraindications for EV and CPI therapy: Use platinum-containing combination chemotherapy (cisplatin or carboplatin plus gemcitabine). Strong First-line treatment if not eligible for combination therapy Offer single agent CPI pembrolizumab or atezolizumab in case of high programmed death-ligand 1 (PD-L1) expression (for definitions see text). Weak Later-line treatment After prior EV + CPI Offer platinum-containing combination chemotherapy (cisplatin or carboplatin plus gemcitabine). Weak If actionable fibroblast growth factor receptor ( FGFR ) alterations: offer erdafitinib Strong Offer single agent chemotherapy (docetaxel, paclitaxel, vinflunine). Weak After prior platinum-based chemotherapy +/- CPI Offer antibody-drug conjugate enfortumab vedotin. Strong If actionable FGFR alterations and prior CPI: offer erdafitinib. Strong If no prior CPI: offer pembrolizumab. Strong Consider single agent chemotherapy (docetaxel, paclitaxel, vinflunine). Weak Further treatment after EV, CPI, platinum-based therapy Offer antibody-drug conjugate Trastuzumab deruxtecan in case of human epidermal growth factor receptor (HER) 2 over expression (IHC 3+) and consider in case of HER2 (IHC 2+). Weak Offer treatment in clinical trials. Consider best supportive care alone if patient is not a candidate for further cancer-specific systemic therapy. Strong If actionable FGFR alterations: offer erdafitinib. Strong Figure 9.2: Flow chart for the management of metastatic urothelial cancer CPI = checkpoint inhibitor; EV = enfortumab vedotin; FGFR = fibroblast growth factor receptor; GFR = glomerular filtration rate; HER = human epidermal growth factor receptor; PD-L1 = programmed death-ligand 1; PD = programmed death; PS = performance status.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Enfortumab vedotin in combination with pembrolizumab in the first-line setting demonstrated significant survival benefit as compared to chemotherapy.",
+              "1"
+            ],
+            [
+              "The combination of cisplatin and gemcitabine plus nivolumab in the first-line setting demonstrated significant survival benefit as compared to chemotherapy alone.",
+              "1b"
+            ],
+            [
+              "Switch maintenance with the PD-L1 inhibitor avelumab has demonstrated significant OS benefit in patients achieving at least stable disease on first-line platinum-based chemotherapy.",
+              "1b"
+            ],
+            [
+              "The combination of chemotherapy plus pembrolizumab or atezolizumab and the combination of durvalumab and tremelimumab have not demonstrated OS survival benefit compared to platinum-based chemotherapy alone.",
+              "1b"
+            ],
+            [
+              "Enfortumab vedotin after platinum-containing chemotherapy and a CPI has demonstrated a significant survival benefit as compared to chemotherapy.",
+              "1b"
+            ],
+            [
+              "Erdafitinib demonstrated a survival benefit compared to chemotherapy in patients with susceptible FGFR 3 genetic alterations who received one or two previous treatments that included at least a CPI.",
+              "1b"
+            ],
+            [
+              "Pembrolizumab, a PD-1 inhibitor, has been approved for patients that have progressed during or after previous platinum-based chemotherapy based on the results of a phase III trial.",
+              "1b"
+            ],
+            [
+              "Atezolizumab, a PD-1 inhibitor, is approved for patients with advanced UC or mUC unfit for cisplatin-based chemotherapy in case of high PD-L1 expression defined as tumour-infiltrating immune cells covering ≥ 5% of the tumour area using the SP142 assay.",
+              "1b"
+            ],
+            [
+              "Pembrolizumab, a PD-1 inhibitor, is approved for patients with advanced or mUC unfit for any platinum-based chemotherapy in case of high PD-L1 expression defined as CPS of ≥ 10 using the Dako 22C33 platform (EMA; FDA approval independent of PD-L1 status).",
+              "1b"
+            ],
+            [
+              "Carboplatin combination chemotherapy is less effective than cisplatin-based chemotherapy in terms of complete response and survival.",
+              "2a"
+            ],
+            [
+              "Single-agent chemotherapy provides low response rates of usually short duration.",
+              "2a"
+            ],
+            [
+              "Post-chemotherapy surgery after partial or complete response may contribute to long-term DFS in highly selected patients.",
+              "3"
+            ],
+            [
+              "Zoledronic acid and denosumab have been approved for supportive treatment in case of bone metastases of all cancer types including UC, because they reduce and delay skeletal related events.",
+              "1b"
+            ],
+            [
+              "Retrospective case series show some survival benefit for the additional of local therapy (to the primary and to sites of metastases) in oligometastatic BC.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "First-line treatment if eligible for combination therapy"
+            ],
+            [
+              "Use antibody-drug conjugate enfortumab vedotin (EV) in combination with checkpoint inhibitor (CPI) pembrolizumab.",
+              "Strong"
+            ],
+            [
+              "If contraindications for EV or EV not available:Offer platinum-containing combination chemotherapy (cisplatin or carboplatin plus gemcitabine) followed by maintenance treatment with CPI avelumab in patients with at least stable disease on chemotherapy.",
+              "Strong"
+            ],
+            [
+              "If contraindications for EV (or EV not available) and cisplatin-eligible:Offer cisplatin/gemcitabine in combination with CPI nivolumab.",
+              "Strong"
+            ],
+            [
+              "If contraindications for EV and CPI therapy:Use platinum-containing combination chemotherapy (cisplatin or carboplatin plus gemcitabine).",
+              "Strong"
+            ],
+            [
+              "First-line treatment if not eligible for combination therapy"
+            ],
+            [
+              "Offer single agent CPI pembrolizumab or atezolizumab in case of high programmed death-ligand 1 (PD-L1) expression (for definitions see text).",
+              "Weak"
+            ],
+            [
+              "Later-line treatment"
+            ],
+            [
+              "After prior EV + CPI"
+            ],
+            [
+              "Offer platinum-containing combination chemotherapy (cisplatin or carboplatin plus gemcitabine).",
+              "Weak"
+            ],
+            [
+              "If actionable fibroblast growth factor receptor (FGFR) alterations: offer erdafitinib",
+              "Strong"
+            ],
+            [
+              "Offer single agent chemotherapy (docetaxel, paclitaxel, vinflunine).",
+              "Weak"
+            ],
+            [
+              "After prior platinum-based chemotherapy +/- CPI"
+            ],
+            [
+              "Offer antibody-drug conjugate enfortumab vedotin.",
+              "Strong"
+            ],
+            [
+              "If actionable FGFR alterations and prior CPI: offer erdafitinib.",
+              "Strong"
+            ],
+            [
+              "If no prior CPI: offer pembrolizumab.",
+              "Strong"
+            ],
+            [
+              "Consider single agent chemotherapy (docetaxel, paclitaxel, vinflunine).",
+              "Weak"
+            ],
+            [
+              "Further treatment after EV, CPI, platinum-based therapy"
+            ],
+            [
+              "Offer antibody-drug conjugate Trastuzumab deruxtecan in case of human epidermal growth factor receptor (HER) 2 over expression (IHC 3+) and consider in case of HER2 (IHC 2+).",
+              "Weak"
+            ],
+            [
+              "Offer treatment in clinical trials. Consider best supportive care alone if patient is not a candidate for further cancer-specific systemic therapy.",
+              "Strong"
+            ],
+            [
+              "If actionable FGFR alterations: offer erdafitinib.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 3
+}

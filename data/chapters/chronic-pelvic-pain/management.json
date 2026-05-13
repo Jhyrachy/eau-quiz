@@ -1,0 +1,1224 @@
+{
+  "guideline": "chronic-pelvic-pain",
+  "chapter": "management",
+  "url": "https://uroweb.org/guidelines/chronic-pelvic-pain/chapter/management",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim",
+      "anchor": "#1-1-aim"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Structure and scope",
+      "anchor": "#1-2-structure-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Publication history",
+      "anchor": "#1-3-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Available publications",
+      "anchor": "#1-4-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Panel composition",
+      "anchor": "#1-5-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.6. Terminology",
+      "anchor": "#1-6-terminology"
+    },
+    {
+      "level": 4,
+      "text": "IASP definitions",
+      "anchor": "#iasp-definitions"
+    },
+    {
+      "level": 4,
+      "text": "ICD classification: purpose and uses",
+      "anchor": "#icd-classification-purpose-and-uses"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODOLOGY",
+      "anchor": "#2-methodology"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY, AETIOLOGY AND PATHOPHYSIOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Chronic visceral pain",
+      "anchor": "#3-1-chronic-visceral-pain"
+    },
+    {
+      "level": 4,
+      "text": "3.1.1. Incidence",
+      "anchor": "#3-1-1-incidence"
+    },
+    {
+      "level": 4,
+      "text": "3.1.2. Prevalence",
+      "anchor": "#3-1-2-prevalence"
+    },
+    {
+      "level": 4,
+      "text": "3.1.3. Influence on Quality of Life",
+      "anchor": "#3-1-3-influence-on-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "3.1.4. Costs",
+      "anchor": "#3-1-4-costs"
+    },
+    {
+      "level": 4,
+      "text": "3.1.5. Risk factors and underlying causes",
+      "anchor": "#3-1-5-risk-factors-and-underlying-causes"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Pelvic pain",
+      "anchor": "#3-2-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Incidence",
+      "anchor": "#3-2-1-incidence"
+    },
+    {
+      "level": 4,
+      "text": "3.2.2. Prevalence",
+      "anchor": "#3-2-2-prevalence"
+    },
+    {
+      "level": 4,
+      "text": "3.2.3. Influence on Quality of Life",
+      "anchor": "#3-2-3-influence-on-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "3.2.4. Costs",
+      "anchor": "#3-2-4-costs"
+    },
+    {
+      "level": 4,
+      "text": "3.2.5. Risk factors and underlying causes",
+      "anchor": "#3-2-5-risk-factors-and-underlying-causes"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Abdominal aspects of pelvic pain",
+      "anchor": "#3-3-abdominal-aspects-of-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Incidence",
+      "anchor": "#3-3-1-incidence"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Prevalence",
+      "anchor": "#3-3-2-prevalence"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Influence on health-related Quality of Life",
+      "anchor": "#3-3-3-influence-on-health-related-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Costs",
+      "anchor": "#3-3-4-costs"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. Risk factors & underlying causes",
+      "anchor": "#3-3-5-risk-factors--underlying-causes"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Summary of evidence and recommendations for chronic primary pelvic pain syndrome and pain mechanisms",
+      "anchor": "#3-4-summary-of-evidence-and-recommendations-for-chronic-primary-pelvic-pain-syndrome-and-pain-mechanisms"
+    },
+    {
+      "level": 2,
+      "text": "4. DIAGNOSTIC EVALUATION",
+      "anchor": "#4-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "4.1. General evaluation",
+      "anchor": "#4-1-general-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. History",
+      "anchor": "#4-1-1-history"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. Physical evaluation",
+      "anchor": "#4-1-2-physical-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Supplemental evaluation",
+      "anchor": "#4-2-supplemental-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. Assessing pelvic pain and related symptoms",
+      "anchor": "#4-2-1-assessing-pelvic-pain-and-related-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. Focused myofascial evaluation",
+      "anchor": "#4-2-2-focused-myofascial-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.2.3. Neurological",
+      "anchor": "#4-2-3-neurological"
+    },
+    {
+      "level": 4,
+      "text": "4.2.4. Imaging",
+      "anchor": "#4-2-4-imaging"
+    },
+    {
+      "level": 4,
+      "text": "4.2.5. Laboratory tests",
+      "anchor": "#4-2-5-laboratory-tests"
+    },
+    {
+      "level": 4,
+      "text": "4.2.6. Invasive tests",
+      "anchor": "#4-2-6-invasive-tests"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Diagnostic algorithm",
+      "anchor": "#4-3-diagnostic-algorithm"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Other painful conditions without a urological cause",
+      "anchor": "#4-4-other-painful-conditions-without-a-urological-cause"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Summary of evidence and recommendations for diagnostic evaluation",
+      "anchor": "#4-5-summary-of-evidence-and-recommendations-for-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Diagnostic evaluation - general",
+      "anchor": "#4-5-1-diagnostic-evaluation---general"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Diagnostic evaluation of primary prostate pain syndrome",
+      "anchor": "#4-5-2-diagnostic-evaluation-of-primary-prostate-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Diagnostic evaluation of primary bladder pain syndrome",
+      "anchor": "#4-5-3-diagnostic-evaluation-of-primary-bladder-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.4. Diagnostic evaluation of scrotal pain syndrome",
+      "anchor": "#4-5-4-diagnostic-evaluation-of-scrotal-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.5. Diagnostic evaluation of urethral pain syndrome",
+      "anchor": "#4-5-5-diagnostic-evaluation-of-urethral-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.6. Diagnostic evaluation of gynaecological aspects chronic pelvic pain",
+      "anchor": "#4-5-6-diagnostic-evaluation-of-gynaecological-aspects-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "4.5.7. Diagnostic evaluation of anorectal pain syndrome",
+      "anchor": "#4-5-7-diagnostic-evaluation-of-anorectal-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.8. Diagnostic evaluation of nerves to the pelvis",
+      "anchor": "#4-5-8-diagnostic-evaluation-of-nerves-to-the-pelvis"
+    },
+    {
+      "level": 4,
+      "text": "4.5.9. Diagnostic evaluation of sexological aspects in chronic pelvic pain",
+      "anchor": "#4-5-9-diagnostic-evaluation-of-sexological-aspects-in-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "4.5.10. Diagnostic evaluation of psychological aspects of chronic pelvic pain",
+      "anchor": "#4-5-10-diagnostic-evaluation-of-psychological-aspects-of-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "4.5.11. Diagnostic evaluation of pelvic floor function",
+      "anchor": "#4-5-11-diagnostic-evaluation-of-pelvic-floor-function"
+    },
+    {
+      "level": 2,
+      "text": "5. MANAGEMENT",
+      "anchor": "#5-management"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Conservative management",
+      "anchor": "#5-1-conservative-management"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Physical therapy",
+      "anchor": "#5-1-1-physical-therapy"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Psychological therapy",
+      "anchor": "#5-1-2-psychological-therapy"
+    },
+    {
+      "level": 4,
+      "text": "5.1.3. Dietary treatment",
+      "anchor": "#5-1-3-dietary-treatment"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Pharmacological management",
+      "anchor": "#5-2-pharmacological-management"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Drugs for chronic primary pelvic pain syndrome",
+      "anchor": "#5-2-1-drugs-for-chronic-primary-pelvic-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Analgesics",
+      "anchor": "#5-2-2-analgesics"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Further management",
+      "anchor": "#5-3-further-management"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Nerve blocks",
+      "anchor": "#5-3-1-nerve-blocks"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Neuromodulation",
+      "anchor": "#5-3-2-neuromodulation"
+    },
+    {
+      "level": 4,
+      "text": "5.3.3. Surgery",
+      "anchor": "#5-3-3-surgery"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Summary of evidence and recommendations: management",
+      "anchor": "#5-4-summary-of-evidence-and-recommendations-management"
+    },
+    {
+      "level": 4,
+      "text": "5.4.1. Management of primary prostate pain syndrome",
+      "anchor": "#5-4-1-management-of-primary-prostate-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.2. Management of primary bladder pain syndrome",
+      "anchor": "#5-4-2-management-of-primary-bladder-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.3. Management of scrotal pain syndrome",
+      "anchor": "#5-4-3-management-of-scrotal-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.4. Management of primary urethral pain syndrome",
+      "anchor": "#5-4-4-management-of-primary-urethral-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.5. Management of gynaecological aspects of chronic pelvic pain",
+      "anchor": "#5-4-5-management-of-gynaecological-aspects-of-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "5.4.6. Management of primary anorectal pain syndrome",
+      "anchor": "#5-4-6-management-of-primary-anorectal-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.7. Management of pudendal neuralgia",
+      "anchor": "#5-4-7-management-of-pudendal-neuralgia"
+    },
+    {
+      "level": 4,
+      "text": "5.4.8. Management of sexological aspects in chronic pelvic pain",
+      "anchor": "#5-4-8-management-of-sexological-aspects-in-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "5.4.9. Management of psychological aspects in chronic pelvic pain",
+      "anchor": "#5-4-9-management-of-psychological-aspects-in-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "5.4.10. Management of pelvic floor dysfunction",
+      "anchor": "#5-4-10-management-of-pelvic-floor-dysfunction"
+    },
+    {
+      "level": 2,
+      "text": "6. EVALUATION OF TREATMENT RESULTS",
+      "anchor": "#6-evaluation-of-treatment-results"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Evaluation of treatment",
+      "anchor": "#6-1-evaluation-of-treatment"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Treatment has not been effective",
+      "anchor": "#6-1-1-treatment-has-not-been-effective"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Treatment has been effective",
+      "anchor": "#6-1-2-treatment-has-been-effective"
+    },
+    {
+      "level": 2,
+      "text": "7. REFERENCES",
+      "anchor": "#7-references"
+    },
+    {
+      "level": 2,
+      "text": "8. CONFLICT OF INTEREST",
+      "anchor": "#8-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "9. CITATION INFORMATION",
+      "anchor": "#9-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "10. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#10-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#chronic-pelvic-pain",
+      "title": "Chronic Pelvic Pain",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 5. Management Introduction Methodology Epidemiology, Aetiology And Pathophysiology Diagnostic Evaluation Management Evaluation Of Treatment Results References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#5-management",
+      "title": "5. MANAGEMENT",
+      "level": 2,
+      "text": "The management of chronic pelvic pain is based on a biopsychosocial model. This is a holistic approach where patient engagement is fundamental. Communicating empathy and understanding is a prerequisite for patient engagement, which in turn facilitates treatment adherence and improves psychological well-being [77, 314]. Empathic communication should therefore be integrated at all stages in the management of chronic pelvic pain. Single interventions, including psychology, physiotherapy, drugs and more invasive interventions, need to be considered within a broader personalised management strategy, including self-management. All potential interventions should be explored in collaboration with the patient, aiming for a shared understanding of the potential and realistic outcomes, where benefits, risks and efforts are weighed against each other, and against the possibility of no treatment. Patient education Communicating empathy, legitimisation and understanding is particularly important for patient education. Patient education, defined as learning about diseases, symptoms, comorbidities and their management to improve health [315], shared learning and understanding form the basis of discussions about treatment options in chronic pelvic pain. Exploring the patient’s worries, preferences, questions and concerns, and establishing what the patient believes is the cause of pain, are the first steps for personalising patient education according to needs. Patient education has been categorised into pain science education (“how pain works”) and pain management education (“how to manage pain”) [316]. These two aspects should be customised based on the patient’s needs and requests. For many patients, recommendations for further learning from evidence-based resources is valuable to enhance health literacy. When developing educational resources, it is essential to consider educational, cultural, linguistic and socioeconomic diversity to ensure they are accessible and effective for all individuals. Clinicians can direct patients towards trustworthy and helpful resources. These may be published by public healthcare and by patient charities and organisations, and might include audio-visual resources such as podcasts, video clips and interactive content. This is important to ensure clear understanding of the risks, benefits and potential consequences of the available options [317]. This will empower patients to make informed decisions that reflect their personal values. Deliberate and personalised patient education and enhanced patient engagement will facilitate shared decision-making. Shared decision-making is the integration of clinical expertise and the patient's (and/or carer and families) personal preferences, values and choices [318], which is ethically imperative and should be prioritised. The process underpins self-management and may provide better outcomes and prevention of relapse [319]. Treatment philosophy Providing information that is personalised and responsive to the patient’s problems, conveying belief and concern, is a powerful way to allay anxiety [320]. Additional written information or direction to reliable sources of information is useful; practitioners tend to rely on locally produced material or pharmaceutical products of variable quality while endorsing the need for independent materials for patients.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-1-conservative-management",
+      "title": "5.1. Conservative management",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#5-1-1-physical-therapy",
+      "title": "5.1.1. Physical therapy",
+      "level": 4,
+      "text": "The physiotherapist is part of the pain management team (including doctors, psychologists and nurses). The therapeutic options for physiotherapists may not be the same in every country. Physiotherapists can either specifically treat the pathology of the pelvic floor muscles, or more generally treat myofascial pain if it is part of the pelvic pain syndrome. In most studies that look at the effect of physiotherapy in pelvic pain, treatment of the pelvic floor is only part of the pain management. In a review about physiotherapy in females with pelvic pain, it was concluded that recommendations for physiotherapy should be given with caution [321]. The review found six RCTs, of which three showed level 1b evidence with low risk of bias. One of these three found that Mensendieck somatocognitive therapy showed a pain reduction after one year follow-up of 64%. This approach consists of myofascial relaxation and tension, improving posture and movement in combination with cognitive behaviour therapy [322]. Pelvic floor muscle pain Treating pelvic floor over-activity and myofascial trigger points should be considered in the management of chronic pelvic pain. Treatment should be done by specialised physiotherapists who are trained not only in the musculoskeletal aspects of pain, but also in the psychological mechanisms and the role of the CNS in chronic pain. For patients with chronic pelvic pain and dysfunction of the pelvic floor muscles, it is very helpful to learn how to relax the muscles when the pain starts. By doing this, the circle of pain-spasm-pain can be interrupted. In the case of shortened muscles, relaxation alone is not enough. Stretching of the muscle is mandatory to regain length and function. Studies on physical therapy for pelvic floor pain syndrome have been sparse. A single blinded RCT with myofascial physical therapy and general body massage was carried out in patients with prostate or bladder pain. The global response rate to treatment with massage was significantly better in the prostate than in the bladder pain group (57% vs. 21%). In the prostate pain group, there was no difference between the two treatment arms. In the bladder pain group, myofascial treatment did significantly better than massage. Massage only improved complaints in the prostate pain group. The fact that gender distribution was different in each group is mentioned as a possible confounding factor [323]. A RCT of 84 patients with PPPS comparing so-called conventional therapy (α-blockers, anti-inflammatory drugs and sitz baths) with biofeedback and pelvic floor muscle relaxation therapy, demonstrated an improvement in both groups after three months, but three months after the end of treatment, the effects only persisted in the biofeedback and pelvic floor muscle relaxation therapy patients [324]. Myofascial trigger point release Treatment of myofascial trigger points can be done by manual therapy, dry needling and wet needling. The evidence for all the different treatments is weak, with most studies showing no significant difference between these techniques, though most studies were small and heterogeneous with regards to the patients and methods. There is no evidence that manual techniques are more effective than no treatment [325]. Most studies of dry needling have compared with wet needling. Different systematic reviews have come to the conclusion that, although there is an effect of needling on pain, it is neither supported nor refuted that this effect is better than placebo [326]. Physiotherapy in primary bladder pain syndrome Transvaginal manual therapy of the pelvic floor musculature (Thiele massage) in PBPS patients with high-tone dysfunction of the pelvic floor significantly improved several assessment scales [327]. The role of specific levator ani trigger point injections in females with chronic pelvic pain has been studied [328]. Each trigger point was identified by intravaginal palpation and injected with bupivacaine, lidocaine and triamcinolone. Seventy two percent of females improved with the first trigger point injection, with 33% being completely pain-free. Efficacy and safety of pelvic floor myofascial physical therapy have been compared with global therapeutic massage in females with PBPS; the global response assessment rate was 59% and 26%, respectively. Pain, urgency and frequency ratings, and symptoms decreased in both groups during follow-up, and did not differ significantly between the groups. This suggests that myofascial physical therapy is beneficial in females with PBPS [329]. Primary anal pain syndrome An RCT demonstrated that biofeedback treatment was superior to electrogalvanic stimulation and massage of the levator muscle for treating chronic primary anal pain syndrome [115]. One hundred and fifty-seven patients who had at least weekly rectal pain were investigated, but only patients with tenderness on traction of the pelvic floor showed a significant treatment benefit. In patients with tenderness",
+      "tables": []
+    },
+    {
+      "anchor": "#5-1-2-psychological-therapy",
+      "title": "5.1.2. Psychological therapy",
+      "level": 4,
+      "text": "Psychological interventions may be directed at pain itself or at adjustment to pain in terms of function and mood and reduced healthcare use, with or without pain reduction. Ideally, treatment follows general principles and practice in the field of chronic pain [352, 353] but these have been neglected in pelvic pain. Three systematic reviews and meta-analyses of the few heterogeneous trials of psychologically based treatment for pelvic pain [354-356] found benefits for pain comparable to those from pharmacotherapy over a few months, but this was not sustained at follow-up. Exposure to pain-related fears in females with chronic pelvic pain proved superior to manual therapy in reducing those fears and overall pain disability, albeit assessed only by self-report [357]. The importance of multidisciplinary treatment is emphasised by several reviews [40, 358, 359] of intervention for diverse chronic pains, but standard multicomponent psychologically-based programmes for pelvic pains are mostly in the pilot stages [360], with mixed findings so far [361]. For primary focal vulvar pain syndrome, multimodal physiotherapy integrating psychological components has shown beneficial effects, although more research on the effects of psychological therapy and multicomponent psychologically-based programmes is needed in this patient group [362]. For less disabled and distressed patients, treatment can be delivered remotely [363, 364].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-1-3-dietary-treatment",
+      "title": "5.1.3. Dietary treatment",
+      "level": 4,
+      "text": "Scientific data are limited and dietary restriction alone does not produce significant symptomatic relief; however, consider the involvement of a dietician.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-pharmacological-management",
+      "title": "5.2. Pharmacological management",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-1-drugs-for-chronic-primary-pelvic-pain-syndrome",
+      "title": "5.2.1. Drugs for chronic primary pelvic pain syndrome",
+      "level": 4,
+      "text": "In this Section, the evidence available for specific CPPPSs is presented. More generic use is discussed in Section 5.2.2. There is a large discrepancy in the treatment effects reported in case series and controlled trials that results from a large placebo effect or publication bias. As a result of the multifactorial origin of, for example, PPPS, one reason for treatment failure in some large placebo-controlled RCTs, may be the heterogeneity of the patient population. One strategy for improving treatment effects may be stratification of patient phenotypes. A prospective series of phenotypically directed treatment for CPPPS has shown significant improvement of symptoms and QoL [365]. Monotherapeutic strategies for the treatment of CPPPS may fail [366], therefore, most patients require multimodal treatment aimed at the main symptoms, and taking comorbidity into account. In the past ten years, results from RCTs have led to advances in standard and novel treatment options. 5.2.1.a. Mechanisms of action Mechanisms of action are discussed as appropriate under the drugs headings below. 5.2.1.b. Comparisons of agents used in pelvic pain syndromes",
+      "tables": []
+    },
+    {
+      "anchor": "#primary-prostate-pain-syndrome",
+      "title": "Primary prostate pain syndrome",
+      "level": 4,
+      "text": "Anti-inflammatory drugs For non-steroidal anti-inflammatory agents (NSAIDs), a trial with celecoxib reported that the pain sub-score, QoL sub-score, and total NIH-CPSI score were in favour of the treatment arm versus placebo, but effects were limited to the duration of therapy [367]. In a meta-analysis, two studies of NSAIDs [270, 367] and one with prednisolone [368] were pooled. Anti-inflammatory drugs were 80% more likely to have a favourable response than placebo. In an updated network meta-analysis with more restrictive inclusion criteria regarding documented outcome measures but a wider spectrum of drugs (including GAGs, phytotherapy and tanezumab), a significant effect on total NIH-CPSI scores and treatment response rates could be demonstrated. A 2019 Cochrane systematic review concluded that anti-inflammatories may reduce prostatitis symptoms compared to placebo [369]. Overall, a moderate treatment effect has been shown for anti-inflammatory drugs, but larger studies are needed for confirmation, and long-term side effects must be considered. α-blockers Positive results from RCTs of the α-blockers terazosin [370, 371], alfuzosin [372], doxazosin [373, 374], tamsulosin [375, 376] and silodosin [377] have led to widespread use of α-antagonists in the treatment of PPPS in recent years. Whereas one systematic review and meta-analysis did not report a relevant effect of α-blockers due to study heterogeneity [378], another network meta-analysis of α-blockers [377] showed significant improvement in total symptoms, pain, voiding and QoL scores. In addition, it had a higher rate of favourable response compared to placebo (relative risk [RR]: 1.4; 95% CI: 1.1–1.8; p = 0.013). However, treatment responsiveness, that is, clinically perceptive or significant improvement, may be lower than expected from the change in mean symptom scores. Overall, α-blockers seem to have moderate but significant beneficial effects. This probably is not the case for long-standing PPPS patients [379]. A 2019 Cochrane systematic review reported an uncertain treatment effect of α-blockers on “prostatitis” symptoms, and little to no difference in sexual dysfunction, QoL, anxiety and depression [369]. Future studies should show if longer duration of therapy or phenotypically directed (e.g. patients with PPPS and relevant voiding dysfunction) treatment strategies will improve treatment outcomes. Antibiotic therapy Empirical antibiotic therapy is widely used because some patients have improved with antimicrobial therapy. Patients responding to antibiotics should be maintained on medication for four to six weeks or even longer. Culture, leukocyte and antibody status of prostate-specific specimens do not predict antibiotic response in patients with PPPS [380], and prostate biopsy culture findings do not differ from those of healthy controls [381]. The only placebo-controlled RCTs of sufficient quality have been done for oral antibiotic treatment with ciprofloxacin (six weeks) [382], levofloxacin (six weeks) [383], and tetracycline hydrochloride (12 weeks) [384]. These studies have been analysed in meta-analyses [377, 385]. Although direct meta-analysis has not shown significant differences in outcome measures, network meta-analysis has suggested significant effects in decreasing total symptom, pain, voiding, and QoL scores compared with placebo. Combination therapy of antibiotics with α-blockers has shown even better outcomes in network meta-analysis. Despite significant improvement in symptom scores, antibiotic therapy did not lead to statistically significant higher response rates [385]. In addition, the sample sizes of the studies were relatively small and treatment effects only modest, mostly below clinical significance. It may be speculated that patients profiting from treatment had some unrecognised uropathogens. A Cochrane systematic review reported that antibiotics may reduce “prostatitis” symptoms compared to placebo [369]. If antibiotics are used, other therapeutic options should be offered after one unsuccessful course of a quinolone or tetracycline antibiotic over six weeks. In addition, it is very important that unnecessary antibiotic use is avoided and local resistance patterns are considered. In this regard, the relevant recommendations of the EAU Guidelines on Urological Infections should be followed [386]. 5-α-reductase inhibitors Although a few small pilot studies with 5-α-reductase inhibitors supported the view that finasteride may improve voiding and pain, the first RCT published in a peer-reviewed journal did not support this, although the study lacked power [387]. In another RCT, finasteride provided better amelioration of symptoms compared to saw palmetto over a one-year period but lacked a placebo-control arm [388]. A six-month placebo-controlled study showed a non-significant tendency towards better outcome in favour of finasteride, possibly because of a lack of statistical power [376]. A Cochrane review concluded tha",
+      "tables": []
+    },
+    {
+      "anchor": "#primary-bladder-pain-syndrome",
+      "title": "Primary bladder pain syndrome",
+      "level": 4,
+      "text": "Treatments of significant value for primary bladder pain syndrome Antihistamines Mast cells may play a role in PBPS. Histamine is one of the substances released by mast cells. Histamine receptor antagonists have been used to block the H1 and H2 receptor subtypes, with variable results. A prospective placebo-controlled RCT of hydroxyzine or oral pentosane polysulphate did not show a significant effect [404]. Amitriptyline Amitriptyline is a tricyclic antidepressant. Several reports have indicated improvement of PBPS symptoms after oral amitriptyline. Amitriptyline has been shown to be beneficial when compared with placebo plus behavioural modification [405]. Drowsiness is a limiting factor with amitriptyline; nortriptyline is sometimes considered instead. Pentosane polysulphate Pentosan polysulphate is a semi-synthetic drug manufactured from beech wood hemicellulose. Subjective improvement of pain, urgency, frequency, but not nocturia, has been reported [406,407]. Pentosane polysulphate had a more favourable effect in PBPS type 3C than in non-lesion disease [408]. Response was not dose dependent but related more to treatment duration. At 32 weeks, about half the patients responded. Combination therapy showed a RR of 40% compared to 13% with placebo. For patients with an initial minor response to pentosane polysulphate, additional subcutaneous heparin was helpful [409, 410]. Immunosuppressants Azathioprine treatment has resulted in disappearance of pain and urinary frequency [411]. Initial evaluation of methotrexate [412] showed good analgesic effect but limited efficacy for urgency and frequency. Corticosteroids are not recommended in the management of patients with PBPS because of a lack of evidence. Intravesical treatments Intravesical drugs are administered due to poor oral bioavailability establishing high drug concentrations within the bladder, with few systemic side effects. Disadvantages include the need for intermittent catheterisation (which can be painful in PBPS patients), cost and risk of infection. Local anaesthetics There are sporadic reports of successful treatment of PBPS with intravesical lidocaine [413, 414]. Alkalisation of lidocaine improves its pharmacokinetics [415]. Combination of heparin, lidocaine and sodium bicarbonate gave immediate symptom relief in 94% of patients and sustained relief after two weeks in 80% of patients [416]. Intravesical instillation of alkalised lidocaine or placebo for five consecutive days resulted in significantly sustained symptom relief for up to one month [417].   Hyaluronic acid and chondroitin sulphate These are described to repair defects in the GAG layer. Even though intravesical GAG replenishment has been in use for about twenty years for PBPS/IC, most of the studies are uncontrolled and with a small number of patients. Based on the studies available, there are differences by virtue of substance classes, whether they are natural GAG layer components, dosage formulations, or concentrations. An RCT seems to reinforce the case for GAG layer replenishment, however it lacks a placebo arm [418]. A meta-analysis confirms usefulness of GAG layer replenishment [412]. However, most retrieved studies are non-randomised and with scarce numbers.   Intravesical heparin Primary bladder pain syndrome patients were treated with heparin for three months, and over half had control of symptoms, with continued improvement after one year of therapy [419]. Intravesical heparin plus peripheral neuromodulation in patients with refractory PBPS was studied and it was shown that voiding frequency, pain score and maximum cystometric capacity were significantly better after two and 12 months [420].   Hyperbaric oxygen This has a moderate effect on a small subgroup of PBPS patients. Disadvantages include high cost, limited availability of treatment sites, and time-consuming treatment [409]. Treatments of limited value for primary bladder pain syndrome Cimetidine There are limited data to suggest that cimetidine improves symptoms of PBPS in the short-term. Compared with placebo for three months, cimetidine significantly improved symptom scores, pain and nocturia, although the bladder mucosa showed no histological changes in either group [421]. Prostaglandins Misoprostol is a prostaglandin that regulates various immunological cascades. After three months of treatment with misoprostol, 14 out of 25 patients had significantly improved, with 12 showing a sustained response after a further six months [422]. The incidence of adverse drug effects was 64%. L-Arginine Oral treatment with the nitric oxide (NO) synthase substrate L-arginine was suggested to decrease PBPS-related symptoms. However, no symptomatic relief or change in NO production could be shown after treatment [423, 424]. Oxybutynin is an anti-cholinergic drug used in overactive detrusor dysfunction. Intravesical oxybutynin combined with bladder training improves functional bladder capacity, volume at first sensation, and cyst",
+      "tables": []
+    },
+    {
+      "anchor": "#primary-scrotal-pain-syndrome",
+      "title": "Primary scrotal pain syndrome",
+      "level": 4,
+      "text": "Treatment of primary scrotal pain syndrome is based on the principles of treating chronic pain syndromes, as described throughout these Guidelines. In males with pain post-inguinal hernia repair, there is limited evidence from case series showing that neurectomy of the damaged nerves can lead to symptomatic benefit [187, 428]. For scrotal pain post-vasectomy, affected males may find that reversal of the vasectomy can cure symptoms, especially in those in whom patency is achieved [429]. In a prospective RCT, pulsed radio frequency to the ilioinguinal and genitofemoral nerves is associated with high rates of symptomatic improvement (80%) but follow-up was limited to three months [430]. The evidence for epididymectomy is poor but if considered, is less likely to provide benefit if the epididymis has a normal sonographic appearance [431].",
+      "tables": []
+    },
+    {
+      "anchor": "#chronic-gynaecological-pain",
+      "title": "Chronic gynaecological pain",
+      "level": 4,
+      "text": "It is difficult to compare the wide variation of drugs from an efficacy and safety perspective as these have such diverse uses/indications. In gynaecological patients whose chronic pelvic pain is not attributable to any well-defined condition, it is often difficult to identify a therapeutic pathway other than a multidisciplinary approach to chronic abdominopelvic pain management. A Cochrane review suggests there may be some evidence (moderate) supporting the use of progestogens [354]. Though efficacious, physicians need to be knowledgeable of progestogenic side effects (e.g. weight gain, bloatedness - the most common adverse effects) that can stop some patients from accepting such medication. Gonadotropin-releasing hormone (GnRH), such as goserelin, are also thought to help such pain. However, when compared with progestogens, the efficacy remains limited. The quality of evidence is generally low and drawn from single studies [354]. Gonadotropin-releasing hormone binds to specific receptors on pituitary gonadotrophs, leading to desensitisation and consequently to suppressed gonadotropin secretion. By contrast, GnRH antagonists compete with GnRH for receptors, thus gonadotrophin secretion, which may be beneficial in certain clinical applications, such as reducing the size of fibroids, endometrial bleeding and endometriosis [432].",
+      "tables": []
+    },
+    {
+      "anchor": "#pelvic-floor-abdominal-and-chronic-anal-pain",
+      "title": "Pelvic floor, abdominal and chronic anal pain",
+      "level": 4,
+      "text": "Botulinum toxin type A (pelvic floor) Pelvic floor muscle overactivity plays a role in CPPPS. Botulinum toxin type A as a muscle relaxant, can be used to reduce the resting pressure of the pelvic floor muscles and injection of the puborectalis and pubococcygeus muscles has been used to treat spasm of the levator ani. A pilot study of 12 females with pelvic floor muscle overactivity, as defined by a vaginal resting pressure > 40cm H 2 O on vaginal manometry, reported a reduction in resting pressure with improvement in dyspareunia and dysmenorrhoea, but no significant changes in non-menstrual pelvic pain scores [433]. A systematic review including three RCTs comparing BTX-A with saline injections into the pelvic floor found no benefit in pain scores at six months follow-up despite a reduction in pelvic floor pressure [399]. Botulinum toxin type A has been injected into trigger points. It is more expensive than lidocaine and has not been proven to be more effective [434]. Reviews do not support the injection of BTX-A into trigger points [435]. Botulinum toxin type A can also be injected at the sphincter level to improve urination or defecation. Relaxation of the urethral sphincter alleviates bladder problems and secondarily the spasm. In a cohort study of 13 patients with CPPPS, BTX-A was injected into the external urethral sphincter. Subjectively, 11 patients reported a substantial change in pain symptoms, from a score of 7.2 to 1.6 on a VAS [436].",
+      "tables": []
+    },
+    {
+      "anchor": "#intermittent-chronic-primary-anal-pain-syndrome",
+      "title": "Intermittent chronic primary anal pain syndrome",
+      "level": 4,
+      "text": "Due to the short duration of the episodes, medical treatment and prevention is often not feasible. Inhaled β-2 adrenergic agonist salbutamol was effective in an RCT in patients with frequent symptoms and shortened pain duration [437]. Other treatment options are topic diltiazem and BTX-A [438]. However, there is still some controversy regarding the duration of pain of intermittent chronic and chronic primary anal pain syndrome. Randomised controlled trials often use different definitions, extending the pain duration (with a shift to chronic pain) to include more patients and to better evaluate the study-drug action.",
+      "tables": []
+    },
+    {
+      "anchor": "#abdominal-pain-associated-with-irritable-bowel-syndrome",
+      "title": "Abdominal pain associated with irritable bowel syndrome",
+      "level": 4,
+      "text": "Linaclotide, a minimally absorbed peptide guanylate cyclase-C agonist, at a dose of 290μg once daily significantly improved abdominal pain (48.9% vs. 34.5% placebo-treated) and bowel symptoms associated with IBS with constipation over 26 weeks of treatment [439]. Diarrhoea was the most common adverse event in patients treated with linaclotide (4.5%). Although it is known to overlap with IBS pelvic pain, effect on the latter was not assessed in this study. In a Cochrane meta-analysis, antispasmodics had a beneficial effect for improvement of abdominal pain compared to placebo (58% vs 46%) in IBS [440]. In a meta-analysis of nine RCTs, peppermint oil showed improvement in abdominal pain in patients with IBS [441].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-2-analgesics",
+      "title": "5.2.2. Analgesics",
+      "level": 4,
+      "text": "If the use of simple analgesics fails to provide adequate benefit, consider using neuropathic agents, and if there is no improvement, consider involving a specialist pain management centre with an interest in pelvic pain. Chronic pelvic pain is well defined and involves multiple mechanisms as described in previous sections. The management requires a holistic approach with biological, psychological and social components. Few studies have specifically looked at medications used in CPPPS [442], therefore, a wider look at the literature has been undertaken and further specific research is required. The agents concerned are divided for ease of description. Combinations often provide a greater benefit than individual agents [443]. They may also allow lower individual dosages and thus minimise side effects. The aim of using these drugs is to allow patients to improve their QoL. This is best measured by assessing their function as well as pain severity. If the use of these agents does not allow this, then they should be withdrawn. The failure of one agent does not exclude potential benefit of an alternative. If the benefit is limited by side effects, then the lowest effective dose should be found (by dose titration). Sometimes, patients will prefer a higher level of pain and have fewer side effects. 5.2.2.a. Mechanisms of action Mechanisms of action are discussed as appropriate under the drug headings below. 5.2.2.b. Comparisons within and between groups in terms of efficacy and safety Paracetamol (acetaminophen) Paracetamol is a well-tolerated analgesic in a class of its own. This is an antipyretic analgesic with a central mechanism of action [444]. It is often available over the counter without prescription. A review questions its routine use as a first-line analgesic based on inadequate evidence of efficacy in many pain conditions, including dysmenorrhoea [445]. It will not be effective for all patients and individual responses should be reviewed when deciding on longer term use. Non-steroidal anti-inflammatory agents These agents are anti-inflammatory, antipyretic analgesics that act by inhibiting the enzyme cyclooxygenase (COX). They have a peripheral effect, hence their use in conditions involving peripheral or inflammatory mechanisms. They are commonly used for pelvic pain; many are available over the counter and are usually well-tolerated. There is insufficient evidence to suggest one NSAID over another for pelvic pain. Guidelines for use of NSAIDs and COX-2 selective agents have been developed. They have more side effects than paracetamol, including indigestion, headaches and drowsiness. The evidence for their benefit in chronic pelvic pain is weak or non-existent and is often limited by side effects. For pelvic pain in which inflammatory processes are considered important, such as dysmenorrhoea [446], NSAIDs are more effective than placebo and paracetamol, but with a higher incidence of side effects. For pelvic pain in which central mechanisms may be incriminated, such as endometriosis [447], evidence is lacking for NSAIDs despite their common use. At a practical level, if NSAIDs are considered, they should be tried (having regard for the cautions and contraindications) and the patient reviewed for improvement in function as well as analgesia. If this is not achieved, or side effects are limiting, then they should be withdrawn. Neuromodulators These agents are not simple analgesics but are used to modulate neuropathic or centrally mediated pain. There are several classes commonly used with recognised benefits in pain medicine. They are taken on a regular basis, and all have side effects that may limit their use and have the potential to be dependence-forming. In the UK, NICE has reviewed the pharmacological management of neuropathic pain [448]. The evidence for treatment of CPPPS is lacking but is present for other painful conditions. For this Chapter, most of the evidence is from non-pelvic pain sources. The general method for using these agents is by titrating the dose against benefit and side effects. The aim is for patients to have an improvement in their QoL, which is often best assessed by alterations in their function. It is common to use these agents in combination but studies comparing different agents against each other, or in combination, are lacking. Some of these agents are also used for specific conditions. Early identification of neuropathic pain with a simple questionnaire could facilitate targeted therapy with neuromodulators [54]. Antidepressants Tricyclic antidepressants The tricyclic antidepressants (TCAs) have multiple mechanisms of action and are frequently limited by their side effects. Tricyclic antidepressants have a long history of use in pain medicine and have been subjected to a Cochrane review [449], suggesting that they are effective for neuropathic pain. Amitriptyline is the most used at doses from 10-75mg/day (sometimes rising to 150mg/day). This is titrated against benefit",
+      "tables": []
+    },
+    {
+      "anchor": "#5-3-further-management",
+      "title": "5.3. Further management",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#5-3-1-nerve-blocks",
+      "title": "5.3.1. Nerve blocks",
+      "level": 4,
+      "text": "Nerve blocks for pain management are usually carried out by specialists in pain medicine as part of a broader management plan [465]. They may have a diagnostic or therapeutic role. Textbooks have been written on the subject and practitioners using them should be trained in appropriate patient selection, indications, risks and benefits. Many such interventions also require understanding and expertise in using imaging techniques to perform the blocks accurately. Diagnostic blocks can be difficult to interpret due to the complex mechanisms underlying the painful condition or syndrome. Sustained but limited benefit may lead to more permanent procedures (e.g. radiofrequency procedures). There is a weak evidence base for use of these interventions in chronic non-cancer pain [466-469]. Pudendal neuralgia The role of injections may be divided into two. First, an injection of local anaesthetic with or without steroids at the sight of nerve injury or nerve entrapment may produce a therapeutic action [470, 471]. The second possible benefit is diagnostic. It has already been indicated that when the pudendal nerve is injured there are several sites where this may occur. Differential block of the pudendal nerve helps to provide information in relation to the site where the nerve may be trapped [270, 472-474]. Infiltration at the ischial spine requires the use of a nerve stimulator/locator. Both motor (anal contraction) and sensory endpoints may be noted. The anatomical endpoint may be localised by fluoroscopy, CT guidance, or the use of US – the latter avoids any radiation, whereas CT guidance involves a significant amount of radiation. Fluoroscopy and US guidance imaging are the most frequently used techniques for performing nerve block because it is readily available to most anaesthetists. Pulsed radio frequency lesioning for pudendal neuralgia is being developed with a paper demonstrating potential benefit. Follow-up is short term and further research is required to better elucidate its place in management [475].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-3-2-neuromodulation",
+      "title": "5.3.2. Neuromodulation",
+      "level": 4,
+      "text": "The role of neuromodulation in the management of pelvic pain should only be considered by specialists in pelvic pain management. These techniques are used as part of a broader management plan and require regular follow-up. The research base is developing and the techniques broadening (e.g. spinal cord stimulation, sacral root stimulation, dorsal root ganglion stimulation or peripheral nerve stimulation). These are expensive interventional techniques for patients that are refractory to other therapies. Neuromodulation is still finding its role in pelvic pain management. There has been growing evidence but more detailed, high-quality research is required [476]. Its role in overactive bladder (OAB) and faecal incontinence is more robust but is limited for pain. Two systematic reviews have evaluated neuromodulation techniques for chronic pelvic pain syndrome [477, 478]. Both studies concluded that neuromodulation may be effective in reducing pain and improving QoL in patients with chronic pelvic pain syndrome; however, studies were of a low quality and long-term results were needed. Transcutaneous electrical nerve stimulation Transcutaneous electrical nerve stimulation (TENS) is a non-invasive technique used in many pain conditions. A systematic review identified 12 studies of TENS in chronic pelvic pain conditions including four RCTs [477]. All RCTs demonstrated a significant reduction in pain following 12 weeks of treatment for pain conditions, including dysmenorrhoea and CPPPS. Pain was also found to improve following TENS for provoked vestibular pain. There was conflicting data regarding improvement of QoL following TENS; where validated questionnaires were used, no significant improvement was found, whereas in trialist-defined studies, an improvement was seen in TENS for dysmenorrhea and CPPPS. The beneficial effects of a course of TENS may be sustained; one study demonstrating a persistent benefit at 43 months in 73% of males with CPPPS and another demonstrating a prolonged significant improvement in females with provoked vestibular pain at ten months post-treatment. Where reported, there were no adverse events recorded. Transcutaneous electrical nerve stimulation could offer an effective non-invasive treatment option for patients with CPPPS. Percutaneous tibial nerve stimulation Percutaneous tibial nerve stimulation (PTNS) is a minimally invasive technique that can be used in an outpatient setting. Two systematic reviews have shown that PTNS is effective in reducing pain in patients with CPPPS [477, 478]. Three RCTs showed a significant improvement in pain scores and QoL as measured by validated questionnaires. Where recorded, adverse events were rare and minor, including temporary slight pain at application site and haematoma. Sacral nerve stimulation Sacral nerve stimulation (SNS) is an invasive technique requiring sedation or general anaesthesia for implantation of a device following trial stimulation. A systematic review identified ten studies of SNS in CPPPS, either retrospective case series or prospective cohort studies and no RCTs. Where reported, a mean of 69% of participants progressed to implantation of device following test stimulation (range 52-91%). All studies reported an improvement in pain, statistically significant in five studies. Quality of life was measured in three studies, and a significant improvement was demonstrated in two of the three studies. There was a large variation in adverse events reported, ranging from 0-50%. Complications not requiring surgical intervention included pain, failure of device, wound infection and seroma. The reoperation rate ranged between 11-50% for complications including lead migration, systemic infection, intrathecal implantation, loss of efficacy and erosion. In clinical practice, a patient should be appropriately counselled regarding the need for a period of trial stimulation and, whilst there may be an improvement in symptoms, this should be weighed against a notable complication rate. A 2018 systematic review identified 14 studies. In all, 403 patients had undergone percutaneous nerve evaluation and/or SNM stage 1 and 54.8% had progressed to the permanent implantation stage, which is similar to that reported previously. The cause of pain was reported to be IC or bladder pain syndrome in 170 cases (42.2%). Visual Analogue Scale pain scores were available pre- and post-SNM in 210 patients and overall improvement in pain scores was significant. Sacral nerve stimulation is a promising treatment option for refractory chronic pelvic pain. Randomised prospective studies are warranted to compare SNS to other modalities for chronic pelvic pain treatment. Further studies are needed to compare antegrade versus retrograde approaches [479]. Other neuromodulation techniques A variety of other techniques of neuromodulation for patients with CPPPS were identified by systematic reviews [477, 480]. These techniques include intravaginal electrical stimulation for fe",
+      "tables": []
+    },
+    {
+      "anchor": "#5-3-3-surgery",
+      "title": "5.3.3. Surgery",
+      "level": 4,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#primary-bladder-pain-syndrome",
+      "title": "Primary bladder pain syndrome",
+      "level": 4,
+      "text": "Bladder distension Although bladder hydrodistension is a common treatment for PBPS, the scientific justification is scarce. It can be part of the diagnostic evaluation but has limited therapeutic role [482]. Hydrodistension and Botulinum toxin type A Botulinum toxin type A may have an anti-nociceptive effect on bladder afferent pathways, producing symptomatic and urodynamic improvements [483]. Treatment with hydrodistension and hydrodistension plus intravesical BTX-A has been compared [484]. There was symptomatic improvement in all patients. However, in the hydrodistension-only group, 70% returned to their previous symptoms after one month, while in the BTX-A-treated patients, VAS score and functional and cystometric bladder capacity improved at three months. Botulinum toxin type A trigonal-only injection seems effective and long-lasting, as 87% of patients reported improvement after three months follow-up [485]. Over 50% of patients reported continued benefit nine months after the first treatment. When retreatment was needed, similar results were obtained. Up to 59% of patients remain responders after nine treatments. The sustained duration of the effect, despite the increase in the number of procedures, suggests that intratrigonal sensory neurons do not develop tolerance to OnaBotA, even during long periods of administration [472]. Adverse effects of BTX-A administration for IC or PBPS were significantly less than for OAB syndrome, namely in increased post-void residual volumes and decreased voiding efficiency [473]. Randomised controlled trials have reported benefits and long efficacy of BTX-A administration [474, 486-488], but a summary estimate for overall change in pain following BTX-A injections was not possible in a systematic review [399]. Conflicting data on results hinder issuance of a clear recommendation for the use of Botox in PBPS phenotypes [489]. Results of treatment with intravesical plasma rich (PRP) injections are also being explored. A prospective trial showed that patients with global response assessment > 2 had success rates at one month and at three months after the fourth PRP injection (70.6% and 76.7%, respectively). The VAS pain score, frequency and nocturia showed a significant decrease (all p < 0.05). However, further studies are needed to validate findings [490]. Transurethral resection, coagulation and laser ablation Endourological destruction of bladder tissue aims to eliminate urothelial Hunner lesions. Coagulation of glomerulations or petequiae area is not recommended. Since the 1970s, resection and fulguration have been reported to achieve symptom relief, often for more than three years [491-493]. Repeated resection or fulguration treatments should be wisely indicated. A study has shown no difference in therapeutic benefit between transurethral laser ablation or resection [493]. Major surgery for primary bladder pain syndrome Primary bladder pain syndrome is a benign condition that can severely impact QoL but does not shorten life expectancy. Consequently, major operative procedures are ranked last in the therapeutic algorithm and are only appropriate as a last resort for patients with severe refractory disease. The level of evidence underpinning reconstructive surgery is weak with no consensus regarding the optimal surgical approach. A systematic review with 450 patients (90% female; median age 54.5 years) from 20 eligible studies reported symptomatic improvement in 77.2% of patients, with an overall complication rate of 26.5% and a mortality rate of 1.3% [494]. This complication rate is likely an underestimate, as a third of the procedures did not specify their complication data. All the studies included in the systematic review were retrospective and observational with no control groups. There was also heterogeneity in the diagnostic criteria and outcome measures used. The main surgical options performed comprised: Urinary diversion without cystectomy is performed to minimise the duration and complexity of surgery, and preserve sexual function and fertility, but complications related to the retained bladder commonly occur with the incidence of pyocystis reported to range between 3.3% and 67%. Subtotal (supratrigonal) cystectomy with substitution cystoplasty is the preferred reconstructive approach, particularly in younger patients [495], and the use of various intestinal segments has been reported [496-498]. Total (subtrigonal) cystectomy and orthotopic neobladder formation has the benefit of removing the trigone as a possible disease site but requires ureteric reimplantation. Trigonal disease is reported in 50% of patients and surgical failure has been blamed on the trigone being left in place [499], especially in patients with non-lesion type disease [500, 501]. Incomplete emptying of the orthotopic bladder augmentation is most likely to occur following trigonal resection so intermittent catheterisation may be required [502]. A study on female sexuality after cystecto",
+      "tables": []
+    },
+    {
+      "anchor": "#primary-prostate-pain-syndrome",
+      "title": "Primary prostate pain syndrome",
+      "level": 4,
+      "text": "There is no evidence for surgical management, including transurethral incision of the bladder neck, radical transurethral resection of the prostate or, in particular, radical prostatectomy, in the management of chronic pain in patients with PPPS. A large Chinese RCT of circumcision combined with a triple oral therapy (ciprofloxacin, ibuprofen, tamsulosin) versus oral therapy alone, has been published for patients with PPPS (total n = 774) [507]. It is hypothesised that there may be some immunological interaction via pathogenic antigen presenting cells in the foreskin with CD4+ T-cells causing autoimmunity to the prostate gland. An improvement in total NIH-CPSI score and subdomain scores was reported at 12 weeks. However, despite a large cohort, the study results are questionable because of the weak theoretical background, and a potential large placebo effect lacking a sham-control. In addition, no long-term effectiveness has been reported. Before having an impact on recommendations, the results of this study must be independently confirmed, and the treatment effect must persist.",
+      "tables": []
+    },
+    {
+      "anchor": "#primary-testicular-pain-syndrome",
+      "title": "Primary testicular pain syndrome",
+      "level": 4,
+      "text": "Microsurgical denervation of the spermatic cord can be offered to patients with testicular pain. In a long-term follow-up study, patients who had a positive result on blocking the spermatic cord were found to have a good result following denervation [508, 509].",
+      "tables": []
+    },
+    {
+      "anchor": "#chronic-primary-anal-and-abdominal-pain-syndrome",
+      "title": "Chronic primary anal and abdominal pain syndrome",
+      "level": 4,
+      "text": "Chronic primary anal pain syndrome after stapled procedures, such as haemorrhoidopexy or stapled transanal rectal resection, may respond to excision of the scarred staple line as shown in 21 consecutive patients, with an overall improvement of pain in 85.7% of patients undergoing scar excision surgery [510]. An early scar excision before three to six months after pain onset was associated with better pain relief. Adhesiolysis is still in discussion in the pain management after laparotomy/laparoscopy for different surgical indications in the pelvis and entire abdomen. An RCT has shown that adhesiolysis is associated with an increased risk of operative complications and additional operations, and increased healthcare costs, as compared to laparoscopy alone [511].",
+      "tables": []
+    },
+    {
+      "anchor": "#primary-urethral-pain-syndrome",
+      "title": "Primary urethral pain syndrome",
+      "level": 4,
+      "text": "There is no specific treatment that can be recommended. Management should be multidisciplinary and multimodal [512]. Laser therapy of the trigonal region may be a specific treatment. One trial comparing two forms of laser reported good results but did not compare with sham treatment [513]. Most publications on treatment of primary urethral pain syndrome have come from psychologists [514, 515]. Presumed intra-abdominal adhesions In gynaecological patients with CPPPS and presumed adhesions, there is no consensus as to whether adhesiolysis should be performed to improve pain [515]. Extensive surgery for endometriosis is challenging and is still considered to be controversial, as there is at least one RCT showing no benefit in pain relief after the removal of early extensive endometriosis versus sham surgery [273, 516]. Increasingly, treatment algorithms are being developed using a multidisciplinary approach, although thus far, none have been proven clinically [517]. In patients with adenomyosis, the only curative surgery is hysterectomy, but patients can benefit from hormonal therapy and analgesics (see Section 5.2.2). Pudendal neuralgia and surgery Decompression of an entrapped or injured nerve is a routine approach and probably should apply to the pudendal nerve as it applies to all other nerves. There are several approaches, and selection is largely dependent on the underlying pathology. The most traditional approach is transgluteal; however, a transperineal approach may be an alternative, particularly if the nerve damage is thought to be related to previous pelvic surgery [261, 518-522]. One prospective RCT (transgluteal approach) [521] suggests that, if the patient has had the pain for less than six years, 66% of patients will see some improvement with surgery (vs. 40% if the pain has been present for more than six years). Surgery is not the answer for all patients. On talking to patients that have undergone surgery, provided the diagnosis was clear-cut, most patients were grateful to have undergone surgery but many still have symptoms that need management. This facility may not be available in all countries. Chronic pelvic pain and prolapse/incontinence mesh Removing an existing mesh is a complex procedure [523]. Each patient is approached on an individual basis depending on the type of mesh and extent of complications [524]. The complexity of surgery often involves removal of dense scar tissue, reformation of inflamed vaginal skin, and surgical reconstruction of the urethra and bladder [525]. Such surgery requires specialist skills, best provided within a multidisciplinary tertiary setting. Possible complications as a result of this surgical removal include bleeding, infection, damage to surrounding organs and LUTS, persistent chronic pain and recurrent SUI after mesh removal [526]. Although mesh removal is a complex procedure, it is generally associated with beneficial and durable outcomes, particularly with respect to chronic pain [527]. However, the long-term consequences of mesh removal may include chronic persistent pain, autoimmune responses, and complex neuropathies affecting the pelvis and lower limbs [528, 529]. Some of these can be treated effectively using a multidisciplinary pain management approach [530]. In other cases, the residual symptoms may require the input of an immunologist, rheumatologist or other symptom-defined specialist. The alternative to continence and prolapse mesh surgery is dependent on the clinical findings at the time. These include behavioural change, physiotherapy (for SUI and grade I-II uterovaginal prolapse) or native-tissue surgical techniques. Studies have shown that over 70% of patients that committed to physiotherapy for SUI often did not need any further intervention [531]. Many clinicians are reverting to conservative measures first, before reconsidering surgery. Clinicians are also now retraining in traditional continence surgical techniques that existed in the pre-mesh era, such as the Burch colposuspension and autologous fascial sling, as well as traditional utero-vaginal prolapse techniques such as vaginal hysterectomy, sacrospinous fixation and fascial repair of vaginal wall prolapse. Ketamine uropathy and chronic pelvic pain Ketamine cessation is the primary disease-modifying intervention and can result in symptom improvement for many, but established fibrosis and strictures do not reverse [532]. Relapse is common and close coordination with addiction services is critical. In 2024, the British Association of Urological Surgeons issued a detailed consensus statement on the assessment and management of ketamine uropathy [533]. Suggested baseline investigations include urinalysis and urine culture, serum renal and liver function measurements, and a urinary tract US. Three stages of ketamine uropathy are described, with treatment recommendations provided for each stage. Stage 1 (inflammatory): Cessation with referral to substance misuse services, oral antimu",
+      "tables": []
+    },
+    {
+      "anchor": "#5-4-summary-of-evidence-and-recommendations-management",
+      "title": "5.4. Summary of evidence and recommendations: management",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#5-4-1-management-of-primary-prostate-pain-syndrome",
+      "title": "5.4.1. Management of primary prostate pain syndrome",
+      "level": 4,
+      "text": "Summary of evidence LE Phenotypically directed treatment may improve treatment success. 3 In PPPS, α-blockers have moderate treatment effect regarding total pain, voiding, and QoL scores. 1a Antimicrobial therapy has a moderate effect on total pain, voiding, and QoL scores in PPPS. 1a Non-steroidal anti-inflammatory drugs have moderate overall treatment effects on PPPS. 1a Phytotherapy has some beneficial effect on pain and overall favourable treatment response in PPPS. 1a Pentosane polysulphate improves global assessment and QoL score in PPPS. 1b There are insufficient data on the effectiveness of muscle relaxants in PPPS. 2b Pregabalin is not effective for the treatment of PPPS. 1b Botulinum toxin type A injection into the pelvic floor (or prostate) may have a modest effect in PPPS. 2b Acupuncture is superior to sham acupuncture in improving symptoms and QoL. 1a Posterior tibial nerve stimulation is probably effective for the treatment of PPPS. 1b Extracorporeal shock wave therapy is probably effective over the short term. 1b There are insufficient data supporting the use of other surgical treatments, such as transurethral incision of the bladder neck, transurethral resection of the prostate, or radical prostatectomy in patients with PPPS. 3 Cognitive behavioural therapy designed for PPPS may improve pain and QoL. 3 Recommendations Strength rating Offer multimodal and phenotypically directed treatment options for primary prostate pain syndrome (PPPS). Weak Use antimicrobial therapy (quinolones or tetracyclines) over a minimum of six weeks in treatment-naïve patients with a duration of PPPS less than one year. Strong Use α-blockers for patients with a duration of PPPS less than one year. Strong Offer high-dose oral pentosane polysulphate in PPPS. Weak Offer acupuncture in PPPS. Strong Offer non-steroidal anti-inflammatory drugs in PPPS, but long-term side effects must be considered. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Phenotypically directed treatment may improve treatment success.",
+              "3"
+            ],
+            [
+              "In PPPS, α-blockers have moderate treatment effect regarding total pain, voiding, and QoL scores.",
+              "1a"
+            ],
+            [
+              "Antimicrobial therapy has a moderate effect on total pain, voiding, and QoL scores in PPPS.",
+              "1a"
+            ],
+            [
+              "Non-steroidal anti-inflammatory drugs have moderate overall treatment effects on PPPS.",
+              "1a"
+            ],
+            [
+              "Phytotherapy has some beneficial effect on pain and overall favourable treatment response in PPPS.",
+              "1a"
+            ],
+            [
+              "Pentosane polysulphate improves global assessment and QoL score in PPPS.",
+              "1b"
+            ],
+            [
+              "There are insufficient data on the effectiveness of muscle relaxants in PPPS.",
+              "2b"
+            ],
+            [
+              "Pregabalin is not effective for the treatment of PPPS.",
+              "1b"
+            ],
+            [
+              "Botulinum toxin type A injection into the pelvic floor (or prostate) may have a modest effect in PPPS.",
+              "2b"
+            ],
+            [
+              "Acupuncture is superior to sham acupuncture in improving symptoms and QoL.",
+              "1a"
+            ],
+            [
+              "Posterior tibial nerve stimulation is probably effective for the treatment of PPPS.",
+              "1b"
+            ],
+            [
+              "Extracorporeal shock wave therapy is probably effective over the short term.",
+              "1b"
+            ],
+            [
+              "There are insufficient data supporting the use of other surgical treatments, such as transurethral incision of the bladder neck, transurethral resection of the prostate, or radical prostatectomy in patients with PPPS.",
+              "3"
+            ],
+            [
+              "Cognitive behavioural therapy designed for PPPS may improve pain and QoL.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer multimodal and phenotypically directed treatment options for primary prostate pain syndrome (PPPS).",
+              "Weak"
+            ],
+            [
+              "Use antimicrobial therapy (quinolones or tetracyclines) over a minimum of six weeks in treatment-naïve patients with a duration of PPPS less than one year.",
+              "Strong"
+            ],
+            [
+              "Use α-blockers for patients with a duration of PPPS less than one year.",
+              "Strong"
+            ],
+            [
+              "Offer high-dose oral pentosane polysulphate in PPPS.",
+              "Weak"
+            ],
+            [
+              "Offer acupuncture in PPPS.",
+              "Strong"
+            ],
+            [
+              "Offer non-steroidal anti-inflammatory drugs in PPPS, but long-term side effects must be considered.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-4-2-management-of-primary-bladder-pain-syndrome",
+      "title": "5.4.2. Management of primary bladder pain syndrome",
+      "level": 4,
+      "text": "Summary of evidence LE There is insufficient data for the long-term use of corticosteroids in PBPS. 3 Limited data exist on effectiveness of cimetidine in PBPS. 2b Amitriptyline is effective for pain and related symptoms of PBPS. 1b Oral pentosane polysulphate is effective for pain and related symptoms of PBPS. 1a Oral pentosane polysulphate plus subcutaneous heparin is effective for pain and related symptoms of PBPS, especially in initially low responders to pentosane polysulphate alone. 1b Intravesical lidocaine plus sodium bicarbonate is effective in the short term. 1b Intravesical pentosane polysulphate is effective, based on limited data, and may enhance oral treatment. 1b There are limited data on the effectiveness of intravesical heparin. 3 Intravesical chondroitin sulphate may be effective. 2b There is insufficient data for the use of bladder distension as a therapeutic intervention. 3 Hydrodistension plus BTX-A is superior to hydrodistension alone. 1b Intravesical bacillus Calmette-Guérin is not effective in PBPS. 1b Transurethral resection (coagulation and laser) may be effective in PBPS type 3C. 3 Sacral neuromodulation may be effective in PBPS. 3 Pudendal nerve stimulation is superior to sacral neuromodulation for treatment of PBPS. 1b Avoidance of certain foods and drink may reduce symptoms. 3 Outcome of cystectomy for PBPS is variable. 3 Recommendations Strength rating Offer subtype and phenotype-oriented therapy for the treatment of primary bladder pain syndrome (PBPS). Strong Always consider offering multimodal behavioural, physical and psychological techniques alongside oral or invasive treatments of PBPS. Strong Offer dietary advice. Weak Administer amitriptyline for treatment of PBPS. Strong Offer oral pentosane polysulphate for the treatment of PBPS. Strong Offer oral pentosane polysulphate plus subcutaneous heparin in low responders to pentosane polysulphate alone. Weak Do not recommend oral corticosteroids for long-term treatment. Strong Offer intravesical hyaluronic acid or chondroitin sulphate before more invasive measures. Weak Offer intravesical lidocaine plus sodium bicarbonate prior to more invasive methods. Weak Offer intravesical heparin before more invasive measures alone or in combination treatment. Weak Do not use bladder distension alone as a treatment of PBPS. Weak Consider submucosal bladder wall and trigonal injection of botulinum toxin type A plus hydrodistension if intravesical instillation therapies have failed. Strong Offer neuromodulation before more invasive interventions. Weak Only undertake ablative and/or reconstructive surgery as the last resort and only by experienced and PBPS-knowledgeable surgeons, following a multidisciplinary assessment including pain management. Strong Offer transurethral resection (or coagulation or laser) of bladder lesions, but in PBPS type 3C only. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "There is insufficient data for the long-term use of corticosteroids in PBPS.",
+              "3"
+            ],
+            [
+              "Limited data exist on effectiveness of cimetidine in PBPS.",
+              "2b"
+            ],
+            [
+              "Amitriptyline is effective for pain and related symptoms of PBPS.",
+              "1b"
+            ],
+            [
+              "Oral pentosane polysulphate is effective for pain and related symptoms of PBPS.",
+              "1a"
+            ],
+            [
+              "Oral pentosane polysulphate plus subcutaneous heparin is effective for pain and related symptoms of PBPS, especially in initially low responders to pentosane polysulphate alone.",
+              "1b"
+            ],
+            [
+              "Intravesical lidocaine plus sodium bicarbonate is effective in the short term.",
+              "1b"
+            ],
+            [
+              "Intravesical pentosane polysulphate is effective, based on limited data, and may enhance oral treatment.",
+              "1b"
+            ],
+            [
+              "There are limited data on the effectiveness of intravesical heparin.",
+              "3"
+            ],
+            [
+              "Intravesical chondroitin sulphate may be effective.",
+              "2b"
+            ],
+            [
+              "There is insufficient data for the use of bladder distension as a therapeutic intervention.",
+              "3"
+            ],
+            [
+              "Hydrodistension plus BTX-A is superior to hydrodistension alone.",
+              "1b"
+            ],
+            [
+              "Intravesical bacillus Calmette-Guérin is not effective in PBPS.",
+              "1b"
+            ],
+            [
+              "Transurethral resection (coagulation and laser) may be effective in PBPS type 3C.",
+              "3"
+            ],
+            [
+              "Sacral neuromodulation may be effective in PBPS.",
+              "3"
+            ],
+            [
+              "Pudendal nerve stimulation is superior to sacral neuromodulation for treatment of PBPS.",
+              "1b"
+            ],
+            [
+              "Avoidance of certain foods and drink may reduce symptoms.",
+              "3"
+            ],
+            [
+              "Outcome of cystectomy for PBPS is variable.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer subtype and phenotype-oriented therapy for the treatment of primary bladder pain syndrome (PBPS).",
+              "Strong"
+            ],
+            [
+              "Always consider offering multimodal behavioural, physical and psychological techniques alongside oral or invasive treatments of PBPS.",
+              "Strong"
+            ],
+            [
+              "Offer dietary advice.",
+              "Weak"
+            ],
+            [
+              "Administer amitriptyline for treatment of PBPS.",
+              "Strong"
+            ],
+            [
+              "Offer oral pentosane polysulphate for the treatment of PBPS.",
+              "Strong"
+            ],
+            [
+              "Offer oral pentosane polysulphate plus subcutaneous heparin in low responders to pentosane polysulphate alone.",
+              "Weak"
+            ],
+            [
+              "Do not recommend oral corticosteroids for long-term treatment.",
+              "Strong"
+            ],
+            [
+              "Offer intravesical hyaluronic acid or chondroitin sulphate before more invasive measures.",
+              "Weak"
+            ],
+            [
+              "Offer intravesical lidocaine plus sodium bicarbonate prior to more invasive methods.",
+              "Weak"
+            ],
+            [
+              "Offer intravesical heparin before more invasive measures alone or in combination treatment.",
+              "Weak"
+            ],
+            [
+              "Do not use bladder distension alone as a treatment of PBPS.",
+              "Weak"
+            ],
+            [
+              "Consider submucosal bladder wall and trigonal injection of botulinum toxin type A plus hydrodistension if intravesical instillation therapies have failed.",
+              "Strong"
+            ],
+            [
+              "Offer neuromodulation before more invasive interventions.",
+              "Weak"
+            ],
+            [
+              "Only undertake ablative and/or reconstructive surgery as the last resort and only by experienced and PBPS-knowledgeable surgeons, following a multidisciplinary assessment including pain management.",
+              "Strong"
+            ],
+            [
+              "Offer transurethral resection (or coagulation or laser) of bladder lesions, but in PBPS type 3C only.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-4-3-management-of-scrotal-pain-syndrome",
+      "title": "5.4.3. Management of scrotal pain syndrome",
+      "level": 4,
+      "text": "Summary of evidence LE Microsurgical denervation of the spermatic cord is an effective therapy for primary scrotal pain syndrome. 2b Vasovasostomy is effective in post-vasectomy pain. 2b Recommendations Strength rating Inform about the risk of post-vasectomy pain when counselling patients planned for vasectomy. Strong Do open instead of laparoscopic inguinal hernia repair, to reduce the risk of scrotal pain. Strong In patients with testicular pain improving after spermatic block, offer microsurgical denervation of the spermatic cord. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Microsurgical denervation of the spermatic cord is an effective therapy for primary scrotal pain syndrome.",
+              "2b"
+            ],
+            [
+              "Vasovasostomy is effective in post-vasectomy pain.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Inform about the risk of post-vasectomy pain when counselling patients planned for vasectomy.",
+              "Strong"
+            ],
+            [
+              "Do open instead of laparoscopic inguinal hernia repair, to reduce the risk of scrotal pain.",
+              "Strong"
+            ],
+            [
+              "In patients with testicular pain improving after spermatic block, offer microsurgical denervation of the spermatic cord.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-4-4-management-of-primary-urethral-pain-syndrome",
+      "title": "5.4.4. Management of primary urethral pain syndrome",
+      "level": 4,
+      "text": "Summary of evidence LE There is no specific treatment for primary urethral pain syndrome. 4",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "There is no specific treatment for primary urethral pain syndrome.",
+              "4"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-4-5-management-of-gynaecological-aspects-of-chronic-pelvic-pain",
+      "title": "5.4.5. Management of gynaecological aspects of chronic pelvic pain",
+      "level": 4,
+      "text": "Summary of evidence LE Therapeutic options, including pharmacotherapy and surgery, can treat endometriosis effectively. 1b Psychological treatment (cognitive behaviour therapy or supportive psychotherapy) can improve pain as well as sexual and emotional function in vaginal and vulvar pain syndrome. 1b Most gynaecological pain conditions (including dysmenorrhea, post-mesh insertion and gynaecological malignancy) can be treated effectively using pharmacotherapy. 3 All other gynaecological conditions (including obstetric injury, pelvic organ prolapse) can be treated effectively with surgery. 2 Recommendations Strength rating Involve a gynaecologist to provide therapeutic options, such as hormonal therapy or surgery, in well-defined disease states. Strong Provide a multidisciplinary approach to pain management in persistent disease states. Strong All patients who have developed complications after mesh insertion should be referred to a multidisciplinary service (incorporating pain medicine and surgery). Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Therapeutic options, including pharmacotherapy and surgery, can treat endometriosis effectively.",
+              "1b"
+            ],
+            [
+              "Psychological treatment (cognitive behaviour therapy or supportive psychotherapy) can improve pain as well as sexual and emotional function in vaginal and vulvar pain syndrome.",
+              "1b"
+            ],
+            [
+              "Most gynaecological pain conditions (including dysmenorrhea, post-mesh insertion and gynaecological malignancy) can be treated effectively using pharmacotherapy.",
+              "3"
+            ],
+            [
+              "All other gynaecological conditions (including obstetric injury, pelvic organ prolapse) can be treated effectively with surgery.",
+              "2"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Involve a gynaecologist to provide therapeutic options, such as hormonal therapy or surgery, in well-defined disease states.",
+              "Strong"
+            ],
+            [
+              "Provide a multidisciplinary approach to pain management in persistent disease states.",
+              "Strong"
+            ],
+            [
+              "All patients who have developed complications after mesh insertion should be referred to a multidisciplinary service (incorporating pain medicine and surgery).",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-4-6-management-of-primary-anorectal-pain-syndrome",
+      "title": "5.4.6. Management of primary anorectal pain syndrome",
+      "level": 4,
+      "text": "Summary of evidence LE Biofeedback is the preferred treatment for chronic primary anal pain syndrome. 1a Electro stimulation is less effective than biofeedback. 1b Available evidence fails to confirm effectiveness of BTX-A in management of chronic primary anal pain syndrome. 3 Percutaneous tibial nerve stimulation is effective in anal pain. 3 Sacral neuromodulation is effective in anal pain. 3 Inhaled salbutamol is effective in intermittent chronic primary anal pain syndrome. 3 Recommendations Strength rating Undertake biofeedback treatment in patients with chronic anal pain. Strong Offer percutaneous tibial nerve stimulation in chronic primary anal pain syndrome. Weak Offer sacral neuromodulation in chronic primary anal pain syndrome. Weak Offer inhaled salbutamol in intermittent chronic primary anal pain syndrome. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Biofeedback is the preferred treatment for chronic primary anal pain syndrome.",
+              "1a"
+            ],
+            [
+              "Electro stimulation is less effective than biofeedback.",
+              "1b"
+            ],
+            [
+              "Available evidence fails to confirm effectiveness of BTX-A in management of chronic primary anal pain syndrome.",
+              "3"
+            ],
+            [
+              "Percutaneous tibial nerve stimulation is effective in anal pain.",
+              "3"
+            ],
+            [
+              "Sacral neuromodulation is effective in anal pain.",
+              "3"
+            ],
+            [
+              "Inhaled salbutamol is effective in intermittent chronic primary anal pain syndrome.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Undertake biofeedback treatment in patients with chronic anal pain.",
+              "Strong"
+            ],
+            [
+              "Offer percutaneous tibial nerve stimulation in chronic primary anal pain syndrome.",
+              "Weak"
+            ],
+            [
+              "Offer sacral neuromodulation in chronic primary anal pain syndrome.",
+              "Weak"
+            ],
+            [
+              "Offer inhaled salbutamol in intermittent chronic primary anal pain syndrome.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-4-7-management-of-pudendal-neuralgia",
+      "title": "5.4.7. Management of pudendal neuralgia",
+      "level": 4,
+      "text": "Summary of evidence LE There are multiple treatment options with varying levels of evidence. 3 Recommendation Strength rating Use standard approaches for the management of neuropathic pain. Neuropathic pain guidelines are well-established. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "There are multiple treatment options with varying levels of evidence.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Use standard approaches for the management of neuropathic pain. Neuropathic pain guidelines are well-established.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-4-8-management-of-sexological-aspects-in-chronic-pelvic-pain",
+      "title": "5.4.8. Management of sexological aspects in chronic pelvic pain",
+      "level": 4,
+      "text": "Summary of evidence LE Pelvic floor muscle physical therapy may offer relief of pain and reduction in sexual complaints. 2b Recommendations Strength rating Offer behavioural strategies to the patient and their partner to reduce sexual dysfunctions. Weak Offer pelvic floor muscle therapy as part of the treatment plan to improve quality of life and sexual function. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Pelvic floor muscle physical therapy may offer relief of pain and reduction in sexual complaints.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer behavioural strategies to the patient and their partner to reduce sexual dysfunctions.",
+              "Weak"
+            ],
+            [
+              "Offer pelvic floor muscle therapy as part of the treatment plan to improve quality of life and sexual function.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-4-9-management-of-psychological-aspects-in-chronic-pelvic-pain",
+      "title": "5.4.9. Management of psychological aspects in chronic pelvic pain",
+      "level": 4,
+      "text": "Recommendation Strength rating For chronic pelvic pain with significant psychological distress, refer patient for chronic pelvic pain-focused psychological treatment. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "For chronic pelvic pain with significant psychological distress, refer patient for chronic pelvic pain-focused psychological treatment.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-4-10-management-of-pelvic-floor-dysfunction",
+      "title": "5.4.10. Management of pelvic floor dysfunction",
+      "level": 4,
+      "text": "Summary of evidence LE Myofascial treatment is effective. 1b Biofeedback improves the outcome of myofascial therapy. 1a Recommendations Strength rating Apply myofascial treatment as first-line treatment. Weak Offer biofeedback as therapy adjuvant to muscle exercises, in patients with anal pain due to an overactive pelvic floor. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Myofascial treatment is effective.",
+              "1b"
+            ],
+            [
+              "Biofeedback improves the outcome of myofascial therapy.",
+              "1a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Apply myofascial treatment as first-line treatment.",
+              "Weak"
+            ],
+            [
+              "Offer biofeedback as therapy adjuvant to muscle exercises, in patients with anal pain due to an overactive pelvic floor.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-4-11-management-of-chronicnon-acute-urogenital-pain-by-opioids",
+      "title": "5.4.11. Management of chronic/non-acute urogenital pain by opioids",
+      "level": 4,
+      "text": "Recommendations Strength rating Opioids and other drugs of addiction/dependency should only be prescribed following multidisciplinary assessment and only after other reasonable treatments have been tried and failed. Strong The decision to instigate long-term opioid therapy should be made by an appropriately trained specialist in consultation with the patient and their family doctor. Strong Involve a psychiatrist or psychologist with an interest in pain management and drug addiction where there is a history or suspicion of drug abuse. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Opioids and other drugs of addiction/dependency should only be prescribed following multidisciplinary assessment and only after other reasonable treatments have been tried and failed.",
+              "Strong"
+            ],
+            [
+              "The decision to instigate long-term opioid therapy should be made by an appropriately trained specialist in consultation with the patient and their family doctor.",
+              "Strong"
+            ],
+            [
+              "Involve a psychiatrist or psychologist with an interest in pain management and drug addiction where there is a history or suspicion of drug abuse.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 19
+}

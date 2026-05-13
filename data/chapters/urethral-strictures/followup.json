@@ -1,0 +1,768 @@
+{
+  "guideline": "urethral-strictures",
+  "chapter": "followup",
+  "url": "https://uroweb.org/guidelines/urethral-strictures/chapter/followup",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Summary of changes",
+      "anchor": "#1-5-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODOLOGY",
+      "anchor": "#2-methodology"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Methods",
+      "anchor": "#2-1-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. DEFINITION EPIDEMIOLOGY AETIOLOGY AND PREVENTION",
+      "anchor": "#3-definition-epidemiology-aetiology-and-prevention"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definitions",
+      "anchor": "#3-1-definitions"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Aetiology and prevention",
+      "anchor": "#3-3-aetiology-and-prevention"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Aetiology and prevention in males",
+      "anchor": "#3-3-1-aetiology-and-prevention-in-males"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Aetiology in females",
+      "anchor": "#3-3-2-aetiology-in-females"
+    },
+    {
+      "level": 2,
+      "text": "4. CLASSIFICATIONS",
+      "anchor": "#4-classifications"
+    },
+    {
+      "level": 3,
+      "text": "4.1. According to stricture location",
+      "anchor": "#4-1-according-to-stricture-location"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. In males",
+      "anchor": "#4-1-1-in-males"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. In females",
+      "anchor": "#4-1-2-in-females"
+    },
+    {
+      "level": 3,
+      "text": "4.2. According to stricture tightness",
+      "anchor": "#4-2-according-to-stricture-tightness"
+    },
+    {
+      "level": 3,
+      "text": "4.3. According to stricture severity",
+      "anchor": "#4-3-according-to-stricture-severity"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Strictures in transgender men and woman",
+      "anchor": "#4-4-strictures-in-transgender-men-and-woman"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Trans women",
+      "anchor": "#4-4-1-trans-women"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Trans men",
+      "anchor": "#4-4-2-trans-men"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION",
+      "anchor": "#5-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Patient history",
+      "anchor": "#5-1-patient-history"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Physical examination",
+      "anchor": "#5-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Further diagnostic evaluation",
+      "anchor": "#5-2-1-further-diagnostic-evaluation"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT IN MALES",
+      "anchor": "#6-disease-management-in-males"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Conservative options",
+      "anchor": "#6-1-conservative-options"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Observation",
+      "anchor": "#6-1-1-observation"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Suprapubic catheter",
+      "anchor": "#6-1-2-suprapubic-catheter"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Endoluminal treatment of anterior urethral strictures in males",
+      "anchor": "#6-2-endoluminal-treatment-of-anterior-urethral-strictures-in-males"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Direct vision internal urethrotomy",
+      "anchor": "#6-2-1-direct-vision-internal-urethrotomy"
+    },
+    {
+      "level": 4,
+      "text": "6.2.2. Single dilatation",
+      "anchor": "#6-2-2-single-dilatation"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Open repairs (urethroplasty): site and aetiology (clinical scenario) treatment options",
+      "anchor": "#6-3-open-repairs-urethroplasty-site-and-aetiology-clinical-scenario-treatment-options"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. The role of urethroplasty in the management of penile urethral strictures",
+      "anchor": "#6-3-1-the-role-of-urethroplasty-in-the-management-of-penile-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Urethroplasty for bulbar strictures",
+      "anchor": "#6-3-2-urethroplasty-for-bulbar-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.3. Urethroplasty for penobulbar or panurethral strictures",
+      "anchor": "#6-3-3-urethroplasty-for-penobulbar-or-panurethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.4. Perineal urethrostomy",
+      "anchor": "#6-3-4-perineal-urethrostomy"
+    },
+    {
+      "level": 4,
+      "text": "6.3.5. Posterior urethra",
+      "anchor": "#6-3-5-posterior-urethra"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT IN FEMALES",
+      "anchor": "#7-disease-management-in-females"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Signs and symptoms of female urethral strictures",
+      "anchor": "#7-1-signs-and-symptoms-of-female-urethral-strictures"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Diagnosis of female urethral strictures",
+      "anchor": "#7-2-diagnosis-of-female-urethral-strictures"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Treatment of female urethral strictures",
+      "anchor": "#7-3-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Minimally invasive techniques for treatment of female urethral strictures",
+      "anchor": "#7-3-1-minimally-invasive-techniques-for-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Urethroplasty for treatment of female urethral strictures",
+      "anchor": "#7-3-2-urethroplasty-for-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 2,
+      "text": "8. DISEASE MANAGEMENT IN TRANSGENDER PATIENTS",
+      "anchor": "#8-disease-management-in-transgender-patients"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Treatment of strictures in trans men",
+      "anchor": "#8-1-treatment-of-strictures-in-trans-men"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Management of strictures early after neophallic reconstruction",
+      "anchor": "#8-1-1-management-of-strictures-early-after-neophallic-reconstruction"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Treatment of meatal stenosis in trans men",
+      "anchor": "#8-1-2-treatment-of-meatal-stenosis-in-trans-men"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Treatment of strictures at the neophallic urethra",
+      "anchor": "#8-1-3-treatment-of-strictures-at-the-neophallic-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.4. Treatment of strictures at the anastomosis neophallic urethra-fixed part of the urethra",
+      "anchor": "#8-1-4-treatment-of-strictures-at-the-anastomosis-neophallic-urethra-fixed-part-of-the-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.5. Treatment of strictures at the fixed part of the urethra",
+      "anchor": "#8-1-5-treatment-of-strictures-at-the-fixed-part-of-the-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.6. Definitive perineostomy in trans men",
+      "anchor": "#8-1-6-definitive-perineostomy-in-trans-men"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Perioperative care after treatment of strictures in trans men",
+      "anchor": "#8-2-perioperative-care-after-treatment-of-strictures-in-trans-men"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Strictures in trans women",
+      "anchor": "#8-3-strictures-in-trans-women"
+    },
+    {
+      "level": 2,
+      "text": "9. TISSUE TRANSFER",
+      "anchor": "#9-tissue-transfer"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Comparison of grafts with flaps",
+      "anchor": "#9-1-comparison-of-grafts-with-flaps"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Comparison of different types of flaps",
+      "anchor": "#9-2-comparison-of-different-types-of-flaps"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Comparison of different types of grafts",
+      "anchor": "#9-3-comparison-of-different-types-of-grafts"
+    },
+    {
+      "level": 3,
+      "text": "9.4. Tissue engineered grafts",
+      "anchor": "#9-4-tissue-engineered-grafts"
+    },
+    {
+      "level": 4,
+      "text": "9.4.1. Cell-free tissue engineered grafts",
+      "anchor": "#9-4-1-cell-free-tissue-engineered-grafts"
+    },
+    {
+      "level": 4,
+      "text": "9.4.2. Autologous tissue engineered oral mucosa grafts",
+      "anchor": "#9-4-2-autologous-tissue-engineered-oral-mucosa-grafts"
+    },
+    {
+      "level": 3,
+      "text": "9.5. Management of oral cavity after buccal mucosa harvesting",
+      "anchor": "#9-5-management-of-oral-cavity-after-buccal-mucosa-harvesting"
+    },
+    {
+      "level": 2,
+      "text": "10. PERIOPERATIVE CARE OF URETHRAL SURGERY",
+      "anchor": "#10-perioperative-care-of-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Urethral rest",
+      "anchor": "#10-1-urethral-rest"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Antibiotics",
+      "anchor": "#10-2-antibiotics"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Catheter management",
+      "anchor": "#10-3-catheter-management"
+    },
+    {
+      "level": 2,
+      "text": "11. FOLLOW UP",
+      "anchor": "#11-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "11.1. Rationale for follow-up after urethral surgery",
+      "anchor": "#11-1-rationale-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.2. Definition of success after urethroplasty surgery",
+      "anchor": "#11-2-definition-of-success-after-urethroplasty-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.3. Follow-up tools after urethral surgery",
+      "anchor": "#11-3-follow-up-tools-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.1. Diagnostic tools for follow-up after urethral surgery",
+      "anchor": "#11-3-1-diagnostic-tools-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.2. Screening tools for follow-up after urethral surgery",
+      "anchor": "#11-3-2-screening-tools-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.3. Quality of life assessment, including disease specific questionnaires during follow-up after urethral surgery",
+      "anchor": "#11-3-3-quality-of-life-assessment-including-disease-specific-questionnaires-during-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.4. Ideal follow-up interval after urethral surgery",
+      "anchor": "#11-4-ideal-follow-up-interval-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.5. Length of follow-up after urethral surgery",
+      "anchor": "#11-5-length-of-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.6. Risk-stratified proposals during follow-up after urethral surgery",
+      "anchor": "#11-6-risk-stratified-proposals-during-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.7. Follow-up protocol proposal after urethroplasty",
+      "anchor": "#11-7-follow-up-protocol-proposal-after-urethroplasty"
+    },
+    {
+      "level": 4,
+      "text": "11.7.1. Surgeries with low risk of recurrence",
+      "anchor": "#11-7-1-surgeries-with-low-risk-of-recurrence"
+    },
+    {
+      "level": 4,
+      "text": "11.7.2. Surgical management options with standard risk of recurrence",
+      "anchor": "#11-7-2-surgical-management-options-with-standard-risk-of-recurrence"
+    },
+    {
+      "level": 2,
+      "text": "12. REFERENCES",
+      "anchor": "#12-references"
+    },
+    {
+      "level": 2,
+      "text": "13. CONFLICT OF INTEREST",
+      "anchor": "#13-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "14. CITATION INFORMATION",
+      "anchor": "#14-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "15. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#15-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#urethral-strictures",
+      "title": "Urethral Strictures",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 11. Follow Up Introduction Methodology Definition Epidemiology Aetiology And Prevention Classifications Diagnostic Evaluation Disease Management In Males Disease Management In Females Disease Management In Transgender Patients Tissue Transfer Perioperative Care Of Urethral Surgery Follow Up References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#11-follow-up",
+      "title": "11. FOLLOW UP",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#11-1-rationale-for-follow-up-after-urethral-surgery",
+      "title": "11.1. Rationale for follow-up after urethral surgery",
+      "level": 3,
+      "text": "The rationale for following-up patients after urethral stricture surgery is to detect and manage any complication or recurrence. As with any surgical procedure, following urethroplasty some patients will present with complications at short to medium follow-up: up to 34-38% of all anterior urethroplasties. Most of these complications (92-99.1%) would be classified as Clavien grade 1 or 2 [596, 597]. Even though urethroplasty techniques provide the highest chances for successful treatment of urethral strictures, some patients will experience recurrence [367]. For further details on particular outcomes in each urethral segment, please review the individual chapters of this Guideline. Summary of evidence LE After urethroplasty surgery, recurrent strictures appear with different frequency depending on stricture features and urethroplasty techniques. 3 Recommendation Strength rating Offer follow-up to all patients after urethroplasty surgery. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "After urethroplasty surgery, recurrent strictures appear with different frequency depending on stricture features and urethroplasty techniques.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Offer follow-up to all patients after urethroplasty surgery.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#11-2-definition-of-success-after-urethroplasty-surgery",
+      "title": "11.2. Definition of success after urethroplasty surgery",
+      "level": 3,
+      "text": "The “traditional academic” definition of post-operative success after urethroplasty has been considered as “The lack of any post-operative intervention for restricture” [598]. This definition, despite being widely used [318, 597] is problematic as it ignores asymptomatic or even symptomatic recurrences in patients not willing to undergo further surgeries [598]. There is some variation as to what is considered intervention with some groups accepting endoscopic treatments as success, while considering failure only as the requirement for a ReDo urethroplasty [319]. A more objective definition of success is the ‘anatomic success,’ defined as ‘normal urethral lumen during RUG or cystoscopy, regardless of patient symptoms.’ Using this definition, stricture recurrence or anatomical failure is considered by some groups as urethral narrowing found to be endoscopically impassable - without force - with a 16Fr flexible endoscope [151, 599]. This definition is certainly stricter, with up to 35% of cystoscopic recurrences after bulbar urethroplasty remaining asymptomatic, and thus would have been considered as successful if a ‘lack of further intervention’ definition was used [151]. Other groups consider cystoscopic recurrence as any stricture that is visible on post-operative cystoscopy, even the so-called ‘large calibre re-strictures’ (> 17Fr) [600]. Not all anatomic recurrent strictures would need further treatment [598]. It was suggested to intervene when the anatomic recurrence is associated with recurrence of symptoms, stricture-related high post-void residuals or a stricture calibre of < 14Fr - even if these are asymptomatic [598]. Over the last ten years, the evaluation of urethral surgery outcomes has shifted towards a “patient-reported definition of success”. The aim of any urethral intervention is to allow patients to return to a normal state of voiding while maintaining QoL or to minimise symptoms, reduce disability, and improve HRQoL by restoring normal urinary function [601]. Even if the surgeon reconstructed a wide and patent urethra, if patients experience pain, sexual dysfunction or perceive their urinary function as not improved, they will not rate their outcome as successful [601]. On a multivariate analysis including both patient-reported and clinical parameters, urine flowmetry parameters failed to demonstrate significant contribution to satisfaction [602]. Regardless of anatomic success after urethroplasty, post-operative pain, sexual dysfunction and persistent LUTS were independent predictors of patient dissatisfaction [603]. Improvement in voiding function (i.e., statistical improvement on IPSS) and improved standing voiding function were associated with patient satisfaction after urethroplasty [603]. On a multivariate analysis including both patient-reported and clinical parameters, after adjusting for disease recurrence and age, persistence in voiding symptoms (weak stream), genitourinary pain, and post-operative sexual function alterations were the greatest independent drivers of post- operative dissatisfaction [602]. In addition, penile shortening (OR: 2.26; 95% CI: 1.39-3.69) and chordee (OR: 2.26; 95% CI: 1.44-4.19) were independent predictors of patient dissatisfaction after urethroplasty [604] (Table 11.1). Table 11.1: Predictors of patient dissatisfaction after urethral surgery Predictor/Symptoms Measure of effect Authors Sexual activity alteration OR: 4.36 (1.54-12.37)* Bertrand et al. J Urol 2016 [602] Erection confidence (SHIM) OR: 1.53 (1.12-2.07)* Inability to ejaculate (MSHQ) OR: 1.52 (1.15-2.01)* Urethral pain OR: 1.71 (1.05-2.77)* Bladder pain OR: 2.74 (1.12-6.69)* Urinary strain (CLSS) OR: 3.23 (1.74-6.01)* Hesitancy (IPSS) OR: 2.01 (1.29-3.13)* Voiding quality of life (IPSS) OR: 1.96 (1.42 - 2.72)* Penile shortening OR: 2.26 (1.39-3.69)** Maciejewski et al. Urology 2017 [604] Chordee OR: 2.26 (1.44-4.19)** No erectile dysfunction OR: 0.5 (0.2-0.9) Redmond. Urology 2023 [603] No penile curvature OR: 0.4 (0.2-0.9) CLSS = Core Lower Urinary Tract Symptom Score; IPSS = International Prostate Symptoms Score; MSHQ = Male Sexual Health Questionnaire; SHIM = Sexual Heath Inventory for Men. Due to this evident discrepancy between surgeon’s assessment and patient assessment, PROMs have been developed for the follow-up after urethroplasty [168, 601]. A complete approach for urethral surgery outcomes would combine both anatomic, endoscopic, and patient- reported success [598, 605]. The Panel suggest using a functional definition of success in clinical practice, namely “lack of symptoms and/or need for further interventions”. Collecting standardised documentation of the patient’s subjective assessment of their symptoms and objective anatomic outcomes would be limited for academic purposes, in order to allow comparison of surgical outcomes among reconstructive urologic surgeons and centres. Those objective and subjective outcomes measures should therefore be assessed and reported (simultaneo",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Predictor/Symptoms",
+              "Measure of effect",
+              "Authors"
+            ],
+            [
+              "Sexual activity alteration",
+              "OR: 4.36 (1.54-12.37)*",
+              "Bertrand et al. J Urol 2016 [602]"
+            ],
+            [
+              "Erection confidence (SHIM)",
+              "OR: 1.53 (1.12-2.07)*"
+            ],
+            [
+              "Inability to ejaculate (MSHQ)",
+              "OR: 1.52 (1.15-2.01)*"
+            ],
+            [
+              "Urethral pain",
+              "OR: 1.71 (1.05-2.77)*"
+            ],
+            [
+              "Bladder pain",
+              "OR: 2.74 (1.12-6.69)*"
+            ],
+            [
+              "Urinary strain (CLSS)",
+              "OR: 3.23 (1.74-6.01)*"
+            ],
+            [
+              "Hesitancy (IPSS)",
+              "OR: 2.01 (1.29-3.13)*"
+            ],
+            [
+              "Voiding quality of life (IPSS)",
+              "OR: 1.96 (1.42 - 2.72)*"
+            ],
+            [
+              "Penile shortening",
+              "OR: 2.26 (1.39-3.69)**",
+              "Maciejewski et al. Urology 2017 [604]"
+            ],
+            [
+              "Chordee",
+              "OR: 2.26 (1.44-4.19)**"
+            ],
+            [
+              "No erectile dysfunction",
+              "OR: 0.5 (0.2-0.9)",
+              "Redmond. Urology 2023 [603]"
+            ],
+            [
+              "No penile curvature",
+              "OR: 0.4 (0.2-0.9)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#11-3-follow-up-tools-after-urethral-surgery",
+      "title": "11.3. Follow-up tools after urethral surgery",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#11-3-1-diagnostic-tools-for-follow-up-after-urethral-surgery",
+      "title": "11.3.1. Diagnostic tools for follow-up after urethral surgery",
+      "level": 4,
+      "text": "11.3.1.a. Calibration during follow-up after urethral surgery The difference between calibration and urethral dilatation is usually subjective as soft strictures may be dilated during calibration; therefore, urethral calibration should be used with caution for follow-up after urethroplasty. Dedicated calibration bougies should be used and not dilatators. 11.3.1.b. Urethrocystoscopy during follow-up after urethral surgery Urethrocystoscopy has been considered the most useful tool to confirm the presence or absence of a recurrent stricture [149, 600, 606], as up to 35% of patients with re-strictures remain asymptomatic [151]. Also, the cystoscope could be a measure to calibrate the strictured lumen, bearing in mind the most commonly used endoscopes: 15.7Fr (5mm diameter) or 17.3Fr (5.5mm diameter) [606]. Urethrocystoscopy allows differentiation of recurrences as diaphragm/cross-bridging - responding to simple intervention, or significant urethral restrictures - requiring repeated interventions or ReDo surgeries [607]. Endoscopic assessment at three months after anterior urethroplasty can predict the risk for further re-intervention during long-term follow-up. Compared to normal endoscopy, large calibre (> 17Fr) restrictures have a HR of 1.4 (0.7-2.8) for repeat intervention, while small calibre (< 17Fr) restrictures have a 7.0 HR (4.2- 11.8) adjusted for age and stricture length [600]. The main problem with using urethrocystoscopy for routine follow-up is the low compliance of patients as only 54% of patients underwent endoscopy at one year after urethroplasty, even when it was a part of a study protocol [151]. 11.3.1.c. Retrograde urethrogram and voiding cystourethrogram during follow-up after urethral surgery Retrograde urethrogram combined with VCUG are commonly used to confirm suspected recurrence or as part of a routine protocol to assess post-operative urethral patency [608, 609]. 11.3.1.d. Urethral ultrasound - Sonourethrography during follow-up after urethral surgery The use of SUG as a follow-up tool is not very common. It would be a reliable tool for diagnostic recurrent strictures [610].",
+      "tables": []
+    },
+    {
+      "anchor": "#11-3-2-screening-tools-for-follow-up-after-urethral-surgery",
+      "title": "11.3.2. Screening tools for follow-up after urethral surgery",
+      "level": 4,
+      "text": "These tools are used to assess whether there is suspicion of stricture recurrence and need for subsequent diagnostic evaluation (see Section 5, Diagnostic evaluation). 11.3.2.a. Flow-rate analysis during follow-up after urethral surgery Evaluating the Q max is the commonest follow-up tool. Different cut-off points from Q max 15 ml/s or 12 ml/s were suggested to consider the intervention as a failure or to trigger a confirmatory test for recurrence [611]. There is no clear threshold, and 19% of patients with Q max < 14 ml/s would still have a patent urethra, allowing passage of 15 Fr cystoscope [152]. On the other hand, Q max >20 ml/s demonstrated being a good predictor of anatomical success following urethroplasty [612]. Flow rates may be affected by operator error, BPO/LUTS, bladder dysfunction, and variations in bladder capacity. Further limitations of uroflowmetry include the need for a minimum voided volume of 125-150 ml to reach a voided flow rate that reliably predicts an abnormality. Even in controlled settings, the percentage of patients with adequate pre- and post-operative uroflowmetry analysis is only 31% [609]. Comparing both pre- and post-operative Q max levels was suggested, and a difference in Q max of 10 ml/s or less is found to be a reliable screen tool for recurrence (sensitivity 92%, specificity 78%). This measure also has strong reproducibility (R=0.52) [609]. Unfortunately, this improvement after urethroplasty is significantly different between age groups, with less than 10 ml/s average change in those over 65 years old, probably affected by BPO and/or bladder dysfunction [613]. Another parameter to consider is the shape of the voiding curve, recording it as flat (obstructed) or bell-shaped [614]. An obstructive voiding curve demonstrated 93% sensitivity to predict recurrent strictures, while a combination of urinary symptoms and obstructive voiding curve achieved 99% sensitivity and 99% NPV [614]. Calculating Q max - Q ave is another strategy to improve flowmetry accuracy detecting recurrences. A cut-off of > 6 showed good accuracy to predict anatomical success following urethroplasty [612]. 11.3.2.b. Post-void residual ultrasound measure during follow-up after urethral surgery Post-void residual US measure is significantly increased in patients with recurrent strictures compared with those without recurrences. Unfortunately, PVR measurement is affected by abdominal ascites, bladder diverticula and/or poor bladder function, with some studies reporting inconsistent correlation with obstruction in the presence of BPO. Also, US measures of PVR are user dependent, showing high interobserver variability. Combined with other tests - uroflowmetry, IPSS, and SUG - PVR achieves adequate predictive values, but currently there is no literature to support its solo use to assess urethral stricture recurrence [615]. 11.3.2.c. Symptom questionnaires during follow-up after urethral surgery The IPSS questionnaire, despite being designed for BPO, showed significant improvement after successful urethroplasty and inverse significant correlation with Q max [604, 616]. The mean improvement of IPSS is around -11 points (range -19 to -5) [613]. Combination of IPSS and Q max analysis was suggested to diagnose recurrences. Using an IPSS cut-off point of 10 points associated with Q max > 15 ml/s would prevent further invasive studies in 34% of patients, while only 4.3% of strictures < 14 Fr would have been missed. Using an IPSS cut-off point of 15 points associated with Q max > 15ml/s would prevent further invasive studies in 37% of cases, while 6% of strictures < 14 Fr would have been missed [617]. The Visual Prostate Symptom Score (VPSS) was also used to diagnose recurrent urethral strictures, offering a significantly shorter time to completion compared with IPSS, especially in cases of illiteracy or limited education. Visual Prostate Symptom Score showed a good correlation with IPSS, Q max and urethral diameter. A combination of VPSS > 8 with Q max < 15 ml/s had a NPV of 89% and a PPV of 87% for recurrent urethral strictures [618]. Post-micturition dribble (PMD), assessed by a specific questionnaire, was present in 46.9% of patients pre-operatively and 40% after anterior urethroplasty, with statistically significant improvement. Only 18.3% was de novo , not being associated with patient dissatisfaction. Incidence was not predicted by stricture location but was less common after anastomotic urethroplasty type [619].",
+      "tables": []
+    },
+    {
+      "anchor": "#11-3-3-quality-of-life-assessment-including-disease-specific-questionnaires-during-follow-up-after-urethral-surgery",
+      "title": "11.3.3. Quality of life assessment, including disease specific questionnaires during follow-up after urethral surgery",
+      "level": 4,
+      "text": "Urethral stricture affects QoL evaluated by EQ-5D-3L questionnaire. Pre-operative anxiety and depression (AD) was found in 29% of patients. De novo AD after urethroplasty is uncommon (10%) and has two predictors: decreased sexual function and poor reported image of overall health [620]. A more recommended approach is the assessment of the condition-related QoL [621]. The USS-PROM proved useful to assess outcomes in anterior urethroplasty patients [621]. Its use also received criticism, as some of the individual generic QoL questions do not improve after successful urethroplasty, as they are not condition-specific [622]. Recently, a new version of a PROM questionnaire was developed and validated by a North American collaborative group [623]. The Urethral Stricture Symptom and Impact Measure (USSIM), includes 12 questions in three separate dimensions: general voiding health, painful urination and sexual symptoms [623]. PROM questionnaires should be implemented in each visit to check for functional success, as they are able to show improvement over time. The Core Lower Urinary Tract Symptom Score (CLSS) questionnaire was used to assess pre- and post- urethroplasty pain in the bladder, penis/urethra, and perineum/scrotum. Most of the parameters improved after urethroplasty, but up to 29% of patients reported worsening of perineal pain after surgery [624]. Sexual function should be evaluated by validated tools if not assessed in a PROM. The international index on erectile function (IIEF), SHIM, O´Leary Brief Male Sexual Function Inventory (BMFSI), SLQQ (Sexual Life Quality Questionnaire) and, Male Sexual Health Questionnaire (MSHQ) have all been used after urethroplasties for evaluation of erectile and ejaculatory functions, with significant improvement following anterior urethroplasty [625]. Other non-validated tools were suggested such as the Post- Urethroplasty Sexual Questionnaire (PUSQ) or specific questionnaires for genital appearance (length, curvature) or sensitivity [626]. Summary of evidence LE Retrograde urethrography and urethrocystoscopy are able to identify anatomical success after a urethroplasty. 2a A significant gap was demonstrated between objective and subjective outcomes after urethroplasties. PROM questionnaires are specific tools to assess subjective outcomes and patient satisfaction after urethroplasty surgeries. 2a Validated questionnaires proved useful to assess the consequences of urethral surgery on sexual function. 2a Recommendations Strength rating Use cystoscopy or retrograde urethrography to assess anatomic success after urethroplasty surgery. Weak Use patient-reported outcome measures questionnaires to assess subjective outcomes and patient satisfaction. Strong Use validated questionnaires to evaluate sexual function after urethral stricture surgeries. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Retrograde urethrography and urethrocystoscopy are able to identify anatomical success after a urethroplasty.",
+              "2a"
+            ],
+            [
+              "A significant gap was demonstrated between objective and subjective outcomes after urethroplasties. PROM questionnaires are specific tools to assess subjective outcomes and patient satisfaction after urethroplasty surgeries.",
+              "2a"
+            ],
+            [
+              "Validated questionnaires proved useful to assess the consequences of urethral surgery on sexual function.",
+              "2a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use cystoscopy or retrograde urethrography to assess anatomic success after urethroplasty surgery.",
+              "Weak"
+            ],
+            [
+              "Use patient-reported outcome measures questionnaires to assess subjective outcomes and patient satisfaction.",
+              "Strong"
+            ],
+            [
+              "Use validated questionnaires to evaluate sexual function after urethral stricture surgeries.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#11-4-ideal-follow-up-interval-after-urethral-surgery",
+      "title": "11.4. Ideal follow-up interval after urethral surgery",
+      "level": 3,
+      "text": "The optimal follow-up strategy must allow for an objective determination of anatomic and functional outcomes to assess surgical success whilst avoiding excessive invasive testing that leads to unnecessary cost, discomfort, anxiety, and risk [598].",
+      "tables": []
+    },
+    {
+      "anchor": "#11-5-length-of-follow-up-after-urethral-surgery",
+      "title": "11.5. Length of follow-up after urethral surgery",
+      "level": 3,
+      "text": "After anterior urethroplasty, 21% of recurrences are clinically evident, and cystoscopically confirmed, after three months [627] and between 55.4% [627] and 96% [607,608] of all recurrences are detected during the first year of follow-up. The median time of recurrence after bulbar urethroplasty is approximately ten months [355]. Twenty-three percent of bulbar stricture recurrences are detected during the second year of follow-up, and the percentage of recurrences decreases after the second year [367]. Early recurrences are more frequent in patients with LS and older age, in longer strictures and when skin grafts were used [621]. Recently, lower socio-economic status -calculated as the Social Deprivation Index (SDI) was associated with a higher risk of recurrence following urethroplasty [628]. On the other hand, long-term follow-up studies highlighted the role of length of follow-up as a predictor for stricture recurrence after bulbar urethroplasty [367, 629]. Late recurrences - later than five years after urethroplasty - could be observed in up to 15% of cases [152, 351, 367]. This should be considered mainly after augmentation urethroplasties, especially in case skin grafts were used. Certainly, patients should be instructed to seek urological evaluation if they experience late recurrent symptoms [629].",
+      "tables": []
+    },
+    {
+      "anchor": "#11-6-risk-stratified-proposals-during-follow-up-after-urethral-surgery",
+      "title": "11.6. Risk-stratified proposals during follow-up after urethral surgery",
+      "level": 3,
+      "text": "Cost of follow-up after urethroplasty is higher in the first year after the procedure [630]. In a literature review it ranged between 205 to 1,784 US Dollars, with higher costs associated to posterior urethral repairs [630]. As the risk of recurrence and side effects are related to the type of stricture and urethroplasty, a different follow-up schedule was proposed and shown to be cost-effective in the USA, potentially saving up to 85% of costs after five years [599]: Urethroplasties with a low risk of recurrence (EPA urethroplasty without history of radiotherapy, hypospadias, or LS features) could be safely followed up based on monitoring of symptoms, using self- administered IPSS questionnaire, every three months for one year, and annually thereafter. Urethroplasties with standard risk of recurrence (urethroplasty using grafts, flaps, and/or post-irradiation, hypospadias and/or LS patients) could combine IPSS questionnaire + flowmetry every three months for one year, and annually thereafter. Additionally, RUG at three and 12 months should be performed. In this protocol, urethrocystoscopy is only performed if required [599]. Another suggested follow-up protocol includes urethrocystoscopy or RUG/VCUG at three months post-operatively, in order to rule out early failures, especially in case of graft use. If there is evidence of good anatomical outcome in these tests, flowmetry and questionnaire results at three months should be considered as the new baseline. Thereafter, follow-up could be safely and routinely performed with non-invasive tests (flowmetry - evaluating Q max and the shape of curve - and questionnaires). Any deterioration should be further investigated with a urethrocystoscopy [631]. A recently suggested protocol also included assessment of LUTS, sexual function (erectile and ejaculatory), and LUT pain, that need to be compared with pre-operative findings which should include a PROM questionnaire [631]. Cystoscopy and flowmetry should be performed between three to six months post-operatively, and flowmetry findings should be considered as the new baseline for longitudinal follow-up. Future significant decline (25-30%) in Q max or Q ave (average flow rate) should trigger new cystoscopy to rule out anatomic recurrence, even in patients who are symptom-free [631]. A routine cystoscopy at 12 to 15 months should be performed at the surgeon’s discretion, based on risk assessment of three aspects: higher-risk patients, evidence of partial urethral narrowing at three-month assessment, low-volume surgeons [631]. Summary of evidence LE The higher percentage of recurrences presents during the first 12 months, after urethroplasty surgery. 2a Small calibre (< 17Fr) recurrences in flexible cystoscopy after three months predict need for future interventions and allow adjust the follow-up strategy accordingly. 2b Risk-adjusted follow-up protocols are cost-effective and safe for the patients. 3 Recommendations Strength rating Offer a routine follow-up of at least one year after urethroplasty. Strong Perform a flexible cystoscope three months after urethroplasty. Weak Adopt a risk-adjusted follow-up protocol. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "The higher percentage of recurrences presents during the first 12 months, after urethroplasty surgery.",
+              "2a"
+            ],
+            [
+              "Small calibre (< 17Fr) recurrences in flexible cystoscopy after three months predict need for future interventions and allow adjust the follow-up strategy accordingly.",
+              "2b"
+            ],
+            [
+              "Risk-adjusted follow-up protocols are cost-effective and safe for the patients.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer a routine follow-up of at least one year after urethroplasty.",
+              "Strong"
+            ],
+            [
+              "Perform a flexible cystoscope three months after urethroplasty.",
+              "Weak"
+            ],
+            [
+              "Adopt a risk-adjusted follow-up protocol.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#11-7-follow-up-protocol-proposal-after-urethroplasty",
+      "title": "11.7. Follow-up protocol proposal after urethroplasty",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#11-7-1-surgeries-with-low-risk-of-recurrence",
+      "title": "11.7.1. Surgeries with low risk of recurrence",
+      "level": 4,
+      "text": "Anastomotic urethroplasties in the bulbar/(bulbo)membranous segment with no history of radiotherapy, hypospadias, or balanitis xerotica obliterans (BXO)/LS features. Table 11.2: Follow-up protocol for urethroplasty with low risk of recurrence Surgery 3 months 12 months 24 months* Uroflowmetry + + + PROM (incl. sexual function) + + + Anatomic evaluation: (Urethrocystoscopy/RUG-VCUG) + On indication On indication * Follow-up could be discontinued after two years, advising the patient to seek urological evaluation if symptoms worsen. Academic centres could increase the length of follow-up for research purposes.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Surgery",
+              "3 months",
+              "12 months",
+              "24 months*"
+            ],
+            [
+              "Uroflowmetry",
+              "+",
+              "+",
+              "+"
+            ],
+            [
+              "PROM (incl. sexual function)",
+              "+",
+              "+",
+              "+"
+            ],
+            [
+              "Anatomic evaluation:(Urethrocystoscopy/RUG-VCUG)",
+              "+",
+              "On indication",
+              "On indication"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#11-7-2-surgical-management-options-with-standard-risk-of-recurrence",
+      "title": "11.7.2. Surgical management options with standard risk of recurrence",
+      "level": 4,
+      "text": "Anastomotic urethroplasties in the bulbar segment with prior history of radiotherapy, hypospadias, or BXO/ LS features; Penile urethroplasties; Non-traumatic posterior urethroplasties; Graft or/and flap - substitution - urethroplasties. Table 11.3: Follow-up protocol for urethroplasty with standard risk of recurrence Surgery 3 months 12 months 24 months 5 years * Uroflowmetry + + + + PROM (incl. sexual function) + + + + Anatomic evaluation: (Urethrocystoscopy/RUG-VCUG) + + + On indication * Follow-up could be discontinued after five years, advising the patient to seek urological evaluation if symptoms worsen. A longer follow-up period should be considered after penile and substitution urethroplasties. Academic centres could increase the length of follow-up for research purposes. Please see Figure 11.1 for further guidance. Figure 11.1: Follow-up after urethroplasty BXO = balanitis xerotica obliterans; LS = lichen sclerosus; PROM = patient reported outcome measure; Qmax = maximum flow rate; RUG = retrograde urethrography; VCUG = voiding cystourethrography.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Surgery",
+              "3 months",
+              "12 months",
+              "24 months",
+              "5 years *"
+            ],
+            [
+              "Uroflowmetry",
+              "+",
+              "+",
+              "+",
+              "+"
+            ],
+            [
+              "PROM (incl. sexual function)",
+              "+",
+              "+",
+              "+",
+              "+"
+            ],
+            [
+              "Anatomic evaluation:(Urethrocystoscopy/RUG-VCUG)",
+              "+",
+              "+",
+              "+",
+              "On indication"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 9
+}

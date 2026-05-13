@@ -1,0 +1,1040 @@
+{
+  "guideline": "non-muscle-invasive-bladder-cancer",
+  "chapter": "diagnosis",
+  "url": "https://uroweb.org/guidelines/non-muscle-invasive-bladder-cancer/chapter/diagnosis",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and scope",
+      "anchor": "#1-1-aim-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1 Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AND AETIOLOGY",
+      "anchor": "#3-epidemiology-and-aetiology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology",
+      "anchor": "#3-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Aetiology",
+      "anchor": "#3-2-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Main risk factors",
+      "anchor": "#3-2-1-main-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.2.2. Genetic",
+      "anchor": "#3-2-2-genetic"
+    },
+    {
+      "level": 4,
+      "text": "3.2.3. Dietary habits",
+      "anchor": "#3-2-3-dietary-habits"
+    },
+    {
+      "level": 4,
+      "text": "3.2.4. Environmental exposure",
+      "anchor": "#3-2-4-environmental-exposure"
+    },
+    {
+      "level": 4,
+      "text": "3.2.5. Pelvic radiation",
+      "anchor": "#3-2-5-pelvic-radiation"
+    },
+    {
+      "level": 4,
+      "text": "3.2.6. Other",
+      "anchor": "#3-2-6-other"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Summary of evidence for epidemiology and aetiology",
+      "anchor": "#3-3-summary-of-evidence-for-epidemiology-and-aetiology"
+    },
+    {
+      "level": 2,
+      "text": "4. PATHOLOGICAL STAGING, GRADING AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-pathological-staging-grading-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Definition of non-muscle-invasive bladder cancer",
+      "anchor": "#4-1-definition-of-non-muscle-invasive-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Tumour, Node, Metastasis classification",
+      "anchor": "#4-2-tumour-node-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.3. T 1 subclassification",
+      "anchor": "#4-3-t-1-subclassification"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Lymphovascular invasion",
+      "anchor": "#4-4-lymphovascular-invasion"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Histological grading of non-muscle-invasive bladder urothelial carcinomas",
+      "anchor": "#4-5-histological-grading-of-non-muscle-invasive-bladder-urothelial-carcinomas"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Types of histological grading systems",
+      "anchor": "#4-5-1-types-of-histological-grading-systems"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Prognostic value of histological grading",
+      "anchor": "#4-5-2-prognostic-value-of-histological-grading"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Clinical application of histological grading systems",
+      "anchor": "#4-5-3-clinical-application-of-histological-grading-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Carcinoma",
+      "anchor": "#4-6-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Inter- and intra-observer variability in staging and grading",
+      "anchor": "#4-7-inter--and-intra-observer-variability-in-staging-and-grading"
+    },
+    {
+      "level": 3,
+      "text": "4.8. Subtypes of urothelial carcinoma",
+      "anchor": "#4-8-subtypes-of-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "4.9. Tumour markers and molecular classification",
+      "anchor": "#4-9-tumour-markers-and-molecular-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.10. Summary of evidence and recommendations for bladder cancer classification",
+      "anchor": "#4-10-summary-of-evidence-and-recommendations-for-bladder-cancer-classification"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSIS",
+      "anchor": "#5-diagnosis"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Patient history",
+      "anchor": "#5-1-patient-history"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Signs and symptoms",
+      "anchor": "#5-2-signs-and-symptoms"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Physical examination",
+      "anchor": "#5-3-physical-examination"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Imaging",
+      "anchor": "#5-4-imaging"
+    },
+    {
+      "level": 4,
+      "text": "5.4.1. Computed tomography urography and intravenous urography",
+      "anchor": "#5-4-1-computed-tomography-urography-and-intravenous-urography"
+    },
+    {
+      "level": 4,
+      "text": "5.4.2. Ultrasound",
+      "anchor": "#5-4-2-ultrasound"
+    },
+    {
+      "level": 4,
+      "text": "5.4.3. Multi-parametric magnetic resonance imaging",
+      "anchor": "#5-4-3-multi-parametric-magnetic-resonance-imaging"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Urinary cytology",
+      "anchor": "#5-5-urinary-cytology"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Urinary molecular marker tests",
+      "anchor": "#5-6-urinary-molecular-marker-tests"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Potential application of urinary cytology and markers",
+      "anchor": "#5-7-potential-application-of-urinary-cytology-and-markers"
+    },
+    {
+      "level": 4,
+      "text": "5.7.1. Screening of the population at risk of bladder cancer",
+      "anchor": "#5-7-1-screening-of-the-population-at-risk-of-bladder-cancer"
+    },
+    {
+      "level": 4,
+      "text": "5.7.2. Investigation of patients after haematuria or other symptoms suggestive of bladder cancer (primary detection)",
+      "anchor": "#5-7-2-investigation-of-patients-after-haematuria-or-other-symptoms-suggestive-of-bladder-cancer-primary-detection"
+    },
+    {
+      "level": 4,
+      "text": "5.7.3. Follow-up of non-muscle-invasive bladder cancer",
+      "anchor": "#5-7-3-follow-up-of-non-muscle-invasive-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "5.8. Cystoscopy",
+      "anchor": "#5-8-cystoscopy"
+    },
+    {
+      "level": 3,
+      "text": "5.9. Summary of evidence and recommendations for the primary assessment of non-muscle-invasive bladder cancer",
+      "anchor": "#5-9-summary-of-evidence-and-recommendations-for-the-primary-assessment-of-non-muscle-invasive-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "5.10. Transurethral resection of TaT1 bladder tumours",
+      "anchor": "#5-10-transurethral-resection-of-tat1-bladder-tumours"
+    },
+    {
+      "level": 4,
+      "text": "5.10.1. Strategy of the procedure",
+      "anchor": "#5-10-1-strategy-of-the-procedure"
+    },
+    {
+      "level": 4,
+      "text": "5.10.2. Surgical and technical aspects of tumour resection",
+      "anchor": "#5-10-2-surgical-and-technical-aspects-of-tumour-resection"
+    },
+    {
+      "level": 3,
+      "text": "5.11. Endoscopic biopsies",
+      "anchor": "#5-11-endoscopic-biopsies"
+    },
+    {
+      "level": 4,
+      "text": "5.11.1. Bladder biopsies",
+      "anchor": "#5-11-1-bladder-biopsies"
+    },
+    {
+      "level": 4,
+      "text": "5.11.2. Prostatic urethral biopsies",
+      "anchor": "#5-11-2-prostatic-urethral-biopsies"
+    },
+    {
+      "level": 3,
+      "text": "5.12. New methods of tumour visualisation",
+      "anchor": "#5-12-new-methods-of-tumour-visualisation"
+    },
+    {
+      "level": 4,
+      "text": "5.12.1. Photodynamic diagnosis (fluorescence cystoscopy or blue light cystoscopy)",
+      "anchor": "#5-12-1-photodynamic-diagnosis-fluorescence-cystoscopy-or-blue-light-cystoscopy"
+    },
+    {
+      "level": 4,
+      "text": "5.12.2. Narrow-band imaging",
+      "anchor": "#5-12-2-narrow-band-imaging"
+    },
+    {
+      "level": 4,
+      "text": "5.12.3. IMAGE1 S™, and other technologies",
+      "anchor": "#5-12-3-image1-s-and-other-technologies"
+    },
+    {
+      "level": 3,
+      "text": "5.13. Second resection (second TURBT)",
+      "anchor": "#5-13-second-resection-second-turbt"
+    },
+    {
+      "level": 4,
+      "text": "5.13.1. Detection of residual disease and tumour upstaging",
+      "anchor": "#5-13-1-detection-of-residual-disease-and-tumour-upstaging"
+    },
+    {
+      "level": 4,
+      "text": "5.13.2. The impact of second resection on treatment outcomes",
+      "anchor": "#5-13-2-the-impact-of-second-resection-on-treatment-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "5.13.3. Timing of second resection",
+      "anchor": "#5-13-3-timing-of-second-resection"
+    },
+    {
+      "level": 4,
+      "text": "5.13.4. Recording of results",
+      "anchor": "#5-13-4-recording-of-results"
+    },
+    {
+      "level": 3,
+      "text": "5.14. Pathology report",
+      "anchor": "#5-14-pathology-report"
+    },
+    {
+      "level": 3,
+      "text": "5.15. Summary of evidence and recommendations for TURBT, biopsies and pathology report",
+      "anchor": "#5-15-summary-of-evidence-and-recommendations-for-turbt-biopsies-and-pathology-report"
+    },
+    {
+      "level": 2,
+      "text": "6. PREDICTING DISEASE RECURRENCE AND PROGRESSION",
+      "anchor": "#6-predicting-disease-recurrence-and-progression"
+    },
+    {
+      "level": 3,
+      "text": "6.1. TaT1 tumours",
+      "anchor": "#6-1-tat1-tumours"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Scoring models using the 1973 WHO classification system",
+      "anchor": "#6-1-1-scoring-models-using-the-1973-who-classification-system"
+    },
+    {
+      "level": 4,
+      "text": "6.1.3. Further prognostic factors",
+      "anchor": "#6-1-3-further-prognostic-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Primary carcinoma",
+      "anchor": "#6-2-primary-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Histological subtypes",
+      "anchor": "#6-3-histological-subtypes"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Patient stratification into risk groups",
+      "anchor": "#6-4-patient-stratification-into-risk-groups"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Summary of evidence and recommendations for stratification of NMIBC",
+      "anchor": "#6-5-summary-of-evidence-and-recommendations-for-stratification-of-nmibc"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT",
+      "anchor": "#7-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Counselling of smoking cessation",
+      "anchor": "#7-1-counselling-of-smoking-cessation"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Office-based fulguration and laser vaporisation",
+      "anchor": "#7-2-office-based-fulguration-and-laser-vaporisation"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Active surveillance",
+      "anchor": "#7-3-active-surveillance"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Adjuvant intravesical treatment",
+      "anchor": "#7-4-adjuvant-intravesical-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.4.1. Postoperative irrigation",
+      "anchor": "#7-4-1-postoperative-irrigation"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Intravesical chemotherapy",
+      "anchor": "#7-4-2-intravesical-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.4.3. Intravesical BCG immunotherapy",
+      "anchor": "#7-4-3-intravesical-bcg-immunotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.4.4. Combination therapy",
+      "anchor": "#7-4-4-combination-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.5. Intravesical chemoablation and neoadjuvant treatment",
+      "anchor": "#7-5-intravesical-chemoablation-and-neoadjuvant-treatment"
+    },
+    {
+      "level": 3,
+      "text": "7.6. Radical cystectomy for NMIBC",
+      "anchor": "#7-6-radical-cystectomy-for-nmibc"
+    },
+    {
+      "level": 3,
+      "text": "7.7. Primary treatment by disease type",
+      "anchor": "#7-7-primary-treatment-by-disease-type"
+    },
+    {
+      "level": 4,
+      "text": "7.7.1. Primary treatment by risk category",
+      "anchor": "#7-7-1-primary-treatment-by-risk-category"
+    },
+    {
+      "level": 4,
+      "text": "7.7.2. Treatment of carcinoma",
+      "anchor": "#7-7-2-treatment-of-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "7.8. Treatment of failure of intravesical therapy",
+      "anchor": "#7-8-treatment-of-failure-of-intravesical-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.8.1. Recurrence during or after intravesical chemotherapy",
+      "anchor": "#7-8-1-recurrence-during-or-after-intravesical-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.8.2. Recurrence during or after intravesical BCG therapy",
+      "anchor": "#7-8-2-recurrence-during-or-after-intravesical-bcg-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.8.3. Summary of evidence - treatment failure of intravesical therapy",
+      "anchor": "#7-8-3-summary-of-evidence---treatment-failure-of-intravesical-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.9. Multidisciplinary tumour board",
+      "anchor": "#7-9-multidisciplinary-tumour-board"
+    },
+    {
+      "level": 3,
+      "text": "7.10. Recommendations for adjuvant therapy in TaT1 tumours and for therapy of carcinoma",
+      "anchor": "#7-10-recommendations-for-adjuvant-therapy-in-tat1-tumours-and-for-therapy-of-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "7.11. Recommendations for the treatment of TaT1 tumours and carcinoma",
+      "anchor": "#7-11-recommendations-for-the-treatment-of-tat1-tumours-and-carcinoma"
+    },
+    {
+      "level": 2,
+      "text": "8. FOLLOW-UP OF PATIENTS WITH NMIBC",
+      "anchor": "#8-follow-up-of-patients-with-nmibc"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Intravesical surveillance during follow-up",
+      "anchor": "#8-1-intravesical-surveillance-during-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Follow-up of low-risk NMIBC",
+      "anchor": "#8-1-1-follow-up-of-low-risk-nmibc"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Follow-up of intermediate-risk NMIBC",
+      "anchor": "#8-1-2-follow-up-of-intermediate-risk-nmibc"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Follow-up of high- and very high-risk NMIBC",
+      "anchor": "#8-1-3-follow-up-of-high--and-very-high-risk-nmibc"
+    },
+    {
+      "level": 4,
+      "text": "8.1.4. Follow-up of extravesical sites urothelium",
+      "anchor": "#8-1-4-follow-up-of-extravesical-sites-urothelium"
+    },
+    {
+      "level": 4,
+      "text": "8.1.5. Aids for tumour detection during follow-up",
+      "anchor": "#8-1-5-aids-for-tumour-detection-during-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Summary of evidence and recommendations for follow-up of patients after TURBT for NMIBC",
+      "anchor": "#8-2-summary-of-evidence-and-recommendations-for-follow-up-of-patients-after-turbt-for-nmibc"
+    },
+    {
+      "level": 2,
+      "text": "9. PATIENT REPORTED OUTCOME MEASURES AND QUALITY INDICATORS FOR NMIBC",
+      "anchor": "#9-patient-reported-outcome-measures-and-quality-indicators-for-nmibc"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Patient Reported Outcome Measures and Patient Reported Experience Measures in NMIBC",
+      "anchor": "#9-1-patient-reported-outcome-measures-and-patient-reported-experience-measures-in-nmibc"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Quality Indicators in bladder cancer",
+      "anchor": "#9-2-quality-indicators-in-bladder-cancer"
+    },
+    {
+      "level": 2,
+      "text": "10. PRAGMATIC DEINTENSIFICATION STRATEGY IN NMIBC",
+      "anchor": "#10-pragmatic-deintensification-strategy-in-nmibc"
+    },
+    {
+      "level": 2,
+      "text": "11. REFERENCES",
+      "anchor": "#11-references"
+    },
+    {
+      "level": 2,
+      "text": "12. CONFLICT OF INTEREST",
+      "anchor": "#12-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "13. CITATION INFORMATION",
+      "anchor": "#13-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "14. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#14-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#non-muscle-invasive-bladder-cancer",
+      "title": "Non-muscle-invasive Bladder Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 5. Diagnosis Introduction Methods Epidemiology And Aetiology Pathological Staging, Grading And Classification Systems Diagnosis Predicting Disease Recurrence And Progression Disease Management Follow-up Of Patients With Nmibc Patient Reported Outcome Measures And Quality Indicators For Nmibc Pragmatic Deintensification Strategy In Nmibc References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#5-diagnosis",
+      "title": "5. DIAGNOSIS",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#5-1-patient-history",
+      "title": "5.1. Patient history",
+      "level": 3,
+      "text": "A focused patient history is mandatory.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-signs-and-symptoms",
+      "title": "5.2. Signs and symptoms",
+      "level": 3,
+      "text": "Haematuria is the most common finding in NMIBC. Visible haematuria was found to be associated with higher stage at diagnosis disease compared to nonvisible haematuria [100]. Carcinoma in situ might be suspected in patients with lower urinary tract symptoms, especially irritative voiding symptoms.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-3-physical-examination",
+      "title": "5.3. Physical examination",
+      "level": 3,
+      "text": "A focused urological examination is mandatory, although it does not reveal NMIBC.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-4-imaging",
+      "title": "5.4. Imaging",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#5-4-1-computed-tomography-urography-and-intravenous-urography",
+      "title": "5.4.1. Computed tomography urography and intravenous urography",
+      "level": 4,
+      "text": "Computed tomography (CT) urography is used to detect papillary tumours in the urinary tract, indicated by filling defects and/or hydronephrosis [101,102]. Intravenous urography (IVU) is an alternative if CT is not available [103], but CT urography provides more information particularly in muscle-invasive tumours of the bladder and in UTUCs (including status of lymph nodes and tumour involvement of neighbouring organs). The necessity to perform a baseline CT urography once a bladder tumour has been detected is questionable due to the low incidence of significant findings that can be obtained [104-106]. The incidence of UTUCs is low (1.8%) but increases to 7.5% in tumours located in the trigone [105]. The risk of UTUC during follow-up increases in patients with multiple and high-risk tumours [107].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-4-2-ultrasound",
+      "title": "5.4.2. Ultrasound",
+      "level": 4,
+      "text": "Ultrasound (US) may be performed as an adjunct to physical examination as it has moderate sensitivity to a wide range of abnormalities in the upper- and lower urinary tract. Ultrasound permits characterisation of renal masses, detection of hydronephrosis, and visualisation of intraluminal masses in the bladder, but cannot rule out all potential causes of haematuria [108, 109]. It cannot reliably exclude the presence of UTUC and cannot replace CT urography.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-4-3-multi-parametric-magnetic-resonance-imaging",
+      "title": "5.4.3. Multi-parametric magnetic resonance imaging",
+      "level": 4,
+      "text": "Multi-parametric magnetic resonance imaging (mpMRI) might provide additional information regarding the local staging of BC. A standardised methodology of magnetic resonance imaging (MRI) reporting (Vesical Imaging-Reporting and Data System [VI-RADS]) in patients with BC has been developed [110]. A systematic review showed that a VI-RADS score of ≥ 4 had a pooled weighted sensitivity of 0.78 and specificity of 0.94 in predicting MIBC, with high reliability across different centres with varying experience [111]. A diagnosis of CIS cannot be made using imaging methods alone (CT urography, IVU, US), including mpMRI [112].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-5-urinary-cytology",
+      "title": "5.5. Urinary cytology",
+      "level": 3,
+      "text": "The examination of voided urine or bladder-washing specimens for exfoliated cancer cells has high sensitivity in HG/G3 tumours (84%), but low sensitivity in LG/G1 tumours (16%) [113]. The sensitivity in CIS detection is 28-100% [114]. A recent report applying the Paris system found a sensitivity of 46% for HG disease [115]. Cytology is useful, particularly as an adjunct to cystoscopy, in patients with HG/G3 tumours; it is not designed to detect LG tumours. Positive voided urinary cytology can indicate an UC anywhere in the urinary tract; however, negative cytology does not exclude its presence. Cytological interpretation is user-dependent [116, 117] and evaluation can be hampered by low cellular yield, urinary tract infections, stones, or intravesical instillations; although in experienced hands specificity exceeds 90% [118]. Artificial intelligence (AI) algorithms combined with digital image processing (VisioCyt test) improved the sensitivity of cytology for HG tumours by up to 92% [119]. A standardised reporting system known as The Paris System, published in 2022 (2 nd Edn.), redefined urinary cytology diagnostic categories and full category names should always be cited [120]: No adequate diagnosis possible (No diagnosis) Negative for UC (Negative) Atypical urothelial cells (Atypia) Suspicious for HG UC (Suspicious) High-grade/G3 UC (Malignant) The principle of the system and its terminology underscore the role of urinary cytology in detection of G3 and HG tumours. The Paris System for reporting urinary cytology has been validated in several retrospective studies [121, 122]. A prospective study suggests that voided urine cytology can be used to risk-stratify patients with NMIBC prior to TURBT, i.e. voided urine cytology negative for HG exhibits high specificity for LG disease (93%) while a positive result for HG predicts HG disease with a 92% specificity and 91% positive predictive value (PPV) [123]. Urine collection should respect the recommendations provided in Section 5.9. One cytospin slide from the sample is usually sufficient [120]. In patients with suspicious cytology, repeat investigation is advised because the underlying risk of a HG lesion is between 24 and 53% [124].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-6-urinary-molecular-marker-tests",
+      "title": "5.6. Urinary molecular marker tests",
+      "level": 3,
+      "text": "The implementation of the Paris System when reporting urinary tract cytology has improved detection of HG tumours and therefore its utility in these patients. Numerous urinary molecular marker tests have been developed [125, 126]; however, none of these markers have been accepted in routine practice by any clinical guidelines for diagnosis (see Section 5.7). For follow-up, two randomised controlled trials (RCTs) have suggested a role for urinary marker tests in patients (see Chapter 8) [127, 128]. The following general statements can be made regarding the existing tests: Sensitivity is usually higher at the cost of lower specificity compared to urine cytology [120]. Benign conditions and previous Bacillus Calmette-Guérin (BCG) instillations may influence the results of many urinary marker tests [129]. Requirements for sensitivity and specificity of a urinary marker test depend largely on the clinical context of the patient (screening, primary detection, follow-up [high-risk, low/intermediate-risk]) [120]. Several commercially available urinary biomarkers, assessing multiple targets to increase sensitivity, have been tested in prospective multicentre studies [130-134]. In patients with negative cystoscopy and upper tract work-up, positive results of urine cytology or molecular urine tests such as UroVysion™ (FISH), Nuclear Matrix Protein (NMP)22 ® , mutations in Fibroblast Growth Factor Receptor 3 ( FGFR3 ) or Telomerase Reverse Transcriptase promotor ( TERT ) gene and microsatellite analysis may identify patients more likely to experience disease recurrence and possibly progression [135-142]. Practical and cost-effectiveness dimensions and certification of in vitro diagnostics (CE-IVD) should be considered before clinical implementation of urinary molecular marker tests [143].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-7-potential-application-of-urinary-cytology-and-markers",
+      "title": "5.7. Potential application of urinary cytology and markers",
+      "level": 3,
+      "text": "The following sections indicate the clinical contexts in which urine cytology and/or other urinary markers have been assessed.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-7-1-screening-of-the-population-at-risk-of-bladder-cancer",
+      "title": "5.7.1. Screening of the population at risk of bladder cancer",
+      "level": 4,
+      "text": "The application of haematuria dipstick, followed by assessment of several urine markers (a reflex-test assessing FGFR3 -mutations, microsatellite analysis, (NMP)22 ® , and multiplex ligation probe amplification methylation detection in urine) in case of positive dipstick has been reported in BC screening in high-risk populations [144]. However, the low incidence of BC in the general population and the short lead-time impair feasibility and cost-effectiveness of BC screening [138,144]. Therefore, routine screening for BC is not recommended [138, 144, 145].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-7-2-investigation-of-patients-after-haematuria-or-other-symptoms-suggestive-of-bladder-cancer-primary-detection",
+      "title": "5.7.2. Investigation of patients after haematuria or other symptoms suggestive of bladder cancer (primary detection)",
+      "level": 4,
+      "text": "It is generally accepted that none of the currently available tests can replace cystoscopy. However, urinary cytology or biomarkers can be used as an adjunct to cystoscopy to detect missed tumours, particularly CIS. In this setting, specificity is particularly important. Recently, CellDetect ® and UroVysion™ have shown similar performance to detect BC and were both superior to cytology [146]. In addition, Xpert Bladder ® had higher sensitivity and negative-predictive value than either cytology or UroVysion™ for the detection of BC in patients with haematuria [147]. A randomised trial showed that in patients presenting with lower risk micro-haematuria (defined as 3 to 29 RBC/hpf and minimal smoking history), the use of Cxbladder Triage showed a 90% sensitivity compared to cystoscopy and resulted in a 59% reduction in cystoscopy use [148]. However, this study is limited by the lack of a confirmatory cystoscopy examination in 57% of the patients and the low specificity of the marker (56%).",
+      "tables": []
+    },
+    {
+      "anchor": "#5-7-3-follow-up-of-non-muscle-invasive-bladder-cancer",
+      "title": "5.7.3. Follow-up of non-muscle-invasive bladder cancer",
+      "level": 4,
+      "text": "The current status of urine cytology and urinary molecular marker tests in follow-up for NMIBC is discussed in Chapter 8.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-8-cystoscopy",
+      "title": "5.8. Cystoscopy",
+      "level": 3,
+      "text": "The diagnosis of papillary BC ultimately depends on cystoscopic examination of the bladder and histological evaluation of sampled tissue by either cold-cup biopsy or resection. Carcinoma in situ can be suspected based on cystoscopy and urine cytology and confirmed by histological evaluation of multiple bladder biopsies [149]. Cystoscopy can be performed as an outpatient procedure. A flexible instrument with topical intraurethral anaesthetic lubricant instillation results in better compliance compared to a rigid instrument, especially in male patients [150, 151]. Tissue sampling can be obtained using biopsy forceps introduced via a flexible cystoscope [152]. Two randomised trials, both including male patients only, showed that the irrigation ‘bag squeeze’ technique (applying pressure to open the urethral sphincter to gain access to the bladder) could significantly reduce pain during the flexible cystoscopy procedure [153, 154]. Moreover, several randomised trials and a meta-analysis have shown that listening to music during cystoscopy reduces procedural pain and anxiety [155-157]. Figure 5.1: Bladder diagram",
+      "tables": []
+    },
+    {
+      "anchor": "#5-9-summary-of-evidence-and-recommendations-for-the-primary-assessment-of-non-muscle-invasive-bladder-cancer",
+      "title": "5.9. Summary of evidence and recommendations for the primary assessment of non-muscle-invasive bladder cancer",
+      "level": 3,
+      "text": "Summary of evidence LE Cystoscopy with or without biopsy confirmation is necessary for the diagnosis of BC. 1 Urinary cytology has high sensitivity in HG tumours, including CIS. 2b Recommendations Strength rating Take a patient history, focusing on urinary tract symptoms and haematuria. Strong Use renal and bladder ultrasound and/or computed tomography (CT) urography during the initial work-up in patients with haematuria. Strong Once a bladder tumour has been detected, perform a CT urography in selected cases (e.g. tumours located in the trigone, or multiple- or high-risk tumours). Strong If a magnetic resonance imaging (MRI) is performed for local staging of bladder cancer (BC), it should be done before transurethral resection of bladder tumour (TURBT). Strong Perform cystoscopy with or without biopsy confirmation in patients with symptoms suggestive of BC. It cannot be replaced by cytology or by any other non-invasive test. Strong Use a flexible cystoscope, if available, in both males and females. In male patients, apply irrigation ‘bag squeeze’ to decrease procedural pain when passing the proximal urethra. Strong Describe all macroscopic features of the tumour (site, size, number and appearance) and mucosal abnormalities during cystoscopy. Use a bladder diagram (see Figure 5.1). Strong Use voided urine cytology as an adjunct to cystoscopy to detect high-grade tumour. Strong Perform cytology on at least 25 mL fresh urine or urine with adequate fixation. First morning urine is not suitable due to the frequent presence of cytolysis. Strong Use the Paris System 2 nd Edn., for cytology reporting. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Cystoscopy with or without biopsy confirmation is necessary for the diagnosis of BC.",
+              "1"
+            ],
+            [
+              "Urinary cytology has high sensitivity in HG tumours, including CIS.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Take a patient history, focusing on urinary tract symptoms and haematuria.",
+              "Strong"
+            ],
+            [
+              "Use renal and bladder ultrasound and/or computed tomography (CT) urography during the initial work-up in patients with haematuria.",
+              "Strong"
+            ],
+            [
+              "Once a bladder tumour has been detected, perform a CT urography in selected cases (e.g. tumours located in the trigone, or multiple- or high-risk tumours).",
+              "Strong"
+            ],
+            [
+              "If a magnetic resonance imaging (MRI) is performed for local staging of bladder cancer (BC), it should be done before transurethral resection of bladder tumour (TURBT).",
+              "Strong"
+            ],
+            [
+              "Perform cystoscopy with or without biopsy confirmation in patients with symptoms suggestive of BC. It cannot be replaced by cytology or by any other non-invasive test.",
+              "Strong"
+            ],
+            [
+              "Use a flexible cystoscope, if available, in both males and females. In male patients, apply irrigation ‘bag squeeze’ to decrease procedural pain when passing the proximal urethra.",
+              "Strong"
+            ],
+            [
+              "Describe all macroscopic features of the tumour (site, size, number and appearance) and mucosal abnormalities during cystoscopy. Use a bladder diagram (see Figure 5.1).",
+              "Strong"
+            ],
+            [
+              "Use voided urine cytology as an adjunct to cystoscopy to detect high-grade tumour.",
+              "Strong"
+            ],
+            [
+              "Perform cytology on at least 25 mL fresh urine or urine with adequate fixation. First morning urine is not suitable due to the frequent presence of cytolysis.",
+              "Strong"
+            ],
+            [
+              "Use the Paris System 2nd Edn., for cytology reporting.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-10-transurethral-resection-of-tat1-bladder-tumours",
+      "title": "5.10. Transurethral resection of TaT1 bladder tumours",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#5-10-1-strategy-of-the-procedure",
+      "title": "5.10.1. Strategy of the procedure",
+      "level": 4,
+      "text": "The goals of TURBT in TaT1 BC is to establish accurate pathological diagnosis/staging and completely remove all visible lesions. It is a crucial procedure in the management of BC. Transurethral resection of the bladder tumours should be performed systematically in individual steps (see Section 5.14) [158, 159]. The operative steps necessary to achieve a successful TURBT include identifying the factors required to assign disease risk (number of tumours, size, architecture, location, concern for the presence of CIS, recurrent vs. primary tumour); clinical stage (bimanual examination under anaesthesia, assignment of clinical tumour stage); adequacy of the resection (visually complete resection, visualisation of muscle at the resection base); visualisation of tumour in the distal ureter; and presence of complications (assessment for perforation) [158, 160]. Bi-manual examination may provide critical information on bladder mobility and potential infiltration of adjacent structures, such as the rectal wall in males or the vagina and urethra in females. In a single centre prospective study, bi-manual examination correctly predicted final ypT stage in 80% of the cases and provided prognostic information on surgical margin status [161]. Documentation of cystoscopic tumour characteristics and consequent clinically predicted tumour grade and stage can help assign patients to post-TURBT single instillation (SI) of chemotherapy (LG non-invasive) and muscle-invasive cancers to be fast tracked to definitive treatment [162]. To measure the size of the largest tumour, the end of the cutting loop, which is approximately 1 cm wide, can be used as a reference. Tumour architecture can be sessile, nodular, papillary, mixed papillary/solid or flat. Documentation of the severity of complications, such as bladder perforation using a standardised approach, may allow for better comparison between surgical techniques and quality control [163].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-10-2-surgical-and-technical-aspects-of-tumour-resection",
+      "title": "5.10.2. Surgical and technical aspects of tumour resection",
+      "level": 4,
+      "text": "5.10.2.a. Surgical strategy of resection (piecemeal/separate resection, en-bloc resection) A complete resection, performed by either fractioned or en-bloc technique, is essential to achieve a good prognosis [159,164]. The following subsections describe each of these techniques. Piecemeal resection Piecemeal resection in fractions (separate resection of the exophytic part of the tumour, the underlying bladder wall and the edges of the resection area) provides good information about the vertical and horizontal extent of the tumour [165]. To facilitate better pathological assessment of detrusor muscle, it is ideal for the tumour base to be sent separately. En-bloc resection En-bloc resection using monopolar or bipolar current or lasers is feasible in selected exophytic tumours, particularly those with tumour size of ≤ 3cm [166]. This procedure aims to uphold basic oncological principles by avoiding tumour fragmentation and ensuring complete tumour resection with clear margins [167]. En-bloc resection also aims to provide high-quality resected specimens with the presence of detrusor muscle [159,168-175]; however, its superiority over conventional TURBT remains debatable [176, 177]. Detrusor muscle sampling rates were no different between these techniques in a systematic review of 1,142 patients [178], and in a single centre RCT showing similar detrusor muscle sampling rates of 95% between conventional TURBT and en-bloc resection [176]. Conversely, two systematic reviews of 4,484 and 2,097 patients, respectively, revealed higher detrusor muscle sampling rates in favour of en-bloc resection [168, 179]. A further post-hoc analysis of this RCT showed that the combination of an en-bloc resection plus BCG was associated with lower one year recurrence rates over conventional TURBT plus BCG (5%; 95% CI: 0-14% vs. 26%; 95% CI: 5.8-42%; p = 0.056) [180], suggesting that good-quality surgery plus good adjuvant therapy (see Section 7.4) are both important in optimising the oncological outcomes of NMIBC. Respect for tumour architecture increases the accuracy of T1 staging and the possibility of sub-staging while potentially reducing the risk of bladder perforation [168, 173-176]. With regard to oncological outcomes, two RCTs did not reveal a difference in time to recurrence between en-bloc resection and conventional TURBT [176, 177]. This has also been shown in two systematic reviews [168, 178]. However, in an RCT comparing en-bloc resection and conventional TURBT in patients with tumours ≤ 3 cm, en-bloc resection resulted in a significant reduction in one-year recurrence rate (38.1% to 28.5%). Upon subgroup analysis, patients with 1-3 cm bladder tumour, single tumour, Ta disease or intermediate-risk NMIBC had a significant benefit from en-bloc resection. There were no apparent differences in rates of progression nor complications [181]. The technique selected depends on the size and location of the tumour, and the experience of the surgeon. The tumour size feasible for retrieval en-bloc is limited by the currently available endoscopic equipment and it has been shown that technical success declines with tumours larger than 3 cm [166]. With better detection of tumours and abnormal margins, methods of optical enhancement are expected to improve complete resection rates (see Section 5.11). 5.10.2.b. Evaluation of resection quality The absence of detrusor muscle in the specimen is associated with a significantly higher risk of residual disease, early recurrence, and tumour under-staging [182]. The presence of detrusor muscle in the specimen is considered as a surrogate criterion of the resection quality [182] and is required (except in Ta LG/G1 tumours). Surgical checklists and quality performance indicator (QPI) programmes have been shown to increase surgical quality (accurate documentation of factors required to assign risk and sample detrusor muscle) and decrease recurrence rates [158, 160, 183-185]. More recently, it has been shown that achieving quality benchmarks for sampling detrusor muscle and single post-TURBT instillation of Mitomycin-C in 2,688 patients were associated with lower recurrence and progression rates when compared to not achieving these benchmarks [186]. The Panel have included a sample TURBT checklist in Table 5.1 and reported quality indicators (QIs) for the procedure in Table 9.1. It has been shown that surgical experience can improve TURBT results, which supports the role of teaching programmes [182, 187]. Virtual training on simulators is an emerging approach [188]. Its role in the teaching process still needs to be established [158]. Surgical experience and/or volume has been associated with risk of complications [189], recurrence [190] and survival [191] in retrospective studies. Despite a relatively low overall rate of detrusor muscle sampling, a collaborative study of 503 patients demonstrated that higher utilisation of surgical checklists by residents was associated with a higher rate of detruso",
+      "tables": []
+    },
+    {
+      "anchor": "#5-11-endoscopic-biopsies",
+      "title": "5.11. Endoscopic biopsies",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#5-11-1-bladder-biopsies",
+      "title": "5.11.1. Bladder biopsies",
+      "level": 4,
+      "text": "Carcinoma in situ can present as a velvet-like, reddish area indistinguishable from inflammation, or it may not be visible at all. For this reason, biopsies from suspicious urothelium should be taken. In patients with positive urine cytology (see Section 5.5) and normal-looking mucosa at cystoscopy, mapping biopsies are recommended [201, 202]. To obtain representative mapping of the bladder mucosa, biopsies should be taken from the trigone, bladder dome, right, left, anterior and posterior bladder wall [201, 202]. If the equipment is available, photodynamic diagnosis (PDD) is a useful tool to target the biopsy (see Section 5.12.1).",
+      "tables": []
+    },
+    {
+      "anchor": "#5-11-2-prostatic-urethral-biopsies",
+      "title": "5.11.2. Prostatic urethral biopsies",
+      "level": 4,
+      "text": "Involvement of the prostatic urethra and ducts in males with NMIBC has been reported. The incidence of CIS in the prostatic urethra was shown to be 11.7% in 128 males with T1 G3 UC [203]. The risk of prostatic urethra or duct involvement is higher if the tumour is located at the trigone or bladder neck, in the presence of bladder CIS, and with multiple tumours [204]. Based on this observation, a biopsy from the prostatic urethra is necessary in some cases [203, 205, 206]. Biopsies should preferably be from the pre-collicular area (between the 5 and 7 o’clock position next to the verumontanum) using a resection loop.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-12-new-methods-of-tumour-visualisation",
+      "title": "5.12. New methods of tumour visualisation",
+      "level": 3,
+      "text": "As a standard procedure, cystoscopy and TURBT are performed using white light (WL). However, the use of WL alone can lead to missing lesions that are present but not visible, which is why new technologies are being developed.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-12-1-photodynamic-diagnosis-fluorescence-cystoscopy-or-blue-light-cystoscopy",
+      "title": "5.12.1. Photodynamic diagnosis (fluorescence cystoscopy or blue light cystoscopy)",
+      "level": 4,
+      "text": "Photodynamic diagnosis is performed using blue light after intravesical instillation of 5-aminolaevulinic acid (5-ALA) or hexaminolaevulinic acid (HAL). 5.12.1.a. Impact on bladder cancer detection It has been confirmed that fluorescence-guided biopsy and resection are more sensitive than conventional procedures for the detection of malignant tumours, particularly CIS [207, 208]. In a systematic review and meta-analysis, PDD had higher sensitivity than WL endoscopy in the pooled estimates of analyses at both patient (92% vs. 71%) and biopsy-level (93% vs. 65%) [208]. A prospective RCT did not confirm a higher detection rate in patients with known positive cytology before TURBT [209]. Photodynamic diagnosis had lower specificity than WL endoscopy (63% vs. 81%) and it does not help to rule out prostatic involvement [208]. False-positivity can be induced by inflammation or recent TURBT and during the first three months after BCG instillation [210, 211]. 5.12.1.b. Impact on bladder cancer recurrence The beneficial effect of ALA or HAL fluorescence cystoscopy on recurrence rate in patients with TURBT was evaluated. A systematic review and meta-analysis of 14 RCTs including 2,906 patients, six using 5-ALA and HAL, demonstrated a decreased risk of BC recurrence in the short and long term. There were, however, no differences in progression and mortality rates. The analysis demonstrated inconsistencies between trials and potential susceptibility to performance and publication bias [212]. Another systematic review and meta-analysis of 12 RCTs (n = 2,288) revealed, with moderate certainty, that PDD is associated with lower risk of recurrence and improved time to recurrence (at least in the first two years and possibly up to five years) [213]. The most recent Cochrane systematic review and meta-analysis of 16 RCTs (n = 4,325) suggested a favourable impact of PDD-assisted TURBT on the risk of recurrence and progression, albeit with low certainty of evidence [214]. These findings are consistent with a systematic review and meta-analysis of 12 RCTs involving 2,775 patients that confirmed a reduced risk of recurrence and progression, but no significant difference in time to first recurrence and residual tumour rate [215]. Contrary to previous evidence, a multicentre RCT from the UK showed that PDD-guided TURBT did not reduce recurrence rates, nor was it cost-effective compared with WL cystoscopy at three years [216]. In conclusion the abovementioned studies highlight the need for further investigation to better elucidate the impact of PDD on recurrence. Further studies should also consider that long-term recurrence rates are influenced by adjuvant treatment and not solely by the initial surgery.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-12-2-narrow-band-imaging",
+      "title": "5.12.2. Narrow-band imaging",
+      "level": 4,
+      "text": "In narrow-band imaging (NBI), the contrast between normal urothelium and hyper-vascular cancer tissue is enhanced. Improved cancer detection has been demonstrated by means of NBI-flexible cystoscopy and NBI-guided biopsies and resection [217-220]. Two RCTs assessed the reduction of recurrence rates if NBI is used during TURBT [220, 221]. Although the overall results were negative, a benefit after three and 12 months was observed for low-risk tumours (pTa LG, < 30 mm; no CIS) [221]. A systematic review and meta-analysis including 17 RCTs and non-RCTs demonstrated improved detection (diagnostic accuracy) of bladder tumours with either PDD or NBI over WL cystoscopy [222], while another study (n = 5,217) showed improved recurrence-free survival (RFS) with either enhancement technique [223]. Conversely, a systematic review and network meta-analysis that took into account the use of single postoperative instillation of chemotherapy, concluded that there was a lower likelihood of recurrence at one year only following PDD-guided TURBT (with or without SI) but not with NBI-guided surgery [224].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-12-3-image1-s-and-other-technologies",
+      "title": "5.12.3. IMAGE1 S™, and other technologies",
+      "level": 4,
+      "text": "IMAGE1 S™ (formerly named SPIES) is an image enhancement system based on computerised processing of different colour components using specific light filters. Thus far, limited evidence has been produced to validate the four different light spectra modalities, suggesting an improvement in the diagnostic accuracy of WL [225, 226]. Early follow-up data of RCTs failed to show an advantage in recurrence rate for the IMAGE1 S™ arm over WL, except in a subgroup of primary low- and intermediate-risk NMIBCs at 12 and 18 months, respectively [227, 228]. Confocal laser micro-endoscopy is a high-resolution imaging probe designed to provide endoscopic histological grading in real time but requires further validation [229].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-13-second-resection-second-turbt",
+      "title": "5.13. Second resection (second TURBT)",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#5-13-1-detection-of-residual-disease-and-tumour-upstaging",
+      "title": "5.13.1. Detection of residual disease and tumour upstaging",
+      "level": 4,
+      "text": "The significant risk of residual tumour after initial TURBT of TaT1 lesions has been demonstrated [164]. This residual cancer has the potential to worsen oncological outcomes and therefore further emphasises the importance of an effective initial TURBT. As patients with an initial incomplete TURBT (either from extensive tumour or intra-operative complications) will require a second complete resection, documentation of resection completeness at the time of the initial TURBT is essential. The main purposes of a second TURBT are to: (1) clear any residual cancer; (2) re-resect the previous resection site to establish correct pathological staging; and (3) obtain any missing elements of the clinical information (e.g. extent of cancer, involvement of prostatic urethra). A systematic review analysing data of 8,409 patients with Ta or T1 HG UC demonstrated a 51% risk of persistence and an 8% risk of under-staging in T1 tumours. The analysis also showed a high risk of residual disease in Ta tumours, but this observation was based only on a limited number of cases. Most of the residual lesions were detected at the original tumour location [230]. Conversely, a more contemporary systematic review and meta-analysis including 81 studies showed that, in patients with T1 disease, the pooled rates of any residual disease and upstaging were lower (particularly in cohorts from the 2010s) at 31.4% and 2.8%, respectively. En-bloc resection and visually-enhanced TURBT significantly improved residual tumour rates at repeat TURBT [231]. Another systematic review and meta-analysis of 3,556 patients with T1 tumours showed that the prevalence rate of residual tumours and upstaging to invasive disease after TURBT remained high even in a subgroup with detrusor muscle sampled at the initial TURBT. In a subgroup of 1,565 patients with T1 tumours with detrusor muscle present, persistent tumour was found in 58% and under-staging occurred in 11% of cases [232]. Prospective trials suggest that postoperative positive urine cytology [233] and Xpert Bladder ® (urine messenger ribonucleic acid test) [234] are independently associated with residual disease at second resection and risk of future recurrences, respectively. However, these data need to be confirmed in further studies. Currently, MRI cannot replace re-TURBT (see Section 5.4.3) [112].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-13-2-the-impact-of-second-resection-on-treatment-outcomes",
+      "title": "5.13.2. The impact of second resection on treatment outcomes",
+      "level": 4,
+      "text": "A second TURBT can increase RFS [235-237], improve outcomes after BCG treatment [238] and provide prognostic information [239-242]. In a retrospective evaluation of a large multi-institutional cohort of 2,451 patients with BCG-treated T1 G3/HG tumours (a second resection was performed in 935 patients), the second resection improved RFS, progression-free survival (PFS) and overall survival (OS) only in patients without detrusor muscle in the initial resection specimen [243]. In a retrospective analysis of 7,666 patients diagnosed with T1 cancer in Ontario, 2,162 underwent a second resection; after adjusting for the effects of confounding variables, only OS (and not cancer-specific survival [CSS]) was better in patients who underwent second resection [191]. This apparent improved survival could also be the result of selection bias with fitter patients undergoing second resections. Whilst a single centre retrospective review revealed RFS and PFS survival benefit in 104 out of 209 HG Ta patients who underwent a second TURBT, only one case was upstaged to T1 disease, and none to T2 or more [244]. From a contemporary systematic review and meta-analysis of 81 studies, patients undergoing repeat TURBT had better RFS (HR: 0.78; 95% CI: 0.62-0.97) and OS (HR: 0.86; 95% CI: 0.81-0.93). However, there was no difference in PFS and CSS [231]. Based on the available retrospective evidence, the Panel advises that after a macroscopically complete initial TURBT, a second resection should be performed in any T1 disease and in Ta HG disease where muscle is absent from the primary specimen (see recommendations in Section 5.15). Of note, Ta HG-patients undergoing re-TURBT based on EAU Guidelines recommendations demonstrated significantly lower RFS and PFS compared with those who did not [244].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-13-3-timing-of-second-resection",
+      "title": "5.13.3. Timing of second resection",
+      "level": 4,
+      "text": "Retrospective evaluation showed that a second resection performed 14-42 days after initial resection provides longer RFS and PFS compared to second resection performed after 43-90 days [245]. Based on this currently available evidence, a second TURBT, when indicated, is recommended within a pragmatic time period of two to six weeks after initial resection [245] (for recommendations on patient selection, see Section 5.14).",
+      "tables": []
+    },
+    {
+      "anchor": "#5-13-4-recording-of-results",
+      "title": "5.13.4. Recording of results",
+      "level": 4,
+      "text": "The results of the second resection (residual tumours and under-staging) reflect the quality and effectiveness of the initial TURBT. Since the goal is to improve the quality of the initial TURBT, the results of the second resection should be recorded.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-14-pathology-report",
+      "title": "5.14. Pathology report",
+      "level": 3,
+      "text": "Pathological investigation of the specimen(s) obtained by TURBT and biopsies is an essential step in the decision-making process for BC [246]. Close cooperation between urologists and pathologists is required. Clinical information and high quality of resected and submitted tissue are essential for correct pathological assessment. To obtain all relevant information, the specimen collection, handling and evaluation should respect the recommendations provided below (see Section 5.15) [247]. In stage T1 and higher or for difficult cases, an additional review by an experienced genitourinary pathologist can be considered [79, 248, 249]. Table 5.1 TURBT checklist*   TURBT checklist - In the Operating Room Check the operating room setup Instruments (sheath, resectoscope, loops, roller if needed, monopolar/bipolar), camera, video, strainer, specimen container, catheter if required Decide irrigation fluid Saline, glycine, water Disease characteristics checklist History of BC, tumour characteristics at cystoscopy if any, imaging results if any, first or second look, visual optimisation planned, risk classification Cystoscopy/TURB Cystoscopy Urethra/prostate (males) Ureteral orifices Diverticula Tumour location, number, size, appearance (papillary/sessile), CIS (yes/no) Tumour visualisation methods, if used Urine for cytology/bladder wash TURBT Resection technique (standard/ en-bloc /cold cup/roller ball cautery) Depth of resection Complete/incomplete resection Prostatic urethra biopsy, if performed Any additional procedure, i.e. retrograde contrast study Estimated blood loss (based on blood count results, if required) Intra-operative complications, if any Intravesical therapy, if given or planned in recovery setting *Adapted with permission from Mostafid et al. and Suarez-Ibarrola et al. [158, 250].  BC = bladder cancer; CIS = carcinoma in situ; TURBT = transurethral resection of the bladder tumour.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "TURBT checklist - In the Operating Room"
+            ],
+            [
+              "Check the operating room setup",
+              "Instruments (sheath, resectoscope, loops, roller if needed, monopolar/bipolar), camera, video, strainer, specimen container, catheter if required"
+            ],
+            [
+              "Decide irrigation fluid",
+              "Saline, glycine, water"
+            ],
+            [
+              "Disease characteristics checklist",
+              "History of BC, tumour characteristics at cystoscopy if any, imaging results if any, first or second look, visual optimisation planned, risk classification"
+            ],
+            [
+              "Cystoscopy/TURB"
+            ],
+            [
+              "Cystoscopy",
+              "Urethra/prostate (males)"
+            ],
+            [
+              "Ureteral orifices"
+            ],
+            [
+              "Diverticula"
+            ],
+            [
+              "Tumour location, number, size, appearance (papillary/sessile), CIS (yes/no)"
+            ],
+            [
+              "Tumour visualisation methods, if used"
+            ],
+            [
+              "Urine for cytology/bladder wash"
+            ],
+            [
+              "TURBT",
+              "Resection technique (standard/en-bloc/cold cup/roller ball cautery)"
+            ],
+            [
+              "Depth of resection"
+            ],
+            [
+              "Complete/incomplete resection"
+            ],
+            [
+              "Prostatic urethra biopsy, if performed"
+            ],
+            [
+              "Any additional procedure, i.e. retrograde contrast study"
+            ],
+            [
+              "Estimated blood loss (based on blood count results, if required)"
+            ],
+            [
+              "Intra-operative complications, if any"
+            ],
+            [
+              "Intravesical therapy, if given or planned in recovery setting"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-15-summary-of-evidence-and-recommendations-for-turbt-biopsies-and-pathology-report",
+      "title": "5.15. Summary of evidence and recommendations for TURBT, biopsies and pathology report",
+      "level": 3,
+      "text": "Summary of evidence LE Transurethral resection of the bladder tumour followed by pathology investigation of the obtained specimen(s) is an essential step in the management of NMIBC. 1 The absence of detrusor muscle in the specimen is associated with a significantly higher risk of residual disease and tumour under-staging (with the exception of Ta LG/G1 tumours). 2b A second TURBT can detect residual tumours and tumour under-staging, increase RFS, improve outcomes after BCG treatment and provide prognostic information. 2 Photodynamic diagnosis has been shown to improve the detection of BC, especially CIS. 1a Recommendations Strength rating Perform a transurethral resection of the bladder tumour (TURBT) followed by pathology investigation of the obtained specimen(s) as a diagnostic procedure and initial treatment step in patients suspected of having bladder cancer (BC). Strong Perform TURBT systematically in individual steps: bimanual palpation under anaesthesia before starting the procedure and at the end; insertion of the resectoscope, under visual control with inspection of the whole urethra; thorough inspection of the whole urothelial lining of the bladder; biopsy from the prostatic urethra (if indicated); cold-cup bladder biopsies (if indicated); resection of the tumour; recording of findings in the surgery report/record including visual impression of grade/stage; and precise description of the specimen(s) for pathology evaluation. Strong Performance of individual steps Perform en-bloc resection or resection in fractions. Strong Avoid cauterisation as much as possible during TURBT to avoid tissue deterioration. Strong Take biopsies from abnormal-looking urothelium. Strong Take multiple biopsies (mapping biopsies from the trigone, bladder dome, right, left, anterior and posterior bladder wall) or perform fluorescence-guided (photodynamic diagnosis [PDD]) biopsies, in case of normal upper tract on contrast computed tomography, normal-looking urothelium at cystoscopy, and positive urine cytology. Strong Take a sample of the prostatic urethra if there is positive urine cytology without evidence of tumour in the bladder, or if abnormalities of the prostatic urethra are visible (see Section 5.11.2). Strong Take a sample biopsy of the prostatic urethra in cases of bladder neck tumour, suspicion of bladder carcinoma in situ (CIS) and/or T1 disease. If a sample was not taken during the initial procedure, it should be performed at the time of second resection, if the latter is needed (see Section 5.11.2). Weak Use methods to improve tumour visualisation during TURBT, if available. Weak Refer the specimens from different biopsies and resection fractions to the pathologist in separately labelled containers. Submit the tumour base separately, especially in large and multifocal tumours or when en-bloc resection is not feasible. Weak The TURBT record must describe tumour location, appearance, size and multifocality, all steps of the procedure, extent, macroscopic completeness of resection as well as any complications. Strong In patients with positive cytology but negative cystoscopy, exclude an upper tract urothelial carcinoma, CIS in the bladder (by mapping biopsies or PDD-guided biopsies) and tumour in the prostatic urethra (by prostatic urethra biopsy). Strong Perform a second TURBT in the following situations: after incomplete initial TURBT, or in case of doubt about completeness of a TURBT; if there is no detrusor muscle in the specimen after initial resection, with the exception of Ta LG/G1 tumours and primary CIS; or in T1 tumours. Strong If indicated, perform a second TURBT within two to six weeks after the initial resection. This second TURBT should include resection of the primary tumour site. Weak Inform the pathologist of prior treatments (intravesical therapy, radiotherapy, etc.). Strong The pathological report should specify tumour location, tumour grade and stage, lymphovascular invasion, subtypes of urothelial carcinoma, presence of CIS and detrusor muscle. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Transurethral resection of the bladder tumour followed by pathology investigation of the obtained specimen(s) is an essential step in the management of NMIBC.",
+              "1"
+            ],
+            [
+              "The absence of detrusor muscle in the specimen is associated with a significantly higher risk of residual disease and tumour under-staging (with the exception of Ta LG/G1 tumours).",
+              "2b"
+            ],
+            [
+              "A second TURBT can detect residual tumours and tumour under-staging, increase RFS, improve outcomes after BCG treatment and provide prognostic information.",
+              "2"
+            ],
+            [
+              "Photodynamic diagnosis has been shown to improve the detection of BC, especially CIS.",
+              "1a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform a transurethral resection of the bladder tumour (TURBT) followed by pathology investigation of the obtained specimen(s) as a diagnostic procedure and initial treatment step in patients suspected of having bladder cancer (BC).",
+              "Strong"
+            ],
+            [
+              "Perform TURBT systematically in individual steps:bimanual palpation under anaesthesia before starting the procedure and at the end;insertion of the resectoscope, under visual control with inspection of the whole urethra;thorough inspection of the whole urothelial lining of the bladder;biopsy from the prostatic urethra (if indicated);cold-cup bladder biopsies (if indicated);resection of the tumour;recording of findings in the surgery report/record including visual impression of grade/stage; andprecise description of the specimen(s) for pathology evaluation.",
+              "Strong"
+            ],
+            [
+              "Performance of individual steps"
+            ],
+            [
+              "Perform en-bloc resection or resection in fractions.",
+              "Strong"
+            ],
+            [
+              "Avoid cauterisation as much as possible during TURBT to avoid tissue deterioration.",
+              "Strong"
+            ],
+            [
+              "Take biopsies from abnormal-looking urothelium.",
+              "Strong"
+            ],
+            [
+              "Take multiple biopsies (mapping biopsies from the trigone, bladder dome, right, left, anterior and posterior bladder wall) or perform fluorescence-guided (photodynamic diagnosis [PDD]) biopsies, in case of normal upper tract on contrast computed tomography, normal-looking urothelium at cystoscopy, and positive urine cytology.",
+              "Strong"
+            ],
+            [
+              "Take a sample of the prostatic urethra if there is positive urine cytology without evidence of tumour in the bladder, or if abnormalities of the prostatic urethra are visible (see Section 5.11.2).",
+              "Strong"
+            ],
+            [
+              "Take a sample biopsy of the prostatic urethra in cases of bladder neck tumour, suspicion of bladder carcinoma in situ (CIS) and/or T1 disease. If a sample was not taken during the initial procedure, it should be performed at the time of second resection, if the latter is needed (see Section 5.11.2).",
+              "Weak"
+            ],
+            [
+              "Use methods to improve tumour visualisation during TURBT, if available.",
+              "Weak"
+            ],
+            [
+              "Refer the specimens from different biopsies and resection fractions to the pathologist in separately labelled containers. Submit the tumour base separately, especially in large and multifocal tumours or when en-bloc resection is not feasible.",
+              "Weak"
+            ],
+            [
+              "The TURBT record must describe tumour location, appearance, size and multifocality, all steps of the procedure, extent, macroscopic completeness of resection as well as any complications.",
+              "Strong"
+            ],
+            [
+              "In patients with positive cytology but negative cystoscopy, exclude an upper tract urothelial carcinoma, CIS in the bladder (by mapping biopsies or PDD-guided biopsies) and tumour in the prostatic urethra (by prostatic urethra biopsy).",
+              "Strong"
+            ],
+            [
+              "Perform a second TURBT in the following situations:after incomplete initial TURBT, or in case of doubt about completeness of a TURBT;if there is no detrusor muscle in the specimen after initial resection, with the exception of Ta LG/G1 tumours and primary CIS; orin T1 tumours.",
+              "Strong"
+            ],
+            [
+              "If indicated, perform a second TURBT within two to six weeks after the initial resection. This second TURBT should include resection of the primary tumour site.",
+              "Weak"
+            ],
+            [
+              "Inform the pathologist of prior treatments (intravesical therapy, radiotherapy, etc.).",
+              "Strong"
+            ],
+            [
+              "The pathological report should specify tumour location, tumour grade and stage, lymphovascular invasion, subtypes of urothelial carcinoma, presence of CIS and detrusor muscle.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 5
+}

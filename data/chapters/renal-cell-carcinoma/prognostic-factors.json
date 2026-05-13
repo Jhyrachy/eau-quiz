@@ -1,0 +1,746 @@
+{
+  "guideline": "renal-cell-carcinoma",
+  "chapter": "prognostic-factors",
+  "url": "https://uroweb.org/guidelines/renal-cell-carcinoma/chapter/prognostic-factors",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Future goals",
+      "anchor": "#2-3-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AETIOLOGY AND PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology",
+      "anchor": "#3-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Aetiology",
+      "anchor": "#3-2-aetiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Screening",
+      "anchor": "#3-3-screening"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Summary of evidence and recommendations for epidemiology, aetiology and screening",
+      "anchor": "#3-3-1-summary-of-evidence-and-recommendations-for-epidemiology-aetiology-and-screening"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Histological diagnosis",
+      "anchor": "#3-4-histological-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Clear-cell RCC",
+      "anchor": "#3-4-1-clear-cell-rcc"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Papillary RCC",
+      "anchor": "#3-4-2-papillary-rcc"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Chromophobe RCC",
+      "anchor": "#3-4-3-chromophobe-rcc"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Other renal tumours",
+      "anchor": "#3-5-other-renal-tumours"
+    },
+    {
+      "level": 4,
+      "text": "3.5.1. Renal medullary carcinoma (SMARCB1-deficient renal medullary carcinoma)",
+      "anchor": "#3-5-1-renal-medullary-carcinoma-smarcb1-deficient-renal-medullary-carcinoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.2. Carcinoma associated with end-stage renal disease; acquired cystic disease-associated RCC",
+      "anchor": "#3-5-2-carcinoma-associated-with-end-stage-renal-disease-acquired-cystic-disease-associated-rcc"
+    },
+    {
+      "level": 4,
+      "text": "3.5.3. Papillary adenoma",
+      "anchor": "#3-5-3-papillary-adenoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.4. Renal oncocytoma",
+      "anchor": "#3-5-4-renal-oncocytoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.5. Other oncocytic tumours of the kidney",
+      "anchor": "#3-5-5-other-oncocytic-tumours-of-the-kidney"
+    },
+    {
+      "level": 4,
+      "text": "3.5.6. Classical angiomyolipoma",
+      "anchor": "#3-5-6-classical-angiomyolipoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.7. Cystic renal tumours",
+      "anchor": "#3-5-7-cystic-renal-tumours"
+    },
+    {
+      "level": 3,
+      "text": "3.6. Summary of evidence and recommendations for the management of other renal tumours",
+      "anchor": "#3-6-summary-of-evidence-and-recommendations-for-the-management-of-other-renal-tumours"
+    },
+    {
+      "level": 2,
+      "text": "4. STAGING AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-staging-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Staging",
+      "anchor": "#4-1-staging"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Anatomic classification systems",
+      "anchor": "#4-2-anatomic-classification-systems"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION",
+      "anchor": "#5-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Symptoms",
+      "anchor": "#5-1-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Physical examination",
+      "anchor": "#5-1-1-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Laboratory findings",
+      "anchor": "#5-1-2-laboratory-findings"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Imaging investigations",
+      "anchor": "#5-2-imaging-investigations"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Computed tomography",
+      "anchor": "#5-2-1-computed-tomography"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Magnetic resonance imaging",
+      "anchor": "#5-2-2-magnetic-resonance-imaging"
+    },
+    {
+      "level": 4,
+      "text": "5.2.3. Other investigations and emerging technologies",
+      "anchor": "#5-2-3-other-investigations-and-emerging-technologies"
+    },
+    {
+      "level": 4,
+      "text": "5.2.4. Radiographic investigations to evaluate RCC metastases",
+      "anchor": "#5-2-4-radiographic-investigations-to-evaluate-rcc-metastases"
+    },
+    {
+      "level": 4,
+      "text": "5.2.5. Bosniak classification of renal cystic masses",
+      "anchor": "#5-2-5-bosniak-classification-of-renal-cystic-masses"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Renal tumour biopsy",
+      "anchor": "#5-3-renal-tumour-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Indications and rationale",
+      "anchor": "#5-3-1-indications-and-rationale"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Technique",
+      "anchor": "#5-3-2-technique"
+    },
+    {
+      "level": 4,
+      "text": "5.3.3. Diagnostic yield and accuracy",
+      "anchor": "#5-3-3-diagnostic-yield-and-accuracy"
+    },
+    {
+      "level": 4,
+      "text": "5.3.4. Morbidity",
+      "anchor": "#5-3-4-morbidity"
+    },
+    {
+      "level": 4,
+      "text": "5.3.5. Genetic assessment",
+      "anchor": "#5-3-5-genetic-assessment"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Summary of evidence and recommendations for the diagnostic assessment of RCC",
+      "anchor": "#5-4-summary-of-evidence-and-recommendations-for-the-diagnostic-assessment-of-rcc"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Summary of evidence and recommendations for genetic assessment of RCC",
+      "anchor": "#5-5-summary-of-evidence-and-recommendations-for-genetic-assessment-of-rcc"
+    },
+    {
+      "level": 2,
+      "text": "6. PROGNOSTIC FACTORS",
+      "anchor": "#6-prognostic-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Definition and classification",
+      "anchor": "#6-1-definition-and-classification"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Anatomical factors",
+      "anchor": "#6-2-anatomical-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Histological factors",
+      "anchor": "#6-3-histological-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Clinical factors",
+      "anchor": "#6-4-clinical-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Frailty and comprehensive geriatric assessment",
+      "anchor": "#6-4-1-frailty-and-comprehensive-geriatric-assessment"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Nephrological assessment",
+      "anchor": "#6-4-2-nephrological-assessment"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Molecular factors",
+      "anchor": "#6-5-molecular-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Prognostic models",
+      "anchor": "#6-6-prognostic-models"
+    },
+    {
+      "level": 3,
+      "text": "6.7. Summary of evidence and recommendations for prognostic factors",
+      "anchor": "#6-7-summary-of-evidence-and-recommendations-for-prognostic-factors"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT",
+      "anchor": "#7-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Patient involvement in kidney cancer treatment",
+      "anchor": "#7-1-patient-involvement-in-kidney-cancer-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.1.1. Recommendation on patient involvement and shared decision making",
+      "anchor": "#7-1-1-recommendation-on-patient-involvement-and-shared-decision-making"
+    },
+    {
+      "level": 4,
+      "text": "7.1.2. Smoking cessation",
+      "anchor": "#7-1-2-smoking-cessation"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Treatment of localised RCC",
+      "anchor": "#7-2-treatment-of-localised-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. Introduction",
+      "anchor": "#7-2-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Surgical treatment",
+      "anchor": "#7-2-2-surgical-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Radical and partial nephrectomy techniques",
+      "anchor": "#7-2-3-radical-and-partial-nephrectomy-techniques"
+    },
+    {
+      "level": 4,
+      "text": "7.2.4. Therapeutic approaches as alternatives to surgery",
+      "anchor": "#7-2-4-therapeutic-approaches-as-alternatives-to-surgery"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Treatment of locally advanced RCC",
+      "anchor": "#7-3-treatment-of-locally-advanced-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Introduction",
+      "anchor": "#7-3-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Role of lymph node dissection in locally advanced RCC",
+      "anchor": "#7-3-2-role-of-lymph-node-dissection-in-locally-advanced-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. Management of RCC with venous tumour thrombus",
+      "anchor": "#7-3-3-management-of-rcc-with-venous-tumour-thrombus"
+    },
+    {
+      "level": 4,
+      "text": "7.3.4. Management of locally advanced unresectable RCC",
+      "anchor": "#7-3-4-management-of-locally-advanced-unresectable-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.3.5. Neoadjuvant and adjuvant therapy",
+      "anchor": "#7-3-5-neoadjuvant-and-adjuvant-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Therapy of oligometastatic disease",
+      "anchor": "#7-4-2-therapy-of-oligometastatic-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.5.1. Chemotherapy",
+      "anchor": "#7-5-1-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.5.2. Targeted therapies",
+      "anchor": "#7-5-2-targeted-therapies"
+    },
+    {
+      "level": 4,
+      "text": "7.5.3. Immunotherapy",
+      "anchor": "#7-5-3-immunotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.5.4. Therapeutic strategies",
+      "anchor": "#7-5-4-therapeutic-strategies"
+    },
+    {
+      "level": 3,
+      "text": "7.6. Locally recurrent RCC after treatment of localised disease",
+      "anchor": "#7-6-locally-recurrent-rcc-after-treatment-of-localised-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.6.1. Locally recurrent RCC after nephron-sparing approaches",
+      "anchor": "#7-6-1-locally-recurrent-rcc-after-nephron-sparing-approaches"
+    },
+    {
+      "level": 4,
+      "text": "7.6.2. Locally recurrent RCC after radical nephrectomy",
+      "anchor": "#7-6-2-locally-recurrent-rcc-after-radical-nephrectomy"
+    },
+    {
+      "level": 4,
+      "text": "7.6.3. Summary of evidence and recommendation on locally recurrent RCC after treatment of localised disease",
+      "anchor": "#7-6-3-summary-of-evidence-and-recommendation-on-locally-recurrent-rcc-after-treatment-of-localised-disease"
+    },
+    {
+      "level": 2,
+      "text": "8. HEREDITARY AND SYNDROME SPECIFIC RCC",
+      "anchor": "#8-hereditary-and-syndrome-specific-rcc"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Microphthalmia-associated transcription factors (MiTF) associated translocation tumours",
+      "anchor": "#8-1-microphthalmia-associated-transcription-factors-mitf-associated-translocation-tumours"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Management of hereditary and syndrome-specific RCC",
+      "anchor": "#8-2-management-of-hereditary-and-syndrome-specific-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.1. Von Hippel-Lindau-disease-associated RCC",
+      "anchor": "#8-2-1-von-hippel-lindau-disease-associated-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.2. TFE3-rearranged RCC",
+      "anchor": "#8-2-2-tfe3-rearranged-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.3. TFEB-altered RCC",
+      "anchor": "#8-2-3-tfeb-altered-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.4. Combined therapy for TFE3- and TFEB-altered RCCs",
+      "anchor": "#8-2-4-combined-therapy-for-tfe3--and-tfeb-altered-rccs"
+    },
+    {
+      "level": 4,
+      "text": "8.2.5. Summary of evidence and recommendation for hereditary and syndrome-specific RCC",
+      "anchor": "#8-2-5-summary-of-evidence-and-recommendation-for-hereditary-and-syndrome-specific-rcc"
+    },
+    {
+      "level": 2,
+      "text": "9. FOLLOW UP",
+      "anchor": "#9-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Introduction",
+      "anchor": "#9-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Which imaging investigations for which patients, and when?",
+      "anchor": "#9-2-which-imaging-investigations-for-which-patients-and-when"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Summary of evidence and recommendations for surveillance following RN or PN or ablative therapies in RCC",
+      "anchor": "#9-3-summary-of-evidence-and-recommendations-for-surveillance-following-rn-or-pn-or-ablative-therapies-in-rcc"
+    },
+    {
+      "level": 2,
+      "text": "10. REFERENCES",
+      "anchor": "#10-references"
+    },
+    {
+      "level": 2,
+      "text": "11. CONFLICT OF INTEREST",
+      "anchor": "#11-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "12. CITATION INFORMATION",
+      "anchor": "#12-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "13. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#13-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#renal-cell-carcinoma",
+      "title": "Renal Cell Carcinoma",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 6. Prognostic Factors Introduction Methods Epidemiology Aetiology And Pathology Staging And Classification Systems Diagnostic Evaluation Prognostic Factors Disease Management Hereditary And Syndrome Specific Rcc Follow Up References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#6-prognostic-factors",
+      "title": "6. PROGNOSTIC FACTORS",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-definition-and-classification",
+      "title": "6.1. Definition and classification",
+      "level": 3,
+      "text": "Prognostic factors are defined as variables associated with clinical endpoints (i.e. recurrence, progression and survival) independent of a treatment, thereby reflecting the natural course of the disease. Predictive factors, in contrast, provide information on the effectiveness (i.e. response, progression, survival) of a specific treatment. Notably, there is substantial overlap between the two categories, because prognostic factors may also serve as predictive factors and vice versa. Both can be classified into anatomical, histological, clinical and molecular factors.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-2-anatomical-factors",
+      "title": "6.2. Anatomical factors",
+      "level": 3,
+      "text": "Tumour size, venous invasion and extension, collecting system invasion, perinephric- and sinus fat invasion, adrenal involvement and LN and distant metastasis are included in the TNM classification system [90,102] (see Table 4.1).",
+      "tables": []
+    },
+    {
+      "anchor": "#6-3-histological-factors",
+      "title": "6.3. Histological factors",
+      "level": 3,
+      "text": "Histological factors include tumour grade, RCC subtype, lymphovascular invasion, tumour necrosis and invasion of the collecting system [207,208]. Tumour grade is considered one of the most important histological prognostic factors. The Fuhrman nuclear grade [209] has now been replaced by the WHO/ISUP grading classification [210]. This relies solely on nucleolar prominence for grade 1-3 tumours, allowing for less interobserver variation [211]. It has been shown that the WHO/ISUP grading provides superior prognostic information compared to Fuhrman grading, particularly for grade 2 and grade 3 tumours [212]. Rhabdoid and sarcomatoid changes can be found in all RCC types and are equivalent to grade 4 tumours. Sarcomatoid changes are more often found in chRCC than other subtypes [213]. The percentage of the sarcomatoid component appears to be prognostic as well, with a larger percentage of involvement being associated with worse survival. There is no agreement on the optimal prognostic cut-off for subclassifying sarcomatoid changes [214,215], although 20% has been suggested to distinguish focal and extensive amount of sarcomatoid features [216]. The WHO/ISUP grading system is applicable to both ccRCC and pRCC. Grading chRCC is currently not recommended. However, a study suggested a two-tiered chRCC grading system (low vs. high grade) based on the presence of sarcomatoid differentiation and/or tumour necrosis, which was statistically significant on multivariable analysis [217]. Both the WHO/ISUP and chRCC grading systems must be validated for prognostic systems and nomograms [210]. Renal cell carcinoma subtype is regarded as another important prognostic factor. On univariable analysis, patients with chRCC vs. pRCC vs. ccRCC had a better prognosis [218,219] (Table 6.1). However, prognostic information provided by the RCC type is lost when stratified according to tumour stage [219,220] (LE: 3). Table 6.1: Cancer-specific survival by stage [218] Grade HR (95% CI) T1N0M0 Referent T2N0M0 2.71 (2.17-3.39) T3N0M0 5.20 (4.36-6.21) T4N0M0 16.88 (12.40-22.98) N+M0 16.33 (12.89-20.73) M+ 33.23 (28.18-39.18) CI = confidence interval; HR = hazard ratio.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Grade",
+              "HR (95% CI)"
+            ],
+            [
+              "T1N0M0",
+              "Referent"
+            ],
+            [
+              "T2N0M0",
+              "2.71 (2.17-3.39)"
+            ],
+            [
+              "T3N0M0",
+              "5.20 (4.36-6.21)"
+            ],
+            [
+              "T4N0M0",
+              "16.88 (12.40-22.98)"
+            ],
+            [
+              "N+M0",
+              "16.33 (12.89-20.73)"
+            ],
+            [
+              "M+",
+              "33.23 (28.18-39.18)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-4-clinical-factors",
+      "title": "6.4. Clinical factors",
+      "level": 3,
+      "text": "Clinical factors include performance status (PS), local symptoms, early versus late recurrence, cachexia, anaemia, platelet count, neutrophil count, lymphocyte count, CRP [229], albumin and various indices deriving from these factors, such as the neutrophil-to-lymphocyte ratio (NLR) [118,230-236] (LE: 3). As a marker of systemic inflammatory response, a high preoperative NLR has been associated with poor prognosis [237], but there is significant heterogeneity in the data and no agreement on the optimal prognostic cut-off. Even though obesity is an aetiological factor for RCC, it has also been observed to provide prognostic information. A high body mass index (BMI) appears to be associated with improved survival outcomes in both non-metastatic and metastatic RCC [238-240]. This association is linear with regards to cancer-specific mortality (CSM), while RCC patients with obesity show increasing all-cause mortality with increasing BMI [241]. Evidence is also available on the prognostic value of body composition indices measured on cross-sectional imaging, such as sarcopenia and fat accumulation [235,242,243]. Health-related quality of life (HRQoL) at baseline and during treatment of mRCC may also be prognostic. In CheckMate 214, HRQoL measured by the Functional Assessment of Cancer Therapy Kidney Symptom Index 19 at baseline and during follow-up was associated with improved OS in both the ipilimumab+nivolumab and the sunitinib arm [244]. Perioperative blood transfusion is linked to worse cancer-specific and overall mortality, as well as a higher risk of recurrence. However, receiving one to two units of packed red blood cells does not significantly impact outcomes compared to receiving three or more units. Notably, intraoperative transfusion is associated with higher cancer-specific mortality and recurrence, while postoperative transfusion is not [245].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-4-1-frailty-and-comprehensive-geriatric-assessment",
+      "title": "6.4.1. Frailty and comprehensive geriatric assessment",
+      "level": 4,
+      "text": "Frailty is a geriatric syndrome characterised by a decline in individuals’ resilience and physiological functional reserve across multiple body systems, resulting in increased vulnerability to external stressors [246,247]. Frailty is an adverse prognostic factor in older patients with localized RCC, being associated with worse perioperative outcomes as well as poorer oncological outcomes across different stages [246]. Several instruments have been developed and implemented in clinical practice for the diagnosis and measurement of frailty [247]. Among these, the G8 (Geriatric 8) health status screening tool, which assesses several patient variables (age, perceived health status, food intake, weight loss, BMI, mobility, neuropsychology, and polypharmacy), is widely used in oncogeriatrics to identify older cancer patients who could benefit from geriatric assessment, and has been validated to predict health outcomes in older cancer patients [247]. The EAU Guidelines Office has endorsed the G8 score as a screening tool for frailty [248-250]. Referral to comprehensive geriatric assessment (CGA), performed by dedicated geriatricians, is advised in patients with a G8 score ≤ 14/17 [247]. The CGA explores several domains: functional capacity, polypharmacy, performance status, cognition, social support, psychological status and nutritional status. The CGA can identify frailty and risk of geriatric syndromes, as well as support clinical decision-making in both localised and metastatic RCC [247,251]. Multidisciplinary management of patients characterised as frail after CGA is essential. Table 6.2 Frailty and geriatric assessment factors",
+      "tables": []
+    },
+    {
+      "anchor": "#6-4-2-nephrological-assessment",
+      "title": "6.4.2. Nephrological assessment",
+      "level": 4,
+      "text": "Renal function considerations are key for shared decision-making in patients with localised RCC, considering the bidirectional relationship between RCC and chronic kidney disease (CKD) [252]. Selected patients who are candidate for treatment for RCC may benefit from nephrological consultation, including patients with pre-existing stage 3-5 CKD or proteinuria; patients with a solitary kidney, especially those with borderline/known CKD. Patients with known medical comorbidities that may potentially affect renal function; and patients whose expected new baseline renal function after surgery is below 45ml/min./1.73m 2 . To date, while several models have been proposed for predicting postoperative renal function after RCC surgery, most relied on retrospective cohorts, had a high risk of bias and high concern regarding the applicability of the proposed model. As such, most of these models are not ready for routine clinical practice, while a few have been externally validated [253]. In such patients, nephrological consultation before treatment can recommend further diagnostic tests for CKD, optimise CKD risk factors (e.g. hypertension, hyperglycaemia, obesity, etc.), recommend specific lifestyle and/or medical interventions to decrease the risk of acute kidney injury or renal function deterioration after treatment and improve shared decision-making [254].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-5-molecular-factors",
+      "title": "6.5. Molecular factors",
+      "level": 3,
+      "text": "Numerous molecular markers such as carbonic anhydrase IX (CaIX), VEGF, HIF, Ki67 (proliferation), p53, p21 [255], PTEN (phosphatase and tensin homolog) cell cycle [256], E-cadherin, osteopontin [257] CD44 (cell adhesion) [258,259], CXCR4 [260], PD-L1 [261], miRNA, SNPs, gene mutations, and gene methylations have been investigated (LE: 3) [262]. While the majority of these markers are associated with prognosis and many improve the discrimination of current prognostic models, very little emphasis has been placed on external validation studies. Moreover, there is no conclusive evidence on the value of molecular markers for treatment selection in mRCC [229,261,263]. The routine use of molecular markers in clinical practice is therefore not recommended. Several prognostic and predictive marker signatures have been described for specific systemic treatments in mRCC. In the JAVELIN Renal 101 trial (NCT02684006), a 26-gene immunomodulatory gene signature predicted PFS in those treated with avelumab plus axitinib, while an angiogenesis gene signature was associated with PFS for sunitinib. Mutational profiles and histocompatibility leukocyte antigen types were also associated with PFS, while programmed death-ligand 1 (PD-L1) expression and tumour mutational burden were not [264]. In IMmotion151 (NCT02420821), a T effector/IFN-γ-high or angiogenesis-low gene expression signature predicted improved PFS for atezolizumab plus bevacizumab compared to sunitinib. The angiogenesis-high gene expression signature correlated with longer PFS in patients treated with sunitinib [265]. In CheckMate214 (NCT02231749), a higher angiogenesis gene signature score was associated with better overall response rates and PFS for sunitinib, while a lower angiogenesis score was associated with higher overall relative risk in those treated with nivolumab plus ipilimumab. Progression-free survival > 18 months was more often seen in patients with higher expression of Hallmark inflammatory response and Hallmark epithelial mesenchymal transition gene sets [235]. Urinary and plasma Kidney-Injury Molecule-1 (KIM-1) has been identified as a potential diagnostic and prognostic marker. With KIM-1 concentrations are elevated in RCC patients at least up to five years before diagnosis and were associated with a shorter survival time [266]. Kidney-Injury Molecule-1 is a glycoprotein marker of acute proximal tubular injury and therefore mainly expressed in RCC derived from the proximal tubules such as ccRCC and pRCC [267]. In the CheckMate214 trial comparing ipilimumab plus nivolumab with sunitinib, higher baseline serum KIM-1 levels were associated with shorter OS. A decline in KIM-1 levels correlated with improved PFS and OS in patients treated with ipilimumab and nivolumab [268]. In a post hoc analysis of the IMmotion010 trial in patients with high-risk resected RCC, elevated baseline plasma KIM-1 levels were linked to worse disease-free survival (DFS), but also to improved DFS in those receiving adjuvant atezolizumab versus placebo [269]. These findings suggest that KIM-1 is a promising biomarker and warrants further investigation. Another promising marker is the urinary glycosaminoglycan score (GAGome) for detecting recurrence after curative surgery for ccRCC. In a prospective study (AURORAX-0087A), the score demonstrated 90% sensitivity and 51% specificity for radiologically confirmed recurrence [270]. A validation study is currently underway. Several retrospective studies and large molecular screening programmes have identified mutated genes and chromosomal changes in ccRCC with distinct clinical outcomes. The expression of the BAP1 and PBRM1 genes, situated on chromosome 3p in a region that is deleted in more than 90% of ccRCCs, have shown to be independent prognostic factors for tumour recurrence [271-274]. These published reports suggest that patients with BAP1 mutant tumours have worse outcomes compared with patients with PBRM1 mutant tumours [272]. Loss of chromosome 9p and 14q have been consistently shown to be associated with poorer survival [275-277]. The TRACERx renal consortium has proposed a genetic classification based on RCC evolution (punctuated vs. branched vs. linear), which correlates with tumour aggressiveness and survival [276]. Additionally, a 16-gene signature was shown to predict DFS in patients with non-metastatic RCC [278]. However, these signatures have not been validated by independent researchers yet.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-6-prognostic-models",
+      "title": "6.6. Prognostic models",
+      "level": 3,
+      "text": "Prognostic models combining independent prognostic factors have been developed and externally validated [279-286]. These models are more accurate than TNM stage or grade alone for predicting clinically relevant oncological outcomes [287] (LE: 3). Before being adopted, new prognostic models should be evaluated and compared to current prognostic models with regards to discrimination, calibration and net benefit. Pathological prognostic factors are used in the Leibovich 2003 score/groups for ccRCC [282]. Prognostic models for non-ccRCC are available, such as the VENUSS score for pRCC [288]. Although both were validated in several studies and showed superior discrimination to other prognostic models, molecular markers are needed [289-292]. In metastatic disease, risk groups assigned by the Memorial Sloan Kettering Cancer Centre (MSKCC) (primarily created in the pre-targeted therapy era and validated in patients receiving targeted therapy) and the IMDC (initially created in the targeted therapy era) differ in 23% of cases [293]. The IMDC model has been used in most of the recent RCTs, including those with immune checkpoint inhibitors (ICIs), and may therefore be the preferred model for clinical practice. The IMDC model has been shown to be of continued use for risk stratifying patients with mRCC treated with contemporary first-line IO combination therapies [294]. The discrimination of the IMDC models improves by additional variables, such as presence of brain metastasis, bone metastasis, liver metastasis, NLR and platelet count [295-298]. Tables 6.3 and 6.4 summarise the current, most-relevant prognostic models.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-7-summary-of-evidence-and-recommendations-for-prognostic-factors",
+      "title": "6.7. Summary of evidence and recommendations for prognostic factors",
+      "level": 3,
+      "text": "Summary of evidence LE In RCC patients, TNM stage, tumour size, grade and RCC subtype provide important prognostic information. 2a The 2003 Leibovich score is a validated prognostic model to predict the short- and long-term risk of metastasis in individual patients with sporadic, unilateral pT1-4 N0/+ M0 ccRCC. 2b The VENUSS score is a validated prognostic model to predict the short- and long-term risk of disease recurrence in individual patients with sporadic, unilateral pT1-4 N0/+ M0 pRCC. 2b Frailty is associated with adverse clinical outcomes in patients undergoing treatment for non-metastatic RCC. 3 There is a bidirectional relationship between RCC and CKD. 3 Recommendations Strength rating Use the current Tumour, Node, Metastasis classification system. Strong Use the WHO/ISUP grading system and classify RCC type. Strong Use prognostic models in localised and metastatic disease. Strong Use the 2003 Leibovich scoring model for risk stratification of localised and locally advanced clear cell RCC. Weak Use the VENUSS scoring model for risk stratification of localised and locally advanced papillary RCC. Weak Do not routinely use molecular markers to assess prognosis. Strong Screen elderly patients with a renal mass/RCC with a validated geriatric frailty score to identify patients at risk for frailty. Weak Offer comprehensive geriatric assessment in elderly patients whose screening revealed a risk for frailty. Weak Offer pre-treatment nephrological consultation in selected patients with or at risk for impaired renal function (e.g. pre-existing chronic kidney disease or proteinuria; solitary kidney, known medical comorbidities affecting renal function; new baseline eGFR below 45ml/min./1.73m 2 ) Weak eGFR = estimated glomerular filtration rate; ISUP = International Society of Urological Pathology; WHO = World health organisation; VENUSS = venous involvement, necrosis, size, stage and sarcomatoid differentiation. Table 6.3: Prognostic models for localised RCC Prognostic model Subtype* Risk factors/prognostic factors UISS** [299] All ECOG PS T classification N classification (N+ classified as metastatic) Grade T1N0M0G1-2, ECOG PS 0: low-risk disease T3N0M0G2-4, ECOG PS ≥ 1 OR T4N0M0: high-risk disease Any other N0M0: intermediate-risk disease Leibovich score/model 2003 [282] CC T classification (pT1a: 0, pT1b: 2, pT2:3, pT3-4: 4 points) N classification (pNx/N0: 0, pN+: 2 points) Tumour size (< 10 cm: 0, ≥ 10 cm: 1 point) Grade (G1-2: 0, G3: 1, G4: 3 points) 5. Tumour necrosis (absent: 0, present: 1 point) 0-2 points: low-risk disease 3-5 points: intermediate-risk disease 6 or more points: high-risk disease Leibovich score/model 2018 [300] CC, P, CH ccRCC Progression (nine factors): constitutional symptoms, grade, tumour necrosis, sarcomatoid features, tumour size, perinephric or sinus fat invasion, tumour thrombus level, extension beyond kidney, nodal involvement. Cancer-specific survival (12 factors): age, ECOG PS, constitutional symptoms, adrenalectomy, surgical margins, grade, tumour necrosis, sarcomatoid features, tumour size, perinephric or sinus fat invasion, tumour thrombus, nodal involvement. No risk groups /prognostic groups. pRCC Low risk (group 1): grade 1-2, no fat invasion, no tumour thrombus. Intermediate risk (group 2): grade 3, no fat invasion, no tumour thrombus. High risk (group 3): grade 4 or fat invasion or any level tumour thrombus. chRCC Low risk (group 1): no fat invasion, no sarcomatoid differentiation, no nodal involvement. Intermediate risk (group 2): fat invasion and no sarcomatoid differentiation and no nodal involvement. High risk (group 3): sarcomatoid differentiation or nodal involvement. VENUSS score/model*** [288,289] P T classification (pT1: 0, pT2: 1, pT3-4: 2 points) N classification (pNx/pN0: 0, pN1: 3 points) Tumour size (≤ 4 cm: 0, > 4 cm: 2 points) Grade (G1/2: 0, G3/4: 2 points) Tumour thrombus (absent: 0, present: 2 points) 0-2 points: low-risk disease 3-5 points: intermediate-risk disease 6 or more points: high-risk disease GRANT score/model**** [301] All Age > 60 years T classification = T3b, pT3c or pT4 N classification = pN1 (Fuhrman) grade = G3 or G4 0-1 factors: favourable-risk disease 2 or more factors: unfavourable-risk disease * ccRCC = clear-cell RCC; ECOG = Eastern Cooperative Oncology Group; pRCC = papillary RCC; chRCC = chromophobe RCC; PS = performance status. ** University of California Integrated Staging system. Available at https://www.mdcalc.com/ucla-integratedstaging-system-uiss-renal-cell-carcinoma-rcc. *** Venous extension, Nuclear grade, Size, Stage. Available at https://www.evidencio.com/models/show/2369. **** Grade, Age, Nodes and Tumour. Table 6.4: Prognostic models for metastatic RCC Prognostic model Subtype Risk factors/prognostic factors MSKCC [302]** All Karnofsky PS [303]* < 80% Interval from diagnosis to systemic treatment < 1 year Haemoglobin < Lower Limit of Normal Corrected calcium > 10mg/dL/> 2.5mmol/L LDH > 1.5x Upper Limit of Norma",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "In RCC patients, TNM stage, tumour size, grade and RCC subtype provide important prognostic information.",
+              "2a"
+            ],
+            [
+              "The 2003 Leibovich score is a validated prognostic model to predict the short- and long-term risk of metastasis in individual patients with sporadic, unilateral pT1-4 N0/+ M0 ccRCC.",
+              "2b"
+            ],
+            [
+              "The VENUSS score is a validated prognostic model to predict the short- and long-term risk of disease recurrence in individual patients with sporadic, unilateral pT1-4 N0/+ M0 pRCC.",
+              "2b"
+            ],
+            [
+              "Frailty is associated with adverse clinical outcomes in patients undergoing treatment for non-metastatic RCC.",
+              "3"
+            ],
+            [
+              "There is a bidirectional relationship between RCC and CKD.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use the current Tumour, Node, Metastasis classification system.",
+              "Strong"
+            ],
+            [
+              "Use the WHO/ISUP grading system and classify RCC type.",
+              "Strong"
+            ],
+            [
+              "Use prognostic models in localised and metastatic disease.",
+              "Strong"
+            ],
+            [
+              "Use the 2003 Leibovich scoring model for risk stratification of localised and locally advanced clear cell RCC.",
+              "Weak"
+            ],
+            [
+              "Use the VENUSS scoring model for risk stratification of localised and locally advanced papillary RCC.",
+              "Weak"
+            ],
+            [
+              "Do not routinely use molecular markers to assess prognosis.",
+              "Strong"
+            ],
+            [
+              "Screen elderly patients with a renal mass/RCC with a validated geriatric frailty score to identify patients at risk for frailty.",
+              "Weak"
+            ],
+            [
+              "Offer comprehensive geriatric assessment in elderly patients whose screening revealed a risk for frailty.",
+              "Weak"
+            ],
+            [
+              "Offer pre-treatment nephrological consultation in selected patients with or at risk for impaired renal function (e.g. pre-existing chronic kidney disease or proteinuria; solitary kidney, known medical comorbidities affecting renal function; new baseline eGFR below 45ml/min./1.73m2)",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Prognostic model",
+              "Subtype*",
+              "Risk factors/prognostic factors"
+            ],
+            [
+              "UISS** [299]",
+              "All",
+              "ECOG PST classificationN classification (N+ classified as metastatic)GradeT1N0M0G1-2, ECOG PS 0: low-risk diseaseT3N0M0G2-4, ECOG PS ≥ 1 OR T4N0M0: high-risk diseaseAny other N0M0: intermediate-risk disease"
+            ],
+            [
+              "Leibovich score/model 2003 [282]",
+              "CC",
+              "T classification (pT1a: 0, pT1b: 2, pT2:3, pT3-4: 4 points)N classification (pNx/N0: 0, pN+: 2 points)Tumour size (< 10 cm: 0, ≥ 10 cm: 1 point)Grade (G1-2: 0, G3: 1, G4: 3 points)5. Tumour necrosis (absent: 0, present: 1 point)0-2 points: low-risk disease3-5 points: intermediate-risk disease6 or more points: high-risk disease"
+            ],
+            [
+              "Leibovich score/model 2018 [300]",
+              "CC, P, CH",
+              "ccRCCProgression (nine factors): constitutional symptoms, grade, tumour necrosis, sarcomatoid features, tumour size, perinephric or sinus fat invasion, tumour thrombus level, extension beyond kidney, nodal involvement.Cancer-specific survival (12 factors): age, ECOG PS, constitutional symptoms, adrenalectomy, surgical margins, grade, tumour necrosis, sarcomatoid features, tumour size, perinephric or sinus fat invasion, tumour thrombus, nodal involvement.No risk groups /prognostic groups.pRCCLow risk (group 1): grade 1-2, no fat invasion, no tumour thrombus.Intermediate risk (group 2): grade 3, no fat invasion, no tumour thrombus.High risk (group 3): grade 4 or fat invasion or any level tumour thrombus.chRCCLow risk (group 1): no fat invasion, no sarcomatoid differentiation, no nodal involvement.Intermediate risk (group 2): fat invasion and no sarcomatoid differentiation and no nodal involvement.High risk (group 3): sarcomatoid differentiation or nodal involvement."
+            ],
+            [
+              "VENUSS score/model***[288,289]",
+              "P",
+              "T classification (pT1: 0, pT2: 1, pT3-4: 2 points)N classification (pNx/pN0: 0, pN1: 3 points)Tumour size (≤ 4 cm: 0, > 4 cm: 2 points)Grade (G1/2: 0, G3/4: 2 points)Tumour thrombus (absent: 0, present: 2 points)0-2 points: low-risk disease3-5 points: intermediate-risk disease6 or more points: high-risk disease"
+            ],
+            [
+              "GRANT score/model**** [301]",
+              "All",
+              "Age > 60 yearsT classification = T3b, pT3c or pT4N classification = pN1(Fuhrman) grade = G3 or G40-1 factors: favourable-risk disease2 or more factors: unfavourable-risk disease"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Prognostic model",
+              "Subtype",
+              "Risk factors/prognostic factors"
+            ],
+            [
+              "MSKCC [302]**",
+              "All",
+              "Karnofsky PS [303]* < 80%Interval from diagnosis to systemic treatment < 1 yearHaemoglobin < Lower Limit of NormalCorrected calcium > 10mg/dL/> 2.5mmol/LLDH > 1.5x Upper Limit of Normal0 factors: favourable-risk disease1-2 factors: intermediate-risk disease3-5 factors: poor-risk disease"
+            ],
+            [
+              "IMDC [304]***",
+              "All",
+              "Karnofsky PS [303]* < 80%Interval from diagnosis to treatment < 1 yearHaemoglobin < lower limit of normalCorrected calcium > upper limit of normal (i.e. > 10.2mg/dL)Neutrophil count > upper limit of normal (i.e. >  7.0×10⁹/L)Platelet count > upper limit of normal (i.e. > 400,000)0 factors: favourable-risk disease1-2 factors: intermediate-risk disease3-6 factors: poor-risk disease"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 5
+}

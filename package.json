@@ -1,0 +1,15 @@
+{
+  "name": "eau-quiz",
+  "version": "1.0.0",
+  "description": "Client-side MCQ quiz app for [EAU Guidelines](https://uroweb.org/guidelines), hosted on GitHub Pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.60.0"
+  }
+}

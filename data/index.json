@@ -1,0 +1,118 @@
+{
+  "guidelines": [
+    {
+      "slug": "chronic-pelvic-pain",
+      "name": "EAU Guidelines on Chronic Pelvic Pain - INTRODUCTION",
+      "year": 2026,
+      "question_count_estimate": 92
+    },
+    {
+      "slug": "muscle-invasive-and-metastatic-bladder-cancer",
+      "name": "EAU Guidelines on MIBC - Introduction",
+      "year": 2026,
+      "question_count_estimate": 135
+    },
+    {
+      "slug": "non-neurogenic-female-luts",
+      "name": "EAU Guidelines on Non-neurogenic Female LUTS - INTRODUCTION",
+      "year": 2026,
+      "question_count_estimate": 88
+    },
+    {
+      "slug": "paediatric-urology",
+      "name": "EAU Guidelines on Paediatric Urology - INTRODUCTION",
+      "year": 2026,
+      "question_count_estimate": 339
+    },
+    {
+      "slug": "penile-cancer",
+      "name": "EAU Guidelines on Penile Cancer - INTRODUCTION",
+      "year": 2026,
+      "question_count_estimate": 83
+    },
+    {
+      "slug": "primary-urethral-carcinoma",
+      "name": "EAU Guidelines on Primary Urethral Carcinoma - INTRODUCTION",
+      "year": 2026,
+      "question_count_estimate": 55
+    },
+    {
+      "slug": "prostate-cancer",
+      "name": "EAU Guidelines on Prostate Cancer - Uroweb",
+      "year": 2026,
+      "question_count_estimate": 157
+    },
+    {
+      "slug": "renal-cell-carcinoma",
+      "name": "EAU Guidelines on RCC - INTRODUCTION",
+      "year": 2026,
+      "question_count_estimate": 102
+    },
+    {
+      "slug": "renal-transplantation",
+      "name": "EAU Guidelines on Renal Transplantation - INTRODUCTION",
+      "year": 2026,
+      "question_count_estimate": 29
+    },
+    {
+      "slug": "testicular-cancer",
+      "name": "EAU Guidelines on Testicular Cancer - INTRODUCTION",
+      "year": 2026,
+      "question_count_estimate": 72
+    },
+    {
+      "slug": "upper-urinary-tract-urothelial-cell-carcinoma",
+      "name": "EAU Guidelines on Upper Urinary Tract Urothelial Cell Carcinoma - INTRODUCTION",
+      "year": 2026,
+      "question_count_estimate": 69
+    },
+    {
+      "slug": "urethral-strictures",
+      "name": "EAU Guidelines on Urethral Strictures - INTRODUCTION",
+      "year": 2026,
+      "question_count_estimate": 85
+    },
+    {
+      "slug": "urological-infections",
+      "name": "EAU Guidelines on Urological Infections - INTRODUCTION",
+      "year": 2026,
+      "question_count_estimate": 98
+    },
+    {
+      "slug": "urological-trauma",
+      "name": "EAU Guidelines on Urological Trauma - INTRODUCTION",
+      "year": 2026,
+      "question_count_estimate": 60
+    },
+    {
+      "slug": "management-of-non-neurogenic-male-luts",
+      "name": "EAU Guidelines on the Management of Non-neurogenic Male LUTS - INTRODUCTION",
+      "year": 2026,
+      "question_count_estimate": 94
+    },
+    {
+      "slug": "urolithiasis",
+      "name": "EAU Guidelines on Urolithiasis - INTRODUCTION",
+      "year": 2026,
+      "question_count_estimate": 108
+    },
+    {
+      "slug": "neuro-urology",
+      "name": "INTRODUCTION",
+      "year": 2026,
+      "question_count_estimate": 45
+    },
+    {
+      "slug": "sexual-and-reproductive-health",
+      "name": "INTRODUCTION",
+      "year": 2026,
+      "question_count_estimate": 177
+    },
+    {
+      "slug": "non-muscle-invasive-bladder-cancer",
+      "name": "Non-muscle-invasive Bladder Cancer - Introduction",
+      "year": 2026,
+      "question_count_estimate": 107
+    }
+  ]
+}

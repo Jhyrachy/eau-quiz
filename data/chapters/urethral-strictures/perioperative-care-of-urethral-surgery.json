@@ -1,0 +1,566 @@
+{
+  "guideline": "urethral-strictures",
+  "chapter": "perioperative-care-of-urethral-surgery",
+  "url": "https://uroweb.org/guidelines/urethral-strictures/chapter/perioperative-care-of-urethral-surgery",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Summary of changes",
+      "anchor": "#1-5-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODOLOGY",
+      "anchor": "#2-methodology"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Methods",
+      "anchor": "#2-1-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. DEFINITION EPIDEMIOLOGY AETIOLOGY AND PREVENTION",
+      "anchor": "#3-definition-epidemiology-aetiology-and-prevention"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definitions",
+      "anchor": "#3-1-definitions"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Aetiology and prevention",
+      "anchor": "#3-3-aetiology-and-prevention"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Aetiology and prevention in males",
+      "anchor": "#3-3-1-aetiology-and-prevention-in-males"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Aetiology in females",
+      "anchor": "#3-3-2-aetiology-in-females"
+    },
+    {
+      "level": 2,
+      "text": "4. CLASSIFICATIONS",
+      "anchor": "#4-classifications"
+    },
+    {
+      "level": 3,
+      "text": "4.1. According to stricture location",
+      "anchor": "#4-1-according-to-stricture-location"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. In males",
+      "anchor": "#4-1-1-in-males"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. In females",
+      "anchor": "#4-1-2-in-females"
+    },
+    {
+      "level": 3,
+      "text": "4.2. According to stricture tightness",
+      "anchor": "#4-2-according-to-stricture-tightness"
+    },
+    {
+      "level": 3,
+      "text": "4.3. According to stricture severity",
+      "anchor": "#4-3-according-to-stricture-severity"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Strictures in transgender men and woman",
+      "anchor": "#4-4-strictures-in-transgender-men-and-woman"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Trans women",
+      "anchor": "#4-4-1-trans-women"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Trans men",
+      "anchor": "#4-4-2-trans-men"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION",
+      "anchor": "#5-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Patient history",
+      "anchor": "#5-1-patient-history"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Physical examination",
+      "anchor": "#5-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Further diagnostic evaluation",
+      "anchor": "#5-2-1-further-diagnostic-evaluation"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT IN MALES",
+      "anchor": "#6-disease-management-in-males"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Conservative options",
+      "anchor": "#6-1-conservative-options"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Observation",
+      "anchor": "#6-1-1-observation"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Suprapubic catheter",
+      "anchor": "#6-1-2-suprapubic-catheter"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Endoluminal treatment of anterior urethral strictures in males",
+      "anchor": "#6-2-endoluminal-treatment-of-anterior-urethral-strictures-in-males"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Direct vision internal urethrotomy",
+      "anchor": "#6-2-1-direct-vision-internal-urethrotomy"
+    },
+    {
+      "level": 4,
+      "text": "6.2.2. Single dilatation",
+      "anchor": "#6-2-2-single-dilatation"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Open repairs (urethroplasty): site and aetiology (clinical scenario) treatment options",
+      "anchor": "#6-3-open-repairs-urethroplasty-site-and-aetiology-clinical-scenario-treatment-options"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. The role of urethroplasty in the management of penile urethral strictures",
+      "anchor": "#6-3-1-the-role-of-urethroplasty-in-the-management-of-penile-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Urethroplasty for bulbar strictures",
+      "anchor": "#6-3-2-urethroplasty-for-bulbar-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.3. Urethroplasty for penobulbar or panurethral strictures",
+      "anchor": "#6-3-3-urethroplasty-for-penobulbar-or-panurethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.4. Perineal urethrostomy",
+      "anchor": "#6-3-4-perineal-urethrostomy"
+    },
+    {
+      "level": 4,
+      "text": "6.3.5. Posterior urethra",
+      "anchor": "#6-3-5-posterior-urethra"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT IN FEMALES",
+      "anchor": "#7-disease-management-in-females"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Signs and symptoms of female urethral strictures",
+      "anchor": "#7-1-signs-and-symptoms-of-female-urethral-strictures"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Diagnosis of female urethral strictures",
+      "anchor": "#7-2-diagnosis-of-female-urethral-strictures"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Treatment of female urethral strictures",
+      "anchor": "#7-3-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Minimally invasive techniques for treatment of female urethral strictures",
+      "anchor": "#7-3-1-minimally-invasive-techniques-for-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Urethroplasty for treatment of female urethral strictures",
+      "anchor": "#7-3-2-urethroplasty-for-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 2,
+      "text": "8. DISEASE MANAGEMENT IN TRANSGENDER PATIENTS",
+      "anchor": "#8-disease-management-in-transgender-patients"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Treatment of strictures in trans men",
+      "anchor": "#8-1-treatment-of-strictures-in-trans-men"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Management of strictures early after neophallic reconstruction",
+      "anchor": "#8-1-1-management-of-strictures-early-after-neophallic-reconstruction"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Treatment of meatal stenosis in trans men",
+      "anchor": "#8-1-2-treatment-of-meatal-stenosis-in-trans-men"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Treatment of strictures at the neophallic urethra",
+      "anchor": "#8-1-3-treatment-of-strictures-at-the-neophallic-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.4. Treatment of strictures at the anastomosis neophallic urethra-fixed part of the urethra",
+      "anchor": "#8-1-4-treatment-of-strictures-at-the-anastomosis-neophallic-urethra-fixed-part-of-the-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.5. Treatment of strictures at the fixed part of the urethra",
+      "anchor": "#8-1-5-treatment-of-strictures-at-the-fixed-part-of-the-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.6. Definitive perineostomy in trans men",
+      "anchor": "#8-1-6-definitive-perineostomy-in-trans-men"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Perioperative care after treatment of strictures in trans men",
+      "anchor": "#8-2-perioperative-care-after-treatment-of-strictures-in-trans-men"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Strictures in trans women",
+      "anchor": "#8-3-strictures-in-trans-women"
+    },
+    {
+      "level": 2,
+      "text": "9. TISSUE TRANSFER",
+      "anchor": "#9-tissue-transfer"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Comparison of grafts with flaps",
+      "anchor": "#9-1-comparison-of-grafts-with-flaps"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Comparison of different types of flaps",
+      "anchor": "#9-2-comparison-of-different-types-of-flaps"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Comparison of different types of grafts",
+      "anchor": "#9-3-comparison-of-different-types-of-grafts"
+    },
+    {
+      "level": 3,
+      "text": "9.4. Tissue engineered grafts",
+      "anchor": "#9-4-tissue-engineered-grafts"
+    },
+    {
+      "level": 4,
+      "text": "9.4.1. Cell-free tissue engineered grafts",
+      "anchor": "#9-4-1-cell-free-tissue-engineered-grafts"
+    },
+    {
+      "level": 4,
+      "text": "9.4.2. Autologous tissue engineered oral mucosa grafts",
+      "anchor": "#9-4-2-autologous-tissue-engineered-oral-mucosa-grafts"
+    },
+    {
+      "level": 3,
+      "text": "9.5. Management of oral cavity after buccal mucosa harvesting",
+      "anchor": "#9-5-management-of-oral-cavity-after-buccal-mucosa-harvesting"
+    },
+    {
+      "level": 2,
+      "text": "10. PERIOPERATIVE CARE OF URETHRAL SURGERY",
+      "anchor": "#10-perioperative-care-of-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Urethral rest",
+      "anchor": "#10-1-urethral-rest"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Antibiotics",
+      "anchor": "#10-2-antibiotics"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Catheter management",
+      "anchor": "#10-3-catheter-management"
+    },
+    {
+      "level": 2,
+      "text": "11. FOLLOW UP",
+      "anchor": "#11-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "11.1. Rationale for follow-up after urethral surgery",
+      "anchor": "#11-1-rationale-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.2. Definition of success after urethroplasty surgery",
+      "anchor": "#11-2-definition-of-success-after-urethroplasty-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.3. Follow-up tools after urethral surgery",
+      "anchor": "#11-3-follow-up-tools-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.1. Diagnostic tools for follow-up after urethral surgery",
+      "anchor": "#11-3-1-diagnostic-tools-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.2. Screening tools for follow-up after urethral surgery",
+      "anchor": "#11-3-2-screening-tools-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.3. Quality of life assessment, including disease specific questionnaires during follow-up after urethral surgery",
+      "anchor": "#11-3-3-quality-of-life-assessment-including-disease-specific-questionnaires-during-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.4. Ideal follow-up interval after urethral surgery",
+      "anchor": "#11-4-ideal-follow-up-interval-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.5. Length of follow-up after urethral surgery",
+      "anchor": "#11-5-length-of-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.6. Risk-stratified proposals during follow-up after urethral surgery",
+      "anchor": "#11-6-risk-stratified-proposals-during-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.7. Follow-up protocol proposal after urethroplasty",
+      "anchor": "#11-7-follow-up-protocol-proposal-after-urethroplasty"
+    },
+    {
+      "level": 4,
+      "text": "11.7.1. Surgeries with low risk of recurrence",
+      "anchor": "#11-7-1-surgeries-with-low-risk-of-recurrence"
+    },
+    {
+      "level": 4,
+      "text": "11.7.2. Surgical management options with standard risk of recurrence",
+      "anchor": "#11-7-2-surgical-management-options-with-standard-risk-of-recurrence"
+    },
+    {
+      "level": 2,
+      "text": "12. REFERENCES",
+      "anchor": "#12-references"
+    },
+    {
+      "level": 2,
+      "text": "13. CONFLICT OF INTEREST",
+      "anchor": "#13-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "14. CITATION INFORMATION",
+      "anchor": "#14-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "15. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#15-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#urethral-strictures",
+      "title": "Urethral Strictures",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 10. Perioperative Care Of Urethral Surgery Introduction Methodology Definition Epidemiology Aetiology And Prevention Classifications Diagnostic Evaluation Disease Management In Males Disease Management In Females Disease Management In Transgender Patients Tissue Transfer Perioperative Care Of Urethral Surgery Follow Up References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#10-perioperative-care-of-urethral-surgery",
+      "title": "10. PERIOPERATIVE CARE OF URETHRAL SURGERY",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#10-1-urethral-rest",
+      "title": "10.1. Urethral rest",
+      "level": 3,
+      "text": "After any form of urethral manipulation (urethral catheter, ISD, dilatation, DVIU), a period of urethral rest is necessary in order to allow tissue recovery and stricture “maturation” before considering urethroplasty. This improves the ability to identify the true extent of the fibrotic segments during subsequent surgery. If the patient develops incapacitating obstructive symptoms or urinary retention, a suprapubic catheter should be inserted. Terlecki et al. , propose diagnostic evaluation after two months and urethroplasty after three months of urethral rest. These timings are based on the general principles of wound healing [578]. In their study, it has been shown that these periods allow for reliable stricture evaluation during urethrography which is, in turn, important to ensure selection of the most appropriate urethroplasty technique [578]. Utilising this strategy, similar outcomes were obtained compared to patients with stable previously unmanipulated strictures [578]. However, the optimal duration of urethral rest for all patients is not known and the degree of associated infection and inflammation should be taken into account as well, with longer periods of rest in those with greater degrees of infection and inflammation. Summary of evidence LE After any form of urethral manipulation, a minimum period of three months urethral rest is necessary to allow for tissue healing before performing urethroplasty. 3 Recommendation Strength rating Do not routinely perform urethrotomy when there is no pre-existent urethral stricture. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "After any form of urethral manipulation, a minimum period of three months urethral rest is necessary to allow for tissue healing before performing urethroplasty.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Do not routinely perform urethrotomy when there is no pre-existent urethral stricture.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#10-2-antibiotics",
+      "title": "10.2. Antibiotics",
+      "level": 3,
+      "text": "Post-operative wound infection and UTI are common post-operative complications and infection at the site of reconstruction may contribute to failure of urethroplasty. The vast majority of reconstructive urologists perform urine culture one to two weeks prior to surgery [579]. Urine culture is superior to urine-analysis which can be omitted in the pre-operative evaluation [579]. If infection or colonisation is present, a therapeutic course with antibiotics is recommended pre-operatively. Pre-operative UTI, even when properly treated, could increase the risk of post-operative UTI [580]. In case of an indwelling catheter general principles would suggest at least an attempt to suppress the colonisation with pre-operative antibiotics [579]. These practices are in accordance with the strong recommendations of the EAU Guidelines on Urological Infections [581]: ‘Screen for and treat asymptomatic bacteriuria prior to urological procedures breaching the mucosa.’ ‘Treat catheter-associated asymptomatic bacteriuria prior to traumatic urinary tract interventions.’ An intra-operative prophylactic regimen with antibiotics (according to local antibiotic resistance profiles) is effective in reducing the rate of post-operative surgical site and UTIs [579]. Although most urologists continue with post-operative antibiotics upon and even beyond catheter removal, there is no evidence that such a prolonged administration would reduce the infective complication rate [579]. A retrospective study from Baas et al. , revealed that extended post-operative antibiotic prophylaxis (three weeks until catheter removal vs. three days around catheter removal) does not appear to affect UTI rates following urethroplasty [582]. The EAU Guidelines on Urological Infections [581] do not routinely recommend the use of antibiotic prophylaxis to prevent clinical UTI after urethral catheter removal. There is no evidence that this recommendation would not apply to catheter removal after urethral surgery. Summary of evidence LE An intraoperative prophylactic regimen with antibiotics is effective in reducing the rate of post-operative surgical site and urinary tract infections. 4 Recommendation Strength rating Administer an intra-operative prophylactic regimen with antibiotics at time of urethral surgery. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "An intraoperative prophylactic regimen with antibiotics is effective in reducing the rate of post-operative surgical site and urinary tract infections.",
+              "4"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Administer an intra-operative prophylactic regimen with antibiotics at time of urethral surgery.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#10-3-catheter-management",
+      "title": "10.3. Catheter management",
+      "level": 3,
+      "text": "After uncomplicated DVIU, there is no advantage in maintaining the catheter for a prolonged period and it should be removed within 72 hours [583]. After one-stage urethroplasty and closure of the urethral plate after staged urethroplasty, urinary extravasation at the site of reconstruction must be avoided [584]. For this purpose, urinary diversion by either transurethral catheter or suprapubic catheter with urethral stent can be used. With respect to the type of catheter material, a prospective randomised (but underpowered) trial comparing silicone vs. hydrogel coated latex transurethral catheters showed no significant difference in the time to stricture recurrence nor in the overall recurrence rate [584]. The size of the urethral catheter utilised usually varies between 14 Fr and 20 Fr [585, 586]. Systematic use of anticholinergic drugs has not shown a significant reduction in the rate of involuntary pericatheter voiding whilst catheterised [587]. After urethroplasty an indwelling catheter is commonly left in situ for two to three weeks [586,588]. After three weeks of urethral catheterisation, an extravasation rate of 2.2-11.5% at urethrography has been reported after different types of urethroplasty [588-591]. However, success with early catheter removal under three weeks has also been reported. A study after EPA for non-complicated anterior strictures demonstrated no significant difference in extravasation (6.8% vs. 4.5%) and recurrence rates (4.9% vs. 5.2%) between catheter removal at one or two weeks respectively [592]. Poelaert et al. , reported an extravasation rate of 3.5% vs. 8.3%, when the catheter was removed < 10 days or > 10 days, respectively, after all types of urethroplasty (n=219) (p=0.158) [585]. Importantly, patients who had a duration of catheterisation of > 10 days had longer and more complex strictures [585]. Beiske et al. , revealed a higher incidence of UTI in patients with a three week catheterisation after open urethroplasty, compared to two weeks [593]. Prior to catheter removal after urethroplasty, it is important to assess for urinary extravasation to avoid ensuing complications including peri-urethral inflammation, abscess formation and fistulation [588, 590]. Importantly, some authors have identified urinary extravasation as a predictive factor for stricture recurrence [585,594]. Other series, however, could not confirm the prognostic significance of urinary extravasation but they included any form of extravasation (including minor leaks) [590, 591]. Grossgold et al. , found that high-grade leaks (defined as length > 1.03cm and width > 0.32cm) were significantly associated with higher restricture rates. This study also found length of extravasation > 1.03cm alone to be an independent predictor of restricture [594]. In cases of persistent and significant urinary extravasation, the catheter should be maintained or reinserted and the examination repeated after one week [588]. However, low-grade (“wisp-like”) extravasation does not appear to affect long-term restricture rate and the catheter can be removed in these cases without subsequent urethrogram [590, 594]. In case of any doubt about the significance of extravasation, it is safe to keep the catheter in for an additional week and ReDo the assessment. The assessment of urinary extravasation is achieved by either pericatheter retrograde urethrography (pcRUG), classic RUG or VCUG [588]. A prospective study (n = 80) comparing pcRUG and VCUG in a within-patient fashion demonstrated a comparable sensitivity for contrast extravasation. Moreover, pcRUG averts the risk of having to reinsert the catheter, avoids the problem of patients being unable to void during VCUG and requires significantly less radiation (120 mGy/cm 2 vs. 241 mGy/cm 2 ; p < 0.001) [595]. In cases of attempted VCUG where the patient is not able to void during fluoroscopy after catheter removal, RUG should be performed [594]. Although limited evidence for urethroplasty care in trans men exists, one study advised a three-week period of transurethral catheterisation with pcRUG upon catheter removal [534]. After perineostomy or the 1 st stage of staged urethroplasty, the catheter can be removed without need for urethrography after three to five days [362, 590]. Summary of evidence LE Prior to catheter removal after urethroplasty, it is important to assess for urinary extravasation with urethrography to avoid ensuing complications including peri-urethral inflammation, abscess formation and fistulation. 2b After uncomplicated DVIU, there is no advantage in maintaining the catheter for a prolonged period. 3 Early catheter removal may be appropriate for a subset of patients with short, uncomplicated, strictures. 3 Recommendations Strength rating Perform a form of validated urethrography after urethroplasty to assess for urinary extravasation prior to catheter removal. Strong Remove the catheter within 72 hours after uncomplicated direct vision internal urethrotomy or ureth",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Prior to catheter removal after urethroplasty, it is important to assess for urinary extravasation with urethrography to avoid ensuing complications including peri-urethral inflammation, abscess formation and fistulation.",
+              "2b"
+            ],
+            [
+              "After uncomplicated DVIU, there is no advantage in maintaining the catheter for a prolonged period.",
+              "3"
+            ],
+            [
+              "Early catheter removal may be appropriate for a subset of patients with short, uncomplicated, strictures.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform a form of validated urethrography after urethroplasty to assess for urinary extravasation prior to catheter removal.",
+              "Strong"
+            ],
+            [
+              "Remove the catheter within 72 hours after uncomplicated direct vision internal urethrotomy or urethral dilatation.",
+              "Weak"
+            ],
+            [
+              "Consider 1st urethrography seven to ten days after uncomplicated urethroplasty to assess whether catheter removal is possible, especially in patients with bother from their urethral catheter.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 6
+}

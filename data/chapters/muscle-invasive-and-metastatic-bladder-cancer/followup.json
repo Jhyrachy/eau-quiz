@@ -1,0 +1,792 @@
+{
+  "guideline": "muscle-invasive-and-metastatic-bladder-cancer",
+  "chapter": "followup",
+  "url": "https://uroweb.org/guidelines/muscle-invasive-and-metastatic-bladder-cancer/chapter/followup",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Future goals",
+      "anchor": "#2-3-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AND AETIOLOGY",
+      "anchor": "#3-epidemiology-and-aetiology"
+    },
+    {
+      "level": 2,
+      "text": "3.1 Clinical presentation",
+      "anchor": "#3-1-clinical-presentation"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Aetiology",
+      "anchor": "#3-3-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Tobacco smoking",
+      "anchor": "#3-3-1-tobacco-smoking"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Occupational exposure to chemicals",
+      "anchor": "#3-3-2-occupational-exposure-to-chemicals"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Radiotherapy",
+      "anchor": "#3-3-3-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Dietary factors",
+      "anchor": "#3-3-4-dietary-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. Metabolic disorders",
+      "anchor": "#3-3-5-metabolic-disorders"
+    },
+    {
+      "level": 4,
+      "text": "3.3.6. Bladder schistosomiasis and chronic urinary tract infection",
+      "anchor": "#3-3-6-bladder-schistosomiasis-and-chronic-urinary-tract-infection"
+    },
+    {
+      "level": 4,
+      "text": "3.3.7. Sex",
+      "anchor": "#3-3-7-sex"
+    },
+    {
+      "level": 4,
+      "text": "3.3.8. Genetic factors",
+      "anchor": "#3-3-8-genetic-factors"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Summary of evidence and recommendations for epidemiology and risk factors",
+      "anchor": "#3-4-summary-of-evidence-and-recommendations-for-epidemiology-and-risk-factors"
+    },
+    {
+      "level": 2,
+      "text": "4. PATHOLOGY AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-pathology-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Cytology",
+      "anchor": "#4-1-cytology"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Histology",
+      "anchor": "#4-2-histology"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Pathological staging",
+      "anchor": "#4-3-pathological-staging"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Tumour, Node, Metastasis classification",
+      "anchor": "#4-4-tumour-node-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Pathological markers",
+      "anchor": "#4-5-pathological-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Lymphovascular invasion",
+      "anchor": "#4-5-1-lymphovascular-invasion"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Carcinoma",
+      "anchor": "#4-5-2-carcinoma"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Tumour location",
+      "anchor": "#4-5-3-tumour-location"
+    },
+    {
+      "level": 4,
+      "text": "4.5.4. Lymph node-positive disease",
+      "anchor": "#4-5-4-lymph-node-positive-disease"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Tissue handling",
+      "anchor": "#4-6-tissue-handling"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Recommendations for the assessment of tumour specimens",
+      "anchor": "#4-7-recommendations-for-the-assessment-of-tumour-specimens"
+    },
+    {
+      "level": 3,
+      "text": "4.8. EAU-ESMO consensus statements on the management of advanced- and variant bladder cancer [82, 83]*",
+      "anchor": "#4-8-eau-esmo-consensus-statements-on-the-management-of-advanced--and-variant-bladder-cancer-82-83"
+    },
+    {
+      "level": 3,
+      "text": "4.9. Markers",
+      "anchor": "#4-9-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.9.1. Introduction",
+      "anchor": "#4-9-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "4.9.2. Clinical and histopathological markers",
+      "anchor": "#4-9-2-clinical-and-histopathological-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.9.3. Molecular variants",
+      "anchor": "#4-9-3-molecular-variants"
+    },
+    {
+      "level": 4,
+      "text": "4.9.4. Molecular markers",
+      "anchor": "#4-9-4-molecular-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.9.5. Conclusion",
+      "anchor": "#4-9-5-conclusion"
+    },
+    {
+      "level": 4,
+      "text": "4.9.6. Summary of evidence and recommendations for urothelial markers",
+      "anchor": "#4-9-6-summary-of-evidence-and-recommendations-for-urothelial-markers"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSIS",
+      "anchor": "#5-diagnosis"
+    },
+    {
+      "level": 3,
+      "text": "5.1. History and physical examination",
+      "anchor": "#5-1-history-and-physical-examination"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Urine cytology",
+      "anchor": "#5-2-urine-cytology"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Cystoscopy",
+      "anchor": "#5-3-cystoscopy"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Transurethral resection of invasive bladder tumours",
+      "anchor": "#5-4-transurethral-resection-of-invasive-bladder-tumours"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Summary of evidence and recommendations for the primary assessment of presumably invasive bladder tumours*",
+      "anchor": "#5-5-summary-of-evidence-and-recommendations-for-the-primary-assessment-of-presumably-invasive-bladder-tumours"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Imaging for staging",
+      "anchor": "#5-6-imaging-for-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.1. Local staging",
+      "anchor": "#5-6-1-local-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.2. Upper tract evaluation",
+      "anchor": "#5-6-2-upper-tract-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "5.6.3. Lymph node staging",
+      "anchor": "#5-6-3-lymph-node-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.4. Distant staging",
+      "anchor": "#5-6-4-distant-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.5. Future perspectives",
+      "anchor": "#5-6-5-future-perspectives"
+    },
+    {
+      "level": 4,
+      "text": "5.6.6. Summary of evidence and recommendations for staging in MIBC",
+      "anchor": "#5-6-6-summary-of-evidence-and-recommendations-for-staging-in-mibc"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT",
+      "anchor": "#6-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Multidisciplinary team for patients with MIBC",
+      "anchor": "#6-1-multidisciplinary-team-for-patients-with-mibc"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Recommendations for a multidisciplinary team",
+      "anchor": "#6-1-1-recommendations-for-a-multidisciplinary-team"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Health status assessment",
+      "anchor": "#6-2-health-status-assessment"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Evaluation of comorbidity, frailty and cognition",
+      "anchor": "#6-3-evaluation-of-comorbidity-frailty-and-cognition"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Comorbidity scales, anaesthetic risk classification and geriatric assessment",
+      "anchor": "#6-4-comorbidity-scales-anaesthetic-risk-classification-and-geriatric-assessment"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Summary of evidence and recommendations for comorbidity scales",
+      "anchor": "#6-4-1-summary-of-evidence-and-recommendations-for-comorbidity-scales"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Perioperative systemic therapy",
+      "anchor": "#6-5-perioperative-systemic-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.5.1. Neoadjuvant",
+      "anchor": "#6-5-1-neoadjuvant"
+    },
+    {
+      "level": 4,
+      "text": "6.5.2. Adjuvant therapy",
+      "anchor": "#6-5-2-adjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Perioperative radiotherapy",
+      "anchor": "#6-6-perioperative-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.6.1. Preoperative radiotherapy",
+      "anchor": "#6-6-1-preoperative-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.6.2. Postoperative radiotherapy",
+      "anchor": "#6-6-2-postoperative-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.6.3. Summary of evidence and recommendations for pre- and postoperative radiotherapy",
+      "anchor": "#6-6-3-summary-of-evidence-and-recommendations-for-pre--and-postoperative-radiotherapy"
+    },
+    {
+      "level": 3,
+      "text": "6.7. Radical cystectomy with pelvic lymph node dissection",
+      "anchor": "#6-7-radical-cystectomy-with-pelvic-lymph-node-dissection"
+    },
+    {
+      "level": 4,
+      "text": "6.7.1. Removal of the tumour-bearing bladder",
+      "anchor": "#6-7-1-removal-of-the-tumour-bearing-bladder"
+    },
+    {
+      "level": 4,
+      "text": "6.7.2. Radical cystectomy: technique and extent",
+      "anchor": "#6-7-2-radical-cystectomy-technique-and-extent"
+    },
+    {
+      "level": 4,
+      "text": "6.7.3. Lymphadenectomy: role and extent",
+      "anchor": "#6-7-3-lymphadenectomy-role-and-extent"
+    },
+    {
+      "level": 4,
+      "text": "6.7.4. Robotic-assisted laparoscopic cystectomy",
+      "anchor": "#6-7-4-robotic-assisted-laparoscopic-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.7.5. Urinary diversion after radical cystectomy",
+      "anchor": "#6-7-5-urinary-diversion-after-radical-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.7.6. Morbidity and mortality",
+      "anchor": "#6-7-6-morbidity-and-mortality"
+    },
+    {
+      "level": 4,
+      "text": "6.7.7. Survival",
+      "anchor": "#6-7-7-survival"
+    },
+    {
+      "level": 4,
+      "text": "6.7.8. Impact of hospital and surgeon volume on treatment outcomes",
+      "anchor": "#6-7-8-impact-of-hospital-and-surgeon-volume-on-treatment-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "6.7.9. Summary of evidence and recommendations for quality indicators in radical cystectomy",
+      "anchor": "#6-7-9-summary-of-evidence-and-recommendations-for-quality-indicators-in-radical-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.7.10. Palliative cystectomy",
+      "anchor": "#6-7-10-palliative-cystectomy"
+    },
+    {
+      "level": 3,
+      "text": "6.8. Trimodality therapy",
+      "anchor": "#6-8-trimodality-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.8.1. Trimodality bladder-preserving treatment",
+      "anchor": "#6-8-1-trimodality-bladder-preserving-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.9. External beam radiotherapy",
+      "anchor": "#6-9-external-beam-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.9.1. Definitive external beam radiotherapy",
+      "anchor": "#6-9-1-definitive-external-beam-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.9.2. Palliative external beam radiotherapy",
+      "anchor": "#6-9-2-palliative-external-beam-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.9.3. Summary of evidence and recommendation for external beam radiotherapy",
+      "anchor": "#6-9-3-summary-of-evidence-and-recommendation-for-external-beam-radiotherapy"
+    },
+    {
+      "level": 3,
+      "text": "6.10. Other approaches",
+      "anchor": "#6-10-other-approaches"
+    },
+    {
+      "level": 4,
+      "text": "6.10.1. Transurethral resection of bladder tumour",
+      "anchor": "#6-10-1-transurethral-resection-of-bladder-tumour"
+    },
+    {
+      "level": 4,
+      "text": "6.10.2. Chemotherapy",
+      "anchor": "#6-10-2-chemotherapy"
+    },
+    {
+      "level": 2,
+      "text": "7. FOLLOW-UP AND SURVEILLANCE",
+      "anchor": "#7-follow-up-and-surveillance"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Response to neoadjuvant therapy",
+      "anchor": "#7-1-response-to-neoadjuvant-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.1.1. Recommendation for response to neoadjuvant therapy",
+      "anchor": "#7-1-1-recommendation-for-response-to-neoadjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Follow-up after radical cystectomy",
+      "anchor": "#7-2-follow-up-after-radical-cystectomy"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Follow-up after trimodality therapy",
+      "anchor": "#7-3-follow-up-after-trimodality-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Follow-up of functional outcomes and complications",
+      "anchor": "#7-4-follow-up-of-functional-outcomes-and-complications"
+    },
+    {
+      "level": 2,
+      "text": "8. RECURRENT DISEASE",
+      "anchor": "#8-recurrent-disease"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Intravesical recurrence",
+      "anchor": "#8-1-intravesical-recurrence"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Post-trimodality therapy bladder recurrences and salvage cystectomy",
+      "anchor": "#8-1-1-post-trimodality-therapy-bladder-recurrences-and-salvage-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Salvage cystectomy post-trimodality therapy",
+      "anchor": "#8-1-2-salvage-cystectomy-post-trimodality-therapy"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Recommendation for salvage cystectomy",
+      "anchor": "#8-1-3-recommendation-for-salvage-cystectomy"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Pelvic recurrence",
+      "anchor": "#8-2-pelvic-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Upper tract recurrence",
+      "anchor": "#8-3-upper-tract-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.4. Urethral recurrence",
+      "anchor": "#8-4-urethral-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.5. Distant recurrence",
+      "anchor": "#8-5-distant-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.6. Summary of evidence and recommendations for specific recurrence sites",
+      "anchor": "#8-6-summary-of-evidence-and-recommendations-for-specific-recurrence-sites"
+    },
+    {
+      "level": 2,
+      "text": "9. METASTATIC DISEASE",
+      "anchor": "#9-metastatic-disease"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Introduction",
+      "anchor": "#9-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Management of oligometastatic bladder cancer",
+      "anchor": "#9-2-management-of-oligometastatic-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "9.3. First-line systemic therapy for metastatic disease: patient selection",
+      "anchor": "#9-3-first-line-systemic-therapy-for-metastatic-disease-patient-selection"
+    },
+    {
+      "level": 3,
+      "text": "9.4. First-line therapy in patients fit for combination therapy",
+      "anchor": "#9-4-first-line-therapy-in-patients-fit-for-combination-therapy"
+    },
+    {
+      "level": 4,
+      "text": "9.4.1. Enfortumab vedotin plus pembrolizumab",
+      "anchor": "#9-4-1-enfortumab-vedotin-plus-pembrolizumab"
+    },
+    {
+      "level": 4,
+      "text": "9.4.2. Patients eligible for combination therapy but not eligible for enfortumab vedotin or enfortumab vedotin not available",
+      "anchor": "#9-4-2-patients-eligible-for-combination-therapy-but-not-eligible-for-enfortumab-vedotin-or-enfortumab-vedotin-not-available"
+    },
+    {
+      "level": 3,
+      "text": "9.5. First-line therapy in patients not eligible for combination therapy",
+      "anchor": "#9-5-first-line-therapy-in-patients-not-eligible-for-combination-therapy"
+    },
+    {
+      "level": 3,
+      "text": "9.6. Results of other trials integrating immunotherapy in the first-line setting without overall survival benefit",
+      "anchor": "#9-6-results-of-other-trials-integrating-immunotherapy-in-the-first-line-setting-without-overall-survival-benefit"
+    },
+    {
+      "level": 3,
+      "text": "9.7. Further-line systemic therapy for metastatic disease",
+      "anchor": "#9-7-further-line-systemic-therapy-for-metastatic-disease"
+    },
+    {
+      "level": 4,
+      "text": "9.7.1. Introduction",
+      "anchor": "#9-7-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "9.7.2. Chemotherapy",
+      "anchor": "#9-7-2-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "9.7.3. Immunotherapy for platinum-pretreated patients without previous immunotherapy",
+      "anchor": "#9-7-3-immunotherapy-for-platinum-pretreated-patients-without-previous-immunotherapy"
+    },
+    {
+      "level": 3,
+      "text": "9.8. Integration of other agents",
+      "anchor": "#9-8-integration-of-other-agents"
+    },
+    {
+      "level": 4,
+      "text": "9.8.1. Enfortumab vedotin monotherapy",
+      "anchor": "#9-8-1-enfortumab-vedotin-monotherapy"
+    },
+    {
+      "level": 4,
+      "text": "9.8.2. Sacituzumab govitecan",
+      "anchor": "#9-8-2-sacituzumab-govitecan"
+    },
+    {
+      "level": 4,
+      "text": "9.8.3. FGFR inhibition",
+      "anchor": "#9-8-3-fgfr-inhibition"
+    },
+    {
+      "level": 4,
+      "text": "9.8.4. HER2 targeted agents",
+      "anchor": "#9-8-4-her2-targeted-agents"
+    },
+    {
+      "level": 4,
+      "text": "9.8.6. Systemic treatment of metastatic disease with histology other than pure urothelial carcinoma",
+      "anchor": "#9-8-6-systemic-treatment-of-metastatic-disease-with-histology-other-than-pure-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "9.9. Treatment of patients with bone metastases",
+      "anchor": "#9-9-treatment-of-patients-with-bone-metastases"
+    },
+    {
+      "level": 3,
+      "text": "9.10. Treatment algorithm for metastatic urothelial cancer",
+      "anchor": "#9-10-treatment-algorithm-for-metastatic-urothelial-cancer"
+    },
+    {
+      "level": 3,
+      "text": "9.11. Summary of evidence and recommendations for metastatic disease",
+      "anchor": "#9-11-summary-of-evidence-and-recommendations-for-metastatic-disease"
+    },
+    {
+      "level": 2,
+      "text": "10. QUALITY OF LIFE AND PALLIATIVE CARE",
+      "anchor": "#10-quality-of-life-and-palliative-care"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Introduction",
+      "anchor": "#10-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Neoadjuvant therapy",
+      "anchor": "#10-2-neoadjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Radical cystectomy and urinary diversion",
+      "anchor": "#10-3-radical-cystectomy-and-urinary-diversion"
+    },
+    {
+      "level": 3,
+      "text": "10.4. Adjuvant therapy",
+      "anchor": "#10-4-adjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "10.5. Bladder-sparing trimodality therapy",
+      "anchor": "#10-5-bladder-sparing-trimodality-therapy"
+    },
+    {
+      "level": 3,
+      "text": "10.6. Noncurative or metastatic bladder cancer",
+      "anchor": "#10-6-noncurative-or-metastatic-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "10.7. Summary of evidence and recommendations for health-related quality of life",
+      "anchor": "#10-7-summary-of-evidence-and-recommendations-for-health-related-quality-of-life"
+    },
+    {
+      "level": 3,
+      "text": "10.8. Supportive care",
+      "anchor": "#10-8-supportive-care"
+    },
+    {
+      "level": 4,
+      "text": "10.8.1. Obstruction of the upper urinary tract",
+      "anchor": "#10-8-1-obstruction-of-the-upper-urinary-tract"
+    },
+    {
+      "level": 4,
+      "text": "10.8.2. Bleeding and pain",
+      "anchor": "#10-8-2-bleeding-and-pain"
+    },
+    {
+      "level": 2,
+      "text": "11. REFERENCES",
+      "anchor": "#11-references"
+    },
+    {
+      "level": 2,
+      "text": "12. CONFLICT OF INTEREST",
+      "anchor": "#12-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "13. CITATION INFORMATION",
+      "anchor": "#13-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "14. COPYRIGHT AND TERMS OF USE ",
+      "anchor": "#14-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#muscle-invasive-and-metastatic-bladder-cancer",
+      "title": "Muscle-invasive and Metastatic Bladder Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 7. Follow-up And Surveillance Introduction Methods Epidemiology And Aetiology Pathology And Classification Systems Diagnosis Disease Management Follow-up And Surveillance Recurrent Disease Metastatic Disease Quality Of Life And Palliative Care References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#7-follow-up-and-surveillance",
+      "title": "7. FOLLOW-UP AND SURVEILLANCE",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#7-1-response-to-neoadjuvant-therapy",
+      "title": "7.1. Response to neoadjuvant therapy",
+      "level": 3,
+      "text": "Restaging imaging exams after completion of neoadjuvant therapy are primarily performed to rule out the presence of local progression or metastatic disease before proceeding to definitive local therapy. Computed tomography of the thorax, abdomen or pelvis represents the standard of care, and the use of 18 F-FDG PET/CT is restricted to specific situations in which CT is inconclusive. No prospective trials have addressed this question. Potential future application of bladder MRI and the VI-RADS score may include prediction of response to treatment as well as perioperative outcomes using its modified version, the NAC VI-RADS (nacVI-RADS) [450]. Recently, prospective evidence has been demonstrating the optimal diagnostic accuracy in defining response to therapy using MpMRI and nacVI-RADS after both NAC and IO [451]. In consensus-based recommendations, experts agreed that bladder MRI can be used to assess response to systemic therapy to support the selection of patients for radical treatment, surveillance or bladder-sparing surgery [140]. However, this is not standard care, and its clinical value requires validation. A meta-analysis that investigated the predictive role of 18 F-FDG PET/CT for assessment of tumour response to NAC in a total of 278 patients showed a pooled sensitivity of 0.84 (95% CI: 0.72-0.91) and specificity of 0.75 (95% CI: 0.59-0.86). Among the five included studies, only three used both cR and pCR as a reference standard [452]. The use of 18 F-FDG PET/CT in this situation is not standard of care and requires further investigation.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-1-1-recommendation-for-response-to-neoadjuvant-therapy",
+      "title": "7.1.1. Recommendation for response to neoadjuvant therapy",
+      "level": 4,
+      "text": "Recommendation Strength rating Perform restaging computed tomography after neoadjuvant therapy to rule out local progression and the presence of metastatic disease. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Perform restaging computed tomography after neoadjuvant therapy to rule out local progression and the presence of metastatic disease.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-2-follow-up-after-radical-cystectomy",
+      "title": "7.2. Follow-up after radical cystectomy",
+      "level": 3,
+      "text": "An appropriate schedule for disease monitoring should be based on natural timing of recurrence; probability and site of recurrence; functional monitoring after urinary diversion; and the potential available management options [453]. Current surveillance protocols are based on recurrence patterns from retrospective series that may vary in follow-up regimens and imaging techniques [454-456]. For example, in a series of 1,270 RC patients, no OS differences were found between asymptomatic and symptomatic recurrences [454,455]. Another series found that symptomatic recurrences increased the risk of death by 60% compared to asymptomatic patients [456]. However, there are no prospective trials demonstrating the potential benefit of early detection of recurrent disease on OS [457]. There is no proven effective standardised follow-up regimen after RC for BC. Despite the lack of conclusive evidence on the benefits of early detection of recurrence, the Panel identified consistent general post-RC follow-up strategies amongst urologist members of the EAU Bladder Cancer Guidelines Panels and developed a practice-based framework guided by expert opinion (Table 7.1) [458]. A schedule suggested by the Panel includes a CT scan (every six months) until the third year, followed by annual imaging thereafter. Patients with multifocal disease, NMIBC with CIS, or positive ureteral margins are at higher risk of developing UTUC, which can develop late (> three years). In those cases, monitoring of the upper urinary tract is mandatory during follow-up. Computed tomography is to be used for imaging of the upper urinary tract [459]. The exact time to stop follow-up is not well known and a risk-adapted schedule has been proposed recently, based on the interaction between recurrence risk and competing health factors that could lead to individualised recommendations and may increase recurrence detection. Elderly and very low-risk patients (those with NMIBC or pT0 disease at final cystectomy report) showed a higher competing risk of non-BC mortality when compared with their level of BC recurrence risk. On the other hand, patients with locally advanced disease or LN involvement are at a higher risk of recurrence for more than 20 years [460]. However, this model has not been validated, does not differentiate between pure UC or variant histologies and does not incorporate several risk factors related to non-BC mortality. Subtype tumours (including urothelial subtypes, non-urothelial subtypes and mixed subtypes) might be associated with a greater recurrence risk than pure UC. A different follow-up scheme for patients with subtype tumours has been proposed [461]. In case of pT0 patients with previous subtype in TURBT or in those in the age range between 60 and 79 years, the follow-up should be longer than in pure UC, since the risk of recurrence persists over time. Similar to pure UC, patients older than 80 years with subtype tumours might not need oncologic surveillance given the higher risk of non-BC mortality compared to the risk of recurrence, whereas patients younger than 60 years should be offered extended surveillance (> ten years) as the risk of recurrence will exceed that of non-BC mortality [461]. Future prospective studies are needed to answer the question of whether a more intense follow-up for subtypes should be considered. Moreover, the prognostic implications of the various sites of recurrence should be considered. Local and systemic recurrences have a poor prognosis and early detection of the disease might not influence survival [462]. Despite this, the rationale for a risk-adapted schedule for BC surveillance appears to be promising and deserves further investigation. Table 7.1: Framework for follow-up practice informed by a summary of non-risk-adapted data and supported by > 75% agreement for performing a specific follow-up intervention/test CT = computed tomography; GFR = glomerular filtration rate; IVU = intravenous urography.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-3-follow-up-after-trimodality-therapy",
+      "title": "7.3. Follow-up after trimodality therapy",
+      "level": 3,
+      "text": "Following completion of TMT, patients require close surveillance to detect intravesical, upper-tract, urethral, nodal or distant recurrence, upper-tract or urethral disease, and treatment-related complications, as well as to identify candidates for timely salvage cystectomy. Most recurrences occur within the first two to five years after treatment. Patients with muscle-invasive intravesical recurrence should be evaluated promptly for salvage cystectomy when feasible. There is general expert consensus that cystoscopy should be performed every three months during the first two years, every six months until year five, and annually thereafter. Urine cytology and cross-sectional imaging of the chest, abdomen, and pelvis (CT or MRI, including upper-tract imaging) is recommended every six to twelve months for the first three to five years, and then as clinically indicated. These intervals are consistent with international Guideline recommendations and a 2024 systematic review of TMT follow-up [463]. Evidence is available indicating that close cystoscopic monitoring and early salvage cystectomy are critical to long-term bladder preservation and DSS [463]. Post-radiation cystoscopic and cytologic interpretation can be challenging due to post-RT mucosal changes. Surveillance should also include assessment of bladder function and late toxicity. Risk-adapted schedules personalised to the various risk factors for relapse and emerging biomarkers (e.g. ctDNA) are under study.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-4-follow-up-of-functional-outcomes-and-complications",
+      "title": "7.4. Follow-up of functional outcomes and complications",
+      "level": 3,
+      "text": "Apart from oncological surveillance, patients with a urinary diversion require functional follow-up. Complications related to urinary diversion are detected in 45% of patients during the first five years of follow-up. In a series of 131 patients, this rate increased to 94% in those surviving more than 15 years [464]. General functional complications are diverse and include vitamin B12 deficiency, metabolic acidosis, worsening of renal function, urinary infections, urolithiasis and ureteroenteric stricture [465]. Benign ureteroenteric strictures may occur in up to 20% of patients [465]. Based on SEER data, cystectomy was found to be associated with a 21% increased risk of fractures compared to no RC due to chronic metabolic acidosis and subsequent long-term bone loss [462]. In case of cystectomy and bowel diversion, vitamin B12 levels should be measured annually, because low vitamin B12 levels have been reported in 17% of patients with bowel diversion [82,83,466]. In a series of 3,360 patients who underwent RC for MIBC, 29% progressed to advanced chronic kidney disease within 12 months [467]. In a retrospective study comparing various forms of intestinal diversion, ileal conduits had fewer late complications than continent abdominal pouches or orthotopic neobladders [466]. The main long-term complications in ileal conduit patients are stomal complications in up to 24% and functional and/or morphological changes of the upper urinary tract in up to 30% of patients [466,468,469]. At 15 years of follow-up, 50% of patients developed upper urinary tract changes and 38% developed urolithiasis [470]. The main specific complications in patients with a neobladder are continence problems and emptying dysfunction [457]. A prospective evaluation of continence outcomes in male patients undergoing orthotopic neobladder diversion has been conducted [471]. Daytime continence increased from 59% at less than three months postoperatively to 92% after 12 to 18 months. Night-time continence increased from 28% at less than three months postoperatively to 51% after 18 to 36 months. Also of interest is the urinary bother in females with an orthotopic neobladder. Daytime and night-time continence rates of 70.4% and 64.8%, respectively, have been reported in 56 female neobladder patients. Emptying disfunction is especially common in females - approximately two-thirds need to catheterise their neobladder, while nearly 45% do not void spontaneously at all [472]. There appears to be a correlation between voiding patterns and nerve preservation. In 66 female patients, bilateral preservation of autonomic nerves decreased the need for catheterisation to between 3.4 and 18.7% (CI: 95%) [473]. In a single-centre series of 259 male patients, long-term follow-up after orthotopic bladder substitution (median 121 months; range 60-267), showed that excellent long-term functional outcomes can be achieved in high-volume centres with dedicated teams [474].",
+      "tables": []
+    }
+  ],
+  "tables_count": 1
+}

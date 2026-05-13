@@ -1,0 +1,871 @@
+{
+  "guideline": "muscle-invasive-and-metastatic-bladder-cancer",
+  "chapter": "quality-of-life-and-palliative-care",
+  "url": "https://uroweb.org/guidelines/muscle-invasive-and-metastatic-bladder-cancer/chapter/quality-of-life-and-palliative-care",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Future goals",
+      "anchor": "#2-3-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AND AETIOLOGY",
+      "anchor": "#3-epidemiology-and-aetiology"
+    },
+    {
+      "level": 2,
+      "text": "3.1 Clinical presentation",
+      "anchor": "#3-1-clinical-presentation"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Aetiology",
+      "anchor": "#3-3-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Tobacco smoking",
+      "anchor": "#3-3-1-tobacco-smoking"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Occupational exposure to chemicals",
+      "anchor": "#3-3-2-occupational-exposure-to-chemicals"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Radiotherapy",
+      "anchor": "#3-3-3-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Dietary factors",
+      "anchor": "#3-3-4-dietary-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. Metabolic disorders",
+      "anchor": "#3-3-5-metabolic-disorders"
+    },
+    {
+      "level": 4,
+      "text": "3.3.6. Bladder schistosomiasis and chronic urinary tract infection",
+      "anchor": "#3-3-6-bladder-schistosomiasis-and-chronic-urinary-tract-infection"
+    },
+    {
+      "level": 4,
+      "text": "3.3.7. Sex",
+      "anchor": "#3-3-7-sex"
+    },
+    {
+      "level": 4,
+      "text": "3.3.8. Genetic factors",
+      "anchor": "#3-3-8-genetic-factors"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Summary of evidence and recommendations for epidemiology and risk factors",
+      "anchor": "#3-4-summary-of-evidence-and-recommendations-for-epidemiology-and-risk-factors"
+    },
+    {
+      "level": 2,
+      "text": "4. PATHOLOGY AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-pathology-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Cytology",
+      "anchor": "#4-1-cytology"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Histology",
+      "anchor": "#4-2-histology"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Pathological staging",
+      "anchor": "#4-3-pathological-staging"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Tumour, Node, Metastasis classification",
+      "anchor": "#4-4-tumour-node-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Pathological markers",
+      "anchor": "#4-5-pathological-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Lymphovascular invasion",
+      "anchor": "#4-5-1-lymphovascular-invasion"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Carcinoma",
+      "anchor": "#4-5-2-carcinoma"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Tumour location",
+      "anchor": "#4-5-3-tumour-location"
+    },
+    {
+      "level": 4,
+      "text": "4.5.4. Lymph node-positive disease",
+      "anchor": "#4-5-4-lymph-node-positive-disease"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Tissue handling",
+      "anchor": "#4-6-tissue-handling"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Recommendations for the assessment of tumour specimens",
+      "anchor": "#4-7-recommendations-for-the-assessment-of-tumour-specimens"
+    },
+    {
+      "level": 3,
+      "text": "4.8. EAU-ESMO consensus statements on the management of advanced- and variant bladder cancer [82, 83]*",
+      "anchor": "#4-8-eau-esmo-consensus-statements-on-the-management-of-advanced--and-variant-bladder-cancer-82-83"
+    },
+    {
+      "level": 3,
+      "text": "4.9. Markers",
+      "anchor": "#4-9-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.9.1. Introduction",
+      "anchor": "#4-9-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "4.9.2. Clinical and histopathological markers",
+      "anchor": "#4-9-2-clinical-and-histopathological-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.9.3. Molecular variants",
+      "anchor": "#4-9-3-molecular-variants"
+    },
+    {
+      "level": 4,
+      "text": "4.9.4. Molecular markers",
+      "anchor": "#4-9-4-molecular-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.9.5. Conclusion",
+      "anchor": "#4-9-5-conclusion"
+    },
+    {
+      "level": 4,
+      "text": "4.9.6. Summary of evidence and recommendations for urothelial markers",
+      "anchor": "#4-9-6-summary-of-evidence-and-recommendations-for-urothelial-markers"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSIS",
+      "anchor": "#5-diagnosis"
+    },
+    {
+      "level": 3,
+      "text": "5.1. History and physical examination",
+      "anchor": "#5-1-history-and-physical-examination"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Urine cytology",
+      "anchor": "#5-2-urine-cytology"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Cystoscopy",
+      "anchor": "#5-3-cystoscopy"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Transurethral resection of invasive bladder tumours",
+      "anchor": "#5-4-transurethral-resection-of-invasive-bladder-tumours"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Summary of evidence and recommendations for the primary assessment of presumably invasive bladder tumours*",
+      "anchor": "#5-5-summary-of-evidence-and-recommendations-for-the-primary-assessment-of-presumably-invasive-bladder-tumours"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Imaging for staging",
+      "anchor": "#5-6-imaging-for-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.1. Local staging",
+      "anchor": "#5-6-1-local-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.2. Upper tract evaluation",
+      "anchor": "#5-6-2-upper-tract-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "5.6.3. Lymph node staging",
+      "anchor": "#5-6-3-lymph-node-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.4. Distant staging",
+      "anchor": "#5-6-4-distant-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.5. Future perspectives",
+      "anchor": "#5-6-5-future-perspectives"
+    },
+    {
+      "level": 4,
+      "text": "5.6.6. Summary of evidence and recommendations for staging in MIBC",
+      "anchor": "#5-6-6-summary-of-evidence-and-recommendations-for-staging-in-mibc"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT",
+      "anchor": "#6-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Multidisciplinary team for patients with MIBC",
+      "anchor": "#6-1-multidisciplinary-team-for-patients-with-mibc"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Recommendations for a multidisciplinary team",
+      "anchor": "#6-1-1-recommendations-for-a-multidisciplinary-team"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Health status assessment",
+      "anchor": "#6-2-health-status-assessment"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Evaluation of comorbidity, frailty and cognition",
+      "anchor": "#6-3-evaluation-of-comorbidity-frailty-and-cognition"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Comorbidity scales, anaesthetic risk classification and geriatric assessment",
+      "anchor": "#6-4-comorbidity-scales-anaesthetic-risk-classification-and-geriatric-assessment"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Summary of evidence and recommendations for comorbidity scales",
+      "anchor": "#6-4-1-summary-of-evidence-and-recommendations-for-comorbidity-scales"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Perioperative systemic therapy",
+      "anchor": "#6-5-perioperative-systemic-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.5.1. Neoadjuvant",
+      "anchor": "#6-5-1-neoadjuvant"
+    },
+    {
+      "level": 4,
+      "text": "6.5.2. Adjuvant therapy",
+      "anchor": "#6-5-2-adjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Perioperative radiotherapy",
+      "anchor": "#6-6-perioperative-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.6.1. Preoperative radiotherapy",
+      "anchor": "#6-6-1-preoperative-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.6.2. Postoperative radiotherapy",
+      "anchor": "#6-6-2-postoperative-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.6.3. Summary of evidence and recommendations for pre- and postoperative radiotherapy",
+      "anchor": "#6-6-3-summary-of-evidence-and-recommendations-for-pre--and-postoperative-radiotherapy"
+    },
+    {
+      "level": 3,
+      "text": "6.7. Radical cystectomy with pelvic lymph node dissection",
+      "anchor": "#6-7-radical-cystectomy-with-pelvic-lymph-node-dissection"
+    },
+    {
+      "level": 4,
+      "text": "6.7.1. Removal of the tumour-bearing bladder",
+      "anchor": "#6-7-1-removal-of-the-tumour-bearing-bladder"
+    },
+    {
+      "level": 4,
+      "text": "6.7.2. Radical cystectomy: technique and extent",
+      "anchor": "#6-7-2-radical-cystectomy-technique-and-extent"
+    },
+    {
+      "level": 4,
+      "text": "6.7.3. Lymphadenectomy: role and extent",
+      "anchor": "#6-7-3-lymphadenectomy-role-and-extent"
+    },
+    {
+      "level": 4,
+      "text": "6.7.4. Robotic-assisted laparoscopic cystectomy",
+      "anchor": "#6-7-4-robotic-assisted-laparoscopic-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.7.5. Urinary diversion after radical cystectomy",
+      "anchor": "#6-7-5-urinary-diversion-after-radical-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.7.6. Morbidity and mortality",
+      "anchor": "#6-7-6-morbidity-and-mortality"
+    },
+    {
+      "level": 4,
+      "text": "6.7.7. Survival",
+      "anchor": "#6-7-7-survival"
+    },
+    {
+      "level": 4,
+      "text": "6.7.8. Impact of hospital and surgeon volume on treatment outcomes",
+      "anchor": "#6-7-8-impact-of-hospital-and-surgeon-volume-on-treatment-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "6.7.9. Summary of evidence and recommendations for quality indicators in radical cystectomy",
+      "anchor": "#6-7-9-summary-of-evidence-and-recommendations-for-quality-indicators-in-radical-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.7.10. Palliative cystectomy",
+      "anchor": "#6-7-10-palliative-cystectomy"
+    },
+    {
+      "level": 3,
+      "text": "6.8. Trimodality therapy",
+      "anchor": "#6-8-trimodality-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.8.1. Trimodality bladder-preserving treatment",
+      "anchor": "#6-8-1-trimodality-bladder-preserving-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.9. External beam radiotherapy",
+      "anchor": "#6-9-external-beam-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.9.1. Definitive external beam radiotherapy",
+      "anchor": "#6-9-1-definitive-external-beam-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.9.2. Palliative external beam radiotherapy",
+      "anchor": "#6-9-2-palliative-external-beam-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.9.3. Summary of evidence and recommendation for external beam radiotherapy",
+      "anchor": "#6-9-3-summary-of-evidence-and-recommendation-for-external-beam-radiotherapy"
+    },
+    {
+      "level": 3,
+      "text": "6.10. Other approaches",
+      "anchor": "#6-10-other-approaches"
+    },
+    {
+      "level": 4,
+      "text": "6.10.1. Transurethral resection of bladder tumour",
+      "anchor": "#6-10-1-transurethral-resection-of-bladder-tumour"
+    },
+    {
+      "level": 4,
+      "text": "6.10.2. Chemotherapy",
+      "anchor": "#6-10-2-chemotherapy"
+    },
+    {
+      "level": 2,
+      "text": "7. FOLLOW-UP AND SURVEILLANCE",
+      "anchor": "#7-follow-up-and-surveillance"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Response to neoadjuvant therapy",
+      "anchor": "#7-1-response-to-neoadjuvant-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.1.1. Recommendation for response to neoadjuvant therapy",
+      "anchor": "#7-1-1-recommendation-for-response-to-neoadjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Follow-up after radical cystectomy",
+      "anchor": "#7-2-follow-up-after-radical-cystectomy"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Follow-up after trimodality therapy",
+      "anchor": "#7-3-follow-up-after-trimodality-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Follow-up of functional outcomes and complications",
+      "anchor": "#7-4-follow-up-of-functional-outcomes-and-complications"
+    },
+    {
+      "level": 2,
+      "text": "8. RECURRENT DISEASE",
+      "anchor": "#8-recurrent-disease"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Intravesical recurrence",
+      "anchor": "#8-1-intravesical-recurrence"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Post-trimodality therapy bladder recurrences and salvage cystectomy",
+      "anchor": "#8-1-1-post-trimodality-therapy-bladder-recurrences-and-salvage-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Salvage cystectomy post-trimodality therapy",
+      "anchor": "#8-1-2-salvage-cystectomy-post-trimodality-therapy"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Recommendation for salvage cystectomy",
+      "anchor": "#8-1-3-recommendation-for-salvage-cystectomy"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Pelvic recurrence",
+      "anchor": "#8-2-pelvic-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Upper tract recurrence",
+      "anchor": "#8-3-upper-tract-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.4. Urethral recurrence",
+      "anchor": "#8-4-urethral-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.5. Distant recurrence",
+      "anchor": "#8-5-distant-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.6. Summary of evidence and recommendations for specific recurrence sites",
+      "anchor": "#8-6-summary-of-evidence-and-recommendations-for-specific-recurrence-sites"
+    },
+    {
+      "level": 2,
+      "text": "9. METASTATIC DISEASE",
+      "anchor": "#9-metastatic-disease"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Introduction",
+      "anchor": "#9-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Management of oligometastatic bladder cancer",
+      "anchor": "#9-2-management-of-oligometastatic-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "9.3. First-line systemic therapy for metastatic disease: patient selection",
+      "anchor": "#9-3-first-line-systemic-therapy-for-metastatic-disease-patient-selection"
+    },
+    {
+      "level": 3,
+      "text": "9.4. First-line therapy in patients fit for combination therapy",
+      "anchor": "#9-4-first-line-therapy-in-patients-fit-for-combination-therapy"
+    },
+    {
+      "level": 4,
+      "text": "9.4.1. Enfortumab vedotin plus pembrolizumab",
+      "anchor": "#9-4-1-enfortumab-vedotin-plus-pembrolizumab"
+    },
+    {
+      "level": 4,
+      "text": "9.4.2. Patients eligible for combination therapy but not eligible for enfortumab vedotin or enfortumab vedotin not available",
+      "anchor": "#9-4-2-patients-eligible-for-combination-therapy-but-not-eligible-for-enfortumab-vedotin-or-enfortumab-vedotin-not-available"
+    },
+    {
+      "level": 3,
+      "text": "9.5. First-line therapy in patients not eligible for combination therapy",
+      "anchor": "#9-5-first-line-therapy-in-patients-not-eligible-for-combination-therapy"
+    },
+    {
+      "level": 3,
+      "text": "9.6. Results of other trials integrating immunotherapy in the first-line setting without overall survival benefit",
+      "anchor": "#9-6-results-of-other-trials-integrating-immunotherapy-in-the-first-line-setting-without-overall-survival-benefit"
+    },
+    {
+      "level": 3,
+      "text": "9.7. Further-line systemic therapy for metastatic disease",
+      "anchor": "#9-7-further-line-systemic-therapy-for-metastatic-disease"
+    },
+    {
+      "level": 4,
+      "text": "9.7.1. Introduction",
+      "anchor": "#9-7-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "9.7.2. Chemotherapy",
+      "anchor": "#9-7-2-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "9.7.3. Immunotherapy for platinum-pretreated patients without previous immunotherapy",
+      "anchor": "#9-7-3-immunotherapy-for-platinum-pretreated-patients-without-previous-immunotherapy"
+    },
+    {
+      "level": 3,
+      "text": "9.8. Integration of other agents",
+      "anchor": "#9-8-integration-of-other-agents"
+    },
+    {
+      "level": 4,
+      "text": "9.8.1. Enfortumab vedotin monotherapy",
+      "anchor": "#9-8-1-enfortumab-vedotin-monotherapy"
+    },
+    {
+      "level": 4,
+      "text": "9.8.2. Sacituzumab govitecan",
+      "anchor": "#9-8-2-sacituzumab-govitecan"
+    },
+    {
+      "level": 4,
+      "text": "9.8.3. FGFR inhibition",
+      "anchor": "#9-8-3-fgfr-inhibition"
+    },
+    {
+      "level": 4,
+      "text": "9.8.4. HER2 targeted agents",
+      "anchor": "#9-8-4-her2-targeted-agents"
+    },
+    {
+      "level": 4,
+      "text": "9.8.6. Systemic treatment of metastatic disease with histology other than pure urothelial carcinoma",
+      "anchor": "#9-8-6-systemic-treatment-of-metastatic-disease-with-histology-other-than-pure-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "9.9. Treatment of patients with bone metastases",
+      "anchor": "#9-9-treatment-of-patients-with-bone-metastases"
+    },
+    {
+      "level": 3,
+      "text": "9.10. Treatment algorithm for metastatic urothelial cancer",
+      "anchor": "#9-10-treatment-algorithm-for-metastatic-urothelial-cancer"
+    },
+    {
+      "level": 3,
+      "text": "9.11. Summary of evidence and recommendations for metastatic disease",
+      "anchor": "#9-11-summary-of-evidence-and-recommendations-for-metastatic-disease"
+    },
+    {
+      "level": 2,
+      "text": "10. QUALITY OF LIFE AND PALLIATIVE CARE",
+      "anchor": "#10-quality-of-life-and-palliative-care"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Introduction",
+      "anchor": "#10-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Neoadjuvant therapy",
+      "anchor": "#10-2-neoadjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Radical cystectomy and urinary diversion",
+      "anchor": "#10-3-radical-cystectomy-and-urinary-diversion"
+    },
+    {
+      "level": 3,
+      "text": "10.4. Adjuvant therapy",
+      "anchor": "#10-4-adjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "10.5. Bladder-sparing trimodality therapy",
+      "anchor": "#10-5-bladder-sparing-trimodality-therapy"
+    },
+    {
+      "level": 3,
+      "text": "10.6. Noncurative or metastatic bladder cancer",
+      "anchor": "#10-6-noncurative-or-metastatic-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "10.7. Summary of evidence and recommendations for health-related quality of life",
+      "anchor": "#10-7-summary-of-evidence-and-recommendations-for-health-related-quality-of-life"
+    },
+    {
+      "level": 3,
+      "text": "10.8. Supportive care",
+      "anchor": "#10-8-supportive-care"
+    },
+    {
+      "level": 4,
+      "text": "10.8.1. Obstruction of the upper urinary tract",
+      "anchor": "#10-8-1-obstruction-of-the-upper-urinary-tract"
+    },
+    {
+      "level": 4,
+      "text": "10.8.2. Bleeding and pain",
+      "anchor": "#10-8-2-bleeding-and-pain"
+    },
+    {
+      "level": 2,
+      "text": "11. REFERENCES",
+      "anchor": "#11-references"
+    },
+    {
+      "level": 2,
+      "text": "12. CONFLICT OF INTEREST",
+      "anchor": "#12-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "13. CITATION INFORMATION",
+      "anchor": "#13-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "14. COPYRIGHT AND TERMS OF USE ",
+      "anchor": "#14-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#muscle-invasive-and-metastatic-bladder-cancer",
+      "title": "Muscle-invasive and Metastatic Bladder Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 10. Quality Of Life And Palliative Care Introduction Methods Epidemiology And Aetiology Pathology And Classification Systems Diagnosis Disease Management Follow-up And Surveillance Recurrent Disease Metastatic Disease Quality Of Life And Palliative Care References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#10-quality-of-life-and-palliative-care",
+      "title": "10. QUALITY OF LIFE AND PALLIATIVE CARE",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#10-1-introduction",
+      "title": "10.1. Introduction",
+      "level": 3,
+      "text": "The evaluation of Health-Related Quality of Life (HRQoL) considers physical, psychological, emotional and social functioning. In patients with MIBC, HRQoL is affected, particularly in the physical and social functioning domains [559-561]. In fact, in a large population-based study of patients with MIBC and no prior psychiatric history, 31% of those patients were diagnosed with a new mental health disorder after their BC diagnosis [562]. The most common diagnoses were depression (13%), alcohol and drug abuse (12%) and anxiety (11%). Patients with a post-BC mental health diagnosis had a 57% higher hazard of overall mortality (HR 1.57; p = 0.048) and an 80% higher hazard of bladder CSM (HR 1.81; p = 0.037) [562]. Clinicians should remain attentive to the mental health of patients following surgery for MIBC and facilitate referral to specialist support when indicated, because validated postoperative mental health questionnaires are currently lacking. These patients should also be informed of peer support available through patient advocacy groups, which is intended to complement, not replace, professional mental health care when needed. Several questionnaires have been validated for assessing HRQoL in patients with BC, including FACT-G [563], EORTC QLQ-C30/BLM30 [564], SF-36 [565] and the Bladder Cancer Index (BCI) [566]. Despite these validated questionnaires, there is no single questionnaire that covers all concerning domain. For patients undergoing RC and urinary diversion, a recent systematic review recommended both the EORTC QLQ-C30 and QLQ-BLM30 to identity the issues that impact patients most [561]. Regardless of the which questionnaire is used, assessment of the baseline and post-treatment HRQoL is important. Baseline assessment of HRQoL is not only important in clinical decision making but may also impact BC specific mortality [567].",
+      "tables": []
+    },
+    {
+      "anchor": "#10-2-neoadjuvant-therapy",
+      "title": "10.2. Neoadjuvant therapy",
+      "level": 3,
+      "text": "Two RCTs including patients undergoing NAC have published their HRQoL data [426,568]. One of these RCTs analysed the subset of patients within the BC2001 trial who underwent NAC prior to (chemo)radiation. Using the FACT-BL questionnaire, no detrimental impact of NAC on HRQoL was observed [426]. Another reported on 64 patients included in the JCOG0209 study who underwent NAC (MVAC vs. MVAC and RC). An overall decline in HRQoL was reported directly following NAC using the FACT-BL questionnaire. However, no difference in HRQoL was observed after the consolidating RC.",
+      "tables": []
+    },
+    {
+      "anchor": "#10-3-radical-cystectomy-and-urinary-diversion",
+      "title": "10.3. Radical cystectomy and urinary diversion",
+      "level": 3,
+      "text": "Two systematic reviews and meta-analyses focused on HRQoL after RC and urinary diversion [348,569]. One systematic review compared HRQoL of incontinent and continent urinary diversions (all types) including 29 studies (n = 3,754), of which nine had a prospective design (one of which was randomised) [348]. Only three studies reported HRQoL data both pre- and postoperatively. All three studies reported an initial deterioration in overall HRQoL, but general health, functional and emotional domains at 12 months post-surgery were equal or better than baseline. Overall, no difference in HRQoL between continent and incontinent urinary diversion was reported, although an ileal conduit may confer a small physical health benefit [569]. The other systematic review reported HRQoL comparing ileal conduit with orthotopic neobladder reconstruction [569]. A pooled analysis was performed including 18 studies (n = 1,553), of which the vast majority were retrospective studies. Although this study was hampered by methodological limitations, no statistically significant difference in overall HRQoL was found. A number of RCTs comparing open RC with RARC (with either ECUD or ICUD) have reported their HRQoL data [340,570-572]. All studies reported no statistically significant difference in HRQoL outcomes between surgical techniques. Overall, no single type of urinary diversion appears to be superior in terms of general HRQoL. Rather, the patient’s preference is important in the selection of a reconstruction method [348].",
+      "tables": []
+    },
+    {
+      "anchor": "#10-4-adjuvant-therapy",
+      "title": "10.4. Adjuvant therapy",
+      "level": 3,
+      "text": "Health-related QoL data was reported in the phase III CheckMate 274 RCT in which patients were randomised for adjuvant nivolumab or placebo after radical surgery for BC or UTUC. Patients were not pretreated with NAC. No clinically meaningful deterioration in HRQoL was observed during nivolumab treatment (based on the EORTC QLQ-C30/VAS questionnaire) [293].",
+      "tables": []
+    },
+    {
+      "anchor": "#10-5-bladder-sparing-trimodality-therapy",
+      "title": "10.5. Bladder-sparing trimodality therapy",
+      "level": 3,
+      "text": "Health-related QoL data following bladder sparing treatment was collected in a RCT setting [426]. The primary endpoint was the change in the Bladder Cancer Subscale (BLCS), as part of the FACT-BL questionnaire, at one-year post-treatment. The questionnaire return rate at one and five years was 70% and 60%, respectively. A reduction in HRQoL was seen in the majority of the domains immediately following RT. However, in most patients, the HRQoL scores returned to baseline six months after RT and maintained at this level for five years. In a follow-up study using the same study population, potential differences between male and female participants were investigated [573]. An additional decline in HRQoL at two years post-treatment was observed for females compared to males. The exact reason was unclear but appeared to be related to worsening of urinary function. However, both females and males largely recovered to baseline levels of function at five years post-treatment. Approximately 33% of patients reported persistent lower BLCS scores after five years. Addition of chemotherapy did not affect HRQoL outcomes. A systematic review and meta-analysis showed a trend in favour of higher mean reported values for global health score, physical functioning and role functioning for TMT compared to RC [574]. Another retrospective study showed QoL to be effective after TMT, and in most domains better than after cystectomy [429]. In a secondary analysis of this study, from six HRQoL instruments, two responses had a statistically significant difference between females and males - incidence of diarrhoea and degree of sexual activity [575]. Fifty percent of females compared to 86% of males reported no diarrhoea (p = 0.02). A greater percentage of females reported some degree of sexual activity in the four weeks prior to questionnaire completion (p = 0.04), and sexual interest following TMT declined significantly with age in males, but not in females. An improved understanding of the effect of all these treatment modalities on HRQoL is essential to provide personalised patient care. Overall, data on HRQoL after TMT are scarce, and additional comparative studies including patients receiving RC (especially using ileal orthotopic neobladder) are needed [576]. See Section 7.5.4.5 for further discussion of toxicity after TMT.",
+      "tables": []
+    },
+    {
+      "anchor": "#10-6-noncurative-or-metastatic-bladder-cancer",
+      "title": "10.6. Noncurative or metastatic bladder cancer",
+      "level": 3,
+      "text": "In patients with primary noncurative or metastatic disease, HRQoL is reduced due to associated micturition problems, bleeding and pain and therefore disturbance of social and sexual life [577]. Beneficial impact of palliative surgery [578], RT [579], and/or chemotherapy on bladder-related symptoms have been described [580]. An HRQoL analysis was performed in platinum-refractory patients who were randomised to pembrolizumab versus another line of chemotherapy (KEYNOTE-45 trial) [581]. Patients treated with pembrolizumab were reported to have stable or improved global health status/QoL, whereas those treated with investigators’ choice of chemotherapy experienced declines in global health [581]. In the second-line situation, data are available from the EV-201 study, including 125 patients treated with EV after failing previous treatment with platinum chemotherapy and anti-PD-1/L1 therapy [582]. Patients who remained on EV treatment showed no deterioration in HRQoL. In patients with bone metastases at baseline, pain control and possibly pain reduction was observed.",
+      "tables": []
+    },
+    {
+      "anchor": "#10-7-summary-of-evidence-and-recommendations-for-health-related-quality-of-life",
+      "title": "10.7. Summary of evidence and recommendations for health-related quality of life",
+      "level": 3,
+      "text": "Summary of evidence LE Compared to non-cancer controls, the diagnosis and treatment of BC have a negative impact on HRQoL. 2a No distinct difference was seen in overall QoL between patients with continent or incontinent diversion. 1b In patients with MIBC treated with RC, overall HRQoL declines immediately after treatment and recovers to baseline at 12 months postoperatively in most patients. 1b In patients with MIBC treated with RC, HRQoL is not affected by the type of urinary diversion and operative technique (open or robotic) chosen. 1b In patients with MIBC treated with RT, overall HRQoL declines immediately after treatment, and recovers near to baseline at six months post-treatment. 1b In patients with MIBC treated with RT, concomitant chemotherapy or neoadjuvant chemotherapy has no significant impact on HRQoL. 1b Adjuvant treatment with nivolumab does not result in a clinically meaningful decrease in HRQoL compared to placebo. 1b In patients with platinum-refractory advanced UC, pembrolizumab may be superior in terms of HRQoL compared to another line of chemotherapy. 1b Recommendations Strength rating Use validated questionnaires to assess health-related quality of life in patients with muscle-invasive bladder cancer, both at baseline and post-treatment. Strong Discuss the type of urinary diversion considering patient preference, existing comorbidities, tumour variables and coping abilities. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Compared to non-cancer controls, the diagnosis and treatment of BC have a negative impact on HRQoL.",
+              "2a"
+            ],
+            [
+              "No distinct difference was seen in overall QoL between patients with continent or incontinent diversion.",
+              "1b"
+            ],
+            [
+              "In patients with MIBC treated with RC, overall HRQoL declines immediately after treatment and recovers to baseline at 12 months postoperatively in most patients.",
+              "1b"
+            ],
+            [
+              "In patients with MIBC treated with RC, HRQoL is not affected by the type of urinary diversion and operative technique (open or robotic) chosen.",
+              "1b"
+            ],
+            [
+              "In patients with MIBC treated with RT, overall HRQoL declines immediately after treatment, and recovers near to baseline at six months post-treatment.",
+              "1b"
+            ],
+            [
+              "In patients with MIBC treated with RT, concomitant chemotherapy or neoadjuvant chemotherapy has no significant impact on HRQoL.",
+              "1b"
+            ],
+            [
+              "Adjuvant treatment with nivolumab does not result in a clinically meaningful decrease in HRQoL compared to placebo.",
+              "1b"
+            ],
+            [
+              "In patients with platinum-refractory advanced UC, pembrolizumab may be superior in terms of HRQoL compared to another line of chemotherapy.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use validated questionnaires to assess health-related quality of life in patients with muscle-invasive bladder cancer, both at baseline and post-treatment.",
+              "Strong"
+            ],
+            [
+              "Discuss the type of urinary diversion considering patient preference, existing comorbidities, tumour variables and coping abilities.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#10-8-supportive-care",
+      "title": "10.8. Supportive care",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#10-8-1-obstruction-of-the-upper-urinary-tract",
+      "title": "10.8.1. Obstruction of the upper urinary tract",
+      "level": 4,
+      "text": "Unilateral (best kidney) or bilateral nephrostomy tubes provide the easiest solution for upper urinary tract obstruction, but patients find the tubes inconvenient and prefer ureteral stenting. However, stenting can be difficult to achieve. Stents must be replaced regularly and there is a risk of stent obstruction or displacement. Another possible solution is a urinary diversion with or without a palliative cystectomy.",
+      "tables": []
+    },
+    {
+      "anchor": "#10-8-2-bleeding-and-pain",
+      "title": "10.8.2. Bleeding and pain",
+      "level": 4,
+      "text": "In case of bleeding, the patient must be screened first for coagulation disorders or the patient’s use of anticoagulant drugs must be reviewed. Tumour debulking by TURBT, selective transurethral electrocoagulation or laser coagulation can be challenging in a bladder full of tumour or in case of gross haematuria. Intravesical rinsing of the bladder with 1% silver nitrate or 1-2% alum can be effective [583]. This can usually be done without any anaesthesia. The instillation of formalin (2.5-4% for 30 minutes) is a more aggressive and painful procedure, requiring anaesthesia. Formalin instillation has a higher risk of side effects, for example, bladder fibrosis, but is more likely to control the bleeding [583]. Vesicoureteral reflux should be excluded to prevent renal complications. Radiation therapy is another common strategy to control bleeding and is also used to control pain. An older study reported control of haematuria in 59% of patients and pain control in 73% [584]. Irritative bladder and bowel complaints due to irradiation are possible but are usually mild. Non-conservative options are embolisation of specific arteries in the small pelvis, with success rates as high as 90% [583]. Radical surgery is a last resort and includes cystectomy and diversion (see Sections 6.7.10.1 and 8.1.3).",
+      "tables": []
+    }
+  ],
+  "tables_count": 2
+}

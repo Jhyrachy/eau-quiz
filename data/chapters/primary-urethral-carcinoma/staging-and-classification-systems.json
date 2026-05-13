@@ -1,0 +1,567 @@
+{
+  "guideline": "primary-urethral-carcinoma",
+  "chapter": "staging-and-classification-systems",
+  "url": "https://uroweb.org/guidelines/primary-urethral-carcinoma/chapter/staging-and-classification-systems",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Summary of changes",
+      "anchor": "#1-4-1-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY, AETIOLOGY AND PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology",
+      "anchor": "#3-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Aetiology",
+      "anchor": "#3-2-aetiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Histopathology and genomic profiling",
+      "anchor": "#3-3-histopathology-and-genomic-profiling"
+    },
+    {
+      "level": 2,
+      "text": "4. STAGING AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-staging-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Tumour, Node, Metastasis classification",
+      "anchor": "#4-1-tumour-node-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Tumour grade",
+      "anchor": "#4-2-tumour-grade"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Handling of tumour specimens",
+      "anchor": "#4-3-handling-of-tumour-specimens"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Recommendation for staging and classification systems",
+      "anchor": "#4-4-recommendation-for-staging-and-classification-systems"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION AND STAGING",
+      "anchor": "#5-diagnostic-evaluation-and-staging"
+    },
+    {
+      "level": 3,
+      "text": "5.1. History",
+      "anchor": "#5-1-history"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Clinical examination",
+      "anchor": "#5-2-clinical-examination"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Urinary cytology",
+      "anchor": "#5-3-urinary-cytology"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Diagnostic urethrocystoscopy and biopsy",
+      "anchor": "#5-4-diagnostic-urethrocystoscopy-and-biopsy"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Imaging for diagnosis and staging",
+      "anchor": "#5-5-imaging-for-diagnosis-and-staging"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Regional lymph nodes",
+      "anchor": "#5-6-regional-lymph-nodes"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Summary of evidence and recommendations for diagnostic evaluation and staging",
+      "anchor": "#5-7-summary-of-evidence-and-recommendations-for-diagnostic-evaluation-and-staging"
+    },
+    {
+      "level": 2,
+      "text": "6. PROGNOSIS",
+      "anchor": "#6-prognosis"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Long-term survival after primary urethral carcinoma",
+      "anchor": "#6-1-long-term-survival-after-primary-urethral-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Predictors of survival in primary urethral carcinoma",
+      "anchor": "#6-2-predictors-of-survival-in-primary-urethral-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Summary of evidence for prognosis",
+      "anchor": "#6-3-summary-of-evidence-for-prognosis"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT",
+      "anchor": "#7-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Treatment of primary urethral carcinoma in males",
+      "anchor": "#7-1-treatment-of-primary-urethral-carcinoma-in-males"
+    },
+    {
+      "level": 4,
+      "text": "7.1.1. Summary of evidence and recommendations for the treatment of primary urethral carcinoma in males",
+      "anchor": "#7-1-1-summary-of-evidence-and-recommendations-for-the-treatment-of-primary-urethral-carcinoma-in-males"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Treatment of localised primary urethral carcinoma in females",
+      "anchor": "#7-2-treatment-of-localised-primary-urethral-carcinoma-in-females"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. Urethrectomy and urethra-sparing surgery",
+      "anchor": "#7-2-1-urethrectomy-and-urethra-sparing-surgery"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Radiotherapy",
+      "anchor": "#7-2-2-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Summary of evidence and recommendations for the treatment of localised primary urethral carcinoma in females",
+      "anchor": "#7-2-3-summary-of-evidence-and-recommendations-for-the-treatment-of-localised-primary-urethral-carcinoma-in-females"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Multimodal treatment in locally advanced urethral carcinoma in both males and females",
+      "anchor": "#7-3-multimodal-treatment-in-locally-advanced-urethral-carcinoma-in-both-males-and-females"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Introduction",
+      "anchor": "#7-3-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Preoperative systemic treatment",
+      "anchor": "#7-3-2-preoperative-systemic-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. Chemoradiotherapy in locally advanced squamous cell carcinoma of the urethra",
+      "anchor": "#7-3-3-chemoradiotherapy-in-locally-advanced-squamous-cell-carcinoma-of-the-urethra"
+    },
+    {
+      "level": 4,
+      "text": "7.3.4. Salvage treatment in recurrent primary urethral carcinoma after surgery for primary treatment",
+      "anchor": "#7-3-4-salvage-treatment-in-recurrent-primary-urethral-carcinoma-after-surgery-for-primary-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.3.5. Treatment of regional lymph nodes",
+      "anchor": "#7-3-5-treatment-of-regional-lymph-nodes"
+    },
+    {
+      "level": 4,
+      "text": "7.3.6. Summary of evidence and recommendations for multimodal treatment in advanced urethral carcinoma in both males and females",
+      "anchor": "#7-3-6-summary-of-evidence-and-recommendations-for-multimodal-treatment-in-advanced-urethral-carcinoma-in-both-males-and-females"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Treatment of urothelial carcinoma of the prostate",
+      "anchor": "#7-4-treatment-of-urothelial-carcinoma-of-the-prostate"
+    },
+    {
+      "level": 4,
+      "text": "7.4.1. Summary of evidence and recommendations for the treatment of urothelial carcinoma of the prostate",
+      "anchor": "#7-4-1-summary-of-evidence-and-recommendations-for-the-treatment-of-urothelial-carcinoma-of-the-prostate"
+    },
+    {
+      "level": 3,
+      "text": "7.5. Metastatic disease",
+      "anchor": "#7-5-metastatic-disease"
+    },
+    {
+      "level": 2,
+      "text": "8. FOLLOW-UP",
+      "anchor": "#8-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Research priorities",
+      "anchor": "#8-1-research-priorities"
+    },
+    {
+      "level": 2,
+      "text": "9. REFERENCES",
+      "anchor": "#9-references"
+    },
+    {
+      "level": 2,
+      "text": "10. CONFLICT OF INTEREST",
+      "anchor": "#10-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "11. CITATION INFORMATION",
+      "anchor": "#11-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "12. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#12-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#primary-urethral-carcinoma",
+      "title": "Primary Urethral Carcinoma",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 4. Staging And Classification Systems Introduction Methods Epidemiology, Aetiology And Pathology Staging And Classification Systems Diagnostic Evaluation And Staging Prognosis Disease Management Follow-up References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#4-staging-and-classification-systems",
+      "title": "4. STAGING AND CLASSIFICATION SYSTEMS",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-tumour-node-metastasis-classification",
+      "title": "4.1. Tumour, Node, Metastasis classification",
+      "level": 3,
+      "text": "In males and females, urethral carcinoma is classified according to the 9 th edition of the Tumour, Node, Metastasis (TNM) classification [7] (Table 4.1). There is a separate TNM staging system for prostatic UC [7]. Of note, for cancers occurring in the urethral diverticulum, stage T2 is not applicable, as urethral diverticula are lacking periurethral muscle [32]. Table 4.1: TNM classification (9 th edition) for urethral carcinoma [7] TNM classification (9 th edition) for urethral carcinoma T - Primary tumour TX Primary tumour cannot be assessed T0 No evidence of primary tumour Urethra (male and female) Ta Non-invasive papillary, polypoid, or verrucous carcinoma Tis Carcinoma in situ T1 Tumour invades subepithelial connective tissue T2 Tumour invades any of the following: corpus spongiosum, prostate, periurethral muscle T3 Tumour invades any of the following: corpus cavernosum, beyond prostatic capsule, anterior vagina, or bladder neck (extraprostatic extension) T4 Tumour invades other adjacent organs (invasion of the bladder) Urothelial carcinoma of the prostate and prostatic urethra Tis pu Carcinoma in situ, involvement of prostatic urethra Tis pd Carcinoma in situ, involvement of prostatic ducts T1 Tumour invades subepithelial connective tissue (for tumours involving prostatic urethra only) T2 Tumour invades any of the following: prostatic stroma, corpus spongiosum, periurethral muscle T3 Tumour invades any of the following: corpus cavernosum, beyond prostatic capsule, or bladder neck (extraprostatic extension) T4 Tumour invades other adjacent organs (invasion of the bladder or rectum) N - Regional lymph nodes NX Regional lymph nodes cannot be assessed N0 No regional lymph node metastasis N1 Metastasis in a single lymph node N2 Metastasis in multiple lymph nodes M - Distant metastasis M0 No distant metastasis M1 Distant metastasis",
+      "tables": [
+        {
+          "rows": [
+            [
+              "TNM classification (9th edition) for urethral carcinoma"
+            ],
+            [
+              "T - Primary tumour"
+            ],
+            [
+              "TX",
+              "Primary tumour cannot be assessed"
+            ],
+            [
+              "T0",
+              "No evidence of primary tumour"
+            ],
+            [
+              "Urethra (male and female)"
+            ],
+            [
+              "Ta",
+              "Non-invasive papillary, polypoid, or verrucous carcinoma"
+            ],
+            [
+              "Tis",
+              "Carcinoma in situ"
+            ],
+            [
+              "T1",
+              "Tumour invades subepithelial connective tissue"
+            ],
+            [
+              "T2",
+              "Tumour invades any of the following: corpus spongiosum, prostate, periurethral muscle"
+            ],
+            [
+              "T3",
+              "Tumour invades any of the following: corpus cavernosum, beyond prostatic capsule, anterior vagina, or bladder neck (extraprostatic extension)"
+            ],
+            [
+              "T4",
+              "Tumour invades other adjacent organs (invasion of the bladder)"
+            ],
+            [
+              "Urothelial carcinoma of the prostate and prostatic urethra"
+            ],
+            [
+              "Tis pu",
+              "Carcinoma in situ, involvement of prostatic urethra"
+            ],
+            [
+              "Tis pd",
+              "Carcinoma in situ, involvement of prostatic ducts"
+            ],
+            [
+              "T1",
+              "Tumour invades subepithelial connective tissue (for tumours involving prostatic urethra only)"
+            ],
+            [
+              "T2",
+              "Tumour invades any of the following: prostatic stroma, corpus spongiosum, periurethral muscle"
+            ],
+            [
+              "T3",
+              "Tumour invades any of the following: corpus cavernosum, beyond prostatic capsule, or bladder neck (extraprostatic extension)"
+            ],
+            [
+              "T4",
+              "Tumour invades other adjacent organs (invasion of the bladder or rectum)"
+            ],
+            [
+              "N - Regional lymph nodes"
+            ],
+            [
+              "NX",
+              "Regional lymph nodes cannot be assessed"
+            ],
+            [
+              "N0",
+              "No regional lymph node metastasis"
+            ],
+            [
+              "N1",
+              "Metastasis in a single lymph node"
+            ],
+            [
+              "N2",
+              "Metastasis in multiple lymph nodes"
+            ],
+            [
+              "M - Distant metastasis"
+            ],
+            [
+              "M0",
+              "No distant metastasis"
+            ],
+            [
+              "M1",
+              "Distant metastasis"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-2-tumour-grade",
+      "title": "4.2. Tumour grade",
+      "level": 3,
+      "text": "Nonurothelial urethral carcinoma is graded by a trinomial system that differentiates between well differentiated (G1), moderately differentiated (G2) and poorly differentiated (G3) tumours. In primary UC, histological subtypes are extremely rare. Table 4.2 lists the various grading systems according to the World Health Organization (WHO) 2022 system [33]. Table 4.2: Histopathological grading of urothelial and non-urothelial primary urethral carcinoma [33] Urothelial urethral carcinoma PUNLMP Papillary urothelial neoplasm of low malignant potential Low grade Well differentiated High grade Poorly differentiated Non-urothelial urethral carcinoma Gx Tumour grade not assessable G1 Well differentiated G2 Moderately differentiated G3 Poorly differentiated",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Urothelial urethral carcinoma"
+            ],
+            [
+              "PUNLMP",
+              "Papillary urothelial neoplasm of low malignant potential"
+            ],
+            [
+              "Low grade",
+              "Well differentiated"
+            ],
+            [
+              "High grade",
+              "Poorly differentiated"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Non-urothelial urethral carcinoma"
+            ],
+            [
+              "Gx",
+              "Tumour grade not assessable"
+            ],
+            [
+              "G1",
+              "Well differentiated"
+            ],
+            [
+              "G2",
+              "Moderately differentiated"
+            ],
+            [
+              "G3",
+              "Poorly differentiated"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-3-handling-of-tumour-specimens",
+      "title": "4.3. Handling of tumour specimens",
+      "level": 3,
+      "text": "Specimen handling should follow the general rules as published by the International Collaboration on Cancer Reporting (ICCR) [34]. Table 4.3: Required and recommended elements for pathology reporting of carcinoma of the urethra in urethrectomy specimens [7, 34] Required Recommended Operative procedure   Clinical information Previous history of urinary tract disease or distant metastasis Additional specimens submitted     Previous therapy Maximum tumour dimension Cannot be assessed   Other clinical information No macroscopically visible tumour Tumour focality   Maximum tumour dimension (largest tumour) Other tumour dimensions (than maximum dimension) of the largest tumour   Macroscopic tumour site   Block identification key   Macroscopic extent of invasion   Associated epithelial lesions   Histological tumour type Histological subtype/variant (urothelial carcinoma) Extranodal spread for involved regional lymph node(s)   Non-invasive carcinoma   Coexistent pathology   Histological tumour grade   Ancillary studies   Microscopic extent of invasion       Lymphovascular invasion       Margin status       Regional lymph node status No regional lymph nodes submitted",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Required",
+              "Recommended"
+            ],
+            [
+              "Operative procedure",
+              " ",
+              "Clinical information",
+              "Previous history of urinary tract disease or distant metastasis"
+            ],
+            [
+              "Additional specimens submitted",
+              " ",
+              " ",
+              "Previous therapy"
+            ],
+            [
+              "Maximum tumour dimension",
+              "Cannot be assessed",
+              " ",
+              "Other clinical information"
+            ],
+            [
+              "No macroscopically visible tumour",
+              "Tumour focality",
+              " "
+            ],
+            [
+              "Maximum tumour dimension (largest tumour)",
+              "Other tumour dimensions (than maximum dimension) of the largest tumour",
+              " "
+            ],
+            [
+              "Macroscopic tumour site",
+              " ",
+              "Block identification key",
+              " "
+            ],
+            [
+              "Macroscopic extent of invasion",
+              " ",
+              "Associated epithelial lesions",
+              " "
+            ],
+            [
+              "Histological tumour type",
+              "Histological subtype/variant (urothelial carcinoma)",
+              "Extranodal spread for involved regional lymph node(s)",
+              " "
+            ],
+            [
+              "Non-invasive carcinoma",
+              " ",
+              "Coexistent pathology",
+              " "
+            ],
+            [
+              "Histological tumour grade",
+              " ",
+              "Ancillary studies",
+              " "
+            ],
+            [
+              "Microscopic extent of invasion",
+              " ",
+              " ",
+              " "
+            ],
+            [
+              "Lymphovascular invasion",
+              " ",
+              " ",
+              " "
+            ],
+            [
+              "Margin status",
+              " ",
+              " ",
+              " "
+            ],
+            [
+              "Regional lymph node status",
+              "No regional lymph nodes submitted",
+              " ",
+              " "
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-4-recommendation-for-staging-and-classification-systems",
+      "title": "4.4. Recommendation for staging and classification systems",
+      "level": 3,
+      "text": "Recommendation Strength rating Use the 2025 Tumour, Node, Metastasis classification and 2022 World Health Organization grading system for pathological staging and grading of primary urethral carcinoma. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Use the 2025 Tumour, Node, Metastasis classification and 2022 World Health Organization grading system for pathological staging and grading of primary urethral carcinoma.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 5
+}

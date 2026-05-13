@@ -1,0 +1,736 @@
+{
+  "guideline": "penile-cancer",
+  "chapter": "followup",
+  "url": "https://uroweb.org/guidelines/penile-cancer/chapter/followup",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Preface",
+      "anchor": "#1-5-preface"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review and future goals",
+      "anchor": "#2-2-review-and-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AETIOLOGY AND PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definition of penile cancer",
+      "anchor": "#3-1-definition-of-penile-cancer"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Risk factors, prognosis and prevention",
+      "anchor": "#3-3-risk-factors-prognosis-and-prevention"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Pathology",
+      "anchor": "#3-4-pathology"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Gross handling of pathology specimens",
+      "anchor": "#3-4-1-gross-handling-of-pathology-specimens"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Pathology report",
+      "anchor": "#3-4-2-pathology-report"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Grading",
+      "anchor": "#3-4-3-grading"
+    },
+    {
+      "level": 4,
+      "text": "3.4.4. Pathological prognostic factors",
+      "anchor": "#3-4-4-pathological-prognostic-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.4.5. Penile cancer and HPV",
+      "anchor": "#3-4-5-penile-cancer-and-hpv"
+    },
+    {
+      "level": 4,
+      "text": "3.4.6. Penile biopsy: pathological and technical considerations",
+      "anchor": "#3-4-6-penile-biopsy-pathological-and-technical-considerations"
+    },
+    {
+      "level": 4,
+      "text": "3.4.7. Summary of evidence and guidelines for the pathological assessment of tumour specimens",
+      "anchor": "#3-4-7-summary-of-evidence-and-guidelines-for-the-pathological-assessment-of-tumour-specimens"
+    },
+    {
+      "level": 2,
+      "text": "4. CLASSIFICATION SYSTEMS",
+      "anchor": "#4-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Tumour, node and metastasis classification",
+      "anchor": "#4-1-tumour-node-and-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Cancer stage grouping",
+      "anchor": "#4-2-cancer-stage-grouping"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION AND STAGING",
+      "anchor": "#5-diagnostic-evaluation-and-staging"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Primary lesion",
+      "anchor": "#5-1-primary-lesion"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Physical examination",
+      "anchor": "#5-1-1-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Imaging of the primary tumour",
+      "anchor": "#5-1-2-imaging-of-the-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "5.1.3. Penile biopsy: indications",
+      "anchor": "#5-1-3-penile-biopsy-indications"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Lymph node staging",
+      "anchor": "#5-2-lymph-node-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Physical examination",
+      "anchor": "#5-2-1-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Clinically node-negative (cN0)",
+      "anchor": "#5-2-2-clinically-node-negative-cn0"
+    },
+    {
+      "level": 4,
+      "text": "5.2.3. Clinically node-positive (cN+)",
+      "anchor": "#5-2-3-clinically-node-positive-cn"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Genomic testing",
+      "anchor": "#5-3-genomic-testing"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Summary of evidence and guidelines for the diagnosis and staging of penile cancer",
+      "anchor": "#5-4-summary-of-evidence-and-guidelines-for-the-diagnosis-and-staging-of-penile-cancer"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT",
+      "anchor": "#6-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Treatment of the primary tumour",
+      "anchor": "#6-1-treatment-of-the-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Treatment of superficial non-invasive disease (PeIN, Ta)",
+      "anchor": "#6-1-1-treatment-of-superficial-non-invasive-disease-pein-ta"
+    },
+    {
+      "level": 4,
+      "text": "6.1.3. Locally advanced disease (T3–T4)",
+      "anchor": "#6-1-3-locally-advanced-disease-t3t4"
+    },
+    {
+      "level": 4,
+      "text": "6.1.4. Local recurrence after organ-sparing surgery",
+      "anchor": "#6-1-4-local-recurrence-after-organ-sparing-surgery"
+    },
+    {
+      "level": 4,
+      "text": "6.1.5. Summary of evidence and guidelines for local treatment of penile carcinoma",
+      "anchor": "#6-1-5-summary-of-evidence-and-guidelines-for-local-treatment-of-penile-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Regional lymph node management: clinically evident disease (cN1–cN3)",
+      "anchor": "#6-2-regional-lymph-node-management-clinically-evident-disease-cn1cn3"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Introduction",
+      "anchor": "#6-2-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "6.2.2.c N1–N2 disease: radical inguinal lymph node dissection",
+      "anchor": "#6-2-2-c-n1n2-disease-radical-inguinal-lymph-node-dissection"
+    },
+    {
+      "level": 4,
+      "text": "6.2.3. Prophylactic pelvic lymph node dissection",
+      "anchor": "#6-2-3-prophylactic-pelvic-lymph-node-dissection"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Clinical N3 disease (cN3)",
+      "anchor": "#6-3-clinical-n3-disease-cn3"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. Diagnostic evaluation",
+      "anchor": "#6-3-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Management strategy",
+      "anchor": "#6-3-2-management-strategy"
+    },
+    {
+      "level": 4,
+      "text": "6.3.4. Surgical technique",
+      "anchor": "#6-3-4-surgical-technique"
+    },
+    {
+      "level": 4,
+      "text": "6.3.5. Summary of evidence and guidelines for the surgical management of cN3 disease",
+      "anchor": "#6-3-5-summary-of-evidence-and-guidelines-for-the-surgical-management-of-cn3-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Systemic therapy",
+      "anchor": "#6-4-1-systemic-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Radiotherapy",
+      "anchor": "#6-4-2-radiotherapy"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Systemic and palliative therapies for advanced disease",
+      "anchor": "#6-5-systemic-and-palliative-therapies-for-advanced-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.5.1. Introduction",
+      "anchor": "#6-5-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "6.5.2. Chemotherapy",
+      "anchor": "#6-5-2-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.5.3. Role of radiotherapy in palliation",
+      "anchor": "#6-5-3-role-of-radiotherapy-in-palliation"
+    },
+    {
+      "level": 4,
+      "text": "6.5.4. Summary of evidence and guidelines for systemic and palliative therapies for advanced penile cancer",
+      "anchor": "#6-5-4-summary-of-evidence-and-guidelines-for-systemic-and-palliative-therapies-for-advanced-penile-cancer"
+    },
+    {
+      "level": 2,
+      "text": "7. FOLLOW-UP AND QUALITY OF LIFE",
+      "anchor": "#7-follow-up-and-quality-of-life"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Unmet needs",
+      "anchor": "#7-1-unmet-needs"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Rationale for follow-up",
+      "anchor": "#7-2-rationale-for-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. When and how to follow-up",
+      "anchor": "#7-2-1-when-and-how-to-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Recurrence of the primary tumour",
+      "anchor": "#7-2-2-recurrence-of-the-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Regional recurrence",
+      "anchor": "#7-2-3-regional-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Patient support services",
+      "anchor": "#7-3-patient-support-services"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Psychological support",
+      "anchor": "#7-3-1-psychological-support"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Quality of life",
+      "anchor": "#7-3-2-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. Urinary function",
+      "anchor": "#7-3-3-urinary-function"
+    },
+    {
+      "level": 4,
+      "text": "7.3.4. Sexual function",
+      "anchor": "#7-3-4-sexual-function"
+    },
+    {
+      "level": 4,
+      "text": "7.3.5. Lymphoedema",
+      "anchor": "#7-3-5-lymphoedema"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Centralisation of penile cancer services",
+      "anchor": "#7-4-centralisation-of-penile-cancer-services"
+    },
+    {
+      "level": 4,
+      "text": "7.4.1. Advantages of centralised care",
+      "anchor": "#7-4-1-advantages-of-centralised-care"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Guideline adherence",
+      "anchor": "#7-4-2-guideline-adherence"
+    },
+    {
+      "level": 4,
+      "text": "7.4.3. Survival",
+      "anchor": "#7-4-3-survival"
+    },
+    {
+      "level": 4,
+      "text": "7.4.4. Disadvantages of centralised care",
+      "anchor": "#7-4-4-disadvantages-of-centralised-care"
+    },
+    {
+      "level": 3,
+      "text": "7.5. Summary of evidence and guidelines for follow-up and quality of life",
+      "anchor": "#7-5-summary-of-evidence-and-guidelines-for-follow-up-and-quality-of-life"
+    },
+    {
+      "level": 2,
+      "text": "8. REFERENCES",
+      "anchor": "#8-references"
+    },
+    {
+      "level": 2,
+      "text": "9. CONFLICT OF INTEREST",
+      "anchor": "#9-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "10. CITATION INFORMATION",
+      "anchor": "#10-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "11. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#11-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#penile-cancer",
+      "title": "Penile Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 7. Follow-up And Quality Of Life Introduction Methods Epidemiology Aetiology And Pathology Classification Systems Diagnostic Evaluation And Staging Disease Management Follow-up And Quality Of Life References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#7-follow-up-and-quality-of-life",
+      "title": "7. FOLLOW-UP AND QUALITY OF LIFE",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#7-1-unmet-needs",
+      "title": "7.1. Unmet needs",
+      "level": 3,
+      "text": "Penile cancer has a significant impact on QoL, and unfortunately, there remain many unmet needs to address (see Table 1.1 in Chapter 1) [2]. The physical changes, along with the psychological and emotional stress that men with penile cancer suffer, requires recognition and professional support before, during and after treatment. Holistic patient support services delivered by a multidisciplinary team as a routine part of surveillance and follow-up should be standard of care. Patients with cancer endorse of the need for ‘adjustment’ and dealing with the ‘new normal’ as part of survivorship [343]. The extent of this and the time it takes varies from person to person and it is important to realise that some unmet needs may not become an issue until much later on.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-2-rationale-for-follow-up",
+      "title": "7.2. Rationale for follow-up",
+      "level": 3,
+      "text": "From an oncological perspective, surveillance is important as early detection of recurrence may increase the likelihood of curative treatment. Some studies suggest that local recurrence does not significantly reduce long-term survival if successfully treated [174,344]. However, a multicentre study reported an increased risk of recurrence following glansectomy in men with more-aggressive disease (T3 and/or high grade), which in turn resulted in poorer OS and CSS [172]. Disease that has spread to the inguinal LNs greatly reduces the rate of long-term CSS. Follow-up is also important for survivorship, allowing for the detection and management of the physical and psychological impact of treatments. The use of Patient Reported Outcome Measures (PROMs) related to body image (Male Genital Self-Image Scale [MGSIS-5]) and lymphoedema (Groin and Lower Limb Lymphoedema questionnaire [G3L-20]) have been proposed as tools to help patients and their healthcare team raise and discuss embarrassing topics during consultations [345]. In penile cancer, PROMs sent out to patients digitally (ePROMs) prior to consultations have been trialled. Non-responders tended to be older and have a poorer performance status. The study also found that patients initially engaged with the PROMs, but that this was not maintained over time. Fifty percent of clinicians were positive about the use of these tools, although they may lead to increased consultation times [346]. Local or regional nodal recurrences usually occur within two to three years of primary treatment [174,347-349]. A study of 509 patients reported 52.3% of local recurrences occurred within two years and 79.5% within three years [348]. Fewer than 5% of regional or distant recurrences occur after two years, with the majority occurring within the first year after treatment [347,348]. After five years, all recurrences were either local or new primary lesions [174]. This supports an intensive follow-up regimen during the first two years, with a less intensive follow-up later for a total of at least five years. Follow-up after five years may be omitted in motivated patients who will reliably undertake regular self-examination [174].",
+      "tables": []
+    },
+    {
+      "anchor": "#7-2-1-when-and-how-to-follow-up",
+      "title": "7.2.1. When and how to follow-up",
+      "level": 4,
+      "text": "Follow-up also depends on the primary treatment modality. Histology from the glans should be obtained to confirm disease-free status following laser ablation or topical chemotherapy. After local treatment with negative inguinal nodes, follow-up should include physical examination of the penis and groins for local and/or regional recurrence. A recent study reported that including three-monthly inguinal USs to this regime, following a negative inguinal SN procedure, detected nodal recurrence in 2% of intermediate and high-risk tumours. This was based on data from 201 patients, and the recommendation was that US groin surveillance could be diminished by 50% (stopped after year two) [350]. Using US to survey node-negative groins should also be considered in patients with high body mass index as clinical examination will be less accurate. After potentially curative treatment for inguinal nodal metastases, CT imaging for the detection of systemic disease (imaging of thorax, abdomen and pelvis) should be performed at three-monthly intervals for the first two years. Following this, the frequency is usually reduced to six-monthly for a total of five years of follow-up. However, one study of 224 node-positive patients reported only two recurrences in years three to five of follow-up, and both of these were pN3 patients [347]. In penile cancer, 18 FDG-PET/CT has been shown to play a role in staging nodal and distant disease, with approximately 85% sensitivity, and so may have a role in surveillance in selected cases [127,288]. It is important to acknowledge the anxiety patients face waiting for scan results and services should be designed to deliver prompt reporting and communication to patients. Although rare, late local recurrence may occur. Therefore, regular follow-up can be stopped after five years, provided the patient understands the need to report any local changes immediately [121]. In patients unlikely to self-examine, long-term follow-up may be necessary (Table 7.1). A recent study reported that early check-in with patients after ILND, with telemedicine appointments within one week of discharge, reduced 30-day Clavien-Dindo complications scores and reduced readmission rates [351]. Rarer, more aggressive penile cancers, such as those with sarcomatoid differentiation, have a poorer outcome with regional and distant recurrence more likely [352]. As a result, these patients should be managed by a multidisciplinary team in a specialist penile cancer centre with CT surveillance, even when they are node-negative.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-2-2-recurrence-of-the-primary-tumour",
+      "title": "7.2.2. Recurrence of the primary tumour",
+      "level": 4,
+      "text": "Local recurrence is more likely with all types of local organ-sparing treatment. Until recently, local recurrence was not believed to influence the CSS rate, although one study challenged this showing a reduction in OS and CSS following local recurrence after glansectomy [172]. Large series of glansectomies have reported local recurrence rates around 10% [172,353], although others have reported recurrence in up to 27% of patients treated with penis-preserving modalities, usually occurring within the first two years [173]. After partial penectomy, the risk of local recurrence is approximately 4–5% [173,174,344]. Local recurrence is easily detected by physical examination by the patient themselves or their physician. Patient education is an essential part of follow-up, and the patient should be urged to visit a specialist if any changes are seen.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-2-3-regional-recurrence",
+      "title": "7.2.3. Regional recurrence",
+      "level": 4,
+      "text": "Most regional recurrences occur during the first two years after treatment, irrespective of whether surveillance or invasive nodal staging were used. Although unlikely, regional recurrence can occur later than two years after treatment. It is therefore advisable to continue follow-up in these patients [121]. The highest rate of regional recurrence (9%) occurs in patients managed by surveillance, while the lowest is in patients who have undergone invasive nodal staging by modified ILND or DSNB, and whose LNs were negative (2.3%). The use of US and FNAC in suspicious cases has improved the early detection rate of regional recurrence [129,130,354]. Patients who have had surgery for LN metastases without adjuvant treatment have an increased risk of regional recurrence of 19% [174]. Regional recurrence requires timely treatment by rILND with (neo)adjuvant chemotherapy/chemoradiotherapy. Table 7.1: Follow-up regime for penile cancer   Interval of surveillance Examinations and investigations Minimum duration of follow-up   Years 1–2 Years 3–5   Recommendations for follow-up of the primary tumour Penile-preserving treatment* 3-monthly 6-monthly Regular physician or self-examination. Repeat biopsy after topical or laser treatment for PeIN (optional). 5 years Amputation* 3-monthly Annually Regular physician or self-examination. 5 years Recommendations for follow-up of the inguinal lymph nodes Surveillance* 3-monthly the first year, 6-monthly the second year 6-monthly Regular physician or self-examination. Consider 3-monthly US ± FNAC during first year. 5 years pN0* 3-monthly the first year, 6-monthly the second year No lymph node follow-up required Regular physician or self-examination. Consider 3-monthly US ± FNAC during first year, 6-monthly the second year and end follow-up thereafter in patients capable of self-examination of the penis. 5 years pN+ 3-monthly 6-monthly Regular physician or self-examination. CT chest/abdomen/pelvis or 18 FDG-PET/CT if available. 5 years CT = computed tomography; 18FDG = 18F-fluoro-2-deoxy-D-glucose; FNAC = fine-needle aspiration cytology;PeIN = penile intraepithelial neoplasia; PET = positron emission tomography; US = ultrasound. * Self-examination can be considered in capable patients for penile preserving, amputation, surveillance and pN0 after two years with easy access back to clinic if needed.",
+      "tables": [
+        {
+          "rows": [
+            [
+              " ",
+              "Interval of surveillance",
+              "Examinations and investigations",
+              "Minimum duration of follow-up"
+            ],
+            [
+              " ",
+              "Years 1–2",
+              "Years 3–5",
+              " "
+            ],
+            [
+              "Recommendations for follow-up of the primary tumour"
+            ],
+            [
+              "Penile-preserving treatment*",
+              "3-monthly",
+              "6-monthly",
+              "Regular physician or self-examination.Repeat biopsy after topical or laser treatment for PeIN (optional).",
+              "5 years"
+            ],
+            [
+              "Amputation*",
+              "3-monthly",
+              "Annually",
+              "Regular physician or self-examination.",
+              "5 years"
+            ],
+            [
+              "Recommendations for follow-up of the inguinal lymph nodes"
+            ],
+            [
+              "Surveillance*",
+              "3-monthly the first year, 6-monthly the second year",
+              "6-monthly",
+              "Regular physician or self-examination.Consider 3-monthly US ± FNAC during first year.",
+              "5 years"
+            ],
+            [
+              "pN0*",
+              "3-monthly the first year,6-monthly the second year",
+              "No lymph node follow-up required",
+              "Regular physician or self-examination. Consider3-monthly US ± FNAC during first year, 6-monthly the second year and end follow-up thereafter in patients capable of self-examination of the penis.",
+              "5 years"
+            ],
+            [
+              "pN+",
+              "3-monthly",
+              "6-monthly",
+              "Regular physician or self-examination.CT chest/abdomen/pelvis or 18FDG-PET/CT if available.",
+              "5 years"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-3-patient-support-services",
+      "title": "7.3. Patient support services",
+      "level": 3,
+      "text": "Surveillance is not just about assessing for recurrent disease and men may require more frequent appointments than suggested above with different members of the multidisciplinary team to deliver patient support services and address QoL challenges. In fact, the latter starts at the first preoperative consultation, where a needs assessment can identify areas that will be individually more challenging for that patient, be it physical, psychological, emotional, social or financial. Many men with penile cancer reflect that, whilst the knowledge of potential functional and psychological impacts of treatment would not have stopped them proceeding with it, they wish they had a better understanding before embarking on the surgery. Prehabilitation programmes can also help with this. A qualitative study highlighted that men with penile cancer would appreciate more focus on the following themes: ‘early signs and seeking help,’ ‘disclosure of a personal cancer’ and ‘urological (dys)function’ [355]. Not all men survive penile cancer, and some present with, or recur with, advanced disease, some with extremely challenging symptoms to manage, including pain, odour and discharge. In addition to medical treatments outlined in other parts of these Guidelines, early involvement of palliative care services for symptom control can make a substantial difference to these patients.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-3-1-psychological-support",
+      "title": "7.3.1. Psychological support",
+      "level": 4,
+      "text": "Access to psychological support, counselling and psychosexual therapy are critical components of a holistic and multidisciplinary survivorship service. Men will often think ‘why me?’ and need help to process their thoughts and try to adjust to their changing situation. Areas for discussion might include identity and self-esteem (lifestyle and role adjustments); being a perceived burden; illness beliefs and perceptions; levels of social support; relationship quality and intimacy; body and self-image; and concerns relating to mortality [356]. Despite these significant psychological challenges, the rate of suicide, based on the SEER database (1973–2013), is amongst the lowest of all urological malignancies: 13 out of 6,155 men [357].",
+      "tables": []
+    },
+    {
+      "anchor": "#7-3-2-quality-of-life",
+      "title": "7.3.2. Quality of life",
+      "level": 4,
+      "text": "Very little data is available on QoL after treatment for penile cancer. In particular, there is heterogeneity of the psychometric tools used to assess QoL outcomes and further research is needed to develop disease-specific PROMS for penile cancer. Some validated questionnaires have been used, but none of them were validated in men with penile cancer. Tools used include LYMQOL (lymphoedema) [358]; International Index of Erectile Function (IIEF) (erectile dysfunction) [359]; SF-36 [360]; EORTC QLQ-C30 [361]; Quality of Life Questionnaire-Penile Cancer-Rostock (HRO-PE29) [362]; Hospital Anxiety and Depression Scale [363]; EQ-5D (Euro QoL tool); Bigelow’s questionnaire [364]; Male Genital Self-Image Scale MGSIS-5; and Groin and Lower Limb lymphoedema questionnaire G3L-20 [365]. Not surprisingly, published studies and discussions with patient groups demonstrate that penile cancer and its treatments have a significant impact on overall QoL, both physical and psychological. However, as discussed below, there is discrepancy in the literature as to whether partial penectomy impacts QoL more than penile-preserving surgical techniques. Erectile dysfunction, reduced frequency of sexual intercourse and reduced satisfaction with intercourse are reported in some studies [366,367]. Urinary spraying [368] is another potential significant consequence of penile cancer surgery. Significant anxiety (31%) and depression (6%) have also been reported [369]. A German study reported on 76 patients following primary penile surgery. The researchers reported a global QoL score well below the national average for age-standardised German patients, with voiding, sexuality, body image and lymphoedema all reported as areas of concern [362]. A Dutch study, in which 90 patients returned their questionnaires (a return rate of 62%) found that orgasm, appearance concerns, life interference and urinary function were all significantly poorer following partial penectomy compared with a penile-preserving approach. In the same study, LND had a significant impact on life interference. Interestingly, when compared to an age- and gender-matched normative sample from the general population, the patients reported better outcomes for the SF-36 physical domain and bodily pain subscale [368]. A systematic review [152] reported on post-treatment QoL from ten studies involving 346 men [186,205,362,368,370-375]. Two studies evaluated QoL as the primary endpoint and compared the outcomes among various treatment modalities [370,374]. One of these studies used EORTC QLQ C-30 and reported on the QoL of men after penile cancer management with different treatment modalities. The researchers observed that the treatment itself was not related to overall wellbeing or to social contact and activity. However, half of the individuals had psychological symptoms at follow-up [374]. In contrast, a retrospective study of men who underwent penile-preserving surgery reported a significant impact of surgery in every domain of EORTC QLQ-C30 questionnaire [362]. Another study used Bigelow’s questionnaire and compared the postoperative QoL score to that at two weeks before surgery [375]. The researchers reported that the scores relating to unpleasant feeling, sexual pleasure and familial/partner relations improved significantly (p < 0.01), whereas the domains relating to friend relationships and professional quality were unchanged. Two nonrandomised comparative studies used EORTC QLQ-C30 to assess QoL after penile-preserving surgery or amputative surgery [370,371]. The first trial on 51 men reported a statistically significant negative correlation between aggressiveness of surgery and global health status and physical functioning [370], whereas the other trial reported no significant differences between penile-preserving surgery or partial penectomy in functional scale, symptom scale and in the global health status [371]. A comparison between glans resurfacing, glansectomy and partial penectomy using the EQ-5D tool showed no difference between groups, with comparable health status scores of 82.5, 85.0 and 87.5, respectively [186]. Another nonrandomised comparative study compared penile-preserving surgery to partial penectomy and reported no difference in QoL using the SF-36 scores [368]. Those who underwent amputative surgery had significantly more appearance concerns (p = 0.008) and they reported more life interference (p = 0.032), depending on the degree of disfigurement caused by the procedure.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-3-3-urinary-function",
+      "title": "7.3.3. Urinary function",
+      "level": 4,
+      "text": "Urinary function is an important topic to discuss with men before penile cancer treatment. Some will already be experiencing difficulty voiding due to their tumour causing urethral obstruction, and many report they sit down to pass urine due to the spraying caused by the tumour. As a result, some report improved function following surgery, often in terms of flow, but spraying and needing to sit down to void or use a funnel/bottle can be debilitating for many men. Urinary function has been objectively assessed in only a few studies. Two case series reported improvement in postoperative urinary function and high satisfaction after penile surgery [373,376]. Two nonrandomised comparative studies reported no difference in urination between penile-preserving surgery or amputation. One demonstrated similar maximum flow rates following surgery (19.5mL/s vs. 20.8mL/s) [371], the other reported that urinary function was comparable across the study groups (glans resurfacing, glansectomy and partial penectomy) using the ICIQ-MLUTS score [186]. However, a different study found that urine spraying is more common after partial penectomy as compared to penile-preserving surgery (83% vs. 43%) [368]. Two case series reported no significant changes in urinary function following brachytherapy [195,205]. A single trial on Moh’s micrographic surgery reported no post-treatment change (66% response rate) [377].",
+      "tables": []
+    },
+    {
+      "anchor": "#7-3-4-sexual-function",
+      "title": "7.3.4. Sexual function",
+      "level": 4,
+      "text": "Sexual and erectile function after penile cancer varies between studies and between treatments. Generally, penile-preserving surgery preserves erectile function, although glans sensation and orgasm can be affected. Overall, partial penectomy is associated with poorer sexual outcomes. A systematic review [152] reported on the sexual and erectile function from 27 studies that involve 991 men. The five- or 15-question IIEF scores were used by most studies. Other tools used were the Erectile Dysfunction Inventory of treatment satisfaction (EDITS) score, the index of male genitalia image (IM-GI), the Life Satisfaction of sexual life, the Self-Esteem and Relationship (SEAR) or a combination of tools to assess overall sexual function [152,205,371,372,374,378]. It is important to acknowledge that only a few studies assessed baseline function and are therefore able to report the difference between pre- and post-treatment. Most studies reported only the post-treatment scores or the mean difference for retrospectively completed pre-treatment scores. Three nonrandomised comparative studies and one case series assessed the impact of penile-preserving surgery versus amputation on sexual function of 202 men [368,371,374,379]. Two studies that used the 15-question IIEF questionnaire reported significant post-treatment changes in the orgasmic function domain in favour of penile-preserving surgery (p = 0.033 and p = 0.033), while the other domains remained comparable between the treatment arms [368,371]. However, in other studies using the five-question IIEF score, no difference was identified between treatments [186,369]. An older study that compared the impact of penile-preserving surgery, amputative surgery and radiotherapy on sexual function reported that those treated with amputation had worse sexual outcome [374]. Three trials retrospectively compared penile-preserving surgery techniques using the IIEF questionnaire [373,380,381]. Wide local excision was superior to glansectomy in all IIEF domains [380]. The impact of primary closure versus preputial flap reconstruction after glans-preserving surgery was similar as seen by IIEF results at six months or by rigid-scan parameters [381]. Partial glansectomy was not superior to total glansectomy [373]. Cohort studies have reported similar findings on sexual function. Five studies on patients who underwent penile-preserving surgery and reconstruction reported that 85–100% of men were able to achieve erection and maintain their sexual function [187,382-385]. However, all patients reported reduced glans sensitivity. Following glans resurfacing for penile cancer (n = 21) or lichen sclerosis (n = 16), one study reported no significant change in urinary or sexual function (using IPPS and IIEF questionnaires), with glans sensitivity preserved in 89.2% of men [386]. Four studies of 167 men who have had partial penectomy reported significant changes in 15-question IIEF score with negative impact in every domain [366,376,378,387]. A single trial reported that, after partial penectomy, 61.7% of men report erectile dysfunction [387]. However, a study from Brazil assessing 14 patients following partial penectomy found that, for 64%, overall sexual function was normal or slightly decreased, and frequency of sexual intercourse was unchanged or slightly decreased [367]. The sexual function after brachytherapy has been assessed in five cohort studies [191,195,205,388,389]. Among men who were sexually active before treatment, 58.8–70.0% remained sexually active after treatment [191,205]. Potency was maintained in 81.5–100% of men [191,195,205,388,389]. Altered glans sensitivity is reported in 52.6% [191]. Three studies assessed sexual function after laser treatment [184,372,390] and 46–56.5% of men report an impact of treatment on their sexual life [372,390]. A single trial on 46 men found that 72% reported no change in erectile function, 22% reported decreased erectile function and 6% reported improvement [184]. One trial on patients who underwent Moh’s micrographic surgery reported no change in sexual function after treatment (57.5% response rate) [377].",
+      "tables": []
+    },
+    {
+      "anchor": "#7-3-5-lymphoedema",
+      "title": "7.3.5. Lymphoedema",
+      "level": 4,
+      "text": "Lymphoedema significantly impacted functional domains in one study of patients 25 months following penile cancer nodal surgical treatment, with ILND and PLND having a much higher impact than ILND alone. Patients who had ILND and PLND also had a much poorer mood score (38% vs. 0%) [391]. Due to the significant morbidity associated with ILND, many patients are not offered the operation or choose not to undergo the operation. An analysis of the USA SEER database reported that only 233 out of 943 non-metastatic penile cancer patients (24.7%) had ILND between 1998 and 2015 [253]. This did not change over time. A similar proportion of men, 606 out of 2,224 (27.2%), underwent the surgery between 2004 and 2014, as recorded by the National Cancer Database [392]. Men should be assessed for genital and lower-limb lymphoedema at each outpatient clinic appointment and advised regarding proper skin care, compression, exercise, massage and elevation when resting as the mainstay of treatment. Following nodal surgery, ideally, these men would be referred to specialist lymphoedema services for assessment and management before any significant lymphoedema occurs. Specialist lymphoedema services offer a range of made-to-measure compression garments or multilayer lymphoedema bandaging for lower-limb and genital lymphoedema. The latter not only compress the scrotal lymphoedema but also aim to lift it to aid drainage. For lower limb compression, adjustable Velcro garments are available. Proper skin care is critical to prevent infection that can damage remaining lymphatic channels. Prophylactic antibiotics should be used following any episode of cellulitis, with penicillin V, erythromycin or clindamycin recommended, except in genital lymphoedema, for which prophylactic trimethoprim can be used [393]. Manual lymphatic drainage in the form of specialised massage techniques also helps to alleviate lymphoedema and encourages drainage. Following penile cancer treatments, manual lymphatic drainage is commonly used for stubborn mons, lower abdominal swelling and thickening of the scrotum and penile shaft. Whilst regular exercise may temporarily increase lymphoedema due to the effect of gravity, exercise has an overall beneficial effect on lymphoedema by reducing abdominal fat (fat drains via lymphatic channels, as well) and using natural muscle pumps and changes in thoracic pressure to help lymphatic drainage. Strength training and stretching exercises to promote flexibility are also important. Debulking surgery with scrotal reduction and penile shaft skin grafting can significantly improve issues related to significant genital lymphoedema. There is limited evidence for the benefit of other surgical interventions such as limb liposuction followed by compression and lymphaticovenous anastomosis in penile cancer although some evidence does exist for extremity lymphoedema due to various causes [394].",
+      "tables": []
+    },
+    {
+      "anchor": "#7-4-centralisation-of-penile-cancer-services",
+      "title": "7.4. Centralisation of penile cancer services",
+      "level": 3,
+      "text": "Current large-volume centres offer specialist nursing support, psychological support and specialised lymphoedema services to their patients. However, even in centralised healthcare systems such as the UK, services vary and are not always available.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-4-1-advantages-of-centralised-care",
+      "title": "7.4.1. Advantages of centralised care",
+      "level": 4,
+      "text": "Centralisation of penile cancer services has a number of advantages in addition to delivering these important supportive services to patients (Table 7.2) [395]. These advantages include provision of an environment in which multidisciplinary discussion of cases can occur along with specialist pathological review, and delivery of high volume penile-preserving and nodal surgery, which can lead to innovation, such as closer surgical margins [178], more accurate DSNB and minimally invasive surgery. In the UK, approximately 80% of penile cancers are treated with penile-preserving surgery. Several population-based and database studies have demonstrated that treatment in high-volume or academic centres is associated with improved oncological outcomes. Higher-volume hospitals and academic institutions perform more-appropriate inguinal staging and LND, achieve higher LNYs and report lower rates of positive surgical margins compared with low-volume centres [392,396]. These centres also more frequently apply organ-sparing techniques and multimodal treatment when indicated, supporting centralisation to experienced facilities. Centralisation can also reduce system delays [397] and result in better adherence to guidelines. In addition, patients should be able to access a larger team of specialists, including psychological and lymphoedema survivorship services. Centralisation of penile cancer services also creates opportunities for translational and clinical research in a rare disease.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-4-2-guideline-adherence",
+      "title": "7.4.2. Guideline adherence",
+      "level": 4,
+      "text": "Organ-sparing surgery is likely underused when comparing stage at presentation with guideline recommendations. Reported adherence varies widely, from < 50% in series in the USA to > 70% in some European datasets [396,398-400]. Centralisation increases adherence, with higher use of OSS in referral centres [19,401]. Adherence to nodal staging is also highly variable, often between 20–50% in population-based studies [123,402,403]. Centralisation markedly improves practice: Belgian and Dutch series showed staging rates > 90% in eligible patients after implementation of structured referral pathways [19,401]. Omission of guideline-recommended nodal staging is consistently associated with worse survival [234,392]. Adherence to perioperative chemotherapy in node-positive disease remains low, often below 40% in large registries [231,404]. In Sweden, national guidelines and centralisation increased use from ± 30% to > 60%, with a significant reduction in penile cancer-specific mortality [405].",
+      "tables": []
+    },
+    {
+      "anchor": "#7-4-3-survival",
+      "title": "7.4.3. Survival",
+      "level": 4,
+      "text": "In one hospital in the UK, five-year CSS rates improved by up to 12% (to 85%) following centralisation, which is likely due to several factors, including the impact of early and complete pathological LN staging, regular multidisciplinary patient reviews, and the use of adjuvant chemotherapy and chemoradiotherapy in most patients where indicated [406]. Evidence from the Netherlands also shows that centralisation can translate into improved survival. In a nationwide registry of 3,160 patients, five-year relative survival was significantly higher in the national reference centre compared to regional hospitals (86% vs. 76%, p < 0.001), despite a higher proportion of advanced-stage and node-positive disease at the centralised centre. After adjustment for tumour stage, grade, nodal status, age and year of diagnosis, treatment at regional centres remained an independent predictor of worse survival (HR: 1.22, 95% CI: 1.05–1.39) [19].",
+      "tables": []
+    },
+    {
+      "anchor": "#7-4-4-disadvantages-of-centralised-care",
+      "title": "7.4.4. Disadvantages of centralised care",
+      "level": 4,
+      "text": "Disadvantages of centralisation include deskilling of medical teams not involved with regularly looking after penile cancer and making patients travel long distances for treatment. This can be a significant financial burden, particularly as many patients are in a lower socioeconomic group. However, the recent increase in virtual healthcare and video consultation may reduce this burden, as does the provision of outreach clinics and services. In addition, educational sessions within cancer networks can help keep local teams up to date, enabling them to help support the patient when back at home (Table 7.2). Table 7.2: Advantages and disadvantages of centralisation Advantages Disadvantages Multidisciplinary team and holistic approach to penile cancer care Deskilling of urologists and their teams Opportunities for research, clinical trials and innovation Distance patients need to travel Improved survival Financial burden of travel High rates of penile-preserving surgery Lack of local support for patients High rates of surgical nodal staging   Specialist lymphoedema services   Specialist uroradiology/nuclear medicine   Specialist pathology reporting/review   Psychological support   Adherence to guidelines   Clear referral pathway/reduced system delays",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Advantages",
+              "Disadvantages"
+            ],
+            [
+              "Multidisciplinary team and holistic approach to penile cancer care",
+              "Deskilling of urologists and their teams"
+            ],
+            [
+              "Opportunities for research, clinical trials and innovation",
+              "Distance patients need to travel"
+            ],
+            [
+              "Improved survival",
+              "Financial burden of travel"
+            ],
+            [
+              "High rates of penile-preserving surgery",
+              "Lack of local support for patients"
+            ],
+            [
+              "High rates of surgical nodal staging",
+              " "
+            ],
+            [
+              "Specialist lymphoedema services",
+              " "
+            ],
+            [
+              "Specialist uroradiology/nuclear medicine",
+              " "
+            ],
+            [
+              "Specialist pathology reporting/review",
+              " "
+            ],
+            [
+              "Psychological support",
+              " "
+            ],
+            [
+              "Adherence to guidelines",
+              " "
+            ],
+            [
+              "Clear referral pathway/reduced system delays",
+              " "
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-5-summary-of-evidence-and-guidelines-for-follow-up-and-quality-of-life",
+      "title": "7.5. Summary of evidence and guidelines for follow-up and quality of life",
+      "level": 3,
+      "text": "Summary of evidence LE Follow-up surveillance is important, as early detection of recurrence may increase the likelihood of curative treatment. 3 Local or regional nodal recurrences usually occur within two years of primary treatment. 3 Penile cancer has a significant impact on QoL in many ways and there remain many unmet needs to address. 4 Very little data are available regarding QoL after treatment for penile cancer. In particular, there is heterogeneity of the psychometric tools used to assess QoL outcomes and further research is needed to develop disease-specific PROMS for penile cancer. 3 Penile-preserving surgery generally preserves erectile function, although glans sensation and orgasm can be affected. Overall, partial penectomy is associated with poorer sexual outcomes. 2b Access to psychological support, counselling and psychosexual therapy are critical components of a holistic and multidisciplinary patient support service. 4 Ideally, following nodal surgery, patients would be referred to specialist lymphoedema services for assessment and management before any significant lymphoedema occurs. 4 A volume-outcome relationship exists in penile cancer: high-volume and centralised centres show higher adherence to guidelines for organ-sparing surgery, nodal staging and perioperative multimodal therapies. 3 Centralisation is associated with improved survival, with population-based data showing higher relative survival in national referral centres compared to regional hospitals, even after adjustment for adverse case mix. 3 Recommendations Strength rating Deliver penile cancer care as part of an extended multidisciplinary team consisting of urologists specialising in penile cancer, specialist nurses, pathologists, uroradiologists, nuclear medicine specialists, medical and radiation oncologists, lymphoedema therapists, psychologists, counsellors, palliative care teams for early symptom control, reconstructive surgeons, vascular surgeons and sex therapists. Strong Refer all patients with suspected or confirmed penile cancer to a high-volume expert centre for multidisciplinary evaluation and management. If direct referral is not feasible, ensure pretreatment discussion with such a centre, including the use of European Reference Networks where available. Strong Follow-up with men after penile cancer treatment, initially three-monthly for two years then less frequently to assess for recurrent disease and to offer patient support services through the extended multidisciplinary team. At discharge, recommend self-examination with easy access back to the clinic, as local recurrence can occur late. Strong Discuss the psychological impact of penile cancer and its treatments with the patient and offer psychological support and counselling services. Strong Discuss the negative impact of treatments for the primary tumour on penile appearance, sensation, and urinary and sexual function, so that the patient is better prepared for the challenges they may face. Strong Discuss the potential impact of lymphoedema as a consequence of inguinal and pelvic lymph node treatment with the patient, assess patients for lymphoedema at follow-up, and refer to lymphoedema therapists early. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Follow-up surveillance is important, as early detection of recurrence may increase the likelihood of curative treatment.",
+              "3"
+            ],
+            [
+              "Local or regional nodal recurrences usually occur within two years of primary treatment.",
+              "3"
+            ],
+            [
+              "Penile cancer has a significant impact on QoL in many ways and there remain many unmet needs to address.",
+              "4"
+            ],
+            [
+              "Very little data are available regarding QoL after treatment for penile cancer. In particular, there is heterogeneity of the psychometric tools used to assess QoL outcomes and further research is needed to develop disease-specific PROMS for penile cancer.",
+              "3"
+            ],
+            [
+              "Penile-preserving surgery generally preserves erectile function, although glans sensation and orgasm can be affected. Overall, partial penectomy is associated with poorer sexual outcomes.",
+              "2b"
+            ],
+            [
+              "Access to psychological support, counselling and psychosexual therapy are critical components of a holistic and multidisciplinary patient support service.",
+              "4"
+            ],
+            [
+              "Ideally, following nodal surgery, patients would be referred to specialist lymphoedema services for assessment and management before any significant lymphoedema occurs.",
+              "4"
+            ],
+            [
+              "A volume-outcome relationship exists in penile cancer: high-volume and centralised centres show higher adherence to guidelines for organ-sparing surgery, nodal staging and perioperative multimodal therapies.",
+              "3"
+            ],
+            [
+              "Centralisation is associated with improved survival, with population-based data showing higher relative survival in national referral centres compared to regional hospitals, even after adjustment for adverse case mix.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Deliver penile cancer care as part of an extended multidisciplinary team consisting of urologists specialising in penile cancer, specialist nurses, pathologists, uroradiologists, nuclear medicine specialists, medical and radiation oncologists, lymphoedema therapists, psychologists, counsellors, palliative care teams for early symptom control, reconstructive surgeons, vascular surgeons and sex therapists.",
+              "Strong"
+            ],
+            [
+              "Refer all patients with suspected or confirmed penile cancer to a high-volume expert centre for multidisciplinary evaluation and management. If direct referral is not feasible, ensure pretreatment discussion with such a centre, including the use of European Reference Networks where available.",
+              "Strong"
+            ],
+            [
+              "Follow-up with men after penile cancer treatment, initially three-monthly for two years then less frequently to assess for recurrent disease and to offer patient support services through the extended multidisciplinary team. At discharge, recommend self-examination with easy access back to the clinic, as local recurrence can occur late.",
+              "Strong"
+            ],
+            [
+              "Discuss the psychological impact of penile cancer and its treatments with the patient and offer psychological support and counselling services.",
+              "Strong"
+            ],
+            [
+              "Discuss the negative impact of treatments for the primary tumour on penile appearance, sensation, and urinary and sexual function, so that the patient is better prepared for the challenges they may face.",
+              "Strong"
+            ],
+            [
+              "Discuss the potential impact of lymphoedema as a consequence of inguinal and pelvic lymph node treatment with the patient, assess patients for lymphoedema at follow-up,and refer to lymphoedema therapists early.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 4
+}

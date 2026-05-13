@@ -1,0 +1,610 @@
+{
+  "guideline": "urethral-strictures",
+  "chapter": "definition-epidemiology-aetiology-and-prevention",
+  "url": "https://uroweb.org/guidelines/urethral-strictures/chapter/definition-epidemiology-aetiology-and-prevention",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Summary of changes",
+      "anchor": "#1-5-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODOLOGY",
+      "anchor": "#2-methodology"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Methods",
+      "anchor": "#2-1-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. DEFINITION EPIDEMIOLOGY AETIOLOGY AND PREVENTION",
+      "anchor": "#3-definition-epidemiology-aetiology-and-prevention"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definitions",
+      "anchor": "#3-1-definitions"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Aetiology and prevention",
+      "anchor": "#3-3-aetiology-and-prevention"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Aetiology and prevention in males",
+      "anchor": "#3-3-1-aetiology-and-prevention-in-males"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Aetiology in females",
+      "anchor": "#3-3-2-aetiology-in-females"
+    },
+    {
+      "level": 2,
+      "text": "4. CLASSIFICATIONS",
+      "anchor": "#4-classifications"
+    },
+    {
+      "level": 3,
+      "text": "4.1. According to stricture location",
+      "anchor": "#4-1-according-to-stricture-location"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. In males",
+      "anchor": "#4-1-1-in-males"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. In females",
+      "anchor": "#4-1-2-in-females"
+    },
+    {
+      "level": 3,
+      "text": "4.2. According to stricture tightness",
+      "anchor": "#4-2-according-to-stricture-tightness"
+    },
+    {
+      "level": 3,
+      "text": "4.3. According to stricture severity",
+      "anchor": "#4-3-according-to-stricture-severity"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Strictures in transgender men and woman",
+      "anchor": "#4-4-strictures-in-transgender-men-and-woman"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Trans women",
+      "anchor": "#4-4-1-trans-women"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Trans men",
+      "anchor": "#4-4-2-trans-men"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION",
+      "anchor": "#5-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Patient history",
+      "anchor": "#5-1-patient-history"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Physical examination",
+      "anchor": "#5-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Further diagnostic evaluation",
+      "anchor": "#5-2-1-further-diagnostic-evaluation"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT IN MALES",
+      "anchor": "#6-disease-management-in-males"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Conservative options",
+      "anchor": "#6-1-conservative-options"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Observation",
+      "anchor": "#6-1-1-observation"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Suprapubic catheter",
+      "anchor": "#6-1-2-suprapubic-catheter"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Endoluminal treatment of anterior urethral strictures in males",
+      "anchor": "#6-2-endoluminal-treatment-of-anterior-urethral-strictures-in-males"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Direct vision internal urethrotomy",
+      "anchor": "#6-2-1-direct-vision-internal-urethrotomy"
+    },
+    {
+      "level": 4,
+      "text": "6.2.2. Single dilatation",
+      "anchor": "#6-2-2-single-dilatation"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Open repairs (urethroplasty): site and aetiology (clinical scenario) treatment options",
+      "anchor": "#6-3-open-repairs-urethroplasty-site-and-aetiology-clinical-scenario-treatment-options"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. The role of urethroplasty in the management of penile urethral strictures",
+      "anchor": "#6-3-1-the-role-of-urethroplasty-in-the-management-of-penile-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Urethroplasty for bulbar strictures",
+      "anchor": "#6-3-2-urethroplasty-for-bulbar-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.3. Urethroplasty for penobulbar or panurethral strictures",
+      "anchor": "#6-3-3-urethroplasty-for-penobulbar-or-panurethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.4. Perineal urethrostomy",
+      "anchor": "#6-3-4-perineal-urethrostomy"
+    },
+    {
+      "level": 4,
+      "text": "6.3.5. Posterior urethra",
+      "anchor": "#6-3-5-posterior-urethra"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT IN FEMALES",
+      "anchor": "#7-disease-management-in-females"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Signs and symptoms of female urethral strictures",
+      "anchor": "#7-1-signs-and-symptoms-of-female-urethral-strictures"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Diagnosis of female urethral strictures",
+      "anchor": "#7-2-diagnosis-of-female-urethral-strictures"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Treatment of female urethral strictures",
+      "anchor": "#7-3-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Minimally invasive techniques for treatment of female urethral strictures",
+      "anchor": "#7-3-1-minimally-invasive-techniques-for-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Urethroplasty for treatment of female urethral strictures",
+      "anchor": "#7-3-2-urethroplasty-for-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 2,
+      "text": "8. DISEASE MANAGEMENT IN TRANSGENDER PATIENTS",
+      "anchor": "#8-disease-management-in-transgender-patients"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Treatment of strictures in trans men",
+      "anchor": "#8-1-treatment-of-strictures-in-trans-men"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Management of strictures early after neophallic reconstruction",
+      "anchor": "#8-1-1-management-of-strictures-early-after-neophallic-reconstruction"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Treatment of meatal stenosis in trans men",
+      "anchor": "#8-1-2-treatment-of-meatal-stenosis-in-trans-men"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Treatment of strictures at the neophallic urethra",
+      "anchor": "#8-1-3-treatment-of-strictures-at-the-neophallic-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.4. Treatment of strictures at the anastomosis neophallic urethra-fixed part of the urethra",
+      "anchor": "#8-1-4-treatment-of-strictures-at-the-anastomosis-neophallic-urethra-fixed-part-of-the-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.5. Treatment of strictures at the fixed part of the urethra",
+      "anchor": "#8-1-5-treatment-of-strictures-at-the-fixed-part-of-the-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.6. Definitive perineostomy in trans men",
+      "anchor": "#8-1-6-definitive-perineostomy-in-trans-men"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Perioperative care after treatment of strictures in trans men",
+      "anchor": "#8-2-perioperative-care-after-treatment-of-strictures-in-trans-men"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Strictures in trans women",
+      "anchor": "#8-3-strictures-in-trans-women"
+    },
+    {
+      "level": 2,
+      "text": "9. TISSUE TRANSFER",
+      "anchor": "#9-tissue-transfer"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Comparison of grafts with flaps",
+      "anchor": "#9-1-comparison-of-grafts-with-flaps"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Comparison of different types of flaps",
+      "anchor": "#9-2-comparison-of-different-types-of-flaps"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Comparison of different types of grafts",
+      "anchor": "#9-3-comparison-of-different-types-of-grafts"
+    },
+    {
+      "level": 3,
+      "text": "9.4. Tissue engineered grafts",
+      "anchor": "#9-4-tissue-engineered-grafts"
+    },
+    {
+      "level": 4,
+      "text": "9.4.1. Cell-free tissue engineered grafts",
+      "anchor": "#9-4-1-cell-free-tissue-engineered-grafts"
+    },
+    {
+      "level": 4,
+      "text": "9.4.2. Autologous tissue engineered oral mucosa grafts",
+      "anchor": "#9-4-2-autologous-tissue-engineered-oral-mucosa-grafts"
+    },
+    {
+      "level": 3,
+      "text": "9.5. Management of oral cavity after buccal mucosa harvesting",
+      "anchor": "#9-5-management-of-oral-cavity-after-buccal-mucosa-harvesting"
+    },
+    {
+      "level": 2,
+      "text": "10. PERIOPERATIVE CARE OF URETHRAL SURGERY",
+      "anchor": "#10-perioperative-care-of-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Urethral rest",
+      "anchor": "#10-1-urethral-rest"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Antibiotics",
+      "anchor": "#10-2-antibiotics"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Catheter management",
+      "anchor": "#10-3-catheter-management"
+    },
+    {
+      "level": 2,
+      "text": "11. FOLLOW UP",
+      "anchor": "#11-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "11.1. Rationale for follow-up after urethral surgery",
+      "anchor": "#11-1-rationale-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.2. Definition of success after urethroplasty surgery",
+      "anchor": "#11-2-definition-of-success-after-urethroplasty-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.3. Follow-up tools after urethral surgery",
+      "anchor": "#11-3-follow-up-tools-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.1. Diagnostic tools for follow-up after urethral surgery",
+      "anchor": "#11-3-1-diagnostic-tools-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.2. Screening tools for follow-up after urethral surgery",
+      "anchor": "#11-3-2-screening-tools-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.3. Quality of life assessment, including disease specific questionnaires during follow-up after urethral surgery",
+      "anchor": "#11-3-3-quality-of-life-assessment-including-disease-specific-questionnaires-during-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.4. Ideal follow-up interval after urethral surgery",
+      "anchor": "#11-4-ideal-follow-up-interval-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.5. Length of follow-up after urethral surgery",
+      "anchor": "#11-5-length-of-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.6. Risk-stratified proposals during follow-up after urethral surgery",
+      "anchor": "#11-6-risk-stratified-proposals-during-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.7. Follow-up protocol proposal after urethroplasty",
+      "anchor": "#11-7-follow-up-protocol-proposal-after-urethroplasty"
+    },
+    {
+      "level": 4,
+      "text": "11.7.1. Surgeries with low risk of recurrence",
+      "anchor": "#11-7-1-surgeries-with-low-risk-of-recurrence"
+    },
+    {
+      "level": 4,
+      "text": "11.7.2. Surgical management options with standard risk of recurrence",
+      "anchor": "#11-7-2-surgical-management-options-with-standard-risk-of-recurrence"
+    },
+    {
+      "level": 2,
+      "text": "12. REFERENCES",
+      "anchor": "#12-references"
+    },
+    {
+      "level": 2,
+      "text": "13. CONFLICT OF INTEREST",
+      "anchor": "#13-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "14. CITATION INFORMATION",
+      "anchor": "#14-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "15. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#15-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#urethral-strictures",
+      "title": "Urethral Strictures",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 3. Definition Epidemiology Aetiology And Prevention Introduction Methodology Definition Epidemiology Aetiology And Prevention Classifications Diagnostic Evaluation Disease Management In Males Disease Management In Females Disease Management In Transgender Patients Tissue Transfer Perioperative Care Of Urethral Surgery Follow Up References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#3-definition-epidemiology-aetiology-and-prevention",
+      "title": "3. DEFINITION EPIDEMIOLOGY AETIOLOGY AND PREVENTION",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-1-definitions",
+      "title": "3.1. Definitions",
+      "level": 3,
+      "text": "In males, a urethral stricture refers to a narrowed segment of the anterior urethra due to a process of fibrosis and cicatrisation of the urethral mucosa and surrounding spongiosus tissue ('spongiofibrosis') [4, 5]. In the male posterior urethra, there is no spongiosus tissue, and at this location, the terms stenosis is preferred [4, 5]. The definition of meatal stenosis is generally accepted as a short distal narrowing at the meatus, without involvement of the fossa navicularis [5]. There is no universal definition for what constitutes a female urethral stricture (FUS). Female urethral stricture is defined by most authors as a ‘fixed anatomical narrowing’ causing reduced urethral calibre [6,7]. This reduced urethral calibre is variously defined as between < 10Fr to < 20Fr with the majority of series defining < 14Fr as diagnostic, compared with a ‘normal’ urethral calibre of 18–30Fr [8]. In transgender patients, the term stricture is also used to define a narrowing of the reconstructed urethra, despite the absence of surrounding spongious tissue.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-2-epidemiology",
+      "title": "3.2. Epidemiology",
+      "level": 3,
+      "text": "In males, a sharp increase in incidence is observed after the age of 55 years, with a mean age of 45.1 [9,10]. Overall, the incidence is estimated to be 229–627 per 100,000 males [9]. The anterior urethra is most frequently affected (92.2%), in particular the bulbar urethra (46.9%) [10]. In females, 2–29% of patients presenting with refractory lower urinary tract symptoms (LUTS) have bladder outflow obstruction (BOO) [11-14], of whom 4–20% will have a urethral stricture [13-15]. True FUS therefore occurs in 0.08–5.4% of women with refractory LUTS. There is a markedly increased incidence in women over 64 years of age [16]. After hypospadias repair, meatal stenosis and urethral strictures are reported in 1.3–20% of cases, depending on the severity of the hypospadias and the technique used [17]. There is a significantly higher incidence of this type of strictures in well-resourced countries due to a higher surgical repair rate [18]. Up to 18% of all urethral strictures have been reported to involve the meatus or fossa navicularis, usually due to failed hypospadias repair (FHR), lichen sclerosus (LS), trauma/instrumentation or idiopathic causes [19-22]. Meatal stenosis post-circumcision has been reported in 4.9% of children undergoing circumcision [23]. In female-to-male (FtM) transgender patients ('trans men'), 2–56% will suffer a urethral stricture. Strictures almost exclusively arise at the neomeatus in male-to-female (MtF) transgender patients ('trans women') and occur in 4–40% of cases [24]. In the last decades, there has been a trend towards the use of urethroplasty in both males and females. Although endoscopic treatment remains predominant, the use of these procedures is decreasing [25, 26].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-aetiology-and-prevention",
+      "title": "3.3. Aetiology and prevention",
+      "level": 3,
+      "text": "Stricture aetiology differs significantly throughout different regions in the world, due to differences in healthcare quality and environmental and practice patterns [18]. Regardless of geography, urethral stricture disease adversely impacts physical health and quality of life (QoL) [27, 28], notwithstanding costs associated with the treatment of primary and recurrent disease [29, 30]. The rationale for preventing urethral strictures is to avoid morbidity to the individual and costs to society. Prevention of urethral strictures encompasses reducing the causes of stricture (e.g. infection, trauma, iatrogenic injury) and where this is not possible, mitigating the risk.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-1-aetiology-and-prevention-in-males",
+      "title": "3.3.1. Aetiology and prevention in males",
+      "level": 4,
+      "text": "3.3.1.a. Sexually transmitted infection Urethritis due to sexually transmitted infection (STI), in particular gonorrhoea, was previously a major cause of urethral strictures in well-resourced countries accounting for 40% of all cases [31]. The wide-scale promotion of safe sexual practices and easier access to sexual health services, resulting in timely treatment with antimicrobials, is thought to have led to the considerable reduction in the problem [31]. Infective urethritis now accounts for 0.9% to 4.6% of cases in contemporary series from well-resourced countries [31, 32] but continues to be the major cause of strictures in low-resourced countries comprising 41.6% of all strictures [33]. Summary of evidence LE Access to investigation and treatment of STI is associated with a temporal decline in the incidence of infective urethritis-related strictures. 3 Recommendation Strength rating Advise safe sexual practices, recognise symptoms of sexually transmitted infection and provide access to prompt investigation and treatment for males with urethritis. Strong 3.3.1.b. Inflammation Lichen sclerosus involves the urethra in 20% of cases [34] and is the most common cause of panurethral stricture disease (48.6%) [10]. The aetiology of LS has not been fully elucidated but is thought to have an autoimmune origin [35]. Lichen sclerosus may be associated with environmental factors and non-autoimmune comorbidities. Uncircumcised men are far more likely to suffer LS than circumcised men (age-adjusted odds ratio [OR] of 53.55; 95% confidence interval [CI]: 7.24–395.88) [36]. Lichen sclerosus is also associated with higher mean body mass index (BMI), diabetes mellitus, coronary artery disease, tobacco usage, hyperlipidaemia and hypertension [37-39]. 3.3.1.c. External urethral trauma External trauma to the urethra is the second most common cause of stricture formation in adults [31, 40]. The urethra is vulnerable to trauma during certain activities including sport, driving a vehicle, sexual intercourse and during combat. The bulbar urethra is the site most frequently affected by blunt trauma [5], usually as a result of straddle injuries or kicks to the perineum. Penile fracture is associated with a urethral injury in 15% of cases [41]. Motor vehicle accidents are the main cause of blunt injuries to the posterior urethra associated with pelvic fractures [42]. Penetrating injuries of the urethra are uncommon during noncombat situations [43]. 3.3.1.d. Iatrogenic urethral injury Iatrogenic injury to the urethra is one of the most common causes of strictures in well-resourced countries [10, 31] accounting for 32–79% of all strictures [10,31,40,44]. Preventing iatrogenic urethral injury represents the main way in which urologists can prevent urethral strictures. Iatrogenic urethral injury most commonly results from urethral instrumentation (e.g. catheterisation, cystoscopy), surgery for benign prostatic obstruction (BPO), surgery for prostate cancer or radiotherapy [32]. 3.3.1.d.1. Urethral catheterisation Urethral strictures are a recognised complication of urethral catheterisation accounting for 11.2–16.3% of all strictures [10, 31]. In a meta-analysis by Hollingsworth et al. the pooled percentage of patients who developed urethral stricture or erosion after short-term catheterisation (< 3 weeks) in higher-quality studies was 3.4% (CI: 1–7%) [45]. In studies comprised mainly of men with spinal cord injury with indwelling urethral catheters, the pooled estimate of urethral stricture or erosion was 8.7% (CI: 0.0-18.7%) [45]. Urethral strictures following catheterisation may arise as a consequence of injury during attempts at insertion or during the period a catheter remains in situ . During insertion, the urethra may be injured by formation of a false passage by the catheter tip (29.7%) or inflation of the balloon within its lumen (70.3%) [46]. The rate of urethral injuries due to catheterisation was found to be 3.2 per 1,000 inpatients [47]. A six-month, prospective, multicentre study found that, of 37 patients with catheter-related urethral trauma referred to urologists, 24% continued to perform ISD once weekly, and 11% required at least one urethral dilation for urethral stricture [48]. In another follow-up study of 37 patients with catheter-related urethral trauma, 78% of patients developed urethral stricture [46]. The most common locations of trauma are the bulbar and posterior urethra [49]. Catheter-related trauma can be prevented through several measures [50]. Studies have indicated around 25% of all indwelling catheterisations in hospitals were unnecessary and inappropriate [51, 52]. Implementation of guidelines [53, 54] and specific criteria [55] have been shown to reduce catheterisation rates. Several studies have identified deficits in the knowledge of urethral catheterisation amongst resident doctors [56, 57]. This is postulated to be a factor in catheter-related trauma [57]. A targeted training program on urethral c",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Access to investigation and treatment of STI is associated with a temporal decline in the incidence of infective urethritis-related strictures.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Advise safe sexual practices, recognise symptoms of sexually transmitted infection and provide access to prompt investigation and treatment for males with urethritis.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "A significant proportion of catheter insertions in hospitalised patients were considered unnecessary.",
+              "2b"
+            ],
+            [
+              "Education programs can reduce the incidence of catheter-related urethral injury.",
+              "2a"
+            ],
+            [
+              "Larger catheter size was associated with a greater risk of navicular fossa strictures.",
+              "3"
+            ],
+            [
+              "Non-coated latex catheters are associated with a greater degree of urethritis and possibly a greater risk of urethral strictures than non-latex catheters or coated latex catheters.",
+              "1a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Avoid unnecessary urethral catheterisation.",
+              "Strong"
+            ],
+            [
+              "Implement training programmes for physicians and nurses performing urinary catheterisation.",
+              "Strong"
+            ],
+            [
+              "Do not use catheters larger than 18Fr if urinary drainage is the only purpose.",
+              "Weak"
+            ],
+            [
+              "Avoid using non-coated latex catheters.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Modality",
+              "Urethral stricture",
+              "Bladder neck stenosis"
+            ],
+            [
+              "Transurethral resection of prostate (TURP)- monopolar and bipolar",
+              "1.7 to 11.7%",
+              "2.4 to 9.7%"
+            ],
+            [
+              "Holmium enucleation of the prostate (HoLEP)",
+              "1.4 to 4.4%",
+              "0 to 5.4%"
+            ],
+            [
+              "Photo-selective vaporisation (PVP)",
+              "0 to 4.4%",
+              "1.4 to 3.6%"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "An RCT with more than 12-months follow-up failed to demonstrate a significant reduction in stricture rate using routine urethrotomy prior to TURP.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Do not routinely perform urethrotomy when there is no pre-existent urethral stricture.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-3-2-aetiology-in-females",
+      "title": "3.3.2. Aetiology in females",
+      "level": 4,
+      "text": "The cause of FUS was idiopathic in 48.5%, iatrogenic in 24.1%, resulting from prior urethral dilations, difficult/ traumatic catheterisation with subsequent fibrosis, urethral surgeries (mainly diverticulum surgery, fistula repair and anti-incontinence procedures) and trauma (mainly following pelvic fracture) in 16.4% [129-142]. Radiation therapy and infections are rare causes of FUS [143]. The most common segment of urethra affected is the mid- or mid-to-distal (58%). Panurethral strictures are rare (4%) [129, 131, 132, 134-136, 141, 144, 145]. For further information, see online supplementary Tables S3.1 and S3.2.",
+      "tables": []
+    }
+  ],
+  "tables_count": 7
+}

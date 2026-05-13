@@ -1,0 +1,1158 @@
+{
+  "guideline": "urological-trauma",
+  "chapter": "urogenital-trauma-guidelines",
+  "url": "https://uroweb.org/guidelines/urological-trauma/chapter/urogenital-trauma-guidelines",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Evidence sources",
+      "anchor": "#2-1-evidence-sources"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY CLASSIFICATION GENERAL MANAGEMENT PRINCIPALS",
+      "anchor": "#3-epidemiology-classification-general-management-principals"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definition and epidemiology",
+      "anchor": "#3-1-definition-and-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Classification of trauma",
+      "anchor": "#3-2-classification-of-trauma"
+    },
+    {
+      "level": 3,
+      "text": "3.3. General management principals",
+      "anchor": "#3-3-general-management-principals"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Initial evaluation",
+      "anchor": "#3-3-1-initial-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Polytrauma managed in major trauma centres leads to improved survival",
+      "anchor": "#3-3-2-polytrauma-managed-in-major-trauma-centres-leads-to-improved-survival"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Damage control",
+      "anchor": "#3-3-3-damage-control"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Mass casualty events and triage",
+      "anchor": "#3-3-4-mass-casualty-events-and-triage"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. The role of thromboprophylaxis and bed rest",
+      "anchor": "#3-3-5-the-role-of-thromboprophylaxis-and-bed-rest"
+    },
+    {
+      "level": 4,
+      "text": "3.3.6. Antibiotic stewardship",
+      "anchor": "#3-3-6-antibiotic-stewardship"
+    },
+    {
+      "level": 4,
+      "text": "3.3.7. Urinary catheterisation",
+      "anchor": "#3-3-7-urinary-catheterisation"
+    },
+    {
+      "level": 2,
+      "text": "4. UROGENITAL TRAUMA GUIDELINES",
+      "anchor": "#4-urogenital-trauma-guidelines"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Renal trauma",
+      "anchor": "#4-1-renal-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. Epidemiology, aetiology and classification",
+      "anchor": "#4-1-1-epidemiology-aetiology-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. Diagnosis",
+      "anchor": "#4-1-2-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.1.3. Management",
+      "anchor": "#4-1-3-management"
+    },
+    {
+      "level": 4,
+      "text": "4.1.4. Follow-up",
+      "anchor": "#4-1-4-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "4.1.5. Complications",
+      "anchor": "#4-1-5-complications"
+    },
+    {
+      "level": 4,
+      "text": "4.1.6. Iatrogenic renal injuries",
+      "anchor": "#4-1-6-iatrogenic-renal-injuries"
+    },
+    {
+      "level": 4,
+      "text": "4.1.7. Summary of evidence and recommendations for evaluation and management of renal trauma",
+      "anchor": "#4-1-7-summary-of-evidence-and-recommendations-for-evaluation-and-management-of-renal-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.1.8. Treatment algorithms",
+      "anchor": "#4-1-8-treatment-algorithms"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Ureteral trauma",
+      "anchor": "#4-2-ureteral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#4-2-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. Diagnosis",
+      "anchor": "#4-2-2-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.2.3. Prevention of iatrogenic trauma",
+      "anchor": "#4-2-3-prevention-of-iatrogenic-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.2.4. Management",
+      "anchor": "#4-2-4-management"
+    },
+    {
+      "level": 4,
+      "text": "4.2.5. Summary of evidence and recommendations for the management of ureteral trauma",
+      "anchor": "#4-2-5-summary-of-evidence-and-recommendations-for-the-management-of-ureteral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.2.6. Treatment algorithms",
+      "anchor": "#4-2-6-treatment-algorithms"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Bladder trauma",
+      "anchor": "#4-3-bladder-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#4-3-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "4.3.2. Classification",
+      "anchor": "#4-3-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "4.3.3. Diagnosis",
+      "anchor": "#4-3-3-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.3.4. Prevention",
+      "anchor": "#4-3-4-prevention"
+    },
+    {
+      "level": 4,
+      "text": "4.3.5. Management",
+      "anchor": "#4-3-5-management"
+    },
+    {
+      "level": 4,
+      "text": "4.3.6. Follow-up",
+      "anchor": "#4-3-6-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "4.3.7. Summary of evidence and recommendations for bladder injury",
+      "anchor": "#4-3-7-summary-of-evidence-and-recommendations-for-bladder-injury"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Urethral trauma",
+      "anchor": "#4-4-urethral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Introduction",
+      "anchor": "#4-4-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Anterior male urethral injury",
+      "anchor": "#4-4-2-anterior-male-urethral-injury"
+    },
+    {
+      "level": 4,
+      "text": "4.4.3. Posterior male urethral injury",
+      "anchor": "#4-4-3-posterior-male-urethral-injury"
+    },
+    {
+      "level": 4,
+      "text": "4.4.4. Female urethral injuries",
+      "anchor": "#4-4-4-female-urethral-injuries"
+    },
+    {
+      "level": 4,
+      "text": "4.4.5. Summary of evidence and recommendations for the evaluation and management of urethral trauma",
+      "anchor": "#4-4-5-summary-of-evidence-and-recommendations-for-the-evaluation-and-management-of-urethral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.4.6. Treatment algorithms",
+      "anchor": "#4-4-6-treatment-algorithms"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Genital trauma",
+      "anchor": "#4-5-genital-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#4-5-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Categorisation of genital trauma",
+      "anchor": "#4-5-2-categorisation-of-genital-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Diagnosis",
+      "anchor": "#4-5-3-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.5.4. Management",
+      "anchor": "#4-5-4-management"
+    },
+    {
+      "level": 4,
+      "text": "4.5.5. Complications",
+      "anchor": "#4-5-5-complications"
+    },
+    {
+      "level": 4,
+      "text": "4.5.6. Follow-up",
+      "anchor": "#4-5-6-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "4.5.7. Summary of evidence and recommendations for evaluation and management of genital trauma",
+      "anchor": "#4-5-7-summary-of-evidence-and-recommendations-for-evaluation-and-management-of-genital-trauma"
+    },
+    {
+      "level": 2,
+      "text": "5. REFERENCES",
+      "anchor": "#5-references"
+    },
+    {
+      "level": 2,
+      "text": "6. CONFLICT OF INTEREST",
+      "anchor": "#6-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "7. CITATION INFORMATION",
+      "anchor": "#7-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "8. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#8-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#urological-trauma",
+      "title": "Urological Trauma",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 4. Urogenital Trauma Guidelines Introduction Methods Epidemiology Classification General Management Principals Urogenital Trauma Guidelines References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#4-urogenital-trauma-guidelines",
+      "title": "4. UROGENITAL TRAUMA GUIDELINES",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-renal-trauma",
+      "title": "4.1. Renal trauma",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-1-epidemiology-aetiology-and-classification",
+      "title": "4.1.1. Epidemiology, aetiology and classification",
+      "level": 4,
+      "text": "Renal trauma is present in up to 5% of all trauma cases [30]. Renal trauma is most common in young males and has an overall population incidence of 4.9 per 100,000 [31]. Most renal trauma injuries can be managed nonoperatively with successful organ preservation [32, 33]. Blunt renal injuries result from high-speed road traffic accidents/injury, falls, sporting injuries and assault [34]. The kidney and/or hilar structures are directly crushed as a result. Less commonly, sudden deceleration may result in an avulsion injury affecting the vascular structures of the hilum or the ureteropelvic junction (UPJ). Penetrating renal injuries result from stabbing and gunshot injuries. These types of injuries tend to be more severe and less predictable than blunt trauma. The prevalence is higher in urban settings [35]. Penetrating injury produces direct tissue disruption of the parenchyma, vascular pedicles or collecting system. High-velocity bullets or fragments have the potential for greatest parenchymal destruction and are most often associated with multiple-organ injuries [36]. The most commonly used classification system is that of the AAST [13]. High-grade renal trauma is defined as Grade 4 and 5 injuries [37]. This type of trauma is validated and predicts morbidity and the need for intervention [38, 39]. The AAST renal injury grading scale remains the most useful of urological trauma classifications, although it does not differentiate between the mechanism of trauma (blunt vs. penetrating) [40]. The mechanism of trauma should be considered when applying the following guidelines with respect to the AAST classification. Table 4.1.1: Extract of the AAST renal-injury grading scale [14, 41] Grade* Type of injury Description of injury 1 Haematoma and/or contusion Subcapsular non-expanding haematoma or parenchymal contusion without parenchymal laceration. 2 Haematoma Laceration Non-expanding perirenal haematoma confined to Gerota’s fascia. Renal parenchymal laceration < 1cm depth without urinary extravasation. 3 Laceration Renal parenchymal laceration > 1cm depth without collecting system rupture or urinary extravasation. Any injury in the presence of a kidney vascular injury or active bleeding contained within Gerota’s fascia. 4 Laceration Parenchymal laceration extending into urinary collecting system with urinary extravasation. Renal pelvis laceration and/or complete ureteropelvic disruption. Vascular Segmental renal vein or artery injury. Active bleeding beyond Gerota’s fascia into the retroperitoneum or peritoneum. Segmental or complete kidney infarction(s) due to vessel thrombosis without active bleeding. 5 Laceration Shattered kidney with loss of identifiable parenchymal renal anatomy. Vascular Main renal artery or vein laceration or avulsion of renal hilum. Devascularised kidney with active bleeding. *Advance one grade for bilateral injuries up to Grade 3. Note: The radiology imaging criteria of the AAST renal injury scale was updated in 2018 and is presented in Table 4.1.1. The references in this text are still based on the AAST 1989 renal injury scale. The 2018 injury scale does not outperform the previous grading system in predicting bleeding and the need for treatment intervention and does not impact on the validity of the current recommendations [41] .",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Grade*",
+              "Type of injury",
+              "Description of injury"
+            ],
+            [
+              "1",
+              "Haematoma and/or contusion",
+              "Subcapsular non-expanding haematoma or parenchymal contusion without parenchymal laceration."
+            ],
+            [
+              "2",
+              "HaematomaLaceration",
+              "Non-expanding perirenal haematoma confined to Gerota’s fascia.Renal parenchymal laceration < 1cm depth without urinary extravasation."
+            ],
+            [
+              "3",
+              "Laceration",
+              "Renal parenchymal laceration > 1cm depth without collecting system rupture or urinary extravasation.Any injury in the presence of a kidney vascular injury or active bleeding contained within Gerota’s fascia."
+            ],
+            [
+              "4",
+              "Laceration",
+              "Parenchymal laceration extending into urinary collecting system with urinary extravasation.Renal pelvis laceration and/or complete ureteropelvic disruption."
+            ],
+            [
+              "Vascular",
+              "Segmental renal vein or artery injury.Active bleeding beyond Gerota’s fascia into the retroperitoneum or peritoneum.Segmental or complete kidney infarction(s) due to vessel thrombosis without active bleeding."
+            ],
+            [
+              "5",
+              "Laceration",
+              "Shattered kidney with loss of identifiable parenchymal renal anatomy."
+            ],
+            [
+              "Vascular",
+              "Main renal artery or vein laceration or avulsion of renal hilum.Devascularised kidney with active bleeding."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-1-2-diagnosis",
+      "title": "4.1.2. Diagnosis",
+      "level": 4,
+      "text": "4.1.2.a. Clinical evaluation The evaluation of patients with suspected renal trauma is now primarily based on a trauma protocol computed tomography (CT) scan, often performed prior to involvement of a urologist [42, 43]. It is important to consider all parameters in the evaluation of the patient and to understand the indications for scanning when these are not absolute. Predictors of renal injury include a direct blow to the flank or rapid deceleration event (fall, high-speed road traffic accidents/injury). Special consideration should be given to pre-existing renal disease [44] or an injured solitary kidney [45]. Pre-existing abnormality, for example, hydronephrosis, makes injury more likely following trauma [46]. Vital signs should be recorded throughout the initial evaluation and give the most reliable indication of the urgency of the situation. Physical examination may reveal flank bruising, stab wounds or bullet entry or exit wounds and abdominal tenderness. Urinalysis, haematocrit and baseline creatinine are required. Haematuria (visible or nonvisible) is a key finding. However, major injury, such as disruption of the UPJ, pedicle injuries, segmental arterial thrombosis and stab wounds, may present without haematuria [47, 48]. Haematuria that is out of proportion to the history of trauma may suggest pre-existing pathology [49]. Urine dipstick tests quickly evaluate for haematuria, but false-negative results can range from 3 to 10% [50]. An increased creatinine level usually reflects pre-existing renal pathology. 4.1.2.b. Imaging The goals of imaging are to grade the renal injury, document pre-existing renal pathology, demonstrate presence of the contralateral kidney and identify injuries to other organs. Haemodynamic status will determine the initial imaging pathway with unstable patients potentially requiring immediate intervention. Nearly all patients with moderate to major trauma will have had a CT scan performed soon after presentation. In patients who have not had any imaging, the indications for renal imaging are [34, 51-54]: visible haematuria; non-visible haematuria and one episode of hypotension; a history of rapid deceleration injury and/or significant associated injuries; penetrating trauma; and clinical signs suggesting renal trauma, for example, flank pain, abrasions, fractured ribs, abdominal distension and/or a mass, and tenderness. 4.1.2.b.1. Computed tomography Computed tomography is the imaging modality of choice in patients with suspected renal trauma. It is quick, widely available and can accurately identify grade of renal injury [55], establish the presence of the contralateral kidney and demonstrate concurrent injuries to other organs. Computed tomography is ideally performed as a three-phase study [56]: The arterial phase assesses vascular injury and presence of active extravasation of contrast. The nephrographic phase optimally demonstrates parenchymal contusions and lacerations. The delayed phase imaging (five minutes) identifies collecting system/ureteric injury. However, in hypovolaemic trauma patients, a five-minute delayed phase may be unreliable for documenting these injuries. In practice, trauma patients usually undergo standardised, whole-body imaging protocols, and delayed phase imaging of the renal tract is not routinely performed. If there is suspicion that renal injuries have not been fully evaluated, delayed phase imaging is recommended and can be carried out as a repeat imaging (see Section 4.1.3.a.4). The rates of contrast-induced nephropathy seen in trauma patients is low [57]. 4.1.2.b.2. Ultrasonography In the primary survey of a critically injured patient, Focused Assessment Sonography in Trauma (FAST) is used to identify hemoperitoneum as the cause of haemorrhage and hypovolaemia. However, FAST is not routinely used for the assessment of solid organ injury, because it is insensitive, operator-dependant, does not define the injury well and is inferior to CT. Focused Assessment Sonography in Trauma is an option for follow-up [58-60]. 4.1.2.b.3. Other imaging modalities Intravenous pyelography, radionuclide scans and magnetic resonance imaging (MRI) do not have a significant role in the trauma setting. The quality of one shot intravenous pyelogram (IVP) is generally poor. Intraoperative palpation of the contralateral (unaffected) kidney is a pragmatic surrogate of function during emergency laparotomy [20]. The diagnostic accuracy of MRI in renal trauma is similar to that of CT [61,62]. However, the logistical challenges of MRI make this modality impractical in acute trauma.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-3-management",
+      "title": "4.1.3. Management",
+      "level": 4,
+      "text": "The management of renal trauma can be defined as nonoperative (conservative or selective angioembolisation [SAE]) or surgical management. The majority of Grade 1–4 injuries, however, are now managed conservatively, and debate has centred around updating the classification of high-grade injury, i.e. identifying the injuries most likely to benefit from early selective angiographic embolisation, renal repair or nephrectomy [32,63]. Some evidence is available to suggest that over 50% of patients with Grade 5 injuries confirmed on CT can be managed nonoperatively. These patients were selected based on lower transfusion requirements and less severe radiologic injury findings (haematoma size and renal parenchymal laceration size) [64]. Compared with operative management, nonoperative management of high-grade renal trauma is associated with a lower mortality and lower nephrectomy rates [65]. One study designed a nomogram to predict the need for an intervention to stop bleeding in high-grade renal trauma. Factors which increased risk of intervention were a haematoma size of > 12cm, penetrating trauma, vascular contrast extravasation, pararenal haematoma extension, concomitant injuries and shock [66]. 4.1.3.a. Nonoperative management The nonoperative management of renal trauma can be viewed as a ‘package of care’: a stepwise approach starting with conservative treatment, followed by interventional radiology and/or surgical exploration, if necessary. It should be noted that an algorithm for package of care will vary in different centres according to available resources/interventions. However, the importance of escalation in treatment interventions should be emphasised [32]. This approach has resulted in the rate of nephrectomy for high-grade renal injuries decreasing over time [67]. 4.1.3.A.1. Blunt renal injuries 4.1.3.a.1.a. General principles Haemodynamic stability is the primary criterion for the management of all renal injuries. Nonoperative management has become the treatment of choice for most cases. In stable patients, this means a period of bed rest, serial blood tests, regular observation and reimaging as indicated [29]. Primary conservative management is associated with a lower rate of nephrectomies and no increase in immediate or long-term morbidity [68]. Grade 1–3 injuries are managed nonoperatively [69, 70]. Grade 4 injuries are also mostly treated conservatively, but the requirement for subsequent intervention is higher [71]. Persistent urinary extravasation from an otherwise viable kidney after blunt trauma usually responds to ureteric stent placement and/or percutaneous drainage [72]. Grade 5 injuries often present with haemodynamic instability and major associated injuries. These injuries therefore involve a higher rate of exploration and nephrectomy [73, 74]. However, several studies now support expectant management in patients with Grade 4 and 5 injuries [32, 33, 75-79]. Similarly, unilateral main arterial injuries or arterial thrombosis are normally managed nonoperatively in haemodynamically stable patients, with surgical repair reserved for bilateral artery injuries or injuries involving a solitary functional kidney [80]. Pre-hospital prolonged warm ischaemia usually results in irreparable damage and renal loss. 4.1.3.a.1.b. Selective angioembolisation in blunt renal trauma Selective angioembolisation has a key role in the nonoperative management of blunt renal trauma in haemodynamically stable patients [81]. There are currently no validated criteria to identify patients who require SAE, and its use in renal trauma remains variable. Accepted CT findings indicating the need for SAE are active extravasation of contrast, arteriovenous fistula (AVF) and pseudoaneurysm [82]. The presence of both active contrast extravasation and a large perirenal haematoma (> 25mm depth) predict, with good accuracy, the need for SAE [82, 83]. Selective angioembolisation has been utilised in the nonoperative management of all grades of renal injury, however, it is likely to be most beneficial in the setting of high-grade renal trauma (AAST > 3) [84-86]. Nonoperative management of high-grade renal trauma, in which SAE is included in the management algorithm, can be successful in up to 94.9% of Grade 3, 89% of Grade 4, and 76% of Grade 5 injuries [81,84,87-89]. Increasing grade of renal injury is associated with increased risk of failed SAE and need for repeat intervention [90]. Although success rates of SAE are relatively high, gross haematuria, haemodynamic instability, Grade 5 trauma and urinary extravasation are independent predictors of SAE failure in patients of all ages who undergo upfront SAE for moderate to high-grade, noniatrogenic blunt renal trauma [87]. When compared with surgical repair, SAE is associated with a reduced rate of subsequent nephrectomy in the management of blunt and penetrating high-grade renal trauma (Grade 4 and Grade 5) [91]. Repeat embolisation prevents nephrectomy in 67% of patients. Ope",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-4-follow-up",
+      "title": "4.1.4. Follow-up",
+      "level": 4,
+      "text": "The risk of complications relates to aetiology, injury grade and mode of management [130,131]. Follow-up includes physical examination, urinalysis, diagnostic imaging, blood pressure measurement and serum creatinine [73]. Potential complications are primarily identified by imaging. However, follow-up imaging is not recommended in low-grade, uncomplicated injury. Ultrasound (US) can be used to define the post-injury anatomy, avoiding further ionising radiation. Nuclear medicine scans may be useful for documenting baseline functional recovery following renal trauma injury and reconstruction [132]. Annual blood pressure monitoring is recommended to exclude renovascular hypertension [133].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-5-complications",
+      "title": "4.1.5. Complications",
+      "level": 4,
+      "text": "Early (≤ 1 month) complications include bleeding, infection, perinephric abscess, sepsis, urinary fistula, hypertension, urinary extravasation and urinoma. Delayed complications include bleeding, calculus formation, chronic pyelonephritis, hypertension, AVF, hydronephrosis and pseudoaneurysms. Bleeding may be life-threatening, with elective angiographic embolisation being the preferred treatment [134]. Perinephric abscess formation is initially managed by percutaneous drainage [115]. Hypertension is rare [135,136]. It may occur acutely because of external compression from perirenal haematoma (Page kidney), chronically due to compressive scar formation, or resulting from renal artery thrombosis, segmental arterial thrombosis, renal artery stenosis (Goldblatt kidney) or AVF. Arteriography may be required. Treatment, including medical management, excision of the ischaemic parenchymal segment, vascular reconstruction or nephrectomy, is indicated if hypertension persists [133]. Arteriovenous fistulae usually present with delayed onset of significant haematuria, most often after penetrating trauma. Percutaneous embolisation is often effective for symptomatic AVF, but larger fistulae may require surgery [137]. The development of pseudoaneurysm is a rare complication following blunt trauma.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-6-iatrogenic-renal-injuries",
+      "title": "4.1.6. Iatrogenic renal injuries",
+      "level": 4,
+      "text": "Iatrogenic renal trauma must be recognised and managed promptly to minimise morbidity and mortality. The most common causes of iatrogenic renal injuries are percutaneous access to the kidney, stone surgery, cancer surgery (laparoscopic and open), and transplantation [3]. The diagnosis and management follow the same principles as outlined in Section 4.1.3.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-7-summary-of-evidence-and-recommendations-for-evaluation-and-management-of-renal-trauma",
+      "title": "4.1.7. Summary of evidence and recommendations for evaluation and management of renal trauma",
+      "level": 4,
+      "text": "Summary of evidence LE Vital signs on admission give the most reliable indication of the urgency of the situation. 3 Special consideration should be given to patients with a solitary kidney and pre-existing renal disease. 4 Haematuria is a key finding following renal trauma. Although, it may not be present in certain situations. 3 A multiphase CT scan is the best method for the diagnosis and staging of renal injuries in haemodynamically stable patients. 3 Haemodynamic stability is the primary criterion for selecting patients for nonoperative management. 3 Ureteric stenting in stable asymptomatic Grade 4 renal injuries is not necessary. 3 Selective angioembolisation is effective in patients with active bleeding from renal injury, without other indications for immediate abdominal operation. 3 Renal reconstruction should be attempted if haemorrhage is controlled and there is sufficient viable renal parenchyma. 3 Iatrogenic renal injuries are procedure-dependent (1.8–15%); the most common injuries are vascular. 3 Limited literature exists with regard to long-term consequences of renal trauma. Current follow-up includes physical examination, urinalysis, diagnostic imaging, serum creatinine, as well as annual blood pressure monitoring to diagnose renovascular hypertension. 4 Recommendations Strength rating Evaluation Assess haemodynamic stability upon admission. Strong Record past renal surgery and known pre-existing renal abnormalities (ureteropelvic junction obstruction, solitary kidney, urolithiasis). Strong Test for haematuria in a patient with suspected renal injury. Strong Perform a multiphase computed tomography (CT) scan in trauma patients with: visible haematuria; nonvisible haematuria and one episode of hypotension; a history of rapid deceleration injury and/or significant associated injuries; penetrating trauma; and/or clinical signs suggesting renal trauma, for example, flank pain, abrasions, fractured ribs, abdominal distension and/or a mass and tenderness. Strong Management Manage stable patients with blunt renal trauma nonoperatively with close monitoring and reimaging as required. Strong Manage isolated Grade 1–4 stab and low-velocity gunshot wounds in stable patients nonoperatively. Strong Use selective angioembolisation for active renal bleeding if there are no other indications for immediate surgical exploration. Strong Insert urinary system drainage (ureteral stenting, nephrostomy) or perirenal drainage in cases of persistent or symptomatic urinary leak. Strong Proceed with renal exploration in the presence of persistent haemodynamic instability due to renal injury after failure of nonoperative management. Strong Perform renal exploration in case of expanding or pulsatile perirenal haematoma during laparotomy for associated injuries. Strong Attempt renal reconstruction if haemorrhage is controlled and there is sufficient viable renal parenchyma. Weak Repeat imaging in high-grade and penetrating injuries and in cases of fever, worsening flank pain or falling haematocrit. Strong Follow-up approximately three months after major renal injury with urinalysis, individualised radiological investigation, for example, nuclear scintigraphy, CT or ultrasound, blood pressure measurement and renal function tests. Longer term annual follow-up for blood pressure is recommended. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Vital signs on admission give the most reliable indication of the urgency of the situation.",
+              "3"
+            ],
+            [
+              "Special consideration should be given to patients with a solitary kidney and pre-existing renal disease.",
+              "4"
+            ],
+            [
+              "Haematuria is a key finding following renal trauma. Although, it may not be present in certain situations.",
+              "3"
+            ],
+            [
+              "A multiphase CT scan is the best method for the diagnosis and staging of renal injuries in haemodynamically stable patients.",
+              "3"
+            ],
+            [
+              "Haemodynamic stability is the primary criterion for selecting patients for nonoperative management.",
+              "3"
+            ],
+            [
+              "Ureteric stenting in stable asymptomatic Grade 4 renal injuries is not necessary.",
+              "3"
+            ],
+            [
+              "Selective angioembolisation is effective in patients with active bleeding from renal injury, without other indications for immediate abdominal operation.",
+              "3"
+            ],
+            [
+              "Renal reconstruction should be attempted if haemorrhage is controlled and there is sufficient viable renal parenchyma.",
+              "3"
+            ],
+            [
+              "Iatrogenic renal injuries are procedure-dependent (1.8–15%); the most common injuries are vascular.",
+              "3"
+            ],
+            [
+              "Limited literature exists with regard to long-term consequences of renal trauma. Current follow-up includes physical examination, urinalysis, diagnostic imaging, serum creatinine, as well as annual blood pressure monitoring to diagnose renovascular hypertension.",
+              "4"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Evaluation"
+            ],
+            [
+              "Assess haemodynamic stability upon admission.",
+              "Strong"
+            ],
+            [
+              "Record past renal surgery and known pre-existing renal abnormalities (ureteropelvic junction obstruction, solitary kidney, urolithiasis).",
+              "Strong"
+            ],
+            [
+              "Test for haematuria in a patient with suspected renal injury.",
+              "Strong"
+            ],
+            [
+              "Perform a multiphase computed tomography (CT) scan in trauma patients with:visible haematuria;nonvisible haematuria and one episode of hypotension;a history of rapid deceleration injury and/or significant associated injuries;penetrating trauma; and/orclinical signs suggesting renal trauma, for example, flank pain, abrasions, fractured ribs, abdominal distension and/or a mass and tenderness.",
+              "Strong"
+            ],
+            [
+              "Management"
+            ],
+            [
+              "Manage stable patients with blunt renal trauma nonoperatively with close monitoring and reimaging as required.",
+              "Strong"
+            ],
+            [
+              "Manage isolated Grade 1–4 stab and low-velocity gunshot wounds in stable patients nonoperatively.",
+              "Strong"
+            ],
+            [
+              "Use selective angioembolisation for active renal bleeding if there are no other indications for immediate surgical exploration.",
+              "Strong"
+            ],
+            [
+              "Insert urinary system drainage (ureteral stenting, nephrostomy) or perirenal drainage in cases of persistent or symptomatic urinary leak.",
+              "Strong"
+            ],
+            [
+              "Proceed with renal exploration in the presence of persistent haemodynamic instability due to renal injury after failure of nonoperative management.",
+              "Strong"
+            ],
+            [
+              "Perform renal exploration in case of expanding or pulsatile perirenal haematoma during laparotomy for associated injuries.",
+              "Strong"
+            ],
+            [
+              "Attempt renal reconstruction if haemorrhage is controlled and there is sufficient viable renal parenchyma.",
+              "Weak"
+            ],
+            [
+              "Repeat imaging in high-grade and penetrating injuries and in cases of fever, worsening flank pain or falling haematocrit.",
+              "Strong"
+            ],
+            [
+              "Follow-up approximately three months after major renal injury with urinalysis, individualised radiological investigation, for example, nuclear scintigraphy, CT or ultrasound, blood pressure measurement and renal function tests. Longer term annual follow-up for blood pressure is recommended.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-1-8-treatment-algorithms",
+      "title": "4.1.8. Treatment algorithms",
+      "level": 4,
+      "text": "Management of renal trauma. Figure 4.1.1 Management of renal trauma * Excluding Grade 5 penetrating injuries. --- If haemodynamically unstable. CT = computed tomography; Hct = haematocrit; SAE = selective angioembolisation.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-2-ureteral-trauma",
+      "title": "4.2. Ureteral trauma",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-2-1-epidemiology-aetiology-and-pathophysiology",
+      "title": "4.2.1. Epidemiology, aetiology and pathophysiology",
+      "level": 4,
+      "text": "Trauma to the ureters is relatively rare, as they are protected by their small size, mobility, posterior location, and the adjacent musculoskeletal and visceral structures. Iatrogenic injury during open, laparoscopic and endoscopic surgery is responsible for the majority of cases [138]. The injury is often missed intraoperatively and may result in significant morbidity [139]. Overall, ureteral trauma accounts for 1–2.5% of urinary tract trauma [138, 140-142]. 4.2.1.a. External trauma 4.2.1.a.1. Blunt trauma About one-third of cases of external trauma to the ureters are caused by blunt trauma, mostly road traffic accidents [141,142]. 4.2.1.a.2. Penetrating trauma Penetrating external ureteral trauma, mostly by gunshot wounds, is the most common form in most modern series [138,140,143]. Higher rates of ureteral injury are seen in modern combat injuries [127]. Ureteral injury should be suspected in all cases of penetrating abdominal injury, although it occurs in just 2–3% of cases [138]. It should also be suspected in blunt trauma with significant deceleration, as pelviureteral disruption can result [138]. The distribution of external ureteral injuries along the ureter varies between series, but it is most common in the upper ureter [140-142]. 4.2.1.b. Iatrogenic trauma The incidence of urological iatrogenic trauma has decreased in the last twenty years due to improvements in technique, instrument technology, training methods and subspecialisation [143, 144]. Iatrogenic ureteral trauma can result from: ligation with a suture, crushing by a surgical instrument; partial or complete transection by unintended scalpel incision; thermal injury; and ischaemia from devascularisation [143,145,146]. Injury usually involves the lower ureter [138,143,145,147]. Gynaecological operations are the most common cause of significant iatrogenic trauma. It also occurs in colorectal operations (resection of the distal colon) and vascular surgery (aortic aneurysm repair) [148,149]. There has been a significant decrease in the rate of ureteral injury during robot-assisted procedures [150] and colorectal surgery [45]. However, minimally invasive techniques have not further reduced the rate of ureteral injuries in gynaecological surgery [151-153]. Ureteroscopy is a common cause of iatrogenic ureteric trauma, contributing up to 71.6% in some series [154]. The postureteroscopic lesion scale aims to standardise intraoperative traumatic findings during ureteroscopy [155]. Predictors for high grade ureteric injury include male sex, longer operative times and ureteral access sheath (UAS) insertion times [154]. A smaller proximal ureter diameter seen in CT scanning is a predictor for high-grade ureteral injury during UAS placement [156]. Risk factors for iatrogenic trauma include conditions that alter the normal anatomy, for example, advanced malignancy, prior surgery or irradiation, diverticulitis, endometriosis, anatomical abnormalities, and major haemorrhage [143,148,158,159]. Occult ureteral injury occurs more often than reported and not all injuries are diagnosed intraoperatively [139].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-2-2-diagnosis",
+      "title": "4.2.2. Diagnosis",
+      "level": 4,
+      "text": "The diagnosis of ureteral trauma is challenging. Therefore, a high index of suspicion should be maintained. In penetrating external trauma, it is best identified intraoperatively during laparotomy [160]. The diagnosis is delayed in most cases of blunt trauma and iatrogenic trauma [143,147,161]. 4.2.2.a. Clinical diagnosis External ureteral trauma usually accompanies severe abdominal and pelvic injuries. Penetrating trauma is usually associated with vascular and intestinal injuries, while blunt trauma is associated with damage to the pelvic bones and lumbosacral spinal injuries [141,142]. Haematuria is an unreliable and poor indicator of ureteral injury, as it is present in only 50-75% of patients [138,143,162]. Iatrogenic injury may be noticed during the primary procedure, when intravenous dye (e.g. indigo carmine) is injected to exclude ureteral injury. Early recognition facilitates immediate repair and provides a better outcome [158,160]. However, it usually presents later in the same admission, with the untoward sequelae of ureteral injury such as sepsis, abdominal distension, upper tract obstruction or urinary fistulae. The following clinical signs are characteristic of delayed-diagnosis flank pain, urinary incontinence (UI), vaginal or drain urinary leakage, haematuria, fever, and uraemia or urinoma. The complication rate increases with delayed diagnosis [138,161,163]. 4.2.2.b. Imaging Multiphase CT is the mainstay imaging technique for trauma patients. Generally, it is widely available and allows for multiphasic assessment of all of the structures in the pelvis and abdomen. Computed tomography urography is the examination of choice when ureteral injuries are suspected [164,165]. Extravasation of contrast medium in the delayed phase is the hallmark sign of injury. However, hydronephrosis, ascites, urinoma or mild ureteral dilation are often the only signs. In unclear cases, a retrograde or antegrade urography is the best method for confirmation [143]. Intravenous pyelography, especially one-shot IVP, is unreliable in diagnosis, as it is negative in up to 60% of patients [138,143].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-2-3-prevention-of-iatrogenic-trauma",
+      "title": "4.2.3. Prevention of iatrogenic trauma",
+      "level": 4,
+      "text": "The prevention of iatrogenic trauma to the ureters depends upon the visual identification of the ureters and careful intraoperative dissection in their proximity [143,145,146]. The use of prophylactic preoperative ureteral stent insertion assists in visualisation and palpation can be used in cases of higher complexity [14,166]. According to an SR on the use of prophylactic/lighted stent or infrared fluorescent ureteral catheter in colorectal surgery, there was no significant decrease in ureteral injuries when using these stents [167]. In a meta-analysis, a potential benefit of prophylactic stenting in gynaecological surgery was observed. However, there is a risk of selection bias, with more high-risk patients in most of the prophylactic stenting groups [145,168,169]. A retrograde instillation of indocyanine green in the ureters has been shown to safely allow their identification and preservation in complex robotic-assisted colorectal surgeries [170,171], however, this has no proven preventative effect on ureteral injury [167]. An RCT studying the use of silodosin in the prevention of ureteral injury after access sheet placement in ureterorenoscopy showed beneficial results, with a significant decrease in ureteral trauma [157].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-2-4-management",
+      "title": "4.2.4. Management",
+      "level": 4,
+      "text": "Management of ureteral trauma depends on many factors including the aetiology, severity and location of the injury. 4.2.4.a. Immediate diagnosis of a ureteric injury A ligation injury during an operation can be managed by deligation and stent placement. Partial injuries can be repaired immediately with a stent or urinary diversion via a nephrostomy tube. Stenting is helpful because it provides canalisation and may decrease the risk of stricture [143,172,173]. Stent placement can be performed, antegradely, retrogradely or combined (rendezvous technique) [174]. Immediate repair of complete ureteral injury is advisable as it significantly decreases the need for secondary or tertiary procedures compared to delayed repair [172]. The ureter is mobilised on both ends and a spatulated end-to-end anastomosis is performed. Primary repair by ureteroureterostomy or ureteric reimplantation can be safely performed laparoscopically at the time of the iatrogenic injury, with good medium-term results [175]. In cases of unstable trauma patients, a ‘damage control’ approach is preferred, with ligation of the ureter, diversion of the urine (e.g. via a nephrostomy), and a later delayed definitive repair [176]. A national trauma database study reported that the majority of blunt low- and high-severity traumatic ureteric injuries in both stable and unstable patients were treated by nephrostomy or stenting [177]. Exploratory laparotomy for associated traumatic injuries was a predictor for immediate ureteral reconstruction [177]. 4.2.4.b. Delayed diagnosis of a ureteric injury 4.2.4.b.1. Endourological treatment Endourological treatment of delayed-diagnosed ureteral injuries by internal stenting, with or without dilatation, is the first step in most cases. It is performed either retrogradely or antegradely via a percutaneous nephrostomy and has a variable success rate of 14–19% [143,178-180]. An open or robot-assisted laparoscopic surgical repair is necessary in case of failure [181]. The basic principles for any surgical repair of a ureteral injury are outlined in Table 4.2.2. Wide debridement is highly recommended for gunshot wound injuries due to the ‘blast effect’ of the injury. 4.2.4.b.2. Open/laparoscopic/robotic-assisted treatment 4.2.4.b.2.a. Proximal and midureteral injury Injuries shorter than 2–3cm can usually be managed by a primary ureteroureterostomy [138]. If this approach is not feasible, a ureterocalicostomy should be considered. In case of a large extrarenal pelvis and a stricture at the UPJ, a pelvic spiral flap (Culp de Weerd) is an option [182]. In extensive ureteral loss, a transureteroureterostomy is a valid option. The proximal stump of the ureter is transposed across the midline and anastomosed to the contralateral ureter. The reported stenosis rate is 4% and reintervention or revision occurs in 10% of cases [183]. 4.2.4.b.2.b. Distal ureteral injury Distal injuries are best managed by ureteral reimplantation (ureteroneocystostomy) because the primary trauma jeopardises the blood supply to the distal ureter. The question of refluxing versus nonrefluxing ureteral reimplantation remains unresolved in the literature. The risk of clinically significant reflux should be weighed against the risk for ureteral obstruction. A psoas hitch between the bladder and the ipsilateral psoas tendon is usually needed to bridge the gap and to protect the anastomosis from tension. The contralateral superior vesical pedicle may be divided to improve bladder mobility. The reported success rate is very high (97%) [183]. In extensive mid-lower ureteral injury, the large gap can be bridged with a tubularised L-shaped bladder flap (Boari flap). It is a time-consuming operation and unsuited to the acute setting. The success rate is reported to be 81–88% [184]. 4.2.4.b.2.c. Long segment ureteral injury A longer ureteral injury can be replaced using a segment of the intestines, usually the ileum (ileal interposition graft). This should be avoided in patients with impaired renal function or known intestinal disease. Follow-up includes serum chemistry to diagnose hyperchloremic metabolic acidosis [185]. The long-term complications include anastomotic stricture (3%) and fistulae (6%) [186]. Another option is downward nephropexy and a long Boari flap. In cases of extensive ureteral loss or after multiple attempts at ureteral repair, the kidney can be relocated to the pelvis (autotransplantation). The renal vessels are anastomosed to the iliac vessels and a ureteral reimplantation is performed [187,188]. Buccal mucosa ureteroplasty is an option for long-segment ureteral injury, especially after a previous failed reconstruction, as an alternative to autotransplantation. The overall success rate is 90%, but experience is limited [189]. 4.2.4.b.3. Permanent urinary diversion/nephrectomy Following early or late repairs, up to 38% of patients develop secondary ureteric strictures requiring interventions [190] or palliative management by indwellin",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Debridement of necrotic tissue"
+            ],
+            [
+              "Spatulation of ureteral ends"
+            ],
+            [
+              "Watertight tension-free mucosa-to-mucosa anastomosis using absorbable sutures"
+            ],
+            [
+              "Internal stenting"
+            ],
+            [
+              "External drain"
+            ],
+            [
+              "Isolation of injury with peritoneum or omentum"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-2-5-summary-of-evidence-and-recommendations-for-the-management-of-ureteral-trauma",
+      "title": "4.2.5. Summary of evidence and recommendations for the management of ureteral trauma",
+      "level": 4,
+      "text": "Summary of evidence LE Iatrogenic ureteral trauma is the most common cause of ureteral injury. 3 Gunshot wounds account for the majority of penetrating ureteral injuries, while road traffic accidents account for most blunt injuries. 3 Ureteral trauma usually accompanies severe abdominal and pelvic injuries. 3 Haematuria is an unreliable and poor indicator of ureteral injury. 3 Preoperative prophylactic stents do not prevent ureteral injury. However, they may assist in its detection. 2 Endourological treatment of small ureteral fistulae and strictures is safe and effective. 3 Major ureteral injury requires ureteral reconstruction following temporary urinary diversion. 3 Recommendations Strength rating Visually identify the ureters to prevent ureteral trauma during complex abdominal and pelvic surgery. Strong Beware of concomitant ureteral injury in all abdominal penetrating trauma and in deceleration-type blunt trauma. Strong Use preoperative prophylactic stents in high risk of ureteral injuries. Weak Repair iatrogenic ureteral injuries recognised during surgery immediately. Strong Treat iatrogenic ureteral injuries with delayed diagnosis by nephrostomy tube/JJ stent urinary diversion. Strong Manage ureteral strictures by ureteral reconstruction according to the location and length of the affected segment. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Iatrogenic ureteral trauma is the most common cause of ureteral injury.",
+              "3"
+            ],
+            [
+              "Gunshot wounds account for the majority of penetrating ureteral injuries, while road traffic accidents account for most blunt injuries.",
+              "3"
+            ],
+            [
+              "Ureteral trauma usually accompanies severe abdominal and pelvic injuries.",
+              "3"
+            ],
+            [
+              "Haematuria is an unreliable and poor indicator of ureteral injury.",
+              "3"
+            ],
+            [
+              "Preoperative prophylactic stents do not prevent ureteral injury. However, they may assist in its detection.",
+              "2"
+            ],
+            [
+              "Endourological treatment of small ureteral fistulae and strictures is safe and effective.",
+              "3"
+            ],
+            [
+              "Major ureteral injury requires ureteral reconstruction following temporary urinary diversion.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Visually identify the ureters to prevent ureteral trauma during complex abdominal and pelvic surgery.",
+              "Strong"
+            ],
+            [
+              "Beware of concomitant ureteral injury in all abdominal penetrating trauma and in deceleration-type blunt trauma.",
+              "Strong"
+            ],
+            [
+              "Use preoperative prophylactic stents in high risk of ureteral injuries.",
+              "Weak"
+            ],
+            [
+              "Repair iatrogenic ureteral injuries recognised during surgery immediately.",
+              "Strong"
+            ],
+            [
+              "Treat iatrogenic ureteral injuries with delayed diagnosis by nephrostomy tube/JJ stent urinary diversion.",
+              "Strong"
+            ],
+            [
+              "Manage ureteral strictures by ureteral reconstruction according to the location and length of the affected segment.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-2-6-treatment-algorithms",
+      "title": "4.2.6. Treatment algorithms",
+      "level": 4,
+      "text": "Management of ureteral injuries. Figure 4.2.1: Management of ureteral injuries",
+      "tables": []
+    },
+    {
+      "anchor": "#4-3-bladder-trauma",
+      "title": "4.3. Bladder trauma",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-3-1-epidemiology-aetiology-and-pathophysiology",
+      "title": "4.3.1. Epidemiology, aetiology and pathophysiology",
+      "level": 4,
+      "text": "Bladder trauma is categorised by aetiology: noniatrogenic (blunt and penetrating) and iatrogenic (external and internal). 4.3.1.a Noniatrogenic bladder trauma (NIBT) Road traffic accidents are the most common cause of blunt bladder injury, followed by falls and other accidents. The main mechanisms are pelvic crush and blows to the lower abdomen [141, 192, 193]. Most patients with blunt bladder injury have associated pelvic fractures (60–90%) and other intra-abdominal injuries (44–68.5%) [194, 195]. Pelvic fractures are associated with bladder injury in about 3% of cases [141, 196]. However, this can be as high as 26.5% in cases of severe pelvic injury [197]. Bladder injury is associated with urethral injury in 5–20% of cases [195,198,199]. Alcohol intoxication is associated with increased risk of bladder injury in patients suffering from a motor vehicle collision [200]. 4.3.1.b. Iatrogenic bladder trauma (IBT) External IBT occurs most often during obstetric and gynaecological procedures, followed by urological and general surgery operations [201]. Main risk factors are previous surgery, inflammation and malignancy [201]. Bladder perforations occur in up to 4.9% of midurethral sling operations for stress incontinence in females. This rate is significantly lower in the obturator route compared to the retropubic route [202]. Internal IBT mainly occurs during transurethral resection of the bladder (TURB). Reported risk factors are larger tumours, older age, pretreated bladders (previous TURB, intravesical instillations) and location at the bladder dome [203, 204]. Tumours at the lateral wall pose a risk factor because of the obturator jerk [205,206]. Extraperitoneal perforations are more frequent than intraperitoneal perforations [204,207], and perforations requiring intervention are rare (0.16–0.57%) [203].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-3-2-classification",
+      "title": "4.3.2. Classification",
+      "level": 4,
+      "text": "Bladder trauma is primarily classified according to the location of the injury: intraperitoneal , extraperitoneal and combined intra- and extraperitoneal [192], as it guides further management [198]. Combined intra- and extraperitoneal bladder ruptures occur in 5–8% of cases. Extraperitoneal (22.4–61.1%) and intraperitoneal (38.9–65.8%) injuries constitute the majority of bladder ruptures, with marked variability reported across series [208]. 4.3.2.a. Extraperitoneal bladder trauma Extraperitoneal injury is almost always associated with pelvic fractures [193, 195]. It is usually caused by distortion of the pelvic ring, with shearing of the anterolateral bladder wall near the bladder base (at its fascial attachments), or by a contrecoup at the opposite side. The highest risk of bladder injury was found in disruptions of the pelvic circle with displacement > 1cm, diastasis of the pubic symphysis > 1cm, and pubic rami fractures [141, 198]. Occasionally, the bladder is directly perforated by a sharp bony fragment [198]. 4.3.2.b. Intraperitoneal bladder trauma Intraperitoneal injury is caused by a sudden rise in intravesical pressure of a distended bladder, secondary to a blow to the pelvis or lower abdomen. The bladder dome is the weakest point of the bladder and ruptures usually occur there [198]. Penetrating injuries, mainly gunshot wounds, are rare except in conflict zones and violent urban areas [192,209,210]. Improvised explosive devices are the main cause of combat related bladder injuries in asymmetric warfare [211].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-3-3-diagnosis",
+      "title": "4.3.3. Diagnosis",
+      "level": 4,
+      "text": "4.3.3.a. Clinical evaluation The principal sign of bladder injury is visible haematuria [193,198]. Absolute indications for bladder imaging include: visible haematuria and a pelvic fracture [198] or nonvisible haematuria combined with high-risk pelvic fracture (disruption of the pelvic circle with displacement > 1 cm or diastasis of the pubic symphysis > 1cm) or posterior urethral injury [198]. Bladder trauma should also be suspected in patients with blunt urethral trauma and high Injury Severity Score [212]. In the absence of these absolute indications, further imaging is based on clinical signs and symptoms including [193, 198, 209, 213]: inability to void or inadequate urine output; abdominal tenderness or distension due to urinary ascites or signs of urinary ascites in abdominal imaging; uraemia and elevated creatinine level due to intraperitoneal reabsorption; and entry/exit wounds at lower abdomen, perineum or buttocks in penetrating injuries. 4.3.3.b. Pre- and postoperative diagnosis Intraoperative signs of external iatrogenic bladder injury include: extravasation of urine, visible laceration, visible bladder catheter and blood and/or gas in the urine bag during laparoscopy [214]. Direct inspection is the most reliable method of assessing bladder integrity [201]. Retrograde bladder filling (with or without instillation of dye, e.g. methylene blue) helps to detect smaller lesions [215, 216]. If bladder perforation is close to the trigone, the ureteric orifices should be inspected [201, 214]. Internal bladder injury is recognised by cystoscopic identification of fatty tissue, dark space or bowel [217]. It may also be detected by the inability to distend the bladder, low return of irrigation fluid or abdominal distension [218]. Postoperatively, missed bladder trauma is diagnosed by haematuria, abdominal pain, abdominal distension, ileus, peritonitis, sepsis, urine leakage from the wound, decreased urinary output or increased serum creatinine [201,214]. An IBT during hysterectomy or Caesarean delivery can result in vesicovaginal or vesicouterine fistulae [214, 219]. 4.3.3.c. Imaging Cystography is the preferred diagnostic modality for noniatrogenic bladder injury and for a suspected IBT in the postoperative setting [219, 220]. Both plain and CT cystography have a comparable sensitivity (90–95%) and specificity (100%) [193, 221]. However, CT cystography is superior in the identification of bony fragments in the bladder and bladder neck injuries, as well as concomitant abdominal injuries [195, 198]. Cystography must be performed using retrograde filling of the bladder with a minimum volume of 300–350mL of dilute contrast material [220, 222]. Passive bladder filling by clamping the urinary catheter during the excretory phase of CT or IVP is not sufficient to exclude bladder injury [193]. Intraperitoneal extravasation is visualised by free contrast medium in the abdomen outlining bowel loops or abdominal viscera [223]. Extraperitoneal bladder injury is typically diagnosed by flame-shaped areas of contrast extravasation in the peri-vesical soft tissues. Contrast medium in the vagina is a sign of vesicovaginal fistula [219]. 4.3.3.d. Cystoscopy Cystoscopy is the preferred method for detection of intraoperative bladder injuries as it may directly visualise the laceration and can localise the lesion in relation to the position of the trigone and ureteral orifices [223]. A lack of bladder distension during cystoscopy suggests a large perforation. Cystoscopy is recommended to detect perforation of the bladder (or urethra) following retropubic suburethral sling operations [202, 224]. Routine intraoperative cystoscopy during other gynaecologic procedures is not recommended [225], although the threshold to perform it should be low in any suspected bladder injury.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-3-4-prevention",
+      "title": "4.3.4. Prevention",
+      "level": 4,
+      "text": "The risk of bladder injury is reduced by emptying the bladder by urethral catheterisation in every procedure where the bladder is at risk [215, 226]. Furthermore, the catheter’s balloon can aid in identification of the bladder [215]. During TURB for tumours at the lateral wall, the incidence of internal IBT can be reduced by obturator nerve block or adequate muscle relaxation [206]. There is conflicting evidence on whether bipolar TURB can reduce the risk for an obturator jerk [205, 206]. The use of combat pelvic protection systems reduces the risk of bladder and other genitourinary injuries due to the blast mechanism of improvised explosive devices [211, 227].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-3-5-management",
+      "title": "4.3.5. Management",
+      "level": 4,
+      "text": "4.3.5.a. Nonoperative management 4.3.5.a.1. Extraperitoneal bladder trauma Conservative treatment, which comprises of clinical observation and continuous bladder drainage [204], is the standard treatment for an uncomplicated extraperitoneal injury due to blunt [195,198,199] or iatrogenic trauma [204]. Penetrating extraperitoneal bladder injuries (only if minor and isolated) can also be managed conservatively [213,228,229]. 4.3.5.a.2. Intraperitoneal bladder trauma Conservative treatment can also be chosen for uncomplicated intraperitoneal injury after TURB or other operations, but only in the absence of peritonitis and ileus [223,230]. Placement of an intraperitoneal drain is advocated, especially when the lesion is larger [218, 231]. 4.3.5.b. Surgical management Bladder closure is performed with absorbable sutures [201, 228]. There is no evidence that two-layer is superior to watertight single-layer closure [195,228]. Although open surgery is often used, laparoscopic repair of isolated intraperitoneal injuries may be suitable in selected cases [193]. 4.3.5.b.1. Blunt noniatrogenic trauma 4.3.5.b.1.a. Extraperitoneal Most extraperitoneal ruptures can be treated conservatively. However, bladder neck involvement, bone fragments in the bladder wall, concomitant rectal or vaginal injury or entrapment of the bladder wall necessitate surgical intervention [198,232]. There is an increasing trend to treat pelvic ring fractures with open stabilisation and internal fixation with osteosynthesis material. During this procedure, an extraperitoneal rupture should be sutured concomitantly to reduce the risk of infection [233]. Likewise, an extraperitoneal rupture should be sutured during surgical exploration for other injuries to decrease the risk of complications and to reduce recovery time [199]. In case of extraperitoneal injury with pelvic fractures treated by internal fixation, there is conflicting evidence about the need to repair the bladder to reduce the risk of infection [233, 234]. 4.3.5.b.1.b. Intraperitoneal Intraperitoneal ruptures should always be managed by surgical repair [195,198], open or laparoscopic [193], because intraperitoneal urine extravasation can lead to peritonitis, intra-abdominal sepsis and death [194]. Abdominal organs should be inspected for possible associated injuries and urinomas must be drained if detected. 4.3.5.b.2. Penetrating noniatrogenic trauma Penetrating bladder injury is managed by emergency exploration, debridement of devitalised bladder wall and primary bladder repair [209,210]. A midline exploratory cystotomy is advised to inspect the bladder wall and the distal ureters [209,228]. In gunshot wounds, there is a strong association with intestinal and rectal injuries, usually requiring faecal diversion [209,213]. Most gunshot wounds are associated with two transmural injuries (entry and exit wounds) and the bladder should be carefully checked for these two lesions [209]. In selected patients (haemodynamically stable without associated injuries), penetrating, well-contained extraperitoneal bladder injuries probably can be safely managed nonoperatively [235]. 4.3.5.b.3. Iatrogenic bladder trauma 4.3.5.b.3.a. Intraperitoneal The standard of care for intraperitoneal injuries is surgical exploration and repair [223]. If surgical exploration is performed after TURB, the bowel must be inspected to rule out concomitant injury [203]. 4.3.5.b.3.b. Extraperitoneal Exploration is only needed for perforations complicated by symptomatic extravesical collections. It requires drainage of the collection, with or without closure of the perforation [236]. If bladder perforation is encountered during mid-urethral sling or transvaginal mesh procedures, sling re-insertion and urethral catheterisation (two to seven days) should be performed [237].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-3-6-follow-up",
+      "title": "4.3.6. Follow-up",
+      "level": 4,
+      "text": "Continuous bladder drainage is required to prevent elevated intravesical pressure and to allow the bladder to heal [201,238]. The optimal timing of catheter removal following iatrogenic bladder injury is unclear in current literature [239]. For conservatively treated internal IBT, catheter drainage, lasting five to seven days, is proposed [204, 207]. After operative repair of a simple injury in a healthy patient, the catheter can be removed after five to ten days without cystography [238, 240]. Conservatively treated bladder injuries (traumatic or external IBT) are followed up by cystography to rule out extravasation and ensure proper bladder healing [198]. The first cystography is planned approximately ten days after injury [228]. In cases of complex injury (trigone involvement, ureteric reimplantation) or risk factors of impaired wound healing (e.g. steroids, malnutrition) cystography is advised [228, 238]. In case of ongoing leakage, cystoscopy should be performed to rule out bony fragments in the bladder, and a second cystography is warranted one week later [198].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-3-7-summary-of-evidence-and-recommendations-for-bladder-injury",
+      "title": "4.3.7. Summary of evidence and recommendations for bladder injury",
+      "level": 4,
+      "text": "Summary of evidence LE The combination of pelvic fracture and visible haematuria is highly suggestive of bladder injury. 3 Cystography is the preferred diagnostic modality for noniatrogenic bladder injury and for suspected IBT in the postoperative setting. 3 Cystography must be performed using retrograde filling of the bladder with a minimum volume of 300–350mL of dilute contrast material. Passive bladder filling by clamping the urinary catheter during the excretory phase of CT or IVP is not sufficient to exclude bladder injury. 3 The risk of bladder perforation during midurethral sling operations for stress UI is lower for the obturator route compared to the retropubic route. 1a Conservative treatment, which comprises clinical observation and continuous bladder drainage, is the standard treatment for an uncomplicated extraperitoneal injury due to blunt trauma. 3 In extraperitoneal bladder injury with either bladder neck involvement, bone fragments in the bladder wall, concomitant rectal or vaginal injury, or entrapment of the bladder wall, surgical intervention is necessary to decrease the risk of complications and to reduce recovery time. 3 Intraperitoneal bladder trauma is managed by surgical repair because intraperitoneal urine extravasation can lead to peritonitis, intra-abdominal sepsis and death. 3 Conservative treatment is suitable for uncomplicated intraperitoneal injury during endourological procedures in the absence of peritonitis and ileus. 3 In cases of complex injury (trigone involvement, ureteric reimplantation) or risk factors of impaired wound healing (e.g. steroids, malnutrition) cystography is advised after bladder repair. 2a Recommendations Strength rating Perform cystography in the presence of visible haematuria and pelvic fracture. Strong Perform cystography in case of suspected iatrogenic bladder injury in the postoperative setting. Strong Perform cystography with active retrograde filling of the bladder with dilute contrast (300–350mL). Strong Perform cystoscopy to rule out bladder injury during retropubic subbrethral sling procedures. Strong Manage uncomplicated blunt extraperitoneal bladder injuries conservatively. Weak Manage blunt extraperitoneal bladder injuries operatively in cases of bladder neck involvement and/or associated injuries that require surgical intervention. Strong Manage blunt intraperitoneal injuries by surgical exploration and repair. Strong Manage small uncomplicated intraperitoneal bladder injuries during endoscopic procedures conservatively. Weak Perform cystography to assess bladder wall healing after repair of a complex injury or in case of risk factors for wound healing. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "The combination of pelvic fracture and visible haematuria is highly suggestive of bladder injury.",
+              "3"
+            ],
+            [
+              "Cystography is the preferred diagnostic modality for noniatrogenic bladder injury and for suspected IBT in the postoperative setting.",
+              "3"
+            ],
+            [
+              "Cystography must be performed using retrograde filling of the bladder with a minimum volume of 300–350mL of dilute contrast material. Passive bladder filling by clamping the urinary catheter during the excretory phase of CT or IVP is not sufficient to exclude bladder injury.",
+              "3"
+            ],
+            [
+              "The risk of bladder perforation during midurethral sling operations for stress UI is lower for the obturator route compared to the retropubic route.",
+              "1a"
+            ],
+            [
+              "Conservative treatment, which comprises clinical observation and continuous bladder drainage, is the standard treatment for an uncomplicated extraperitoneal injury due to blunt trauma.",
+              "3"
+            ],
+            [
+              "In extraperitoneal bladder injury with either bladder neck involvement, bone fragments in the bladder wall, concomitant rectal or vaginal injury, or entrapment of the bladder wall, surgical intervention is necessary to decrease the risk of complications and to reduce recovery time.",
+              "3"
+            ],
+            [
+              "Intraperitoneal bladder trauma is managed by surgical repair because intraperitoneal urine extravasation can lead to peritonitis, intra-abdominal sepsis and death.",
+              "3"
+            ],
+            [
+              "Conservative treatment is suitable for uncomplicated intraperitoneal injury during endourological procedures in the absence of peritonitis and ileus.",
+              "3"
+            ],
+            [
+              "In cases of complex injury (trigone involvement, ureteric reimplantation) or risk factors of impaired wound healing (e.g. steroids, malnutrition) cystography is advised after bladder repair.",
+              "2a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform cystography in the presence of visible haematuria and pelvic fracture.",
+              "Strong"
+            ],
+            [
+              "Perform cystography in case of suspected iatrogenic bladder injury in the postoperative setting.",
+              "Strong"
+            ],
+            [
+              "Perform cystography with active retrograde filling of the bladder with dilute contrast (300–350mL).",
+              "Strong"
+            ],
+            [
+              "Perform cystoscopy to rule out bladder injury during retropubic subbrethral sling procedures.",
+              "Strong"
+            ],
+            [
+              "Manage uncomplicated blunt extraperitoneal bladder injuries conservatively.",
+              "Weak"
+            ],
+            [
+              "Manage blunt extraperitoneal bladder injuries operatively in cases of bladder neck involvement and/or associated injuries that require surgical intervention.",
+              "Strong"
+            ],
+            [
+              "Manage blunt intraperitoneal injuries by surgical exploration and repair.",
+              "Strong"
+            ],
+            [
+              "Manage small uncomplicated intraperitoneal bladder injuries during endoscopic procedures conservatively.",
+              "Weak"
+            ],
+            [
+              "Perform cystography to assess bladder wall healing after repair of a complex injury or in case of risk factors for wound healing.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-4-urethral-trauma",
+      "title": "4.4. Urethral trauma",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-4-1-introduction",
+      "title": "4.4.1. Introduction",
+      "level": 4,
+      "text": "The incidence of urethral injuries varies globally, with reported rates differing based on the region, healthcare infrastructure and the specific population studied. The incidence is more often reported in association with pelvic fractures, particularly in males, where the rate can reach up to 25% in such cases [241]. However, the nature of these injuries can vary, including types such as crush injuries, bruising, lacerations and transections. While these injuries are not life-threatening, they can lead to significant complications if not properly treated. Urethral trauma is categorised according to sex and location.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-4-2-anterior-male-urethral-injury",
+      "title": "4.4.2. Anterior male urethral injury",
+      "level": 4,
+      "text": "4.4.2.a. Epidemiology, aetiology and pathophysiology The bulbar urethra is the most common site affected by blunt trauma. In bulbar injuries, the bulb is compressed against the pubic symphysis, resulting in damage to the urethra at the site of compression [242]. Possible mechanisms are straddle injuries or kicks to the perineum. A penile fracture can be complicated by a urethral injury in approximately 15% of cases, ranging from 1–38% depending on the aetiology [243-245]. Penetrating anterior injuries are rare and are usually caused by gunshot wounds, stab wounds, dog bites, impalement or penile amputations [242]. Depending on the affected segment, penetrating injuries are usually associated with penile, testicular and/or pelvic injuries [246]. Insertion of foreign bodies is another rare cause of anterior urethral injury. This is usually a result of autoerotic stimulation or may be associated with psychiatric disorders. Management would depend on the location and nature of inserted device [247]. Iatrogenic injury is the most common type of urethral trauma [248]. The incidence of male urethral injury during transurethral catheterisation ranges from 6.2–13.4 per 1,000 catheters inserted [249, 250]. Injuries can occur due to creation of a false passage by the tip of the catheter or inadvertent inflation of the anchoring balloon in the urethra [249]. The importance of catheter insertion training programmes [251-253] and the implementation of difficult urinary catheterisation protocols [254] to prevent urethral injury during transurethral catheterisation have been demonstrated. Cystoscopic guidewire-led catheter insertion or use of a safety valve for balloon inflation may prevent urethral trauma in difficult catheterisation cases [253, 255, 256]. An SR of the use of hydrophilic coated catheters used for intermittent catheterisation showed no clear benefit [257]. 4.4.2.b. Diagnosis 4.4.2.b.1. Clinical evaluation Blood at the meatus is the cardinal sign, but its absence does not rule out a urethral injury [198, 241]. Inability to void (with a palpable distended bladder) is another classic sign and is often associated with a complete rupture [241, 258]. Haematuria and pain on urination may be present in incomplete ruptures. Urinary extravasation and bleeding can result in scrotal, penile and/or perineal swelling and ecchymosis, depending on the location and extent of the trauma. These clinical symptoms may be delayed, with presentation occurring more than one hour after injury [258]. Difficulty or inability to pass a urethral catheter is another important sign of urethral injury [198,258]. 4.4.2.b.2. Imaging 4.4.2.b.2.a. Urethrography Retrograde urethrography (RUG) is the standard test in the early evaluation of a male urethral injury [198, 259] and should be conducted by injecting 20–30mL of contrast material while occluding the meatus. Images should be obtained in a 30° oblique position. During RUG, any extravasation outside the urethra is pathognomonic for urethral injury [258]. Although RUG is able to reliably identify the site of injury (anterior vs. posterior), the distinction between a complete and partial rupture is not always clear [241, 260]. Therefore, any proposed classification system based on RUG is not reliable [241,260]. Prior to deferred treatment, a combination of RUG and antegrade cystourethrography is advised to evaluate location and extent of the urethral injury [241]. 4.4.2.b.2.b. Ultrasound In the acute phase, US should be used for guiding the placement of a suprapubic catheter [241]. 4.4.2.b.3. Cystourethroscopy Flexible cystourethroscopy is a valuable alternative to diagnose an acute urethral injury and may distinguish between complete and partial rupture [259]. 4.4.2.c. Management 4.4.2.c.1. Immediate exploration and urethral reconstruction Immediate urethral repair is indicated in urethral injuries associated with penile fracture and in non-life-threatening penetrating injuries [261,262]. Small lacerations can be repaired by simple closure [244]. Complete ruptures without extensive tissue loss are treated with anastomotic repair [244,246]. Only 2% of cases will develop a urethral stricture after immediate urethral reconstruction for penile fracture [261]. In the case of longer defects or apparent infection (particularly bite wounds), a staged repair with urethral marsupialisation is needed [259]. Consider giving peri- and postoperative antibiotic treatment for penetrating injuries according to local guidelines [263]. Performing immediate anterior urethroplasty in blunt injuries is highly controversial and should only be performed by a dedicated urethral surgeon [264, 265]. 4.4.2.c.2. Urinary diversion Blunt anterior urethral injuries are associated with spongiosal contusion. Evaluation of the limits of urethral debridement in the acute phase might be difficult, and as a consequence, it is reasonable to start with urinary diversion only [259]. If urinary diversion is performed, the therape",
+      "tables": []
+    },
+    {
+      "anchor": "#4-4-3-posterior-male-urethral-injury",
+      "title": "4.4.3. Posterior male urethral injury",
+      "level": 4,
+      "text": "4.4.3.a Epidemiology, aetiology and pathophysiology Blunt posterior urethral injuries occur almost exclusively in association with pelvic fracture, with the risk increasing according to fracture-configuration severity [270]. These injuries are referred to as pelvic fracture urethral injuries (PFUI), and are mainly caused by road traffic accidents, motor vehicle crashes (68-84%) and falls from heights (6-25%) [271-273]. Pelvic fracture urethral injuries are divided into partial or complete ruptures [242, 251, 252]. In complete ruptures, there is a gap between the disrupted ends of the urethra, which fills up with scar tissue. There is no urethral wall in the scarred space and any lumen represents a fistulous tract between the urethral stumps [258]. Bladder neck and prostatic injuries are rare and mostly occur at the anterior midline of both the bladder neck and prostatic urethra [274]. It is highly uncommon to find a complete transection of the bladder neck or an avulsion of the anterior part of the prostate [274]. Concomitant injuries to the head, thorax, abdomen and/or spine are frequent (up to 66%) [241]. Penetrating injuries to the pelvis, perineum or buttocks (mainly gunshot wounds) can also damage the posterior urethra but are extremely rare in the civilian setting [270]. There is a high probability of associated injuries (approx. 90%), mainly intra-abdominal [209]. The associated injuries which occur with both blunt and penetrating posterior urethral injuries can be life-threatening, and if so, will govern the patient’s assessment and treatment [241]. Delayed morbidities of posterior urethral injuries include urethral strictures, UI and erectile dysfunction (ED), all of which may impair patient quality of life [262]. Erectile dysfunction occurs in approximately 34% of patients following PFUI unrelated to urethroplasty [275]. Earlier studies suggested higher rates of ED. and urethral injuries in males undergoing endoscopic urethral realignment, while more recent evidence suggests that these complications are related to the underlying traumatic injury rather than the choice of management [276]. Iatrogenic injuries have been reported with transanal total mesorectal excision in 1-11% of cases. These injuries are usually partial and located at the membranous urethra [277]. 4.4.3.b Diagnosis 4.4.3.b.1 Clinical evaluation Blood at the meatus is the cardinal sign, but the absence of it does not rule out a urethral injury [198, 241]. Inability to void (with a palpable distended bladder) is another classic sign and is often associated with a complete rupture [241, 258]. Haematuria and pain on urination may be present in incomplete ruptures. Urinary extravasation and bleeding may result in scrotal, penile and/or perineal swelling and ecchymosis, depending on the location and extent of the trauma. The presentation of these clinical symptoms may be delayed (> 1 hour) [258]. Difficulty or inability to pass a urethral catheter is another important clinical indicator of urethral injury [198,258]. Rectal examination should always be done to exclude an associated rectal injury (up to 5% of cases) and may reveal a ‘high-riding’ prostate, although it is an unreliable diagnostic finding [198,258]. Failure to detect a rectal injury can cause significant morbidity and even mortality. Rectal injury is suspected when blood is noted on the examining finger and/or when a rectal laceration is palpable [198]. 4.4.3.b.2. Imaging 4.4.3.b.2.a. Urethrography Retrograde urethrography is the standard test for the early evaluation of a male urethral injury [198, 259].  It should be performed by injecting 20-30 mL of contrast material while occluding the meatus. Films should be taken in a 30° oblique position. In patients with PFUI, it is important to adjust the X-ray beam to 30° angle rather than repositioning the patient [241]. In an unstable patient, RUG should be postponed until the patient has been stabilised [198, 209]. Extravasation of contrast outside the urethra during RUG is pathognomonic for urethral injury [258]. Although RUG reliably identifies the site of injury (anterior vs. posterior), differentiation between complete and partial rupture is not always clear [241, 260]. Therefore, any proposed classification system based on RUG is not reliable [241,260]. A typical image for incomplete rupture shows extravasation from the urethra which occurs while the bladder is still filling. A complete rupture is suggested by massive extravasation without bladder filling [241]. Prior to deferred treatment, a combination of RUG and antegrade cysto-urethrography is advised to evaluate location and extent of the urethral injury, and to evaluate the competence of the bladder neck [241]. 4.4.3.b.2.b. Ultrasound In the acute phase, US should be used for guiding the placement of a suprapubic catheter [241]. 4.4.3.b.2.c. Magnetic resonance imaging In complex PFUIs, MRI before deferred treatment provides valuable additional information, which can",
+      "tables": []
+    },
+    {
+      "anchor": "#4-4-4-female-urethral-injuries",
+      "title": "4.4.4. Female urethral injuries",
+      "level": 4,
+      "text": "4.4.4.a. Epidemiology, aetiology and pathophysiology Birth related injuries to the female urethra are rare and consist of minor (peri)urethral lacerations during vaginal delivery. Motorcycle, bicycle and auto versus pedestrian accidents are the main cause of blunt trauma, with the younger population being particularly at risk [297,298]. However, PFUIs in females are rare, less common than in males [270], and associated with severe systemic injuries [298]. This is usually attributed to the flexibility provided by the vagina and the greater inherent elasticity of the female urethra [297]. It may also be the result of less severe and more frequent stable pelvic fractures in females [198,241]. In unstable pelvic fractures in females, a high suspicion for a urethral injury should be maintained [297]. Female urethral injuries are classified into two types: longitudinal or partial (most frequent) injuries and transverse or complete injuries [297]. Concomitant bladder or vaginal injury is possible. Therefore, females are at risk of developing UI and urethrovaginal fistula [297]. Insertion of a synthetic suburethral sling for the treatment of female stress UI is complicated by an intraoperative urethral injury in 0.2–2.5% of cases [299] and is an important cause of iatrogenic urethral injury. 4.4.4.b. Diagnosis A female urethral injury should be suspected from the combination of an (unstable) pelvic fracture with blood at the vaginal introitus, vaginal laceration, haematuria, urethrorrhagia, labial swelling, urinary retention or difficulties passing a urethral catheter [198, 262]. Vaginal examination is indicated to assess vaginal lacerations [198, 262]. In females, the short urethra and vulvar oedema make adequate urethrography nearly impossible [300]. Therefore, cystourethroscopy and vaginoscopy are the diagnostic modalities of choice [198, 297]. If, prior to deferred treatment, the competence of the bladder neck is not clear upon antegrade cystourethrography, a suprapubic cystoscopy is advised [241]. 4.4.4.c. Management Emergency room management of PFUIs in females is the same as in males (Section 4.4.3.c.1). However, subsequent management differs. Treatment options are [297]: Early realignment: This is associated with a high stricture and fistula rate. Early repair (seven days or less): Complication rate is the lowest with early repair. Therefore, this strategy is preferred once the patient is haemodynamically stable [262,297]. Delayed repair (more than seven days): Delayed repair often requires complex abdominal or combined abdominal-vaginal reconstruction with elevated risk of UI and vaginal stenosis. The approach (vaginal, abdominal or combined) for early repair depends on the location of the injury [297]. Proximal and midurethral disruptions require immediate exploration and primary repair using the retropubic and transvaginal routes, respectively, with primary suturing of the urethral ends or urethral laceration. Concomitant vaginal lacerations are repaired (two-layer closure) transvaginally at the same time [297]. Distal urethral injuries can be left hypospadiac since they do not disrupt the sphincter mechanism, but a concomitant vaginal laceration must be closed [198,300]. In case of urethral injury during synthetic sub-urethral sling insertion, immediate repair is warranted with abandonment of sling insertion [299]. Table 4.4.1: Complication rates for different treatment strategies for PFUIs in females [297] Type of repair Stricture (%) Fistula (%) Incontinence (%) Vaginal stenosis (%) Need for permanent  urinary diversion (%) Early realignment 59 13 0 0 0 Early repair 3 6 9 0 3 Delayed repair 3 4 31 4 7",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Type of repair",
+              "Stricture(%)",
+              "Fistula(%)",
+              "Incontinence(%)",
+              "Vaginal stenosis(%)",
+              "Need for permanent urinary diversion (%)"
+            ],
+            [
+              "Early realignment",
+              "59",
+              "13",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "Early repair",
+              "3",
+              "6",
+              "9",
+              "0",
+              "3"
+            ],
+            [
+              "Delayed repair",
+              "3",
+              "4",
+              "31",
+              "4",
+              "7"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-4-5-summary-of-evidence-and-recommendations-for-the-evaluation-and-management-of-urethral-trauma",
+      "title": "4.4.5. Summary of evidence and recommendations for the evaluation and management of urethral trauma",
+      "level": 4,
+      "text": "Summary of evidence LE Implementing training programmes on urinary catheter insertion for personnel involved with urethral catheterisation significantly improves the rate of catheter-related complications. 2b In males, a urethral injury is detected as contrast extravasation during urethrography or as a mucosal laceration during cystourethroscopy. 3 As opposed to cystourethroscopy, voiding cystourethrography will miss a female urethral injury in approximately 50% of cases. 3 Transurethral or suprapubic urinary diversion are the treatment options for iatrogenic injuries. 3 With urinary diversion (suprapubic or transurethral catheter) satisfactory urethral luminal recanalisation may occur after partial blunt anterior urethral ruptures. 3 If PFUIs are associated with life-threatening injuries, urethral management has no priority and urinary diversion with either urethral or suprapubic catheterisation is sufficient initially. 3 With early endoscopic realignment, the stricture rate is reduced to 44–49% without increased risk of incontinence or ED. 3 Repetitive endoscopic treatments after failed realignment delay the time to definitive cure and increase the incidence of adverse events. 3 For partial posterior injuries, urinary diversion (suprapubic or transurethral) is sufficient, as these injuries might heal without significant scarring or obstruction. 3 Immediate urethroplasty (< 48 hours) in male PFUI is associated with a higher risk of bleeding, stricture, incontinence and ED rates compared to delayed urethroplasty. 3 In selected patients for male PFUI, early urethroplasty (two days to six weeks) is associated with similar stricture, incontinence and erectile dysfunction rates compared to delayed urethroplasty. 3 Suprapubic diversion with delayed urethroplasty in male PFUI with complete urethral disruption is associated with an 86% stricture-free success rate and with no significant impact on erectile function and urinary continence. 2a Early repair in female PFUI has the lowest complication rate. 3 Recommendations Strength rating Provide appropriate training to reduce the risk of traumatic catheterisation. Strong Evaluate male urethral injuries with flexible cystourethroscopy and/or retrograde urethrography. Strong Evaluate female urethral injuries with cystourethroscopy and vaginoscopy. Strong Treat iatrogenic anterior urethral injuries by transurethral or suprapubic urinary diversion. Strong Treat partial blunt anterior urethral injuries by suprapubic or urethral catheterisation. Strong Treat pelvic fracture urethral injuries (PFUIs) in haemodynamically unstable patients initially by transurethral or suprapubic catheterisation. Strong Perform early endoscopic realignment in male PFUIs when feasible. Weak Do not repeat endoscopic treatments after failed realignment for male PFUI. Strong Treat partial posterior urethral injuries initially by suprapubic or transurethral catheter. Strong Do not perform immediate urethroplasty (< 48 hours) in male PFUIs. Strong Perform early urethroplasty (two days to six weeks) for male PFUIs with complete disruption in selected patients (stable, short gap, soft perineum, lithotomy position possible). Weak Manage complete posterior urethral disruption in male PFUIs with suprapubic diversion and deferred (at least three months) urethroplasty. Strong Perform early repair (within seven days) for female PFUIs (not delayed repair or early realignment). Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Implementing training programmes on urinary catheter insertion for personnel involved with urethral catheterisation significantly improves the rate of catheter-related complications.",
+              "2b"
+            ],
+            [
+              "In males, a urethral injury is detected as contrast extravasation during urethrography or as a mucosal laceration during cystourethroscopy.",
+              "3"
+            ],
+            [
+              "As opposed to cystourethroscopy, voiding cystourethrography will miss a female urethral injury in approximately 50% of cases.",
+              "3"
+            ],
+            [
+              "Transurethral or suprapubic urinary diversion are the treatment options for iatrogenic injuries.",
+              "3"
+            ],
+            [
+              "With urinary diversion (suprapubic or transurethral catheter) satisfactory urethral luminal recanalisation may occur after partial blunt anterior urethral ruptures.",
+              "3"
+            ],
+            [
+              "If PFUIs are associated with life-threatening injuries, urethral management has no priority and urinary diversion with either urethral or suprapubic catheterisation is sufficient initially.",
+              "3"
+            ],
+            [
+              "With early endoscopic realignment, the stricture rate is reduced to 44–49% without increased risk of incontinence or ED.",
+              "3"
+            ],
+            [
+              "Repetitive endoscopic treatments after failed realignment delay the time to definitive cure and increase the incidence of adverse events.",
+              "3"
+            ],
+            [
+              "For partial posterior injuries, urinary diversion (suprapubic or transurethral) is sufficient, as these injuries might heal without significant scarring or obstruction.",
+              "3"
+            ],
+            [
+              "Immediate urethroplasty (< 48 hours) in male PFUI is associated with a higher risk of bleeding, stricture, incontinence and ED rates compared to delayed urethroplasty.",
+              "3"
+            ],
+            [
+              "In selected patients for male PFUI, early urethroplasty (two days to six weeks) is associated with similar stricture, incontinence and erectile dysfunction rates compared to delayed urethroplasty.",
+              "3"
+            ],
+            [
+              "Suprapubic diversion with delayed urethroplasty in male PFUI with complete urethral disruption is associated with an 86% stricture-free success rate and with no significant impact on erectile function and urinary continence.",
+              "2a"
+            ],
+            [
+              "Early repair in female PFUI has the lowest complication rate.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Provide appropriate training to reduce the risk of traumatic catheterisation.",
+              "Strong"
+            ],
+            [
+              "Evaluate male urethral injuries with flexible cystourethroscopy and/or retrograde urethrography.",
+              "Strong"
+            ],
+            [
+              "Evaluate female urethral injuries with cystourethroscopy and vaginoscopy.",
+              "Strong"
+            ],
+            [
+              "Treat iatrogenic anterior urethral injuries by transurethral or suprapubic urinary diversion.",
+              "Strong"
+            ],
+            [
+              "Treat partial blunt anterior urethral injuries by suprapubic or urethral catheterisation.",
+              "Strong"
+            ],
+            [
+              "Treat pelvic fracture urethral injuries (PFUIs) in haemodynamically unstable patients initially by transurethral or suprapubic catheterisation.",
+              "Strong"
+            ],
+            [
+              "Perform early endoscopic realignment in male PFUIs when feasible.",
+              "Weak"
+            ],
+            [
+              "Do not repeat endoscopic treatments after failed realignment for male PFUI.",
+              "Strong"
+            ],
+            [
+              "Treat partial posterior urethral injuries initially by suprapubic or transurethral catheter.",
+              "Strong"
+            ],
+            [
+              "Do not perform immediate urethroplasty (< 48 hours) in male PFUIs.",
+              "Strong"
+            ],
+            [
+              "Perform early urethroplasty (two days to six weeks) for male PFUIs with complete disruption in selected patients (stable, short gap, soft perineum, lithotomy position possible).",
+              "Weak"
+            ],
+            [
+              "Manage complete posterior urethral disruption in male PFUIs with suprapubic diversion and deferred (at least three months) urethroplasty.",
+              "Strong"
+            ],
+            [
+              "Perform early repair (within seven days) for female PFUIs (not delayed repair or early realignment).",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-4-6-treatment-algorithms",
+      "title": "4.4.6. Treatment algorithms",
+      "level": 4,
+      "text": "Management of anterior and posterior urethral injuries in males. Figure 4.4.1: Management of anterior urethral injuries in males US = ultrasound. Figure 4.4.2: Management of posterior urethral injuries in males DVIU = direct visual internal urethrotomy; RUG = retrograde urethrography; US = ultrasound",
+      "tables": []
+    },
+    {
+      "anchor": "#4-5-genital-trauma",
+      "title": "4.5. Genital trauma",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-5-1-epidemiology-aetiology-and-pathophysiology",
+      "title": "4.5.1. Epidemiology, aetiology and pathophysiology",
+      "level": 4,
+      "text": "Of all urological injuries, 33–66% involve the external genitalia [301]. Genital trauma is much more common in males than in females, especially between the ages of 15 and 40 years. This is due to anatomical differences, increased frequency of road traffic accidents and increased participation in physical sports, war and crime [302]. The risk of associated injuries to neighbouring organs (bladder, urethra, vagina, rectum and bowel) after blunt trauma is higher in females than in males. Genital trauma is commonly caused by blunt injuries (80%). In males, blunt genital trauma frequently occurs unilaterally with approximately 1% presenting as bilateral scrotal or testicular injuries [303]. Any kind of contact sport, without the use of protective aids, may be associated with genital trauma. Off-road cycling, motor biking (especially on motorbikes with a dominant petrol tank), rugby, football and hockey are all activities associated with blunt testicular trauma [304-307]. Penetrating injuries are most commonly caused by firearms (75.8%) with the majority requiring surgical intervention [308,309]. Accidents during sexual intercourse can also cause genital trauma. Males of younger age are the most affected. The major pathologies are penile fractures, strangulation, necrosis and associated injuries from various sexual practices [310, 311].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-5-2-categorisation-of-genital-trauma",
+      "title": "4.5.2. Categorisation of genital trauma",
+      "level": 4,
+      "text": "4.5.2.a. Penile fracture The most important presentation of blunt penile trauma is penile fracture. The common causes are sexual intercourse, forced flexion (taqaandan), masturbation and rolling over [312]. It has also been reported that penile fracture patients have a significantly higher rate of substance abuse [313]. The usual mechanism of injury is when the penis slips out of the vagina and strikes against the symphysis pubis or perineum. Sixty per cent of cases occur during consensual intercourse [314], with penile fracture more likely in certain positions [315]. Penile fracture is caused by rupture of the cavernosal tunica albuginea and may be associated with subcutaneous haematoma and lesions of the corpus spongiosum or urethra in 10–22% of patients [316-318]. The thickness of the tunica albuginea in the flaccid state (approximately 2 mm) decreases in erection to 0.25–0.5mm and is therefore more vulnerable to traumatic injury [319, 320]. 4.5.2.b. Penetrating trauma Gunshot injuries to the external genitalia are relatively uncommon and are usually not life-threatening. However, they can have a significant impact on quality of life. About 40–60% of all penetrating genitourinary lesions involve the external genitalia [321, 322], and 35% of these are gunshot wounds [303]. In a series of wartime injuries, the majority were caused by improvised explosive devices and other explosive ordinance, while smaller numbers of injuries were due to gunshot injuries [323]. In both males and females, penetrating injuries affect multiple organs in 70% of patients. In males, penetrating scrotal injuries affect both testes in 30% of cases compared with 1% in blunt injuries [303, 324]. Self-mutilation of the external genitalia has also been reported. Appropriate psychiatric intervention and ongoing emotional support are essential for patients with major genital injuries [325]. Both male and female genital piercings increase the risk for genital trauma [326]. 4.5.2.c. Animal and human bites Although animal bites are common, bites injuring the external genitalia are rare. Wounds are usually minor but have a risk of wound infection. 4.5.2.d. Genital burns Genital burns are rare in isolation and are usually due to industrial flames or chemicals [327]. 4.5.2.e. Testicular trauma Traumatic dislocation of the testicle rarely occurs and is most common in victims of road traffic accidents [328-331]. Bilateral dislocation of the testes has been reported in up to 25% of cases [329]. Testicular rupture is found in approximately 50% of cases of direct blunt scrotal trauma [332, 333]. It may occur under intense compression of the testis against the inferior pubic ramus or symphysis, resulting in a rupture of the tunica albuginea. A force of approximately 50kg is necessary to cause testicular rupture [334]. 4.5.2.f. Female genital trauma Coital injury of the female genital tract can happen during consensual sexual intercourse. Up to 35% of all genital injuries in females are sustained during their first sexual contact. The most frequently found injuries are lacerations [335]. Blunt trauma to the vulva is rarely reported and usually presents as a large haematoma. The incidence of traumatic vulvar haematomas after vaginal deliveries has been reported as one in 310 deliveries [336]. The presence of a vulvar haematoma is closely related to an increased risk of associated vaginal, pelvic or abdominal injuries [337,338]. Blunt injuries of the vulva and vagina are associated with pelvic trauma in 30%, after consensual intercourse in 25%, following sexual assault in 20%, and other blunt trauma in 15% [339].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-5-3-diagnosis",
+      "title": "4.5.3. Diagnosis",
+      "level": 4,
+      "text": "4.5.3.a. Penile trauma Penile fracture is associated with a sudden cracking or popping sound, pain and immediate detumescence. Local swelling of the penile shaft develops quickly, due to enlarging haematoma [243]. Bleeding may spread along the fascial layers of the penile shaft and extend to the lower abdominal wall if Buck’s fascia is also ruptured. Sometimes, the rupture of the tunica may be palpable. Failure to diagnose false penile fractures may lead to unnecessary operations. The absence of a cracking sound, slow detumescence, penile deviation, and ecchymosis of the shaft are highly sensitive signs for false penile fractures [340]. In cases of suspected penile fracture cavernosography, US or contrast-enhanced MRI (if available) [312, 341-343] can identify lacerations of the tunica albuginea in unclear cases [344], or provide reassurance that the tunica is intact. Magnetic resonance imaging is superior to US in diagnosing penile fracture [345, 346]. If a concomitant urethral injury is suspected, manage as outlined in Section 4.4. Intraoperative flexible cystoscopy can be performed during surgical exploration of penile fracture to rule out associated urethral injuries [263, 264]. In genital trauma, a urinalysis should be performed. The presence of visible haematuria requires a retrograde urethrogram in males. 4.5.3.b. Testicular trauma Testicular rupture is associated with immediate pain, nausea, vomiting and sometimes fainting. The hemiscrotum is tender, swollen and ecchymotic. The testis itself may be difficult to palpate. Ultrasound should be performed to determine intra- and/or extratesticular haematoma, testicular contusion or rupture [333, 347-355]. However, the literature is contradictory as to the usefulness of US compared to clinical examination alone. Some studies have reported convincing findings with a specificity of up to 98.6% [320]. Heterogeneous echo pattern of the testicular parenchyma with the loss of contour definition is a highly sensitive and specific radiographic finding for testicular rupture [345]. Others reported poor specificity (78%) and sensitivity (28%) for the differentiation between testicular rupture and haematocele, while accuracy is as low as 56% [348]. Colour Doppler-duplex US may provide useful information when used to evaluate testicular perfusion. If scrotal US is inconclusive, testicular CT or MRI may be helpful [356]. However, these techniques did not specifically increase the detection rates of testicular rupture [357]. 4.5.3.c. Female genital trauma Blunt vulvar or perineal trauma in females may be associated with bleeding, pain and voiding problems. Bladder catheterisation is usually required. In females, flexible or rigid cystoscopy is recommended to exclude urethral and bladder injury [337, 339]. In women with genital injuries and blood at the vaginal introitus, further gynaecological investigation is needed [337].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-5-4-management",
+      "title": "4.5.4. Management",
+      "level": 4,
+      "text": "4.5.4.a. Animal and human bites Local wound management depends on the extent of tissue destruction. Antibiotics should be prescribed in accordance with local resistance patterns [358]. The possibility of rabies infection must be considered, taking into account the geographical location, animal involved, specific nature of the wound and the type of attack (provoked/unprovoked). Elderly and immunosuppressed patients should be vaccinated with human rabies immunoglobulin and human diploid cell vaccine [359, 360]. In cases of human bites, apart from wound management, infection should be considered. As transmission of viral diseases may occur, Hepatitis B vaccine/immunoglobulin and/or immunodeficiency virus (HIV) post-exposure prophylaxis should be offered. For further details, see the guidelines for the management of human bite injuries [361]. 4.5.4.b. Testicular trauma 4.5.4.b.1. Testicular dislocation Testicular dislocation can be either a subcutaneous dislocation with epifascial displacement of the testis or an internal dislocation. In the latter, the testis is positioned in the superficial external inguinal ring, inguinal canal or abdominal cavity. Traumatic dislocation of the testis is treated by manual replacement and secondary orchidopexy. If primary manual reposition cannot be performed, immediate orchidopexy is indicated. 4.5.4.b.2. Testicular rupture Testicular rupture is essential to surgically explore patients with equivocal findings, whenever imaging studies cannot definitively exclude testicular rupture. This involves exploration with evacuation of blood clots and haematoma, excision of any necrotic testicular tubules and closure of the tunica albuginea using absorbable sutures. 4.5.4.b.3. Haematocele Conservative management is recommended in haematoceles smaller than three times the size of the contralateral testis [362]. In large haematoceles, nonoperative management can fail, and delayed surgery (more than three days) is often required. Patients with large haematoceles have a higher rate of orchiectomy than patients who undergo early surgery, even in nonruptured testes [303, 325, 332, 363, 364]. Early surgical intervention results in preservation of the testis in more than 90% of cases compared to delayed surgeries, which result in orchiectomy in 45–55% of patients [332]. In addition, nonoperative management is also associated with prolonged hospital stays. Therefore, large (> 3x contralateral testis) haematoceles should be treated surgically, irrespective of the presence of testicular contusion or rupture. At the very least, the blood clot should be evacuated from the tunica vaginalis sac to relieve disability and hasten recovery. 4.5.4.b.4. Penetrating scrotal trauma Penetrating injuries to the scrotum require surgical exploration with debridement of nonviable tissue. Depending on the extent of the injury, primary reconstruction of the testis and scrotum can usually be performed. In complete disruption of the spermatic cord, realignment without vasovasostomy may be considered if surgically feasible [365]. Staged secondary microsurgical vasovasostomy can be performed after recovery, although only a few cases have been reported [365]. If there is extensive destruction of the tunica albuginea, mobilisation of a free tunica vaginalis flap can be performed for testicular closure. If the patient is unstable or reconstruction cannot be achieved, orchiectomy is indicated. Extended laceration of scrotal skin requires surgical intervention for skin closure. Due to the elasticity of the scrotum, most defects can be primarily closed, even if the lacerated skin is only minimally attached to the scrotum [325]. Local wound management with extensive initial wound debridement and washout is important for scrotal convalescence. In the case of extensive loss of genital tissue, for example, improvised explosive device blast injury, complex and staged reconstructive surgical procedures are often required [323]. Military testicular salvage rates increased over the last decades due to improvements of medical services (up to 67.6%) [366]. 4.5.4.c. Penile trauma 4.5.4.c.1. Penile blunt trauma Blunt trauma to the flaccid penis does not usually cause tearing of the tunica. Subcutaneous haematoma after sexual intercourse, without associated rupture of the cavernosal tunica albuginea, does not require surgical intervention. In these cases, nonsteroidal analgesics and ice packs are recommended [367]. 4.5.4.d. Penile fracture When a penile fracture is diagnosed, surgical intervention with closure of the tunica albuginea is recommended. Surgical intervention ensures the lowest rate of negative long-term sequelae and has no negative effect on the psychological well-being of the patient [368]. The approach is usually through a circumferential incision proximal to the coronal sulcus, which enables complete degloving of the penis. Increasingly, local longitudinal incisions centred on the area of fracture or ventral longitudinal ",
+      "tables": []
+    },
+    {
+      "anchor": "#4-5-5-complications",
+      "title": "4.5.5. Complications",
+      "level": 4,
+      "text": "4.5.5.a. Penile trauma complications The possibility of complications from genital trauma, including psychological effects, ED, urethral stricture and infertility, is high. In patients with a history of penile fracture, postoperative complications were reported in up to 20% of cases. Development of plaques or nodules following surgery, postoperative curvature formation and ED occur in 13.9%, 2.8% and 1.9% of patients, respectively [312]. Post-surgical ED is more common in patients > 50 years and those with bilateral corporal involvement [373]. Skin necrosis is rare [315]. The tear size of the tunica albuginea is a parameter which may affect long-term follow-up results [374]. Conservative management of penile fracture increases complications such as penile abscess, missed urethral disruption, penile curvature and persistent haematoma, requiring delayed surgical intervention [375]. Late complications after conservative management were fibrosis and angulations in 35% of patients, and ED in up to 62% [314, 376]. 4.5.5.b. Testicular trauma complications Postoperative complications were reported in 8% of patients who underwent testicular repair after penetrating trauma [321]. Despite good management and regular follow-up of external genital gunshot wounds, such wounds are fraught with the possibility of complications, such as ED, urethral stricture and infertility. Delayed complications include chronic pain and testicular atrophy. Haematoceles initially treated nonoperatively may eventually need delayed surgery if they develop infection or undue pain. Genital injuries are rarely life-threatening, but fertility and testosterone production often become the patient’s chief concern once acute issues are resolved [377].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-5-6-follow-up",
+      "title": "4.5.6. Follow-up",
+      "level": 4,
+      "text": "In patients with genital trauma, follow-up should focus on diagnosis of and therapy for late complications. Erectile dysfunction, urethral stricture and assessment of fertility are the main concerns [318, 378]. Given the psychological impact of genital trauma, early referral to psychological counselling should be considered.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-5-7-summary-of-evidence-and-recommendations-for-evaluation-and-management-of-genital-trauma",
+      "title": "4.5.7. Summary of evidence and recommendations for evaluation and management of genital trauma",
+      "level": 4,
+      "text": "Summary of evidence LE A concomitant urethral injury complicates penile fractures and requires specialised management. 3 Ultrasound can determine intra- and/or extratesticular haematoma, testicular contusion or rupture, with heterogeneous echo pattern parenchyma and loss of contour definition being a highly sensitive and specific finding. 3 Surgical treatment of penile fracture ensures the lowest rate of negative long-term sequelae on functional and psychological wellbeing of the patient. 3 In patients with testicular rupture or equivocal imaging, surgical exploration can secure preservation of viable tissue. 3 Recommendations Strength rating Exclude urethral injury in case of penile fracture. Strong Perform ultrasound (US) for the diagnosis of testicular trauma. Strong Treat penile fractures surgically with closure of tunica albuginea. Strong Explore the injured testis in all cases of testicular rupture and in those with inconclusive US findings. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "A concomitant urethral injury complicates penile fractures and requires specialised management.",
+              "3"
+            ],
+            [
+              "Ultrasound can determine intra- and/or extratesticular haematoma, testicular contusion or rupture, with heterogeneous echo pattern parenchyma and loss of contour definition being a highly sensitive and specific finding.",
+              "3"
+            ],
+            [
+              "Surgical treatment of penile fracture ensures the lowest rate of negative long-term sequelae on functional and psychological wellbeing of the patient.",
+              "3"
+            ],
+            [
+              "In patients with testicular rupture or equivocal imaging, surgical exploration can secure preservation of viable tissue.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Exclude urethral injury in case of penile fracture.",
+              "Strong"
+            ],
+            [
+              "Perform ultrasound (US) for the diagnosis of testicular trauma.",
+              "Strong"
+            ],
+            [
+              "Treat penile fractures surgically with closure of tunica albuginea.",
+              "Strong"
+            ],
+            [
+              "Explore the injured testis in all cases of testicular rupture and in those with inconclusive US findings.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 13
+}

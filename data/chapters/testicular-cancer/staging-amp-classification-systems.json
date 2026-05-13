@@ -1,0 +1,786 @@
+{
+  "guideline": "testicular-cancer",
+  "chapter": "staging-amp-classification-systems",
+  "url": "https://uroweb.org/guidelines/testicular-cancer/chapter/staging-amp-classification-systems",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 2,
+      "text": "2.1 Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Future goals",
+      "anchor": "#2-3-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AETIOLOGY PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology and Aetiology",
+      "anchor": "#3-1-epidemiology-and-aetiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Histological classification",
+      "anchor": "#3-2-histological-classification"
+    },
+    {
+      "level": 2,
+      "text": "4. STAGING & PROGNOSIS",
+      "anchor": "#4-staging--prognosis"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Staging",
+      "anchor": "#4-1-staging"
+    },
+    {
+      "level": 3,
+      "text": "4.2. The Union for International Cancer Control prognostic groups",
+      "anchor": "#4-2-the-union-for-international-cancer-control-prognostic-groups"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Risk factors for relapse in clinical stage I germ cell tumours",
+      "anchor": "#4-3-risk-factors-for-relapse-in-clinical-stage-i-germ-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. SGCT",
+      "anchor": "#4-3-1-sgct"
+    },
+    {
+      "level": 4,
+      "text": "4.3.2. NSGCT",
+      "anchor": "#4-3-2-nsgct"
+    },
+    {
+      "level": 3,
+      "text": "4.4. The International Germ Cell Cancer Collaborative Group (IGCCCG) classification for the prognostic risk groups of metastatic germ cell cancer",
+      "anchor": "#4-4-the-international-germ-cell-cancer-collaborative-group-igcccg-classification-for-the-prognostic-risk-groups-of-metastatic-germ-cell-cancer"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION",
+      "anchor": "#5-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Physical examination",
+      "anchor": "#5-1-physical-examination"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Imaging",
+      "anchor": "#5-2-imaging"
+    },
+    {
+      "level": 3,
+      "text": "5.2.1. Primary tumour",
+      "anchor": "#5-2-1-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Staging",
+      "anchor": "#5-2-2-staging"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Serum tumour markers",
+      "anchor": "#5-3-serum-tumour-markers"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Preoperative serum tumour markers",
+      "anchor": "#5-3-1-preoperative-serum-tumour-markers"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Serum tumour markers after orchidectomy",
+      "anchor": "#5-3-2-serum-tumour-markers-after-orchidectomy"
+    },
+    {
+      "level": 4,
+      "text": "5.3.3. Other tumour markers",
+      "anchor": "#5-3-3-other-tumour-markers"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Inguinal exploration and initial management",
+      "anchor": "#5-4-inguinal-exploration-and-initial-management"
+    },
+    {
+      "level": 4,
+      "text": "5.4.1. Orchidectomy",
+      "anchor": "#5-4-1-orchidectomy"
+    },
+    {
+      "level": 4,
+      "text": "5.4.2. Testis-sparing surgery",
+      "anchor": "#5-4-2-testis-sparing-surgery"
+    },
+    {
+      "level": 4,
+      "text": "5.4.3. Insertion of testicular prosthesis",
+      "anchor": "#5-4-3-insertion-of-testicular-prosthesis"
+    },
+    {
+      "level": 4,
+      "text": "5.4.4. Contralateral biopsy",
+      "anchor": "#5-4-4-contralateral-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.4.5. Germ cell neoplasia ‘in situ’ (GCNIS)",
+      "anchor": "#5-4-5-germ-cell-neoplasia-in-situ-gcnis"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Pathological examination of the testis",
+      "anchor": "#5-5-pathological-examination-of-the-testis"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Screening",
+      "anchor": "#5-6-screening"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Summary of evidence and recommendations for the diagnosis and staging of testicular cancer",
+      "anchor": "#5-7-summary-of-evidence-and-recommendations-for-the-diagnosis-and-staging-of-testicular-cancer"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT",
+      "anchor": "#6-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Stage I germ cell tumours",
+      "anchor": "#6-1-stage-i-germ-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Seminoma germ cell tumour clinical stage I",
+      "anchor": "#6-1-1-seminoma-germ-cell-tumour-clinical-stage-i"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Nonseminomatous germ cell tumours clinical stage I",
+      "anchor": "#6-1-2-nonseminomatous-germ-cell-tumours-clinical-stage-i"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Metastatic germ cell tumours",
+      "anchor": "#6-2-metastatic-germ-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Clinical stage I with (persistently) elevated serum tumour markers",
+      "anchor": "#6-2-1-clinical-stage-i-with-persistently-elevated-serum-tumour-markers"
+    },
+    {
+      "level": 4,
+      "text": "6.2.3. Metastatic disease (stage II C and III)",
+      "anchor": "#6-2-3-metastatic-disease-stage-ii-c-and-iii"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Treatment evaluation and further treatment",
+      "anchor": "#6-3-treatment-evaluation-and-further-treatment"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. Treatment evaluation",
+      "anchor": "#6-3-1-treatment-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Residual tumour resection",
+      "anchor": "#6-3-2-residual-tumour-resection"
+    },
+    {
+      "level": 4,
+      "text": "6.3.3. Sequencing of surgery in the case of multiple sites",
+      "anchor": "#6-3-3-sequencing-of-surgery-in-the-case-of-multiple-sites"
+    },
+    {
+      "level": 4,
+      "text": "6.3.4. Systemic salvage treatment for relapse or refractory disease",
+      "anchor": "#6-3-4-systemic-salvage-treatment-for-relapse-or-refractory-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.3.5. Second relapse",
+      "anchor": "#6-3-5-second-relapse"
+    },
+    {
+      "level": 4,
+      "text": "6.3.6. Treatment of brain metastases",
+      "anchor": "#6-3-6-treatment-of-brain-metastases"
+    },
+    {
+      "level": 4,
+      "text": "6.3.7. Treatment of bone metastases",
+      "anchor": "#6-3-7-treatment-of-bone-metastases"
+    },
+    {
+      "level": 4,
+      "text": "6.3.8. Summary of evidence and recommendations for the treatment of metastatic testicular germ cell tumours",
+      "anchor": "#6-3-8-summary-of-evidence-and-recommendations-for-the-treatment-of-metastatic-testicular-germ-cell-tumours"
+    },
+    {
+      "level": 2,
+      "text": "7. FOLLOW UP AFTER CURATIVE THERAPY",
+      "anchor": "#7-follow-up-after-curative-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Minimal recommendations for follow-up",
+      "anchor": "#7-1-minimal-recommendations-for-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Quality of life and long-term toxicities after cure of testicular cancer",
+      "anchor": "#7-2-quality-of-life-and-long-term-toxicities-after-cure-of-testicular-cancer"
+    },
+    {
+      "level": 2,
+      "text": "8. RARE ADULT PARA AND TESTICULAR TUMOURS",
+      "anchor": "#8-rare-adult-para-and-testicular-tumours"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Classification",
+      "anchor": "#8-1-classification"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Spermatocytic tumours",
+      "anchor": "#8-2-spermatocytic-tumours"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Sex cord-stromal tumours",
+      "anchor": "#8-3-sex-cord-stromal-tumours"
+    },
+    {
+      "level": 4,
+      "text": "8.3.1. Leydig cell tumours",
+      "anchor": "#8-3-1-leydig-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "8.3.2. Sertoli cell tumours",
+      "anchor": "#8-3-2-sertoli-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "8.3.3. Granulosa cell tumour",
+      "anchor": "#8-3-3-granulosa-cell-tumour"
+    },
+    {
+      "level": 4,
+      "text": "8.3.5. Paratesticular tumours of the epididymis or spermatic cord",
+      "anchor": "#8-3-5-paratesticular-tumours-of-the-epididymis-or-spermatic-cord"
+    },
+    {
+      "level": 3,
+      "text": "8.4. Mesothelioma of the tunica vaginalis testis",
+      "anchor": "#8-4-mesothelioma-of-the-tunica-vaginalis-testis"
+    },
+    {
+      "level": 3,
+      "text": "8.5. Follow-up of rare adult para- and testicular cancers",
+      "anchor": "#8-5-follow-up-of-rare-adult-para--and-testicular-cancers"
+    },
+    {
+      "level": 2,
+      "text": "9. REFERENCES",
+      "anchor": "#9-references"
+    },
+    {
+      "level": 2,
+      "text": "10. CONFLICT OF INTEREST",
+      "anchor": "#10-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "11. CITATION INFORMATION",
+      "anchor": "#11-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "12. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#12-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#testicular-cancer",
+      "title": "Testicular Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 4. Staging & Prognosis Introduction Methods Epidemiology Aetiology Pathology Staging & Prognosis Diagnostic Evaluation Disease Management Follow Up After Curative Therapy Rare Adult Para And Testicular Tumours References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#4-staging--prognosis",
+      "title": "4. STAGING & PROGNOSIS",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-staging",
+      "title": "4.1. Staging",
+      "level": 3,
+      "text": "The 2025 Tumour, Node, Metastasis (TNM) classification of the International Union Against Cancer (UICC) is recommended to assess the anatomical extent of the disease (Table 1) [31]. Table 1: TNM classification for testicular cancer (adapted from UICC, 2025, 9th edn.) [31] TNM classification for testicular cancer pT - Primary Tumour 1   pTX Primary tumour cannot be assessed (see note 1 )   pT0 No evidence of primary tumour (e.g., histological scar in testis)   pTis Germ cell neoplasia in situ   pT1 Tumour limited to testis and epididymis without vascular/lymphatic invasion; tumour may invade tunica albuginea but not tunica vaginalis*   pT2 Tumour limited to testis with vascular/lymphatic invasion, or invading hilar soft tissue or epididymis or tumour extending through tunica albuginea with involvement of tunica vaginalis   pT3 Tumour invades spermatic cord with or without vascular/lymphatic invasion**   pT4 Tumour invades scrotum with or without vascular/lymphatic invasion N - Regional lymph nodes - clinical   NX Regional lymph nodes cannot be assessed   N0 No regional lymph node metastasis   N1 Metastasis with a lymph node mass 2cm or less in greatest dimension or multiple lymph nodes, none more than 2cm in greatest dimension   N2 Metastasis with a lymph node mass more than 2cm but not more than 5cm in greatest dimension; or more than five nodes positive, none more than 5cm; or evidence of extranodal extension of tumour   N3 Metastasis with a lymph node mass more than 5cm in greatest dimension Pn - Regional lymph nodes - pathological   pNX Regional lymph nodes cannot be assessed   pN0 No regional lymph node metastasis   pN1 Metastasis with a lymph node mass 2cm or less in greatest dimension and 5 or fewer positive nodes, none more than 2cm in greatest dimension   pN2 Metastasis with a lymph node mass more than 2cm but not more than 5cm in greatest dimension; or more than five nodes positive, none more than 5cm; or evidence of extranodal extension of tumour   pN3 Metastasis with a lymph node mass more than 5cm in greatest dimension M - Distant metastasis   M0 No distant metastasis   M1 Distant metastasis**   M1a Nonregional lymph node(s) or lung metastasis   M1b Distant metastasis other than non-regional lymph nodes and lung S - Serum tumour markers (prechemotherapy)   SX Serum marker studies not available or not performed   S0 Serum marker study levels within normal limits     LDH (U/l) < 1.5 x N and 1.5-10 x N or > 10 x N or hCG (mIU/mL) < 5,000 and 5,000-50,000 or > 50,000 or AFP (ng/mL) < 1,000 1,000-10,000 > 10,000   S1 S2 S3     N indicates the upper limit of normal. AFP = alpha-fetoprotein, hCG = human chorionic gonadotrophin; LDH = lactate dehydrogenase. 1 Except for pTis and pT4, where radical orchidectomy is not always necessary for classification purposes, the extent of the primary tumour is classified after radical orchidectomy; see pT. In other circumstances, Tx is used if no radical orchidectomy has been performed. *AJCC 8th edition subdivides T1 Pure Seminoma by T1a and T1b depending on size no greater than 3cm or greater than 3cm in greatest dimension. **AJCC 8th edition notes that the discontinuous involvement of the spermatic cord is considered as pM1.[32].",
+      "tables": [
+        {
+          "rows": [
+            [
+              "TNM classification for testicular cancer"
+            ],
+            [
+              "pT - Primary Tumour1"
+            ],
+            [
+              " ",
+              "pTX",
+              "Primary tumour cannot be assessed (see note1)"
+            ],
+            [
+              " ",
+              "pT0",
+              "No evidence of primary tumour (e.g., histological scar in testis)"
+            ],
+            [
+              " ",
+              "pTis",
+              "Germ cell neoplasia in situ"
+            ],
+            [
+              " ",
+              "pT1",
+              "Tumour limited to testis and epididymis without vascular/lymphatic invasion; tumour may invade tunica albuginea but not tunica vaginalis*"
+            ],
+            [
+              " ",
+              "pT2",
+              "Tumour limited to testis with vascular/lymphatic invasion, or invading hilar soft tissue or epididymis or tumour extending through tunica albuginea with involvement of tunica vaginalis"
+            ],
+            [
+              " ",
+              "pT3",
+              "Tumour invades spermatic cord with or without vascular/lymphatic invasion**"
+            ],
+            [
+              " ",
+              "pT4",
+              "Tumour invades scrotum with or without vascular/lymphatic invasion"
+            ],
+            [
+              "N - Regional lymph nodes - clinical"
+            ],
+            [
+              " ",
+              "NX",
+              "Regional lymph nodes cannot be assessed"
+            ],
+            [
+              " ",
+              "N0",
+              "No regional lymph node metastasis"
+            ],
+            [
+              " ",
+              "N1",
+              "Metastasis with a lymph node mass 2cm or less in greatest dimension or multiple lymph nodes, none more than 2cm in greatest dimension"
+            ],
+            [
+              " ",
+              "N2",
+              "Metastasis with a lymph node mass more than 2cm but not more than 5cm in greatest dimension; or more than five nodes positive, none more than 5cm; or evidence of extranodal extension of tumour"
+            ],
+            [
+              " ",
+              "N3",
+              "Metastasis with a lymph node mass more than 5cm in greatest dimension"
+            ],
+            [
+              "Pn - Regional lymph nodes - pathological"
+            ],
+            [
+              " ",
+              "pNX",
+              "Regional lymph nodes cannot be assessed"
+            ],
+            [
+              " ",
+              "pN0",
+              "No regional lymph node metastasis"
+            ],
+            [
+              " ",
+              "pN1",
+              "Metastasis with a lymph node mass 2cm or less in greatest dimension and 5 or fewer positive nodes, none more than 2cm in greatest dimension"
+            ],
+            [
+              " ",
+              "pN2",
+              "Metastasis with a lymph node mass more than 2cm but not more than 5cm in greatest dimension; or more than five nodes positive, none more than 5cm; or evidence of extranodal extension of tumour"
+            ],
+            [
+              " ",
+              "pN3",
+              "Metastasis with a lymph node mass more than 5cm in greatest dimension"
+            ],
+            [
+              "M - Distant metastasis"
+            ],
+            [
+              " ",
+              "M0",
+              "No distant metastasis"
+            ],
+            [
+              " ",
+              "M1",
+              "Distant metastasis**"
+            ],
+            [
+              " ",
+              "M1a",
+              "Nonregional lymph node(s) or lung metastasis"
+            ],
+            [
+              " ",
+              "M1b",
+              "Distant metastasis other than non-regional lymph nodes and lung"
+            ],
+            [
+              "S - Serum tumour markers (prechemotherapy)"
+            ],
+            [
+              " ",
+              "SX",
+              "Serum marker studies not available or not performed"
+            ],
+            [
+              " ",
+              "S0",
+              "Serum marker study levels within normal limits"
+            ],
+            [
+              " ",
+              " ",
+              "LDH (U/l)< 1.5 x N and1.5-10 x N or> 10 x N or",
+              "hCG (mIU/mL)< 5,000 and5,000-50,000 or> 50,000 or",
+              "AFP (ng/mL)< 1,0001,000-10,000> 10,000"
+            ],
+            [
+              " ",
+              "S1S2S3"
+            ],
+            [
+              " "
+            ],
+            [
+              " "
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-2-the-union-for-international-cancer-control-prognostic-groups",
+      "title": "4.2. The Union for International Cancer Control prognostic groups",
+      "level": 3,
+      "text": "The following table (Table 2) lists prognostic groups defined by the 2025 TNM classification. Table 2: Prognostic groups for testicular cancer (UICC, 2025, 9th edn.) [31] Stage grouping T N M S Stage 0 pTis N0 M0 S0 Stage I pT1-T4 N0 M0 SX Stage IA pT1 N0 M0 S0 Stage IB pT2-pT4 N0 M0 S0 Stage IS Any pT/TX N0 M0 S1-3 Stage II Any pT/TX N1-N3 M0 SX Stage IIA Any pT/TX N1 M0 S0 Any pT/TX N1 M0 S1 Stage IIB Any pT/TX N2 M0 S0 Any pT/TX N2 M0 S1 Stage IIC Any pT/TX N3 M0 S0 Any pT/TX N3 M0 S1 Stage III Any pT/TX Any N M1a SX Stage IIIA Any pT/TX Any N M1a S0 Any pT/TX Any N M1a S1 Stage IIIB Any pT/TX N1-N3 M0 S2 Any pT/TX Any N M1a S2 Stage IIIC Any pT/TX N1-N3 M0 S3 Any pT/TX Any N M1a S3 Any pT/TX Any N M1b Any S Prognostic groups for testicular cancer Stage IA: Primary tumours limited to the testis and epididymis without evidence of vascular or lymphatic invasion by tumour cells on histology, no sign of metastases on clinical examination or imaging, and post-orchidectomy serum tumour marker levels within normal limits. Marker decline in patients with Clinical Stage I (CS I) disease should be assessed until normalisation occurs on two consecutive measurements. Stage IB: More locally invasive primary tumour, but no sign of metastatic disease. Stage IS: Following orchiectomy tumour markers increase, remain persistently elevated or fail to decline as expected by half-lives indicating the presence of subclinical metastatic disease. The presence of a second GCT in the contralateral testis should also be excluded. In population-based patient series from developed countries, 75-80% of SGCT patients, and 55-64% of NSGCT patients had CS I disease at diagnosis [33,34]. Stage IS, i.e. persistently elevated or increasing serum tumour marker levels after radical orchidectomy, was found in approximately 5% of NSGCT patients [33].",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Stage grouping",
+              "T",
+              "N",
+              "M",
+              "S"
+            ],
+            [
+              "Stage 0",
+              "pTis",
+              "N0",
+              "M0",
+              "S0"
+            ],
+            [
+              "Stage I",
+              "pT1-T4",
+              "N0",
+              "M0",
+              "SX"
+            ],
+            [
+              "Stage IA",
+              "pT1",
+              "N0",
+              "M0",
+              "S0"
+            ],
+            [
+              "Stage IB",
+              "pT2-pT4",
+              "N0",
+              "M0",
+              "S0"
+            ],
+            [
+              "Stage IS",
+              "Any pT/TX",
+              "N0",
+              "M0",
+              "S1-3"
+            ],
+            [
+              "Stage II",
+              "Any pT/TX",
+              "N1-N3",
+              "M0",
+              "SX"
+            ],
+            [
+              "Stage IIA",
+              "Any pT/TX",
+              "N1",
+              "M0",
+              "S0"
+            ],
+            [
+              "Any pT/TX",
+              "N1",
+              "M0",
+              "S1"
+            ],
+            [
+              "Stage IIB",
+              "Any pT/TX",
+              "N2",
+              "M0",
+              "S0"
+            ],
+            [
+              "Any pT/TX",
+              "N2",
+              "M0",
+              "S1"
+            ],
+            [
+              "Stage IIC",
+              "Any pT/TX",
+              "N3",
+              "M0",
+              "S0"
+            ],
+            [
+              "Any pT/TX",
+              "N3",
+              "M0",
+              "S1"
+            ],
+            [
+              "Stage III",
+              "Any pT/TX",
+              "Any N",
+              "M1a",
+              "SX"
+            ],
+            [
+              "Stage IIIA",
+              "Any pT/TX",
+              "Any N",
+              "M1a",
+              "S0"
+            ],
+            [
+              "Any pT/TX",
+              "Any N",
+              "M1a",
+              "S1"
+            ],
+            [
+              "Stage IIIB",
+              "Any pT/TX",
+              "N1-N3",
+              "M0",
+              "S2"
+            ],
+            [
+              "Any pT/TX",
+              "Any N",
+              "M1a",
+              "S2"
+            ],
+            [
+              "Stage IIIC",
+              "Any pT/TX",
+              "N1-N3",
+              "M0",
+              "S3"
+            ],
+            [
+              "Any pT/TX",
+              "Any N",
+              "M1a",
+              "S3"
+            ],
+            [
+              "Any pT/TX",
+              "Any N",
+              "M1b",
+              "Any S"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Prognostic groups for testicular cancer"
+            ],
+            [
+              "Stage IA:",
+              "Primary tumours limited to the testis and epididymis without evidence of vascular or lymphatic invasion by tumour cells on histology, no sign of metastases on clinical examination or imaging, and post-orchidectomy serum tumour marker levels within normal limits. Marker decline in patients with Clinical Stage I (CS I) disease should be assessed until normalisation occurs on two consecutive measurements."
+            ],
+            [
+              "Stage IB:",
+              "More locally invasive primary tumour, but no sign of metastatic disease."
+            ],
+            [
+              "Stage IS:",
+              "Following orchiectomy tumour markers increase, remain persistently elevated or fail to decline as expected by half-lives indicating the presence of subclinical metastatic disease. The presence of a second GCT in the contralateral testis should also be excluded."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-3-risk-factors-for-relapse-in-clinical-stage-i-germ-cell-tumours",
+      "title": "4.3. Risk factors for relapse in clinical stage I germ cell tumours",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-3-1-sgct",
+      "title": "4.3.1. SGCT",
+      "level": 4,
+      "text": "Primary testicular tumour size and stromal invasion of the rete testis have been considered the prognostic risk factors associated with relapse in CS I SGCT. Two systematic reviews (SRs) assessed the prognostic value of both risk factors [35,36]. While tumour size (continuous or dichotomised) and rete testis invasion (RTI) were associated with a higher risk of relapse, both SRs highlighted the low quality of the studies included and concluded that the level of evidence was low to justify the use of both risk factors to drive adjuvant treatment decisions in routine practice. Two large series re-assessed prognostic risk factors in CS I SGCT patients under surveillance. A multi-institutional retrospective series including 1,016 patients and an additional validation cohort of 285 patients identified primary testicular tumor size (size < 2cm, 2-5cm, and > 5), RTI (pagetoid + stromal invasion) and lymphovascular invasion (LVI) to be associated with risk of relapse [37,38]. A three-tier risk stratification was compiled, including a small proportion of high-risk patients (2.3%) with tumour size > 5cm and both RTI and LVI present who had a five-year cumulative probability of relapse of 44%. A large prospective series from Denmark [39] including 924 patients with central pathology review identified invasion of the testicular hilum (rete testis and hilar soft tissue), LVI and elevated HCG and LDH prior to orchiectomy as independent predictors of relapse. In contrast to previous studies, tumour size was not identified as a risk factor. A six-tier risk stratification was developed and the estimated five-year probability of relapse ranged from 6% in patients without risk factors to 62% in patients with all four risk factors, which was 22% of the patient population. Both series demonstrated that the vast majority of patients with CS I SGCT are cured by orchiectomy alone, as the overall relapse rate was 14.7% and 16%, supporting active surveillance as the preferred adjuvant strategy.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-3-2-nsgct",
+      "title": "4.3.2. NSGCT",
+      "level": 4,
+      "text": "For CS I NSGCT, invasion of the primary tumour into blood or lymphatic vessels, i.e. LVI, has long been described to be strongly associated with the risk of relapse [40-42]. According to historical figures, relapse risk for patients with LVI-positive tumours was 50% versus 15% in patients with LVI-negative tumours. A Danish study of more than 400 patients with central pathology review identified tumour size, invasion of the hilar soft tissue and presence of embryonal carcinoma as additional risk factors [39]. Depending on the combination of factors, relapse risk ranged from < 5% to > 85%.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-4-the-international-germ-cell-cancer-collaborative-group-igcccg-classification-for-the-prognostic-risk-groups-of-metastatic-germ-cell-cancer",
+      "title": "4.4. The International Germ Cell Cancer Collaborative Group (IGCCCG) classification for the prognostic risk groups of metastatic germ cell cancer",
+      "level": 3,
+      "text": "The 1997 IGCCCG defined a prognostic risk-factor system for metastatic GCT based on identification of clinically independent adverse factors [43]. The classification has been revalidated on a contemporary cohort of metastatic TGCT treated with cisplatin/etoposide based first-line chemotherapy [44]. Compared to the 1997 figures, the five-year progression-free survival (PFS) of NSGCT patients was unchanged for good- and intermediate-risk but significantly improved for poor-risk patients (from 41% to 54%). The five-year overall survival (OS) was substantially better for all groups. In addition to the traditional components of the IGCCCG prognastic risk groups previously described, older age (linear association) and lung metastases were confirmed as negative factors for PFS [44]. For SGCT, revalidation of the IGCCCG classification showed that the five-year PFS increased to 89% and 79% in good- and intermediate-risk patients with corresponding OS rates of 95% and 88%. Lactate dehydrogenase (LDH) over 2.5 times the upper limit of normal (ULN) was identified as a possible adverse prognostic factor in regard to shorter three-year PFS; however, overall three-year survival was not affected [40]. Table 3: Prognostic-based staging system for metastatic germ cell cancer (IGCCCG) [40, 44]* Prognostic-based staging system for metastatic germ cell cancer (IGCCCG) Good-prognosis group NSGCT 5-year PFS 90% 5-year survival 96% All of the following criteria: Testis/retroperitoneal primary No nonpulmonary visceral metastases AFP < 1,000ng/mL hCG < 5,000 IU/L (1,000ng/mL) LDH < 1.5 x ULN SGTC 5-year PFS 89% 5-year survival 95% All of the following criteria: Any primary site No nonpulmonary visceral metastases Normal AFP Any hCG Any LDH Intermediate-prognosis group NSGCT 5-year PFS 78% 5-year survival 89% Any of the following criteria: Testis/retro-peritoneal primary No nonpulmonary visceral metastases And any of the following criteria: AFP 1,000 - 10,000ng/mL or hCG 5,000 - 50,000 IU/L or LDH 1.5-10 x ULN SGCT 5-year PFS 79% 5-year survival 88% All of the following criteria: Any primary site Nonpulmonary visceral metastases Normal AFP Any hCG Any LDH Poor-prognosis group NSGCT 5-year PFS 54% 5-year survival 67% Any of the following criteria: Mediastinal primary Non-pulmonary visceral metastases AFP > 10,000ng/mL hCG > 50,000 IU/L (10,000ng/mL) LDH > 10 x ULN SGCT No patients classified as poor-prognosis * Prechemotherapy serum tumour markers should be assessed immediately prior to the administration of chemotherapy (same day). AFP = alpha-fetoprotein; hCG = human chorionic gonadotrophin; LDH = lactate dehydrogenase; PFS = progression-free survival.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Prognostic-based staging system for metastatic germ cell cancer (IGCCCG)"
+            ],
+            [
+              "Good-prognosis group"
+            ],
+            [
+              "NSGCT5-year PFS 90%5-year survival 96%",
+              "All of the following criteria:Testis/retroperitoneal primaryNo nonpulmonary visceral metastasesAFP < 1,000ng/mLhCG < 5,000 IU/L (1,000ng/mL)LDH < 1.5 x ULN"
+            ],
+            [
+              "SGTC5-year PFS 89%5-year survival 95%",
+              "All of the following criteria:Any primary siteNo nonpulmonary visceral metastasesNormal AFPAny hCGAny LDH"
+            ],
+            [
+              "Intermediate-prognosis group"
+            ],
+            [
+              "NSGCT5-year PFS 78%5-year survival 89%",
+              "Any of the following criteria:Testis/retro-peritoneal primaryNo nonpulmonary visceral metastasesAnd any of the following criteria:AFP 1,000 - 10,000ng/mL orhCG 5,000 - 50,000 IU/L orLDH 1.5-10 x ULN"
+            ],
+            [
+              "SGCT5-year PFS 79%5-year survival 88%",
+              "All of the following criteria:Any primary siteNonpulmonary visceral metastasesNormal AFPAny hCGAny LDH"
+            ],
+            [
+              "Poor-prognosis group"
+            ],
+            [
+              "NSGCT5-year PFS 54%5-year survival 67%",
+              "Any of the following criteria:Mediastinal primaryNon-pulmonary visceral metastasesAFP > 10,000ng/mLhCG > 50,000 IU/L (10,000ng/mL)LDH > 10 x ULN"
+            ],
+            [
+              "SGCT",
+              "No patients classified as poor-prognosis"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 4
+}

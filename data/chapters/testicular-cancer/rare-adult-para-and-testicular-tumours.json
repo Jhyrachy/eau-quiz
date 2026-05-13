@@ -1,0 +1,454 @@
+{
+  "guideline": "testicular-cancer",
+  "chapter": "rare-adult-para-and-testicular-tumours",
+  "url": "https://uroweb.org/guidelines/testicular-cancer/chapter/rare-adult-para-and-testicular-tumours",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 2,
+      "text": "2.1 Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Future goals",
+      "anchor": "#2-3-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AETIOLOGY PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology and Aetiology",
+      "anchor": "#3-1-epidemiology-and-aetiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Histological classification",
+      "anchor": "#3-2-histological-classification"
+    },
+    {
+      "level": 2,
+      "text": "4. STAGING & PROGNOSIS",
+      "anchor": "#4-staging--prognosis"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Staging",
+      "anchor": "#4-1-staging"
+    },
+    {
+      "level": 3,
+      "text": "4.2. The Union for International Cancer Control prognostic groups",
+      "anchor": "#4-2-the-union-for-international-cancer-control-prognostic-groups"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Risk factors for relapse in clinical stage I germ cell tumours",
+      "anchor": "#4-3-risk-factors-for-relapse-in-clinical-stage-i-germ-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. SGCT",
+      "anchor": "#4-3-1-sgct"
+    },
+    {
+      "level": 4,
+      "text": "4.3.2. NSGCT",
+      "anchor": "#4-3-2-nsgct"
+    },
+    {
+      "level": 3,
+      "text": "4.4. The International Germ Cell Cancer Collaborative Group (IGCCCG) classification for the prognostic risk groups of metastatic germ cell cancer",
+      "anchor": "#4-4-the-international-germ-cell-cancer-collaborative-group-igcccg-classification-for-the-prognostic-risk-groups-of-metastatic-germ-cell-cancer"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION",
+      "anchor": "#5-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Physical examination",
+      "anchor": "#5-1-physical-examination"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Imaging",
+      "anchor": "#5-2-imaging"
+    },
+    {
+      "level": 3,
+      "text": "5.2.1. Primary tumour",
+      "anchor": "#5-2-1-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Staging",
+      "anchor": "#5-2-2-staging"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Serum tumour markers",
+      "anchor": "#5-3-serum-tumour-markers"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Preoperative serum tumour markers",
+      "anchor": "#5-3-1-preoperative-serum-tumour-markers"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Serum tumour markers after orchidectomy",
+      "anchor": "#5-3-2-serum-tumour-markers-after-orchidectomy"
+    },
+    {
+      "level": 4,
+      "text": "5.3.3. Other tumour markers",
+      "anchor": "#5-3-3-other-tumour-markers"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Inguinal exploration and initial management",
+      "anchor": "#5-4-inguinal-exploration-and-initial-management"
+    },
+    {
+      "level": 4,
+      "text": "5.4.1. Orchidectomy",
+      "anchor": "#5-4-1-orchidectomy"
+    },
+    {
+      "level": 4,
+      "text": "5.4.2. Testis-sparing surgery",
+      "anchor": "#5-4-2-testis-sparing-surgery"
+    },
+    {
+      "level": 4,
+      "text": "5.4.3. Insertion of testicular prosthesis",
+      "anchor": "#5-4-3-insertion-of-testicular-prosthesis"
+    },
+    {
+      "level": 4,
+      "text": "5.4.4. Contralateral biopsy",
+      "anchor": "#5-4-4-contralateral-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.4.5. Germ cell neoplasia ‘in situ’ (GCNIS)",
+      "anchor": "#5-4-5-germ-cell-neoplasia-in-situ-gcnis"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Pathological examination of the testis",
+      "anchor": "#5-5-pathological-examination-of-the-testis"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Screening",
+      "anchor": "#5-6-screening"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Summary of evidence and recommendations for the diagnosis and staging of testicular cancer",
+      "anchor": "#5-7-summary-of-evidence-and-recommendations-for-the-diagnosis-and-staging-of-testicular-cancer"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT",
+      "anchor": "#6-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Stage I germ cell tumours",
+      "anchor": "#6-1-stage-i-germ-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Seminoma germ cell tumour clinical stage I",
+      "anchor": "#6-1-1-seminoma-germ-cell-tumour-clinical-stage-i"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Nonseminomatous germ cell tumours clinical stage I",
+      "anchor": "#6-1-2-nonseminomatous-germ-cell-tumours-clinical-stage-i"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Metastatic germ cell tumours",
+      "anchor": "#6-2-metastatic-germ-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Clinical stage I with (persistently) elevated serum tumour markers",
+      "anchor": "#6-2-1-clinical-stage-i-with-persistently-elevated-serum-tumour-markers"
+    },
+    {
+      "level": 4,
+      "text": "6.2.3. Metastatic disease (stage II C and III)",
+      "anchor": "#6-2-3-metastatic-disease-stage-ii-c-and-iii"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Treatment evaluation and further treatment",
+      "anchor": "#6-3-treatment-evaluation-and-further-treatment"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. Treatment evaluation",
+      "anchor": "#6-3-1-treatment-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Residual tumour resection",
+      "anchor": "#6-3-2-residual-tumour-resection"
+    },
+    {
+      "level": 4,
+      "text": "6.3.3. Sequencing of surgery in the case of multiple sites",
+      "anchor": "#6-3-3-sequencing-of-surgery-in-the-case-of-multiple-sites"
+    },
+    {
+      "level": 4,
+      "text": "6.3.4. Systemic salvage treatment for relapse or refractory disease",
+      "anchor": "#6-3-4-systemic-salvage-treatment-for-relapse-or-refractory-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.3.5. Second relapse",
+      "anchor": "#6-3-5-second-relapse"
+    },
+    {
+      "level": 4,
+      "text": "6.3.6. Treatment of brain metastases",
+      "anchor": "#6-3-6-treatment-of-brain-metastases"
+    },
+    {
+      "level": 4,
+      "text": "6.3.7. Treatment of bone metastases",
+      "anchor": "#6-3-7-treatment-of-bone-metastases"
+    },
+    {
+      "level": 4,
+      "text": "6.3.8. Summary of evidence and recommendations for the treatment of metastatic testicular germ cell tumours",
+      "anchor": "#6-3-8-summary-of-evidence-and-recommendations-for-the-treatment-of-metastatic-testicular-germ-cell-tumours"
+    },
+    {
+      "level": 2,
+      "text": "7. FOLLOW UP AFTER CURATIVE THERAPY",
+      "anchor": "#7-follow-up-after-curative-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Minimal recommendations for follow-up",
+      "anchor": "#7-1-minimal-recommendations-for-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Quality of life and long-term toxicities after cure of testicular cancer",
+      "anchor": "#7-2-quality-of-life-and-long-term-toxicities-after-cure-of-testicular-cancer"
+    },
+    {
+      "level": 2,
+      "text": "8. RARE ADULT PARA AND TESTICULAR TUMOURS",
+      "anchor": "#8-rare-adult-para-and-testicular-tumours"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Classification",
+      "anchor": "#8-1-classification"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Spermatocytic tumours",
+      "anchor": "#8-2-spermatocytic-tumours"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Sex cord-stromal tumours",
+      "anchor": "#8-3-sex-cord-stromal-tumours"
+    },
+    {
+      "level": 4,
+      "text": "8.3.1. Leydig cell tumours",
+      "anchor": "#8-3-1-leydig-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "8.3.2. Sertoli cell tumours",
+      "anchor": "#8-3-2-sertoli-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "8.3.3. Granulosa cell tumour",
+      "anchor": "#8-3-3-granulosa-cell-tumour"
+    },
+    {
+      "level": 4,
+      "text": "8.3.5. Paratesticular tumours of the epididymis or spermatic cord",
+      "anchor": "#8-3-5-paratesticular-tumours-of-the-epididymis-or-spermatic-cord"
+    },
+    {
+      "level": 3,
+      "text": "8.4. Mesothelioma of the tunica vaginalis testis",
+      "anchor": "#8-4-mesothelioma-of-the-tunica-vaginalis-testis"
+    },
+    {
+      "level": 3,
+      "text": "8.5. Follow-up of rare adult para- and testicular cancers",
+      "anchor": "#8-5-follow-up-of-rare-adult-para--and-testicular-cancers"
+    },
+    {
+      "level": 2,
+      "text": "9. REFERENCES",
+      "anchor": "#9-references"
+    },
+    {
+      "level": 2,
+      "text": "10. CONFLICT OF INTEREST",
+      "anchor": "#10-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "11. CITATION INFORMATION",
+      "anchor": "#11-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "12. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#12-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#testicular-cancer",
+      "title": "Testicular Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 8. Rare Adult Para And Testicular Tumours Introduction Methods Epidemiology Aetiology Pathology Staging & Prognosis Diagnostic Evaluation Disease Management Follow Up After Curative Therapy Rare Adult Para And Testicular Tumours References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#8-rare-adult-para-and-testicular-tumours",
+      "title": "8. RARE ADULT PARA AND TESTICULAR TUMOURS",
+      "level": 2,
+      "text": "Less than 5% of testicular cancers are unrelated to GCNIS and lack 12p alterations [301,302]. These tumours are rare with available literature based on case reports and small retrospective series. Given the rarity of non-germ cell para-/testicular cancers, referral of these cases to specialist units for multidisciplinary discussion, including central image and pathology review, is highly recommended. As a result of publication bias related to these types of studies, the risk of metastatic disease may be less than that reported in the literature.",
+      "tables": []
+    },
+    {
+      "anchor": "#8-1-classification",
+      "title": "8.1. Classification",
+      "level": 3,
+      "text": "These testicular tumours have a similar presentation as TC and are only identified after histopathologic examination. They are classified according to the WHO Classification of Tumours of the Urinary System and Male Genital Organs [303].",
+      "tables": []
+    },
+    {
+      "anchor": "#8-2-spermatocytic-tumours",
+      "title": "8.2. Spermatocytic tumours",
+      "level": 3,
+      "text": "Spermatocytic tumours are GCTs unrelated to GCNIS. They may show a unique amplification of chromosome 9 corresponding to the DMRT1 gene and are not associated with other forms of germ cell tumours [303]. Spermatocytic tumours are rare, occur exclusively in the testis and do not normally show elevated tumour markers [303]. Previously named “spermatocytic seminomas” they have been recently reclassified as spermatocytic tumours [303]. As those tumours cannot be differentiated from seminoma GCT by FSE, radical orchiectomy is the standard treatment option. Outcomes after testis-sparing surgery or adjuvant treatment is unknown and therefore not recommended [304]. Metastatic disease is very rare, usually associated with ‘sarcomatoid change’, and typically presents at or soon after initial diagnosis, metastasizing homogeneously (frequently to lungs), with limited survival [304].",
+      "tables": []
+    },
+    {
+      "anchor": "#8-3-sex-cord-stromal-tumours",
+      "title": "8.3. Sex cord-stromal tumours",
+      "level": 3,
+      "text": "Sex cord-stromal tumours are relatively uncommon but represent the second largest group of primary testicular tumours after GCT’s [305]. As a small subset of these tumours (approximately 10%) are clinically malignant [306], a thorough evaluation of those morphological features associated with malignancy should be performed to guide management.",
+      "tables": []
+    },
+    {
+      "anchor": "#8-3-1-leydig-cell-tumours",
+      "title": "8.3.1. Leydig cell tumours",
+      "level": 4,
+      "text": "Leydig cell tumours comprise about 4% of adult testicular tumours [307]. These mainly present as localised tumours with metastases occurring in only 2.5% [308]. They may present with hormonal manifestations, including gynaecomastia and more rarely are accompanied by Cushing’s Syndrome [389]. With testis-sparing surgery a local recurrence rate of 7% has been reported although no adjuvant treatment options can be recommended [309]. Several risk factors for metastatic disease have been proposed which may guide image-guided follow-up intensity [309], including lymphovascular invasion, necrosis, tumour size, infiltrative pattern, extratesticular extension, cytologic atypia, mitotic activity, proliferation index (Ki67) and older age [309-311], but these require validation in larger studies. Survival of men with metastatic disease is poor but occasional responses to surgical resection, if feasible, and to a lesser extent systemic treatment have been reported [309].",
+      "tables": []
+    },
+    {
+      "anchor": "#8-3-2-sertoli-cell-tumours",
+      "title": "8.3.2. Sertoli cell tumours",
+      "level": 4,
+      "text": "Sertoli cell tumours account for approximately 1% of testicular neoplasms [305]. The risk of metastases is unclear. With testis sparing surgery a local recurrence rate of < 1% has been reported although no adjuvant treatment options can be recommended [312]. Several risk factors for metastatic disease have been proposed which may guide image guided follow-up intensity [312], including lymphovascular invasion, necrosis, tumour size, extension to the spermatic cord, mitotic activity and patient age [312], but require validation in larger studies. Survival of males with metastatic disease is poor although response to surgery has been occasionally reported [312].",
+      "tables": []
+    },
+    {
+      "anchor": "#8-3-3-granulosa-cell-tumour",
+      "title": "8.3.3. Granulosa cell tumour",
+      "level": 4,
+      "text": "Granulosa cell tumours, which include adult and juvenile forms, are extremely rare and metastatic potential is unclear [305]. With testis sparing surgery a local recurrence rate of 5% has been reported although no adjuvant treatment options can be recommended [313]. Whereas metastatic disease has never been reported in juvenile granulosa cell tumours, men with adult granulosa cell tumour may occasionally present with metastatic disease [313]. Risk factors reported to associate with malignant behaviour include lymphovascular invasion, tumour size, infiltrative pattern and gynecomastia [313,314], but validation in larger studies is required. Survival of men with metastatic disease is poor although rare instances of response to surgical or systemic treatment has been reported [313].",
+      "tables": []
+    },
+    {
+      "anchor": "#8-3-4-thecomafibroma-group-of-tumours",
+      "title": "8.3.4. Thecoma/fibroma group of tumours",
+      "level": 4,
+      "text": "These tumours derive from the testicular parenchymal stroma or from the tunica albuginea. They seem to be uniformly benign [305,315].",
+      "tables": []
+    },
+    {
+      "anchor": "#8-3-5-paratesticular-tumours-of-the-epididymis-or-spermatic-cord",
+      "title": "8.3.5. Paratesticular tumours of the epididymis or spermatic cord",
+      "level": 4,
+      "text": "The majority of epididymal masses are benign cystic or inflammatory conditions. Solid epididymal tumours are rare and comprise numerous benign and neoplastic lesions. In the only population-based analyses [316], the majority of neoplastic lesions of the epididymis or spermatic cord were sarcomas, metastases from other organs or primary adenocarcinomas similar to proportions reported in institutional studies [317,318]. Benign lesions, which may comprise the majority in clinical practice include lipomas, adenomatoid tumours leiomyomas and papillary cystadenomas. Robust criteria to differentiate between neoplastic benign lesions have not been defined although ultrasonography with or without fine needle aspiration [319] MRI [48,320] or surgical exploration with FSE or histopathological confirmation can be considered. No clear recommendation can be provided regarding surgical approach, extent of resection and neo- or adjuvant treatment can be given.",
+      "tables": []
+    },
+    {
+      "anchor": "#8-4-mesothelioma-of-the-tunica-vaginalis-testis",
+      "title": "8.4. Mesothelioma of the tunica vaginalis testis",
+      "level": 3,
+      "text": "Mesothelioma of the tunica vaginalis testis is a rare but aggressive disease [321]. Beside older age, larger tumour size, presence of necrosis, angiolymphatic invasion or a high mitotic index the only modifiable risk factors represents local recurrence. Therefore, aggressive local treatment with hemiscrotectomy is recommended. No clear recommendation can be given regarding adjuvant treatment. In case of metastatic disease, the median overall survival is a few months only and multimodal treatment could be considered.",
+      "tables": []
+    },
+    {
+      "anchor": "#8-5-follow-up-of-rare-adult-para--and-testicular-cancers",
+      "title": "8.5. Follow-up of rare adult para- and testicular cancers",
+      "level": 3,
+      "text": "After local surgical treatment is completed, attention turns to follow‐up strategies with the aims of detecting recurrence or secondary cancers at a stage when further curative procedures are possible whilst minimising the burden of follow-up and the potential for over-treatment and concomitant treatment toxicity. Data for rare para- and testicular cancers are limited but recommended follow-up schedules based on published case series have been suggested [322].",
+      "tables": []
+    }
+  ],
+  "tables_count": 0
+}

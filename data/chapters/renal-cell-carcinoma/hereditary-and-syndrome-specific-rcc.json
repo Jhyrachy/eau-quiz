@@ -1,0 +1,732 @@
+{
+  "guideline": "renal-cell-carcinoma",
+  "chapter": "hereditary-and-syndrome-specific-rcc",
+  "url": "https://uroweb.org/guidelines/renal-cell-carcinoma/chapter/hereditary-and-syndrome-specific-rcc",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Future goals",
+      "anchor": "#2-3-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AETIOLOGY AND PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology",
+      "anchor": "#3-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Aetiology",
+      "anchor": "#3-2-aetiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Screening",
+      "anchor": "#3-3-screening"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Summary of evidence and recommendations for epidemiology, aetiology and screening",
+      "anchor": "#3-3-1-summary-of-evidence-and-recommendations-for-epidemiology-aetiology-and-screening"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Histological diagnosis",
+      "anchor": "#3-4-histological-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Clear-cell RCC",
+      "anchor": "#3-4-1-clear-cell-rcc"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Papillary RCC",
+      "anchor": "#3-4-2-papillary-rcc"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Chromophobe RCC",
+      "anchor": "#3-4-3-chromophobe-rcc"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Other renal tumours",
+      "anchor": "#3-5-other-renal-tumours"
+    },
+    {
+      "level": 4,
+      "text": "3.5.1. Renal medullary carcinoma (SMARCB1-deficient renal medullary carcinoma)",
+      "anchor": "#3-5-1-renal-medullary-carcinoma-smarcb1-deficient-renal-medullary-carcinoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.2. Carcinoma associated with end-stage renal disease; acquired cystic disease-associated RCC",
+      "anchor": "#3-5-2-carcinoma-associated-with-end-stage-renal-disease-acquired-cystic-disease-associated-rcc"
+    },
+    {
+      "level": 4,
+      "text": "3.5.3. Papillary adenoma",
+      "anchor": "#3-5-3-papillary-adenoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.4. Renal oncocytoma",
+      "anchor": "#3-5-4-renal-oncocytoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.5. Other oncocytic tumours of the kidney",
+      "anchor": "#3-5-5-other-oncocytic-tumours-of-the-kidney"
+    },
+    {
+      "level": 4,
+      "text": "3.5.6. Classical angiomyolipoma",
+      "anchor": "#3-5-6-classical-angiomyolipoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.7. Cystic renal tumours",
+      "anchor": "#3-5-7-cystic-renal-tumours"
+    },
+    {
+      "level": 3,
+      "text": "3.6. Summary of evidence and recommendations for the management of other renal tumours",
+      "anchor": "#3-6-summary-of-evidence-and-recommendations-for-the-management-of-other-renal-tumours"
+    },
+    {
+      "level": 2,
+      "text": "4. STAGING AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-staging-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Staging",
+      "anchor": "#4-1-staging"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Anatomic classification systems",
+      "anchor": "#4-2-anatomic-classification-systems"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION",
+      "anchor": "#5-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Symptoms",
+      "anchor": "#5-1-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Physical examination",
+      "anchor": "#5-1-1-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Laboratory findings",
+      "anchor": "#5-1-2-laboratory-findings"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Imaging investigations",
+      "anchor": "#5-2-imaging-investigations"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Computed tomography",
+      "anchor": "#5-2-1-computed-tomography"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Magnetic resonance imaging",
+      "anchor": "#5-2-2-magnetic-resonance-imaging"
+    },
+    {
+      "level": 4,
+      "text": "5.2.3. Other investigations and emerging technologies",
+      "anchor": "#5-2-3-other-investigations-and-emerging-technologies"
+    },
+    {
+      "level": 4,
+      "text": "5.2.4. Radiographic investigations to evaluate RCC metastases",
+      "anchor": "#5-2-4-radiographic-investigations-to-evaluate-rcc-metastases"
+    },
+    {
+      "level": 4,
+      "text": "5.2.5. Bosniak classification of renal cystic masses",
+      "anchor": "#5-2-5-bosniak-classification-of-renal-cystic-masses"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Renal tumour biopsy",
+      "anchor": "#5-3-renal-tumour-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Indications and rationale",
+      "anchor": "#5-3-1-indications-and-rationale"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Technique",
+      "anchor": "#5-3-2-technique"
+    },
+    {
+      "level": 4,
+      "text": "5.3.3. Diagnostic yield and accuracy",
+      "anchor": "#5-3-3-diagnostic-yield-and-accuracy"
+    },
+    {
+      "level": 4,
+      "text": "5.3.4. Morbidity",
+      "anchor": "#5-3-4-morbidity"
+    },
+    {
+      "level": 4,
+      "text": "5.3.5. Genetic assessment",
+      "anchor": "#5-3-5-genetic-assessment"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Summary of evidence and recommendations for the diagnostic assessment of RCC",
+      "anchor": "#5-4-summary-of-evidence-and-recommendations-for-the-diagnostic-assessment-of-rcc"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Summary of evidence and recommendations for genetic assessment of RCC",
+      "anchor": "#5-5-summary-of-evidence-and-recommendations-for-genetic-assessment-of-rcc"
+    },
+    {
+      "level": 2,
+      "text": "6. PROGNOSTIC FACTORS",
+      "anchor": "#6-prognostic-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Definition and classification",
+      "anchor": "#6-1-definition-and-classification"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Anatomical factors",
+      "anchor": "#6-2-anatomical-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Histological factors",
+      "anchor": "#6-3-histological-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Clinical factors",
+      "anchor": "#6-4-clinical-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Frailty and comprehensive geriatric assessment",
+      "anchor": "#6-4-1-frailty-and-comprehensive-geriatric-assessment"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Nephrological assessment",
+      "anchor": "#6-4-2-nephrological-assessment"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Molecular factors",
+      "anchor": "#6-5-molecular-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Prognostic models",
+      "anchor": "#6-6-prognostic-models"
+    },
+    {
+      "level": 3,
+      "text": "6.7. Summary of evidence and recommendations for prognostic factors",
+      "anchor": "#6-7-summary-of-evidence-and-recommendations-for-prognostic-factors"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT",
+      "anchor": "#7-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Patient involvement in kidney cancer treatment",
+      "anchor": "#7-1-patient-involvement-in-kidney-cancer-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.1.1. Recommendation on patient involvement and shared decision making",
+      "anchor": "#7-1-1-recommendation-on-patient-involvement-and-shared-decision-making"
+    },
+    {
+      "level": 4,
+      "text": "7.1.2. Smoking cessation",
+      "anchor": "#7-1-2-smoking-cessation"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Treatment of localised RCC",
+      "anchor": "#7-2-treatment-of-localised-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. Introduction",
+      "anchor": "#7-2-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Surgical treatment",
+      "anchor": "#7-2-2-surgical-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Radical and partial nephrectomy techniques",
+      "anchor": "#7-2-3-radical-and-partial-nephrectomy-techniques"
+    },
+    {
+      "level": 4,
+      "text": "7.2.4. Therapeutic approaches as alternatives to surgery",
+      "anchor": "#7-2-4-therapeutic-approaches-as-alternatives-to-surgery"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Treatment of locally advanced RCC",
+      "anchor": "#7-3-treatment-of-locally-advanced-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Introduction",
+      "anchor": "#7-3-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Role of lymph node dissection in locally advanced RCC",
+      "anchor": "#7-3-2-role-of-lymph-node-dissection-in-locally-advanced-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. Management of RCC with venous tumour thrombus",
+      "anchor": "#7-3-3-management-of-rcc-with-venous-tumour-thrombus"
+    },
+    {
+      "level": 4,
+      "text": "7.3.4. Management of locally advanced unresectable RCC",
+      "anchor": "#7-3-4-management-of-locally-advanced-unresectable-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.3.5. Neoadjuvant and adjuvant therapy",
+      "anchor": "#7-3-5-neoadjuvant-and-adjuvant-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Therapy of oligometastatic disease",
+      "anchor": "#7-4-2-therapy-of-oligometastatic-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.5.1. Chemotherapy",
+      "anchor": "#7-5-1-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.5.2. Targeted therapies",
+      "anchor": "#7-5-2-targeted-therapies"
+    },
+    {
+      "level": 4,
+      "text": "7.5.3. Immunotherapy",
+      "anchor": "#7-5-3-immunotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.5.4. Therapeutic strategies",
+      "anchor": "#7-5-4-therapeutic-strategies"
+    },
+    {
+      "level": 3,
+      "text": "7.6. Locally recurrent RCC after treatment of localised disease",
+      "anchor": "#7-6-locally-recurrent-rcc-after-treatment-of-localised-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.6.1. Locally recurrent RCC after nephron-sparing approaches",
+      "anchor": "#7-6-1-locally-recurrent-rcc-after-nephron-sparing-approaches"
+    },
+    {
+      "level": 4,
+      "text": "7.6.2. Locally recurrent RCC after radical nephrectomy",
+      "anchor": "#7-6-2-locally-recurrent-rcc-after-radical-nephrectomy"
+    },
+    {
+      "level": 4,
+      "text": "7.6.3. Summary of evidence and recommendation on locally recurrent RCC after treatment of localised disease",
+      "anchor": "#7-6-3-summary-of-evidence-and-recommendation-on-locally-recurrent-rcc-after-treatment-of-localised-disease"
+    },
+    {
+      "level": 2,
+      "text": "8. HEREDITARY AND SYNDROME SPECIFIC RCC",
+      "anchor": "#8-hereditary-and-syndrome-specific-rcc"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Microphthalmia-associated transcription factors (MiTF) associated translocation tumours",
+      "anchor": "#8-1-microphthalmia-associated-transcription-factors-mitf-associated-translocation-tumours"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Management of hereditary and syndrome-specific RCC",
+      "anchor": "#8-2-management-of-hereditary-and-syndrome-specific-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.1. Von Hippel-Lindau-disease-associated RCC",
+      "anchor": "#8-2-1-von-hippel-lindau-disease-associated-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.2. TFE3-rearranged RCC",
+      "anchor": "#8-2-2-tfe3-rearranged-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.3. TFEB-altered RCC",
+      "anchor": "#8-2-3-tfeb-altered-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.4. Combined therapy for TFE3- and TFEB-altered RCCs",
+      "anchor": "#8-2-4-combined-therapy-for-tfe3--and-tfeb-altered-rccs"
+    },
+    {
+      "level": 4,
+      "text": "8.2.5. Summary of evidence and recommendation for hereditary and syndrome-specific RCC",
+      "anchor": "#8-2-5-summary-of-evidence-and-recommendation-for-hereditary-and-syndrome-specific-rcc"
+    },
+    {
+      "level": 2,
+      "text": "9. FOLLOW UP",
+      "anchor": "#9-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Introduction",
+      "anchor": "#9-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Which imaging investigations for which patients, and when?",
+      "anchor": "#9-2-which-imaging-investigations-for-which-patients-and-when"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Summary of evidence and recommendations for surveillance following RN or PN or ablative therapies in RCC",
+      "anchor": "#9-3-summary-of-evidence-and-recommendations-for-surveillance-following-rn-or-pn-or-ablative-therapies-in-rcc"
+    },
+    {
+      "level": 2,
+      "text": "10. REFERENCES",
+      "anchor": "#10-references"
+    },
+    {
+      "level": 2,
+      "text": "11. CONFLICT OF INTEREST",
+      "anchor": "#11-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "12. CITATION INFORMATION",
+      "anchor": "#12-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "13. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#13-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#renal-cell-carcinoma",
+      "title": "Renal Cell Carcinoma",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 8. Hereditary And Syndrome Specific Rcc Introduction Methods Epidemiology Aetiology And Pathology Staging And Classification Systems Diagnostic Evaluation Prognostic Factors Disease Management Hereditary And Syndrome Specific Rcc Follow Up References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#8-hereditary-and-syndrome-specific-rcc",
+      "title": "8. HEREDITARY AND SYNDROME SPECIFIC RCC",
+      "level": 2,
+      "text": "Five to eight percent of RCCs are hereditary, although this proportion could be underestimated due to the limitations of available studies. To date, there are more than ten hereditary RCC syndromes associated with specific germline mutations, RCC histology and comorbidities. Hereditary RCC syndromes are often suggested by family history, age of onset and presence of other lesions typical for the respective syndromes. Median age for hereditary RCC is 37 years; 70% of hereditary RCC tumours are found in the lowest decile (age 46 years or younger) of all RCC tumours [197]. Hereditary kidney tumours are found in the following entities: VHL syndrome; hereditary papillary RCC (HPRCC); Birt-Hogg-Dubé syndrome; Fumarate hydratase-deficient RCC (FHD-RCC), previously referred to as hereditary leiomyomatosis and RCC (HLRCC); tuberous sclerosis complex; Hereditary SDH deficient paraganglioma/ pheochromocytoma (HPP) syndrome; Phosphatase and tensin homolog (PTEN) hamartoma syndrome (PHTS); and BRCA-1 associated protein 1 (BAP1) tumour predisposition syndrome). RCC can also be associated with the following syndromes: Hyperparathyroidism-jaw tumour (HJT) syndrome, Chromosome 3 translocation (Cr3T) syndrome, and MITF-related melanoma and renal cell carcinoma predisposition syndrome. Renal medullary carcinoma can be included because of its association with hereditary haemoglobinopathies [74,728-731].",
+      "tables": []
+    },
+    {
+      "anchor": "#8-1-microphthalmia-associated-transcription-factors-mitf-associated-translocation-tumours",
+      "title": "8.1. Microphthalmia-associated transcription factors (MiTF) associated translocation tumours",
+      "level": 3,
+      "text": "Although not hereditary, somatic fusion translocations of TFE3 and TFEB may affect 15% of patients with RCC younger than 45 years and 20-45% of children and young adults diagnosed with RCC [732]. Table 8.1: Syndrome-specific RCC hystotypes and extrarenal organ involvement patterns [206, 733, 734] Syndrome (Inheritance, estimated prevalence) Gene Lifetime RCC risk Histology Selected associated extrarenal clinical features Hereditary RCC VHL syndrome (autosomal dominant; estimated prevalence: 1-9 / 100,000) VHL (3p25.3) 30-40% ccRCC Retinal/CNS haemangioblastomas Pancreatic cysts and neuroendocrine tumours Endolymphatic sac tumour Pheochromocytoma Epididymal cystoadenomas Others Hereditary papillary RCC (HPRCC) (autosomal dominant; prevalence is unknown; estimated at 1/500,000) MET (7q31) 100% pRCC None Birt-Hogg-Dubé (BHD) syndrome (autosomal dominant; estimated prevalence: 1-9 / 1,000,000) FLCN (17p11.2) 30% Hybrid oncocytic; chRCC; oncocytoma Fibrofolliculomas and other skin findings Renal and lung cysts Parotid gland oncocytomas Pneumothorax Fumarate hydratase (FH)-deficient RCC (FH-RCC) (autosomal dominant; prevalence is unknown) FH (1p42.1) 15-32% FH-deficient RCC Cutaneous leiomyomas Uterine leiomyomas Leiomyosarcomas Adrenal nodules Tuberous sclerosis complex (TSC) (autosomal dominant; estimated prevalence: 1-9 / 100,000) TSC1/TSC2 (9q34/16p13) <5% ccRCC; pRCC, chRCC Renal AMLs Angiomyofibromas and other dermatological lesions Cortical dysplasia Subependymal giant cell astrocytoma Lymphangioleiomyomatosis Seizures Others Hereditary SDH deficient paraganglioma/ pheochromocytoma (HPP) syndrome (autosomal dominant; estimated prevalence: 1-9 / 1,000,000) SDHB/C/D (1p36/1q23/11q23) <10% ccRCC, unclassified Pheocromocitoma Paraganglioma GI stromal tumour Phosphatase and tensin homolog (PTEN) hamartoma syndrome (PHTS) (autosomal dominant; prevalence is unknown) PTEN (10q23) 10-15% ccRCC, pRCC, chRCC Macrocephaly Breast cancer and fibrocystic change Thyroid cancer Endometrial cancer Prostate cancer Colonic polyps Facial trichilemmomas BRCA-1 associated protein 1 (BAP1) tumour predisposition syndrome (autosomal dominant; prevalence is unknown) BAP-1 (3p21) <15% ccRCC Uveal and cutaneous melanoma Malignant pleural mesothelioma Other cancers (cholangiocarcinoma, basal cell carcinoma, meningioma) Syndrome-related RCC Hyperparathyroidism-jaw tumour (HJT) syndrome (estimated prevalence <1/1,000,000) CDC73 (1q31.2) <10% RCC and Wilms Hyperparathyrodism Parathyroid cancer Jaw fibroma Uterine cancer Chromosome 3 translocation (Cr3T) syndrome (estimated prevalence <1/1000 000) - Translocations 3:6; 3:8; 3:11 30% ccRCC None Renal medullary carcinoma (prevalence is unknown) - - SMARCB1-deficient renal medullary carcinoma Hereditary haemoglobinopathies MITF-related melanoma and renal cell carcinoma predisposition syndrome (estimated prevalence <1/1000 000) MITF (3p14) <10% MiTF family translocation RCC Pheocromocitoma Melanoma Pancreatic cancer Data on estimated prevalence/incidence are based on https://www.orpha.net. Published recommendations for the selection of germline genetic testing panels in patients with cancer, including RCC [735] stated that germline genetic testing should be distinguished from biomarker testing (i.e. tumour genomic profiling). To establish whether gene variants identified in a tumour are germline, germline genetic testing must be performed. With advancements in next-generation sequencing technology, genetic panels now encompass an expanding list of available genes. Specific recommendations have been set for the following domains: a) family history collection; b) germline multigene panel testing; c) genes to be included in multigene panels; and d) germline testing in association with somatic genetic tumour testing [735]. For RCC, the genes recommended for testing and inclusion in multigene panels are: BAP1, FH, FLCN, MET, SDHA, SDHAF2, SDHB, SDHC, SDHD PTEN, VHL (more strongly recommended) and TSC1/TSC2 (less strongly recommended).",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Syndrome (Inheritance, estimated prevalence)",
+              "Gene",
+              "Lifetime RCC risk",
+              "Histology",
+              "Selected associated extrarenal clinical features"
+            ],
+            [
+              "Hereditary RCC"
+            ],
+            [
+              "VHL syndrome(autosomal dominant; estimated prevalence: 1-9 / 100,000)",
+              "VHL(3p25.3)",
+              "30-40%",
+              "ccRCC",
+              "Retinal/CNS haemangioblastomas Pancreatic cysts and neuroendocrine tumoursEndolymphatic sac tumour PheochromocytomaEpididymal cystoadenomasOthers"
+            ],
+            [
+              "Hereditary papillary RCC (HPRCC)(autosomal dominant; prevalence is unknown; estimated at 1/500,000)",
+              "MET(7q31)",
+              "100%",
+              "pRCC",
+              "None"
+            ],
+            [
+              "Birt-Hogg-Dubé (BHD) syndrome(autosomal dominant; estimated prevalence: 1-9 / 1,000,000)",
+              "FLCN(17p11.2)",
+              "30%",
+              "Hybrid oncocytic; chRCC; oncocytoma",
+              "Fibrofolliculomas and other skin findingsRenal and lung cystsParotid gland oncocytomasPneumothorax"
+            ],
+            [
+              "Fumarate hydratase (FH)-deficient RCC(FH-RCC)(autosomal dominant; prevalence is unknown)",
+              "FH(1p42.1)",
+              "15-32%",
+              "FH-deficient RCC",
+              "Cutaneous leiomyomasUterine leiomyomas LeiomyosarcomasAdrenal nodules"
+            ],
+            [
+              "Tuberous sclerosis complex (TSC)(autosomal dominant; estimated prevalence: 1-9 / 100,000)",
+              "TSC1/TSC2 (9q34/16p13)",
+              "<5%",
+              "ccRCC; pRCC, chRCC",
+              "Renal AMLsAngiomyofibromas andother dermatological lesionsCortical dysplasiaSubependymal giant cell astrocytoma LymphangioleiomyomatosisSeizuresOthers"
+            ],
+            [
+              "Hereditary SDH deficient paraganglioma/ pheochromocytoma (HPP) syndrome(autosomal dominant; estimated prevalence: 1-9 / 1,000,000)",
+              "SDHB/C/D (1p36/1q23/11q23)",
+              "<10%",
+              "ccRCC, unclassified",
+              "PheocromocitomaParagangliomaGI stromal tumour"
+            ],
+            [
+              "Phosphatase and tensin homolog (PTEN) hamartoma syndrome (PHTS)(autosomal dominant; prevalence is unknown)",
+              "PTEN(10q23)",
+              "10-15%",
+              "ccRCC, pRCC, chRCC",
+              "MacrocephalyBreast cancer and fibrocystic change Thyroid cancerEndometrial cancerProstate cancerColonic polypsFacial trichilemmomas"
+            ],
+            [
+              "BRCA-1 associated protein 1 (BAP1) tumour predisposition syndrome(autosomal dominant; prevalence is unknown)",
+              "BAP-1(3p21)",
+              "<15%",
+              "ccRCC",
+              "Uveal and cutaneous melanomaMalignant pleural mesotheliomaOther cancers (cholangiocarcinoma, basal cell carcinoma, meningioma)"
+            ],
+            [
+              "Syndrome-related RCC"
+            ],
+            [
+              "Hyperparathyroidism-jaw tumour (HJT) syndrome(estimated prevalence <1/1,000,000)",
+              "CDC73(1q31.2)",
+              "<10%",
+              "RCC and Wilms",
+              "HyperparathyrodismParathyroid cancerJaw fibromaUterine cancer"
+            ],
+            [
+              "Chromosome 3 translocation (Cr3T) syndrome(estimated prevalence <1/1000 000)",
+              "-Translocations3:6; 3:8; 3:11",
+              "30%",
+              "ccRCC",
+              "None"
+            ],
+            [
+              "Renal medullary carcinoma(prevalence is unknown)",
+              "-",
+              "-",
+              "SMARCB1-deficient renal medullary carcinoma",
+              "Hereditary haemoglobinopathies"
+            ],
+            [
+              "MITF-related melanoma and renal cell carcinoma predisposition syndrome(estimated prevalence <1/1000 000)",
+              "MITF(3p14)",
+              "<10%",
+              "MiTF family translocation RCC",
+              "PheocromocitomaMelanomaPancreatic cancer"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#8-2-management-of-hereditary-and-syndrome-specific-rcc",
+      "title": "8.2. Management of hereditary and syndrome-specific RCC",
+      "level": 3,
+      "text": "Hereditary RCC often presents with multifocal, de-novo recurring and bilateral tumours, which requires individualised management. Patients with hereditary kidney cancer syndromes may require repeated surgical intervention [736,737]. In most hereditary RCCs, nephron-sparing approaches are recommended due to risk of CKD [738]. To avoid multiple repetitive partial nephrectomies, thermal ablation can be considered in the treatment paradigm. A registry based retrospective analysis of 53 patients with inherited RCC syndromes evaluated percutaneous cryoablation for primary mean 2.46cm tumours, demonstrating within mean follow-up of 30.4 months, estimated five-year local recurrence-free survival of 96% (95% CI: 75-99), metastases free survival 96.4% (95% CI: 77-99%), CSS 90.9% (95% CI: 51-99%) and OS 90.9% (95% CI: 51-99%). Complication rate was 1.7% and 7.4% had more than 25% reduction in kidney function [739]. The exceptions to nephron-sparing approaches are FHD-RCC and high-grade SDH syndromes for which immediate surgical intervention is recommended due to the aggressive nature of these tumours. For other hereditary syndromes such as VHL, surveillance is recommended until the largest tumour reaches 3cm in diameter - this to limit the number of repeat interventions [740,741]. Active surveillance for VHL and other nonaggressive hereditary tumours, should, in individual patients, follow the size, growth rate and location of the tumours, rather than applying a standardised follow-up interval. Regular screening for both renal and extrarenal lesions should follow international guidelines for these syndromes [741]. Multidisciplinary and co-ordinated care should be offered, where appropriate [742]. In FHD-RCC, renal screening in relatives has shown benefit in detecting early-stage RCCs [54], with HLRCCs appearing to have unique molecular profiles. In the metastatic setting, systemic therapeutic options for fumarate hydratase-deficient RCC with high metastatic potential include ICI monotherapies, which offer a better disease control rate than TKI monotherapies. In a phase II trial, ORR of 51 % of combination of erlotinib and bevacizumab was achieved [700]. Another trial expressed a favourable response to ICI/TKI combinational therapy compared to bevacizumab plus erlotinib [100]. Succinate dehydrogenase (SDH)-deficient RCC has a low risk of metastasis (12 %) with exception of high-grade with risk 70 %. Due to rarity of disease, no evidence for systemic therapy [700].",
+      "tables": []
+    },
+    {
+      "anchor": "#8-2-1-von-hippel-lindau-disease-associated-rcc",
+      "title": "8.2.1. Von Hippel-Lindau-disease-associated RCC",
+      "level": 4,
+      "text": "Patients with VHL disease often develop RCC and tumours and cysts in other organs, including adrenal glands, CNS, retinal haemangioblastomas and pancreas, and commonly undergo several surgical resections in their lifetime. In VHL disease, belzutifan, a HIF-2α inhibitor, has been approved by the United States Food and Drug Administration [743] for the treatment of ccRCC and other neoplasms associated with VHL for the treatment of tumours that do not require immediate surgery. Approval was based on the results from a phase II, open-label, single-arm trial in 61 patients with tumours not larger than 3cm [744]. Belzutifan induced partial responses with an RCC ORR of 67%, and complete response rate of 11% after 41.3 months’ treatment. In total, 18% of patients reported > grade III adverse events, and eight patients (13.5%) discontinued the treatment. In the treatment with pazopanib for VHL only, 52% continued with the treatment after 24 weeks [745]. A longer follow-up at 37.8 months, ORR for RCC was increased to 64%, with a median time to response of 11.1 months (range, 2.7 to 30.5). Median duration of response per Kaplan-Meier estimate was not reached (range 5.4+ to 35.8+ months). Thirty-four of 39 patients with a confirmed response (87%) remain in response as of the data cut-off date (September 2022) [744]. With favourable efficacy results and with relatively low-grade side effects, belzutifan seems to be a valuable contribution to the treatment of patients with the VHL disease. Recent data from the largest retrospective VHL cohort under active surveillance showed that 63% experienced disease progression (without systemic treatment) and surgical intervention was common: 76% required one renal surgery, and 44% multiple procedures, resulting in chronic kidney disease in 41% of them [738]. The EMA has conditional approval for belzutifan for VHL disease.",
+      "tables": []
+    },
+    {
+      "anchor": "#8-2-2-tfe3-rearranged-rcc",
+      "title": "8.2.2. TFE3-rearranged RCC",
+      "level": 4,
+      "text": "TFE3- rearranged RCC showed objective response rate 25% with ICI and 0 % with TKI and more prolonged OS (62.4 months with ICI vs. 10.3 with TKI). Cabozantinib may be an exception with 16.6% objective response. A future role of ICI-TKI combination (such as nivolumab plus cabozantinib) and cabozantinib plus belzutifan has been discussed [700].",
+      "tables": []
+    },
+    {
+      "anchor": "#8-2-3-tfeb-altered-rcc",
+      "title": "8.2.3. TFEB-altered RCC",
+      "level": 4,
+      "text": "TFEB -rearranged RCC: There is a general lack of information regarding the response to modern systemic therapy. A combination of ICI and mTOR inhibitors has been discussed. TFEB -amplified RCC (which occurs in elderly patients and displays more aggressive behaviour compared to TFEB -rearranged RCC) can be treated with VEGFR targeting agents or with a VEGFR-TKI combination [700].",
+      "tables": []
+    },
+    {
+      "anchor": "#8-2-4-combined-therapy-for-tfe3--and-tfeb-altered-rccs",
+      "title": "8.2.4. Combined therapy for TFE3- and TFEB-altered RCCs",
+      "level": 4,
+      "text": "Some studies combine therapy TFE3 - and TFEB -altered RCCs (due to the former grouping of both tumours to MiT family translocation RCCs). Two retrospective studies exhibit efficacy of ICI or ICI-TKI combination [746,747]. Other studies provided evidence of the activity of cabozantinib in MiT TRCC, with more durable responses than those observed historically with other VEGFR-TKIs or ICIs [748].",
+      "tables": []
+    },
+    {
+      "anchor": "#8-2-5-summary-of-evidence-and-recommendation-for-hereditary-and-syndrome-specific-rcc",
+      "title": "8.2.5. Summary of evidence and recommendation for hereditary and syndrome-specific RCC",
+      "level": 4,
+      "text": "Summary of evidence LE Hereditary RCC syndromes are often suggested by family history, age of onset and presence of other lesions typical for the respective syndromes. 3 Hereditary RCC tumours are predominantly found in the lowest decile, with 70% occurring in individuals aged 46 years or younger. 3 To establish whether gene variants identified in a tumour are germline, germline genetic testing must be performed. 3 In VHL and non-FHD-RCC, tumours can be observed with a diameter of up to 3cm. 3 Belzutifan leads to an ORR of VHL lesions of 67% at 41.3 months. 2 There is currently no approved standard first-line treatment for non-VHL hereditary or syndrome-specific RCC. 3 Recommendation Strength rating Suspect hereditary or syndrome-specific RCC in patients with positive family history, young onset and bilateral or multiple tumours. Strong Offer germline testing to patients < 46 years. Weak Offer surveillance in von Hippel-Lindau (VHL) until the largest tumour reaches 3cm in diameter. Strong Offer belzutifan to patients with VHL-related renal and other tumours who are not surgical candidates. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Hereditary RCC syndromes are often suggested by family history, age of onset and presence of other lesions typical for the respective syndromes.",
+              "3"
+            ],
+            [
+              "Hereditary RCC tumours are predominantly found in the lowest decile, with 70% occurring in individuals aged 46 years or younger.",
+              "3"
+            ],
+            [
+              "To establish whether gene variants identified in a tumour are germline, germline genetic testing must be performed.",
+              "3"
+            ],
+            [
+              "In VHL and non-FHD-RCC, tumours can be observed with a diameter of up to 3cm.",
+              "3"
+            ],
+            [
+              "Belzutifan leads to an ORR of VHL lesions of 67% at 41.3 months.",
+              "2"
+            ],
+            [
+              "There is currently no approved standard first-line treatment for non-VHL hereditary or syndrome-specific RCC.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Suspect hereditary or syndrome-specific RCC in patients with positive family history, young onset and bilateral or multiple tumours.",
+              "Strong"
+            ],
+            [
+              "Offer germline testing to patients < 46 years.",
+              "Weak"
+            ],
+            [
+              "Offer surveillance in von Hippel-Lindau (VHL) until the largest tumour reaches 3cm in diameter.",
+              "Strong"
+            ],
+            [
+              "Offer belzutifan to patients with VHL-related renal and other tumours who are not surgical candidates.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 3
+}

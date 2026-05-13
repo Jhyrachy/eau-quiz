@@ -1,0 +1,1008 @@
+{
+  "guideline": "renal-cell-carcinoma",
+  "chapter": "epidemiology-aetiology-and-pathology",
+  "url": "https://uroweb.org/guidelines/renal-cell-carcinoma/chapter/epidemiology-aetiology-and-pathology",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Future goals",
+      "anchor": "#2-3-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AETIOLOGY AND PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology",
+      "anchor": "#3-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Aetiology",
+      "anchor": "#3-2-aetiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Screening",
+      "anchor": "#3-3-screening"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Summary of evidence and recommendations for epidemiology, aetiology and screening",
+      "anchor": "#3-3-1-summary-of-evidence-and-recommendations-for-epidemiology-aetiology-and-screening"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Histological diagnosis",
+      "anchor": "#3-4-histological-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Clear-cell RCC",
+      "anchor": "#3-4-1-clear-cell-rcc"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Papillary RCC",
+      "anchor": "#3-4-2-papillary-rcc"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Chromophobe RCC",
+      "anchor": "#3-4-3-chromophobe-rcc"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Other renal tumours",
+      "anchor": "#3-5-other-renal-tumours"
+    },
+    {
+      "level": 4,
+      "text": "3.5.1. Renal medullary carcinoma (SMARCB1-deficient renal medullary carcinoma)",
+      "anchor": "#3-5-1-renal-medullary-carcinoma-smarcb1-deficient-renal-medullary-carcinoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.2. Carcinoma associated with end-stage renal disease; acquired cystic disease-associated RCC",
+      "anchor": "#3-5-2-carcinoma-associated-with-end-stage-renal-disease-acquired-cystic-disease-associated-rcc"
+    },
+    {
+      "level": 4,
+      "text": "3.5.3. Papillary adenoma",
+      "anchor": "#3-5-3-papillary-adenoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.4. Renal oncocytoma",
+      "anchor": "#3-5-4-renal-oncocytoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.5. Other oncocytic tumours of the kidney",
+      "anchor": "#3-5-5-other-oncocytic-tumours-of-the-kidney"
+    },
+    {
+      "level": 4,
+      "text": "3.5.6. Classical angiomyolipoma",
+      "anchor": "#3-5-6-classical-angiomyolipoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.7. Cystic renal tumours",
+      "anchor": "#3-5-7-cystic-renal-tumours"
+    },
+    {
+      "level": 3,
+      "text": "3.6. Summary of evidence and recommendations for the management of other renal tumours",
+      "anchor": "#3-6-summary-of-evidence-and-recommendations-for-the-management-of-other-renal-tumours"
+    },
+    {
+      "level": 2,
+      "text": "4. STAGING AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-staging-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Staging",
+      "anchor": "#4-1-staging"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Anatomic classification systems",
+      "anchor": "#4-2-anatomic-classification-systems"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION",
+      "anchor": "#5-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Symptoms",
+      "anchor": "#5-1-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Physical examination",
+      "anchor": "#5-1-1-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Laboratory findings",
+      "anchor": "#5-1-2-laboratory-findings"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Imaging investigations",
+      "anchor": "#5-2-imaging-investigations"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Computed tomography",
+      "anchor": "#5-2-1-computed-tomography"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Magnetic resonance imaging",
+      "anchor": "#5-2-2-magnetic-resonance-imaging"
+    },
+    {
+      "level": 4,
+      "text": "5.2.3. Other investigations and emerging technologies",
+      "anchor": "#5-2-3-other-investigations-and-emerging-technologies"
+    },
+    {
+      "level": 4,
+      "text": "5.2.4. Radiographic investigations to evaluate RCC metastases",
+      "anchor": "#5-2-4-radiographic-investigations-to-evaluate-rcc-metastases"
+    },
+    {
+      "level": 4,
+      "text": "5.2.5. Bosniak classification of renal cystic masses",
+      "anchor": "#5-2-5-bosniak-classification-of-renal-cystic-masses"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Renal tumour biopsy",
+      "anchor": "#5-3-renal-tumour-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Indications and rationale",
+      "anchor": "#5-3-1-indications-and-rationale"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Technique",
+      "anchor": "#5-3-2-technique"
+    },
+    {
+      "level": 4,
+      "text": "5.3.3. Diagnostic yield and accuracy",
+      "anchor": "#5-3-3-diagnostic-yield-and-accuracy"
+    },
+    {
+      "level": 4,
+      "text": "5.3.4. Morbidity",
+      "anchor": "#5-3-4-morbidity"
+    },
+    {
+      "level": 4,
+      "text": "5.3.5. Genetic assessment",
+      "anchor": "#5-3-5-genetic-assessment"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Summary of evidence and recommendations for the diagnostic assessment of RCC",
+      "anchor": "#5-4-summary-of-evidence-and-recommendations-for-the-diagnostic-assessment-of-rcc"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Summary of evidence and recommendations for genetic assessment of RCC",
+      "anchor": "#5-5-summary-of-evidence-and-recommendations-for-genetic-assessment-of-rcc"
+    },
+    {
+      "level": 2,
+      "text": "6. PROGNOSTIC FACTORS",
+      "anchor": "#6-prognostic-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Definition and classification",
+      "anchor": "#6-1-definition-and-classification"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Anatomical factors",
+      "anchor": "#6-2-anatomical-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Histological factors",
+      "anchor": "#6-3-histological-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Clinical factors",
+      "anchor": "#6-4-clinical-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Frailty and comprehensive geriatric assessment",
+      "anchor": "#6-4-1-frailty-and-comprehensive-geriatric-assessment"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Nephrological assessment",
+      "anchor": "#6-4-2-nephrological-assessment"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Molecular factors",
+      "anchor": "#6-5-molecular-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Prognostic models",
+      "anchor": "#6-6-prognostic-models"
+    },
+    {
+      "level": 3,
+      "text": "6.7. Summary of evidence and recommendations for prognostic factors",
+      "anchor": "#6-7-summary-of-evidence-and-recommendations-for-prognostic-factors"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT",
+      "anchor": "#7-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Patient involvement in kidney cancer treatment",
+      "anchor": "#7-1-patient-involvement-in-kidney-cancer-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.1.1. Recommendation on patient involvement and shared decision making",
+      "anchor": "#7-1-1-recommendation-on-patient-involvement-and-shared-decision-making"
+    },
+    {
+      "level": 4,
+      "text": "7.1.2. Smoking cessation",
+      "anchor": "#7-1-2-smoking-cessation"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Treatment of localised RCC",
+      "anchor": "#7-2-treatment-of-localised-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. Introduction",
+      "anchor": "#7-2-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Surgical treatment",
+      "anchor": "#7-2-2-surgical-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Radical and partial nephrectomy techniques",
+      "anchor": "#7-2-3-radical-and-partial-nephrectomy-techniques"
+    },
+    {
+      "level": 4,
+      "text": "7.2.4. Therapeutic approaches as alternatives to surgery",
+      "anchor": "#7-2-4-therapeutic-approaches-as-alternatives-to-surgery"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Treatment of locally advanced RCC",
+      "anchor": "#7-3-treatment-of-locally-advanced-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Introduction",
+      "anchor": "#7-3-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Role of lymph node dissection in locally advanced RCC",
+      "anchor": "#7-3-2-role-of-lymph-node-dissection-in-locally-advanced-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. Management of RCC with venous tumour thrombus",
+      "anchor": "#7-3-3-management-of-rcc-with-venous-tumour-thrombus"
+    },
+    {
+      "level": 4,
+      "text": "7.3.4. Management of locally advanced unresectable RCC",
+      "anchor": "#7-3-4-management-of-locally-advanced-unresectable-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.3.5. Neoadjuvant and adjuvant therapy",
+      "anchor": "#7-3-5-neoadjuvant-and-adjuvant-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Therapy of oligometastatic disease",
+      "anchor": "#7-4-2-therapy-of-oligometastatic-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.5.1. Chemotherapy",
+      "anchor": "#7-5-1-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.5.2. Targeted therapies",
+      "anchor": "#7-5-2-targeted-therapies"
+    },
+    {
+      "level": 4,
+      "text": "7.5.3. Immunotherapy",
+      "anchor": "#7-5-3-immunotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.5.4. Therapeutic strategies",
+      "anchor": "#7-5-4-therapeutic-strategies"
+    },
+    {
+      "level": 3,
+      "text": "7.6. Locally recurrent RCC after treatment of localised disease",
+      "anchor": "#7-6-locally-recurrent-rcc-after-treatment-of-localised-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.6.1. Locally recurrent RCC after nephron-sparing approaches",
+      "anchor": "#7-6-1-locally-recurrent-rcc-after-nephron-sparing-approaches"
+    },
+    {
+      "level": 4,
+      "text": "7.6.2. Locally recurrent RCC after radical nephrectomy",
+      "anchor": "#7-6-2-locally-recurrent-rcc-after-radical-nephrectomy"
+    },
+    {
+      "level": 4,
+      "text": "7.6.3. Summary of evidence and recommendation on locally recurrent RCC after treatment of localised disease",
+      "anchor": "#7-6-3-summary-of-evidence-and-recommendation-on-locally-recurrent-rcc-after-treatment-of-localised-disease"
+    },
+    {
+      "level": 2,
+      "text": "8. HEREDITARY AND SYNDROME SPECIFIC RCC",
+      "anchor": "#8-hereditary-and-syndrome-specific-rcc"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Microphthalmia-associated transcription factors (MiTF) associated translocation tumours",
+      "anchor": "#8-1-microphthalmia-associated-transcription-factors-mitf-associated-translocation-tumours"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Management of hereditary and syndrome-specific RCC",
+      "anchor": "#8-2-management-of-hereditary-and-syndrome-specific-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.1. Von Hippel-Lindau-disease-associated RCC",
+      "anchor": "#8-2-1-von-hippel-lindau-disease-associated-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.2. TFE3-rearranged RCC",
+      "anchor": "#8-2-2-tfe3-rearranged-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.3. TFEB-altered RCC",
+      "anchor": "#8-2-3-tfeb-altered-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.4. Combined therapy for TFE3- and TFEB-altered RCCs",
+      "anchor": "#8-2-4-combined-therapy-for-tfe3--and-tfeb-altered-rccs"
+    },
+    {
+      "level": 4,
+      "text": "8.2.5. Summary of evidence and recommendation for hereditary and syndrome-specific RCC",
+      "anchor": "#8-2-5-summary-of-evidence-and-recommendation-for-hereditary-and-syndrome-specific-rcc"
+    },
+    {
+      "level": 2,
+      "text": "9. FOLLOW UP",
+      "anchor": "#9-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Introduction",
+      "anchor": "#9-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Which imaging investigations for which patients, and when?",
+      "anchor": "#9-2-which-imaging-investigations-for-which-patients-and-when"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Summary of evidence and recommendations for surveillance following RN or PN or ablative therapies in RCC",
+      "anchor": "#9-3-summary-of-evidence-and-recommendations-for-surveillance-following-rn-or-pn-or-ablative-therapies-in-rcc"
+    },
+    {
+      "level": 2,
+      "text": "10. REFERENCES",
+      "anchor": "#10-references"
+    },
+    {
+      "level": 2,
+      "text": "11. CONFLICT OF INTEREST",
+      "anchor": "#11-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "12. CITATION INFORMATION",
+      "anchor": "#12-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "13. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#13-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#renal-cell-carcinoma",
+      "title": "Renal Cell Carcinoma",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 3. Epidemiology Aetiology And Pathology Introduction Methods Epidemiology Aetiology And Pathology Staging And Classification Systems Diagnostic Evaluation Prognostic Factors Disease Management Hereditary And Syndrome Specific Rcc Follow Up References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#3-epidemiology-aetiology-and-pathology",
+      "title": "3. EPIDEMIOLOGY AETIOLOGY AND PATHOLOGY",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-1-epidemiology",
+      "title": "3.1. Epidemiology",
+      "level": 3,
+      "text": "Renal cell carcinoma ranks 14 th on the list of cancers, representing approximately 2% of all cancers, with the highest incidence occurring in Western countries [5-7]. In 2022, there were an estimated 434,840 [7,8] new cases of RCC globally with 155,953 deaths worldwide [9]. Incidence and mortality are the highest in Europe and Asia, whereas the age-standardised incidence rate per 100,000 person/years (age-standardised rate [ASR] World) is the highest in Northern America and mortality in Eastern Europe. There is predominance in men over women ASR of 13.7 and 6.4, respectively, with a higher incidence in the older population [10]. In Europe, incidence of RCC was 145,721 in 2022 with mortality of 52,347 [10], with ASR (European 2013) of 18.9 and 6.9 in 27 European Union (EU) countries [11,12]. In 2022, Belarus, Latvia and Czechia reported the highest overall rate of RCC in Europe [12], with estimated ASR (European 2013) for Czechia and Latvia for males being 41.3 and 37.8, respectively, while being the lowest in Cyprus, Luxembourg and Bulgaria (13.9-15.4) [13]. Mortality was lowest amongst 27 EU countries in males in Luxembourg, Cyprus and Finland, with ASR (European 2013) of 4.6, 6.9 and 7.3, respectively. In contrast, the highest mortality rates were reported in the Baltics followed by Czechia and Slovakia (15.5-16.2, 14.7 and 14.4, respectively) [13]. Overall, there is an ongoing rise in incidence of RCC, however, mortality trends vary. In Europe, there has been a decrease in mortality since the 1980s in Scandinavian countries and since the early 1990s in France, Germany, Austria, the Netherlands and Italy [14]. Geographic areas and individual countries with a higher level of human development index have higher RCC incidence and age-standardised mortality rates (all p < 0.0001) [8]. Based on the expected population growth and ageing, the incidence of RCC is projected to increase in the coming years. Globally, 745,791 new cases and 304,861 new deaths are predicted by the year 2050. The estimated increase in both incidence and mortality is consistent across sexes and varies considerably by geographic area (from +19% in Europe to +106% in Africa for RCC incidence; from +39% in Europe to +103% in Africa for RCC mortality).",
+      "tables": []
+    },
+    {
+      "anchor": "#3-2-aetiology",
+      "title": "3.2. Aetiology",
+      "level": 3,
+      "text": "Established risk factors include lifestyle factors such as smoking (hazard ratio [HR]: 1.23-1.58), obesity body mass index (BMI) (> 35 vs. < 25), (HR: 1.71 [1.06-2.79]), hypertension (HR: 1.70 [1.30 2.22]) and metabolic syndrome (relative risk [RR] 1.62 [1.41 1.87]) [6,11,15-19]. A total of 50.2% of patients with RCC are current or former smokers. By histology, the proportions of current or former smokers range from 38% in patients with chromophobe renal cell carcinoma (chRCC) to 61.9% in those with collecting duct/medullary carcinoma [20]. In an SR, diabetes was also found to be detrimental [21]. Having a first-degree relative (FDR) with kidney cancer is also associated with an increased risk of RCC [22]. Having one or more FDR (parents, siblings or children) with RCC approximately doubles the risk of RCC with a higher risk increase for women than for men [23]. Moderate alcohol consumption has a protective effect, (RR: 0.85) [24] while any physical activity level also appears to have some protective effect [6,8,11,21,25,26]. A number of other factors have been suggested to be associated with lower risk of RCC, including specific dietary habits such as vegetables (HR: 0.68), coffee (HR: 0.85), tea (HR: 0.85) and limited intake of red meat (RR: 1.46) for higher versus lower intake [27]. In contrast, a higher risk of RCC has been associated with ultra-processed (industrially produced) food (HR: 1.42) [28] and a higher risk and occupational exposure to specific carcinogens, but no high-quality evidence level exists [15,29]. The most effective prophylaxis is to avoid cigarette smoking and reduce obesity [6,11,15,16]. Genetic risk factors are known to play a role in the development of RCC (see Section 8, ‘Hereditary and syndrome specific RCC).",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-screening",
+      "title": "3.3. Screening",
+      "level": 3,
+      "text": "Despite a growing interest among both patients and clinicians in RCC screening programmes, there is a relative lack of studies reporting the efficacy, cost-effectiveness and optimal modality for RCC screening. Urinary dipstick is an inadequate screening tool due to low sensitivity and specificity. In addition, incidence of RCC with non-visible haematuria is low: 0.58% [30]. No clinically validated urinary or serum biomarkers have as yet been identified. Computed tomography cannot be recommended due to cost, radiation dose and the increased potential for other incidental findings. A non-contrast CT in the Yorkshire Kidney Screening Trial (performed in a prespecified risk group of smokers) ultimately yielded solid renal masses or Bosniak 3/4 cysts in 0.62%. 0.25% participants were subsequently histologically proven to be RCCs, 0.12% oncocytomas [31]. Based on this study, the evidence for screening in the general population remains uncertain [31]. Ultrasound (US) could be used and has acceptable sensitivity and specificity, although it is tumour size and operator-dependant. Major barriers to population screening include the relatively low prevalence of the disease, the potential for false positives and overdiagnosis of slow-growing kidney tumours. Targeting high-risk individuals and/or combining detection of RCC with other routine health screenings may represent pragmatic options to improve the cost-effectiveness and reduce the potential harms of RCC screening [32-35]. Targeting of high-risk patient groups, e.g. those with end-stage renal disease (ESRD) which is associated with a tenfold increased risk of developing RCC, may also be a valid approach (see Section 3.5.2) [36]. People with two FDRs with RCC constitute a small high-risk group that may benefit from screening [23].There is currently no evidence to support primary screening in the general population.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-1-summary-of-evidence-and-recommendations-for-epidemiology-aetiology-and-screening",
+      "title": "3.3.1. Summary of evidence and recommendations for epidemiology, aetiology and screening",
+      "level": 4,
+      "text": "Summary of evidence LE Several verified risk factors have been identified, including smoking, obesity and hypertension. These are considered definite risk factors for RCC. 2a There is no evidence to support primary screening for RCC. 4 Recommendations Strength rating Increase physical activity, eliminate smoking and in patients with obesity reduce weight are the primary preventative measures to decrease the risk of RCC. Strong Do not routinely screen people for primary RCC. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Several verified risk factors have been identified, including smoking, obesity and hypertension. These are considered definite risk factors for RCC.",
+              "2a"
+            ],
+            [
+              "There is no evidence to support primary screening for RCC.",
+              "4"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Increase physical activity, eliminate smoking and in patients with obesity reduce weight are the primary preventative measures to decrease the risk of RCC.",
+              "Strong"
+            ],
+            [
+              "Do not routinely screen people for primary RCC.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-histological-diagnosis",
+      "title": "3.4. Histological diagnosis",
+      "level": 3,
+      "text": "Renal cell carcinomas and other renal tumours comprise a broad spectrum of histopathological entities described in the 5 th edition of the World Health Organization (WHO) classification of urogenital tumours published in 2022 [37-39]. The 5 th edition presents standard morphologic diagnostic criteria, combined with immunohistochemistry, and relevant molecular tests, and was significantly revised as compared to the 2016 classification [40]. The global application of next-generation sequencing (NGS) will result in a diagnostic shift from morphology to molecular analyses. Therefore, a molecular-driven renal tumour classification has been introduced in addition to morphology-based renal tumours (Table 3.1). Examples of molecularly defined epithelial renal tumours include SMARCB1 -deficient renal medullary carcinoma, TFE3 - and TFEB -rearranged RCC, ALK -rearranged RCC and elongin C (ELOC) -mutated RCC. The most profound changes in the 2022 WHO classification mainly relate to rare kidney tumours. There are three main RCC types: clear cell (ccRCC), papillary (pRCC, no longer divided into type I and II) and chRCC. The RCC type classification has been confirmed by cytogenetic and genetic analyses [40,41] (LE: 2b). The five-year overall survival (OS) for nonmetastatic (including N0-N1) chromophobe, papillary, clear-cell and collecting duct RCC is 91%, 82%, 81% and 44%, respectively [42]. Sarcomatoid RCC is not a specific subtype but essentially represents a pattern of dedifferentiation associated with adverse outcome and poor cancer-specific survival (CSS), irrespective of the underlying RCC subtype. Sarcomatoid RCC should be graded as grade IV on the WHO/International Society of Urological Pathology (ISUP) scale. At the time of diagnosis of sarcomatoid RCC, only 15.3% are localised, 28.9% locally advanced and 55.8% metastatic. The five-year OS was 18.1% for all patients and 27.1% in patients who underwent surgery [43]. Multilocular cystic renal neoplasm of low malignant potential is a new subtype of ccRCC in the 2022 classification. A new group, ‘oncocytic and chromophobe tumours’, encompass oncocytoma, together with chRCC and other oncocytic tumours. Other oncocytic tumours include tumours that do not strictly fit into either the oncocytoma or chRCC subtypes [37,44]. In addition to RCC type, histological diagnosis includes evaluation of ISUP nuclear grade, sarcomatoid features, vascular invasion, tumour necrosis, and invasion of the collecting system and peri-renal fat, pT, or even pN categories. The four-tiered WHO/ISUP grading system has replaced the Fuhrman grading system [37,40]. Table 3.1 World Health Organization classification of renal tumours 2022 [37, 38] WHO classification of renal tumours 2022 1. Renal Cell Tumours 01.I Clear cell renal tumours   Clear cell RCC Multilocular cystic renal neoplasm of low malignant potential 01.II Papillary renal tumours   Papillary adenoma Papillary RCC 01.III Oncocytic and chromophobe renal tumours   Oncocytoma of the kidney Chromophobe RCC Other oncocytic tumours of the kidney 01.IV Collecting duct tumours   Collecting duct carcinoma 01.V Other renal tumours   Clear cell papillary renal cell tumour Mucinous tubular and spindle cell carcinoma Tubulocystic RCC Acquired cystic disease-associated RCC Eosinophilic solid and cystic (ESC) RCC RCC Not Otherwise Specified (NOS) 01.VI Molecularly defined renal tumours   TFE3 -rearranged RCCs TFEB -altered RCC ( TFEB -rearranged RCC and TFEB amplified RCC) ELOC (formerly TCEB1 )-mutated RCC Fumarate hydratase-deficient RCC Succinate dehydrogenase-deficient RCC ALK -rearranged RCCs SMARCB1 -deficient renal medullary carcinoma 2. Metanephric tumours   Metanephric adenoma Metanephric adenofibroma Metanephric stromal tumour 3. Mixed epithelial and stromal tumour family   Mixed epithelial and stromal tumour Adult cystic nephroma 4. Renal Renal mesenchymal tumours 04.I Adult renal mesenchymal tumours   Classic angiomyolipoma/PEComa of the kidney Epitheloid angiomyolipoma/epithelioid PEComa of the kidney Renal haemangioblastoma Juxtaglomerular cell tumour Renomedullary interstitial cell tumour 04.II Paediatric renal mesenchymal tumours   Ossifying renal tumour of infancy Congenial mesoblastic nephroma Rhabdoid tumour of kidney Clear cell sarcoma of kidney 5. Embryonal neoplasms of the kidney Nephroblastic tumours   Nephrogenic rests Paediatric cystic nephroma Cystic partially differentiated nephroblastoma Nephroblastoma 6. Miscellaneous tumours Germ cell tumours of the kidney",
+      "tables": [
+        {
+          "rows": [
+            [
+              "WHO classification of renal tumours 2022"
+            ],
+            [
+              "1. Renal Cell Tumours"
+            ],
+            [
+              "01.I Clear cell renal tumours"
+            ],
+            [
+              " ",
+              "Clear cell RCC"
+            ],
+            [
+              "Multilocular cystic renal neoplasm of low malignant potential"
+            ],
+            [
+              "01.II Papillary renal tumours"
+            ],
+            [
+              " ",
+              "Papillary adenoma"
+            ],
+            [
+              "Papillary RCC"
+            ],
+            [
+              "01.III Oncocytic and chromophobe renal tumours"
+            ],
+            [
+              " ",
+              "Oncocytoma of the kidney"
+            ],
+            [
+              "Chromophobe RCC"
+            ],
+            [
+              "Other oncocytic tumours of the kidney"
+            ],
+            [
+              "01.IV Collecting duct tumours"
+            ],
+            [
+              " ",
+              "Collecting duct carcinoma"
+            ],
+            [
+              "01.V Other renal tumours"
+            ],
+            [
+              " ",
+              "Clear cell papillary renal cell tumour"
+            ],
+            [
+              "Mucinous tubular and spindle cell carcinoma"
+            ],
+            [
+              "Tubulocystic RCC"
+            ],
+            [
+              "Acquired cystic disease-associated RCC"
+            ],
+            [
+              "Eosinophilic solid and cystic (ESC) RCC"
+            ],
+            [
+              "RCC Not Otherwise Specified (NOS)"
+            ],
+            [
+              "01.VI Molecularly defined renal tumours"
+            ],
+            [
+              " ",
+              "TFE3-rearranged RCCs"
+            ],
+            [
+              "TFEB-altered RCC (TFEB-rearranged RCC and TFEB amplified RCC)"
+            ],
+            [
+              "ELOC (formerly TCEB1)-mutated RCC"
+            ],
+            [
+              "Fumarate hydratase-deficient RCC"
+            ],
+            [
+              "Succinate dehydrogenase-deficient RCC"
+            ],
+            [
+              "ALK-rearranged RCCs"
+            ],
+            [
+              "SMARCB1-deficient renal medullary carcinoma"
+            ],
+            [
+              "2. Metanephric tumours"
+            ],
+            [
+              " ",
+              "Metanephric adenoma"
+            ],
+            [
+              "Metanephric adenofibroma"
+            ],
+            [
+              "Metanephric stromal tumour"
+            ],
+            [
+              "3. Mixed epithelial and stromal tumour family"
+            ],
+            [
+              " ",
+              "Mixed epithelial and stromal tumour"
+            ],
+            [
+              "Adult cystic nephroma"
+            ],
+            [
+              "4. Renal Renal mesenchymal tumours"
+            ],
+            [
+              "04.I Adult renal mesenchymal tumours"
+            ],
+            [
+              " ",
+              "Classic angiomyolipoma/PEComa of the kidney"
+            ],
+            [
+              "Epitheloid angiomyolipoma/epithelioid PEComa of the kidney"
+            ],
+            [
+              "Renal haemangioblastoma"
+            ],
+            [
+              "Juxtaglomerular cell tumour"
+            ],
+            [
+              "Renomedullary interstitial cell tumour"
+            ],
+            [
+              "04.II Paediatric renal mesenchymal tumours"
+            ],
+            [
+              " ",
+              "Ossifying renal tumour of infancy"
+            ],
+            [
+              "Congenial mesoblastic nephroma"
+            ],
+            [
+              "Rhabdoid tumour of kidney"
+            ],
+            [
+              "Clear cell sarcoma of kidney"
+            ],
+            [
+              "5. Embryonal neoplasms of the kidney"
+            ],
+            [
+              "Nephroblastic tumours"
+            ],
+            [
+              " ",
+              "Nephrogenic rests"
+            ],
+            [
+              "Paediatric cystic nephroma"
+            ],
+            [
+              "Cystic partially differentiated nephroblastoma"
+            ],
+            [
+              "Nephroblastoma"
+            ],
+            [
+              "6. Miscellaneous tumours"
+            ],
+            [
+              "Germ cell tumours of the kidney"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-1-clear-cell-rcc",
+      "title": "3.4.1. Clear-cell RCC",
+      "level": 4,
+      "text": "Overall, ccRCC, representing approximately 70% of RCC [38], is well circumscribed with a pseudocapsule. The cut surface is golden-yellow, often with haemorrhage and necrosis. Loss of chromosome 3p and mutation of the Von Hippel-Lindau (VHL) gene at chromosome 3p25 are frequently found. The loss of VHL protein function contributes to tumour initiation, progression and metastases. The 3p locus harbours additional ccRCC tumour suppressor genes ( UTX, JARID1C, SETD2, PBRM1, BAP1 ) [37]. For details regarding prognosis, see Section 6.3. 3.4.1.a. Multilocular cystic renal neoplasm of low malignant potential Indolent, exclusively cystic, multiloculated renal tumour devoid of any expansile solid growth, with clear cells lining and low-grade nuclei. Detection of small solid expansive nodules and tumour necrosis are incompatible with multilocular cystic renal neoplasm of low malignant potential (MCNLMP). It represents 0.5-2.5% of all renal tumours and is a benign lesion. Long-term follow-up has shown no reports of progression, metastases or cancer-related death [37,38].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-4-2-papillary-rcc",
+      "title": "3.4.2. Papillary RCC",
+      "level": 4,
+      "text": "Papillary RCC is the second-most encountered morphotype of RCC accounting for 13-20% of renal epithelial tumours. This type of RCC is usually circumscribed and characterised by papillary or tubulopapillary architecture, without specific features of other RCCs with papillary architecture [37,38]. Papillary RCC has traditionally been subdivided into two types: Type I and II pRCC [40]. However, in the new 2022 WHO classification, the former pRCC type I is now referred to as ‘pRCC of classic pattern.’ Three additional morphologic patterns of pRCC have been introduced including: a) biphasic (alveolo-squamoid) pattern exhibiting mostly solid growth, b) papillary neoplasm with reverse nuclear polarity, previously described as ‘oncocytic low-grade pRCC’, and c) Warthin-like pRCC that exhibits brisk inflammation mimicking Warthin tumour of the salivary gland. Genetic changes of pRCC include trisomy and tetrasomy of chromosomes 7 and 17 and loss of Y-chromosome. Mesenchymal-epithelial Transition (MET) gene mutations are more frequent in low-grade pRCC. The typical histology of classical pattern pRCC, formerly type I pRCC (narrow papillae without any binding, and only microcapillaries in papillae), explains its typical clinical signs. Narrow papillae without any binding and a tough pseudocapsule explain the ideal rounded shape (Pascal’s law) and fragility (specimens have a ‘minced meat’ structure). Tumour growth causes narcotisation of papillae, which is a source of hyperosmotic proteins that cause subsequent ‘growth’ of the tumour, fluid inside the tumour and only a serpiginous, contrast-enhancing margin. Stagnation in the microcapillaries explains the minimal post-contrast attenuation on CT. Classical pattern pRCC can imitate a pathologically changed cyst (Bosniak IIF or III). The typical signs of classical pattern pRCC are an ochre colour, frequently exophytic, extrarenal growth and low grade. A risk of renal tumour biopsy tract seeding exists, probably due to the fragility of the tumour papillae [45,46].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-4-3-chromophobe-rcc",
+      "title": "3.4.3. Chromophobe RCC",
+      "level": 4,
+      "text": "Chromophobe RCC is now grouped in ‘Oncocytic and chromophobe tumours.’ Most chRCC are discovered incidentally in asymptomatic patients [37,38]. Overall, chRCC presents as a pale tan, relatively homogenous and tough, well-demarcated mass without a capsule. Most tumours are sporadic. Rare hereditary forms include Birt-Hogg-Dubé (BHD) syndrome with mutations in folliculin and Cowden syndrome with mutations in phosphatase and tensin homolog (PTEN) (see Chapter 8 for further information) [37,38]. Due to its innate nuclear atypia, chromophobe RCC cannot be graded using the WHO/ISUP (formerly Fuhrman) grading system. An alternative grading system has been proposed but has yet to be validated and broadly accepted [37,38,47]. Loss of chromosomes Y, 1, 2, 6, 10, 13, 17 and 21 are typical genetic changes [37,38]. The prognosis is relatively good, with high five-year recurrence-free survival (RFS), and ten-year CSS. The five- and ten-year RFS rates were 94.3% and 89.2%, respectively. Recurrent disease developed in 5.7% of patients, and 76.5% presented with distant metastases with 54% of metastatic disease diagnoses involving a single organ, most commonly bone. Recurrence and death after surgically resected chRCC are rare. For completely excised lesions < pT2a without coagulative necrosis or sarcomatoid features, the prognosis is excellent [48].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-5-other-renal-tumours",
+      "title": "3.5. Other renal tumours",
+      "level": 3,
+      "text": "Other renal tumours constitute the remaining renal cortical tumours. These include a variety of uncommon, sporadic and familial carcinomas/tumours - some only recently described - as well as a group of unclassified carcinomas. A summary of these tumours is provided in Table 3.1, but some clinically relevant tumours and extremely rare entities are mentioned in Table 3.2, including a summary on their management. Approximately 15% of excised renal masses are benign [49]. For hereditary and syndrome-specific RCC, see Chapter 8. Table 3.2: Other renal cortical tumours and recommendations for treatment (strength rating: weak) Entity Clinical relevant notes Malignant potential Treatment Collecting duct carcinoma Formerly Bellini duct carcinoma. No hemoglobinopathy or SMARCB1 abnormality. Rare, often presenting at an advanced stage (N+ 44% and M1 33% at diagnosis). The HR CSS in comparison with ccRCC is 4.49 [37,38,50]. High, very aggressive. Median survival 30 months [51]. Surgery. Systemic therapy and surgery in metastatic disease [52]. Clear-cell papillary renal cell tumour Patient with ACKD, 100 times greater risk compared with general population [38]. Indolent. Surgery, NSS, discuss active surveillance. Mucinous tubular and spindle cell carcinoma Tumour is associated with the loop of Henle. < 1% of renal neoplasm. Female predilection (3-4:1) [38]. Intermediate. Surgery, NSS. Tubulocystic RCC Rare (< 1%). Mainly men, imaging can be Bosniak III or IV. Low (90% indolent). Surgery, NSS. Eosinophilic solid and cystic RCC (ESC RCC) Usually, alteration of TCS genes. Predominantly in adult women. Some with TSC (tuberous sclerosis complex) syndrome. Rarely metastatic. NSS. TFE3 re-arranged RCC Gene fusions involving TFE3 with one of many different partner genes. Formerly translocation RCC (TRCC) Xp11.2. Appr. 40% of paediatric RCC and 1.6-4% of adult RCC [24]. Survival similar to clear cell RCC. Surgery. Systemic therapy in metastatic disease, TKI and immunotherapy [53]. TFEB altered (rearranged and amplified) RCC Gene fusions involving the TFEB transcription factor, typically via a t(6;11)(p21;q12) translocation resulting in a MALAT1-TFEB gene fusion. Formerly translocation RCC t(6;11). Less common than TFE3 -rearranged RCC. Appr. 100 cases in the literature [38]. TFEB -amplified in older patient and has a worse prognosis. More indolent than the TFE3 -rearranged RCC, with fewer than 10% of cases resulting in patient death. Surgery. Systemic therapy in metastatic - PD-L1 inhibitor therapy [53]. ELOC (formerly TCBE1 )-mutated RCC Twenty cases described in literature [37,38]. Typically, T1. Indolent. Only two metastatic cases described. NSS. Fumarate hydratase-deficient RCC [For more information, please review Chapter 8 on hereditary kidney tumours] Formerly hereditary leiomyomatosis and RCC-associated RCC. Alterations in the FH gene. Autosomal dominant. 21-30% lifetime risk of RCC [54]. Cutaneous leiomyomas, female uterine leiomyoma or leiomyosarcoma. More common in males. Median age 44 years [37,44,55]. Often aggressive. »75% of cases staged as pT3-4 at nephrectomy. Immediate surgery. In metastatic disease, bevacizumab, erlotinib, immunotherapy [53]. Genetic counselling in the family. Imaging screening in relatives [54]. Succinate dehydrogenase-deficient RCC (SDH-deficient RCC) [For more information, please review Chapter 8 on hereditary kidney tumours] Rare. 0.05-0.2 % of all RCCs. A metastatic rate of 11%. Surgery, NSS. Long-term follow-up and surveillance for other SDH-deficient neoplasms (i.e. paraganglioma, SDH-deficient gastrointestinal stromal tumour, and pituitary adenoma) is indicated for cases associated with germline mutation [23]. ALK- rearranged RCC Gene fusions involving anaplastic lymphoma kinase gene ( ALK ) at chromosome 2p23. Fewer than 100 cases described. [37,38]. Low (90% indolent). Surgery, NSS. In systemic disease, ALK kinase inhibitors such a sentrectinib [53]. Metanephric tumours Divided into metanephric adenoma, adenofibroma and metanephric stromal tumours. Benign. NSS. Mixed epithelial and stromal renal tumour Encompasses two benign lesions - mixed epithelial and stromal tumour (MEST) of the kidney (MEST) and adult cystic nephroma. Imaging - Bosniak type III or IIF/IV. Overwhelmingly in women (7:1). Benign. Active surveillance. NSS. Renal cysts/cystic lesions Simple cysts are frequently occurring, while occurring septa, calcifications and solid components require follow-up and/or management. Mostly benign. Treatment or follow-up recommendation based on Bosniak classification. ACKD: Acquired Cystic Kidney Disease; ALK: Anaplastic Lymphoma Kinase; NSS: Nephron-Sparing Surgery; SMARCB1: SWI/SNF-Related, Matrix-Associated, Actin-Dependent Regulator of Chromatin, Subfamily B, Member 1; TCS: Tuberous Sclerosis Complex; TFEB: Transcription Factor EB.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Entity",
+              "Clinical relevant notes",
+              "Malignant potential",
+              "Treatment"
+            ],
+            [
+              "Collecting duct carcinoma",
+              "Formerly Bellini duct carcinoma. No hemoglobinopathy or SMARCB1 abnormality. Rare, often presenting at an advanced stage (N+ 44% and M1 33% at diagnosis). The HR CSS in comparison with ccRCC is 4.49 [37,38,50].",
+              "High, very aggressive. Median survival 30 months [51].",
+              "Surgery. Systemic therapy and surgery in metastatic disease [52]."
+            ],
+            [
+              "Clear-cell papillary renal cell tumour",
+              "Patient with ACKD, 100 times greater risk compared with general population [38].",
+              "Indolent.",
+              "Surgery, NSS, discuss active surveillance."
+            ],
+            [
+              "Mucinous tubular and spindle cell carcinoma",
+              "Tumour is associated with the loop of Henle. < 1% of renal neoplasm. Female predilection (3-4:1) [38].",
+              "Intermediate.",
+              "Surgery, NSS."
+            ],
+            [
+              "Tubulocystic RCC",
+              "Rare (< 1%). Mainly men, imaging can be Bosniak III or IV.",
+              "Low (90% indolent).",
+              "Surgery, NSS."
+            ],
+            [
+              "Eosinophilic solid and cystic RCC (ESC RCC)",
+              "Usually, alteration of TCS genes. Predominantly in adult women. Some with TSC (tuberous sclerosis complex) syndrome.",
+              "Rarely metastatic.",
+              "NSS."
+            ],
+            [
+              "TFE3 re-arranged RCC",
+              "Gene fusions involving TFE3 with one of many different partner genes. Formerly translocation RCC (TRCC) Xp11.2. Appr. 40% of paediatric RCC and 1.6-4% of adult RCC [24].",
+              "Survival similar to clear cell RCC.",
+              "Surgery. Systemic therapy in metastatic disease, TKI and immunotherapy [53]."
+            ],
+            [
+              "TFEB altered (rearranged and amplified) RCC",
+              "Gene fusions involving the TFEB transcription factor, typically via a t(6;11)(p21;q12) translocation resulting in a MALAT1-TFEB gene fusion. Formerly translocation RCC t(6;11). Less common than TFE3-rearranged RCC. Appr. 100 cases in the literature [38]. TFEB-amplified in older patient and has a worse prognosis.",
+              "More indolent than the TFE3-rearranged RCC, with fewer than 10% of cases resulting in patient death.",
+              "Surgery.Systemic therapy in metastatic - PD-L1 inhibitor therapy [53]."
+            ],
+            [
+              "ELOC (formerly TCBE1)-mutated RCC",
+              "Twenty cases described in literature [37,38]. Typically, T1.",
+              "Indolent. Only two metastatic cases described.",
+              "NSS."
+            ],
+            [
+              "Fumarate hydratase-deficient RCC [For more information, please review Chapter 8 on hereditary kidney tumours]",
+              "Formerly hereditary leiomyomatosis and RCC-associated RCC. Alterations in the FH gene. Autosomal dominant. 21-30% lifetime risk of RCC [54]. Cutaneous leiomyomas, female uterine leiomyoma or leiomyosarcoma. More common in males. Median age 44 years [37,44,55].",
+              "Often aggressive. »75% of cases staged as pT3-4 at nephrectomy.",
+              "Immediate surgery.In metastatic disease, bevacizumab, erlotinib, immunotherapy [53].Genetic counselling in the family. Imaging screening in relatives [54]."
+            ],
+            [
+              "Succinate dehydrogenase-deficient RCC (SDH-deficient RCC) [For more information, please review Chapter 8 on hereditary kidney tumours]",
+              "Rare. 0.05-0.2 % of all RCCs.",
+              "A metastatic rate of 11%.",
+              "Surgery, NSS. Long-term follow-up and surveillance for other SDH-deficient neoplasms (i.e. paraganglioma, SDH-deficient gastrointestinal stromal tumour, and pituitary adenoma) is indicated for cases associated with germline mutation [23]."
+            ],
+            [
+              "ALK-rearranged RCC",
+              "Gene fusions involving anaplastic lymphoma kinase gene (ALK) at chromosome 2p23. Fewer than 100 cases described. [37,38].",
+              "Low (90% indolent).",
+              "Surgery, NSS. In systemic disease, ALK kinase inhibitors such a sentrectinib [53]."
+            ],
+            [
+              "Metanephric tumours",
+              "Divided into metanephric adenoma, adenofibroma and metanephric stromal tumours.",
+              "Benign.",
+              "NSS."
+            ],
+            [
+              "Mixed epithelial and stromal renal tumour",
+              "Encompasses two benign lesions - mixed epithelial and stromal tumour (MEST) of the kidney (MEST) and adult cystic nephroma. Imaging - Bosniak type III or IIF/IV. Overwhelmingly in women (7:1).",
+              "Benign.",
+              "Active surveillance. NSS."
+            ],
+            [
+              "Renal cysts/cystic lesions",
+              "Simple cysts are frequently occurring, while occurring septa, calcifications and solid components require follow-up and/or management.",
+              "Mostly benign.",
+              "Treatment or follow-up recommendation based on Bosniak classification."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-5-1-renal-medullary-carcinoma-smarcb1-deficient-renal-medullary-carcinoma",
+      "title": "3.5.1. Renal medullary carcinoma (SMARCB1-deficient renal medullary carcinoma)",
+      "level": 4,
+      "text": "Renal medullary carcinoma (RMC) (referred to as SMARCB1-deficient RMC in the 2022 WHO Classification) is a very rare tumour, comprising < 0.5% of all RCCs [56], predominantly diagnosed in young adults of African ancestry (median age 28 years) with sickle haemoglobinopathies (including sickle cell trait). Renal medullary carcinoma has a male predominance of 2:1 and is mainly centrally located with ill-defined borders. Renal medullary carcinoma is one of the most aggressive RCCs [57,58] and most patients (±67%) will present with metastatic disease [57,59]. Even patients who present with seemingly localised disease may develop unequivocal metastases shortly (within weeks) after diagnosis (for treatment, see Chapter 7). Apart from the RMC described above, some patients present with identical tumours without haemoglobinopathy. Such tumours have been described as ‘unclassified RCC with medullary phenotype’ [37].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-5-2-carcinoma-associated-with-end-stage-renal-disease-acquired-cystic-disease-associated-rcc",
+      "title": "3.5.2. Carcinoma associated with end-stage renal disease; acquired cystic disease-associated RCC",
+      "level": 4,
+      "text": "Cystic degenerative changes (acquired cystic kidney disease [ACKD]) and a higher incidence of RCC, are typical features of ESRD. Renal cell carcinomas of native end-stage kidneys are found in approximately 4% of patients with ESRD. Their lifetime risk of developing RCCs is at least ten times higher than in the general population. Compared with sporadic RCCs, RCCs associated with ESRD are generally multicentric and bilateral, found in younger patients (mostly male), and are less aggressive. Whether the relatively indolent outcome of tumours in ESRD is due to the mode of diagnosis or a specific ACKD-related molecular pathway still has to be determined. Although the histological spectrum of ESRD tumours is like that of sporadic RCC; pRCC occur relatively more frequently [44,60]. A specific subtype of RCC occurring only in end-stage kidneys has been described as ‘acquired cystic disease-associated RCC’ (ACD-RCC). Tumours present exclusively in patients with ACKD, usually after long-term dialysis. The vast majority occur in men. Tumours are often multiple and bilateral and, in most cases, have an indolent clinical behaviour, although aggressive courses have been documented [37].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-5-3-papillary-adenoma",
+      "title": "3.5.3. Papillary adenoma",
+      "level": 4,
+      "text": "These tumours have a papillary or tubular architecture of low nuclear grade and may be up to 15mm in diameter or smaller, according to the 2022 WHO classification [37].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-5-4-renal-oncocytoma",
+      "title": "3.5.4. Renal oncocytoma",
+      "level": 4,
+      "text": "Oncocytoma is a benign tumour representing 4-7% of all solid renal tumours and 30% of benign surgically removed kidney masses are contributed to oncocytomas [40,61,62]. The diagnostic accuracy of imaging modalities (CT, magnetic resonance imaging [MRI]) in renal oncocytoma is limited and histopathology remains the only reliable diagnostic modality [40,61]. However, 99m Tc-sestamibi (SestaMIBI, MIBI) SPECT/CT has shown promising initial results for the differentiation between benign and low-grade RCC [63-66]. Standard treatment for renal oncocytoma is similar to that of other renal tumours: surgical excision by partial or radical nephrectomy (RN) with subsequent histopathological verification. However, due to the inability of modern imaging techniques to differentiate benign from malignant renal masses, there is a renewed interest in renal mass biopsy (RMB) prior to surgical intervention. Oncocytic renal neoplasms diagnosed by RMB were found to be oncocytoma in 64% of cases, the remainder of the tumours were mainly chRCC (18.7% including 6.3% hybrid oncocytic/chromophobe tumours, which have now been grouped histologically with chRCC) [37,38], other RCCs (12.5%), and other benign lesions (4.2%) [67,68]. The 2022 WHO classification strictly excludes that a definitive diagnosis of oncocytoma be performed on a needle-core biopsy (see Section 5.3). The majority of oncocytomas slowly progress in size with an annual growth rate of approximately 2mm [61]. Preliminary data show that active surveillance (AS) may be a safe option to manage oncocytoma in appropriately selected patients. There are no reports of distant metastases or disease-related death for oncocytoma on AS [69]. Potential triggers to change management of patients on AS are not well defined [70,71].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-5-5-other-oncocytic-tumours-of-the-kidney",
+      "title": "3.5.5. Other oncocytic tumours of the kidney",
+      "level": 4,
+      "text": "Other oncocytic tumours of the kidney are a heterogeneous group of oncocytic tumours not classifiable as oncocytoma, chRCC or other tumour types with eosinophilic features. These tumours are typically indolent, therefore, it is important to distinguish such low-grade tumours from the high-grade unclassified RCCs that typically behave aggressively. In the setting of BHD syndrome (see Chapter 8), tumours with such intermediate features (hybrid oncocytic tumours) also exist, typically being multifocal and bilateral. As this is a heterogeneous tumour group, it is likely that new subtypes of renal neoplasia will emerge. There are already two emerging entities: eosinophilic vacuolated tumour (EVT) and low-grade oncocytic tumour (LOT) [37].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-5-6-classical-angiomyolipoma",
+      "title": "3.5.6. Classical angiomyolipoma",
+      "level": 4,
+      "text": "Classical angiomyolipoma (AML)/perivascular epithelioid cell tumours (PEComas) of the kidney is a benign mesenchymal tumour, which can occur sporadically or as part of tuberous sclerosis complex [72]. Overall prevalence is 0.44%, with 0.6% in female and 0.3% in male populations. Only 5% of these patients present with multiple AMLs [73]. Angiomyolipoma belongs to a family of so-called PEComas, characterised by the proliferation of perivascular epithelioid cells. Some PEComas can behave aggressively and even metastasise, while classic AMLs are completely benign [40,74,75]. Ultrasound, CT and MRI often lead to the diagnosis of AMLs due to the presence of adipose tissue. However, in fat-poor AML, diagnostic imaging cannot reliably identify these lesions. Percutaneous biopsy is rarely useful. Renal tumours that cannot be clearly identified as benign during the initial diagnostic workup should be treated according to the recommendations provided for the treatment of RCC. In tuberous sclerosis, AML can be found in enlarged lymph nodes (LNs), which does not represent metastatic spread but a multicentric spread of AMLs. In rare cases, an extension of a non-malignant thrombus into the renal vein or inferior vena cava (IVC) can be found, associated with an angiotrophic-type growth of AML. Epithelioid AML, a very rare variant of AML, consists of at least 80% epithelioid cells and with mean age of onset of 50 years (range 30-80 years) without gender predilection [74,75]. Epithelioid AMLs are potentially malignant, with a variable proportion of cases with aggressive behaviour [76]. Criteria to predict the biological behaviour in epithelioid AML were proposed by the WHO 2022 [37,38]. Angiomyolipoma, in general, has a slow and consistent growth rate and minimal morbidity [77]. Subtypes of AML are oncocytic AML and AML with epithelial cysts [37]. In some cases, larger AMLs can cause local pain. The main complication of AMLs is spontaneous bleeding in the retroperitoneum or into the collecting system, which can be life threatening. Bleeding is caused by spontaneous rupture of the tumour. Little is known about the risk factors for bleeding, but it is believed to increase with tumour size and may be related to the angiogenic component of the tumour that includes irregular blood vessels [77]. The major risk factors for bleeding are tumour size, grade of the angiogenic component, and the presence of tuberous sclerosis. 3.5.6.a. Treatment of angiomyolipoma Active surveillance is the most appropriate option for most AMLs (48%). In a group of patients on AS, only 11% of AMLs showed growth, and spontaneous bleeding was reported in 2%, resulting in active treatment in 5% of patients [77] (LE: 3). The association between AML size and the risk of bleeding remains unclear, and the traditionally used 4cm cut-off should not per se trigger active treatment [77]. When surgery is indicated, if technically feasible, NSS is the preferred option. Main disadvantages of less invasive selective arterial embolisation (SAE) are more recurrences and a need for secondary treatment (0.85% for surgery vs. 31% for SAE). For thermal ablation, only limited data are available, and this option is used less frequently [77]. Active treatment (SAE, surgery or ablation) should be instigated in case of persistent pain, ruptured AML (acute or repeated bleeding) or in case of a very large AML. Specific patient circumstances may influence the choice to offer active treatment, such as patients at high risk of abdominal trauma, females of childbearing age, or patients in whom follow-up or access to emergency care may be inadequate. Selective arterial embolisation is an option in case of life-threatening AML bleeding. In patients diagnosed with tuberous sclerosis, size reduction of often-bilateral AMLs can be induced by inhibiting the mTOR pathway using everolimus, as demonstrated in randomised controlled trials (RCTs) [78,79]. In a small phase II trial (n = 20), efficacy of everolimus was demonstrated in sporadic AML as well. A 25% or greater reduction in tumour volume at four and six months was demonstrated in 55.6% and 71.4% of patients, respectively. However, 20% of patients were withdrawn due to toxicities and 40% self-withdrew from the study due to side effects [80].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-5-7-cystic-renal-tumours",
+      "title": "3.5.7. Cystic renal tumours",
+      "level": 4,
+      "text": "Cystic renal lesions are classified according to the Bosniak classification (see Section 5.2.5). Bosniak I and II cysts are benign lesions which do not require follow-up [81]. Bosniak IV cysts are mostly (83%) malignant tumours with pseudo-cystic changes only [82]. Bosniak IIF and III cysts remain challenging for clinicians. The differentiation of benign and malignant tumour into categories IIF/III is based on imaging - mostly CT - with an increasing role of MRI and contrast-enhanced US (CEUS). Computed tomography shows poor sensitivity (36%) and specificity (76%; κ = 0.11) compared with 71% sensitivity and 91% specificity (κ = 0.64) for MRI and 100% sensitivity and 97% specificity for CEUS (κ = 0.95) [83]. Surgical and radiological cohorts pooled estimates show a prevalence of malignancy of 0.51 (0.44-0.58) in Bosniak III and 0.89 (0.83-0.92) in Bosniak IV cysts, respectively. In an SR, less than 1% of stable Bosniak IIF cysts showed malignancy during follow-up. Twelve percent of Bosniak IIF cysts had to be reclassified to Bosniak III/IV during radiological follow-up, with 85% of these showing malignancy, which is comparable to the malignancy rates of Bosniak IV cysts [81]. The updated Bosniak classification strengthens the classification and includes also MRI [84] and even CEUS diagnostic criteria [85]. The most common histological types for Bosniak III cysts are ccRCC, with pseudo-cystic changes and low malignant potential [86,87]; multilocular cystic renal neoplasm of low malignant potential (see Section 3.4.1.a); classical pattern pRCC (very low malignant potential); benign multilocular cyst; benign group of mixed epithelial and stromal renal tumour (mixed epithelial and stromal tumour of the kidney and adult cystic nephroma); and other rare entities. Surgery in Bosniak III cysts will result in overtreatment in 49% of the tumours, which are lesions with a low malignant potential. In view of the excellent outcome of these patients in general, a surveillance approach is an alternative to surgical treatment [81,84,88,89]. A SR described AS as a safe initial strategy for selected patients with cystic renal masses, particularly Bosniak IIF [4].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-6-summary-of-evidence-and-recommendations-for-the-management-of-other-renal-tumours",
+      "title": "3.6. Summary of evidence and recommendations for the management of other renal tumours",
+      "level": 3,
+      "text": "Summary of evidence LE A variety of renal tumours exist, approximately 15% of which are benign. 3 The most common renal tumours are three malignant types of RCC (clear cell, papillary and chromophobe) and two benign renal tumours (oncocytoma and angiomyolipoma). 3 A definitive histopathological diagnosis of oncocytoma cannot be made on a needle-core biopsy, because chRCC can show intratumoural heterogeneity with areas very similar to oncocytoma. 3 Histological workup and results of AS of Bosniak III cysts shows low risk of malignant potential/course. 2 Recommendations Strength rating Manage Bosniak type III cysts the same as localised RCC, or offer active surveillance (AS). Weak Manage Bosniak type IV cysts the same as localised RCC. Strong Offer AS to patients with biopsy-proven oncocytoma or other oncocytic renal tumours as an acceptable alternative to surgery or ablation. Weak Treat angiomyolipoma (AML) with selective arterial embolisation or nephron-sparing surgery in: large tumours (a recommended threshold of intervention does not exist); females of childbearing age; patients in whom follow-up or access to emergency care may be inadequate; persistent pain or acute or repeated bleeding episodes. Weak Offer systemic therapy (everolimus) to patients with surgically unresectable AMLs which are not amenable to embolisation and require therapy. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "A variety of renal tumours exist, approximately 15% of which are benign.",
+              "3"
+            ],
+            [
+              "The most common renal tumours are three malignant types of RCC (clear cell, papillary and chromophobe) and two benign renal tumours (oncocytoma and angiomyolipoma).",
+              "3"
+            ],
+            [
+              "A definitive histopathological diagnosis of oncocytoma cannot be made on a needle-core biopsy, because chRCC can show intratumoural heterogeneity with areas very similar to oncocytoma.",
+              "3"
+            ],
+            [
+              "Histological workup and results of AS of Bosniak III cysts shows low risk of malignant potential/course.",
+              "2"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Manage Bosniak type III cysts the same as localised RCC, or offer active surveillance (AS).",
+              "Weak"
+            ],
+            [
+              "Manage Bosniak type IV cysts the same as localised RCC.",
+              "Strong"
+            ],
+            [
+              "Offer AS to patients with biopsy-proven oncocytoma or other oncocytic renal tumours as an acceptable alternative to surgery or ablation.",
+              "Weak"
+            ],
+            [
+              "Treat angiomyolipoma (AML) with selective arterial embolisation or nephron-sparing surgery in:large tumours (a recommended threshold of intervention does not exist);females of childbearing age;patients in whom follow-up or access to emergency care may be inadequate;persistent pain or acute or repeated bleeding episodes.",
+              "Weak"
+            ],
+            [
+              "Offer systemic therapy (everolimus) to patients with surgically unresectable AMLs which are not amenable to embolisation and require therapy.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 6
+}

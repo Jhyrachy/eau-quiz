@@ -1,0 +1,1467 @@
+{
+  "guideline": "neuro-urology",
+  "chapter": "the-guideline",
+  "url": "https://uroweb.org/guidelines/neuro-urology/chapter/the-guideline",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Background",
+      "anchor": "#1-5-background"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Introduction",
+      "anchor": "#2-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. THE GUIDELINE",
+      "anchor": "#3-the-guideline"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#3-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "3.1.1. Introduction",
+      "anchor": "#3-1-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Classification systems",
+      "anchor": "#3-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Introduction",
+      "anchor": "#3-2-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Diagnostic evaluation",
+      "anchor": "#3-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Introduction",
+      "anchor": "#3-3-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Classification systems",
+      "anchor": "#3-3-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Timing of diagnosis and treatment",
+      "anchor": "#3-3-3-timing-of-diagnosis-and-treatment"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Patient history",
+      "anchor": "#3-3-4-patient-history"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. Patient quality of life questionnaires",
+      "anchor": "#3-3-5-patient-quality-of-life-questionnaires"
+    },
+    {
+      "level": 4,
+      "text": "3.3.6. Physical examination and additional tests",
+      "anchor": "#3-3-6-physical-examination-and-additional-tests"
+    },
+    {
+      "level": 4,
+      "text": "3.3.7. Urodynamics",
+      "anchor": "#3-3-7-urodynamics"
+    },
+    {
+      "level": 4,
+      "text": "3.3.8. Renal function",
+      "anchor": "#3-3-8-renal-function"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Disease management",
+      "anchor": "#3-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Introduction",
+      "anchor": "#3-4-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Non-invasive conservative treatment",
+      "anchor": "#3-4-2-non-invasive-conservative-treatment"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Surgical treatment",
+      "anchor": "#3-4-3-surgical-treatment"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Urinary tract infection in neurological patients",
+      "anchor": "#3-5-urinary-tract-infection-in-neurological-patients"
+    },
+    {
+      "level": 4,
+      "text": "3.5.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#3-5-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "3.5.2. Diagnostic evaluation",
+      "anchor": "#3-5-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.5.3. Disease management",
+      "anchor": "#3-5-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "3.5.4. Summary of evidence and recommendations for the treatment of urinary tract infections",
+      "anchor": "#3-5-4-summary-of-evidence-and-recommendations-for-the-treatment-of-urinary-tract-infections"
+    },
+    {
+      "level": 3,
+      "text": "3.6. Sexual function and fertility",
+      "anchor": "#3-6-sexual-function-and-fertility"
+    },
+    {
+      "level": 4,
+      "text": "3.6.1. Erectile dysfunction",
+      "anchor": "#3-6-1-erectile-dysfunction"
+    },
+    {
+      "level": 4,
+      "text": "3.6.2. Male fertility",
+      "anchor": "#3-6-2-male-fertility"
+    },
+    {
+      "level": 4,
+      "text": "3.6.3. Female sexuality",
+      "anchor": "#3-6-3-female-sexuality"
+    },
+    {
+      "level": 4,
+      "text": "3.6.4. Female fertility",
+      "anchor": "#3-6-4-female-fertility"
+    },
+    {
+      "level": 3,
+      "text": "3.7. Follow-up",
+      "anchor": "#3-7-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "3.7.1. Introduction",
+      "anchor": "#3-7-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "3.7.2. Summary of evidence and recommendations for follow-up",
+      "anchor": "#3-7-2-summary-of-evidence-and-recommendations-for-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "3.8. Conclusions",
+      "anchor": "#3-8-conclusions"
+    },
+    {
+      "level": 4,
+      "text": "3.8.1. Neurological Patients perspective on lower urinary tract dysfunction diagnosis and management",
+      "anchor": "#3-8-1-neurological-patients-perspective-on-lower-urinary-tract-dysfunction-diagnosis-and-management"
+    },
+    {
+      "level": 2,
+      "text": "4. REFERENCES",
+      "anchor": "#4-references"
+    },
+    {
+      "level": 2,
+      "text": "5. CONFLICT OF INTEREST",
+      "anchor": "#5-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "6. CITATION INFORMATION",
+      "anchor": "#6-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "7. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#7-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#neuro-urology",
+      "title": "Neuro-urology",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 3. The Guideline Introduction Methods The Guideline References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#3-the-guideline",
+      "title": "3. THE GUIDELINE",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-1-epidemiology-aetiology-and-pathophysiology",
+      "title": "3.1. Epidemiology, aetiology and pathophysiology",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-1-1-introduction",
+      "title": "3.1.1. Introduction",
+      "level": 4,
+      "text": "Lower urinary tract symptoms in neurological patients may be caused by a variety of diseases and events affecting the nervous system controlling the lower urinary tract LUT. The resulting lower urinary tract dysfunction depend predominantly on the location and the extent of the neurological lesion. No exact figures are available on the overall prevalence of neurological LUTD in the general population, but data are available on the prevalence of the underlying conditions and the relative risk of these for the development of neurological LUTS. It is important to note that the majority of the data shows a very wide range of prevalence/incidence. This reflects the variability in the cohort (e.g. early or late-stage disease) and the frequently small sample sizes, resulting in a low level of evidence in most published data (summarised in Table 1). Table 1: Epidemiology of Lower Urinary Tract Disorders in Neurological Patients Suprapontine and pontine lesions and diseases Neurological disease Frequency in general population Type and frequency of lower urinary tract symptoms Cerebrovascular accident  (Strokes) 450 cases/100,000/yr. (Europe) [9], 10% of cardiovascular mortality. Nocturia – overactive bladder (OAB) – urgency urinary incontinence (UUI) – neurogenic detrusor overactivity (NDO), other patterns less frequent [10]. Post-stroke urinary incontinence is also related to cognitive dysfunction [11]. 57 – 83% of LUTS at one-month post-stroke, 71 – 80% spontaneous recovery at six months [12,13]. Persistence of urinary incontinence (UI) correlates with poor prognosis [14]. Urinary retention following acute middle cerebral artery territory stroke is associated with stroke severity and hypertension [15]. Bladder emptying usually improves within 75 days [13]. Dementias: Alzheimer’s disease (80%), Vascular (10%), Other (10%). 6.4% of adults > 65 yrs. [16]. OAB – UUI – NDO, 25% of incontinence in Alzheimer’s disease, > 25% in other dementias: Lewy body, NPH, Binswanger, Nasu-Hakola, Pick Disease [17]. Incontinence three times more frequent in geriatric patients with dementia than without [18]. Parkinsonian syndrome (PS) Idiopathic Parkinson’s disease (IPD): 75–80% of PS.     Non-IPD: Parkinson’s-plus (18%): - Multiple system atrophy (MSA) - Progressive supranuclear palsy - Corticobasal degeneration - Dementia with Lewy bodies - Pure autonomic failure (PAF) Secondary Parkinson’s (2%) Second most prevalent neurodegenerative disease after Alzheimer’s disease. Rising prevalence of IPD with age [19].     MSA is the most frequent non-IPD PS. LUTS affect 50% at onset, with urgency and nocturia being the most common. PD subtypes can present with impaired storage function in the early stage, and these patients may have worse disease progression [20,21]. LUTS prevalence data depend on gender, age, and Hoehn and Yahr stage [22].     Infections represent a major cause of mortality in MSA [23]. Impaired detrusor contractility with post-void residual (PVR)  > 150mL seems to be the urodynamic finding distinguishing MSA from IPD [24-26]. 96% of patients with PAF reported LUTS, 84% sexual dysfunction and 79% constipation [27]. Brain tumours 26.8/100,000/yr. in adults (> 19 yrs.), (17.9 benign, 8.9 malignant) [28]. Incontinence occurs mainly in frontal location (part of frontal syndrome or isolated in frontal location) [29]. Cerebral palsy Cerebral palsy:  3.1 – 3.6/1,000 in children aged 8 yrs. [30]. 32 - 46% of patients with cerebral palsy suffer from UI, with 85% of patients having abnormal urodynamic studies (NDO most common 59%). Upper tract deterioration is rare (2.5%) [31,32]. Traumatic brain injury 235/100,000/yr. [33]. 44% storage dysfunction, 38% voiding dysfunction, 60% urodynamic abnormalities [34]. Normal pressure hydrocephalus 0.5% of the population > 60, up to 2.9% of those > 65 [35]. Classic triad of gait and cognitive disturbance along with neurogenic lower urinary tract dysfunction (NLUTD). The latter is mainly related to NDO and affects 76 - 83% of patients [35]. Lesions and diseases between caudal brainstem and sacral spinal cord Spinal cord injury (SCI) Prevalence of traumatic SCI in developed countries ranges from 280 to 906/million [36]. NDO and detrusor sphincter dyssynergia (DSD) (up to 95%) and detrusor underactivity (DU) (up to 83%) depending on the level of the lesion [37]. LUT parameters have found to predict outcomes following SCI [38,39]. Prevalence of LUTS in degenerative cervical myelopathy 35% [21]. Spina bifida (SB) Spina bifida 3 – 4/10,000 lumbar and lumbosacral form are the most common (60%) [40]. Bladder function is impaired in up to 96% of SB patients [41]. Over 50% of patients experience incontinence [42]. Patients with open and closed defects can have equally severe NLUTD [43]. Hereditary spastic paraplegia (HSP) Prevalence  1.3 – 9/100,000 [44]. LUTS in approximately 75%, mainly urgency and voiding dysfunction NDO in 81% (76% of whom with DSD) [44]. Lesions and diseases of the peripheral nervou",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Suprapontine and pontine lesions and diseases"
+            ],
+            [
+              "Neurological disease",
+              "Frequency in general population",
+              "Type and frequency of lower urinary tract symptoms"
+            ],
+            [
+              "Cerebrovascular accident (Strokes)",
+              "450 cases/100,000/yr. (Europe) [9], 10% of cardiovascular mortality.",
+              "Nocturia – overactive bladder (OAB) – urgency urinary incontinence (UUI) – neurogenic detrusor overactivity (NDO), other patterns less frequent [10]. Post-stroke urinary incontinence is also related to cognitive dysfunction [11]. 57–83% of LUTS at one-month post-stroke, 71–80% spontaneous recovery at six months [12,13]. Persistence of urinary incontinence (UI) correlates with poor prognosis [14]. Urinary retention following acute middle cerebral artery territory stroke is associated with stroke severity and hypertension [15]. Bladder emptying usually improves within 75 days [13]."
+            ],
+            [
+              "Dementias:Alzheimer’s disease (80%),Vascular (10%), Other (10%).",
+              "6.4% of adults > 65 yrs. [16].",
+              "OAB – UUI – NDO, 25% of incontinence in Alzheimer’s disease, > 25% in other dementias: Lewy body, NPH, Binswanger, Nasu-Hakola, Pick Disease [17]. Incontinence three times more frequent in geriatric patients with dementia than without [18]."
+            ],
+            [
+              "Parkinsonian syndrome (PS)Idiopathic Parkinson’s disease (IPD): 75–80% of PS.  Non-IPD: Parkinson’s-plus (18%):- Multiple system atrophy (MSA)- Progressive supranuclear palsy- Corticobasal degeneration- Dementia with Lewy bodies- Pure autonomic failure (PAF)Secondary Parkinson’s (2%)",
+              "Second most prevalent neurodegenerative disease after Alzheimer’s disease.Rising prevalence of IPD with age [19].  MSA is the most frequent non-IPD PS.",
+              "LUTS affect 50% at onset, with urgency and nocturia being the most common. PD subtypes can present with impaired storage function in the early stage, and these patients may have worse disease progression [20,21]. LUTS prevalence data depend on gender, age, and Hoehn and Yahr stage [22].  Infections represent a major cause of mortality in MSA [23].Impaired detrusor contractility with post-void residual (PVR)  > 150mL seems to be the urodynamic finding distinguishing MSA from IPD [24-26].96% of patients with PAF reported LUTS, 84% sexual dysfunction and 79% constipation [27]."
+            ],
+            [
+              "Brain tumours",
+              "26.8/100,000/yr. in adults (> 19 yrs.), (17.9 benign, 8.9 malignant) [28].",
+              "Incontinence occurs mainly in frontal location (part of frontal syndrome or isolated in frontal location) [29]."
+            ],
+            [
+              "Cerebral palsy",
+              "Cerebral palsy: 3.1–3.6/1,000 in children aged 8 yrs. [30].",
+              "32-46% of patients with cerebral palsy suffer from UI, with 85% of patients having abnormal urodynamic studies (NDO most common 59%). Upper tract deterioration is rare (2.5%) [31,32]."
+            ],
+            [
+              "Traumatic brain injury",
+              "235/100,000/yr. [33].",
+              "44% storage dysfunction,38% voiding dysfunction,60% urodynamic abnormalities [34]."
+            ],
+            [
+              "Normal pressure hydrocephalus",
+              "0.5% of the population > 60, up to 2.9% of those > 65 [35].",
+              "Classic triad of gait and cognitive disturbance along with neurogenic lower urinary tract dysfunction (NLUTD). The latter is mainly related to NDO and affects 76-83% of patients [35]."
+            ],
+            [
+              "Lesions and diseases between caudal brainstem and sacral spinal cord"
+            ],
+            [
+              "Spinal cord injury (SCI)",
+              "Prevalence of traumatic SCI in developed countries ranges from 280 to 906/million [36].",
+              "NDO and detrusor sphincter dyssynergia (DSD) (up to 95%) and detrusor underactivity (DU) (up to 83%) depending on the level of the lesion [37]. LUT parameters have found to predict outcomes following SCI [38,39].Prevalence of LUTS in degenerative cervical myelopathy 35% [21]."
+            ],
+            [
+              "Spina bifida (SB)",
+              "Spina bifida 3–4/10,000lumbar and lumbosacral form are the most common (60%) [40].",
+              "Bladder function is impaired in up to 96% of SB patients [41]. Over 50% of patients experience incontinence [42]. Patients with open and closed defects can have equally severe NLUTD [43]."
+            ],
+            [
+              "Hereditary spastic paraplegia (HSP)",
+              "Prevalence 1.3–9/100,000 [44].",
+              "LUTS in approximately 75%, mainly urgency and voiding dysfunctionNDO in 81% (76% of whom with DSD) [44]."
+            ],
+            [
+              "Lesions and diseases of the peripheral nervous system"
+            ],
+            [
+              "Lumbar spineDegenerative diseaseDisk prolapseLumbar canal stenosis",
+              "Male (5%) and female (3%) > 35 yr. have had a lumbosciatic episode related to disc prolapse.Incidence: approx. 5/100,000/yr.More common in females > 45 yr.",
+              "26% difficulty to void and acontractile detrusor [45].Detrusor underactivity (up to 83%) [37].Tarlov cysts: early sensation of filling (70%), NDO (33%) and stress urinary incontinence (SUI) (33%) [46], however, negative correlation between sacral root damage and urinary incontinence [47]."
+            ],
+            [
+              "Inflammatory radiculitis- Guillain Barre syndrome- Elsberg syndrome [48]and herpes simplex;",
+              " ",
+              "Bladder dysfunction is present in 47% of patients with Elsberg syndrome [48]"
+            ],
+            [
+              "Iatrogenic pelvic nerve lesions",
+              "Rectal cancer.Cervical cancer (multimodal therapy, radiotherapy and surgery).Endometriosis surgery.",
+              "After abdominoperineal resection: 50% urinary retention.After total mesorectal excision: 10–30% voiding dysfunction [49]."
+            ],
+            [
+              "Peripheral neuropathyDiabetesOther causes of peripheral neuropathy causing lower urinary tract symptoms:- alcohol abuse- porphyria- sarcoidosis",
+              "Worldwide, prevalence of pharmacologically treated diabetes 8.3% [50].",
+              "OAB +/- UUI [51] and greater rate of DO compared to nondiabetics, particularly with increasing BMI [52]. Hypersensitivity and DU at later phase [51]."
+            ],
+            [
+              "Myasthenia gravis",
+              "Prevalence 20/100,000 [53].",
+              "Increased daytime frequency, nocturia and incontinence [53]."
+            ],
+            [
+              "Disseminated central diseases"
+            ],
+            [
+              "Multiple sclerosis (MS)",
+              "Prevalence: 83/100,000 in Europe [54].",
+              "10% of MS patients present with voiding dysfunction at disease onset, 75% of patients will develop it after 10 yrs. of MS [55]. LUTS correlated with age, clinical course, disease duration, disability [56], and fatigue [57,58] LUTS associated with lower well-being in MS [59].NDO: 43–65% [55,60].DSD: 35% [55,60].DU: 25% [55]."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-2-classification-systems",
+      "title": "3.2. Classification systems",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-2-1-introduction",
+      "title": "3.2.1. Introduction",
+      "level": 4,
+      "text": "Relevant definitions can be found in the general ICS standardisation reports [2, 3, 61, 62]. Supplementary online Tables S1 and S2 list the definitions from these references, partly adapted, and other definitions considered useful for clinical practice: https://uroweb.org/guideline/neuro-urology/?type=appendices-publications . A classification system that also includes UUT dysfunction in neurological patients has also been described [62].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-diagnostic-evaluation",
+      "title": "3.3. Diagnostic evaluation",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-1-introduction",
+      "title": "3.3.1. Introduction",
+      "level": 4,
+      "text": "The normal physiological function of the LUT depends on an intricate interplay between the sensory and motor nervous systems. When diagnosing LUTD symptoms in neurological patients, the aim is to describe the type of dysfunction involved. A thorough medical history, physical examination and bladder diary are mandatory before any additional diagnostic investigations can be planned. Results of the initial evaluation are used to decide the patient’s long-term treatment and follow-up.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-2-classification-systems",
+      "title": "3.3.2. Classification systems",
+      "level": 4,
+      "text": "The pattern of LUTD following neurological disease is determined by the site and nature of the lesion. Figure 1 provides a very simple classification system for use in daily clinical practice to decide on the appropriate therapeutic approach [6]. Figure 1: Patterns of lower urinary tract dysfunction following neurological disease The pattern of LUTD following neurological disease is determined by the site and nature of the lesion. Panel (A) denotes the region above the pons, panel (B) denotes the region between the pons and the sacral cord, and panel (C) denotes the sacral cord and infrasacral region. Figures on the right show the expected dysfunctional states of the detrusor-sphincter system. Figure adapted from Panicker et al. with permission from Elsevier. PVR = post-void residual.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-3-timing-of-diagnosis-and-treatment",
+      "title": "3.3.3. Timing of diagnosis and treatment",
+      "level": 4,
+      "text": "Early diagnosis and treatment are essential in both congenital and acquired LUTD in neurological patients. This helps to prevent irreversible changes within the LUT, even in the presence of normal reflexes [63]. Moreover, urological symptoms can be the presenting feature of neurological pathology [64, 65]. Early intervention can prevent irreversible deterioration of the LUT and UUT [65]. Long-term follow-up (life-long) is mandatory to assess risk of UUT damage and renal failure [66, 67]. The burden of urinary symptoms is significant in all neurological patients, affecting their well-being, professional and social environment, and daily activities. An assessment of the severity and influence of urinary symptoms in patients’ quality of life (QoL) by means of validated questionnaires is recommended [68]. Higher total NBSS and higher NBSS‐QoL scores are associated with choosing bladder management as the primary health problem [69].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-4-patient-history",
+      "title": "3.3.4. Patient history",
+      "level": 4,
+      "text": "History-taking is the cornerstone of evaluation and should include past and present symptoms and disorders (Table 4), because the answers will aid selection of diagnostic investigations and treatment options. In non-traumatic neurological patients with LUTD and with an insidious onset, a detailed history may find that the condition started in childhood or adolescence [70]. Urinary history consists of symptoms associated with both urine storage and voiding. Bowel history is important because neurological patients with LUTS may also have related neurogenic bowel dysfunction [71]. Sexual function may be impaired because of the neurological condition [72]. Special attention should be paid to possible warning signs and symptoms (e.g. pain, infection, haematuria, and fever) requiring further investigation. Patients with SCI usually find it difficult to report urinary tract infection (UTI)-related symptoms accurately [73, 74]. The presence of urinary, bowel and sexual symptoms without neurological symptoms could be suggestive of an underlying neurological disease or condition. The severity of lesion after acute SCI does not predict the presence or absence of unfavourable urodynamic parameters [63]. Table 4: History-taking in patients with suspected neuro-urological disorder Past history Childhood through to adolescence and into adulthood Hereditary or familial risk factors Specific female: menarche (age); this may suggest a metabolic disorder Obstetric history History of diabetes Diseases, e.g. multiple sclerosis, parkinsonism, encephalitis, syphilis Accidents and operations, especially those involving the spine and central nervous system Current personal history Present medication Lifestyle (smoking, alcohol and drugs); may influence urinary, sexual and bowel function Quality of life (i.e. expectations, professional, social environmental, well-being, daily activi-ties and symptom burden) Expectations, availability and needs of the caregiver Specific urinary history Onset of urological history Relief after voiding; to detect the extent of a neurological lesion in the absence of obstructive uropathy Bladder sensation (painful, abnormal, absent or increased) Initiation of micturition (normal, precipitate, reflex, strain, Credé) Interruption of micturition (normal, paradoxical, passive) Enuresis Mode and type of voiding (catheterisation) Frequency, voided volume, stress/urgency/mixed UI, urgency episodes Sexual history Genital or sexual dysfunction symptoms Sensation in genital area (absent, increased, abnormal, pain) Specific male: libido, erection, (lack of) orgasm, ejaculation Specific female: libido, dyspareunia, (lack of) orgasm Bowel history Type of bowel programme Frequency and faecal incontinence Desire to defecate Defecation pattern Rectal sensation Initiation of defecation (digital stimulation, enema, suppositories) Neurological history Acquired or congenital neurological condition Mental status and comprehension Neurological symptoms (somatic and sensory), with onset, evolution and any treatment Spasticity or autonomic dysreflexia (AD) (especially in lesions at or above level Th 6) Mobility and hand function 3.3.4.a. Bladder diaries Bladder diaries are considered a valuable diagnostic tool for the initial assessment of neurogenic LUTD. These diaries provide data on the number of voids (spontaneous or intermittent catheter), voided volume and stress/urgency/mixed UI episodes and contribute to the interpretation of urodynamic testing [75]. Bladder diaries should preferably be completed for three consecutive days [76].",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Past history"
+            ],
+            [
+              "Childhood through to adolescence and into adulthood"
+            ],
+            [
+              "Hereditary or familial risk factors"
+            ],
+            [
+              "Specific female: menarche (age); this may suggest a metabolic disorder"
+            ],
+            [
+              "Obstetric history"
+            ],
+            [
+              "History of diabetes"
+            ],
+            [
+              "Diseases, e.g. multiple sclerosis, parkinsonism, encephalitis, syphilis"
+            ],
+            [
+              "Accidents and operations, especially those involving the spine and central nervous system"
+            ],
+            [
+              "Current personal history"
+            ],
+            [
+              "Present medication"
+            ],
+            [
+              "Lifestyle (smoking, alcohol and drugs); may influence urinary, sexual and bowel function"
+            ],
+            [
+              "Quality of life (i.e. expectations, professional, social environmental, well-being, daily activi-ties and symptom burden)"
+            ],
+            [
+              "Expectations, availability and needs of the caregiver"
+            ],
+            [
+              "Specific urinary history"
+            ],
+            [
+              "Onset of urological history"
+            ],
+            [
+              "Relief after voiding; to detect the extent of a neurological lesion in the absence of obstructive uropathy"
+            ],
+            [
+              "Bladder sensation (painful, abnormal, absent or increased)"
+            ],
+            [
+              "Initiation of micturition (normal, precipitate, reflex, strain, Credé)"
+            ],
+            [
+              "Interruption of micturition (normal, paradoxical, passive)"
+            ],
+            [
+              "Enuresis"
+            ],
+            [
+              "Mode and type of voiding (catheterisation)"
+            ],
+            [
+              "Frequency, voided volume, stress/urgency/mixed UI, urgency episodes"
+            ],
+            [
+              "Sexual history"
+            ],
+            [
+              "Genital or sexual dysfunction symptoms"
+            ],
+            [
+              "Sensation in genital area (absent, increased, abnormal, pain)"
+            ],
+            [
+              "Specific male: libido, erection, (lack of) orgasm, ejaculation"
+            ],
+            [
+              "Specific female: libido, dyspareunia, (lack of) orgasm"
+            ],
+            [
+              "Bowel history"
+            ],
+            [
+              "Type of bowel programme"
+            ],
+            [
+              "Frequency and faecal incontinence"
+            ],
+            [
+              "Desire to defecate"
+            ],
+            [
+              "Defecation pattern"
+            ],
+            [
+              "Rectal sensation"
+            ],
+            [
+              "Initiation of defecation (digital stimulation, enema, suppositories)"
+            ],
+            [
+              "Neurological history"
+            ],
+            [
+              "Acquired or congenital neurological condition"
+            ],
+            [
+              "Mental status and comprehension"
+            ],
+            [
+              "Neurological symptoms (somatic and sensory), with onset, evolution and any treatment"
+            ],
+            [
+              "Spasticity or autonomic dysreflexia (AD) (especially in lesions at or above level Th 6)"
+            ],
+            [
+              "Mobility and hand function"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-3-5-patient-quality-of-life-questionnaires",
+      "title": "3.3.5. Patient quality of life questionnaires",
+      "level": 4,
+      "text": "Quality of life is an essential aspect of the overall management of neurological patients with LUTD, for example, when evaluating treatment related changes on a patient’s QoL [77]. The type of bladder management has been shown to affect health-related QoL (HRQoL) mainly in patients with SCI [78, 79] and MS [80], as does the presence or absence of urinary, sexual and faecal incontinence [81]. Other research has also highlighted the importance of urological treatment and its impact on the urodynamic functionality of the neurological patient in determining the patient QoL [82]. A proliferation in the number of questionnaires to evaluate symptoms and QoL has been seen. Condition-specific questionnaires can be used to assess symptom severity and the impact of symptoms on QoL. A patient’s overall QoL can be assessed using generic questionnaires. It is important that the questionnaire of choice has been validated in the neurological population, and that it is available in the language in which it is to be used. 3.3.5.a. Questionnaires Three condition-specific questionnaires for urinary or bowel dysfunction and QoL have been developed specifically for adult neurological patients [80]. In MS and SCI patients, the Qualiveen, also available in a short version, is validated and translated into various languages [83, 84]. Although several objective and subjective tools have been used to assess the influence of N-LUTD on QoL in SCI, the Quality life index-SCI and Qualiveen are the only validated condition-specific outcomes that have shown consistent sensitivity [85]. The Neurogenic Bladder Symptom Score (NBSS) and its short version have been validated in neurological patient to measure urinary symptoms and their consequences [86,87]. The QoL scoring tool related to Bowel Management (QoL-BM) [88] can be used to assess bowel dysfunction in MS and SCI patients. A new tool has recently been developed to understand the reasons for poor compliance in long-term management of neurological patients [89,90]. A variety of patient-reported outcome measures (PROMs) are available to evaluate sexual function in neurological patients with LUTD. However, only the Multiple Sclerosis Intimacy and Sexuality Questionnaire-15 (MSISQ-15) and -19 is supported by evidence [91-93]. In addition, several validated questionnaires that evaluate QoL and assess urinary symptoms as a subscale or question in neurological patients have been identified [94] (Table 5). The condition-specific Incontinence-Quality of Life (I-QoL) questionnaire, which was initially developed for the non-neurological population, has now also been validated for neurological patients [95]. A patient’s overall QoL can be assessed by generic HRQoL questionnaires, the most commonly used being the I-QOL, King’s Health Questionnaire (KHQ) or the Short Form 36-item and 12-item Health Survey Questionnaires (SF-36, SF-12) [96]. In addition, the quality-adjusted life year (QALY) quantifies outcomes by weighing years of life spent in a specified health state adjusted by a factor representing the value placed by society or patients on their specific health state [97]. No evidence was found for which validated questionnaires are the most appropriate for use, since no quality criteria for validated questionnaires have been assessed [96]. Table 5: Patient questionnaires Questionnaire Underlying neurological disorder Bladder Bowel Sexual function FAMS [98] MS X   X FILMS [99] MS X X   HAQUAMS [100] MS X X X I-QOL [95] MS, SCI X   X LUTS-TCA [89] MS, SCI, Parkinson’s X     MDS [101] MS X X   MSISQ-15/MSISQ-19 [91,92] MS, SCI X X X MSQLI [102] MS X X X MSQoL-54 [103] MS X X X MSWDQ [104] MS X X   NBSS [87,105] MS, SCI, SB, cerebral palsy X     NBSS-SF [86] MS, SCI, SB X     QoL-BM [88] SCI   X   Qualiveen/SF-Qualiveen [84,106] MS, SCI X   X RAYS [107] MS X   X RHSCIR [108] SCI X X X USQNB [90] SCI X X",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Questionnaire",
+              "Underlying neurological disorder",
+              "Bladder",
+              "Bowel",
+              "Sexual function"
+            ],
+            [
+              "FAMS [98]",
+              "MS",
+              "X",
+              " ",
+              "X"
+            ],
+            [
+              "FILMS [99]",
+              "MS",
+              "X",
+              "X",
+              " "
+            ],
+            [
+              "HAQUAMS [100]",
+              "MS",
+              "X",
+              "X",
+              "X"
+            ],
+            [
+              "I-QOL [95]",
+              "MS, SCI",
+              "X",
+              " ",
+              "X"
+            ],
+            [
+              "LUTS-TCA [89]",
+              "MS, SCI, Parkinson’s",
+              "X",
+              " ",
+              " "
+            ],
+            [
+              "MDS [101]",
+              "MS",
+              "X",
+              "X",
+              " "
+            ],
+            [
+              "MSISQ-15/MSISQ-19 [91,92]",
+              "MS, SCI",
+              "X",
+              "X",
+              "X"
+            ],
+            [
+              "MSQLI [102]",
+              "MS",
+              "X",
+              "X",
+              "X"
+            ],
+            [
+              "MSQoL-54 [103]",
+              "MS",
+              "X",
+              "X",
+              "X"
+            ],
+            [
+              "MSWDQ [104]",
+              "MS",
+              "X",
+              "X",
+              " "
+            ],
+            [
+              "NBSS [87,105]",
+              "MS, SCI, SB, cerebral palsy",
+              "X",
+              " ",
+              " "
+            ],
+            [
+              "NBSS-SF [86]",
+              "MS, SCI, SB",
+              "X",
+              " ",
+              " "
+            ],
+            [
+              "QoL-BM [88]",
+              "SCI",
+              " ",
+              "X",
+              " "
+            ],
+            [
+              "Qualiveen/SF-Qualiveen [84,106]",
+              "MS, SCI",
+              "X",
+              " ",
+              "X"
+            ],
+            [
+              "RAYS [107]",
+              "MS",
+              "X",
+              " ",
+              "X"
+            ],
+            [
+              "RHSCIR [108]",
+              "SCI",
+              "X",
+              "X",
+              "X"
+            ],
+            [
+              "USQNB [90]",
+              "SCI",
+              "X",
+              "X",
+              " "
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-3-6-physical-examination-and-additional-tests",
+      "title": "3.3.6. Physical examination and additional tests",
+      "level": 4,
+      "text": "In addition to a detailed patient history, attention should be paid to possible physical and intellectual disabilities with respect to the planned investigations [109,110]. Lower urinary tract dysfunction status in neurogenic patients should be described as completely as possible (Figure 2) [6]. Patients with a high spinal cord lesion or supraspinal neurological lesions may suffer from a significant drop in blood pressure when moved into a sitting or standing position. All sensations and reflexes in the urogenital area must be tested [6]. Moreover, detailed testing of the anal sphincter and pelvic floor functions must be performed (Figure 2) [6, 111]. Having this clinical information is essential to reliably interpret later diagnostic investigations (Table 6). Additionally, urinalysis, blood chemistry, ultrasonography, PVR when indicated, incontinence quantification and, where indicated, free uroflowmetry should be performed as part of the routine assessment of neurological patients [6, 112]. 3.3.6.a. Autonomic dysreflexia Autonomic dysreflexia (AD), a sudden and exaggerated autonomic response to various stimuli, generally manifests in patients with SCI or spinal dysfunction at or above level Th 6. Autonomic dysreflexia is defined by an increase in systolic blood pressure > 20mmHg from baseline and is usually accompanied by a severe headache, blurred vision, feeling of anxiety, heart rate changes, as well as perspiration, piloerection, warm skin and flushing above the lesion, and pallor, cold skin and sweating below the lesion in the lower part of the body [113, 114]. Autonomic dysreflexia can have life-threatening consequences if not managed adequately. The stimulus can be distended bladder or bowel (e.g. iatrogenic stimuli during cystoscopy or urodynamics) [115], poor bladder or bowel management, indwelling catheter [116] but it can also be secondary to any noxious stimulus (e.g. infected toenail or pressure sore) or after sexual stimulation. Figure 2: Lumbosacral dermatomes, cutaneous nerves and reflexes The physical examination includes testing sensations and reflexes mediated through the lower spinal cord. Abnormal findings would suggest a lesion affecting the lumbosacral segments. Mapping out distinct areas of sensory impairment helps to further localise the site of the lesion. Distribution of dermatomes (areas of skin mainly supplied by a single spinal nerve) and cutaneous nerves over the perianal region and back of the upper thigh (A), the perineum [117] (B), male external genitalia [118] (C) and root values of lower spinal cord reflexes (D). Figure adapted from Panicker et al., with parts A-C adapted from Standring , both with permission from Elsevier. Table 6: Lower urinary tract dysfunction items to be specified in neurological patients Sensation S2-S5 (both sides) Presence (increased/normal/reduced/absent) Type (light touch/pin prick) Affected dermatomes Reflexes (increased/normal/reduced/absent) Bulbocavernous reflex Perianal/anal reflex Knee and ankle reflexes Plantar responses (Babinski) Anal sphincter tone Presence (increased/normal/reduced/absent) Voluntary contractions of anal sphincter and pelvic muscles (in-creased/normal/reduced/absent) General urogenital assessment Prostate palpation Skin lesions Size and presence of penis Descensus (prolapse) of pelvic organs 3.3.6.b. Summary of evidence and recommendations for baseline evaluation Summary of evidence LE Early diagnosis and treatment are essential in both congenital and acquired neurological disorders to prevent irreversible changes within the urinary tract. 4 An extensive general history is the basis of evaluation focusing on past and present symptoms including urinary, sexual, bowel and neurological function. 4 Assessment of QoL and expectations are an essential aspect of the overall management and are important to evaluate the effect of any therapy. 2a Quality of life assessment should be completed with validated QoL questionnaires for neurological patients. 1a Bladder diaries provide data on the number of voids, voided volume, UI, and urgency episodes. 3 Recommendations Strength rating Take an extensive general history, concentrating on past and present symptoms. Strong Take a specific history for each of the four mentioned functions: urinary, bowel, sexual and neurological. Strong Pay special attention to the possible existence of alarm symptoms/signs (e.g. pain, infection, haematuria, fever) that warrant further specific diagnosis. Strong Assess quality of life when evaluating and treating neurogenic lower urinary tract dysfunction patients. Strong Use available validated tools for urinary and bowel symptoms in neurological patients. Strong Use MSISQ-15 or MSISQ-19 to evaluate sexual function in multiple sclerosis patients. Strong Acknowledge individual patient disabilities when planning further investigations. Strong Describe the neurological status as completely as possible, sensations and reflexes in the urogenital area must a",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Sensation S2-S5 (both sides)"
+            ],
+            [
+              "Presence (increased/normal/reduced/absent)"
+            ],
+            [
+              "Type (light touch/pin prick)"
+            ],
+            [
+              "Affected dermatomes"
+            ],
+            [
+              "Reflexes (increased/normal/reduced/absent)"
+            ],
+            [
+              "Bulbocavernous reflex"
+            ],
+            [
+              "Perianal/anal reflex"
+            ],
+            [
+              "Knee and ankle reflexes"
+            ],
+            [
+              "Plantar responses (Babinski)"
+            ],
+            [
+              "Anal sphincter tone"
+            ],
+            [
+              "Presence (increased/normal/reduced/absent)"
+            ],
+            [
+              "Voluntary contractions of anal sphincter and pelvic muscles (in-creased/normal/reduced/absent)"
+            ],
+            [
+              "General urogenital assessment"
+            ],
+            [
+              "Prostate palpation"
+            ],
+            [
+              "Skin lesions"
+            ],
+            [
+              "Size and presence of penis"
+            ],
+            [
+              "Descensus (prolapse) of pelvic organs"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Early diagnosis and treatment are essential in both congenital and acquired neurological disorders to prevent irreversible changes within the urinary tract.",
+              "4"
+            ],
+            [
+              "An extensive general history is the basis of evaluation focusing on past and present symptoms including urinary, sexual, bowel and neurological function.",
+              "4"
+            ],
+            [
+              "Assessment of QoL and expectations are an essential aspect of the overall management and are important to evaluate the effect of any therapy.",
+              "2a"
+            ],
+            [
+              "Quality of life assessment should be completed with validated QoL questionnaires for neurological patients.",
+              "1a"
+            ],
+            [
+              "Bladder diaries provide data on the number of voids, voided volume, UI, and urgency episodes.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Take an extensive general history, concentrating on past and present symptoms.",
+              "Strong"
+            ],
+            [
+              "Take a specific history for each of the four mentioned functions: urinary, bowel, sexual and neurological.",
+              "Strong"
+            ],
+            [
+              "Pay special attention to the possible existence of alarm symptoms/signs (e.g. pain, infection, haematuria, fever) that warrant further specific diagnosis.",
+              "Strong"
+            ],
+            [
+              "Assess quality of life when evaluating and treating neurogenic lower urinary tract dysfunction patients.",
+              "Strong"
+            ],
+            [
+              "Use available validated tools for urinary and bowel symptoms in neurological patients.",
+              "Strong"
+            ],
+            [
+              "Use MSISQ-15 or MSISQ-19 to evaluate sexual function in multiple sclerosis patients.",
+              "Strong"
+            ],
+            [
+              "Acknowledge individual patient disabilities when planning further investigations.",
+              "Strong"
+            ],
+            [
+              "Describe the neurological status as completely as possible, sensations and reflexes in the urogenital area must all be tested.",
+              "Strong"
+            ],
+            [
+              "Test the anal sphincter and pelvic floor functions.",
+              "Strong"
+            ],
+            [
+              "Perform urinalysis, blood chemistry, bladder diary, post-void residual, incontinence quantification and urinary tract imaging as initial and routinary evaluation.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-3-7-urodynamics",
+      "title": "3.3.7. Urodynamics",
+      "level": 4,
+      "text": "3.3.7.a. Introduction Urodynamic investigation is the only method that can objectively assess the function and dysfunction of the LUT. In neurological patients, invasive urodynamic investigation is even more challenging than in general patients. Any technical source of artefacts must be considered critically. Maintaining the quality of the urodynamic recording and its interpretation is essential [1]. Same-session repeat urodynamic investigations are crucial in clinical decision-making, since repeat measurements may yield completely different results [120]. In patients at risk of AD, blood pressure (BP) and heartrate monitoring during the urodynamic study and other invasive procedures is mandatory [114, 121]. The rectal ampulla should be empty of stool before the start of the investigation. All urodynamic findings must be reported in detail and performed, according to the ICS technical recommendations and standards [1, 122]. In patients with SCI, first urodynamic investigation should take place as soon as possible after the critical care period in patients with SCI (within 3 months), to facilitate early diagnosis of unfavourable urodynamic parameters and timely treatment [123,124] but there is need for further research regarding the urodynamic follow-up schedule during the first year after SCI [125]. 3.3.7.b. Urodynamic tests Free uroflowmetry and assessment of residual urine: It is recommended prior to planning any invasive urodynamics that patients are able to void in the usual position. For reliable information, it should be repeated at least two to three times [1]. Possible pathological findings include a low-flow rate, low-voided volume, intermittent flow, hesitancy and PVR. Filling cystometry: This test is the only method for quantifying the patient’s filling function. The status of LUT function must be documented during the filling phase. However, this technique has limited use as a solitary procedure. It is much more effective in combination with bladder pressure measurement during micturition and is even more effective in video urodynamics. The bladder should be empty at the start of filling. A physiological filling rate should be used with body-warm saline. Possible pathological findings include neurogenic detrusor overactivity (NDO), low bladder compliance, abnormal bladder sensations, low cystometric capacity and UI. Detrusor leak point pressure [126]: Appears to have no use as a diagnostic tool. Some positive findings have been reported [66,127,128], but sensitivity is too low to estimate the risk to the UUT or for secondary bladder damage [129, 130]. Pressure flow study (or voiding cystometry): Reflects the coordination between detrusor and urethra or pelvic floor during the voiding phase. This test is even more effective when combined with filling cystometry and video urodynamics. Potential pathological findings include detrusor underactivity, acontractility, bladder outlet obstruction (BOO), DSD, a high urethral resistance and residual urine. Most types of obstruction caused by LUT disorders in neurological patients are due to DSD [131, 132], non-relaxing urethra and/or non-relaxing bladder neck [133, 134]. Pressure-flow analysis mainly assesses the amount of mechanical obstruction caused by the urethra’s inherent mechanical and anatomical properties. Electromyography (EMG): Reflects the activity of the external urethral sphincter, the periurethral striated musculature, the anal sphincter and the striated pelvic floor muscles. Correct interpretation may be difficult due to artefacts introduced by other equipment. In the urodynamic setting, an EMG is useful as a gross indication of the patient’s ability to control the pelvic floor. Possible pathological findings include inadequate recruitment upon specific stimuli (e.g. bladder filling, involuntary detrusor contractions, onset of voiding, coughing, Valsalva manoeuvre) suggesting a diagnosis of DSD [135]. Urethral pressure measurement: Has a very limited role in patient with LUT disorders. There is no consensus on parameters indicating pathological findings [136]. Video urodynamics: Is the combination of filling cystometry and pressure flow studies with imaging. It is the optimum procedure for urodynamic investigation in patients with lower urinary tract dysfunction [5]. Possible pathological findings include all those described in the filling cystometry and the pressure flow study sections, and any morphological pathology of the LUT and reflux to the UUT [137]. This type of testing may enable the determination of the cause and location of the obstruction [138]. Ambulatory urodynamics: This is the functional investigation of the urinary tract, which predominantly uses the natural filling of the urinary tract to reproduce the patient’s normal activity. Although this type of study might be considered when conventional urodynamics does not reproduce the patient’s symptoms, its role in the neurological patients must still be determined [139, 140]. ",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Urodynamic investigation is the only method that can objectively assess the function/dysfunction of the LUT.",
+              "2a"
+            ],
+            [
+              "Videourodynamics is the optimum procedure for urodynamic investigation in patients with lower urinary tract disorders.",
+              "4"
+            ],
+            [
+              "Pelvic neurophysiology testing is the only method to objectively evaluate the sacral somatic innervation and should be carried out in specialised settings.",
+              "4"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform a urodynamic investigation to detect and specify lower urinary tract function/dysfunction, use same-session repeat measurement, because it is crucial in clinical decision-making.",
+              "Strong"
+            ],
+            [
+              "Non-invasive testing is mandatory before invasive urodynamics is planned.",
+              "Strong"
+            ],
+            [
+              "Use video-urodynamics for invasive urodynamics in neurological patients. If this is not available, perform a filling cystometry, continuing into a pressure flow study.",
+              "Strong"
+            ],
+            [
+              "Use a physiological filling rate and body-warm saline.",
+              "Strong"
+            ],
+            [
+              "Perform blood pressure and heart rate monitoring during urodynamic investigation and other invasive procedures in patients at risk for autonomic dysre-flexia.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-3-8-renal-function",
+      "title": "3.3.8. Renal function",
+      "level": 4,
+      "text": "In many neurological patients with LUT disorders, the UUT is at risk, particularly in patients who develop high detrusor pressure during the filling phase. Although effective treatment can reduce this risk, there is still a relatively high incidence of renal morbidity [148, 149]. Patients with SCI or SB have a higher risk of developing renal failure compared with patients with slowly progressive non-traumatic neurological disorders, such as MS and Parkinson’s disease (PD) [150]. Caregivers must be informed of this risk and instructed to watch carefully for any signs or symptoms of a possible deterioration in the patient’s renal function. In patients with poor muscle mass cystatin C based glomerular filtration rate (GFR) seems to be more accurate in detecting chronic kidney disease than serum creatinine estimated GFR [151]. There are no high-level evidence publications available which show the optimal management to preserve renal function in these patients [152].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-4-disease-management",
+      "title": "3.4. Disease management",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-4-1-introduction",
+      "title": "3.4.1. Introduction",
+      "level": 4,
+      "text": "The primary aims for treatment of neurogenic lower urinary tract dysfunction, and their priorities, are [153, 154]: protection of the UUT; achievement (or maintenance) of urinary continence; restoration of LUT function; and improvement of the patient’s QoL. Further considerations are the patient’s disability, cognition, social support, caregiver support, cost-effectiveness, technical complexity and possible complications [154], as well as cultural and personal preferences. Historically, renal failure was the main mortality factor in SCI patients who survived the trauma [155, 156]. Keeping the detrusor pressure during both the filling and voiding phases within safe limits significantly reduces the mortality from urological causes in these patients [157-159] and has consequently become the top priority in the treatment of neurological patients with lower urinary tract dysfunction [153, 154]. In patients with high detrusor pressure during the filling phase (NDO, low bladder compliance), treatment is aimed primarily at conversion of an overactive, high-pressure bladder into a low-pressure reservoir, despite the resulting residual urine [153]. Reduction of the detrusor pressure contributes to urinary continence, and consequently to social rehabilitation and QoL. It is also critical for preventing UTIs [160, 161]. However, complete continence cannot always be obtained. Recommendations Strength rating Consider a patient’s culture and background when discussing treatment options. Strong Use a shared decision-making approach when discussing different treatment options with the patient. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Consider a patient’s culture and background when discussing treatment options.",
+              "Strong"
+            ],
+            [
+              "Use a shared decision-making approach when discussing different treatment options with the patient.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-2-non-invasive-conservative-treatment",
+      "title": "3.4.2. Non-invasive conservative treatment",
+      "level": 4,
+      "text": "3.4.2.a. Assisted bladder emptying - Credé manoeuvre, Valsalva manoeuvre, triggered reflex voiding Incomplete bladder emptying is a serious risk factor for UTI, high intravesical pressure and incontinence. Methods to improve the voiding process should therefore be practiced. Bladder expression: The downward movement of the lower abdomen by suprapubic compression (Credé) or by abdominal straining (Valsalva) leads to an increase in intravesical pressure, and generally also causes a reflex sphincter contraction [162, 163]. The latter may increase bladder outlet resistance and lead to inefficient emptying. The high pressures created during these procedures are hazardous for the urinary tract [164,165]. Therefore, their use should be discouraged, unless urodynamics show that the intravesical pressure remains within safe limits [154]. Long-term complications are unavoidable for both methods of bladder emptying [163]. The already-weak pelvic floor function may be further impaired, thus introducing or exacerbating already existing SUI [165]. Triggered reflex voiding: Stimulation of the sacral or lumbar dermatomes in patients with an upper motor neuron lesion can elicit a reflex detrusor contraction [165]. The risk of high-pressure voiding is present and interventions to decrease outlet resistance may be necessary [166]. Triggering can induce AD, particularly in patients with high-level SCI (at or above Th 6) [167]. All assisted bladder emptying techniques require low outlet resistance. Even then, high detrusor pressures may still be present. Hence, patients require dedicated education and close urodynamic and urological surveillance [165, 168, 169]. Note: In the literature, including in some of the references cited here, the concept of ‘reflex voiding’ is sometimes used to cover all three assisted voiding techniques described in this section. External appliances: Social continence can be achieved by collecting urine during incontinence, for instance, using pads. Condom catheters with urine collection devices are a practical method for men [154]. The penile clamp is absolutely contraindicated in case of NDO or low bladder compliance due to the risk of developing high intravesical pressure and pressur e sores/necrosis in cases of altered/absent sensations. 3.4.2.b. Neuro-urological rehabilitation 3.4.2.b.1. Bladder rehabilitation including electrical stimulation The term ‘bladder rehabilitation’ summarises treatment options that aim to re-establish bladder function in neurological patients with lower urinary tract symptoms. Strong contraction of the urethral sphincter and/or pelvic floor, as well as anal dilatation, manipulation of the genital region, and physical activity, inhibit micturition in a reflex manner [154, 170]. The first mechanism is affected by activation of efferent nerve fibres, and the latter ones are produced by activation of afferent fibres [129]. Electrical stimulation of the pudendal nerve afferents strongly inhibits the micturition reflex and detrusor contraction [171]. This stimulation might then support the restoration of the balance between excitatory and inhibitory inputs at the spinal or supraspinal level [154, 172]. Evidence for bladder rehabilitation using electrical stimulation in neurological patients is mainly based on small non-comparative studies with a high risk of bias. Behavioural therapy and bladder training: In patients with PD, behavioural therapy and bladder training may be considered based on randomised controlled trials (RCTs) with very limited number of patients [173, 174]. Bladder training can be more effective with the addition of non-invasive sacral magnetic stimulation in SCI patients [175]. Pelvic floor muscle training (PFMT): In patients with MS and stroke, and SCI PFMT may have positive effects on LUTS, daytime urinary frequency and UI, but the evidence is still limited [176-179]. Pelvic floor muscle training applied with telerehabilitation was shown to be an effective method on LUTS and UI in MS patients and can be alternatively considered in selected neurological patients who have problems in accessing rehabilitation services/resources [180-182]. Furthermore, transcranial stimulation can significantly enhance the beneficial effects on LUTS of PFMT in MS patients [183]. Peripheral temporary electrostimulation: Tibial nerve stimulation and transcutaneous electrical nerve stimulation (TENS) might be effective and safe for treating neurogenic LUTD, but more reliable evidence from well-designed RCTs is required to reach definitive conclusions [172, 184-190]. In post-stroke patients TENS has been shown to effectively improve urodynamic and bladder diary findings as well as QoL [191-193]. Transcutaneous and percutaneous tibial nerve home stimulation has proven to significantly improve bladder diary parameter, patient-reported outcome measures of LUT function, OAB, but not detrusor-sphincter-dyssynergia in patients with MS while its effect in PD patients is still unclear [",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Long-term efficacy and safety of antimuscarinic therapy for NDO is well documented.",
+              "1a"
+            ],
+            [
+              "Mirabegron has shown similar symptom related clinical effects compared to anti-muscarinics.",
+              "1b"
+            ],
+            [
+              "Mirabegron does not improve urodynamic parameters in NDO patients.",
+              "1a"
+            ],
+            [
+              "Maximise outcomes for NDO by considering combination therapy.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use antimuscarinics or beta-3 agonists for neurogenic overactive bladder.",
+              "Strong"
+            ],
+            [
+              "Do not use beta-3 agonists with the intention of reducing urodynamically proven neurogenic detrusor overactivity.",
+              "Strong"
+            ],
+            [
+              "Prescribe α-blockers to decrease bladder outlet resistance.",
+              "Strong"
+            ],
+            [
+              "Do not prescribe parasympathomimetics for underactive detrusor.",
+              "Strong"
+            ],
+            [
+              "Screen and monitor serum sodium when using desmopressin to manage nocturnal polyuria.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Intermittent and indwelling catheterisation are standard treatments for patients who are unable to empty their bladder.",
+              "3"
+            ],
+            [
+              "Intermittent and indwelling catheterisation are associated with a range of complications.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use a shared decision-making approach when discussing intermittent or indwelling catheterisation for patients who are unable to empty their bladder.",
+              "Strong"
+            ],
+            [
+              "Thoroughly instruct patients in the technique and risks of intermittent catheterisation.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "A significant reduction in adverse events was observed for intravesical administration of oxybutynin compared to oral administration.",
+              "1a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Offer intravesical oxybutynin to neurogenic detrusor overactivity patients with poor tolerance to the oral route.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Botulinum toxin A injections in the detrusor have been proven effective in patients with neurogenic detrusor overactivity.",
+              "1a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Use botulinum toxin A injections in the detrusor to reduce neurogenic detrusor overactivity if antimuscarinic therapy is ineffective.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-3-surgical-treatment",
+      "title": "3.4.3. Surgical treatment",
+      "level": 4,
+      "text": "There is considerable heterogeneity in outcome parameters and definitions of cure used to report on outcomes of surgical interventions for SUI in neurological patients [356]. The heterogeneity of outcome reporting makes it difficult to interpret and compare different studies and therapies. A consistent comparison of the outcomes of therapy can only be made after standardisation of outcome parameters and definitions of cure or success; therefore, it would seem prudent to develop a core outcome set (COS) for use in UI research in neurological patients [356]. Until such a COS is developed it would seem feasible to use both a subjective and objective outcome parameter and the combination of both to define cure [356]. Due to the importance of QoL for neurological patients a disease-specific QoL questionnaire or a validated bother questionnaire validated for neurological patients should be used as the subjective outcome parameter [356]. 3.4.3.a. Bladder neck and urethral procedures to improve neurogenic stress urinary incontinence Procedures to treat neurogenic SUI are suitable only when the risk for upper urinary tract deterioration and detrusor pressures can be controlled. A simultaneous therapy of bladder management may be necessary [357]. Urethral sling: Various materials have been used for this procedure, with enduring positive results. The procedure is established in women with the ability to self-catheterise [357-362]. There is growing evidence that female synthetic mid-urethral slings (MUS) can be used effectively, with acceptable medium to long-term results and minimal morbidity in neurological patients [359, 360]. Autologous pubovaginal sling is considered the procedure of choice for treating female neurogenic SUI and it should be preferred when concomitant bladder augmentation is also indicated [359]. Compared to transobturator, the retropubic route has been suggested to be more effective in women with neurogenic SUI [360]. However, for both synthetic MUS as well as autologous sling, additional bladder management may become necessary due to the risk of ‘ de novo ’ LUTS [359-361]. Complications include the need to perform IC particularly after retropubic approach, mesh erosion or extrusion requiring partial or total removal, and retropubic haematoma, and the five-year failure rate is relevant [359, 360]. In men, both autologous and synthetic slings have been investigated less frequently compared to women and mainly in patients already on IC regimen before surgery [359]. The cure rate ranged from 29–71% at a follow-up of 12–36 months. Complications included haematoma, tape infection or erosion into urethra and difficulty to perform IC [359]. Artificial urinary sphincter (AUS): This device was introduced by Light and Scott for male patients with neurogenic SUI [363]. It has stood the test of time and acceptable long-term outcomes can be obtained [364]. Implantation of AUS is the most often performed procedure for neurogenic SUI especially in men with a high success/improvement rate [359]. However, the complication and reoperation rates are higher than in non-neurogenic SUI (up to 60%), so it is advisable that patients are conscientiously informed about the success rates as well as the possible need for reintervention [365, 366]. In a case series with 25 years follow-up, only 7.1% of patients were revision free at twenty years [367]. Re-interventions are commonly due to mechanical failure, urethral atrophy or erosion and infection. There is growing interest in the use of this device with development of laparoscopic and robot-assisted approaches by means of an anterior or a posterior access to the bladder neck [368,369]. Nonetheless, careful patient selection and appropriate preoperative investigation are crucial [369]. Although from a single institution series, long-term surgical results are now available and support the potentially prominent role of AUS placement in female patients with neurogenic SUI [359,370-372]. Long-term surgical and patient-reported outcomes are needed to determine the role of AUS placement in female patients with neurogenic SUI [370]. Adjustable continence device (inflatable balloons): The efficacy of this device has been reported mainly in postprostatectomy incontinence (EAU Guidelines on Management of Non-Neurogenic Male LUTS). A similar cure and improvement rate has been reported in neurological patients when compared to non-neurological patients [373, 374]. However, it is associated with a low safety profile due to the high complication and limited device survival rate [375]. Bladder neck and urethra reconstruction: The classical Young-Dees-Leadbetter procedure [376] for bladder neck reconstruction in children with bladder exstrophy, and Kropp urethra lengthening [377] improved by Salle [378], are established methods to restore continence, provided that IC is practiced and/or bladder augmentation is performed [154, 379]. Endoscopic techniques for treating anatomic bladder outle",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Bladder augmentation is an effective option to decrease detrusor pressure and increase bladder capacity, when all less-invasive treatment methods have failed.",
+              "3"
+            ],
+            [
+              "Urethral sling placement is an established procedure, with acceptable mid- to long-term results, in women with the ability to self-catheterise.",
+              "3"
+            ],
+            [
+              "Artificial urinary sphincter insertion is the most frequently offered option to treat neurogenic SUI with acceptable long-term outcomes, in males. The complication and re-operation rates are higher in neurological patients. Therefore, patients must be adequately informed regarding the success rates as well as the complications that may occur following the procedure.",
+              "3"
+            ],
+            [
+              "Sacral neuromodulation is an effective and safe option in the treatment of selective neurogenic LUT dysfunction.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer bladder augmentation in low bladder compliance and/or refractory neurogenic detrusor overactivity.",
+              "Strong"
+            ],
+            [
+              "Place an autologous urethral sling as first-line treatment in female patients with neurogenic stress urinary incontinence (SUI) who are able to self-catheterise.",
+              "Strong"
+            ],
+            [
+              "Place a synthetic urethral sling, as an alternative to autologous urethral slings, in selected female patients with neurogenic SUI who are able to self-catheterise.",
+              "Weak"
+            ],
+            [
+              "Insert an artificial urinary sphincter in selected female patients with neurogenic SUI; however, patients should be referred to experienced centres for the procedure.",
+              "Weak"
+            ],
+            [
+              "Insert an artificial urinary sphincter in male patients with neurogenic SUI.",
+              "Strong"
+            ],
+            [
+              "Consider sacral neuromodulation in selected neurological patients.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-5-urinary-tract-infection-in-neurological-patients",
+      "title": "3.5. Urinary tract infection in neurological patients",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-5-1-epidemiology-aetiology-and-pathophysiology",
+      "title": "3.5.1. Epidemiology, aetiology and pathophysiology",
+      "level": 4,
+      "text": "Urinary tract infection is the onset of signs and/or symptoms accompanied by laboratory findings of a UTI (bacteriuria, leukocyturia and positive urine culture) [450]. There are no evidence-based cut-off values for the quantification of these findings [469]. The published consensus is that a significant bacteriuria in persons performing IC is present with > 10 2 cfu/mL, > 10 4 cfu/mL in clean-void specimens and any detectable concentration in suprapubic aspirates. Regarding leukocyturia, ten or more leukocytes in centrifuged urine samples per microscopic field (400x) are regarded as significant [450]. The pathogenesis of UTI in neurological patients is multifactorial. Male gender seems to be a risk factor for febrile and recurrent UTIs [470, 471]. Several etiological factors have been described: altered intrinsic defence mechanisms, impaired washout and catheterisation [472-475]. Poor glycaemic control has also been established as a risk factor for UTI in women with type 1 diabetes [476]. However, the exact working mechanisms remain unknown. The presence of asymptomatic bacteriuria in SCI patients is higher than in the general population and varies depending on bladder management. Prevalence of bacteriuria in those performing clean IC varies from 23 – 89% [477]. No differences in UTI frequency are found between clean IC and indwelling catheter users [291]. Sphincterotomy and condom catheter drainage has a 57% prevalence [478]. Asymptomatic bacteria should not be routinely screened for in this population [479] but a nomogram can be a helpful tool for early prediction of UTIs [480]. Patients with neurological LUTD, especially those with SCI, may have other signs and symptoms in addition to or instead of traditional signs and symptoms of a UTI in able-bodied individuals [481]. Other problems, such as AD, may develop or worsen due to a UTI [294]. The most common signs and symptoms suspicious of a UTI in neurological patients with lower urinary tract disorders are fever, new onset or increase in incontinence, including leaking around an indwelling catheter, increased spasticity, malaise, lethargy or sense of unease, cloudy urine with increased urine odour, discomfort or pain over the kidney or bladder, dysuria, or AD [294, 482]. New incontinence is the most specific symptom, whereas cloudy and foul-smelling urine has the highest positive predictive value for UTI diagnosis [483].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-5-2-diagnostic-evaluation",
+      "title": "3.5.2. Diagnostic evaluation",
+      "level": 4,
+      "text": "Urine culture and urinalysis are the optimum tests for the diagnosis of UTI in neurological patients. A dipstick test is more useful to exclude rather than to prove UTI [484, 485] and is not recommended. As bacterial strains and resistance patterns in neurological persons with LUT disorders may differ from those of able-bodied patients, microbiologic testing is mandatory [486].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-5-3-disease-management",
+      "title": "3.5.3. Disease management",
+      "level": 4,
+      "text": "Bacteriuria in neurological patients with LUT disorders should not be treated. Treatment of asymptomatic bacteriuria results in significantly more resistant bacterial strains without improving the outcome [487]. Urinary tract infections in neurological persons with LUT disorders are by definition a complicated UTI; therefore, single-dose treatment is not advised. There is no consensus in the literature about the duration of treatment as it depends on the severity of the UTI and the involvement of the kidneys and the prostate. Generally, a five to seven day course of antibiotic treatment is advised, which can be extended up to fourteen days according to the extent of the infection [487]. The choice of antibiotic therapy should be based on the results of the microbiologic testing. If immediate treatment is mandatory (e.g. fever, septicaemia, intolerable clinical symptoms, extensive AD), the choice of treatment should be based on local and individual resistance profiles, as well as on results from previous urine cultures [488]. In patients with afebrile UTI, an initial non-antibiotic treatment may be justified [489, 490]. 3.5.3.a. Recurrent urinary tract infections Recurrent UTI in neurological patients with LUT disorders may indicate suboptimal management of the underlying functional problem, e.g. high bladder pressure during storage and voiding, incomplete voiding or bladder stones. The improvement of bladder function, by treating NDO by botulinum toxin An injection in the detrusor [491], and the removal of bladder stones or other direct supporting factors – especially indwelling catheters – as early as possible, are mandatory [486]. 3.5.3.b. Prevention If the improvement of bladder function and removal of foreign bodies/stones is not successful, additional UTI prevention strategies should be utilised. In a meta-analysis the use of hydrophilic catheters was associated with a lower rate of UTI [294]. Various medical approaches have been tested for UTI prophylaxis in neurological patients with LUT disorders. The benefit of cranberry juice or probiotics for the prevention of UTI could not be demonstrated in RCTs [492, 493]. Methenamine hippurate is not effective in neurological patients with LUTS [494]. There is no sufficient evidence to support the use of L-methionine for urine acidification to prevent recurrent UTIs [495]. There is only weak evidence that oral immunotherapy reduces bacteriuria in patients with SCI [496] and that recurrent UTIs are reduced [497]. Low-dose, long-term, antibiotic prophylaxis can reduce UTI frequency, but increases bacterial resistance and is therefore not recommended [498]. Weekly cycling of antibiotic prophylaxis provided long-term positive results on reducing UTI episodes in SCI patients having recurrent UTIs [499]. Another possible future option, the inoculation of apathogenic Escherichia coli strains into the bladder, has provided positive results in initial studies, but due to the paucity of data [500], cannot be recommended as a treatment option. There is initial evidence that homeopathic treatment can decrease UTI frequency [501]. The use of daily intravesical iodine washouts shows promising results for reduction of symptomatic UTIs and hospitalisation without increasing multidrug resistance in patients with NLUTD who perform IC [502]. Other intravesical agents have also been trialled for the reduction of UTIs, both antimicrobial and non-antimicrobial. Intravesical gentamicin has been shown to reduce UTIs and oral antibiotic use, without increasing antimicrobial resistance [503]. Bladder irrigation with drinking water has been shown to reduce antibiotic use in catheter users [504]. Intravesical hyaluronic acid was also reported in this metanalysis to reduce mean number of UTIs [505]. In summary, based on the criteria of evidence-based medicine, there is currently no preventive measure for recurrent UTI in neurological patients with LUT disorders that can be recommended without limitations. Therefore, individualised concepts should be taken into consideration, including immunostimulation, phytotherapy and complementary medicine [506]. Prevention of UTIs in neurological patients with lower urinary tract disorders is important to pursue, but since there are no data favouring one approach over another, prophylaxis is essentially a trial-and-error approach.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-5-4-summary-of-evidence-and-recommendations-for-the-treatment-of-urinary-tract-infections",
+      "title": "3.5.4. Summary of evidence and recommendations for the treatment of urinary tract infections",
+      "level": 4,
+      "text": "Summary of evidence LE Treatment of asymptomatic bacteriuria results in significantly more resistant bacterial strains without improving patient outcome. 1a Low-dose, long-term, antibiotic prophylaxis can reduce UTI frequency but increases bacterial resistance. 2a Weekly cycling of antibiotic prophylaxis prevents UTI’s in neurological patients performing IC without the emergence of antibiotic resistance. 2a Recurrent UTIs in neurological patients with LUT disorders may indicate suboptimal management of the underlying functional problem. Improvement of bladder function as early as possible is mandatory. 3 Drinking water for bladder irrigation reduces catheter associated UTIs and antibiotic use. 3 Recommendations Strength rating Do not use dipstick urine analysis to screen for urinary tract infection (UTI) in neurological patients. Strong Do not screen for or treat asymptomatic bacteriuria in neurological patients with lower urinary tract dysfunction. Strong In patients with recurrent UTIs, optimise treatment of neurogenic lower urinary tract dysfunction and remove foreign bodies (e.g. stones, indwelling catheters) from the urinary tract. Strong Consider bladder irrigation with drinking water to reduce catheter associated UTIs. Weak Offer weekly cycling of antibiotic prophylaxis for select patients with SCI performing IC and recurrent UTIs. Strong Avoid the continuous use of long-term antibiotics for recurrent urinary tract infections (UTIs). Strong Individualise UTI prophylaxis in patients with neurogenic lower urinary tract dysfunction as there is no optimal prophylactic measure available. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Treatment of asymptomatic bacteriuria results in significantly more resistant bacterial strains without improving patient outcome.",
+              "1a"
+            ],
+            [
+              "Low-dose, long-term, antibiotic prophylaxis can reduce UTI frequency but increases bacterial resistance.",
+              "2a"
+            ],
+            [
+              "Weekly cycling of antibiotic prophylaxis prevents UTI’s in neurological patients performing IC without the emergence of antibiotic resistance.",
+              "2a"
+            ],
+            [
+              "Recurrent UTIs in neurological patients with LUT disorders may indicate suboptimal management of the underlying functional problem. Improvement of bladder function as early as possible is mandatory.",
+              "3"
+            ],
+            [
+              "Drinking water for bladder irrigation reduces catheter associated UTIs and antibiotic use.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Do not use dipstick urine analysis to screen for urinary tract infection (UTI) in neurological patients.",
+              "Strong"
+            ],
+            [
+              "Do not screen for or treat asymptomatic bacteriuria in neurological patients with lower urinary tract dysfunction.",
+              "Strong"
+            ],
+            [
+              "In patients with recurrent UTIs, optimise treatment of neurogenic lower urinary tract dysfunction and remove foreign bodies (e.g. stones, indwelling catheters) from the urinary tract.",
+              "Strong"
+            ],
+            [
+              "Consider bladder irrigation with drinking water to reduce catheter associated UTIs.",
+              "Weak"
+            ],
+            [
+              "Offer weekly cycling of antibiotic prophylaxis for select patients with SCI performing IC and recurrent UTIs.",
+              "Strong"
+            ],
+            [
+              "Avoid the continuous use of long-term antibiotics for recurrent urinary tract infections (UTIs).",
+              "Strong"
+            ],
+            [
+              "Individualise UTI prophylaxis in patients with neurogenic lower urinary tract dysfunction as there is no optimal prophylactic measure available.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-6-sexual-function-and-fertility",
+      "title": "3.6. Sexual function and fertility",
+      "level": 3,
+      "text": "This section specifically focuses on sexual dysfunction and infertility in patients with a neurological disease [507,508]. Non-neurogenic, male sexual dysfunction and infertility are covered in separate EAU Guidelines [509, 510]. In neurological patients sexual problems can be identified at three levels: primary (direct neurological damage), secondary (general physical disabilities), and tertiary (psychosocial and emotional issues) sexual dysfunction [511]. Adopting a systematic approach, such as the PLISSIT model (Permission, Limited Information, Specific Suggestions and Intensive Therapy) [512], provides a framework for counselling and treatment involving a stepwise approach to the management of neurogenic sexual dysfunction. Sexual dysfunction is associated with neurogenic LUT dysfunction in patients with MS [513] and SB [514]. Patient-reported nonmotor outcomes, such as sexual and bladder dysfunction, are common after stroke [515]. Although various PROMs are available to evaluate sexual function, the evidence for good PROMs is limited and studies with high methodological quality are needed [93].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-6-1-erectile-dysfunction",
+      "title": "3.6.1. Erectile dysfunction",
+      "level": 4,
+      "text": "3.6.1.a. Phosphodiesterase type 5 inhibitors Phosphodiesterase type 5 inhibitors (PDE5Is) are recommended as first-line treatment in neurogenic ED [507, 508]. In SCI patients, tadalafil, vardenafil and sildenafil have all improved retrograde ejaculation and improved erectile function and satisfaction on IIEF-15. Tadalafil 10mg was shown to be more effective than sildenafil 50 mg. All currently available PDE5Is appear to be effective and safe, although there are no high-level evidence studies in neurological patients investigating the efficacy and side effects across different PDE5Is, dosages and formulations [516]. For MS patients two studies reported significant improvement in ED when using sildenafil and tadalafil [508, 517] however, another study showed no improvement in ED with sildenafil [518]. One study found a significant improvement in ED in SB patients when using sildenafil [519]. In PD normal erectile function was described in over half of the patients using sildenafil 100 mg and a significant improvement in IIEF-15 score was found compared to placebo. While most neurological patients require long-term therapy for ED some have a low compliance rate or stop therapy because of side effects [520, 521], most commonly headache and flushing [508]. In addition, PDE5Is may induce relevant hypotension in patients with tetraplegia/high-level paraplegia and multiple system atrophy [520, 521]. As a prerequisite for successful PDE5I-therapy, some residual nerve function is required to induce erection. Since many patients with SCI use on-demand nitrates for the treatment of AD, they must be counselled that PDE5Is are contraindicated when using nitrate medication. 3.6.1.b. Drug therapy other than phosphodiesterase type 5 inhibitors Fampridine to treat neurogenic spasticity has been shown to be beneficial in improving ED in two domains of the IIEF-15 in SCI and MS patients, however, with a significant discontinuation rate due to severe adverse events [522]. Sublingual apomorphine was shown to have poor results on ED in SCI patients and side-effects in half of the patients [523]. In PD, pergolide mesylate showed a significant improvement in IIEF-15 scores up to twelve months follow-up [524]. 3.6.1.c. Mechanical devices Mechanical devices (vacuum tumescence devices and penile rings) may be effective but are less popular [525-529]. 3.6.1.d. Intracavernous injections and intraurethral applicationn Patients not responding to oral drugs may be offered intracavernous injections (alprostadil, papaverine and phentolamine) that have been shown to be effective in a number of neurological conditions, including SCI, MS, and diabetes mellitus [530-536], but their use requires careful dose titration and some precautions. Complications of intracavernous drugs include pain, priapism and corpora cavernosa fibrosis. Intracavernous vasoactive drug injection is the first-line therapeutic option in patients taking nitrate medications, as well as those with concerns about drug interactions with PDE5Is, or in whom PDE5Is are ineffective. The impact of intracavernous injections on ejaculation and orgasmic function, their early use for increasing the recovery rate of a spontaneous erection, and their effectiveness and tolerability in the long-term are unclear [520]. Intra-urethral alprostadil application is an alternative, but less effective, route of administration [532, 537]. 3.6.1.e. Electrical stimulation Non-invasive electrical stimulation and sacral neuromodulation for LUT dysfunction may improve sexual function; however, high-level evidence studies are lacking. 3.6.1.f. Penile prostheses Penile prostheses may be considered for treatment of neurogenic ED when all conservative treatments have failed. At a mean follow-up of seven years, 83.7% of patients with SCI were able to have sexual intercourse [508]. Serious complications, including infection and prosthesis perforation, may occur in about 10% of patients, depending on implant type [538-540]. 3.6.1.g. Summary of evidence and recommendations for erectile dysfunction Summary of evidence LE The long-term efficacy and safety of oral PDE5Is for the treatment of ED is well documented. 1b Intracavernous vasoactive drug injections have been shown to be effective in a number of neurological conditions, including SCI and MS; however, their use requires careful dose titration and precautions. 3 Mechanical devices (vacuum tumescence devices and penile rings) may be effective but are less popular. 3 Reserve penile prostheses for selected patients, those in which all conservative treatments have failed, with neurogenic ED. 4 Recommendations Strength rating Prescribe oral phosphodiesterase type 5 inhibitors as first-line medical treatment in neurogenic erectile dysfunction (ED). Strong Give intracavernous injections of vasoactive drugs (alone or in combination) as second-line medical treatment in neurogenic ED. Strong Offer mechanical devices such as vacuum devices and rings to patients with ne",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "The long-term efficacy and safety of oral PDE5Is for the treatment of ED is well documented.",
+              "1b"
+            ],
+            [
+              "Intracavernous vasoactive drug injections have been shown to be effective in a number of neurological conditions, including SCI and MS; however, their use requires careful dose titration and precautions.",
+              "3"
+            ],
+            [
+              "Mechanical devices (vacuum tumescence devices and penile rings) may be effective but are less popular.",
+              "3"
+            ],
+            [
+              "Reserve penile prostheses for selected patients, those in which all conservative treatments have failed, with neurogenic ED.",
+              "4"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Prescribe oral phosphodiesterase type 5 inhibitors as first-line medical treatment in neurogenic erectile dysfunction (ED).",
+              "Strong"
+            ],
+            [
+              "Give intracavernous injections of vasoactive drugs (alone or in combination) as second-line medical treatment in neurogenic ED.",
+              "Strong"
+            ],
+            [
+              "Offer mechanical devices such as vacuum devices and rings to patients with neurogenic ED.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-6-2-male-fertility",
+      "title": "3.6.2. Male fertility",
+      "level": 4,
+      "text": "Male fertility can be compromised in the neurological patient by ED, ejaculation disorder, impaired sperm quality or various combinations of these three disorders. Among the major conditions contributing to neurogenic infertility are pelvic and retroperitoneal surgery, diabetes mellitus, SB, MS and SCI [541]. Erectile dysfunction is managed as described previously. Retrograde ejaculation may be reversed by sympathomimetic agents contracting the bladder neck, including imipramine, ephedrine, pseudoephedrine and phenylpropanolamine [541]. The use of a balloon catheter to obstruct the bladder neck may be effective in obtaining antegrade ejaculation [542]. If antegrade ejaculation is not achieved, the harvest of semen from the urine can be considered [543]. Prostatic massage is safe and easy to use for obtaining semen in men with lesions above Th 10 [544]. In some patients, vibrostimulation or transrectal electroejaculation are needed for sperm retrieval [541, 545, 546]. Semen retrieval is more likely with vibrostimulation in men with lesions above Th 10 [547-549]. In men with SCI, particularly at or above Th 6, AD might occur during sexual activity and ejaculation [550,551]. Patients at risk and fertility clinics must be informed and aware of this potentially life-threatening condition. In SCI patients, the use of oral midodrine can improve sperm retrieval at vibrostimulation [552]. In men with MS, the use of disease-modifying drugs during the conception phase has not been associated with altered pregnancy outcomes [553]. Surgical procedures such as microsurgical epididymal sperm aspiration or testicular sperm extraction can be used if vibrostimulation and electroejaculation are unsuccessful [554, 555]. Pregnancy rates in patients with SCI are lower than in the general population, but since the introduction of intracytoplasmic sperm injection, men with SCI now have a good chance of becoming biological fathers [556-558]. 3.6.2.a. Sperm quality and motility The following has been reported on sperm quality and motility: bladder management with clean IC may improve semen quality compared to indwelling catheterisation, reflex voiding or bladder expression [559]; in SCI patients, sperm quality decreases at the early post traumatic phase, demonstrating lower spermatozoid vitality (necrospermia), reduced motility (asthenospermia) and leucospermia [554]; long-term valproate treatment for epilepsy negatively influences sperm count and motility [560]; vibrostimulation produces samples with better sperm motility than electrostimulation [561, 562]; electroejaculation with interrupted current produces better sperm motility than continuous current [563]; and freezing of sperm is unlikely to improve fertility rates in men with SCI [564]. 3.6.2.b. Summary of evidence and recommendations for male fertility Summary of evidence LE Vibrostimulation and transrectal electroejaculation have been shown to be effective for sperm retrieval in neurological patients. 1b Surgical procedures such as microsurgical epididymal sperm aspiration or testicular sperm extraction can be used if vibrostimulation and electroejaculation are unsuccessful. 3 In men with SCI at or above Th 6, AD might occur during sexual activity and ejaculation. 3 Recommendations Strength rating Perform vibrostimulation and transrectal electroejaculation for sperm retrieval in men with spinal cord injury. Strong Perform microsurgical epididymal sperm aspiration, testicular sperm extraction and intracytoplasmic sperm injection after failed vibrostimulation and/or transrectal electroejaculation in men with spinal cord injury. Strong Counsel men with spinal cord injury at or above Th 6 and fertility clinics regarding the potentially life-threatening condition of autonomic dysreflexia. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Vibrostimulation and transrectal electroejaculation have been shown to be effective for sperm retrieval in neurological patients.",
+              "1b"
+            ],
+            [
+              "Surgical procedures such as microsurgical epididymal sperm aspiration or testicular sperm extraction can be used if vibrostimulation and electroejaculation are unsuccessful.",
+              "3"
+            ],
+            [
+              "In men with SCI at or above Th 6, AD might occur during sexual activity and ejaculation.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform vibrostimulation and transrectal electroejaculation for sperm retrieval in men with spinal cord injury.",
+              "Strong"
+            ],
+            [
+              "Perform microsurgical epididymal sperm aspiration, testicular sperm extraction and intracytoplasmic sperm injection after failed vibrostimulation and/or transrectal electroejaculation in men with spinal cord injury.",
+              "Strong"
+            ],
+            [
+              "Counsel men with spinal cord injury at or above Th 6 and fertility clinics regarding the potentially life-threatening condition of autonomic dysreflexia.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-6-3-female-sexuality",
+      "title": "3.6.3. Female sexuality",
+      "level": 4,
+      "text": "The most relevant publications on neurogenic female sexual dysfunction are in women with SCI and MS, while only limited evidence is available for women with stroke and SB. After SCI, approximately 65 – 80% of women continue to be sexually active, but to a much lesser extent than before the injury, and approximately 25% of women report decreased satisfaction with their sexual life [565-567]. Although sexual dysfunction is very common in women with MS, it is still often overlooked by medical professionals [568, 569]. A vast majority of female SB patients showed sexual dysfunction [570] and considered information about sexuality from their physicians insufficient [571]. Women with SCI reported dissatisfaction with the quality and quantity of sexuality-related rehabilitation services and were less likely to receive sexual information than men [572-574]. Similarly, a majority of female stroke patients are not sexually satisfied [575]. The greatest physical barrier to sexual activity is UI. A correlation has been found between the urodynamic outcomes of low bladder capacity, compliance and high maximum detrusor pressure and sexual dysfunction in MS patients. Problems with positioning and spasticity affect mainly tetraplegic patients. Peer support may help to optimise the sexual adjustment of women with SCI in achieving a more positive self-image, self-esteem and feelings of being attractive to themselves and others [565, 576-578]. The use of specific drugs for sexual dysfunction is indicated to treat inadequate lubrication. Data on sildenafil for treating female sexual dysfunction are poor and controversial [508]. Although high quality evidence exists that psychological interventions are effective in the treatment of female hypoactive sexual desire disorder and female orgasmic disorder [579], there is a lack of high-level evidence studies in the neurological population. Neurophysiological studies have shown that women with the ability to perceive Th 11-L2 pin-prick sensations may have psychogenic genital vasocongestion. Reflex lubrication and orgasm are more prevalent in women with SCI who have preserved the sacral reflex arc (S2 – S5), even if it has not been shown in an individual woman that a specific level and degree of lesion is the cause of a particular sexual dysfunction. In SCI women with a complete lesion of the sacral reflex, arousal and orgasm may be evoked through stimulation of other erogenous zones above the level of lesions [572, 580, 581]. Sacral neuromodulation for LUT dysfunction may improve sexual function, but high-evidence studies are lacking [508].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-6-4-female-fertility",
+      "title": "3.6.4. Female fertility",
+      "level": 4,
+      "text": "There are few studies on female fertility in neurological patients. More than a third (38%) of women with epilepsy had infertility and the relevant predictors were exposure to multiple (three or more) antiepileptic drugs, older age and lower education [582]. Although it appears that the reproductive capacity of women with SCI is only temporarily affected by SCI with cessation of menstruation for approximately six months after SCI [583], there are no high-level evidence studies. Approximately 70% of sexually active women use some form of contraception after injury, but fewer women use the birth control pill compared to before their injury [584]. Women with SCI are more likely to suffer complications during pregnancy, labour and delivery compared to women without disabilities. Complications of labour and delivery include bladder problems, spasticity, pressure sores, anaemia and AD [585-589]. Obstetric outcomes include higher rates of caesarean sections and an increased incidence of low birth-weight babies [584, 587-589]. Epidural anaesthesia is chosen and effective for most patients with AD during labour and delivery [590, 591]. There is very little published data on women’s experience of the menopause following SCI [592]. Women with MS who plan a pregnancy should evaluate their current drug treatment with their treating physician [593-595]. Clinical management should be individualised to optimise both the mother’s reproductive outcomes and MS course [593,594,596]. 3.6.4.a. Summary of evidence and recommendation for female sexuality and fertility Summary of evidence LE Data on specific drugs for treating female sexual dysfunction are poor and controversial. 4 There are limited numbers of studies on female fertility in neurological patients, clinical management should be individualised to optimise both the mother’s reproductive outcomes and medical condition. 4 Recommendations Strength rating Do not offer medical therapy for the treatment of neurogenic sexual dysfunction in women. Strong Take a multidisciplinary approach, tailored to individual patient’s needs and preferences in the management of fertility, pregnancy and delivery in women with neurological diseases. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Data on specific drugs for treating female sexual dysfunction are poor and controversial.",
+              "4"
+            ],
+            [
+              "There are limited numbers of studies on female fertility in neurological patients, clinical management should be individualised to optimise both the mother’s reproductive outcomes and medical condition.",
+              "4"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Do not offer medical therapy for the treatment of neurogenic sexual dysfunction in women.",
+              "Strong"
+            ],
+            [
+              "Take a multidisciplinary approach, tailored to individual patient’s needs and preferences in the management of fertility, pregnancy and delivery in women with neurological diseases.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-7-follow-up",
+      "title": "3.7. Follow-up",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-7-1-introduction",
+      "title": "3.7.1. Introduction",
+      "level": 4,
+      "text": "Neurological disorders are often unstable and the symptoms may vary considerably, even within a relatively brief period. Regular follow-up is therefore necessary to assess the UUT [152]. Depending on the type of underlying neurological pathology and the current stability of the LUTS, the interval between initial investigations and control diagnostics may vary based on the patient’s condition and treatment plan, and in many cases, should not exceed one to two years. In high-risk neurological patients, this interval should be much shorter. The UUT should be checked by means of ultrasonography at regular intervals in high-risk patients approximately once every six months [6, 597]. In these patients, physical examination and urine laboratory should be carried out every year [6, 597]. Urodynamic investigation should be performed as a diagnostic baseline and repeated during follow-up to monitor N-LUTD and estimate the risk of UUT [6, 597, 598]. Predicting validated nomograms including medical history, clinical examination, bladder diary and imaging surveillance can aid in detecting who require urodynamics or further investigations [599-602]. In addition, bladder wall thickness can be measured on ultrasonography as an additional risk assessment for upper tract damage [603], although a ‘safe’ cut-off threshold for this has not been agreed upon [604]. The utility of DMSA (dimercaptosuccinic acid) for follow-up of neurological patients has not been fully evaluated [605]. Any significant clinical change warrants further, specialised investigation [6, 597]. However, there is a lack of high-level evidence studies on this topic and every recommendation must be viewed critically in each neurological patient [152]. Adherence is an important, patient-related barrier in follow-up. Establishing a long-term accessible multidisciplinary team, raising the level of knowledge about N-LUTD, implementing the patients’ empowerment, and promoting active surveillance programs can improve long-term compliance [600, 606, 607]. The increased prevalence of muscle invasive bladder cancer in neurological patients also warrants long-term follow-up [312]. The exact frequency of cystoscopy with or without cytology remains unknown, but presence of risk factors similar to the general population should trigger further investigation [600]. Adolescent patients with neurological pathology are at risk of being lost to follow-up during the transition to adulthood. It is important that a standardised approach during this transition be adopted to improve follow-up and specific treatment during adult life [608].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-7-2-summary-of-evidence-and-recommendations-for-follow-up",
+      "title": "3.7.2. Summary of evidence and recommendations for follow-up",
+      "level": 4,
+      "text": "Summary of evidence LE Lower urinary tract disorders in neurological patients are often unstable, and the symptoms may vary considerably. Regular follow-up is therefore required. 4 Urodynamics identifies patients at risk of UUT damage. 3b Clinical history, diagnostic investigations and validated predictive models help stratifying the patients at risk of developing complications. 4 Tailored clinical guidance and scheduled active follow-ups improve self-management ability, and QoL. 2b Recommendations Strength rating Assess the upper urinary tract at regular intervals in high-risk patients. Strong Any significant clinical changes should instigate further, specialised investigation. Strong Perform urodynamic investigation as a mandatory baseline diagnostic intervention in high-risk patients at regular intervals. Strong Individualise follow-up programs according to the patient’s risk and treatment plan. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Lower urinary tract disorders in neurological patients are often unstable, and the symptoms may vary considerably. Regular follow-up is therefore required.",
+              "4"
+            ],
+            [
+              "Urodynamics identifies patients at risk of UUT damage.",
+              "3b"
+            ],
+            [
+              "Clinical history, diagnostic investigations and validated predictive models help stratifying the patients at risk of developing complications.",
+              "4"
+            ],
+            [
+              "Tailored clinical guidance and scheduled active follow-ups improve self-management ability, and QoL.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Assess the upper urinary tract at regular intervals in high-risk patients.",
+              "Strong"
+            ],
+            [
+              "Any significant clinical changes should instigate further, specialised investigation.",
+              "Strong"
+            ],
+            [
+              "Perform urodynamic investigation as a mandatory baseline diagnostic intervention in high-risk patients at regular intervals.",
+              "Strong"
+            ],
+            [
+              "Individualise follow-up programs according to the patient’s risk and treatment plan.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-8-conclusions",
+      "title": "3.8. Conclusions",
+      "level": 3,
+      "text": "Lower urinary tract disorders in neurological patients have a multifaceted pathology. They require an extensive and specific diagnosis before one can embark on an individualised therapy that takes into account the patient’s medical and physical condition and the patient’s expectations regarding their future. The urologist can select from a wealth of therapeutic options, each with its own advantages and disadvantages. Notwithstanding the success of any therapy embarked upon, close surveillance is required throughout the patient’s entire life. These Guidelines offer expert advice on how to define the neurological patient’s LUTS as precisely as possible and how to select, together with the patient, the appropriate therapy. As always, the choice of appropriate therapy is governed by the golden rule: ‘As effective as needed, as non-invasive as possible.’",
+      "tables": []
+    },
+    {
+      "anchor": "#3-8-1-neurological-patients-perspective-on-lower-urinary-tract-dysfunction-diagnosis-and-management",
+      "title": "3.8.1. Neurological Patients perspective on lower urinary tract dysfunction diagnosis and management",
+      "level": 4,
+      "text": "There is a genuine need for first-hand, reliable information regarding the state of their disease, and patients often use the Internet as a source of information due to the sensitivity of the topic and ease of access. However, the available information is not always accurate, and reliable content in a patient’s native language is needed [609]. The panel patient representatives recommend the development of these resources considering the various needs of patients.",
+      "tables": []
+    }
+  ],
+  "tables_count": 29
+}

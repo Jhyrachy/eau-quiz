@@ -1,0 +1,574 @@
+{
+  "guideline": "urolithiasis",
+  "chapter": "followup-of-urinary-stones",
+  "url": "https://uroweb.org/guidelines/urolithiasis/chapter/followup-of-urinary-stones",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODOLOGY",
+      "anchor": "#2-methodology"
+    },
+    {
+      "level": 3,
+      "text": "2.1 Methods",
+      "anchor": "#2-1-methods"
+    },
+    {
+      "level": 2,
+      "text": "3. GUIDELINES",
+      "anchor": "#3-guidelines"
+    },
+    {
+      "level": 3,
+      "text": "3.1.3.1 Prevalence, aetiology, risk of recurrence",
+      "anchor": "#3-1-3-1-prevalence-aetiology-risk-of-recurrence"
+    },
+    {
+      "level": 4,
+      "text": "3.1.1. Introduction",
+      "anchor": "#3-1-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "3.1.2. Stone composition",
+      "anchor": "#3-1-2-stone-composition"
+    },
+    {
+      "level": 4,
+      "text": "3.1.3. Risk groups for stone formation",
+      "anchor": "#3-1-3-risk-groups-for-stone-formation"
+    },
+    {
+      "level": 4,
+      "text": "3.1.4. Genetic factors and testing",
+      "anchor": "#3-1-4-genetic-factors-and-testing"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Classification of stones",
+      "anchor": "#3-2-classification-of-stones"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Stone size",
+      "anchor": "#3-2-1-stone-size"
+    },
+    {
+      "level": 4,
+      "text": "3.2.2. Stone location",
+      "anchor": "#3-2-2-stone-location"
+    },
+    {
+      "level": 4,
+      "text": "3.2.3. X-ray characteristics",
+      "anchor": "#3-2-3-x-ray-characteristics"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Diagnostic evaluation",
+      "anchor": "#3-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Diagnostic imaging",
+      "anchor": "#3-3-1-diagnostic-imaging"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Diagnostics: metabolism-related",
+      "anchor": "#3-3-2-diagnostics-metabolism-related"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Diagnosis in special groups and conditions",
+      "anchor": "#3-3-3-diagnosis-in-special-groups-and-conditions"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Disease management",
+      "anchor": "#3-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Renal colic",
+      "anchor": "#3-4-1-renal-colic"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Medical expulsive therapy",
+      "anchor": "#3-4-3-medical-expulsive-therapy"
+    },
+    {
+      "level": 4,
+      "text": "3.4.4. Chemolysis",
+      "anchor": "#3-4-4-chemolysis"
+    },
+    {
+      "level": 4,
+      "text": "3.4.5. Extracorporeal shock wave lithotripsy (SWL)",
+      "anchor": "#3-4-5-extracorporeal-shock-wave-lithotripsy-swl"
+    },
+    {
+      "level": 4,
+      "text": "3.4.6. Ureteroscopy (retrograde and antegrade)",
+      "anchor": "#3-4-6-ureteroscopy-retrograde-and-antegrade"
+    },
+    {
+      "level": 4,
+      "text": "3.4.7. Percutaneous nephrolithotomy",
+      "anchor": "#3-4-7-percutaneous-nephrolithotomy"
+    },
+    {
+      "level": 4,
+      "text": "3.4.8. General recommendations and precautions for stone removal",
+      "anchor": "#3-4-8-general-recommendations-and-precautions-for-stone-removal"
+    },
+    {
+      "level": 4,
+      "text": "3.4.9. Specific stone management of ureteral stones",
+      "anchor": "#3-4-9-specific-stone-management-of-ureteral-stones"
+    },
+    {
+      "level": 4,
+      "text": "3.4.10. Specific stone management of renal stones",
+      "anchor": "#3-4-10-specific-stone-management-of-renal-stones"
+    },
+    {
+      "level": 4,
+      "text": "3.4.11. Laparoscopy and open surgery",
+      "anchor": "#3-4-11-laparoscopy-and-open-surgery"
+    },
+    {
+      "level": 4,
+      "text": "3.4.12. Steinstrasse",
+      "anchor": "#3-4-12-steinstrasse"
+    },
+    {
+      "level": 4,
+      "text": "3.4.13. Management of patients with residual stones",
+      "anchor": "#3-4-13-management-of-patients-with-residual-stones"
+    },
+    {
+      "level": 4,
+      "text": "3.4.14. Management of specific patient groups",
+      "anchor": "#3-4-14-management-of-specific-patient-groups"
+    },
+    {
+      "level": 4,
+      "text": "3.4.15. Management of stones in children",
+      "anchor": "#3-4-15-management-of-stones-in-children"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Radiation exposure and protection during endourology",
+      "anchor": "#3-5-radiation-exposure-and-protection-during-endourology"
+    },
+    {
+      "level": 2,
+      "text": "4. METABOLIC EVALUATION AND RECURRENCE PREVENTION",
+      "anchor": "#4-metabolic-evaluation-and-recurrence-prevention"
+    },
+    {
+      "level": 3,
+      "text": "4.1. General metabolic considerations for patient work-up",
+      "anchor": "#4-1-general-metabolic-considerations-for-patient-work-up"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. Evaluation of patient risk",
+      "anchor": "#4-1-1-evaluation-of-patient-risk"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. Urine sampling",
+      "anchor": "#4-1-2-urine-sampling"
+    },
+    {
+      "level": 4,
+      "text": "4.1.3. Timing of specific metabolic work-up",
+      "anchor": "#4-1-3-timing-of-specific-metabolic-work-up"
+    },
+    {
+      "level": 4,
+      "text": "4.1.4. Reference ranges of laboratory values",
+      "anchor": "#4-1-4-reference-ranges-of-laboratory-values"
+    },
+    {
+      "level": 4,
+      "text": "4.1.5. Risk indices and additional diagnostic tools",
+      "anchor": "#4-1-5-risk-indices-and-additional-diagnostic-tools"
+    },
+    {
+      "level": 3,
+      "text": "4.2. General considerations for recurrence prevention",
+      "anchor": "#4-2-general-considerations-for-recurrence-prevention"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. Fluid intake",
+      "anchor": "#4-2-1-fluid-intake"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. Diet",
+      "anchor": "#4-2-2-diet"
+    },
+    {
+      "level": 4,
+      "text": "4.2.3. Lifestyle",
+      "anchor": "#4-2-3-lifestyle"
+    },
+    {
+      "level": 4,
+      "text": "4.2.4. Summary of evidence and recommendation for recurrence prevention",
+      "anchor": "#4-2-4-summary-of-evidence-and-recommendation-for-recurrence-prevention"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Stone-specific metabolic evaluation and pharmacological recurrence prevention",
+      "anchor": "#4-3-stone-specific-metabolic-evaluation-and-pharmacological-recurrence-prevention"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. Introduction",
+      "anchor": "#4-3-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Calcium oxalate stones",
+      "anchor": "#4-4-calcium-oxalate-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Diagnosis",
+      "anchor": "#4-4-1-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Interpretation of results and aetiology",
+      "anchor": "#4-4-2-interpretation-of-results-and-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "4.4.3. Specific treatment",
+      "anchor": "#4-4-3-specific-treatment"
+    },
+    {
+      "level": 4,
+      "text": "4.4.4. Summary of evidence and recommendations for pharmacological treatments for patients with specific abnormalities in urine composition (based on 24-hour urine samples)",
+      "anchor": "#4-4-4-summary-of-evidence-and-recommendations-for-pharmacological-treatments-for-patients-with-specific-abnormalities-in-urine-composition-based-on-24-hour-urine-samples"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Calcium phosphate stones [649, 679, 687, 700, 701, 705, 724]",
+      "anchor": "#4-5-calcium-phosphate-stones-649-679-687-700-701-705-724"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Diagnosis",
+      "anchor": "#4-5-1-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Interpretation of results and aetiology",
+      "anchor": "#4-5-2-interpretation-of-results-and-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Pharmacological therapy [649,679,687,700,701,705,724]",
+      "anchor": "#4-5-3-pharmacological-therapy-649679687700701705724"
+    },
+    {
+      "level": 4,
+      "text": "4.5.4. Summary of evidence and recommendation for the management of calcium phosphate stones",
+      "anchor": "#4-5-4-summary-of-evidence-and-recommendation-for-the-management-of-calcium-phosphate-stones"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Disorders and diseases related to calcium stones",
+      "anchor": "#4-6-disorders-and-diseases-related-to-calcium-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.6.1. Hyperparathyroidism [725-730]",
+      "anchor": "#4-6-1-hyperparathyroidism-725-730"
+    },
+    {
+      "level": 4,
+      "text": "4.6.2. Granulomatous Diseases [732]",
+      "anchor": "#4-6-2-granulomatous-diseases-732"
+    },
+    {
+      "level": 4,
+      "text": "4.6.3. Primary Hyperoxaluria [692]",
+      "anchor": "#4-6-3-primary-hyperoxaluria-692"
+    },
+    {
+      "level": 4,
+      "text": "4.6.4. Enteric hyperoxaluria [667,672,736-738]",
+      "anchor": "#4-6-4-enteric-hyperoxaluria-667672736-738"
+    },
+    {
+      "level": 4,
+      "text": "4.6.5. Renal tubular acidosis [649,687,739,740]",
+      "anchor": "#4-6-5-renal-tubular-acidosis-649687739740"
+    },
+    {
+      "level": 4,
+      "text": "4.6.6. Nephrocalcinosis [742]",
+      "anchor": "#4-6-6-nephrocalcinosis-742"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Uric acid and ammonium urate stones",
+      "anchor": "#4-7-uric-acid-and-ammonium-urate-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.7.1. Diagnosis",
+      "anchor": "#4-7-1-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.7.2. Interpretation of results",
+      "anchor": "#4-7-2-interpretation-of-results"
+    },
+    {
+      "level": 4,
+      "text": "4.7.3. Specific treatment",
+      "anchor": "#4-7-3-specific-treatment"
+    },
+    {
+      "level": 4,
+      "text": "4.7.4. Summary of evidence and recommendations for the management of uric acid and ammonium urate stones",
+      "anchor": "#4-7-4-summary-of-evidence-and-recommendations-for-the-management-of-uric-acid-and-ammonium-urate-stones"
+    },
+    {
+      "level": 3,
+      "text": "4.8. Struvite and infection stones",
+      "anchor": "#4-8-struvite-and-infection-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.8.1. Diagnosis",
+      "anchor": "#4-8-1-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.8.2. Interpretation",
+      "anchor": "#4-8-2-interpretation"
+    },
+    {
+      "level": 4,
+      "text": "4.8.3. Specific treatment",
+      "anchor": "#4-8-3-specific-treatment"
+    },
+    {
+      "level": 3,
+      "text": "4.9. Cystine stones",
+      "anchor": "#4-9-cystine-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.9.1. Diagnosis",
+      "anchor": "#4-9-1-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.9.2. Specific treatment",
+      "anchor": "#4-9-2-specific-treatment"
+    },
+    {
+      "level": 4,
+      "text": "4.9.3. Summary of evidence and recommendations for the management of cystine stones",
+      "anchor": "#4-9-3-summary-of-evidence-and-recommendations-for-the-management-of-cystine-stones"
+    },
+    {
+      "level": 3,
+      "text": "4.10.2,8-Dihydroxyadenine stones and xanthine stones",
+      "anchor": "#4-10-28-dihydroxyadenine-stones-and-xanthine-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.10.1.2,8-Dihydroxyadenine stones",
+      "anchor": "#4-10-1-28-dihydroxyadenine-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.10.2. Xanthine stones",
+      "anchor": "#4-10-2-xanthine-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.10.3. Fluid intake and diet",
+      "anchor": "#4-10-3-fluid-intake-and-diet"
+    },
+    {
+      "level": 3,
+      "text": "4.11. Drug-induced stones",
+      "anchor": "#4-11-drug-induced-stones"
+    },
+    {
+      "level": 3,
+      "text": "4.12. Matrix stones",
+      "anchor": "#4-12-matrix-stones"
+    },
+    {
+      "level": 3,
+      "text": "4.13. Unknown stone composition [16]",
+      "anchor": "#4-13-unknown-stone-composition-16"
+    },
+    {
+      "level": 4,
+      "text": "4.13.1. Recommendations for investigations for the assessment of patients with stones of unknown composition [17,23,76,679]",
+      "anchor": "#4-13-1-recommendations-for-investigations-for-the-assessment-of-patients-with-stones-of-unknown-composition-172376679"
+    },
+    {
+      "level": 2,
+      "text": "5. FOLLOW UP OF URINARY STONES",
+      "anchor": "#5-follow-up-of-urinary-stones"
+    },
+    {
+      "level": 2,
+      "text": "6. BLADDER STONES",
+      "anchor": "#6-bladder-stones"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Prevalence, aetiology and risk factors of bladder stones",
+      "anchor": "#6-1-prevalence-aetiology-and-risk-factors-of-bladder-stones"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Presentation",
+      "anchor": "#6-2-presentation"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Diagnostic evaluation",
+      "anchor": "#6-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. Diagnostic investigations for bladder stones",
+      "anchor": "#6-3-1-diagnostic-investigations-for-bladder-stones"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Diagnosing the cause of bladder stones",
+      "anchor": "#6-3-2-diagnosing-the-cause-of-bladder-stones"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Disease management",
+      "anchor": "#6-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Conservative treatment and indications for active stone removal",
+      "anchor": "#6-4-1-conservative-treatment-and-indications-for-active-stone-removal"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Medical management of bladder stones",
+      "anchor": "#6-4-2-medical-management-of-bladder-stones"
+    },
+    {
+      "level": 4,
+      "text": "6.4.3. Bladder stone interventions",
+      "anchor": "#6-4-3-bladder-stone-interventions"
+    },
+    {
+      "level": 4,
+      "text": "6.4.4. Treatment for bladder stones secondary to bladder outlet obstruction in adult men",
+      "anchor": "#6-4-4-treatment-for-bladder-stones-secondary-to-bladder-outlet-obstruction-in-adult-men"
+    },
+    {
+      "level": 4,
+      "text": "6.4.5. Special situations",
+      "anchor": "#6-4-5-special-situations"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Bladder stones follow-up",
+      "anchor": "#6-5-bladder-stones-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Summary of evidence and recommendations for the treatment of bladder stones",
+      "anchor": "#6-6-summary-of-evidence-and-recommendations-for-the-treatment-of-bladder-stones"
+    },
+    {
+      "level": 2,
+      "text": "7. REFERENCES",
+      "anchor": "#7-references"
+    },
+    {
+      "level": 2,
+      "text": "8. CONFLICT OF INTEREST",
+      "anchor": "#8-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "9. CITATION INFORMATION",
+      "anchor": "#9-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "10. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#10-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#urolithiasis",
+      "title": "Urolithiasis",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 5. Follow Up Of Urinary Stones Introduction Methodology Guidelines Metabolic Evaluation And Recurrence Prevention Follow Up Of Urinary Stones Bladder Stones References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#5-follow-up-of-urinary-stones",
+      "title": "5. FOLLOW UP OF URINARY STONES",
+      "level": 2,
+      "text": "There is no consensus in the urological literature on whether, when, how or the frequency with which stone patients should be followed up after definitive treatment (extracorporeal SWL, URS, PCNL, medical chemoprophylaxis). This is mainly attributed to the high heterogeneity of stone disease among patients and to the lack of comparative studies regarding follow-up versus no follow-up. The EAU Urolithiasis Guidelines Panel performed a systematic review questioning the benefits and harms of scheduled imaging and metabolic follow-up for patients who underwent definitive treatment for upper urinary tract stone disease [490]. Based on the results a consensus was reached regarding the frequency of the follow-up for stone-free patients (the general population and the high-risk patients), patients with residual fragments ≤ 4mm, and patients with residual fragments > 4mm (Figures 5.1 and 5.2). Stone-free patients could be discharged after two years (radiopaque stones) or after three years (radiolucent stones) as 80% of them will remain stone-free thereafter. Increasing the safety margin for remaining stone-free up to 90%, the patients should be followed up to five years. Most stone-free patients in the general population remained stone-free during the first year, while < 40% of patients with metabolic abnormalities not on medication remained stone-free after three years of follow-up. Therefore, a more extensive follow-up is proposed for patients with metabolic abnormalities. Patients with fragments ≤ 4mm showed a spontaneous expulsion rate of 17.9–46.5% during the first year. At 49-months follow-up, disease progression rate was 9–34%, the intervention rate 17–29%, and the spontaneous passage rate 21–34%. Patients with residual stone fragments > 4mm had only a 9% spontaneous expulsion rate at three years. These patients should be offered further definitive treatment since intervention rates are high (24–100%). For those on follow-up, close surveillance is needed. Insufficient data exist for high-risk patients, but current literature dictates that patients who are adherent to targeted medical treatment seem to experience less stone growth or re-growth of residual fragments and may be discharged after 36–48 months of non-progressive disease on imaging (Figure 5.1). Proposed imaging consists of plain X-ray KUB and/or US, based on stone characteristics and clinicians’ preferences. Computed tomography scan should be reserved for symptomatic disease or preoperative imaging, to avoid extensive radiation exposure [490]. The information on stone composition can be used to counsel patients to set expectations and help plan the need for follow-up and medical stone management [791]. Figure 5.1: Follow-up duration of urinary stone patients after treatment. Stone-free = No stone fragments on postoperative imaging (i.e. no stone fragments on CT/KUB/US). High-Risk = Known biochemical abnormality (i.e. hypercalciuria, hypocitraturia, hyperuricosuria, RTA or high-risk stone type such as struvite ). Imaging = plain film KUB &/or kidney ultrasonography (KUS) based on clinicians’ preference and stone characteristics. Consider CT if the patient is symptomatic or if intervention is planned. * Clinicians may choose the imaging-only pathway in patients with fragments ≤ 2mm. a treatment monitoring for side effects, intolerance and compliance. + The panel recommends reintervention, however, close follow-up may be considered for some patients at high risk for reintervention based on clinicians’ preference. Figure 5.2: Consensus on follow-up frequency and imaging modality to use after treatment Stone free = No stone fragments on postoperative imaging (i.e. no stone fragments on CT/KUB/US). High-Risk = Known biochemical abnormality (i.e. hypercalciuria, hypocitraturia, hyperuricosuria, RTA or high-risk stone type, such as struvite [See table 3.6]). Imaging = plain film KUB &/or kidney ultrasonography (KUS) based on clinicians’ preference and stone characteristics. Consider CT if the patient is symptomatic or if intervention is planned. * Clinicians may choose the imaging-only pathway in patients with fragments ≤ 2mm.a Treatment monitoring for side effects, intolerance, and compliance. + Panel recommends reintervention; however, close follow up may be considered for some patients at high risk for reintervention based on clinicians’ preference.",
+      "tables": []
+    }
+  ],
+  "tables_count": 0
+}

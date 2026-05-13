@@ -1,0 +1,1886 @@
+{
+  "guideline": "paediatric-urology",
+  "chapter": "phimosis-and-other-abnormalities-of-the-penile-skin",
+  "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/phimosis-and-other-abnormalities-of-the-penile-skin",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim",
+      "anchor": "#1-1-aim"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Summary of changes",
+      "anchor": "#1-5-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Introduction",
+      "anchor": "#2-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 2,
+      "text": "3. PHIMOSIS AND OTHER ABNORMALITIES OF THE PENILE SKIN",
+      "anchor": "#3-phimosis-and-other-abnormalities-of-the-penile-skin"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Terminology, epidemiology and pathophysiology",
+      "anchor": "#3-1-terminology-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Classification and diagnostic evaluation",
+      "anchor": "#3-2-classification-and-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Management",
+      "anchor": "#3-3-management"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Complications",
+      "anchor": "#3-4-complications"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Follow-up",
+      "anchor": "#3-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "3.6. Summary of evidence and recommendations for the management of phimosis",
+      "anchor": "#3-6-summary-of-evidence-and-recommendations-for-the-management-of-phimosis"
+    },
+    {
+      "level": 2,
+      "text": "4. MANAGEMENT OF UNDESCENDED TESTES",
+      "anchor": "#4-management-of-undescended-testes"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Background",
+      "anchor": "#4-1-background"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Classification",
+      "anchor": "#4-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. Palpable testes",
+      "anchor": "#4-2-1-palpable-testes"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. Nonpalpable testes",
+      "anchor": "#4-2-2-nonpalpable-testes"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Diagnostic evaluation",
+      "anchor": "#4-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. History",
+      "anchor": "#4-3-1-history"
+    },
+    {
+      "level": 4,
+      "text": "4.3.2. Physical examination",
+      "anchor": "#4-3-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "4.3.3. Imaging studies",
+      "anchor": "#4-3-3-imaging-studies"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Management",
+      "anchor": "#4-4-management"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Medical therapy",
+      "anchor": "#4-4-1-medical-therapy"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Surgical therapy",
+      "anchor": "#4-4-2-surgical-therapy"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Undescended testes and fertility",
+      "anchor": "#4-5-undescended-testes-and-fertility"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Undescended testes and malignancy",
+      "anchor": "#4-6-undescended-testes-and-malignancy"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Summary of evidence and recommendations for the management of undescended testes",
+      "anchor": "#4-7-summary-of-evidence-and-recommendations-for-the-management-of-undescended-testes"
+    },
+    {
+      "level": 2,
+      "text": "5. TESTICULAR TUMOURS IN PREPUBERTAL BOYS",
+      "anchor": "#5-testicular-tumours-in-prepubertal-boys"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Epidemiology and pathophysiology",
+      "anchor": "#5-1-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Clinical presentation",
+      "anchor": "#5-2-clinical-presentation"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Evaluation",
+      "anchor": "#5-3-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Tumour entities in prepubertal boys",
+      "anchor": "#5-5-tumour-entities-in-prepubertal-boys"
+    },
+    {
+      "level": 4,
+      "text": "5.5.1. Germ cell tumours",
+      "anchor": "#5-5-1-germ-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "5.5.2. Gonadal stromal tumours",
+      "anchor": "#5-5-2-gonadal-stromal-tumours"
+    },
+    {
+      "level": 4,
+      "text": "5.5.3. Other tumours",
+      "anchor": "#5-5-3-other-tumours"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Follow-up",
+      "anchor": "#5-6-follow-up"
+    },
+    {
+      "level": 2,
+      "text": "6. FERTILITY PRESERVATION IN CHILDREN AND ADOLESCENTS",
+      "anchor": "#6-fertility-preservation-in-children-and-adolescents"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Ovarian tissue cryopreservation in prepubertal and adolescent girls",
+      "anchor": "#6-1-ovarian-tissue-cryopreservation-in-prepubertal-and-adolescent-girls"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Cryopreservation in prepubertal and adolescent boys",
+      "anchor": "#6-2-cryopreservation-in-prepubertal-and-adolescent-boys"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Summary of evidence and recommendations fertility preservation in children and adolescents",
+      "anchor": "#6-3-summary-of-evidence-and-recommendations-fertility-preservation-in-children-and-adolescents"
+    },
+    {
+      "level": 2,
+      "text": "7. HYDROCELE",
+      "anchor": "#7-hydrocele"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#7-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Diagnostic evaluation",
+      "anchor": "#7-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Management",
+      "anchor": "#7-3-management"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Summary of evidence and recommendations for the management of hydrocele",
+      "anchor": "#7-4-summary-of-evidence-and-recommendations-for-the-management-of-hydrocele"
+    },
+    {
+      "level": 2,
+      "text": "8. ACUTE SCROTUM",
+      "anchor": "#8-acute-scrotum"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#8-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Diagnostic evaluation",
+      "anchor": "#8-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Management",
+      "anchor": "#8-3-management"
+    },
+    {
+      "level": 4,
+      "text": "8.3.1. Epididymitis",
+      "anchor": "#8-3-1-epididymitis"
+    },
+    {
+      "level": 4,
+      "text": "8.3.2. Testicular torsion",
+      "anchor": "#8-3-2-testicular-torsion"
+    },
+    {
+      "level": 4,
+      "text": "8.3.3. Surgical treatment",
+      "anchor": "#8-3-3-surgical-treatment"
+    },
+    {
+      "level": 3,
+      "text": "8.4. Follow-up",
+      "anchor": "#8-4-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "8.4.1. Fertility",
+      "anchor": "#8-4-1-fertility"
+    },
+    {
+      "level": 4,
+      "text": "8.4.2. Subfertility",
+      "anchor": "#8-4-2-subfertility"
+    },
+    {
+      "level": 4,
+      "text": "8.4.3. Androgen levels",
+      "anchor": "#8-4-3-androgen-levels"
+    },
+    {
+      "level": 2,
+      "text": "9. HYPOSPADIAS",
+      "anchor": "#9-hypospadias"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Epidemiology, aetiology, and pathophysiology",
+      "anchor": "#9-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "9.1.1. Epidemiology",
+      "anchor": "#9-1-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Risk factors",
+      "anchor": "#9-2-risk-factors"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Classification systems",
+      "anchor": "#9-3-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "9.4. Diagnostic evaluation",
+      "anchor": "#9-4-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "9.5. Management",
+      "anchor": "#9-5-management"
+    },
+    {
+      "level": 4,
+      "text": "9.5.1. Indication for reconstruction and therapeutic objectives",
+      "anchor": "#9-5-1-indication-for-reconstruction-and-therapeutic-objectives"
+    },
+    {
+      "level": 4,
+      "text": "9.5.2. Preoperative hormonal treatment",
+      "anchor": "#9-5-2-preoperative-hormonal-treatment"
+    },
+    {
+      "level": 4,
+      "text": "9.5.3. Age at surgery",
+      "anchor": "#9-5-3-age-at-surgery"
+    },
+    {
+      "level": 4,
+      "text": "9.5.4. Penile curvature",
+      "anchor": "#9-5-4-penile-curvature"
+    },
+    {
+      "level": 4,
+      "text": "9.5.5. Urethral reconstruction",
+      "anchor": "#9-5-5-urethral-reconstruction"
+    },
+    {
+      "level": 4,
+      "text": "9.5.6. Redo hypospadias repairs",
+      "anchor": "#9-5-6-redo-hypospadias-repairs"
+    },
+    {
+      "level": 4,
+      "text": "9.5.7. Penile reconstruction following formation of the neo-urethra",
+      "anchor": "#9-5-7-penile-reconstruction-following-formation-of-the-neo-urethra"
+    },
+    {
+      "level": 4,
+      "text": "9.5.8. Urine drainage and wound dressing",
+      "anchor": "#9-5-8-urine-drainage-and-wound-dressing"
+    },
+    {
+      "level": 4,
+      "text": "9.5.9. Analgesia (regional blocks)",
+      "anchor": "#9-5-9-analgesia-regional-blocks"
+    },
+    {
+      "level": 3,
+      "text": "9.6. Outcomes and complications",
+      "anchor": "#9-6-outcomes-and-complications"
+    },
+    {
+      "level": 4,
+      "text": "9.6.1. Factors influencing outcomes",
+      "anchor": "#9-6-1-factors-influencing-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "9.6.2. Complications",
+      "anchor": "#9-6-2-complications"
+    },
+    {
+      "level": 3,
+      "text": "9.7. Long-term follow-up and transition",
+      "anchor": "#9-7-long-term-follow-up-and-transition"
+    },
+    {
+      "level": 4,
+      "text": "9.7.1. Voiding",
+      "anchor": "#9-7-1-voiding"
+    },
+    {
+      "level": 4,
+      "text": "9.7.2. Penile appearance",
+      "anchor": "#9-7-2-penile-appearance"
+    },
+    {
+      "level": 4,
+      "text": "9.7.3. Sexual function and fertility",
+      "anchor": "#9-7-3-sexual-function-and-fertility"
+    },
+    {
+      "level": 4,
+      "text": "9.7.4. Health-related quality of life",
+      "anchor": "#9-7-4-health-related-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "9.7.5. Transition",
+      "anchor": "#9-7-5-transition"
+    },
+    {
+      "level": 3,
+      "text": "9.8. Summary of evidence and recommendations for the management of hypospadias",
+      "anchor": "#9-8-summary-of-evidence-and-recommendations-for-the-management-of-hypospadias"
+    },
+    {
+      "level": 2,
+      "text": "10. CONGENITAL PENILE CURVATURE",
+      "anchor": "#10-congenital-penile-curvature"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#10-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Diagnostic evaluation",
+      "anchor": "#10-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Management",
+      "anchor": "#10-3-management"
+    },
+    {
+      "level": 3,
+      "text": "10.4. Summary of evidence and recommendations for the management of congenital penile curvature",
+      "anchor": "#10-4-summary-of-evidence-and-recommendations-for-the-management-of-congenital-penile-curvature"
+    },
+    {
+      "level": 2,
+      "text": "11. VARICOCELE IN CHILDREN AND ADOLESCENTS",
+      "anchor": "#11-varicocele-in-children-and-adolescents"
+    },
+    {
+      "level": 3,
+      "text": "11.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#11-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "11.2. Classification systems",
+      "anchor": "#11-2-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "11.3. Diagnostic evaluation",
+      "anchor": "#11-3-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "11.4. Management",
+      "anchor": "#11-4-management"
+    },
+    {
+      "level": 4,
+      "text": "11.4.1. Surgical management",
+      "anchor": "#11-4-1-surgical-management"
+    },
+    {
+      "level": 4,
+      "text": "11.4.2. Radiological management",
+      "anchor": "#11-4-2-radiological-management"
+    },
+    {
+      "level": 3,
+      "text": "11.5. Summary of evidence and recommendations for the management of varicocele",
+      "anchor": "#11-5-summary-of-evidence-and-recommendations-for-the-management-of-varicocele"
+    },
+    {
+      "level": 2,
+      "text": "12. URINARY TRACT INFECTIONS IN CHILDREN",
+      "anchor": "#12-urinary-tract-infections-in-children"
+    },
+    {
+      "level": 3,
+      "text": "12.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#12-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "12.2. Presentation symptoms",
+      "anchor": "#12-2-presentation-symptoms"
+    },
+    {
+      "level": 3,
+      "text": "12.3. Classification systems",
+      "anchor": "#12-3-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "12.3.1. Classification according to clinical presentation",
+      "anchor": "#12-3-1-classification-according-to-clinical-presentation"
+    },
+    {
+      "level": 4,
+      "text": "12.3.2. Classification according to episode: first, recurrent, breakthrough",
+      "anchor": "#12-3-2-classification-according-to-episode-first-recurrent-breakthrough"
+    },
+    {
+      "level": 4,
+      "text": "12.3.3. Classification according to age and toilet-training status",
+      "anchor": "#12-3-3-classification-according-to-age-and-toilet-training-status"
+    },
+    {
+      "level": 4,
+      "text": "12.3.4. Classification according to the clinical course",
+      "anchor": "#12-3-4-classification-according-to-the-clinical-course"
+    },
+    {
+      "level": 4,
+      "text": "12.3.5. Classification according to urinary tract abnormalities",
+      "anchor": "#12-3-5-classification-according-to-urinary-tract-abnormalities"
+    },
+    {
+      "level": 3,
+      "text": "12.4. Diagnostic evaluation",
+      "anchor": "#12-4-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "12.4.1. Medical history",
+      "anchor": "#12-4-1-medical-history"
+    },
+    {
+      "level": 4,
+      "text": "12.4.2. Physical examination",
+      "anchor": "#12-4-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "12.4.3. Urine sampling, analysis and culture",
+      "anchor": "#12-4-3-urine-sampling-analysis-and-culture"
+    },
+    {
+      "level": 4,
+      "text": "12.4.4. Blood tests",
+      "anchor": "#12-4-4-blood-tests"
+    },
+    {
+      "level": 3,
+      "text": "12.5. Additional workup",
+      "anchor": "#12-5-additional-workup"
+    },
+    {
+      "level": 4,
+      "text": "12.5.1. Ultrasound (US)",
+      "anchor": "#12-5-1-ultrasound-us"
+    },
+    {
+      "level": 3,
+      "text": "12.6. Management",
+      "anchor": "#12-6-management"
+    },
+    {
+      "level": 4,
+      "text": "12.6.1. Administration route of antibacterial therapy",
+      "anchor": "#12-6-1-administration-route-of-antibacterial-therapy"
+    },
+    {
+      "level": 4,
+      "text": "12.6.2. Adjustment of antimicrobial agents",
+      "anchor": "#12-6-2-adjustment-of-antimicrobial-agents"
+    },
+    {
+      "level": 4,
+      "text": "12.6.3. Duration of therapy",
+      "anchor": "#12-6-3-duration-of-therapy"
+    },
+    {
+      "level": 4,
+      "text": "12.6.4. Adjunct steroid treatment",
+      "anchor": "#12-6-4-adjunct-steroid-treatment"
+    },
+    {
+      "level": 4,
+      "text": "12.6.5. Temporary urinary diversion",
+      "anchor": "#12-6-5-temporary-urinary-diversion"
+    },
+    {
+      "level": 4,
+      "text": "12.6.6. Monitoring",
+      "anchor": "#12-6-6-monitoring"
+    },
+    {
+      "level": 3,
+      "text": "12.7. Measures to prevent UTI recurrences",
+      "anchor": "#12-7-measures-to-prevent-uti-recurrences"
+    },
+    {
+      "level": 4,
+      "text": "12.7.1. Chemoprophylaxis",
+      "anchor": "#12-7-1-chemoprophylaxis"
+    },
+    {
+      "level": 4,
+      "text": "12.7.2. Nonantibiotic prophylaxis",
+      "anchor": "#12-7-2-nonantibiotic-prophylaxis"
+    },
+    {
+      "level": 4,
+      "text": "12.7.3. Phimosis",
+      "anchor": "#12-7-3-phimosis"
+    },
+    {
+      "level": 4,
+      "text": "12.7.4. Bladder and bowel dysfunction and lower urinary tract disorders",
+      "anchor": "#12-7-4-bladder-and-bowel-dysfunction-and-lower-urinary-tract-disorders"
+    },
+    {
+      "level": 3,
+      "text": "12.8. Summary of evidence and recommendations for the management of UTI in children",
+      "anchor": "#12-8-summary-of-evidence-and-recommendations-for-the-management-of-uti-in-children"
+    },
+    {
+      "level": 2,
+      "text": "13. DAYTIME LOWER URINARY TRACT CONDITIONS",
+      "anchor": "#13-daytime-lower-urinary-tract-conditions"
+    },
+    {
+      "level": 3,
+      "text": "13.1. Terminology, classification, epidemiology and pathophysiology",
+      "anchor": "#13-1-terminology-classification-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "13.1.1. Filling-phase (storage) dysfunctions",
+      "anchor": "#13-1-1-filling-phase-storage-dysfunctions"
+    },
+    {
+      "level": 4,
+      "text": "13.1.2. Voiding-phase (emptying) dysfunctions",
+      "anchor": "#13-1-2-voiding-phase-emptying-dysfunctions"
+    },
+    {
+      "level": 3,
+      "text": "13.2. Diagnostic evaluation",
+      "anchor": "#13-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "13.2.1. History and physical examination",
+      "anchor": "#13-2-1-history-and-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "13.2.2. Ultrasound and urinalysis",
+      "anchor": "#13-2-2-ultrasound-and-urinalysis"
+    },
+    {
+      "level": 4,
+      "text": "13.2.3. Urodynamics",
+      "anchor": "#13-2-3-urodynamics"
+    },
+    {
+      "level": 3,
+      "text": "13.3. Management",
+      "anchor": "#13-3-management"
+    },
+    {
+      "level": 4,
+      "text": "13.3.1. Urotherapy and specific add-on interventions",
+      "anchor": "#13-3-1-urotherapy-and-specific-add-on-interventions"
+    },
+    {
+      "level": 4,
+      "text": "13.3.2. Medication",
+      "anchor": "#13-3-2-medication"
+    },
+    {
+      "level": 4,
+      "text": "13.3.3. Neuromodulation",
+      "anchor": "#13-3-3-neuromodulation"
+    },
+    {
+      "level": 4,
+      "text": "13.3.4. Surgery",
+      "anchor": "#13-3-4-surgery"
+    },
+    {
+      "level": 3,
+      "text": "13.4. Quality of life",
+      "anchor": "#13-4-quality-of-life"
+    },
+    {
+      "level": 3,
+      "text": "13.5. Follow-up",
+      "anchor": "#13-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "13.6. Summary of evidence and recommendations for the management of daytime lower urinary tract conditions",
+      "anchor": "#13-6-summary-of-evidence-and-recommendations-for-the-management-of-daytime-lower-urinary-tract-conditions"
+    },
+    {
+      "level": 2,
+      "text": "14. MONOSYMPTOMATIC NOCTURNAL ENURESIS - BEDWETTING",
+      "anchor": "#14-monosymptomatic-nocturnal-enuresis---bedwetting"
+    },
+    {
+      "level": 3,
+      "text": "14.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#14-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "14.2. Diagnostic evaluation",
+      "anchor": "#14-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "14.3. Management",
+      "anchor": "#14-3-management"
+    },
+    {
+      "level": 4,
+      "text": "14.3.1. Supportive treatment measures",
+      "anchor": "#14-3-1-supportive-treatment-measures"
+    },
+    {
+      "level": 4,
+      "text": "14.3.2. Wetting alarm treatment",
+      "anchor": "#14-3-2-wetting-alarm-treatment"
+    },
+    {
+      "level": 4,
+      "text": "14.3.3. Medical treatment",
+      "anchor": "#14-3-3-medical-treatment"
+    },
+    {
+      "level": 4,
+      "text": "14.3.4. Electrical neuromodulation",
+      "anchor": "#14-3-4-electrical-neuromodulation"
+    },
+    {
+      "level": 4,
+      "text": "14.3.5. Complementary treatments:",
+      "anchor": "#14-3-5-complementary-treatments"
+    },
+    {
+      "level": 4,
+      "text": "14.3.6. Conservative ‘wait-and-see’ approach",
+      "anchor": "#14-3-6-conservative-wait-and-see-approach"
+    },
+    {
+      "level": 3,
+      "text": "14.4. Summary of evidence and recommendations for the management of monosymptomatic enuresis",
+      "anchor": "#14-4-summary-of-evidence-and-recommendations-for-the-management-of-monosymptomatic-enuresis"
+    },
+    {
+      "level": 2,
+      "text": "15. SPINAL DYSRAPHISM IN CHILDREN AND ADOLESCENTS (FORMALLY NEUROGENIC BLADDER)",
+      "anchor": "#15-spinal-dysraphism-in-children-and-adolescents-formally-neurogenic-bladder"
+    },
+    {
+      "level": 2,
+      "text": "16. DILATATION OF THE UPPER URINARY TRACT (PUJ OBSTRUCTION)",
+      "anchor": "#16-dilatation-of-the-upper-urinary-tract-puj-obstruction"
+    },
+    {
+      "level": 3,
+      "text": "16.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#16-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "16.2. Diagnostic evaluation",
+      "anchor": "#16-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "16.2.1. Antenatal ultrasound",
+      "anchor": "#16-2-1-antenatal-ultrasound"
+    },
+    {
+      "level": 4,
+      "text": "16.2.2. Postnatal ultrasound",
+      "anchor": "#16-2-2-postnatal-ultrasound"
+    },
+    {
+      "level": 4,
+      "text": "16.2.3. Voiding cystourethrogram",
+      "anchor": "#16-2-3-voiding-cystourethrogram"
+    },
+    {
+      "level": 4,
+      "text": "16.2.4. Diuretic renography",
+      "anchor": "#16-2-4-diuretic-renography"
+    },
+    {
+      "level": 4,
+      "text": "16.2.5. Severity classification and risk stratification",
+      "anchor": "#16-2-5-severity-classification-and-risk-stratification"
+    },
+    {
+      "level": 4,
+      "text": "16.2.6. Biomarkers",
+      "anchor": "#16-2-6-biomarkers"
+    },
+    {
+      "level": 3,
+      "text": "16.3. Management",
+      "anchor": "#16-3-management"
+    },
+    {
+      "level": 4,
+      "text": "16.3.1. Prenatal management",
+      "anchor": "#16-3-1-prenatal-management"
+    },
+    {
+      "level": 4,
+      "text": "16.3.2. PUJ obstruction",
+      "anchor": "#16-3-2-puj-obstruction"
+    },
+    {
+      "level": 3,
+      "text": "16.4. Summary of evidence and recommendations for the management of PUJ obstruction",
+      "anchor": "#16-4-summary-of-evidence-and-recommendations-for-the-management-of-puj-obstruction"
+    },
+    {
+      "level": 2,
+      "text": "17. VESICOURETERIC REFLUX",
+      "anchor": "#17-vesicoureteric-reflux"
+    },
+    {
+      "level": 3,
+      "text": "17.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#17-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "17.2. Diagnostic evaluation",
+      "anchor": "#17-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "17.2.1. Recommendation for diagnosis of VUR",
+      "anchor": "#17-2-1-recommendation-for-diagnosis-of-vur"
+    },
+    {
+      "level": 4,
+      "text": "17.2.2. Infants presenting with prenatally diagnosed hydronephrosis",
+      "anchor": "#17-2-2-infants-presenting-with-prenatally-diagnosed-hydronephrosis"
+    },
+    {
+      "level": 4,
+      "text": "17.2.3. Siblings and offspring of reflux patients",
+      "anchor": "#17-2-3-siblings-and-offspring-of-reflux-patients"
+    },
+    {
+      "level": 4,
+      "text": "17.2.4. Recommendation for paediatric screening of VUR",
+      "anchor": "#17-2-4-recommendation-for-paediatric-screening-of-vur"
+    },
+    {
+      "level": 4,
+      "text": "17.2.5. Children with febrile urinary tract infections",
+      "anchor": "#17-2-5-children-with-febrile-urinary-tract-infections"
+    },
+    {
+      "level": 4,
+      "text": "17.2.6. Children with lower urinary tract symptoms and vesicoureteric reflux",
+      "anchor": "#17-2-6-children-with-lower-urinary-tract-symptoms-and-vesicoureteric-reflux"
+    },
+    {
+      "level": 3,
+      "text": "17.3. Disease management",
+      "anchor": "#17-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "17.3.1. Nonsurgical therapy",
+      "anchor": "#17-3-1-nonsurgical-therapy"
+    },
+    {
+      "level": 4,
+      "text": "17.3.2. Surgical treatment",
+      "anchor": "#17-3-2-surgical-treatment"
+    },
+    {
+      "level": 3,
+      "text": "17.4. Summary of evidence and recommendations for the management of vesicoureteric reflux in childhood",
+      "anchor": "#17-4-summary-of-evidence-and-recommendations-for-the-management-of-vesicoureteric-reflux-in-childhood"
+    },
+    {
+      "level": 2,
+      "text": "18. URINARY STONE DISEASE",
+      "anchor": "#18-urinary-stone-disease"
+    },
+    {
+      "level": 3,
+      "text": "18.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#18-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "18.2. Classification systems",
+      "anchor": "#18-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "18.2.1. Calcium stones",
+      "anchor": "#18-2-1-calcium-stones"
+    },
+    {
+      "level": 4,
+      "text": "18.2.2. Uric acid stones",
+      "anchor": "#18-2-2-uric-acid-stones"
+    },
+    {
+      "level": 4,
+      "text": "18.2.3. Cystine stones",
+      "anchor": "#18-2-3-cystine-stones"
+    },
+    {
+      "level": 4,
+      "text": "18.2.4. Infection stones (struvite stones)",
+      "anchor": "#18-2-4-infection-stones-struvite-stones"
+    },
+    {
+      "level": 3,
+      "text": "18.3. Diagnostic evaluation",
+      "anchor": "#18-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "18.3.1. Imaging",
+      "anchor": "#18-3-1-imaging"
+    },
+    {
+      "level": 4,
+      "text": "18.3.2. Metabolic evaluation",
+      "anchor": "#18-3-2-metabolic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "18.3.3. Urolithiasis in infants",
+      "anchor": "#18-3-3-urolithiasis-in-infants"
+    },
+    {
+      "level": 3,
+      "text": "18.4. Management",
+      "anchor": "#18-4-management"
+    },
+    {
+      "level": 4,
+      "text": "18.4.1. Extracorporeal shockwave lithotripsy",
+      "anchor": "#18-4-1-extracorporeal-shockwave-lithotripsy"
+    },
+    {
+      "level": 4,
+      "text": "18.4.2. Percutaneous nephrolithotomy",
+      "anchor": "#18-4-2-percutaneous-nephrolithotomy"
+    },
+    {
+      "level": 4,
+      "text": "18.4.3. Ureterorenoscopy",
+      "anchor": "#18-4-3-ureterorenoscopy"
+    },
+    {
+      "level": 4,
+      "text": "18.4.4. Open or laparoscopic stone surgery",
+      "anchor": "#18-4-4-open-or-laparoscopic-stone-surgery"
+    },
+    {
+      "level": 3,
+      "text": "18.5. Summary of evidence and recommendations for the management of urinary stones",
+      "anchor": "#18-5-summary-of-evidence-and-recommendations-for-the-management-of-urinary-stones"
+    },
+    {
+      "level": 2,
+      "text": "19. URETEROCELE AND ECTOPIC URETER",
+      "anchor": "#19-ureterocele-and-ectopic-ureter"
+    },
+    {
+      "level": 3,
+      "text": "19.1. Ureterocele",
+      "anchor": "#19-1-ureterocele"
+    },
+    {
+      "level": 4,
+      "text": "19.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#19-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "19.1.2. Classification systems",
+      "anchor": "#19-1-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "19.1.3. Diagnostic evaluation",
+      "anchor": "#19-1-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "19.1.4. Management",
+      "anchor": "#19-1-4-management"
+    },
+    {
+      "level": 3,
+      "text": "19.2. Ectopic ureter",
+      "anchor": "#19-2-ectopic-ureter"
+    },
+    {
+      "level": 4,
+      "text": "19.2.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#19-2-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "19.2.2. Classification",
+      "anchor": "#19-2-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "19.2.3. Clinical presentation and diagnostic evaluation",
+      "anchor": "#19-2-3-clinical-presentation-and-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "19.2.4. Management",
+      "anchor": "#19-2-4-management"
+    },
+    {
+      "level": 3,
+      "text": "19.3. Summary of evidence and recommendations for the management of obstructive pathology of renal duplication: ureterocele and ectopic ureter",
+      "anchor": "#19-3-summary-of-evidence-and-recommendations-for-the-management-of-obstructive-pathology-of-renal-duplication-ureterocele-and-ectopic-ureter"
+    },
+    {
+      "level": 3,
+      "text": "20.1. Introduction",
+      "anchor": "#20-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "20.2. International consensus statements on DSD management",
+      "anchor": "#20-2-international-consensus-statements-on-dsd-management"
+    },
+    {
+      "level": 3,
+      "text": "20.3. Current classification of DSD conditions",
+      "anchor": "#20-3-current-classification-of-dsd-conditions"
+    },
+    {
+      "level": 3,
+      "text": "20.4. Diagnostic evaluation",
+      "anchor": "#20-4-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "20.4.1. The neonatal emergency",
+      "anchor": "#20-4-1-the-neonatal-emergency"
+    },
+    {
+      "level": 4,
+      "text": "20.4.2. Family history and clinical examination",
+      "anchor": "#20-4-2-family-history-and-clinical-examination"
+    },
+    {
+      "level": 3,
+      "text": "20.5. Gender assignment",
+      "anchor": "#20-5-gender-assignment"
+    },
+    {
+      "level": 3,
+      "text": "20.6. Risk of tumour development",
+      "anchor": "#20-6-risk-of-tumour-development"
+    },
+    {
+      "level": 3,
+      "text": "20.7. Quality of life",
+      "anchor": "#20-7-quality-of-life"
+    },
+    {
+      "level": 2,
+      "text": "21. CONGENITAL LOWER URINARY TRACT OBSTRUCTION",
+      "anchor": "#21-congenital-lower-urinary-tract-obstruction"
+    },
+    {
+      "level": 3,
+      "text": "21.1. Epidemiology and pathophysiology",
+      "anchor": "#21-1-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "21.2. Classification systems of the urethral valves",
+      "anchor": "#21-2-classification-systems-of-the-urethral-valves"
+    },
+    {
+      "level": 3,
+      "text": "21.3. Diagnostic evaluation",
+      "anchor": "#21-3-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "21.4. Management",
+      "anchor": "#21-4-management"
+    },
+    {
+      "level": 4,
+      "text": "21.4.1. Prenatal treatment",
+      "anchor": "#21-4-1-prenatal-treatment"
+    },
+    {
+      "level": 4,
+      "text": "21.4.2. Postnatal treatment",
+      "anchor": "#21-4-2-postnatal-treatment"
+    },
+    {
+      "level": 3,
+      "text": "21.5. Follow-up",
+      "anchor": "#21-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "21.6. Summary of evidence and recommendations for the management of posterior urethral valves",
+      "anchor": "#21-6-summary-of-evidence-and-recommendations-for-the-management-of-posterior-urethral-valves"
+    },
+    {
+      "level": 2,
+      "text": "22. RARE CONDITIONS IN CHILDHOOD",
+      "anchor": "#22-rare-conditions-in-childhood"
+    },
+    {
+      "level": 3,
+      "text": "22.1. Urachal remnants",
+      "anchor": "#22-1-urachal-remnants"
+    },
+    {
+      "level": 4,
+      "text": "22.1.1. Introduction",
+      "anchor": "#22-1-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "22.1.2. Epidemiology",
+      "anchor": "#22-1-2-epidemiology"
+    },
+    {
+      "level": 4,
+      "text": "22.1.3. Symptoms",
+      "anchor": "#22-1-3-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "22.1.4. Diagnosis",
+      "anchor": "#22-1-4-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "22.1.5. Treatment",
+      "anchor": "#22-1-5-treatment"
+    },
+    {
+      "level": 4,
+      "text": "22.1.6. Pathology of removed remnants",
+      "anchor": "#22-1-6-pathology-of-removed-remnants"
+    },
+    {
+      "level": 4,
+      "text": "22.1.7. Urachal cancer",
+      "anchor": "#22-1-7-urachal-cancer"
+    },
+    {
+      "level": 4,
+      "text": "22.1.8. Summary of evidence and recommendation for management of urachal remnants",
+      "anchor": "#22-1-8-summary-of-evidence-and-recommendation-for-management-of-urachal-remnants"
+    },
+    {
+      "level": 3,
+      "text": "22.2. Papillary tumours of the bladder in children and adolescents (Papillary urothelial neoplasm of low malignant potential)",
+      "anchor": "#22-2-papillary-tumours-of-the-bladder-in-children-and-adolescents-papillary-urothelial-neoplasm-of-low-malignant-potential"
+    },
+    {
+      "level": 4,
+      "text": "22.2.1. Incidence",
+      "anchor": "#22-2-1-incidence"
+    },
+    {
+      "level": 4,
+      "text": "22.2.2. Differences and similarities of papillary tumours of the bladder in children and adults",
+      "anchor": "#22-2-2-differences-and-similarities-of-papillary-tumours-of-the-bladder-in-children-and-adults"
+    },
+    {
+      "level": 4,
+      "text": "22.2.3. Risk factors",
+      "anchor": "#22-2-3-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "22.2.4. Presentation",
+      "anchor": "#22-2-4-presentation"
+    },
+    {
+      "level": 4,
+      "text": "22.2.5. Investigations and treatment",
+      "anchor": "#22-2-5-investigations-and-treatment"
+    },
+    {
+      "level": 4,
+      "text": "22.2.6. Histology",
+      "anchor": "#22-2-6-histology"
+    },
+    {
+      "level": 4,
+      "text": "22.2.7. Additional treatment",
+      "anchor": "#22-2-7-additional-treatment"
+    },
+    {
+      "level": 4,
+      "text": "22.2.8. Prognosis, recurrence and surveillance",
+      "anchor": "#22-2-8-prognosis-recurrence-and-surveillance"
+    },
+    {
+      "level": 4,
+      "text": "22.2.9. Summary of evidence and recommendations for papillary tumours of the bladder in children",
+      "anchor": "#22-2-9-summary-of-evidence-and-recommendations-for-papillary-tumours-of-the-bladder-in-children"
+    },
+    {
+      "level": 3,
+      "text": "22.3. Penile rare conditions",
+      "anchor": "#22-3-penile-rare-conditions"
+    },
+    {
+      "level": 4,
+      "text": "22.3.1. Cystic lesions",
+      "anchor": "#22-3-1-cystic-lesions"
+    },
+    {
+      "level": 4,
+      "text": "22.3.2. Vascular malformations",
+      "anchor": "#22-3-2-vascular-malformations"
+    },
+    {
+      "level": 4,
+      "text": "22.3.3. Neurogenic lesions",
+      "anchor": "#22-3-3-neurogenic-lesions"
+    },
+    {
+      "level": 4,
+      "text": "22.3.4. Soft tissue tumours of penis",
+      "anchor": "#22-3-4-soft-tissue-tumours-of-penis"
+    },
+    {
+      "level": 4,
+      "text": "22.3.5. Penile lymphedema",
+      "anchor": "#22-3-5-penile-lymphedema"
+    },
+    {
+      "level": 2,
+      "text": "23. EMERGENCIES IN PAEDIATRIC UROLOGY",
+      "anchor": "#23-emergencies-in-paediatric-urology"
+    },
+    {
+      "level": 3,
+      "text": "23.1. Acute scrotum",
+      "anchor": "#23-1-acute-scrotum"
+    },
+    {
+      "level": 3,
+      "text": "23.2. Paraphimosis",
+      "anchor": "#23-2-paraphimosis"
+    },
+    {
+      "level": 3,
+      "text": "23.3. Priapism",
+      "anchor": "#23-3-priapism"
+    },
+    {
+      "level": 4,
+      "text": "23.3.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#23-3-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "23.3.2. Classification",
+      "anchor": "#23-3-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "23.3.3. Diagnostic evaluation",
+      "anchor": "#23-3-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "23.3.4. Disease management",
+      "anchor": "#23-3-4-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "23.4. Summary of evidence and recommendations for the diagnosis and management of priapism",
+      "anchor": "#23-4-summary-of-evidence-and-recommendations-for-the-diagnosis-and-management-of-priapism"
+    },
+    {
+      "level": 2,
+      "text": "24. PAEDIATRIC UROLOGICAL TRAUMA",
+      "anchor": "#24-paediatric-urological-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.1. Paediatric renal trauma",
+      "anchor": "#24-1-paediatric-renal-trauma"
+    },
+    {
+      "level": 4,
+      "text": "24.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#24-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "24.1.2. Classification systems",
+      "anchor": "#24-1-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "24.1.3. Diagnostic evaluation",
+      "anchor": "#24-1-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.1.4. Disease management",
+      "anchor": "#24-1-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "24.1.5. Recommendations for the diagnosis and management of paediatric renal trauma",
+      "anchor": "#24-1-5-recommendations-for-the-diagnosis-and-management-of-paediatric-renal-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.2. Paediatric ureteral trauma",
+      "anchor": "#24-2-paediatric-ureteral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "24.2.1. Diagnostic evaluation",
+      "anchor": "#24-2-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.2.2. Management",
+      "anchor": "#24-2-2-management"
+    },
+    {
+      "level": 4,
+      "text": "24.2.3. Recommendations for the diagnosis and management of paediatric ureteral trauma",
+      "anchor": "#24-2-3-recommendations-for-the-diagnosis-and-management-of-paediatric-ureteral-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.3. Paediatric bladder injuries",
+      "anchor": "#24-3-paediatric-bladder-injuries"
+    },
+    {
+      "level": 4,
+      "text": "24.3.1. Diagnostic evaluation",
+      "anchor": "#24-3-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.3.2. Management",
+      "anchor": "#24-3-2-management"
+    },
+    {
+      "level": 4,
+      "text": "24.3.3. Recommendations for the diagnosis and management of paediatric bladder injuries",
+      "anchor": "#24-3-3-recommendations-for-the-diagnosis-and-management-of-paediatric-bladder-injuries"
+    },
+    {
+      "level": 3,
+      "text": "24.4. Paediatric urethral injuries",
+      "anchor": "#24-4-paediatric-urethral-injuries"
+    },
+    {
+      "level": 4,
+      "text": "24.4.1. Diagnostic evaluation",
+      "anchor": "#24-4-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.4.2. Disease management",
+      "anchor": "#24-4-2-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "24.4.3. Recommendations for the diagnosis and management of paediatric trauma",
+      "anchor": "#24-4-3-recommendations-for-the-diagnosis-and-management-of-paediatric-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.5. Urosepsis",
+      "anchor": "#24-5-urosepsis"
+    },
+    {
+      "level": 2,
+      "text": "25. PERIOPERATIVE MANAGEMENT",
+      "anchor": "#25-perioperative-management"
+    },
+    {
+      "level": 3,
+      "text": "25.1. Preoperative fasting, intraoperative fluid therapy, postoperative feeding, fasting and fluid management",
+      "anchor": "#25-1-preoperative-fasting-intraoperative-fluid-therapy-postoperative-feeding-fasting-and-fluid-management"
+    },
+    {
+      "level": 4,
+      "text": "25.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#25-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "25.1.2. Disease management",
+      "anchor": "#25-1-2-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "25.1.3. Summary of evidence and recommendations for the management of perioperative fluid management",
+      "anchor": "#25-1-3-summary-of-evidence-and-recommendations-for-the-management-of-perioperative-fluid-management"
+    },
+    {
+      "level": 3,
+      "text": "25.2. Postoperative pain management: general information",
+      "anchor": "#25-2-postoperative-pain-management-general-information"
+    },
+    {
+      "level": 4,
+      "text": "25.2.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#25-2-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "25.2.2. Diagnostic evaluation",
+      "anchor": "#25-2-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "25.2.3. Disease management",
+      "anchor": "#25-2-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "25.2.4. Summary of evidence and recommendations for the management of post-operative pain",
+      "anchor": "#25-2-4-summary-of-evidence-and-recommendations-for-the-management-of-post-operative-pain"
+    },
+    {
+      "level": 3,
+      "text": "25.3. Antibiotics management: general information",
+      "anchor": "#25-3-antibiotics-management-general-information"
+    },
+    {
+      "level": 3,
+      "text": "25.4. Thromboprophylaxis management: general information",
+      "anchor": "#25-4-thromboprophylaxis-management-general-information"
+    },
+    {
+      "level": 4,
+      "text": "25.4.1. Epidemiology, aetiology, pathophysiology",
+      "anchor": "#25-4-1-epidemiology-aetiology-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "25.4.2. Diagnostic evaluation",
+      "anchor": "#25-4-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "25.4.3. Disease management",
+      "anchor": "#25-4-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "25.4.4. Pharmacological treatment for thromboprophylaxis",
+      "anchor": "#25-4-4-pharmacological-treatment-for-thromboprophylaxis"
+    },
+    {
+      "level": 4,
+      "text": "25.4.5. Prevention of CVL-related VTE",
+      "anchor": "#25-4-5-prevention-of-cvl-related-vte"
+    },
+    {
+      "level": 4,
+      "text": "25.4.6. Summary of evidence and recommendations for the management of thromboprophylaxis management",
+      "anchor": "#25-4-6-summary-of-evidence-and-recommendations-for-the-management-of-thromboprophylaxis-management"
+    },
+    {
+      "level": 3,
+      "text": "25.5. Premedication management: general information",
+      "anchor": "#25-5-premedication-management-general-information"
+    },
+    {
+      "level": 4,
+      "text": "25.5.1. Recommendations for premedication management: general recommendations",
+      "anchor": "#25-5-1-recommendations-for-premedication-management-general-recommendations"
+    },
+    {
+      "level": 2,
+      "text": "26. BASIC PRINCIPLES OF LAPAROSCOPIC SURGERY IN CHILDREN",
+      "anchor": "#26-basic-principles-of-laparoscopic-surgery-in-children"
+    },
+    {
+      "level": 3,
+      "text": "26.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#26-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "26.2. Technical considerations and physiological consequences",
+      "anchor": "#26-2-technical-considerations-and-physiological-consequences"
+    },
+    {
+      "level": 4,
+      "text": "26.2.1. Preoperative evaluation",
+      "anchor": "#26-2-1-preoperative-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "26.2.2. Abdominal insufflation",
+      "anchor": "#26-2-2-abdominal-insufflation"
+    },
+    {
+      "level": 4,
+      "text": "26.2.3. Pulmonary effects",
+      "anchor": "#26-2-3-pulmonary-effects"
+    },
+    {
+      "level": 4,
+      "text": "26.2.4. Cardiovascular effects",
+      "anchor": "#26-2-4-cardiovascular-effects"
+    },
+    {
+      "level": 4,
+      "text": "26.2.5. Effects on renal function",
+      "anchor": "#26-2-5-effects-on-renal-function"
+    },
+    {
+      "level": 4,
+      "text": "26.2.6. Effects on neurological system",
+      "anchor": "#26-2-6-effects-on-neurological-system"
+    },
+    {
+      "level": 4,
+      "text": "26.2.7. Comparison of robot-assisted laparoscopic surgery versus laparoscopic surgery",
+      "anchor": "#26-2-7-comparison-of-robot-assisted-laparoscopic-surgery-versus-laparoscopic-surgery"
+    },
+    {
+      "level": 3,
+      "text": "26.3. Summary of evidence and recommendations for laparoscopy in children",
+      "anchor": "#26-3-summary-of-evidence-and-recommendations-for-laparoscopy-in-children"
+    },
+    {
+      "level": 2,
+      "text": "27. TRANSITIONAL UROLOGY",
+      "anchor": "#27-transitional-urology"
+    },
+    {
+      "level": 3,
+      "text": "27.1. Introduction",
+      "anchor": "#27-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "27.2. Barriers in transition",
+      "anchor": "#27-2-barriers-in-transition"
+    },
+    {
+      "level": 3,
+      "text": "27.3. The transition process",
+      "anchor": "#27-3-the-transition-process"
+    },
+    {
+      "level": 3,
+      "text": "27.4. Specific genitourinary conditions",
+      "anchor": "#27-4-specific-genitourinary-conditions"
+    },
+    {
+      "level": 4,
+      "text": "27.4.1. Neurogenic bladder",
+      "anchor": "#27-4-1-neurogenic-bladder"
+    },
+    {
+      "level": 4,
+      "text": "27.4.2. Posterior urethral valves",
+      "anchor": "#27-4-2-posterior-urethral-valves"
+    },
+    {
+      "level": 4,
+      "text": "27.4.3. Hypospadias",
+      "anchor": "#27-4-3-hypospadias"
+    },
+    {
+      "level": 4,
+      "text": "27.4.4. Bladder-exstrophy-epispadias complex",
+      "anchor": "#27-4-4-bladder-exstrophy-epispadias-complex"
+    },
+    {
+      "level": 4,
+      "text": "27.4.5. Differences of sex development",
+      "anchor": "#27-4-5-differences-of-sex-development"
+    },
+    {
+      "level": 3,
+      "text": "27.5. Summary of evidence and recommendations for transitional urology",
+      "anchor": "#27-5-summary-of-evidence-and-recommendations-for-transitional-urology"
+    },
+    {
+      "level": 2,
+      "text": "28. FOETAL UROLOGY",
+      "anchor": "#28-foetal-urology"
+    },
+    {
+      "level": 3,
+      "text": "28.1. Normal renal development",
+      "anchor": "#28-1-normal-renal-development"
+    },
+    {
+      "level": 4,
+      "text": "28.1.1. Introduction",
+      "anchor": "#28-1-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "28.1.2. Renal and bladder development",
+      "anchor": "#28-1-2-renal-and-bladder-development"
+    },
+    {
+      "level": 3,
+      "text": "28.2. Antenatal hydronephrosis",
+      "anchor": "#28-2-antenatal-hydronephrosis"
+    },
+    {
+      "level": 4,
+      "text": "28.2.1. Definitions and follow-up during pregnancy",
+      "anchor": "#28-2-1-definitions-and-follow-up-during-pregnancy"
+    },
+    {
+      "level": 4,
+      "text": "28.2.2. Aetiology",
+      "anchor": "#28-2-2-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "28.2.3. Classification systems for postnatal outcomes",
+      "anchor": "#28-2-3-classification-systems-for-postnatal-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "28.2.4. Postnatal outcomes",
+      "anchor": "#28-2-4-postnatal-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "28.2.5. Long-term outcomes",
+      "anchor": "#28-2-5-long-term-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "28.2.6. Prophylactic measures against UTIs",
+      "anchor": "#28-2-6-prophylactic-measures-against-utis"
+    },
+    {
+      "level": 3,
+      "text": "28.3. Congenital lower urinary tract obstruction",
+      "anchor": "#28-3-congenital-lower-urinary-tract-obstruction"
+    },
+    {
+      "level": 4,
+      "text": "28.3.1. Introduction",
+      "anchor": "#28-3-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "28.3.2. Diagnosis",
+      "anchor": "#28-3-2-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "28.3.3. Management",
+      "anchor": "#28-3-3-management"
+    },
+    {
+      "level": 4,
+      "text": "28.3.4. Foetal cystoscopy",
+      "anchor": "#28-3-4-foetal-cystoscopy"
+    },
+    {
+      "level": 4,
+      "text": "28.3.5. Serial amniotic infusions",
+      "anchor": "#28-3-5-serial-amniotic-infusions"
+    },
+    {
+      "level": 4,
+      "text": "28.3.6. Outcomes postnatally",
+      "anchor": "#28-3-6-outcomes-postnatally"
+    },
+    {
+      "level": 4,
+      "text": "28.3.7. Postnatal management",
+      "anchor": "#28-3-7-postnatal-management"
+    },
+    {
+      "level": 4,
+      "text": "28.3.8. Complex urogenital pathologies - prenatal management and considerations",
+      "anchor": "#28-3-8-complex-urogenital-pathologies---prenatal-management-and-considerations"
+    },
+    {
+      "level": 4,
+      "text": "28.3.9. Summary of evidence and recommendations for foetal urology",
+      "anchor": "#28-3-9-summary-of-evidence-and-recommendations-for-foetal-urology"
+    },
+    {
+      "level": 2,
+      "text": "29. REFERENCES",
+      "anchor": "#29-references"
+    },
+    {
+      "level": 2,
+      "text": "30. CONFLICT OF INTEREST",
+      "anchor": "#30-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "31. CITATION INFORMATION",
+      "anchor": "#31-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "32. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#32-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#paediatric-urology",
+      "title": "Paediatric Urology",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 3. Phimosis And Other Abnormalities Of The Penile Skin Introduction Methods Phimosis And Other Abnormalities Of The Penile Skin Management Of Undescended Testes Testicular Tumours In Prepubertal Boys Fertility Preservation In Children And Adolescents Hydrocele Acute Scrotum Hypospadias Congenital Penile Curvature Varicocele In Children And Adolescents Urinary Tract Infections In Children Daytime Lower Urinary Tract Conditions Monosymptomatic Nocturnal Enuresis Bedwetting Spinal Dysraphism In Children And Adolescents Formally Neurogenic Bladder Dilatation Of The Upper Urinary Tract Puj Obstruction Vesicoureteric Reflux Urinary Stone Disease Ureterocele And Ectopic Ureter Disorders/differences Of Sex Development Congenital Lower Urinary Tract Obstruction Rare Conditions In Childhood Emergencies In Paediatric Urology Paediatric Urological Trauma Perioperative Management Basic Principles Of Laparoscopic Surgery In Children Transitional Urology Foetal Urology References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#3-phimosis-and-other-abnormalities-of-the-penile-skin",
+      "title": "3. PHIMOSIS AND OTHER ABNORMALITIES OF THE PENILE SKIN",
+      "level": 2,
+      "text": "The prepuce, or foreskin, of the penis is often a cause for concern to parents of young boys and physicians alike [21], with 10% seeking medical advice [22]. While there are some pathological abnormalities of the foreskin, these are in fact quite rare and must be discerned from physiological variations or developmental stages. In this chapter, we will highlight normal development, its variations and how to discern this from abnormal foreskin requiring treatment, and also provide various treatment options.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-1-terminology-epidemiology-and-pathophysiology",
+      "title": "3.1. Terminology, epidemiology and pathophysiology",
+      "level": 3,
+      "text": "At birth, the foreskin can be retracted in 4% of boys. In 42% of neonates, the tip of the glans cannot be visualised. By the end of the first year of life, retraction of the foreskin behind the glandular corona is possible in approximately 50% of boys, increasing to 89% by the age of three years. Nonretractability of the foreskin can be a physiological phase that does not require treatment in the absence of symptoms, such as painful erections or balanitis. Phimosis In phimosis, the inability to retract the foreskin over the glans penis is due to a narrow ring in the prepuce. Several factors have been suggested to aid in the gradual dilation of this ring: histological changes in the prepuce, hormonal factors and stretching due to erections. While erections occur even antenatally, these may be insufficient to stretch the foreskin if it is relatively long, and therefore relative phimosis can be present for a prolonged period [23]. Epidemiological studies of the natural course of phimosis are difficult, as they are affected by treatment of a subgroup of subjects. Nonetheless, the incidence of phimosis is 9-20% in five- to 13-year-olds and just 1% in males aged 16 to 18 years [23,24]. Preputial adhesions Another cause of nonretractability of the prepuce are adhesions of the foreskin to the glans. This must be distinguished from phimosis. Usually when adhesions are present, partial retraction is possible and the meatus can be visualised [24]. Adhesions are a physiological phenomenon of variable duration, present in 63% of six- to seven-year-olds and 3% of 16- to 17-year-olds without phimosis [24]. Progressive separation of the inner prepuce from the glans is associated with build-up of epithelial debris (smegma) and aided by penile erections. During this process, smegma can accumulate into nodules that may be mistaken for cysts. When released from between the skin layers, smegma can resemble purulent discharge, especially when mixed with urine. Focal erythema may also occur temporarily. In the absence of other signs of infection, this should not be confused with balanitis. Once adhesions between the glans and inner prepuce are resolved, ballooning of the foreskin may also occur during voiding, particularly if the opening of the prepuce is still relatively narrow. Ballooning is not a sign of obstructed voiding and uroflows have been shown to be normal with ballooning [25]. Therefore, ballooning may be a physiological phase, and it should only be considered a problem in case of (recurring) balanitis. Paraphimosis In paraphimosis, the foreskin has been retracted and cannot be brought back down to cover the glans of the penis. In children, it is most likely due to manipulation, with an incidence reported to be as low as 0.2% [22]. The risk of paraphimosis is higher if relative phimosis is present. The narrow ring in the retracted prepuce may constrict the shaft at the level of the sulcus, leading to oedema of the glans and retracted foreskin. Impaired perfusion may lead to necrosis of the prepuce and ultimately of the glans. Paraphimosis must be regarded as a medical emergency requiring urgent treatment [26]. Balanitis/balanoposthitis Balanoposthitis can be defined as erythema and swelling of the glans (balanitis) and/or foreskin (posthitis), with discharge of pus. It should not be confused with focal irritation due to retention of droplets of urine under the foreskin. Balanoposthitis may be seen in 6% of uncircumcised boys [22,27]. Balanitis xerotica obliterans Balanitis xerotica obliterans (BXO) is a non-painful chronic inflammatory disease that may affect the glans, foreskin, meatus and urethra. As such, it is a genital form of lichen sclerosus et atrophicus [23]. Balanitis xerotica obliterans may lead to scarring, phimosis and urethral outflow problems. Histological analysis of the prepuces of children and adolescents undergoing circumcision for medical reasons shows signs of BXO in 35%-53% [28]; in boys younger than ten years, this is 17% [29,30]. Inconspicuous penis The following are various types of concealed or inconspicuous penis, which should be differentiated from truly small penis such as micropenis, with abnormal size of the corporeal bodies or even aphallia: Buried penis and megaprepuce are congenital anomalies in which the skin is folded abnormally around the shaft. The opening of the prepuce can be narrow, prohibiting retraction similar to regular phimosis, but may also be normal. Buried penis can occasionally be due to abnormal prepubic fat distribution, which may be self-limiting with growth or weight loss. In webbed penis, the penoscrotal angle is abnormal due to the scrotum being attached high on the ventral side of the shaft. Trapped penis is an iatrogenic form of buried penis that may be caused by resection of too much skin during circumcision [31].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-2-classification-and-diagnostic-evaluation",
+      "title": "3.2. Classification and diagnostic evaluation",
+      "level": 3,
+      "text": "To determine which cases require treatment, phimosis should be divided into a physiological and pathological type. Physiological phimosis is most likely to resolve over time without intervention, whereas pathological phimosis may not. In physiological phimosis, there is no sign of scarring and, upon retraction, the inner prepuce is seen bulging outward from the narrow ring in the prepuce (‘pouting’). In pathological or secondary phimosis, there is scarring; the narrow ring in the prepuce is fibrous, often white and thickened; and the inner layer of the prepuce is not seen coming out [32]. Balanitis xerotica obliterans is a special form of pathological phimosis. The diagnosis of adhesions, phimosis and paraphimosis is made by physical examination alone and can differentiate between physiological variations or pathological abnormalities. If the prepuce is not retractable, or only partly retractable, and shows a constrictive ring upon retraction back over the glans penis, a disproportion between the width of the foreskin and the diameter of the glans penis must be assumed. In addition to the constricted foreskin, the inner prepuce may be adherend to the glans and/or frenulum breve. Balanitis xerotica obliterans remains a histopathological diagnosis, as clinically discerning BXO from simple pathological phimosis by may be difficult, particularly to the untrained eye. Histopathological examination of resected foreskin is warranted due to the consequences of this diagnosis with regards to follow-up [33,34]. In buried penis, the shaft itself appears shorter upon inspection but is of normal size upon palpation, hence the name. In megaprepuce, the shaft may have a normal appearance, or it may resemble buried penis. The diagnosis is made based on the aspect of the penis during voiding. When the enlarged space between shaft and inner prepuce fills up with urine during voiding, this causes the entire penis to swell. Megaprepuce can be discerned from regular phimosis, in which only the tip of the penis may demonstrate ballooning. It may be helpful if caregivers show a photo or even video of the aspect of the penis during voiding.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-management",
+      "title": "3.3. Management",
+      "level": 3,
+      "text": "Hygiene The foreskin should not be retracted for cleaning until this can be done easily. It should be stressed to parents/caregivers that forced retraction of a narrow foreskin may cause scar formation, resulting in secondary pathological phimosis [35]. Care should be taken to reduce the foreskin back down over the glans to prevent paraphimosis. Once the foreskin is retractable, this can be done regularly during bathing and becomes necessary for hygienic reasons starting in puberty. The production of smegma appears to increase at puberty, coinciding with the age at which most boys can retract their foreskin [32]. Conservative/medical management Physiological phimosis and adhesions do not require treatment unless there are accompanying urogenital abnormalities. Conservative medical treatment is a valid option for primary pathological phimosis. Class 4 corticosteroid therapies were more effective over placebo and manual stretching [36]. Topical corticoid (0.05-0.1%) can be administered twice a day over a period of four to eight weeks with a success rate of > 80% [36-39]. A publication showed that lower class corticosteroids may be almost equally effective [40]. A recurrence rate of up to 17% can be expected [41]. Effectivity of topical corticosteroids is likely to be influenced by correct application, which must be directly onto the narrow ring under gentle retraction. Similarly, after finishing the corticosteroid treatment, recurrence should be prevented by continuing daily retraction of the prepuce [42]. While all types of phimoses may respond to corticosteroid treatment, the success rate may be lower in pathological phimosis. If BXO is suspected, consultation with a dermatologist should be considered [43]. Corticosteroid treatment has no systemic side effects, and mean blood cortisol levels are not significantly different from an untreated group of patients [44]. The hypothalamic-pituitary-adrenal axis was not influenced by local corticoid treatment [45]. However, if treatment is continued for too long or too much product is used, this may cause focal atrophy and vulnerability of the skin. In general, cream may be associated with dryness and irritation, due to the nature of the product compared to ointment. Adhesion of the foreskin to the glans does not respond to corticosteroid treatment [37]. Operative management Circumcision for nonmedical reasons, such as routine circumcision for cultural, religious or hygienic considerations, is not discussed in this chapter. Medical indications for surgical intervention for phimosis are recurrent balanoposthitis or symptomatic therapy-resistant phimosis. Simple ballooning of the foreskin during micturition is not an indication for surgery per se. Several indications for circumcision in the absence of symptomatic phimosis have been proposed. In boys with increased risk of urinary tract infections (UTIs) due to congenital upper tract abnormalities, circumcision may be performed to reduce the risk of UTIs [46-49]. Male circumcision significantly reduces the bacterial colonisation of the glans penis with regard to both non-uropathogenic and uropathogenic bacteria [50]. However, resolution of phimosis by corticosteroid treatment may have similar results, as it was also associated with substantial reduction in recurrent UTI in uncircumcised infants [51]. (See Chapter 12, Urinary tract infections in children, and Chapter 17, Vesicoureteric reflux). Routine neonatal circumcision to prevent penile carcinoma is not indicated. A meta-analysis could not find any risk in uncircumcised patients without a history of phimosis [52]. The type of operative treatment of phimosis in children is dependent on the caregivers’ preferences and can be preputioplasty or circumcision. In preputioplasty, the objective is to preserve the prepuce while achieving a wider foreskin circumference with full retractability. Several surgical techniques have been described to achieve this goal: dorsal incision, partial circumcision, and trident preputioplasty, which combines two Z-plasties and Y-plasty [53,54]. The main disadvantage of preputioplasty is the inherent potential for recurrence of phimosis [55]. In circumcision, the prepuce is resected completely. Contraindications for circumcision are: an acute local infection and congenital anomalies of the penis, particularly hypospadias; buried penis and megaprepuce; epispadias; and congenital penile curvature, as the foreskin may be required for a reconstructive procedure [56,57]. When surgically correcting phimosis, additional issues should be addressed during the same session: adhesions are released, an associated frenulum breve is corrected by frenulotomy, and the meatus is calibrated with meatoplasty added if necessary. Paraphimosis treatment Treatment of paraphimosis consists of manual compression of the oedematous tissue with a subsequent attempt to retract the tightened foreskin over the glans penis [58,59]. If this manoeuvre fails, a dorsal incisi",
+      "tables": []
+    },
+    {
+      "anchor": "#3-4-complications",
+      "title": "3.4. Complications",
+      "level": 3,
+      "text": "Complications following circumcision vary and have been reported in between 0-30% of all circumcisions [60]. Hung et al. found 2.9% complications in non-neonates during a five-year follow-up period; 2.2% were early (within 30 days after circumcision). Nonhealing wounds, haemorrhage, wound infection, meatal stenosis, redundant skin, non-satisfying cosmetic appearance and trapped penis all may occur [61]. The incidence of post-circumcision meatal stenosis is higher in boys with confirmed BXO compared to those who underwent circumcision for phimosis without BXO (20% vs. 6%) [33]. Overall, the risk of complications appears low when done by professionals in a medical setting.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-5-follow-up",
+      "title": "3.5. Follow-up",
+      "level": 3,
+      "text": "Any preputial surgery requires early follow-up of four to six weeks after surgery. In case of BXO, prolonged follow-up is warranted and may involve a dermatologist. Balanitis xerotica obliterans is associated with meatal pathology (stenosis) after circumcision in up to 20% of boys [30,62,63].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-6-summary-of-evidence-and-recommendations-for-the-management-of-phimosis",
+      "title": "3.6. Summary of evidence and recommendations for the management of phimosis",
+      "level": 3,
+      "text": "Summary of evidence LE Nonretractability of the foreskin, preputial adhesions and ballooning may be a physiological phase before puberty and do not require treatment in the absence of symptoms. 3 Forced retraction of a narrow foreskin should be avoided to prevent scar formation, which may result in secondary pathological phimosis. 3 Conservative treatment of phimosis with topical corticosteroids (ointment or cream) has a high success rate, but surgical treatment may be considered if preferred by caregivers or patients. 1b Balanitis xerotica obliterans warrants prolonged follow-up due to risk of meatal stenosis or urethral involvement. 2 Recommendations Strength rating Offer topical corticosteroids (ointment or cream) as first-line treatment in symptomatic phimosis. Strong Consider surgical intervention (if patient/caregivers prefer) for symptomatic phimosis. Strong Offer circumcision in case of Balanitis xerotica obliterans (BXO) or phimosis refractory to treatment. Strong Offer treatment for asymptomatic phimosis in infants with a risk of recurrent urinary tract infection due to upper urinary tract abnormalities (vesicoureteral reflux or posterior urethral valves). Strong Inform patients about the risk of meatal stenosis in BXO. Strong Await spontaneous resolution of asymptomatic preputial adhesions before puberty. Weak Treat paraphimosis by manual reposition and, if this fails, proceed to surgery. Strong Do not perform simple circumcision if phimosis is associated with other penile anomalies such as buried penis, congenital penile curvature, epispadias or hypospadias. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Nonretractability of the foreskin, preputial adhesions and ballooning may be a physiological phase before puberty and do not require treatment in the absence of symptoms.",
+              "3"
+            ],
+            [
+              "Forced retraction of a narrow foreskin should be avoided to prevent scar formation, which may result in secondary pathological phimosis.",
+              "3"
+            ],
+            [
+              "Conservative treatment of phimosis with topical corticosteroids (ointment or cream) has a high success rate, but surgical treatment may be considered if preferred by caregivers or patients.",
+              "1b"
+            ],
+            [
+              "Balanitis xerotica obliterans warrants prolonged follow-up due to risk of meatal stenosis or urethral involvement.",
+              "2"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer topical corticosteroids (ointment or cream) as first-line treatment in symptomatic phimosis.",
+              "Strong"
+            ],
+            [
+              "Consider surgical intervention (if patient/caregivers prefer) for symptomatic phimosis.",
+              "Strong"
+            ],
+            [
+              "Offer circumcision in case of Balanitis xerotica obliterans (BXO) or phimosis refractory to treatment.",
+              "Strong"
+            ],
+            [
+              "Offer treatment for asymptomatic phimosis in infants with a risk of recurrent urinary tract infection due to upper urinary tract abnormalities (vesicoureteral reflux or posterior urethral valves).",
+              "Strong"
+            ],
+            [
+              "Inform patients about the risk of meatal stenosis in BXO.",
+              "Strong"
+            ],
+            [
+              "Await spontaneous resolution of asymptomatic preputial adhesions before puberty.",
+              "Weak"
+            ],
+            [
+              "Treat paraphimosis by manual reposition and, if this fails, proceed to surgery.",
+              "Strong"
+            ],
+            [
+              "Do not perform simple circumcision if phimosis is associated with other penile anomalies such as buried penis, congenital penile curvature, epispadias or hypospadias.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 2
+}

@@ -1,0 +1,609 @@
+{
+  "guideline": "urological-infections",
+  "chapter": "introduction",
+  "url": "https://uroweb.org/guidelines/urological-infections/chapter/introduction",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Summary of changes",
+      "anchor": "#1-4-1-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Introduction",
+      "anchor": "#2-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. THE GUIDELINE",
+      "anchor": "#3-the-guideline"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Classification",
+      "anchor": "#3-1-classification"
+    },
+    {
+      "level": 4,
+      "text": "3.1.1. Risk factors",
+      "anchor": "#3-1-1-risk-factors"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Antimicrobial stewardship",
+      "anchor": "#3-2-antimicrobial-stewardship"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Asymptomatic bacteriuria in adults",
+      "anchor": "#3-3-asymptomatic-bacteriuria-in-adults"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Background",
+      "anchor": "#3-3-1-background"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#3-3-2-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Diagnostic evaluation",
+      "anchor": "#3-3-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Evidence summary",
+      "anchor": "#3-3-4-evidence-summary"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. Disease management",
+      "anchor": "#3-3-5-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "3.3.6. Follow-up",
+      "anchor": "#3-3-6-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "3.3.7. Summary of evidence and recommendations for the management of ABU",
+      "anchor": "#3-3-7-summary-of-evidence-and-recommendations-for-the-management-of-abu"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Cystitis in women",
+      "anchor": "#3-4-cystitis-in-women"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Introduction",
+      "anchor": "#3-4-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#3-4-2-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Diagnostic evaluation",
+      "anchor": "#3-4-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.4.4. Disease management",
+      "anchor": "#3-4-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "3.4.5. Follow-up",
+      "anchor": "#3-4-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Recurrent cystitis",
+      "anchor": "#3-5-recurrent-cystitis"
+    },
+    {
+      "level": 4,
+      "text": "3.5.1. Introduction",
+      "anchor": "#3-5-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "3.5.2. Diagnostic evaluation",
+      "anchor": "#3-5-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.5.3. Disease management and follow-up",
+      "anchor": "#3-5-3-disease-management-and-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "3.5.4. Summary of evidence and recommendations for the diagnostic evaluation and treatment of recurrent cystitis",
+      "anchor": "#3-5-4-summary-of-evidence-and-recommendations-for-the-diagnostic-evaluation-and-treatment-of-recurrent-cystitis"
+    },
+    {
+      "level": 3,
+      "text": "3.6. Pyelonephritis",
+      "anchor": "#3-6-pyelonephritis"
+    },
+    {
+      "level": 4,
+      "text": "3.6.1. Diagnostic evaluation",
+      "anchor": "#3-6-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.6.2. Summary of evidence and recommendations for the diagnostic evaluation of pyelonephritis",
+      "anchor": "#3-6-2-summary-of-evidence-and-recommendations-for-the-diagnostic-evaluation-of-pyelonephritis"
+    },
+    {
+      "level": 4,
+      "text": "3.6.3. Disease management",
+      "anchor": "#3-6-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "3.6.4. Follow-up",
+      "anchor": "#3-6-4-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "3.7. Systemic urinary tract infections",
+      "anchor": "#3-7-systemic-urinary-tract-infections"
+    },
+    {
+      "level": 4,
+      "text": "3.7.1. Introduction",
+      "anchor": "#3-7-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "3.7.2. Diagnostic evaluation",
+      "anchor": "#3-7-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.7.3. General principles of systemic UTI treatment",
+      "anchor": "#3-7-3-general-principles-of-systemic-uti-treatment"
+    },
+    {
+      "level": 4,
+      "text": "3.7.4. Summary of evidence and recommendations for the treatment of systemic UTIs",
+      "anchor": "#3-7-4-summary-of-evidence-and-recommendations-for-the-treatment-of-systemic-utis"
+    },
+    {
+      "level": 3,
+      "text": "3.8. Catheter-associated UTIs",
+      "anchor": "#3-8-catheter-associated-utis"
+    },
+    {
+      "level": 4,
+      "text": "3.8.1. Introduction",
+      "anchor": "#3-8-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "3.8.2. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#3-8-2-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "3.8.3. Diagnostic evaluation",
+      "anchor": "#3-8-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.8.4. Disease management",
+      "anchor": "#3-8-4-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "3.9. Urosepsis",
+      "anchor": "#3-9-urosepsis"
+    },
+    {
+      "level": 3,
+      "text": "3.10. Urethritis",
+      "anchor": "#3-10-urethritis"
+    },
+    {
+      "level": 4,
+      "text": "3.10.1. Introduction",
+      "anchor": "#3-10-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "3.10.2. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#3-10-2-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "3.10.3. Diagnostic evaluation",
+      "anchor": "#3-10-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.10.4. Urethral swab, urinalysis, NAAT",
+      "anchor": "#3-10-4-urethral-swab-urinalysis-naat"
+    },
+    {
+      "level": 4,
+      "text": "3.10.5. Disease management",
+      "anchor": "#3-10-5-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "3.10.6. Follow-up",
+      "anchor": "#3-10-6-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "3.10.7. Summary of evidence and recommendations for the diagnostic evaluation and antimicrobial treatment of urethritis",
+      "anchor": "#3-10-7-summary-of-evidence-and-recommendations-for-the-diagnostic-evaluation-and-antimicrobial-treatment-of-urethritis"
+    },
+    {
+      "level": 3,
+      "text": "3.11. Bacterial Prostatitis",
+      "anchor": "#3-11-bacterial-prostatitis"
+    },
+    {
+      "level": 4,
+      "text": "3.11.1. Introduction",
+      "anchor": "#3-11-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "3.11.2. Evidence summary",
+      "anchor": "#3-11-2-evidence-summary"
+    },
+    {
+      "level": 4,
+      "text": "3.11.3. Epidemiology, aetiology and pathogenesis",
+      "anchor": "#3-11-3-epidemiology-aetiology-and-pathogenesis"
+    },
+    {
+      "level": 4,
+      "text": "3.11.4. Diagnostic evaluation",
+      "anchor": "#3-11-4-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.11.5. Disease management",
+      "anchor": "#3-11-5-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "3.11.6. Follow-up",
+      "anchor": "#3-11-6-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "3.12. Acute epididymitis",
+      "anchor": "#3-12-acute-epididymitis"
+    },
+    {
+      "level": 4,
+      "text": "3.12.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#3-12-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "3.12.2. Diagnostic evaluation",
+      "anchor": "#3-12-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.12.3. Disease management",
+      "anchor": "#3-12-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "3.12.4. Evidence summary",
+      "anchor": "#3-12-4-evidence-summary"
+    },
+    {
+      "level": 4,
+      "text": "3.12.5. Screening",
+      "anchor": "#3-12-5-screening"
+    },
+    {
+      "level": 4,
+      "text": "3.12.6. Summary of evidence and recommendations for the diagnosis and treatment of acute infective epididymitis",
+      "anchor": "#3-12-6-summary-of-evidence-and-recommendations-for-the-diagnosis-and-treatment-of-acute-infective-epididymitis"
+    },
+    {
+      "level": 3,
+      "text": "3.13. Fournier’s gangrene (necrotising fasciitis of the perineum and external genitalia)",
+      "anchor": "#3-13-fourniers-gangrene-necrotising-fasciitis-of-the-perineum-and-external-genitalia"
+    },
+    {
+      "level": 4,
+      "text": "3.13.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#3-13-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "3.13.2. Diagnostic evaluation",
+      "anchor": "#3-13-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.13.3. Disease management",
+      "anchor": "#3-13-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "3.13.4. Evidence summary",
+      "anchor": "#3-13-4-evidence-summary"
+    },
+    {
+      "level": 4,
+      "text": "3.13.5. Summary of evidence and recommendations for the disease management of Fournier’s gangrene",
+      "anchor": "#3-13-5-summary-of-evidence-and-recommendations-for-the-disease-management-of-fourniers-gangrene"
+    },
+    {
+      "level": 3,
+      "text": "3.14. Management of human papillomavirus in men",
+      "anchor": "#3-14-management-of-human-papillomavirus-in-men"
+    },
+    {
+      "level": 4,
+      "text": "3.14.1. Epidemiology",
+      "anchor": "#3-14-1-epidemiology"
+    },
+    {
+      "level": 4,
+      "text": "3.14.2. Risk factors",
+      "anchor": "#3-14-2-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.14.3. Transmission",
+      "anchor": "#3-14-3-transmission"
+    },
+    {
+      "level": 4,
+      "text": "3.14.4. Clearance",
+      "anchor": "#3-14-4-clearance"
+    },
+    {
+      "level": 4,
+      "text": "3.14.5. Diagnosis",
+      "anchor": "#3-14-5-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "3.14.6. Treatment of HPV-related diseases",
+      "anchor": "#3-14-6-treatment-of-hpv-related-diseases"
+    },
+    {
+      "level": 4,
+      "text": "3.14.7. Circumcision for reduction of HPV prevalence",
+      "anchor": "#3-14-7-circumcision-for-reduction-of-hpv-prevalence"
+    },
+    {
+      "level": 4,
+      "text": "3.14.8. Therapeutic vaccination",
+      "anchor": "#3-14-8-therapeutic-vaccination"
+    },
+    {
+      "level": 4,
+      "text": "3.14.9. Prophylactic vaccination",
+      "anchor": "#3-14-9-prophylactic-vaccination"
+    },
+    {
+      "level": 3,
+      "text": "3.15. Herpes simplex virus",
+      "anchor": "#3-15-herpes-simplex-virus"
+    },
+    {
+      "level": 4,
+      "text": "3.15.1. Epidemiology, aetiology and pathogenesis",
+      "anchor": "#3-15-1-epidemiology-aetiology-and-pathogenesis"
+    },
+    {
+      "level": 4,
+      "text": "3.15.2. Diagnosis",
+      "anchor": "#3-15-2-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "3.15.3. Disease management",
+      "anchor": "#3-15-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "3.15.4. Prevention, screening and contact tracing, follow-up",
+      "anchor": "#3-15-4-prevention-screening-and-contact-tracing-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "3.16. Genitourinary tuberculosis",
+      "anchor": "#3-16-genitourinary-tuberculosis"
+    },
+    {
+      "level": 4,
+      "text": "3.16.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#3-16-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "3.16.2. Diagnosis",
+      "anchor": "#3-16-2-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "3.16.3. Medical treatment",
+      "anchor": "#3-16-3-medical-treatment"
+    },
+    {
+      "level": 4,
+      "text": "3.16.4. Surgical treatment",
+      "anchor": "#3-16-4-surgical-treatment"
+    },
+    {
+      "level": 4,
+      "text": "3.16.5. Summary of evidence and recommendations for the diagnosis and treatment of GUTB",
+      "anchor": "#3-16-5-summary-of-evidence-and-recommendations-for-the-diagnosis-and-treatment-of-gutb"
+    },
+    {
+      "level": 3,
+      "text": "3.17. Fungal urinary tract infection",
+      "anchor": "#3-17-fungal-urinary-tract-infection"
+    },
+    {
+      "level": 4,
+      "text": "3.17.1. Epidemiology and risk factors",
+      "anchor": "#3-17-1-epidemiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.17.2. Clinical presentation and diagnosis",
+      "anchor": "#3-17-2-clinical-presentation-and-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "3.17.3. Treatment",
+      "anchor": "#3-17-3-treatment"
+    },
+    {
+      "level": 4,
+      "text": "3.17.4. Sodium-glucose cotransporter 2 inhibitors and fungal cystitis",
+      "anchor": "#3-17-4-sodium-glucose-cotransporter-2-inhibitors-and-fungal-cystitis"
+    },
+    {
+      "level": 3,
+      "text": "3.18. Periprocedural antibiotic prophylaxis",
+      "anchor": "#3-18-periprocedural-antibiotic-prophylaxis"
+    },
+    {
+      "level": 4,
+      "text": "3.18.1. General principles",
+      "anchor": "#3-18-1-general-principles"
+    },
+    {
+      "level": 4,
+      "text": "3.18.2. Specific procedures and evidence question",
+      "anchor": "#3-18-2-specific-procedures-and-evidence-question"
+    },
+    {
+      "level": 4,
+      "text": "3.18.3. Summary of evidence and recommendations for peri-procedural antibiotic prophylaxis",
+      "anchor": "#3-18-3-summary-of-evidence-and-recommendations-for-peri-procedural-antibiotic-prophylaxis"
+    },
+    {
+      "level": 2,
+      "text": "4. REFERENCES",
+      "anchor": "#4-references"
+    },
+    {
+      "level": 2,
+      "text": "5. CONFLICT OF INTEREST",
+      "anchor": "#5-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "6. CITATION INFORMATION",
+      "anchor": "#6-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "7. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#7-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#urological-infections",
+      "title": "Urological Infections",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 1. Introduction Introduction Methods The Guideline References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#1-introduction",
+      "title": "1. INTRODUCTION",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#1-1-aim-and-objectives",
+      "title": "1.1. Aim and objectives",
+      "level": 3,
+      "text": "This overview represents the updated European Association of Urology (EAU) Guidelines for Urological Infections. The aim is to provide practical recommendations for the prevention and treatment of urinary tract infections (UTIs) and male accessory gland infections. These Guidelines also aim to address the important public health aspects of infection control and antimicrobial stewardship. Separate EAU guidelines are available addressing paediatric urological infections [1] and infections in patients with neurological urinary tract dysfunction [2]. It must be emphasised that clinical guidelines present the best evidence available to the experts, but following guideline recommendations will not necessarily result in the best outcome. Guidelines can never replace clinical expertise when making treatment decisions for individual patients but rather help to focus decisions also taking personal values and references/individual circumstances of patients into account. Guidelines are not mandates and do not purport to be a legal standard of care.",
+      "tables": []
+    },
+    {
+      "anchor": "#1-2-panel-composition",
+      "title": "1.2. Panel composition",
+      "level": 3,
+      "text": "The EAU Guidelines Panel on Urological Infections consists of an international multidisciplinary group of urologists with particular expertise in this area, as well as an infectious disease specialist and a clinical microbiologist. All experts involved in the production of this document have submitted potential conflict of interest statements, which can be viewed on the EAU website: http://uroweb.org/guideline/urological-infections/ .",
+      "tables": []
+    },
+    {
+      "anchor": "#1-3-available-publications",
+      "title": "1.3. Available publications",
+      "level": 3,
+      "text": "A quick reference document, the Pocket Guidelines, is available online and in print. This is an abridged version, which may require consultation together with the full text version. Several scientific publications are also available. All documents are accessible through the EAU website: http://uroweb.org/guideline/urological-infections/ . An EAU Guidelines app for iOS and Android devices is also available, containing the Pocket Guidelines, interactive algorithms and calculators, clinical decision support tools, guidelines cheat sheets, and links to the extended guidelines.",
+      "tables": []
+    },
+    {
+      "anchor": "#1-4-publication-history",
+      "title": "1.4. Publication history",
+      "level": 3,
+      "text": "The Urological Infections Guidelines were first published in 2001. This 2026 document presents a limited update of the 2025 publication.",
+      "tables": []
+    },
+    {
+      "anchor": "#1-4-1-summary-of-changes",
+      "title": "1.4.1. Summary of changes",
+      "level": 4,
+      "text": "For the 2026 Urological Infections Guidelines, new and relevant evidence was identified, collated and appraised through a structured assessment of the literature for Sections 3.17 and 3.18.2.h. This resulted in the inclusion of 36 additional studies across the Guidelines. Key changes include: Update of the recommendations in Section 3.4.3.d, Summary of evidence and recommendations for the diagnostic evaluation of cystitis. Update of the recommendations in Section 3.4.4.d, Summary of evidence and recommendations for antimicrobial therapy for cystitis. Addition of a new section on the diagnosis and treatment of fungal urinary tract infections: Section 3.17, Fungal urinary tract infection. Update of the evidence and recommendations on periprocedural antibiotic prophylaxis for prostate biopsy in Section 3.18.3, Summary of evidence and recommendations for periprocedural antibiotic prophylaxis. Review and update of antibiotic dosages, where appropriate.",
+      "tables": []
+    }
+  ],
+  "tables_count": 0
+}

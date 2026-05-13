@@ -1,0 +1,959 @@
+{
+  "guideline": "muscle-invasive-and-metastatic-bladder-cancer",
+  "chapter": "diagnostic-evaluation",
+  "url": "https://uroweb.org/guidelines/muscle-invasive-and-metastatic-bladder-cancer/chapter/diagnostic-evaluation",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Future goals",
+      "anchor": "#2-3-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AND AETIOLOGY",
+      "anchor": "#3-epidemiology-and-aetiology"
+    },
+    {
+      "level": 2,
+      "text": "3.1 Clinical presentation",
+      "anchor": "#3-1-clinical-presentation"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Aetiology",
+      "anchor": "#3-3-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Tobacco smoking",
+      "anchor": "#3-3-1-tobacco-smoking"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Occupational exposure to chemicals",
+      "anchor": "#3-3-2-occupational-exposure-to-chemicals"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Radiotherapy",
+      "anchor": "#3-3-3-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Dietary factors",
+      "anchor": "#3-3-4-dietary-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. Metabolic disorders",
+      "anchor": "#3-3-5-metabolic-disorders"
+    },
+    {
+      "level": 4,
+      "text": "3.3.6. Bladder schistosomiasis and chronic urinary tract infection",
+      "anchor": "#3-3-6-bladder-schistosomiasis-and-chronic-urinary-tract-infection"
+    },
+    {
+      "level": 4,
+      "text": "3.3.7. Sex",
+      "anchor": "#3-3-7-sex"
+    },
+    {
+      "level": 4,
+      "text": "3.3.8. Genetic factors",
+      "anchor": "#3-3-8-genetic-factors"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Summary of evidence and recommendations for epidemiology and risk factors",
+      "anchor": "#3-4-summary-of-evidence-and-recommendations-for-epidemiology-and-risk-factors"
+    },
+    {
+      "level": 2,
+      "text": "4. PATHOLOGY AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-pathology-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Cytology",
+      "anchor": "#4-1-cytology"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Histology",
+      "anchor": "#4-2-histology"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Pathological staging",
+      "anchor": "#4-3-pathological-staging"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Tumour, Node, Metastasis classification",
+      "anchor": "#4-4-tumour-node-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Pathological markers",
+      "anchor": "#4-5-pathological-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Lymphovascular invasion",
+      "anchor": "#4-5-1-lymphovascular-invasion"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Carcinoma",
+      "anchor": "#4-5-2-carcinoma"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Tumour location",
+      "anchor": "#4-5-3-tumour-location"
+    },
+    {
+      "level": 4,
+      "text": "4.5.4. Lymph node-positive disease",
+      "anchor": "#4-5-4-lymph-node-positive-disease"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Tissue handling",
+      "anchor": "#4-6-tissue-handling"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Recommendations for the assessment of tumour specimens",
+      "anchor": "#4-7-recommendations-for-the-assessment-of-tumour-specimens"
+    },
+    {
+      "level": 3,
+      "text": "4.8. EAU-ESMO consensus statements on the management of advanced- and variant bladder cancer [82, 83]*",
+      "anchor": "#4-8-eau-esmo-consensus-statements-on-the-management-of-advanced--and-variant-bladder-cancer-82-83"
+    },
+    {
+      "level": 3,
+      "text": "4.9. Markers",
+      "anchor": "#4-9-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.9.1. Introduction",
+      "anchor": "#4-9-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "4.9.2. Clinical and histopathological markers",
+      "anchor": "#4-9-2-clinical-and-histopathological-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.9.3. Molecular variants",
+      "anchor": "#4-9-3-molecular-variants"
+    },
+    {
+      "level": 4,
+      "text": "4.9.4. Molecular markers",
+      "anchor": "#4-9-4-molecular-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.9.5. Conclusion",
+      "anchor": "#4-9-5-conclusion"
+    },
+    {
+      "level": 4,
+      "text": "4.9.6. Summary of evidence and recommendations for urothelial markers",
+      "anchor": "#4-9-6-summary-of-evidence-and-recommendations-for-urothelial-markers"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSIS",
+      "anchor": "#5-diagnosis"
+    },
+    {
+      "level": 3,
+      "text": "5.1. History and physical examination",
+      "anchor": "#5-1-history-and-physical-examination"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Urine cytology",
+      "anchor": "#5-2-urine-cytology"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Cystoscopy",
+      "anchor": "#5-3-cystoscopy"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Transurethral resection of invasive bladder tumours",
+      "anchor": "#5-4-transurethral-resection-of-invasive-bladder-tumours"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Summary of evidence and recommendations for the primary assessment of presumably invasive bladder tumours*",
+      "anchor": "#5-5-summary-of-evidence-and-recommendations-for-the-primary-assessment-of-presumably-invasive-bladder-tumours"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Imaging for staging",
+      "anchor": "#5-6-imaging-for-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.1. Local staging",
+      "anchor": "#5-6-1-local-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.2. Upper tract evaluation",
+      "anchor": "#5-6-2-upper-tract-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "5.6.3. Lymph node staging",
+      "anchor": "#5-6-3-lymph-node-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.4. Distant staging",
+      "anchor": "#5-6-4-distant-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.5. Future perspectives",
+      "anchor": "#5-6-5-future-perspectives"
+    },
+    {
+      "level": 4,
+      "text": "5.6.6. Summary of evidence and recommendations for staging in MIBC",
+      "anchor": "#5-6-6-summary-of-evidence-and-recommendations-for-staging-in-mibc"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT",
+      "anchor": "#6-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Multidisciplinary team for patients with MIBC",
+      "anchor": "#6-1-multidisciplinary-team-for-patients-with-mibc"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Recommendations for a multidisciplinary team",
+      "anchor": "#6-1-1-recommendations-for-a-multidisciplinary-team"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Health status assessment",
+      "anchor": "#6-2-health-status-assessment"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Evaluation of comorbidity, frailty and cognition",
+      "anchor": "#6-3-evaluation-of-comorbidity-frailty-and-cognition"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Comorbidity scales, anaesthetic risk classification and geriatric assessment",
+      "anchor": "#6-4-comorbidity-scales-anaesthetic-risk-classification-and-geriatric-assessment"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Summary of evidence and recommendations for comorbidity scales",
+      "anchor": "#6-4-1-summary-of-evidence-and-recommendations-for-comorbidity-scales"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Perioperative systemic therapy",
+      "anchor": "#6-5-perioperative-systemic-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.5.1. Neoadjuvant",
+      "anchor": "#6-5-1-neoadjuvant"
+    },
+    {
+      "level": 4,
+      "text": "6.5.2. Adjuvant therapy",
+      "anchor": "#6-5-2-adjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Perioperative radiotherapy",
+      "anchor": "#6-6-perioperative-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.6.1. Preoperative radiotherapy",
+      "anchor": "#6-6-1-preoperative-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.6.2. Postoperative radiotherapy",
+      "anchor": "#6-6-2-postoperative-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.6.3. Summary of evidence and recommendations for pre- and postoperative radiotherapy",
+      "anchor": "#6-6-3-summary-of-evidence-and-recommendations-for-pre--and-postoperative-radiotherapy"
+    },
+    {
+      "level": 3,
+      "text": "6.7. Radical cystectomy with pelvic lymph node dissection",
+      "anchor": "#6-7-radical-cystectomy-with-pelvic-lymph-node-dissection"
+    },
+    {
+      "level": 4,
+      "text": "6.7.1. Removal of the tumour-bearing bladder",
+      "anchor": "#6-7-1-removal-of-the-tumour-bearing-bladder"
+    },
+    {
+      "level": 4,
+      "text": "6.7.2. Radical cystectomy: technique and extent",
+      "anchor": "#6-7-2-radical-cystectomy-technique-and-extent"
+    },
+    {
+      "level": 4,
+      "text": "6.7.3. Lymphadenectomy: role and extent",
+      "anchor": "#6-7-3-lymphadenectomy-role-and-extent"
+    },
+    {
+      "level": 4,
+      "text": "6.7.4. Robotic-assisted laparoscopic cystectomy",
+      "anchor": "#6-7-4-robotic-assisted-laparoscopic-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.7.5. Urinary diversion after radical cystectomy",
+      "anchor": "#6-7-5-urinary-diversion-after-radical-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.7.6. Morbidity and mortality",
+      "anchor": "#6-7-6-morbidity-and-mortality"
+    },
+    {
+      "level": 4,
+      "text": "6.7.7. Survival",
+      "anchor": "#6-7-7-survival"
+    },
+    {
+      "level": 4,
+      "text": "6.7.8. Impact of hospital and surgeon volume on treatment outcomes",
+      "anchor": "#6-7-8-impact-of-hospital-and-surgeon-volume-on-treatment-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "6.7.9. Summary of evidence and recommendations for quality indicators in radical cystectomy",
+      "anchor": "#6-7-9-summary-of-evidence-and-recommendations-for-quality-indicators-in-radical-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.7.10. Palliative cystectomy",
+      "anchor": "#6-7-10-palliative-cystectomy"
+    },
+    {
+      "level": 3,
+      "text": "6.8. Trimodality therapy",
+      "anchor": "#6-8-trimodality-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.8.1. Trimodality bladder-preserving treatment",
+      "anchor": "#6-8-1-trimodality-bladder-preserving-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.9. External beam radiotherapy",
+      "anchor": "#6-9-external-beam-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.9.1. Definitive external beam radiotherapy",
+      "anchor": "#6-9-1-definitive-external-beam-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.9.2. Palliative external beam radiotherapy",
+      "anchor": "#6-9-2-palliative-external-beam-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.9.3. Summary of evidence and recommendation for external beam radiotherapy",
+      "anchor": "#6-9-3-summary-of-evidence-and-recommendation-for-external-beam-radiotherapy"
+    },
+    {
+      "level": 3,
+      "text": "6.10. Other approaches",
+      "anchor": "#6-10-other-approaches"
+    },
+    {
+      "level": 4,
+      "text": "6.10.1. Transurethral resection of bladder tumour",
+      "anchor": "#6-10-1-transurethral-resection-of-bladder-tumour"
+    },
+    {
+      "level": 4,
+      "text": "6.10.2. Chemotherapy",
+      "anchor": "#6-10-2-chemotherapy"
+    },
+    {
+      "level": 2,
+      "text": "7. FOLLOW-UP AND SURVEILLANCE",
+      "anchor": "#7-follow-up-and-surveillance"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Response to neoadjuvant therapy",
+      "anchor": "#7-1-response-to-neoadjuvant-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.1.1. Recommendation for response to neoadjuvant therapy",
+      "anchor": "#7-1-1-recommendation-for-response-to-neoadjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Follow-up after radical cystectomy",
+      "anchor": "#7-2-follow-up-after-radical-cystectomy"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Follow-up after trimodality therapy",
+      "anchor": "#7-3-follow-up-after-trimodality-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Follow-up of functional outcomes and complications",
+      "anchor": "#7-4-follow-up-of-functional-outcomes-and-complications"
+    },
+    {
+      "level": 2,
+      "text": "8. RECURRENT DISEASE",
+      "anchor": "#8-recurrent-disease"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Intravesical recurrence",
+      "anchor": "#8-1-intravesical-recurrence"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Post-trimodality therapy bladder recurrences and salvage cystectomy",
+      "anchor": "#8-1-1-post-trimodality-therapy-bladder-recurrences-and-salvage-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Salvage cystectomy post-trimodality therapy",
+      "anchor": "#8-1-2-salvage-cystectomy-post-trimodality-therapy"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Recommendation for salvage cystectomy",
+      "anchor": "#8-1-3-recommendation-for-salvage-cystectomy"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Pelvic recurrence",
+      "anchor": "#8-2-pelvic-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Upper tract recurrence",
+      "anchor": "#8-3-upper-tract-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.4. Urethral recurrence",
+      "anchor": "#8-4-urethral-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.5. Distant recurrence",
+      "anchor": "#8-5-distant-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.6. Summary of evidence and recommendations for specific recurrence sites",
+      "anchor": "#8-6-summary-of-evidence-and-recommendations-for-specific-recurrence-sites"
+    },
+    {
+      "level": 2,
+      "text": "9. METASTATIC DISEASE",
+      "anchor": "#9-metastatic-disease"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Introduction",
+      "anchor": "#9-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Management of oligometastatic bladder cancer",
+      "anchor": "#9-2-management-of-oligometastatic-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "9.3. First-line systemic therapy for metastatic disease: patient selection",
+      "anchor": "#9-3-first-line-systemic-therapy-for-metastatic-disease-patient-selection"
+    },
+    {
+      "level": 3,
+      "text": "9.4. First-line therapy in patients fit for combination therapy",
+      "anchor": "#9-4-first-line-therapy-in-patients-fit-for-combination-therapy"
+    },
+    {
+      "level": 4,
+      "text": "9.4.1. Enfortumab vedotin plus pembrolizumab",
+      "anchor": "#9-4-1-enfortumab-vedotin-plus-pembrolizumab"
+    },
+    {
+      "level": 4,
+      "text": "9.4.2. Patients eligible for combination therapy but not eligible for enfortumab vedotin or enfortumab vedotin not available",
+      "anchor": "#9-4-2-patients-eligible-for-combination-therapy-but-not-eligible-for-enfortumab-vedotin-or-enfortumab-vedotin-not-available"
+    },
+    {
+      "level": 3,
+      "text": "9.5. First-line therapy in patients not eligible for combination therapy",
+      "anchor": "#9-5-first-line-therapy-in-patients-not-eligible-for-combination-therapy"
+    },
+    {
+      "level": 3,
+      "text": "9.6. Results of other trials integrating immunotherapy in the first-line setting without overall survival benefit",
+      "anchor": "#9-6-results-of-other-trials-integrating-immunotherapy-in-the-first-line-setting-without-overall-survival-benefit"
+    },
+    {
+      "level": 3,
+      "text": "9.7. Further-line systemic therapy for metastatic disease",
+      "anchor": "#9-7-further-line-systemic-therapy-for-metastatic-disease"
+    },
+    {
+      "level": 4,
+      "text": "9.7.1. Introduction",
+      "anchor": "#9-7-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "9.7.2. Chemotherapy",
+      "anchor": "#9-7-2-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "9.7.3. Immunotherapy for platinum-pretreated patients without previous immunotherapy",
+      "anchor": "#9-7-3-immunotherapy-for-platinum-pretreated-patients-without-previous-immunotherapy"
+    },
+    {
+      "level": 3,
+      "text": "9.8. Integration of other agents",
+      "anchor": "#9-8-integration-of-other-agents"
+    },
+    {
+      "level": 4,
+      "text": "9.8.1. Enfortumab vedotin monotherapy",
+      "anchor": "#9-8-1-enfortumab-vedotin-monotherapy"
+    },
+    {
+      "level": 4,
+      "text": "9.8.2. Sacituzumab govitecan",
+      "anchor": "#9-8-2-sacituzumab-govitecan"
+    },
+    {
+      "level": 4,
+      "text": "9.8.3. FGFR inhibition",
+      "anchor": "#9-8-3-fgfr-inhibition"
+    },
+    {
+      "level": 4,
+      "text": "9.8.4. HER2 targeted agents",
+      "anchor": "#9-8-4-her2-targeted-agents"
+    },
+    {
+      "level": 4,
+      "text": "9.8.6. Systemic treatment of metastatic disease with histology other than pure urothelial carcinoma",
+      "anchor": "#9-8-6-systemic-treatment-of-metastatic-disease-with-histology-other-than-pure-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "9.9. Treatment of patients with bone metastases",
+      "anchor": "#9-9-treatment-of-patients-with-bone-metastases"
+    },
+    {
+      "level": 3,
+      "text": "9.10. Treatment algorithm for metastatic urothelial cancer",
+      "anchor": "#9-10-treatment-algorithm-for-metastatic-urothelial-cancer"
+    },
+    {
+      "level": 3,
+      "text": "9.11. Summary of evidence and recommendations for metastatic disease",
+      "anchor": "#9-11-summary-of-evidence-and-recommendations-for-metastatic-disease"
+    },
+    {
+      "level": 2,
+      "text": "10. QUALITY OF LIFE AND PALLIATIVE CARE",
+      "anchor": "#10-quality-of-life-and-palliative-care"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Introduction",
+      "anchor": "#10-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Neoadjuvant therapy",
+      "anchor": "#10-2-neoadjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Radical cystectomy and urinary diversion",
+      "anchor": "#10-3-radical-cystectomy-and-urinary-diversion"
+    },
+    {
+      "level": 3,
+      "text": "10.4. Adjuvant therapy",
+      "anchor": "#10-4-adjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "10.5. Bladder-sparing trimodality therapy",
+      "anchor": "#10-5-bladder-sparing-trimodality-therapy"
+    },
+    {
+      "level": 3,
+      "text": "10.6. Noncurative or metastatic bladder cancer",
+      "anchor": "#10-6-noncurative-or-metastatic-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "10.7. Summary of evidence and recommendations for health-related quality of life",
+      "anchor": "#10-7-summary-of-evidence-and-recommendations-for-health-related-quality-of-life"
+    },
+    {
+      "level": 3,
+      "text": "10.8. Supportive care",
+      "anchor": "#10-8-supportive-care"
+    },
+    {
+      "level": 4,
+      "text": "10.8.1. Obstruction of the upper urinary tract",
+      "anchor": "#10-8-1-obstruction-of-the-upper-urinary-tract"
+    },
+    {
+      "level": 4,
+      "text": "10.8.2. Bleeding and pain",
+      "anchor": "#10-8-2-bleeding-and-pain"
+    },
+    {
+      "level": 2,
+      "text": "11. REFERENCES",
+      "anchor": "#11-references"
+    },
+    {
+      "level": 2,
+      "text": "12. CONFLICT OF INTEREST",
+      "anchor": "#12-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "13. CITATION INFORMATION",
+      "anchor": "#13-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "14. COPYRIGHT AND TERMS OF USE ",
+      "anchor": "#14-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#muscle-invasive-and-metastatic-bladder-cancer",
+      "title": "Muscle-invasive and Metastatic Bladder Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 5. Diagnosis Introduction Methods Epidemiology And Aetiology Pathology And Classification Systems Diagnosis Disease Management Follow-up And Surveillance Recurrent Disease Metastatic Disease Quality Of Life And Palliative Care References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#5-diagnosis",
+      "title": "5. DIAGNOSIS",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#5-1-history-and-physical-examination",
+      "title": "5.1. History and physical examination",
+      "level": 3,
+      "text": "Physical examination should include rectal and vaginal bimanual palpation. A palpable pelvic mass can be found in patients with locally advanced tumours. In addition, bimanual examination under anaesthesia should be carried out before and after transurethral resection of the bladder tumour (TURBT) to assess whether there is a palpable mass or if the tumour is fixed to the pelvic wall [118,119]. However, considering the discrepancy between bimanual examination and pT stage after cystectomy (11% clinical overstaging and 31% clinical understaging), bimanual examination findings must be interpreted with caution [120].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-urine-cytology",
+      "title": "5.2. Urine cytology",
+      "level": 3,
+      "text": "Examination of voided urine or bladder washings for exfoliated cancer cells has high sensitivity in high-grade tumours and is a useful indicator in cases of high-grade malignancy or CIS. However, positive urinary cytology may originate from a urothelial tumour located anywhere in the urinary tract.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-3-cystoscopy",
+      "title": "5.3. Cystoscopy",
+      "level": 3,
+      "text": "The suspicion of BC is usually based on cystoscopy. An (outpatient) flexible cystoscopy is recommended to obtain a complete image of the bladder. However, the accuracy to predict muscle invasion by cystoscopy only is moderate [121]. If a bladder tumour is visualised on imaging studies such as computed tomography (CT), magnetic resonance imaging (MRI) or ultrasound (US), diagnostic cystoscopy can be omitted, and the patient can proceed directly to TURBT for resection and histological diagnosis. Careful documentation of cystoscopy findings is necessary, including tumour location, size, number, and morphology (papillary or solid), as well as any mucosal abnormalities [122]. The use of a bladder diagram is recommended. Photodynamic diagnosis can be considered in patients with multifocal tumours or when CIS is suspected, because the presence of CIS may lead to a modified treatment plan (see EAU Guidelines on NMIBC [2]).",
+      "tables": []
+    },
+    {
+      "anchor": "#5-4-transurethral-resection-of-invasive-bladder-tumours",
+      "title": "5.4. Transurethral resection of invasive bladder tumours",
+      "level": 3,
+      "text": "The goal of TURBT is to provide histopathological diagnosis and staging, which requires inclusion of detrusor muscle in the resection specimen. When MIBC is suspected, tumours should ideally be resected in separate parts: the exophytic part; the underlying bladder wall, including detrusor muscle; and the edges of the resection area. The deeper portion should be submitted in a clearly labelled, separate container to ensure accurate pathological assessment. If RT is being considered and CIS must be excluded, PDD can be used [123]. During TURBT, a thorough inspection of the bladder wall with rigid cystoscopy under anaesthesia is mandatory to ensure that no lesions are missed. Involvement of the prostatic urethra and ducts has been reported in up to one-third of male patients with BC [124-126]. Involvement of the prostatic urethra can be determined during primary TURBT or by frozen section at cystoprostatectomy. A frozen section has a higher negative-predictive value and superior accuracy [127-129]. A negative urethral frozen section reliably identifies patients in whom urethrectomy can be avoided. By contrast, a positive preoperative biopsy has limited value, because it does not consistently predict final margin status. [127,130]. Although the diagnosis of a urethral tumour before cystectomy generally leads to urethrectomy and may contra-indicate an orthotopic diversion, a positive preoperative biopsy alone should not prevent consideration of an orthotopic diversion.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-5-summary-of-evidence-and-recommendations-for-the-primary-assessment-of-presumably-invasive-bladder-tumours",
+      "title": "5.5. Summary of evidence and recommendations for the primary assessment of presumably invasive bladder tumours*",
+      "level": 3,
+      "text": "Summary of evidence LE Cystoscopy is necessary for the diagnosis of BC. 1 Urinary cytology has high sensitivity in high-grade tumours including CIS. 2b In males, prostatic urethral biopsy includes resection from the bladder neck to the verumontanum (between the five and seven o’clock position) using a resection loop. In case any abnormal-looking areas in the prostatic urethra are present at this time, these need to be biopsied as well. 2b Recommendations Strength rating Describe all macroscopic features of the tumour (site, size, number and appearance) and mucosal abnormalities during cystoscopy. Use a bladder diagram. Strong Take a biopsy of the prostatic urethra in the following cases: bladder neck tumour; when bladder carcinoma in situ is present or suspected; when there is positive cytology without evidence of tumour in the bladder; or when abnormalities of the prostatic urethra are visible. Strong In males with a negative prostatic urethral biopsy undergoing subsequent orthotopic neobladder construction, an intraoperative frozen section can be omitted. Strong In males with a prior positive transurethral prostatic biopsy, subsequent orthotopic neobladder construction should not be denied a priori , unless an intraoperative frozen section of the distal urethral stump reveals malignancy at the level of urethral dissection. Strong In females undergoing subsequent orthotopic neobladder construction, obtain procedural information (including histological evaluation) of the bladder neck and urethral margin, either prior to, or at the time of cystectomy. Strong In the pathology report, specify the grade, depth of tumour invasion, and whether the lamina propria and muscle tissue are present in the specimen. Strong *For general information on the assessment of bladder tumours, see the EAU Guidelines on NMIBC [2].",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Cystoscopy is necessary for the diagnosis of BC.",
+              "1"
+            ],
+            [
+              "Urinary cytology has high sensitivity in high-grade tumours including CIS.",
+              "2b"
+            ],
+            [
+              "In males, prostatic urethral biopsy includes resection from the bladder neck to the verumontanum (between the five and seven o’clock position) using a resection loop. In case any abnormal-looking areas in the prostatic urethra are present at this time, these need to be biopsied as well.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Describe all macroscopic features of the tumour (site, size, number and appearance) and mucosal abnormalities during cystoscopy. Use a bladder diagram.",
+              "Strong"
+            ],
+            [
+              "Take a biopsy of the prostatic urethra in the following cases: bladder neck tumour; when bladder carcinoma in situ is present or suspected; when there is positive cytology without evidence of tumour in the bladder; or when abnormalities of the prostatic urethra are visible.",
+              "Strong"
+            ],
+            [
+              "In males with a negative prostatic urethral biopsy undergoing subsequent orthotopic neobladder construction, an intraoperative frozen section can be omitted.",
+              "Strong"
+            ],
+            [
+              "In males with a prior positive transurethral prostatic biopsy, subsequent orthotopic neobladder construction should not be denied a priori, unless an intraoperative frozen section of the distal urethral stump reveals malignancy at the level of urethral dissection.",
+              "Strong"
+            ],
+            [
+              "In females undergoing subsequent orthotopic neobladder construction, obtain procedural information (including histological evaluation) of the bladder neck and urethral margin, either prior to, or at the time of cystectomy.",
+              "Strong"
+            ],
+            [
+              "In the pathology report, specify the grade, depth of tumour invasion, and whether the lamina propria and muscle tissue are present in the specimen.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-6-imaging-for-staging",
+      "title": "5.6. Imaging for staging",
+      "level": 3,
+      "text": "In clinical practice, tumour stage and grade are used to guide treatment and determine prognosis [131-133]. Imaging is essential for both local and distant staging of BC.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-6-1-local-staging",
+      "title": "5.6.1. Local staging",
+      "level": 4,
+      "text": "5.6.1.a. MRI with VI-RADS score Differentiation between NMIBC and MIBC, as well as assessment of local tumour extent, is crucial for BC treatment. Compared with CT, MRI has superior soft tissue contrast resolution and can evaluate post-biopsy reaction, because tumour enhancement occurs earlier than in the normal bladder wall due to neovascularisation [134,135]. At present, MRI is not ready to be implemented in standard patient care [136]. Multiparametric (mp)MRI using the Vesical Imaging-Reporting and Data System (VI-RADS) score provides a standardised approach to both acquisition and reporting. The VI-RADS has demonstrated high diagnostic accuracy in differentiating T1 from T2 bladder tumours [137]. The VI-RADS scoring has been shown to be an independent predictor of muscle invasion, supporting its potential role in risk stratification and guiding a more aggressive approach in patients at high risk of MIBC [138]. A meta-analysis reported pooled sensitivity and specificity of 83% and 90%, respectively, for mpMRI with VI-RADS in predicting MIBC, with substantial inter-reader agreement (κ = 0.81-0.92) [139]. Best practice for the routine use of MRI in clinical decision-making remains to be defined [135]. A modified Delphi process, including international experts and a patient representative, produced consensus-based recommendations for bladder MRI, particularly for preoperative staging and response assessment following systemic therapy. Among the agreed statements, experts recommended acquiring and interpreting MRI images according to VI-RADS and, if MRI is performed for primary staging purposes, it should be completed before TURBT [140]. To expedite diagnosis and initiation of definitive treatment for MIBC, increased attention has been given to imaging-guided pathways in which MRI is performed before TURBT. The BladderPath study demonstrated that such an approach can shorten time to definitive treatment for patients with MIBC [141]; however, the study has important limitations, and the clinical utility of this strategy requires confirmation in ongoing clinical trials. Considering the link between oliniuolinium-based contrast agents and nephrogenic systemic fibrosis in patients with impaired renal function, contrast administration should follow the European Society of Urogenital Radiology (ESUR) Guidelines [142]. Interest is growing toward non-contrast MRI, with emerging evidence suggesting that non-contrast-enhanced VI-RADS scoring may achieve similar predictive accuracy to contrast-enhanced mpMRI. However, further evidence is required before any recommendation can be made [143]. 5.6.1.b. Computed tomography General advantages of CT imaging include high spatial resolution, shorter acquisition time, wider coverage in a single breath hold, and lower susceptibility to variable patient factors. Despite its unreliability in differentiating between stages Ta and T3a tumours, CT is useful for detecting invasion into the perivesical fat (T3b) and adjacent organs. The accuracy of CT in determining extravesical tumour extension increases with more advanced disease [144]. Both CT and MRI may be used for assessment of local invasion by T3b disease or higher, but they are unable to accurately diagnose microscopic invasion of perivesical fat (T2 vs. T3a) [145]. When MRI is contraindicated or not available, contrast-enhanced CT using iodinated contrast media can be considered as an alternative [142].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-6-2-upper-tract-evaluation",
+      "title": "5.6.2. Upper tract evaluation",
+      "level": 4,
+      "text": "For local staging of the upper urinary tract, CT urography has the highest diagnostic accuracy of the available imaging techniques. The sensitivity of CT urography for upper urinary tract urothelial carcinoma (UTUC) is 0.67-1.0 and specificity is 0.93-0.99 [146]. Rapid acquisition of thin sections enables high-resolution isotropic images that can be viewed in multiple planes to assist with diagnosis without loss of resolution. Epithelial ‘flat lesions’ without mass effect or urothelial thickening are generally not visible with CT. The secondary sign of hydronephrosis is associated with advanced disease and poor oncological outcome [147]. The presence of enlarged LNs is highly predictive of metastases in UTUC [148]. Magnetic resonance urography (MR urography) is indicated in patients who cannot undergo CT urography, usually when radiation or iodinated contrast media are contraindicated [149]. The sensitivity of MR urography is 0.75 after contrast injection for tumours < 2cm [149]. For diagnosing and staging of UTUC, CT urography is generally preferred to MR urography.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-6-3-lymph-node-staging",
+      "title": "5.6.3. Lymph node staging",
+      "level": 4,
+      "text": "Assessment of LN metastases based on size alone is limited; both CT and MRI are unable to identify metastases in normal-sized or minimally enlarged nodes. Their sensitivity for LN metastases is low (48-87%), and specificity is limited, because enlargement may be due to benign disease. Both modalities show similar diagnostic performance across pelvic tumours [149-151]. Pelvic nodes > 8mm and abdominal nodes > 10mm in maximum short-axis diameter are considered pathologically enlarged [152]. In 1,104 patients, concordance between cN and pN stages on cross-sectional imaging was modest (65%: sensitivity: 30%; specificity: 84%) [153]. 18 F-fluorodeoxy glucose-positron emission tomography (FDG-PET) with CT is increasingly used, but its role needs to be further evaluated [154,155]. A meta-analysis including 785 patients showed a low sensitivity but high specificity for the detection of metastatic LNs in patients with newly diagnosed BC [156]. However, most studies comparing FDG-PET/CT with CT for LN assessment reported higher sensitivity with comparable specificity [157]. In a comparative analysis, PET/CT demonstrated superior diagnostic performance over contrast-enhanched CT. However, up to 20% of occult (micro-) metastases were still missed on final pathology [158]. Additional information to guide local treatment can also be provided by PET/CT in the presence of pelvic nodal metastases [159]. A study of 2,731 patients with MIBC showed that pretreatment staging with FDG-PET/CT led to clinical nodal upstaging in approximately one-fifth of cases, impacting treatment decisions [160]. However, both are retrospective studies. In addition, the role of PET/CT in evaluating LN involvement in patients receiving neoadjuvant pembrolizumab has been investigated in a clinical trial. The performance of PET/CT did not justify its routine use in cN0 MIBC patients but proved useful in optimising the selection of MIBC patients suited for neoadjuvant IO strategies [161].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-6-4-distant-staging",
+      "title": "5.6.4. Distant staging",
+      "level": 4,
+      "text": "Before any curative treatment, it is essential to evaluate the presence of distant metastases. The diagnostic techniques of choice are CT and MRI to detect, for example, lung [162] and liver metastases [163], respectively. Evidence for the role of FDG-PET/CT for staging distant metastases of MIBC is still limited. In a recent series of 711 patients, FDG-PET/CT has been shown to provide important staging information through the detection of distant metastases, which may impact the clinical management of MIBC patients [159]. Bone and brain metastases are rare at the time of presentation of invasive BC. In a retrospective large sample study, a bone scan was shown to have an impact on patients’ intended management in only 19 out of 1,148 (1.7%) patients, therefore, it should not be routinely used [164]. Whole-body MRI is more sensitive and specific for diagnosing bone metastases than bone scintigraphy [165]. Also, additional brain imaging is not routinely indicated unless the patient has specific symptoms or signs to suggest brain metastases. Table 5.1: The role of imaging in treatment planning Goal Imaging modality Detect bladder tumours US, CT and MRI Differentiate T1 from T2 tumours, as treatment will differ MRI with the VI-RADS score Assess upper urinary tract CT or MRI urography Evaluate locally advanced disease or LN staging CT or MRI for abdominal- and pelvic LNs or PET/CT scan Distant staging CT, MRI or PET/CT to detect distant organ metastasis CT = computed tomography; MRI = magnetic resonance imaging; LN = lymph node; PET = positron emission tomography; US = ultrasound; VI-RADS = vesical imaging-reporting and data system.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Goal",
+              "Imaging modality"
+            ],
+            [
+              "Detect bladder tumours",
+              "US, CT and MRI"
+            ],
+            [
+              "Differentiate T1 from T2 tumours, as treatment will differ",
+              "MRI with the VI-RADS score"
+            ],
+            [
+              "Assess upper urinary tract",
+              "CT or MRI urography"
+            ],
+            [
+              "Evaluate locally advanced disease or LN staging",
+              "CT or MRI for abdominal- and pelvic LNs or PET/CT scan"
+            ],
+            [
+              "Distant staging",
+              "CT, MRI or PET/CT to detect distant organ metastasis"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-6-5-future-perspectives",
+      "title": "5.6.5. Future perspectives",
+      "level": 4,
+      "text": "Future trends might include image analysis radiomic-based techniques in predicting MIBC. A meta-analysis (n = 860) provided summary estimates for sensitivity and specificity in predicting MIBC of 82% (95% CI: 77-86%) and 81% (95% CI: 76-85%), respectively [166]. Alternative molecular imaging tracers such as 64 CuCl 2 , [ 68 Ga]Ga-FAPI-46 and 68 Ga-FAP-2286 are being studied, and preliminary investigations of these agents have demonstrated promising results in nodal staging and restaging in MIBC [167,168]. In patients who cannot receive intravenous iodinated contrast, PET/CT, combining the benefits of MRI with functional imaging, could be envisioned for the detection of metastatic BC lesions not seen on CT and may lead to improved treatment planning and monitoring for BC [169].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-6-6-summary-of-evidence-and-recommendations-for-staging-in-mibc",
+      "title": "5.6.6. Summary of evidence and recommendations for staging in MIBC",
+      "level": 4,
+      "text": "Summary of evidence LE Imaging as part of staging in MIBC provides information about prognosis and assists in selection of the most appropriate treatment. 2b The diagnosis of upper tract UC depends on CT urography and, if needed, ureteroscopy. 2b In local staging, MRI is superior to CT in terms of differentiating T1 from T2 disease. 2b Magnetic resonance imaging is accurate for the assessment of tumour response to systemic therapy. 3 18 F-fluorodeoxy glucose-positron emission tomography with CT can provide additional information to guide treatment. 2b Recommendations Strength rating If magnetic resonance imaging (MRI) is performed for local staging of bladder cancer (BC), it should be carried out before transurethral resection of the bladder tumour. Strong In patients with confirmed muscle-invasive BC, use computed tomography (CT) of the chest, abdomen and pelvis for staging, including some form of CT urography with designated phases for optimal urothelial evaluation. Strong Offer MRI to assess the local response to systemic therapy. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Imaging as part of staging in MIBC provides information about prognosis and assists in selection of the most appropriate treatment.",
+              "2b"
+            ],
+            [
+              "The diagnosis of upper tract UC depends on CT urography and, if needed, ureteroscopy.",
+              "2b"
+            ],
+            [
+              "In local staging, MRI is superior to CT in terms of differentiating T1 from T2 disease.",
+              "2b"
+            ],
+            [
+              "Magnetic resonance imaging is accurate for the assessment of tumour response to systemic therapy.",
+              "3"
+            ],
+            [
+              "18F-fluorodeoxy glucose-positron emission tomography with CT can provide additional information to guide treatment.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "If magnetic resonance imaging (MRI) is performed for local staging of bladder cancer (BC), it should be carried out before transurethral resection of the bladder tumour.",
+              "Strong"
+            ],
+            [
+              "In patients with confirmed muscle-invasive BC, use computed tomography (CT) of the chest, abdomen and pelvis for staging, including some form of CT urography with designated phases for optimal urothelial evaluation.",
+              "Strong"
+            ],
+            [
+              "Offer MRI to assess the local response to systemic therapy.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 5
+}

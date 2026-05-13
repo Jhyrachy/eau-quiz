@@ -1,0 +1,600 @@
+{
+  "guideline": "penile-cancer",
+  "chapter": "diagnostic-evaluation-and-staging",
+  "url": "https://uroweb.org/guidelines/penile-cancer/chapter/diagnostic-evaluation-and-staging",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Preface",
+      "anchor": "#1-5-preface"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review and future goals",
+      "anchor": "#2-2-review-and-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AETIOLOGY AND PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definition of penile cancer",
+      "anchor": "#3-1-definition-of-penile-cancer"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Risk factors, prognosis and prevention",
+      "anchor": "#3-3-risk-factors-prognosis-and-prevention"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Pathology",
+      "anchor": "#3-4-pathology"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Gross handling of pathology specimens",
+      "anchor": "#3-4-1-gross-handling-of-pathology-specimens"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Pathology report",
+      "anchor": "#3-4-2-pathology-report"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Grading",
+      "anchor": "#3-4-3-grading"
+    },
+    {
+      "level": 4,
+      "text": "3.4.4. Pathological prognostic factors",
+      "anchor": "#3-4-4-pathological-prognostic-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.4.5. Penile cancer and HPV",
+      "anchor": "#3-4-5-penile-cancer-and-hpv"
+    },
+    {
+      "level": 4,
+      "text": "3.4.6. Penile biopsy: pathological and technical considerations",
+      "anchor": "#3-4-6-penile-biopsy-pathological-and-technical-considerations"
+    },
+    {
+      "level": 4,
+      "text": "3.4.7. Summary of evidence and guidelines for the pathological assessment of tumour specimens",
+      "anchor": "#3-4-7-summary-of-evidence-and-guidelines-for-the-pathological-assessment-of-tumour-specimens"
+    },
+    {
+      "level": 2,
+      "text": "4. CLASSIFICATION SYSTEMS",
+      "anchor": "#4-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Tumour, node and metastasis classification",
+      "anchor": "#4-1-tumour-node-and-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Cancer stage grouping",
+      "anchor": "#4-2-cancer-stage-grouping"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION AND STAGING",
+      "anchor": "#5-diagnostic-evaluation-and-staging"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Primary lesion",
+      "anchor": "#5-1-primary-lesion"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Physical examination",
+      "anchor": "#5-1-1-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Imaging of the primary tumour",
+      "anchor": "#5-1-2-imaging-of-the-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "5.1.3. Penile biopsy: indications",
+      "anchor": "#5-1-3-penile-biopsy-indications"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Lymph node staging",
+      "anchor": "#5-2-lymph-node-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Physical examination",
+      "anchor": "#5-2-1-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Clinically node-negative (cN0)",
+      "anchor": "#5-2-2-clinically-node-negative-cn0"
+    },
+    {
+      "level": 4,
+      "text": "5.2.3. Clinically node-positive (cN+)",
+      "anchor": "#5-2-3-clinically-node-positive-cn"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Genomic testing",
+      "anchor": "#5-3-genomic-testing"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Summary of evidence and guidelines for the diagnosis and staging of penile cancer",
+      "anchor": "#5-4-summary-of-evidence-and-guidelines-for-the-diagnosis-and-staging-of-penile-cancer"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT",
+      "anchor": "#6-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Treatment of the primary tumour",
+      "anchor": "#6-1-treatment-of-the-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Treatment of superficial non-invasive disease (PeIN, Ta)",
+      "anchor": "#6-1-1-treatment-of-superficial-non-invasive-disease-pein-ta"
+    },
+    {
+      "level": 4,
+      "text": "6.1.3. Locally advanced disease (T3–T4)",
+      "anchor": "#6-1-3-locally-advanced-disease-t3t4"
+    },
+    {
+      "level": 4,
+      "text": "6.1.4. Local recurrence after organ-sparing surgery",
+      "anchor": "#6-1-4-local-recurrence-after-organ-sparing-surgery"
+    },
+    {
+      "level": 4,
+      "text": "6.1.5. Summary of evidence and guidelines for local treatment of penile carcinoma",
+      "anchor": "#6-1-5-summary-of-evidence-and-guidelines-for-local-treatment-of-penile-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Regional lymph node management: clinically evident disease (cN1–cN3)",
+      "anchor": "#6-2-regional-lymph-node-management-clinically-evident-disease-cn1cn3"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Introduction",
+      "anchor": "#6-2-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "6.2.2.c N1–N2 disease: radical inguinal lymph node dissection",
+      "anchor": "#6-2-2-c-n1n2-disease-radical-inguinal-lymph-node-dissection"
+    },
+    {
+      "level": 4,
+      "text": "6.2.3. Prophylactic pelvic lymph node dissection",
+      "anchor": "#6-2-3-prophylactic-pelvic-lymph-node-dissection"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Clinical N3 disease (cN3)",
+      "anchor": "#6-3-clinical-n3-disease-cn3"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. Diagnostic evaluation",
+      "anchor": "#6-3-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Management strategy",
+      "anchor": "#6-3-2-management-strategy"
+    },
+    {
+      "level": 4,
+      "text": "6.3.4. Surgical technique",
+      "anchor": "#6-3-4-surgical-technique"
+    },
+    {
+      "level": 4,
+      "text": "6.3.5. Summary of evidence and guidelines for the surgical management of cN3 disease",
+      "anchor": "#6-3-5-summary-of-evidence-and-guidelines-for-the-surgical-management-of-cn3-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Systemic therapy",
+      "anchor": "#6-4-1-systemic-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Radiotherapy",
+      "anchor": "#6-4-2-radiotherapy"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Systemic and palliative therapies for advanced disease",
+      "anchor": "#6-5-systemic-and-palliative-therapies-for-advanced-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.5.1. Introduction",
+      "anchor": "#6-5-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "6.5.2. Chemotherapy",
+      "anchor": "#6-5-2-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.5.3. Role of radiotherapy in palliation",
+      "anchor": "#6-5-3-role-of-radiotherapy-in-palliation"
+    },
+    {
+      "level": 4,
+      "text": "6.5.4. Summary of evidence and guidelines for systemic and palliative therapies for advanced penile cancer",
+      "anchor": "#6-5-4-summary-of-evidence-and-guidelines-for-systemic-and-palliative-therapies-for-advanced-penile-cancer"
+    },
+    {
+      "level": 2,
+      "text": "7. FOLLOW-UP AND QUALITY OF LIFE",
+      "anchor": "#7-follow-up-and-quality-of-life"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Unmet needs",
+      "anchor": "#7-1-unmet-needs"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Rationale for follow-up",
+      "anchor": "#7-2-rationale-for-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. When and how to follow-up",
+      "anchor": "#7-2-1-when-and-how-to-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Recurrence of the primary tumour",
+      "anchor": "#7-2-2-recurrence-of-the-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Regional recurrence",
+      "anchor": "#7-2-3-regional-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Patient support services",
+      "anchor": "#7-3-patient-support-services"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Psychological support",
+      "anchor": "#7-3-1-psychological-support"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Quality of life",
+      "anchor": "#7-3-2-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. Urinary function",
+      "anchor": "#7-3-3-urinary-function"
+    },
+    {
+      "level": 4,
+      "text": "7.3.4. Sexual function",
+      "anchor": "#7-3-4-sexual-function"
+    },
+    {
+      "level": 4,
+      "text": "7.3.5. Lymphoedema",
+      "anchor": "#7-3-5-lymphoedema"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Centralisation of penile cancer services",
+      "anchor": "#7-4-centralisation-of-penile-cancer-services"
+    },
+    {
+      "level": 4,
+      "text": "7.4.1. Advantages of centralised care",
+      "anchor": "#7-4-1-advantages-of-centralised-care"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Guideline adherence",
+      "anchor": "#7-4-2-guideline-adherence"
+    },
+    {
+      "level": 4,
+      "text": "7.4.3. Survival",
+      "anchor": "#7-4-3-survival"
+    },
+    {
+      "level": 4,
+      "text": "7.4.4. Disadvantages of centralised care",
+      "anchor": "#7-4-4-disadvantages-of-centralised-care"
+    },
+    {
+      "level": 3,
+      "text": "7.5. Summary of evidence and guidelines for follow-up and quality of life",
+      "anchor": "#7-5-summary-of-evidence-and-guidelines-for-follow-up-and-quality-of-life"
+    },
+    {
+      "level": 2,
+      "text": "8. REFERENCES",
+      "anchor": "#8-references"
+    },
+    {
+      "level": 2,
+      "text": "9. CONFLICT OF INTEREST",
+      "anchor": "#9-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "10. CITATION INFORMATION",
+      "anchor": "#10-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "11. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#11-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#penile-cancer",
+      "title": "Penile Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 5. Diagnostic Evaluation And Staging Introduction Methods Epidemiology Aetiology And Pathology Classification Systems Diagnostic Evaluation And Staging Disease Management Follow-up And Quality Of Life References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#5-diagnostic-evaluation-and-staging",
+      "title": "5. DIAGNOSTIC EVALUATION AND STAGING",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#5-1-primary-lesion",
+      "title": "5.1. Primary lesion",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#5-1-1-physical-examination",
+      "title": "5.1.1. Physical examination",
+      "level": 4,
+      "text": "Primary penile carcinoma are usually clinically evident lesions, often presenting as raised or ulcerous lesions, which can be locally destructive [111]. It is critically important to note that the appearance of penile tumours can be heterogeneous and can sometimes be hidden under the foreskin in case of phimosis. Physical examination should include inspection and palpation of the entire penis (to identify potential skip lesions). The dimensions, anatomic location and extent of local invasion should be noted, and assessment of stretched penile length is recommended.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-1-2-imaging-of-the-primary-tumour",
+      "title": "5.1.2. Imaging of the primary tumour",
+      "level": 4,
+      "text": "Physical examination is a reliable method for estimating penile tumour size and clinical T stage [112]. For distinguishing T1 from T2 disease, magnetic resonance imaging (MRI) does not outperform physical examination. However, when there is uncertainty regarding whether the tumour invades the cavernosal bodies (cT3), and if organ-sparing treatment options (e.g. glansectomy) are considered, MRI can be helpful [113,114]. A systematic review showed a sensitivity and specificity of MRI in predicting corporal invasion of 80% (95% CI: 70–87%) and 96% (95% CI: 85–99%), respectively [115,116]. Magnetic resonance imaging can also provide useful information regarding resectability in case of large (T4) tumours with invasion in adjacent structures. Magnetic resonance imaging with and without artificial erection showed similar accuracy in local staging [116]. If MRI is not available, penile ultrasound (US) can be considered [117].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-1-3-penile-biopsy-indications",
+      "title": "5.1.3. Penile biopsy: indications",
+      "level": 4,
+      "text": "A biopsy of the penile tumour should be obtained when there is doubt regarding the exact nature of the lesion. However, even in clinically obvious cases, histological information from a biopsy can facilitate treatment decisions (such as indications for surgical staging). Histological confirmation is also necessary to guide management when treatment is planned with topical agents, radiotherapy or laser surgery [111]. For technical and histopathological considerations for penile biopsy, see Section 3.4.6.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-lymph-node-staging",
+      "title": "5.2. Lymph node staging",
+      "level": 3,
+      "text": "Penile cancer metastasises in a stepwise manner through the lymphatic system, initially to the inguinal nodes, the pelvic nodes and finally to distant nodes [118]. Fewer than 5% of patients will present with distant metastases and these are generally accompanied by regional LN involvement. As a result, the most important prognostic factor for survival of penile cancer is the presence and extent of nodal metastases, with a five-year CSS of approximately 95%, 80%, 65% and 35% for N0, N1, N2 or N3 disease, respectively [119,120]. In patients with clinically node-negative groins (no suspicious palpable nodes, cN0), a nonrandomised controlled trial (RCT) observed that early LN surgery led to a three-year survival rate of 84% compared to 35% in those receiving delayed LN surgery, with an ENE incidence of 20% compared to 95% in the early versus delayed surgery groups, respectively [121]. Therefore, detecting lymphatic spread as early as possible is a crucial element in penile cancer management. Since penile cancer disseminates to the inguinal LNs first, initial LN staging is focused on identifying (micro)metastatic disease in the inguinal LNs as early as possible, and imaging for distant metastases is only indicated in clinically node-positive patients.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-1-physical-examination",
+      "title": "5.2.1. Physical examination",
+      "level": 4,
+      "text": "Careful palpation of both groins for enlarged/pathologic inguinal LNs must be part of the initial physical examination of patients suspected of having penile cancer. However, reliable physical examination can be challenging in case of obesity and in patients with previous inguinal surgery. Additionally, enlarged LNs secondary to infection of the primary tumour (rather than metastasis) can occur. The use of antibiotics with the aim to resolve enlarged nodes may delay further staging and treatment and is not recommended [122]. Based on physical examination, patients can be divided into those without suspicious nodes at physical examination (clinically node-negative, cN0), and those with suspicious palpable nodes (clinically node-positive, cN+). In case of suspected pathologic LNs at palpation, the number, location, size and whether the node is fixed or mobile should be noted.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-2-clinically-node-negative-cn0",
+      "title": "5.2.2. Clinically node-negative (cN0)",
+      "level": 4,
+      "text": "If no suspicious nodes are present at palpation (cN0), approximately 20–25% of patients may still harbour occult metastases. Therefore, additional staging is warranted [123]. Figure 5.1 : Clinically cN0 management * If DSNB is not available, perform ILND (open or videoendoscopic). DSNB = dynamic sentinel node biopsy; FNA = fine-needle aspiration; G = grade; ILND = inguinal lymph node dissection; US = ultrasound. 5.2.2.a. Non-surgical staging options No validated nomograms or tumour markers can reliably predict LN involvement. Conventional imaging modalities such as US, computed tomography (CT) or MRI cannot detect micrometastases, and 18 F-fluoro-2-deoxy-D-glucose positron emission tomography ( 18 FDG-PET) does not reliably detect LN metastases < 10mm [124-126]. Therefore, these imaging modalities are of limited value and are not recommended for routine use in clinically node-negative patients, in which the aim is to identify small, subclinical, LN metastasis [127,128]. However, these imaging modalities can be of value to detect enlarged/abnormal nodes in patients when physical examination is challenging (e.g. due to obesity). In centres that offer dynamic sentinel node biopsy (DSNB) as a surgical staging option (see Section 5.2.2.c), inguinal US is obtained prior to DSNB. If sonographically suspicious nodes are detected, fine-needle aspiration cytology (FNAC) can easily be performed in the same session to confirm the diagnosis of inguinal LN metastasis [129]. Studies incorporating US + FNAC as an initial investigation in clinically node-negative patients prior to surgical staging, reported a sensitivity and specificity of 39% and 100%, respectively. Hence, a negative US is unreliable to exclude LN metastasis in clinically node-negative patients and US should be combined with surgical staging when indicated. However, if US + FNAC is positive, it can reduce the need for DSNB by 10–13%, allowing for additional staging and therapeutic LND at an earlier stage [130,131]. Therefore, it is recommended to perform US + FNAC in clinically node-negative patients before surgical staging with DSNB. 5.2.2.b. Indications for surgical staging Since delayed treatment of occult LN metastasis results in a lower CSS rate and current non-invasive staging options (nomograms, imaging) are not sufficiently reliable to detect micrometastatic disease, invasive/surgical staging remains indispensable to identify micrometastasis before nodal metastases become palpable/visible [121]. However, surgical staging is over-treatment in the majority of patients, since only 20–25% of all clinically node-negative patients harbour occult metastasis. To select patients that are particularly at risk of nodal metastases, risk categories have been established based on T stage, grade of differentiation, and the presence of lymphovascular/perineural invasion in the primary tumour. Well-differentiated (G1) pTa, pTis and pT1 tumours without lymphovascular/perineural invasion (pT1a) are considered low-risk tumours. In patients with low-risk tumours, the risk of metastases is too low to justify surgical staging. Moderately differentiated (G2) pT1a tumours are considered intermediate-risk and are associated with a 6–8% probability of (micro)metastatic LN disease, whereas in pT1b G2 tumours, the risk is 22–30%. Therefore, all tumours that are stage T1b or higher are considered high-risk tumours [95,132]. Based on these predictors, surgical staging is recommended in all high-risk tumours (T1 with presence of lymphovascular invasion, perineural invasion or poorly differentiated, and T2–T4 with any grade). In intermediate-risk tumours (pT1a G2), the risk of LN metastasis should be balanced against the morbidity of surgical staging on a case-by-case basis. 5.2.2.c. Surgical staging options By definition, radical inguinal LND (ILND) is the most accurate surgical staging method. However, ILND is also associated with the highest complication rates (see Section 6.2). To lower morbidity while maintaining sufficient sensitivity, modified ILND templates were developed (consisting of a shorter skin incision, with no dissection lateral to the femoral artery or caudal to the fossa ovalis and preservation of the saphenous vein) [133]. However, modified ILND is still associated with considerable complication rates of 35–49% and false-negative rates of 15–20% [134,135]. More recently, videoendoscopic/robot-assisted radical LND was introduced (see Section 6.2). Initial reports indicate a reduction mainly in wound-related complications compared to open ILND [136]. However, a significant reduction of lymphatic complications is not to be expected, since the main predictor of lymphatic complications was shown to be the number of removed LNs [137-139], and the LN yield (LNY) of the videoendoscopic approach is comparable to open ILND [140]. To avoid resecting unnecessary LNs and thereby minimising the morbidity of surgical staging, DSNB was developed [141]. A sentinel node (SN) is ",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-3-clinically-node-positive-cn",
+      "title": "5.2.3. Clinically node-positive (cN+)",
+      "level": 4,
+      "text": "In patients with palpable nodes, nodal metastases are present in approximately 45–80% of cases [146]. Lymph node metastasis should preferably be histopathologically confirmed by image-guided biopsy (e.g. US or CT). While in cN0 patients further abdominal and thoracic imaging is not recommended (see Section 5.2.2.1), it is of value in cN+ patients to clinically stage the pelvis and exclude distant metastases. Computed tomography of the chest/abdomen is broadly available. However, CT has a sensitivity of only 20–38% for the detection of pelvic LNs. Magnetic resonance imaging constitutes another diagnostic staging modality, in particular in those patients with a contra-indication to iodine-based contrast agents who cannot be staged by CT. A meta-analysis comparing CT and MRI showed comparable results with a pooled sensitivity of 42% for CT and 39% for MRI and pooled specificity was 82% for both [147]. Imaging with 18 FDG-PET/CT is likely to be more accurate than CT alone in the preoperative staging of pelvic LNs, as shown in other malignancies [148]. In penile cancer, 18 FDG-PET/CT showed a sensitivity and specificity of 91% and specificity of 100%, respectively, for the detection of pelvic metastases in patients with an US + FNAC-confirmed positive inguinal LN [149]. In patients initially staged as cN0 and who are subsequently upstaged to pN+ at surgical staging, additional imaging of the chest/abdomen should also be considered. Treatment of node-positive disease is discussed further in Section 6.2.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-3-genomic-testing",
+      "title": "5.3. Genomic testing",
+      "level": 3,
+      "text": "In other cancers, genomic tumour testing has provided prognostic and predictive data upon which treatment regimens may be based. The only genomic test so far reported in penile cancer is the Radiosensitivity Index (RSI)/Genomic-Adjusted Radiation Dose (GARD) [150]. Genomic-Adjusted Radiation Dose may be predictive of radiotherapy benefit, while the physical dose of radiation delivered to a lesion has not. In patients treated with radiation, GARD is significantly associated with OS and time to first recurrence across various cancer types [151]. Specific analysis of penile cancer patient data reveals that the radiation doses delivered in patients treated to date likely may have been too low. For patients with advanced disease, certain subsets may have access to systemic therapeutic agents based upon genomic or proteomic analysis, as described in Chapter 6.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-4-summary-of-evidence-and-guidelines-for-the-diagnosis-and-staging-of-penile-cancer",
+      "title": "5.4. Summary of evidence and guidelines for the diagnosis and staging of penile cancer",
+      "level": 3,
+      "text": "Summary of evidence LE For distinguishing T1 from T2 disease, MRI does not outperform clinical staging. 2b For predicting corporal invasion (T3 disease), MRI showed a pooled sensitivity and of 80% (95% CI: 70–87%) and 96% (95% CI: 85–99%), respectively. 2b Magnetic resonance imaging with and without artificial erection showed similar accuracy in local staging. 2b Computed tomography, PET/CT and MRI imaging cannot detect micro-metastases and are therefore of limited value in clinically node-negative patients in which the aim is to identify small sub-clinical LN metastasis. 2a Inguinal US + FNAC of sonographically abnormal nodes can reduce the need for DSNB when tumour positive, allowing for earlier therapeutic treatment of node-positive disease. 2a For surgical staging of cN0 patients, DSNB has shown a high diagnostic accuracy. 2a Sentinel node biopsy has been shown to lower complication rates compared to modified-, superficial-, or videoendoscopic ILND. 2b Imaging with 18 FDG-PET/CT in clinically node-positive patients showed higher sensitivity/specificity than CT alone in the preoperative staging of the pelvic LNs and distant metastasis. 2b Recommendations Strength rating Primary tumour Perform a detailed physical examination of the penis and external genitalia, recording morphology, size and location of the penile lesion, including extent and invasion of penile (adjacent) structures. Strong Perform magnetic resonance imaging (MRI) of the penis/primary tumour (artificial erection not mandatory) when there is uncertainty regarding corporal invasion and/or the feasibility of (organ-sparing) surgery. If MRI is not available, offer ultrasound (US) as an alternative option. Weak Obtain a pretreatment biopsy of the primary lesion when malignancy is not clinically obvious, or when non-surgical treatment of the primary lesion is planned (e.g. topical agents, laser, radiotherapy). Strong Inguinal lymph nodes (LN) Perform a physical examination of both groins. Record the number, laterality and characteristics of any palpable/suspicious inguinal nodes. Strong Clinically node-negative (cN0) If there are no palpable/suspicious nodes (cN0) at physical examination, offer surgical LN staging to all patients at high risk of having micrometastatic disease (T1b or higher). Strong In case of T1a G2 disease, also discuss surveillance as an alternative to surgical staging in (frail) patients willing to comply with strict follow-up. Weak When surgical staging is indicated, offer dynamic sentinel node biopsy (DSNB). If DSNB is not available and referral is not feasible, or if the patient prefers after being well informed, offer inguinal LN dissection (ILND) (open or videoendoscopic). Strong If DSNB is planned, perform inguinal US first, with fine-needle aspiration cytology of sonographically abnormal LNs. Strong Clinically node-positive (cN+) If there is a palpable/suspicious node at physical examination (cN+), obtain (image-guided) biopsy to confirm nodal metastasis before initiating treatment. Strong In cN+ patients, stage the pelvis and exclude distant metastases with 18 F-fluoro-2-deoxyD-glucose positron emission tomography computed tomography (CT) or CT of the chest and abdomen before initiating treatment. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "For distinguishing T1 from T2 disease, MRI does not outperform clinical staging.",
+              "2b"
+            ],
+            [
+              "For predicting corporal invasion (T3 disease), MRI showed a pooled sensitivity and of 80% (95% CI: 70–87%) and 96% (95% CI: 85–99%), respectively.",
+              "2b"
+            ],
+            [
+              "Magnetic resonance imaging with and without artificial erection showed similar accuracy in local staging.",
+              "2b"
+            ],
+            [
+              "Computed tomography, PET/CT and MRI imaging cannot detect micro-metastases and are therefore of limited value in clinically node-negative patients in which the aim is to identify small sub-clinical LN metastasis.",
+              "2a"
+            ],
+            [
+              "Inguinal US + FNAC of sonographically abnormal nodes can reduce the need for DSNB when tumour positive, allowing for earlier therapeutic treatment of node-positive disease.",
+              "2a"
+            ],
+            [
+              "For surgical staging of cN0 patients, DSNB has shown a high diagnostic accuracy.",
+              "2a"
+            ],
+            [
+              "Sentinel node biopsy has been shown to lower complication rates compared to modified-, superficial-, or videoendoscopic ILND.",
+              "2b"
+            ],
+            [
+              "Imaging with 18FDG-PET/CT in clinically node-positive patients showed higher sensitivity/specificity than CT alone in the preoperative staging of the pelvic LNs and distant metastasis.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Primary tumour"
+            ],
+            [
+              "Perform a detailed physical examination of the penis and external genitalia, recording morphology, size and location of the penile lesion, including extent and invasion of penile (adjacent) structures.",
+              "Strong"
+            ],
+            [
+              "Perform magnetic resonance imaging (MRI) of the penis/primary tumour (artificial erection not mandatory) when there is uncertainty regarding corporal invasion and/or the feasibility of (organ-sparing) surgery. If MRI is not available, offer ultrasound (US) as an alternative option.",
+              "Weak"
+            ],
+            [
+              "Obtain a pretreatment biopsy of the primary lesion when malignancy is not clinically obvious, or when non-surgical treatment of the primary lesion is planned (e.g. topical agents, laser, radiotherapy).",
+              "Strong"
+            ],
+            [
+              "Inguinal lymph nodes (LN)"
+            ],
+            [
+              "Perform a physical examination of both groins. Record the number, laterality and characteristics of any palpable/suspicious inguinal nodes.",
+              "Strong"
+            ],
+            [
+              "Clinically node-negative (cN0)"
+            ],
+            [
+              "If there are no palpable/suspicious nodes (cN0) at physical examination, offer surgical LN staging to all patients at high risk of having micrometastatic disease (T1b or higher).",
+              "Strong"
+            ],
+            [
+              "In case of T1a G2 disease, also discuss surveillance as an alternative to surgical staging in (frail) patients willing to comply with strict follow-up.",
+              "Weak"
+            ],
+            [
+              "When surgical staging is indicated, offer dynamic sentinel node biopsy (DSNB). If DSNB is not available and referral is not feasible, or if the patient prefers after being well informed, offer inguinal LN dissection (ILND) (open or videoendoscopic).",
+              "Strong"
+            ],
+            [
+              "If DSNB is planned, perform inguinal US first, with fine-needle aspiration cytology of sonographically abnormal LNs.",
+              "Strong"
+            ],
+            [
+              "Clinically node-positive (cN+)"
+            ],
+            [
+              "If there is a palpable/suspicious node at physical examination (cN+), obtain (image-guided) biopsy to confirm nodal metastasis before initiating treatment.",
+              "Strong"
+            ],
+            [
+              "In cN+ patients, stage the pelvis and exclude distant metastases with 18F-fluoro-2-deoxyD-glucose positron emission tomography computed tomography (CT) or CT of the chest and abdomen before initiating treatment.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 2
+}

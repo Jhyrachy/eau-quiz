@@ -1,0 +1,766 @@
+{
+  "guideline": "urethral-strictures",
+  "chapter": "tissue-transfer",
+  "url": "https://uroweb.org/guidelines/urethral-strictures/chapter/tissue-transfer",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Summary of changes",
+      "anchor": "#1-5-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODOLOGY",
+      "anchor": "#2-methodology"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Methods",
+      "anchor": "#2-1-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. DEFINITION EPIDEMIOLOGY AETIOLOGY AND PREVENTION",
+      "anchor": "#3-definition-epidemiology-aetiology-and-prevention"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definitions",
+      "anchor": "#3-1-definitions"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Aetiology and prevention",
+      "anchor": "#3-3-aetiology-and-prevention"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Aetiology and prevention in males",
+      "anchor": "#3-3-1-aetiology-and-prevention-in-males"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Aetiology in females",
+      "anchor": "#3-3-2-aetiology-in-females"
+    },
+    {
+      "level": 2,
+      "text": "4. CLASSIFICATIONS",
+      "anchor": "#4-classifications"
+    },
+    {
+      "level": 3,
+      "text": "4.1. According to stricture location",
+      "anchor": "#4-1-according-to-stricture-location"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. In males",
+      "anchor": "#4-1-1-in-males"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. In females",
+      "anchor": "#4-1-2-in-females"
+    },
+    {
+      "level": 3,
+      "text": "4.2. According to stricture tightness",
+      "anchor": "#4-2-according-to-stricture-tightness"
+    },
+    {
+      "level": 3,
+      "text": "4.3. According to stricture severity",
+      "anchor": "#4-3-according-to-stricture-severity"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Strictures in transgender men and woman",
+      "anchor": "#4-4-strictures-in-transgender-men-and-woman"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Trans women",
+      "anchor": "#4-4-1-trans-women"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Trans men",
+      "anchor": "#4-4-2-trans-men"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION",
+      "anchor": "#5-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Patient history",
+      "anchor": "#5-1-patient-history"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Physical examination",
+      "anchor": "#5-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Further diagnostic evaluation",
+      "anchor": "#5-2-1-further-diagnostic-evaluation"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT IN MALES",
+      "anchor": "#6-disease-management-in-males"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Conservative options",
+      "anchor": "#6-1-conservative-options"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Observation",
+      "anchor": "#6-1-1-observation"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Suprapubic catheter",
+      "anchor": "#6-1-2-suprapubic-catheter"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Endoluminal treatment of anterior urethral strictures in males",
+      "anchor": "#6-2-endoluminal-treatment-of-anterior-urethral-strictures-in-males"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Direct vision internal urethrotomy",
+      "anchor": "#6-2-1-direct-vision-internal-urethrotomy"
+    },
+    {
+      "level": 4,
+      "text": "6.2.2. Single dilatation",
+      "anchor": "#6-2-2-single-dilatation"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Open repairs (urethroplasty): site and aetiology (clinical scenario) treatment options",
+      "anchor": "#6-3-open-repairs-urethroplasty-site-and-aetiology-clinical-scenario-treatment-options"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. The role of urethroplasty in the management of penile urethral strictures",
+      "anchor": "#6-3-1-the-role-of-urethroplasty-in-the-management-of-penile-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Urethroplasty for bulbar strictures",
+      "anchor": "#6-3-2-urethroplasty-for-bulbar-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.3. Urethroplasty for penobulbar or panurethral strictures",
+      "anchor": "#6-3-3-urethroplasty-for-penobulbar-or-panurethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.4. Perineal urethrostomy",
+      "anchor": "#6-3-4-perineal-urethrostomy"
+    },
+    {
+      "level": 4,
+      "text": "6.3.5. Posterior urethra",
+      "anchor": "#6-3-5-posterior-urethra"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT IN FEMALES",
+      "anchor": "#7-disease-management-in-females"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Signs and symptoms of female urethral strictures",
+      "anchor": "#7-1-signs-and-symptoms-of-female-urethral-strictures"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Diagnosis of female urethral strictures",
+      "anchor": "#7-2-diagnosis-of-female-urethral-strictures"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Treatment of female urethral strictures",
+      "anchor": "#7-3-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Minimally invasive techniques for treatment of female urethral strictures",
+      "anchor": "#7-3-1-minimally-invasive-techniques-for-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Urethroplasty for treatment of female urethral strictures",
+      "anchor": "#7-3-2-urethroplasty-for-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 2,
+      "text": "8. DISEASE MANAGEMENT IN TRANSGENDER PATIENTS",
+      "anchor": "#8-disease-management-in-transgender-patients"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Treatment of strictures in trans men",
+      "anchor": "#8-1-treatment-of-strictures-in-trans-men"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Management of strictures early after neophallic reconstruction",
+      "anchor": "#8-1-1-management-of-strictures-early-after-neophallic-reconstruction"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Treatment of meatal stenosis in trans men",
+      "anchor": "#8-1-2-treatment-of-meatal-stenosis-in-trans-men"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Treatment of strictures at the neophallic urethra",
+      "anchor": "#8-1-3-treatment-of-strictures-at-the-neophallic-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.4. Treatment of strictures at the anastomosis neophallic urethra-fixed part of the urethra",
+      "anchor": "#8-1-4-treatment-of-strictures-at-the-anastomosis-neophallic-urethra-fixed-part-of-the-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.5. Treatment of strictures at the fixed part of the urethra",
+      "anchor": "#8-1-5-treatment-of-strictures-at-the-fixed-part-of-the-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.6. Definitive perineostomy in trans men",
+      "anchor": "#8-1-6-definitive-perineostomy-in-trans-men"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Perioperative care after treatment of strictures in trans men",
+      "anchor": "#8-2-perioperative-care-after-treatment-of-strictures-in-trans-men"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Strictures in trans women",
+      "anchor": "#8-3-strictures-in-trans-women"
+    },
+    {
+      "level": 2,
+      "text": "9. TISSUE TRANSFER",
+      "anchor": "#9-tissue-transfer"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Comparison of grafts with flaps",
+      "anchor": "#9-1-comparison-of-grafts-with-flaps"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Comparison of different types of flaps",
+      "anchor": "#9-2-comparison-of-different-types-of-flaps"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Comparison of different types of grafts",
+      "anchor": "#9-3-comparison-of-different-types-of-grafts"
+    },
+    {
+      "level": 3,
+      "text": "9.4. Tissue engineered grafts",
+      "anchor": "#9-4-tissue-engineered-grafts"
+    },
+    {
+      "level": 4,
+      "text": "9.4.1. Cell-free tissue engineered grafts",
+      "anchor": "#9-4-1-cell-free-tissue-engineered-grafts"
+    },
+    {
+      "level": 4,
+      "text": "9.4.2. Autologous tissue engineered oral mucosa grafts",
+      "anchor": "#9-4-2-autologous-tissue-engineered-oral-mucosa-grafts"
+    },
+    {
+      "level": 3,
+      "text": "9.5. Management of oral cavity after buccal mucosa harvesting",
+      "anchor": "#9-5-management-of-oral-cavity-after-buccal-mucosa-harvesting"
+    },
+    {
+      "level": 2,
+      "text": "10. PERIOPERATIVE CARE OF URETHRAL SURGERY",
+      "anchor": "#10-perioperative-care-of-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Urethral rest",
+      "anchor": "#10-1-urethral-rest"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Antibiotics",
+      "anchor": "#10-2-antibiotics"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Catheter management",
+      "anchor": "#10-3-catheter-management"
+    },
+    {
+      "level": 2,
+      "text": "11. FOLLOW UP",
+      "anchor": "#11-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "11.1. Rationale for follow-up after urethral surgery",
+      "anchor": "#11-1-rationale-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.2. Definition of success after urethroplasty surgery",
+      "anchor": "#11-2-definition-of-success-after-urethroplasty-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.3. Follow-up tools after urethral surgery",
+      "anchor": "#11-3-follow-up-tools-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.1. Diagnostic tools for follow-up after urethral surgery",
+      "anchor": "#11-3-1-diagnostic-tools-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.2. Screening tools for follow-up after urethral surgery",
+      "anchor": "#11-3-2-screening-tools-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.3. Quality of life assessment, including disease specific questionnaires during follow-up after urethral surgery",
+      "anchor": "#11-3-3-quality-of-life-assessment-including-disease-specific-questionnaires-during-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.4. Ideal follow-up interval after urethral surgery",
+      "anchor": "#11-4-ideal-follow-up-interval-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.5. Length of follow-up after urethral surgery",
+      "anchor": "#11-5-length-of-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.6. Risk-stratified proposals during follow-up after urethral surgery",
+      "anchor": "#11-6-risk-stratified-proposals-during-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.7. Follow-up protocol proposal after urethroplasty",
+      "anchor": "#11-7-follow-up-protocol-proposal-after-urethroplasty"
+    },
+    {
+      "level": 4,
+      "text": "11.7.1. Surgeries with low risk of recurrence",
+      "anchor": "#11-7-1-surgeries-with-low-risk-of-recurrence"
+    },
+    {
+      "level": 4,
+      "text": "11.7.2. Surgical management options with standard risk of recurrence",
+      "anchor": "#11-7-2-surgical-management-options-with-standard-risk-of-recurrence"
+    },
+    {
+      "level": 2,
+      "text": "12. REFERENCES",
+      "anchor": "#12-references"
+    },
+    {
+      "level": 2,
+      "text": "13. CONFLICT OF INTEREST",
+      "anchor": "#13-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "14. CITATION INFORMATION",
+      "anchor": "#14-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "15. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#15-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#urethral-strictures",
+      "title": "Urethral Strictures",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 9. Tissue Transfer Introduction Methodology Definition Epidemiology Aetiology And Prevention Classifications Diagnostic Evaluation Disease Management In Males Disease Management In Females Disease Management In Transgender Patients Tissue Transfer Perioperative Care Of Urethral Surgery Follow Up References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#9-tissue-transfer",
+      "title": "9. TISSUE TRANSFER",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#9-1-comparison-of-grafts-with-flaps",
+      "title": "9.1. Comparison of grafts with flaps",
+      "level": 3,
+      "text": "One small RCT (LS excluded) comparing OMG with PSF found no significant difference in urethral patency rate [537]. Penile skin flaps had a higher urogenital morbidity (superficial penile skin necrosis, penile torsion, penile hypoesthesia, post-void dribbling) and longer operation time compared to OMG. Furthermore, patient dissatisfaction was significantly higher with penile flaps [537]. Another small RCT (LS excluded) comparing penile skin grafts with PSF confirmed these findings with longer operation time and more superficial penile skin necrosis in the group of the flaps, whereas the urethral patency rate was similar between both groups [378]. Several retrospective series also found a comparable urethral patency rate between PSF and grafts [293, 294, 538, 539] (see supplementary Table S9.1). A systematic review and meta-analysis showed no significant difference between OMG and PSF in the overall cohort [540]. Due to their robust vascular pedicle, flaps can be used as a tube, as well as a patch in a single-stage approach [142]. Castagnetti et al. showed that grafts used as a tube have significantly higher complication rates as compared to onlay grafts (OR: 5.86; 95% CI: 1.5–23.4) [541]. A review by Patterson et al. also reported high (approximately 50%) complication and recurrence rates for tubularised grafts [542]. Iqbal et al. have shown an encouraging 87% stricture-free rate in 23 patients who were offered single-stage circumferential skin flap urethroplasty [290]. Therefore, if there is a need to reconstruct a complete urethral segment with a tissue-transfer tube in a one-stage operation, flaps are usually the preferred option. As flaps carry their own vascular supply to the reconstruction site, they do not rely on the local vascularisation of the recipient site. Therefore, they need to be considered in case of poor urethral vascularisation (e.g., after irradiation or dense scarring after previous urethroplasty) [538,543]. In addition, flaps survive well in the presence of active urinary infection [544]. Grafts and flaps should not be considered competitors in urethral surgery. A combination of a flap with a graft is possible for complex, multifocal or penobulbar strictures [538, 545, 546]. Summary of evidence LE Flaps have a higher urogenital morbidity, but a comparable patency rate compared to grafts. 1b Grafts have a significantly higher complication rate compared to flaps when complete tubularisation in a single-stage approach is needed. 1b Flaps do not rely on the local vascularisation of the recipient site. 3 Recommendations Strength rating Use a graft above a flap when both options are equally indicated. Strong Do not use grafts in a tubularised fashion in a single-stage approach. Strong Use flaps in case of poor vascularisation of the urethral bed. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Flaps have a higher urogenital morbidity, but a comparable patency rate compared to grafts.",
+              "1b"
+            ],
+            [
+              "Grafts have a significantly higher complication rate compared to flaps when complete tubularisation in a single-stage approach is needed.",
+              "1b"
+            ],
+            [
+              "Flaps do not rely on the local vascularisation of the recipient site.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use a graft above a flap when both options are equally indicated.",
+              "Strong"
+            ],
+            [
+              "Do not use grafts in a tubularised fashion in a single-stage approach.",
+              "Strong"
+            ],
+            [
+              "Use flaps in case of poor vascularisation of the urethral bed.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#9-2-comparison-of-different-types-of-flaps",
+      "title": "9.2. Comparison of different types of flaps",
+      "level": 3,
+      "text": "Different local flaps have been described. Penile skin flaps are generally hairless, although the ventral penile skin can be hair-bearing around the raphe in some ethnic groups/phenotypes. They can be harvested as a transverse preputial skin flap [547], a transverse distal PSF [381, 544, 548, 549] or as a longitudinal island flap [550]. Urethral patency rates vary between 74.2 and 100% [293, 381, 514, 531, 534, 544, 551]. Complications include skin necrosis (0–3.8%), fistula (0–7%), penile deformity (0–7%), post-void dribbling (0–79%) and sacculation (0–16.5%) (see supplementary Table S9.2). As there are no direct comparative series available about these flaps, it is not possible to determine which performs better. Hair-bearing perineal and scrotal flaps have been described as well. Fu et al. demonstrated that PSF had a significantly better urethral patency rate compared to scrotal and perineal skin flaps (87.7%, 69% and 66.7%, respectively) [293]. The hair-bearing perineal and scrotal skin flaps are associated with hairball formation and chronic infection, which may cause failure of the repair. A study of Blandy with long-term follow-up, reports 3% revision for calculi and 3% revision for diverticula [552]. An alternative is to epilate the needed scrotal skin prior to tissue transfer [553, 554] or to patch an OMG to the underlying dartos tissue of the scrotum after incision of the scrotal skin and use this patch as a flap in a second attempt [142]. Summary of evidence LE Hair-bearing flaps have a lower urethral patency rate compared to non-hair-bearing flaps. 3 Recommendation Strength rating Do not use hair-bearing perineal or scrotal flaps unless no other option is feasible. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Hair-bearing flaps have a lower urethral patency rate compared to non-hair-bearing flaps.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Do not use hair-bearing perineal or scrotal flaps unless no other option is feasible.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#9-3-comparison-of-different-types-of-grafts",
+      "title": "9.3. Comparison of different types of grafts",
+      "level": 3,
+      "text": "Buccal mucosa is at present the most commonly used graft. A systematic review on anterior urethral strictures reports a urethral patency rates of buccal mucosa of 86.6% with an average follow-up of 31.5 months [555]. Penile skin is another popular graft, especially in uncircumcised men where the foreskin is an abundant source of graft material. In case of LS, Trivedi et al. demonstrated a significantly higher urethral patency rate when using nongenital mucosal grafts for reconstruction (82.6%) compared to genital skin grafts (4%) [556]. Therefore, the use of genital skin in LS cases is not indicated. In one RCT (Pee’BuSt trial) comparing buccal mucosa with penile skin as a graft for dorsal onlay augmentation urethroplasty for anterior strictures, no significant difference in outcome could be observed [557]. A systematic review and meta-analysis suggests that BMG-augmentented urethroplasty may be superior to penile skin graft urethroplasty. However, there were a large number of confounding factors, and clear conclusions cannot be made [558]. Lengthy skin grafts (up to 20cm) can be taken from the foreskin in a spiroid fashion, which is clearly more difficult with OMG. The main disadvantage of BMG harvesting is the oral morbidity and, as a result of this morbidity, lingual mucosa has been proposed as alternative. An SR and meta-analysis of comparative studies comparing LMG with BMG (four prospective, two retrospective studies) showed no significant differences in urethral patency rate and overall long-term complication rate [559-561]. These studies revealed that LMG was associated with more difficulties in eating/drinking, speaking, tongue protrusion and dysgeusia [559, 560]. In 13.8–20%, speaking problems remained after six months [559, 560]. A retrospective study of Xu et al. reported difficulties in tongue movements, numbness over the donor site and speaking difficulties in 6.2%, 4.9% and 2.5% of patients, respectively, after 12 months [315]. On the other hand, BMG harvesting provoked more oral tightness, which was present in up to 24% of patients after six months [559, 560]. Chauhan et al. showed that immediate and early donor site complications were more common in the BMG group, except for bleeding being more common in the LMG group. Numbness (61%), difficulty in chewing (54%), swelling (48%) and articulation (40%) were the most common problems during the first week. Late donor-site complications were rare [562]. Pal et al. describes more short-term complications (difficulty in tongue movement and slurring of speech) in the LMG group, compared to the BMG group. Long-term complications (after three months) at the donor site (persistent pain, perioral numbness, tightness of mouth, salivary disturbance, scarring of the cheeks) were only seen in the BMG group [563]. For long strictures, buccal mucosa can be combined with lingual mucosa [315]. The use of lower lip mucosa was described, especially when smaller grafts are needed, and has similar qualities to lingual mucosa. However, a narrative review based on the experience from retrospective series showed that these grafts have a higher post-operative donor site morbidity and can lead to permanent sequelae (persistent discomfort, neurosensory deficits, salivary flow changes and important aesthetic changes) at the donor site, which have not been described with lingual mucosa [564]. Beyond the oral mucosa and penile skin graft, a multitude of other autologous grafts have been described. These include: postauricular skin [546, 565], abdominal skin [566], split-thickness mesh graft from the thigh [365], inguinal skin [313] and colonic mucosa [567] (Table 9.1). Manoj et al. only used the postauricular skin when both genital skin and oral mucosa were not usable [565]. Marchal et al. used postauricular skin in addition to oral mucosa to reconstruct lengthy strictures [546]. Meeks et al. reported the use of abdominal skin graft mainly in patients with lengthy strictures where OMG harvesting would be insufficient, in case of prior OMG urethroplasty or if OMG was refused by the patient [566]. Pfalzgraf et al. reported a comparable urethral patency rate for split-thickness mesh graft and BMG (84% and 83%, respectively), but more penile deviation (9% vs. 0%) and lower satisfaction (83.3% vs. 96.7%) with split-thickness mesh graft [365]. Xu et al. used colonic mucosa for lengthy (> 10cm) strictures. Urethral patency rate was 85.7%, but graft harvest requires an abdominal procedure, and 1/35 (2.9%) patient developed a colonic-abdominal fistula [567]. Due to the limited experience with grafts other than oral mucosa and penile skin, they should only be considered if oral mucosa and penile skin are not available, indicated, or desired. Table 9.1: Outcome of case series of other autologous grafts Study Type of graft N Follow-up (months) Stricture length (cm) Urethral patency (%) Bastian et al. 2012 [313] Inguinal skin 34 70 (3–86) 8 (1.5–14) 91 Manoj et al. 2009 [565] Postauric",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Study",
+              "Type of graft",
+              "N",
+              "Follow-up (months)",
+              "Stricture length (cm)",
+              "Urethral patency (%)"
+            ],
+            [
+              "Bastian et al. 2012 [313]",
+              "Inguinal skin",
+              "34",
+              "70 (3–86)",
+              "8 (1.5–14)",
+              "91"
+            ],
+            [
+              "Manoj et al. 2009 [565]",
+              "Postauricular skin",
+              "35",
+              "22 (3–48)",
+              "8.9 (3–15)",
+              "89"
+            ],
+            [
+              "Meeks et al. 2010 [566]",
+              "Abdominal wall skin",
+              "21",
+              "28 (11–52)",
+              "11 (4–24)",
+              "81"
+            ],
+            [
+              "Pfalzgraf et al. 2010 [365]",
+              "Split thickness skin graft",
+              "57/68",
+              "32",
+              "NR",
+              "84"
+            ],
+            [
+              "Xu et al. 2009 [567]",
+              "Colonic mucosa",
+              "35",
+              "53.6 (26–94)",
+              "15.1 (10–20)",
+              "85.7"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Patency rates of buccal mucosa and lingual mucosa are comparable.",
+              "1a"
+            ],
+            [
+              "Various types of oral grafts have distinct types of oral morbidity and some of the oral complications might last in the long-term.",
+              "1a"
+            ],
+            [
+              "Patency rates with penile skin grafts are 79–81.8% vs. 85.9–88.1% with buccal mucosa.",
+              "3"
+            ],
+            [
+              "In LS-related strictures, the use of genital skin graft is associated with poor patency rates (4%).",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use buccal or lingual mucosa if a graft is needed and these grafts are available.",
+              "Weak"
+            ],
+            [
+              "Inform the patient about the potential complications of the various types of oral grafting (buccal versus lingual versus lower lip) when an oral graft is proposed.",
+              "Strong"
+            ],
+            [
+              "Use penile skin if buccal/lingual mucosa is not available, suitable, or accepted by the patient for reconstruction.",
+              "Weak"
+            ],
+            [
+              "Do not use genital skin graft in case of lichen sclerosus.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#9-4-tissue-engineered-grafts",
+      "title": "9.4. Tissue engineered grafts",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#9-4-1-cell-free-tissue-engineered-grafts",
+      "title": "9.4.1. Cell-free tissue engineered grafts",
+      "level": 4,
+      "text": "These grafts are derived from cadaveric or animal sources (e.g. porcine small intestine submucosa [SIS], acellular bladder matrix, acellular dermal matrix), are completely cell-free and serve as a scaffold for host cell ingrowth [568]. The main advantage suggested for their use is the off-shelf availability [568]. A small RCT (n = 30) comparing acellular bladder matrix with BMG reported a urethral patency rate of 66.6% and 100%, respectively. The poorer results of acellular bladder matrix were the most apparent in cases of an unhealthy urethral bed [569]. Several small retrospective case series using mainly porcine small intestinal submucosa, demonstrate varying patency rates from 20 to 110%. The patient groups were heterogenious in terms of aetiology, previous treatment, urethral location and definition of success rate. An overview can be found in Table 9.2. Most papers report a poorer outcome in case of extensive spongiofibrosis, poor vascular graft bed, previous treatments and longer strictures [569-573] (Table 9.2). Table 9.2: Outcome of retrospective case series using cell-free tissue engineered grafts Study N FU (mo) Type of graft Patency Rate (%) el-Kassaby et al. 2008 [569] 15 25 cadaveric acellular bladder matrix 33–88 Palminteri et al. 2012 [571] 30 71 porcine small intestinal submucosa 76 Xu et al. 2013 [573] 28 24.8 porcine small intestinal submucosa 92 Tang et al. 2020 [572] 49 15 allogeneic acellular dermal matrix 85.7 Fiala et al. 2007 [570] 50 31.2 porcine small intestinal submucosa 80 Summary of evidence LE Patency rate of cell-free tissue engineered grafts decreases with large stricture length and unhealthy urethral bed. 1b Recommendation Strength rating Do not use cell-free tissue engineered grafts in case of extensive spongiofibrosis, after failed previous urethroplasty or stricture length > 4cm. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Study",
+              "N",
+              "FU (mo)",
+              "Type of graft",
+              "Patency Rate (%)"
+            ],
+            [
+              "el-Kassaby et al. 2008 [569]",
+              "15",
+              "25",
+              "cadaveric acellular bladder matrix",
+              "33–88"
+            ],
+            [
+              "Palminteri et al. 2012 [571]",
+              "30",
+              "71",
+              "porcine small intestinal submucosa",
+              "76"
+            ],
+            [
+              "Xu et al. 2013 [573]",
+              "28",
+              "24.8",
+              "porcine small intestinal submucosa",
+              "92"
+            ],
+            [
+              "Tang et al. 2020 [572]",
+              "49",
+              "15",
+              "allogeneic acellular dermal matrix",
+              "85.7"
+            ],
+            [
+              "Fiala et al. 2007 [570]",
+              "50",
+              "31.2",
+              "porcine small intestinal submucosa",
+              "80"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Patency rate of cell-free tissue engineered grafts decreases with large stricture length and unhealthy urethral bed.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Do not use cell-free tissue engineered grafts in case of extensive spongiofibrosis, after failed previous urethroplasty or stricture length > 4cm.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#9-4-2-autologous-tissue-engineered-oral-mucosa-grafts",
+      "title": "9.4.2. Autologous tissue engineered oral mucosa grafts",
+      "level": 4,
+      "text": "These grafts contain a matrix seeded with autologous oral mucosa cells. Production requires a small oral mucosa biopsy (at 0.5cm²) and the graft is further manufactured in the lab. The main advantage suggested is the reduction of oral donor site morbidity, whereas the main disadvantages are costs and the strict time frame between manufacturing and implantation of the graft [568]. The clinical use of autologous tissue-engineered OMG was evaluated in a prospective, multicentre study including 99 patients [574]. Estimated 12- and 24-months urethral patency rate was 67.3 and 58.2%, respectively. Oral adverse events were minimal. No comparative studies with acellular grafts or native OMGs are available nor are there any data about the cost-effectiveness [568]. Summary of evidence LE Safety, patency rate and cost-effectiveness of autologous tissue-engineered grafts is currently under research. 3 Recommendation Strength rating Do not use autologous tissue-engineered oral mucosa grafts outside the frame of a clinical trial. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Safety, patency rate and cost-effectiveness of autologous tissue-engineered grafts is currently under research.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Do not use autologous tissue-engineered oral mucosa grafts outside the frame of a clinical trial.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#9-5-management-of-oral-cavity-after-buccal-mucosa-harvesting",
+      "title": "9.5. Management of oral cavity after buccal mucosa harvesting",
+      "level": 3,
+      "text": "A number of prospective RCTs have evaluated the postoperative morbidity of closure versus nonclosure of the buccal mucosa harvesting site. The results are summarised in supplementary Table S9.3. Based on these findings, no clear recommendation can be provided as to whether or not to close the harvesting site, and the decision can be left to the treating physician. A systematic review of five randomised controlled trials confirmed these findings, showing no significant difference between closing or not closing the donor site on the medium- and long-term follow-up [575]. Oral rinsing with chamomile [576] or chlorhexidine [560, 577] solution has been suggested in the first postoperative days, without any evidence that this reduces pain or other oral complications.",
+      "tables": []
+    }
+  ],
+  "tables_count": 12
+}

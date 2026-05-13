@@ -1,0 +1,645 @@
+{
+  "guideline": "chronic-pelvic-pain",
+  "chapter": "introduction",
+  "url": "https://uroweb.org/guidelines/chronic-pelvic-pain/chapter/introduction",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim",
+      "anchor": "#1-1-aim"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Structure and scope",
+      "anchor": "#1-2-structure-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Publication history",
+      "anchor": "#1-3-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Available publications",
+      "anchor": "#1-4-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Panel composition",
+      "anchor": "#1-5-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.6. Terminology",
+      "anchor": "#1-6-terminology"
+    },
+    {
+      "level": 4,
+      "text": "IASP definitions",
+      "anchor": "#iasp-definitions"
+    },
+    {
+      "level": 4,
+      "text": "ICD classification: purpose and uses",
+      "anchor": "#icd-classification-purpose-and-uses"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODOLOGY",
+      "anchor": "#2-methodology"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY, AETIOLOGY AND PATHOPHYSIOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Chronic visceral pain",
+      "anchor": "#3-1-chronic-visceral-pain"
+    },
+    {
+      "level": 4,
+      "text": "3.1.1. Incidence",
+      "anchor": "#3-1-1-incidence"
+    },
+    {
+      "level": 4,
+      "text": "3.1.2. Prevalence",
+      "anchor": "#3-1-2-prevalence"
+    },
+    {
+      "level": 4,
+      "text": "3.1.3. Influence on Quality of Life",
+      "anchor": "#3-1-3-influence-on-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "3.1.4. Costs",
+      "anchor": "#3-1-4-costs"
+    },
+    {
+      "level": 4,
+      "text": "3.1.5. Risk factors and underlying causes",
+      "anchor": "#3-1-5-risk-factors-and-underlying-causes"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Pelvic pain",
+      "anchor": "#3-2-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Incidence",
+      "anchor": "#3-2-1-incidence"
+    },
+    {
+      "level": 4,
+      "text": "3.2.2. Prevalence",
+      "anchor": "#3-2-2-prevalence"
+    },
+    {
+      "level": 4,
+      "text": "3.2.3. Influence on Quality of Life",
+      "anchor": "#3-2-3-influence-on-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "3.2.4. Costs",
+      "anchor": "#3-2-4-costs"
+    },
+    {
+      "level": 4,
+      "text": "3.2.5. Risk factors and underlying causes",
+      "anchor": "#3-2-5-risk-factors-and-underlying-causes"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Abdominal aspects of pelvic pain",
+      "anchor": "#3-3-abdominal-aspects-of-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Incidence",
+      "anchor": "#3-3-1-incidence"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Prevalence",
+      "anchor": "#3-3-2-prevalence"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Influence on health-related Quality of Life",
+      "anchor": "#3-3-3-influence-on-health-related-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Costs",
+      "anchor": "#3-3-4-costs"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. Risk factors & underlying causes",
+      "anchor": "#3-3-5-risk-factors--underlying-causes"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Summary of evidence and recommendations for chronic primary pelvic pain syndrome and pain mechanisms",
+      "anchor": "#3-4-summary-of-evidence-and-recommendations-for-chronic-primary-pelvic-pain-syndrome-and-pain-mechanisms"
+    },
+    {
+      "level": 2,
+      "text": "4. DIAGNOSTIC EVALUATION",
+      "anchor": "#4-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "4.1. General evaluation",
+      "anchor": "#4-1-general-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. History",
+      "anchor": "#4-1-1-history"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. Physical evaluation",
+      "anchor": "#4-1-2-physical-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Supplemental evaluation",
+      "anchor": "#4-2-supplemental-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. Assessing pelvic pain and related symptoms",
+      "anchor": "#4-2-1-assessing-pelvic-pain-and-related-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. Focused myofascial evaluation",
+      "anchor": "#4-2-2-focused-myofascial-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.2.3. Neurological",
+      "anchor": "#4-2-3-neurological"
+    },
+    {
+      "level": 4,
+      "text": "4.2.4. Imaging",
+      "anchor": "#4-2-4-imaging"
+    },
+    {
+      "level": 4,
+      "text": "4.2.5. Laboratory tests",
+      "anchor": "#4-2-5-laboratory-tests"
+    },
+    {
+      "level": 4,
+      "text": "4.2.6. Invasive tests",
+      "anchor": "#4-2-6-invasive-tests"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Diagnostic algorithm",
+      "anchor": "#4-3-diagnostic-algorithm"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Other painful conditions without a urological cause",
+      "anchor": "#4-4-other-painful-conditions-without-a-urological-cause"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Summary of evidence and recommendations for diagnostic evaluation",
+      "anchor": "#4-5-summary-of-evidence-and-recommendations-for-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Diagnostic evaluation - general",
+      "anchor": "#4-5-1-diagnostic-evaluation---general"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Diagnostic evaluation of primary prostate pain syndrome",
+      "anchor": "#4-5-2-diagnostic-evaluation-of-primary-prostate-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Diagnostic evaluation of primary bladder pain syndrome",
+      "anchor": "#4-5-3-diagnostic-evaluation-of-primary-bladder-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.4. Diagnostic evaluation of scrotal pain syndrome",
+      "anchor": "#4-5-4-diagnostic-evaluation-of-scrotal-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.5. Diagnostic evaluation of urethral pain syndrome",
+      "anchor": "#4-5-5-diagnostic-evaluation-of-urethral-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.6. Diagnostic evaluation of gynaecological aspects chronic pelvic pain",
+      "anchor": "#4-5-6-diagnostic-evaluation-of-gynaecological-aspects-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "4.5.7. Diagnostic evaluation of anorectal pain syndrome",
+      "anchor": "#4-5-7-diagnostic-evaluation-of-anorectal-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.8. Diagnostic evaluation of nerves to the pelvis",
+      "anchor": "#4-5-8-diagnostic-evaluation-of-nerves-to-the-pelvis"
+    },
+    {
+      "level": 4,
+      "text": "4.5.9. Diagnostic evaluation of sexological aspects in chronic pelvic pain",
+      "anchor": "#4-5-9-diagnostic-evaluation-of-sexological-aspects-in-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "4.5.10. Diagnostic evaluation of psychological aspects of chronic pelvic pain",
+      "anchor": "#4-5-10-diagnostic-evaluation-of-psychological-aspects-of-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "4.5.11. Diagnostic evaluation of pelvic floor function",
+      "anchor": "#4-5-11-diagnostic-evaluation-of-pelvic-floor-function"
+    },
+    {
+      "level": 2,
+      "text": "5. MANAGEMENT",
+      "anchor": "#5-management"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Conservative management",
+      "anchor": "#5-1-conservative-management"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Physical therapy",
+      "anchor": "#5-1-1-physical-therapy"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Psychological therapy",
+      "anchor": "#5-1-2-psychological-therapy"
+    },
+    {
+      "level": 4,
+      "text": "5.1.3. Dietary treatment",
+      "anchor": "#5-1-3-dietary-treatment"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Pharmacological management",
+      "anchor": "#5-2-pharmacological-management"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Drugs for chronic primary pelvic pain syndrome",
+      "anchor": "#5-2-1-drugs-for-chronic-primary-pelvic-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Analgesics",
+      "anchor": "#5-2-2-analgesics"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Further management",
+      "anchor": "#5-3-further-management"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Nerve blocks",
+      "anchor": "#5-3-1-nerve-blocks"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Neuromodulation",
+      "anchor": "#5-3-2-neuromodulation"
+    },
+    {
+      "level": 4,
+      "text": "5.3.3. Surgery",
+      "anchor": "#5-3-3-surgery"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Summary of evidence and recommendations: management",
+      "anchor": "#5-4-summary-of-evidence-and-recommendations-management"
+    },
+    {
+      "level": 4,
+      "text": "5.4.1. Management of primary prostate pain syndrome",
+      "anchor": "#5-4-1-management-of-primary-prostate-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.2. Management of primary bladder pain syndrome",
+      "anchor": "#5-4-2-management-of-primary-bladder-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.3. Management of scrotal pain syndrome",
+      "anchor": "#5-4-3-management-of-scrotal-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.4. Management of primary urethral pain syndrome",
+      "anchor": "#5-4-4-management-of-primary-urethral-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.5. Management of gynaecological aspects of chronic pelvic pain",
+      "anchor": "#5-4-5-management-of-gynaecological-aspects-of-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "5.4.6. Management of primary anorectal pain syndrome",
+      "anchor": "#5-4-6-management-of-primary-anorectal-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.7. Management of pudendal neuralgia",
+      "anchor": "#5-4-7-management-of-pudendal-neuralgia"
+    },
+    {
+      "level": 4,
+      "text": "5.4.8. Management of sexological aspects in chronic pelvic pain",
+      "anchor": "#5-4-8-management-of-sexological-aspects-in-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "5.4.9. Management of psychological aspects in chronic pelvic pain",
+      "anchor": "#5-4-9-management-of-psychological-aspects-in-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "5.4.10. Management of pelvic floor dysfunction",
+      "anchor": "#5-4-10-management-of-pelvic-floor-dysfunction"
+    },
+    {
+      "level": 2,
+      "text": "6. EVALUATION OF TREATMENT RESULTS",
+      "anchor": "#6-evaluation-of-treatment-results"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Evaluation of treatment",
+      "anchor": "#6-1-evaluation-of-treatment"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Treatment has not been effective",
+      "anchor": "#6-1-1-treatment-has-not-been-effective"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Treatment has been effective",
+      "anchor": "#6-1-2-treatment-has-been-effective"
+    },
+    {
+      "level": 2,
+      "text": "7. REFERENCES",
+      "anchor": "#7-references"
+    },
+    {
+      "level": 2,
+      "text": "8. CONFLICT OF INTEREST",
+      "anchor": "#8-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "9. CITATION INFORMATION",
+      "anchor": "#9-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "10. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#10-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#chronic-pelvic-pain",
+      "title": "Chronic Pelvic Pain",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 1. Introduction Introduction Methodology Epidemiology, Aetiology And Pathophysiology Diagnostic Evaluation Management Evaluation Of Treatment Results References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#1-introduction",
+      "title": "1. INTRODUCTION",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#1-1-aim",
+      "title": "1.1. Aim",
+      "level": 3,
+      "text": "These European Association of Urology (EAU) Guidelines on Chronic Pelvic Pain play an important role in the process of consolidation and improvement of care for patients with pelvic pain and associated lower abdominal pain. From both literature and daily practice, it has become clear that lower abdominal and pelvic pain are areas still under development. These Guidelines have been recognised as a cornerstone for important developments that have taken place in the past years. These Guidelines aim to expand the awareness of caregivers in the field of abdominal and pelvic pain, and to assist those who treat patients with abdominal and pelvic pain in their daily practice. The Guidelines are a useful instrument not only for urologists, but also for gynaecologists, surgeons, physiotherapists, psychologists and pain doctors. It must be emphasised that clinical guidelines present the best evidence available to the experts but following guideline recommendations will not necessarily result in the best outcome. Guidelines can never replace clinical expertise when making treatment decisions for individual patients but rather help to focus decisions - also taking personal values and preferences/individual circumstances of patients into account. Guidelines are not mandates and do not purport to be a legal standard of care.",
+      "tables": []
+    },
+    {
+      "anchor": "#1-2-structure-and-scope",
+      "title": "1.2. Structure and scope",
+      "level": 3,
+      "text": "The Panel wishes to take advantage of modern methods of delivering Guidelines information to clinicians. In 2016, a stepped information structure was made, in alignment with stepped-care protocols, using new digital information sources like websites and Apps to aid this process. Furthermore, the Guidelines were changed according to the template used in all other non-oncology Guidelines of the EAU, while recognising that structuring Guidelines on chronic pain is different from structuring one on another subject. A multidisciplinary approach is of utmost importance and demands a broad view. In 2016, the Guidelines were rewritten to be centred around pain instead of being organ centred. It is partly theoretical to show the importance of using this pain-centred approach. The biggest part, however, deals with the practical approach to diagnostics, treatment and management of patients with abdominal and pelvic pain.",
+      "tables": []
+    },
+    {
+      "anchor": "#1-3-publication-history",
+      "title": "1.3. Publication history",
+      "level": 3,
+      "text": "The EAU Guidelines on Chronic Pelvic Pain were first published in 2003. This formed the basis of a 2004 scientific publication [1]. In the 2003 edition of these Guidelines, the concept of chronic pelvic pain syndromes was introduced, which is now referred to as “pain as a disease process”. In 2008, a limited update of the Guidelines was published and formed the basis of another scientific publication in 2010 [2]. In the 2014 edition, minor revisions were made. For the 2015 edition, the Panel critically reviewed chronic primary bladder pain syndrome (PBPS), which is now a comprehensive part of the Guidelines. The fact that this part was so extensive, shows that the roots of talking about abdominal pain and pelvic pain lies in the bladder, and interstitial cystitis was one of the first subjects addressed that talked about pain in urology. The Panel illustrated this in a 2013 publication [3]. In the 2025 edition, minor updates were made to the definition of PBPS in Section 1.5 ‘Terminology’ and to patient education in Chapter 5. The next update of the EAU Guidelines on Chronic Pelvic Pain will be published in 2027.",
+      "tables": []
+    },
+    {
+      "anchor": "#1-4-available-publications",
+      "title": "1.4. Available publications",
+      "level": 3,
+      "text": "Alongside the full text version of the EAU Guidelines on Chronic Pelvic Pain, a quick reference document (Pocket Guidelines) is available. This reference document is an abridged version that may require consultation together with the full text version. It follows the update cycle of the underlying full texts. All documents are accessible on the EAU website: https://uroweb.org/guidelines/chronic-pelvic-pain . An EAU Guidelines App for iOS and Android devices is also available, containing the Pocket Guidelines, interactive algorithms and calculators, clinical decision support tools, Guidelines cheat sheets and links to the extended Guidelines.",
+      "tables": []
+    },
+    {
+      "anchor": "#1-5-panel-composition",
+      "title": "1.5. Panel composition",
+      "level": 3,
+      "text": "The Panel of experts responsible for the Guidelines include five urologists (one of whom has a subspecialisation in neuro-urology and one is a sexologist), three consultants in pain medicine, a uro-gynaecologist, a psychologist, a gastroenterologist, a pelvic physiotherapist, a health scientist and (clinical) epidemiologist and two patient representatives. All experts involved in the production of this document have submitted potential conflict of interest statements, which can be viewed on the EAU website: https://uroweb.org/guidelines/chronic-pelvic-pain/panel .",
+      "tables": []
+    },
+    {
+      "anchor": "#1-6-terminology",
+      "title": "1.6. Terminology",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#definitions-of-chronic-pelvic-pain-terminology",
+      "title": "Definitions of chronic pelvic pain terminology",
+      "level": 4,
+      "text": "Classification Much debate over the classification of chronic pelvic pain has occurred, is ongoing and will continue in the future. Classification involves three aspects of defining a condition: phenotyping, terminology and taxonomy. Phenotyping Phenotyping is describing the condition. For example, chronic bladder pain may be associated with the presence of Hunner’s lesions and glomerulations on cystoscopy, whereas other bladder pain conditions may have a normal appearance on cystoscopy. These are two different phenotypes. The same is true for irritable bowel syndrome (IBS), which may be sub-divided into that associated primarily with diarrhoea or that with constipation. Phenotyping is based upon mechanisms when they are known (e.g. infection, ischaemic, autoimmune or neuropathic). In the absence of well-defined mechanisms, characterising the condition by its symptoms and signs, and – where possible – by investigative findings, has shown to have clinical and research validity in many contexts. When pain is the main symptom and pain as a disease process is considered the cause, the condition is often referred to as a pain syndrome - a well-defined collection of symptoms, signs and investigation results associated with pain mechanisms and pain perception as the primary complaint. The 11 th revision of the World Health Organization (WHO) International Classification of Diseases (ICD-11) uses the term chronic primary pain to distinguish these conditions from pain associated with another diagnosis that the WHO refers to as chronic secondary pain (see below). Terminology Terminology is the word(s) that are used within classification, both to name the phenotype and within the definition of the phenotype. Examples of names for phenotypes associated with the bladder include interstitial cystitis, painful bladder syndrome or PBPS. The EAU, the International Society for the study of PBPS (known as ESSIC), the International Association for the Study of Pain (IASP) and several other groups have preferred the term PBPS. In the pain syndromes, the role of the nervous system in generating the sensations is thought to be pivotal, but the term syndrome is also comprehensive and considers the emotional, cognitive, behavioural, sexual and functional consequences of chronic pain. When defining the phenotype, the terminology used in that definition must also be clear and, if necessary, defined. One of the most important guiding principles is that spurious terminology should be avoided. Particularly, terms that end in “itis” should be avoided unless infection and/or inflammation is proven and considered to be the cause of the pain [4]. End-organ inflammation may be secondary and neurogenic in origin, and not a primary cause of the pain. Taxonomy Taxonomy places the phenotypes into a relationship hierarchy. The EAU approach subdivides chronic pelvic pain into conditions that are pain syndromes with no obvious diagnosis; chronic primary pelvic pain syndromes (CPPPS) (consistent with ICD-11 chronic primary pain); and those that are non-pain syndromes. The latter are conditions that have well-recognised pathology (e.g. infection, neuropathy or inflammation), whereas the former syndromes do not, and pain as a disease process is the mechanism. Other terms for the non-pain syndromes include “classical conditions”, “well-defined conditions” and “confusable diseases” and the ICD-11 chronic secondary pain. Although the EAU approach deals primarily with urological conditions, this approach to classification can be applied to all conditions associated with pain perception within the pelvis; the classification has been developed to include non-urological pain and was accepted by the IASP for publication in January 2012.",
+      "tables": []
+    },
+    {
+      "anchor": "#classification-of-chronic-pelvic-pain",
+      "title": "Classification of chronic pelvic pain",
+      "level": 4,
+      "text": "Importance of classification It should be obvious to all that a condition cannot be treated unless it is defined. However, the reasons for classifying chronic pelvic pain go far beyond that. Clues to the mechanism As a result of systematic phenotypic and taxonomic classifications, similarities and differences between conditions become clear. Drawing comparisons between the phenotypes of different disorders allows comparison between disorders, such as bladder and bowel pain syndromes, thus facilitating research and treatment. Guidelines for best treatment options As conditions become better defined, more specific treatment approaches can be adopted. In particular, there will be a move away from treatments based upon spurious terms (e.g. antibiotics and non-steroidal anti-inflammatory drugs for the “-itis” conditions). Generic treatments aimed at groups of conditions will be more commonplace and based upon research evidence. Research platform Only by clearly defining the phenotype being investigated can research be valued or applied to the clinical situation. Patient needs A diagnosis or name for a set of symptoms can provide patients with a sense of being understood and hope for relief. It may help in acceptance of the problem as chronic, resolution of unfounded fears about its implications (if not life-threatening), engagement in therapeutic endeavours, and assist in self-management. However, it may result in accessing information of varying quality related to the diagnosis or name and could raise new concerns about long-term consequences or the suitability of treatment.",
+      "tables": []
+    },
+    {
+      "anchor": "#iasp-definitions",
+      "title": "IASP definitions",
+      "level": 4,
+      "text": "Subdividing pain syndromes There is much debate on the subdivisions of the pain syndromes within the hierarchical taxonomy. The EAU has led the way in this regard, and the guiding principles are as follows [1]: The pain syndromes are defined by a process of exclusion. In particular, there should be no evidence of infection or inflammation. Investigations by end-organ specialists should therefore be aimed at obtaining a differential diagnosis; repeated, unnecessary investigations are detrimental in the management of chronic pain syndromes. A subdivision phenotype should only be used if there is adequate evidence to support its use. For instance, in non-specific, poorly localised pelvic pain without obvious pathology, only the term CPPPS should be used. If the pain can be localised to an organ, then a more specific term, such as rectal pain syndrome, may be used, also potentially with the term primary added. If the pain is localised to multiple organs, then the syndrome is a regional pain syndrome and the term CPPPS should once again be considered. As well as defining the patient by a specific end-organ phenotype, there are several other more general descriptors that need to be considered. These are primarily psychological (e.g. cognitive or emotional), sexual, behavioural and functional. Psychological and behavioural factors are well-established factors which relate to quality of life (QoL) issues and prognosis. A North American research program, the MAPP program (Multidisciplinary Approach to the Study of Chronic Pelvic Pain research), has been devised to investigate the importance of these factors and looks at all types of pelvic pain irrespective of the end-organ where the pain is perceived. It also looks at systemic disorder associations, such as the co-occurrence of fibromyalgia (FM), facial pain or autoimmune disorders. In 2004, the Panel introduced the concept of managing the polysymptomatic nature of CPPPS. Since then, others have developed their own schemes, such as Nickel’s UPOINT [5], modified with the addition of a sexual dysfunction domain [6]. Considering these and other publications, the symptom classification table has been updated (Table 1). The debate in relation to subdividing the pain syndromes continues. As more information is collected suggesting that the central nervous system (CNS) is involved and may be the main cause of many CPPPS conditions (e.g. bladder, genitalia, colorectal or myofascial), there is a general tendency to move away from end-organ nomenclature. Only time and good research will determine whether this is appropriate. To enable such research, it is essential to have a framework of classification within which to work. Any hierarchical taxonomy must be flexible to allow for change.",
+      "tables": []
+    },
+    {
+      "anchor": "#icd-classification-purpose-and-uses",
+      "title": "ICD classification: purpose and uses",
+      "level": 4,
+      "text": "The WHO ICD is the foundation for the identification of health trends and statistics globally, and the international standard for reporting diseases and health conditions. It is the diagnostic classification standard for all clinical and research purposes. It defines the universe of diseases, disorders, injuries and other related health conditions, listed in a comprehensive and hierarchical fashion [7]. The latest version, ICD-11, has been available since January 2022 for member states to report with. The ICD-11 classification for the first time included chronic pain (“chronic pain is pain that persists or recurs for longer than three months”) and divided the coding into chronic primary pain (“chronic primary pain is multifactorial: biological, psychological and social factors contribute to the pain syndrome”) and a number of chronic secondary pain conditions (related to cancer, post-surgical, musculoskeletal, visceral, neuropathic, headache/orofacial, other). The significance of the inclusion of chronic pain as a condition within the ICD-11 should not be underestimated. There are, however, unresolved issues regarding this classification, such as when a condition ends and pain persists, does the term chronic secondary pain become chronic primary pain [8,9]? The Panel have changed the EAU terminology previously used in these Guidelines to show conformity with ICD-11 definitions. This will include changing terminology used in originally cited works. The classification has been set up according to the axis system used by IASP. Table 1: EAU classification of chronic pelvic pain syndromes CPPPS = chronic primary pelvic pain syndrome; Hx = history; Ex = examination; Ix = investigation; PTSD = post-traumatic stress disorder. Pain syndromes The original EAU Guidelines classification [1] was inspired by the IASP classification [10] and much work around what has become known as “pain as a disease” and its associated psychological, behavioural, sexual, social and organ function aspects. After ten years of work developing the initial ideas, an updated version was accepted by the IASP Council for publication in January 2012. EAU Definition of chronic pelvic pain Chronic pelvic pain is chronic or persistent pain perceived* in structures related to the pelvis of either males or females. It is often associated with negative cognitive, behavioural, sexual and emotional consequences, as well as with symptoms suggestive of lower urinary tract (LUT), sexual, bowel, pelvic floor or gynaecological dysfunction. (*Perceived indicates that the patient and clinician, to the best of their ability from the history, examination and investigations [where appropriate], have localised the pain as being discerned in a specified anatomical pelvic area.) In the case of documented nociceptive pain that becomes chronic/persistent through time, pain must have been continuous or recurrent for at least three months (in accordance with ICD-11). For cyclical pain, a longer period of more than six months may be appropriate. Cyclical pain is included in the classification, particularly if there is evidence of central sensitisation, and dysmenorrhoea (hormonally dependent) needs to be considered as a chronic pain syndrome if it is persistent and associated with negative cognitive, behavioural, sexual or emotional consequences. Chronic pelvic pain may be subdivided into conditions with well-defined classical pathology (such as infection or cancer) and those with no obvious pathology but still including biological mechanisms. For the EAU’s classification, the term “specific disease-associated pelvic pain” has been accepted for the former, and “chronic pelvic pain syndrome” for the latter. In the ICD-11, the former is called chronic secondary pelvic pain, and the latter chronic primary pelvic pain. The following classification only deals with CPPPS. EAU Definition of chronic primary pelvic pain syndrome Chronic primary pelvic pain syndrome is the occurrence of chronic pain when there is no proven infection or other obvious local pathology that may account for the pain. It is often associated with negative cognitive, behavioural, sexual or emotional consequences, as well as with symptoms suggestive of LUT, sexual, bowel or gynaecological dysfunction. Chronic primary pelvic pain syndrome is a subdivision of chronic pelvic pain. Throughout this text, chronic pelvic pain syndrome is replaced with CPPPS if it is appropriate. Further subdivision of chronic primary pelvic pain syndrome Pain perception in CPPPS may be focused within a single organ, more than one pelvic organ, and even associated with systemic symptoms such as chronic fatigue syndrome (CFS), FM or Sjögren’s syndrome. When the pain is localised to a single organ, some specialists may wish to consider using an end-organ term such as bladder pain syndrome (Table 2), also using the term primary. The use of such a phrase with the terminology “syndrome” indicates that, although peripheral mechanisms ma",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Urological pain syndromes"
+            ],
+            [
+              "Primary prostate pain syndrome",
+              "Primary prostate pain syndrome is the occurrence of persistent or recurrent episodic pain (which is convincingly reproduced by prostate palpation). There is no proven infection or other obvious local pathology. Primary prostate pain syndrome is often associated with negative cognitive, behavioural, sexual or emotional consequences, as well as with symptoms suggestive of LUT and sexual dysfunction. The term “chronic prostatitis” continues to be equated with that of PPPS. In the authors’ and others’ opinion, this is an inappropriate term, although it is recognised that it has a long history of use. The NIH consensus [12] includes infection (types I and II), which the authors feel should not be considered under PPPS, but as specific disease-associated pelvic pain. The term prostadynia has also been used in the past but is no longer recommended by the Panel. Some of the authors of the IASP document disagree with this term and suggest that CPPPS of the male is used instead of PPPS, which has been agreed by the majority."
+            ],
+            [
+              "Primary bladder pain syndrome",
+              "Primary bladder pain syndrome is the occurrence of persistent or recurrent pain perceived in the urinary bladder region, accompanied by at least one other symptom, such as pain worsening with bladder filling and daytime and/or night-time urinary frequency. There is no proven infection or other obvious local pathology. Primary bladder pain syndrome is often associated with negative cognitive, behavioural, sexual or emotional consequences, as well as with symptoms suggestive of LUT and sexual dysfunction. Primary bladder pain syndrome represents a heterogeneous spectrum of symptoms, including primarily functional or sensory presentations. There may be specific types of inflammation as a feature in subsets of patients. Localisation of the pain can be difficult by examination, and consequently, another localising symptom is required. Cystoscopy with hydrodistension and biopsy may be indicated to define phenotypes. The ESSIC have suggested a standardised scheme of subclassifications [13] to acknowledge differences and make it easier to compare various studies. Other terms that have been used include “interstitial cystitis”, “painful bladder syndrome”, and “PBS/IC” or “PBPS/IC”. These terms are no longer recommended."
+            ],
+            [
+              "Primary scrotal pain syndrome",
+              "Primary scrotal pain syndrome is the occurrence of persistent or recurrent episodic pain localised to the scrotum or the structure within it and may be associated with symptoms suggestive of LUT or sexual dysfunction. There is no proven infection or other obvious local pathology. Primary scrotal pain syndrome is often associated with negative cognitive, behavioural, sexual or emotional consequences. Primary scrotal pain syndrome is a generic term and is used when the site of the pain is not clearly testicular or epididymal. The pain is not in the skin of the scrotum as such, but perceived within its contents, in a similar way to idiopathic chest pain."
+            ],
+            [
+              "Primary testicular pain syndrome",
+              "Primary testicular pain syndrome is the occurrence of persistent or recurrent episodic pain perceived in the testes and may be associated with symptoms suggestive of LUT or sexual dysfunction. There is no proven infection or other obvious local pathology. Primary testicular pain syndrome is often associated with negative cognitive, behavioural, sexual or emotional consequences. Previous terms have included orchitis, orchialgia and orchiodynia. These terms are no longer recommended."
+            ],
+            [
+              "Primary epididymal pain syndrome",
+              "Primary epididymal pain syndrome is the occurrence of persistent or recurrent episodic pain perceived in the epididymis and may be associated with symptoms suggestive of LUT or sexual dysfunction. There is no proven infection or other obvious local pathology. Primary epididymal pain syndrome is often associated with negative cognitive, behavioural, sexual or emotional consequences."
+            ],
+            [
+              "Primary penile pain syndrome",
+              "Primary penile pain syndrome is the occurrence of pain within the penis that is not primarily in the urethra, in the absence of proven infection or other obvious local pathology. Primary penile pain syndrome is often associated with negative cognitive, behavioural, sexual or emotional consequences, as well as with symptoms suggestive of LUT and sexual dysfunction."
+            ],
+            [
+              "Primary urethral pain syndrome",
+              "Primary urethral pain syndrome is the occurrence of chronic or recurrent episodic pain perceived in the urethra, in the absence of proven infection or other obvious local pathology. Primary urethral pain syndrome is often associated with negative cognitive, behavioural, sexual or emotional consequences, as well as with symptoms suggestive of LUT, sexual, bowel or gynaecological dysfunction. Primary urethral pain syndrome may occur in males and females."
+            ],
+            [
+              "Post-vasectomy scrotal pain syndrome",
+              "Post-vasectomy scrotal pain syndrome is a scrotal pain syndrome that follows vasectomy. Post-vasectomy scrotal pain syndrome is often associated with negative cognitive, behavioural, sexual or emotional consequences, as well as with symptoms suggestive of LUT and sexual dysfunction. The mechanisms are poorly understood and for that reason it is considered by some to be a special form of primary scrotal pain syndrome."
+            ],
+            [
+              "Primary gynaecological pain syndromes: external genitalia"
+            ],
+            [
+              "Primary vulvar pain syndrome",
+              "Primary vulvar pain syndrome is the occurrence of persistent or recurrent episodic vulvar pain. There is no proven infection or other local obvious pathology. It is often associated with negative cognitive, behavioural, sexual or emotional consequences, as well as with symptoms suggestive of LUT, sexual, bowel or gynaecological dysfunction. Although pain perceived in the vulva was included under sexual disorders in the DSM-IV-R manual for classifying psychiatric disorders, there is no scientific basis for this classification, and pain perceived in the vulva is best understood as a pain problem that usually has psychological consequences. There is no evidence for its classification as a psychiatric disorder. The ISSVD has used the term vulvodynia, whereas these Guidelines use the term primary vulvar pain syndrome. According to the ISSVD, vulvodynia is vulvar pain that is not accounted for by any physical findings. The ISSVD has defined vulvodynia as “vulvar discomfort, most often described as burning pain, occurring in the absence of relevant visible findings or a specific, clinically identifiable, neurologic disorder”. If physical findings are present, the patient is said to have vulvar pain due to a specified cause. The ISSVD has sub-divided vulvodynia based on pain location and temporal characteristics of the pain (e.g. provoked or unprovoked). The following definitions are based on that approach."
+            ],
+            [
+              "Primary generalised vulvar pain syndrome",
+              "Primary generalised vulvar pain syndrome refers to a vulvar pain syndrome in which the pain/burning cannot be consistently and precisely localised by point-pressure mapping via probing with a cotton-tipped applicator or similar instrument. Rather, the pain is diffused and affects all parts of the vulva. The vulvar vestibule (the part that lies between the labia minora into which the urethral meatus and vaginal introitus open) may be involved but the discomfort is not limited to the vestibule. This pain syndrome is often associated with negative cognitive, behavioural, sexual or emotional consequences. Previous terms have included “dysesthetic vulvodynia” and “essential vulvodynia”, but these are no longer recommended."
+            ],
+            [
+              "Primary localised vulvar pain syndrome",
+              "Primary localised vulvar pain syndrome refers to pain that can be consistently and precisely localised by point-pressure mapping to one or more portions of the vulva. Clinically, the pain usually occurs because of provocation (touch, pressure or friction). Primary localised vulvar pain syndrome can be subdivided into primary vestibular pain syndrome and primary clitoral pain syndrome."
+            ],
+            [
+              "Primary vestibular pain syndrome",
+              "Primary vestibular pain syndrome refers to pain that can be localised by point-pressure mapping to the vestibule or is well perceived in the area of the vestibule."
+            ],
+            [
+              "Primary clitoral pain syndrome",
+              "Primary clitoral pain syndrome refers to pain that can be localised by point-pressure mapping to the clitoris or is well-perceived in the area of the clitoris."
+            ],
+            [
+              "Gynaecological system: internal pelvic pain syndromes"
+            ],
+            [
+              "Endometriosis-associated pain syndrome",
+              "Endometriosis-associated pain syndrome is chronic or recurrent pelvic pain in patients with laparoscopically confirmed endometriosis, and the term is used when the symptoms persist despite adequate endometriosis treatment. It is often associated with negative cognitive, behavioural, sexual or emotional consequences, as well as with symptoms suggestive of LUT, sexual, bowel or gynaecological dysfunction. Many patients have pain above and beyond the endometriotic lesions; this term is used to cover that group of patients. Endometriosis may be an incidental finding, is not always painful, and the degree of disease seen laparoscopically does not correlate with severity of symptoms. It has been suggested that this phenotype should be removed from the classification because the endometriosis may be irrelevant."
+            ],
+            [
+              "Chronic primary pelvic pain syndrome with cyclical exacerbations",
+              "Chronic primary pelvic pain syndrome with cyclical exacerbations covers the non-gynaecological organ pain that frequently shows cyclical exacerbations (e.g. IBS or PBPS) as well as pain like that associated with endometriosis/adenomyosis, but where no pathology is identified. This condition is different from dysmenorrhoea, in which pain is only present with menstruation."
+            ],
+            [
+              "Primary dysmenorrhoea",
+              "Primary dysmenorrhoea is pain with menstruation that is not associated with well-defined pathology. Dysmenorrhoea needs to be considered as a chronic primary pain syndrome if it is persistent and associated with negative cognitive, behavioural, sexual or emotional consequences."
+            ],
+            [
+              "Gastrointestinal pelvic pain syndromes"
+            ],
+            [
+              "Irritable bowel syndrome",
+              "Irritable bowel syndrome is the occurrence of chronic, or recurrent, episodic (abdominal) pain associated with defecation or change in bowel habits. In routine diagnostic examination, obvious anatomic or physiologic abnormalities are absent. Bowel dysfunction (e.g. constipation) is frequent. Irritable bowel syndrome is often associated with worry and pre-occupation about bowel function, and negative cognitive, behavioural, sexual or emotional consequences, as well as with symptoms suggestive of LUT or gynaecological dysfunction. The classification is based upon the Rome IV criteria [14]. Recurrent abdominal pain on average at least one day per week in the last three months. Symptom onset at least six months prior to diagnosis. The pain is associated with at least two or more of the following criteria: related to defecation; associated with a change in frequency of stool; or a change in form of stool. Depending on the predominant stool form, based on the Bristol Stool Scale, IBS can be subdivided into IBS with predominant constipation (IBS-C), predominant diarrhoea (IBS-D), and with mixed bowel habits (IBS-M). Patients whose bowel habits don’t fit in one of the above categories are classified as IBS unclassified (IBS-U). Extra-intestinal symptoms include: nausea, fatigue, full sensation after even a small meal, and vomiting."
+            ],
+            [
+              "Chronic primary anal pain syndrome",
+              "Chronic primary anal pain syndrome is the occurrence of chronic or recurrent episodic pain perceived in the anus in the absence of proven infection or other obvious local pathology. Chronic primary anal pain syndrome is often associated with negative cognitive, behavioural, sexual or emotional consequences, as well as with symptoms suggestive of LUT, sexual, bowel or gynaecological dysfunction."
+            ],
+            [
+              "Intermittent chronic primary anal pain syndrome",
+              "Intermittent chronic primary anal pain syndrome refers to severe, brief, episodic pain that seems to arise in the rectum or anal canal and occurs at irregular intervals. This is unrelated to the need to or the process of defecation. It may be considered a sub-group of the chronic primary anal pain syndromes. It was previously known as “proctalgia fugax” but this term is no longer recommended."
+            ],
+            [
+              "Musculoskeletal system"
+            ],
+            [
+              "Primary pelvic floor muscle pain syndrome",
+              "Primary pelvic floor muscle pain syndrome is the occurrence of persistent or recurrent episodic pelvic floor pain. There is no proven well-defined local pathology. It is often associated with negative cognitive, behavioural, sexual or emotional consequences, as well as with symptoms suggestive of LUT, sexual, bowel or gynaecological dysfunction. This syndrome may be associated with over-activity of, or trigger points within, the pelvic floor muscles. Trigger points may also be found in several muscles, such as the abdominal, thigh and paraspinal muscles and even those not directly related to the pelvis."
+            ],
+            [
+              "Primary coccyx pain syndrome",
+              "Primary coccyx pain syndrome is the occurrence of chronic or recurrent episodic pain perceived in the region of the coccyx in the absence of proven infection or other obvious local pathology. Primary coccyx pain syndrome is often associated with negative cognitive, behavioural, sexual or emotional consequences, as well as with symptoms suggestive of LUT, sexual, bowel or gynaecological dysfunction. The term “coccydynia” was used but is no longer recommended."
+            ],
+            [
+              "Chronic pain post-surgery"
+            ],
+            [
+              "Chronic post-surgical pain syndrome",
+              "The definition of CPSP is chronic pain that develops or increases in intensity after a surgical procedure and persists beyond the healing process, that is, at least three months after the surgery. There is a separate category for this in the ICD-11 classification."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 1
+}

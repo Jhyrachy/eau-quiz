@@ -1,0 +1,1110 @@
+{
+  "guideline": "chronic-pelvic-pain",
+  "chapter": "diagnostic-evaluation",
+  "url": "https://uroweb.org/guidelines/chronic-pelvic-pain/chapter/diagnostic-evaluation",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim",
+      "anchor": "#1-1-aim"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Structure and scope",
+      "anchor": "#1-2-structure-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Publication history",
+      "anchor": "#1-3-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Available publications",
+      "anchor": "#1-4-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Panel composition",
+      "anchor": "#1-5-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.6. Terminology",
+      "anchor": "#1-6-terminology"
+    },
+    {
+      "level": 4,
+      "text": "IASP definitions",
+      "anchor": "#iasp-definitions"
+    },
+    {
+      "level": 4,
+      "text": "ICD classification: purpose and uses",
+      "anchor": "#icd-classification-purpose-and-uses"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODOLOGY",
+      "anchor": "#2-methodology"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY, AETIOLOGY AND PATHOPHYSIOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Chronic visceral pain",
+      "anchor": "#3-1-chronic-visceral-pain"
+    },
+    {
+      "level": 4,
+      "text": "3.1.1. Incidence",
+      "anchor": "#3-1-1-incidence"
+    },
+    {
+      "level": 4,
+      "text": "3.1.2. Prevalence",
+      "anchor": "#3-1-2-prevalence"
+    },
+    {
+      "level": 4,
+      "text": "3.1.3. Influence on Quality of Life",
+      "anchor": "#3-1-3-influence-on-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "3.1.4. Costs",
+      "anchor": "#3-1-4-costs"
+    },
+    {
+      "level": 4,
+      "text": "3.1.5. Risk factors and underlying causes",
+      "anchor": "#3-1-5-risk-factors-and-underlying-causes"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Pelvic pain",
+      "anchor": "#3-2-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Incidence",
+      "anchor": "#3-2-1-incidence"
+    },
+    {
+      "level": 4,
+      "text": "3.2.2. Prevalence",
+      "anchor": "#3-2-2-prevalence"
+    },
+    {
+      "level": 4,
+      "text": "3.2.3. Influence on Quality of Life",
+      "anchor": "#3-2-3-influence-on-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "3.2.4. Costs",
+      "anchor": "#3-2-4-costs"
+    },
+    {
+      "level": 4,
+      "text": "3.2.5. Risk factors and underlying causes",
+      "anchor": "#3-2-5-risk-factors-and-underlying-causes"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Abdominal aspects of pelvic pain",
+      "anchor": "#3-3-abdominal-aspects-of-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Incidence",
+      "anchor": "#3-3-1-incidence"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Prevalence",
+      "anchor": "#3-3-2-prevalence"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Influence on health-related Quality of Life",
+      "anchor": "#3-3-3-influence-on-health-related-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Costs",
+      "anchor": "#3-3-4-costs"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. Risk factors & underlying causes",
+      "anchor": "#3-3-5-risk-factors--underlying-causes"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Summary of evidence and recommendations for chronic primary pelvic pain syndrome and pain mechanisms",
+      "anchor": "#3-4-summary-of-evidence-and-recommendations-for-chronic-primary-pelvic-pain-syndrome-and-pain-mechanisms"
+    },
+    {
+      "level": 2,
+      "text": "4. DIAGNOSTIC EVALUATION",
+      "anchor": "#4-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "4.1. General evaluation",
+      "anchor": "#4-1-general-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. History",
+      "anchor": "#4-1-1-history"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. Physical evaluation",
+      "anchor": "#4-1-2-physical-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Supplemental evaluation",
+      "anchor": "#4-2-supplemental-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. Assessing pelvic pain and related symptoms",
+      "anchor": "#4-2-1-assessing-pelvic-pain-and-related-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. Focused myofascial evaluation",
+      "anchor": "#4-2-2-focused-myofascial-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.2.3. Neurological",
+      "anchor": "#4-2-3-neurological"
+    },
+    {
+      "level": 4,
+      "text": "4.2.4. Imaging",
+      "anchor": "#4-2-4-imaging"
+    },
+    {
+      "level": 4,
+      "text": "4.2.5. Laboratory tests",
+      "anchor": "#4-2-5-laboratory-tests"
+    },
+    {
+      "level": 4,
+      "text": "4.2.6. Invasive tests",
+      "anchor": "#4-2-6-invasive-tests"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Diagnostic algorithm",
+      "anchor": "#4-3-diagnostic-algorithm"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Other painful conditions without a urological cause",
+      "anchor": "#4-4-other-painful-conditions-without-a-urological-cause"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Summary of evidence and recommendations for diagnostic evaluation",
+      "anchor": "#4-5-summary-of-evidence-and-recommendations-for-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Diagnostic evaluation - general",
+      "anchor": "#4-5-1-diagnostic-evaluation---general"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Diagnostic evaluation of primary prostate pain syndrome",
+      "anchor": "#4-5-2-diagnostic-evaluation-of-primary-prostate-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Diagnostic evaluation of primary bladder pain syndrome",
+      "anchor": "#4-5-3-diagnostic-evaluation-of-primary-bladder-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.4. Diagnostic evaluation of scrotal pain syndrome",
+      "anchor": "#4-5-4-diagnostic-evaluation-of-scrotal-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.5. Diagnostic evaluation of urethral pain syndrome",
+      "anchor": "#4-5-5-diagnostic-evaluation-of-urethral-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.6. Diagnostic evaluation of gynaecological aspects chronic pelvic pain",
+      "anchor": "#4-5-6-diagnostic-evaluation-of-gynaecological-aspects-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "4.5.7. Diagnostic evaluation of anorectal pain syndrome",
+      "anchor": "#4-5-7-diagnostic-evaluation-of-anorectal-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.8. Diagnostic evaluation of nerves to the pelvis",
+      "anchor": "#4-5-8-diagnostic-evaluation-of-nerves-to-the-pelvis"
+    },
+    {
+      "level": 4,
+      "text": "4.5.9. Diagnostic evaluation of sexological aspects in chronic pelvic pain",
+      "anchor": "#4-5-9-diagnostic-evaluation-of-sexological-aspects-in-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "4.5.10. Diagnostic evaluation of psychological aspects of chronic pelvic pain",
+      "anchor": "#4-5-10-diagnostic-evaluation-of-psychological-aspects-of-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "4.5.11. Diagnostic evaluation of pelvic floor function",
+      "anchor": "#4-5-11-diagnostic-evaluation-of-pelvic-floor-function"
+    },
+    {
+      "level": 2,
+      "text": "5. MANAGEMENT",
+      "anchor": "#5-management"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Conservative management",
+      "anchor": "#5-1-conservative-management"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Physical therapy",
+      "anchor": "#5-1-1-physical-therapy"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Psychological therapy",
+      "anchor": "#5-1-2-psychological-therapy"
+    },
+    {
+      "level": 4,
+      "text": "5.1.3. Dietary treatment",
+      "anchor": "#5-1-3-dietary-treatment"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Pharmacological management",
+      "anchor": "#5-2-pharmacological-management"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Drugs for chronic primary pelvic pain syndrome",
+      "anchor": "#5-2-1-drugs-for-chronic-primary-pelvic-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Analgesics",
+      "anchor": "#5-2-2-analgesics"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Further management",
+      "anchor": "#5-3-further-management"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Nerve blocks",
+      "anchor": "#5-3-1-nerve-blocks"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Neuromodulation",
+      "anchor": "#5-3-2-neuromodulation"
+    },
+    {
+      "level": 4,
+      "text": "5.3.3. Surgery",
+      "anchor": "#5-3-3-surgery"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Summary of evidence and recommendations: management",
+      "anchor": "#5-4-summary-of-evidence-and-recommendations-management"
+    },
+    {
+      "level": 4,
+      "text": "5.4.1. Management of primary prostate pain syndrome",
+      "anchor": "#5-4-1-management-of-primary-prostate-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.2. Management of primary bladder pain syndrome",
+      "anchor": "#5-4-2-management-of-primary-bladder-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.3. Management of scrotal pain syndrome",
+      "anchor": "#5-4-3-management-of-scrotal-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.4. Management of primary urethral pain syndrome",
+      "anchor": "#5-4-4-management-of-primary-urethral-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.5. Management of gynaecological aspects of chronic pelvic pain",
+      "anchor": "#5-4-5-management-of-gynaecological-aspects-of-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "5.4.6. Management of primary anorectal pain syndrome",
+      "anchor": "#5-4-6-management-of-primary-anorectal-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.7. Management of pudendal neuralgia",
+      "anchor": "#5-4-7-management-of-pudendal-neuralgia"
+    },
+    {
+      "level": 4,
+      "text": "5.4.8. Management of sexological aspects in chronic pelvic pain",
+      "anchor": "#5-4-8-management-of-sexological-aspects-in-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "5.4.9. Management of psychological aspects in chronic pelvic pain",
+      "anchor": "#5-4-9-management-of-psychological-aspects-in-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "5.4.10. Management of pelvic floor dysfunction",
+      "anchor": "#5-4-10-management-of-pelvic-floor-dysfunction"
+    },
+    {
+      "level": 2,
+      "text": "6. EVALUATION OF TREATMENT RESULTS",
+      "anchor": "#6-evaluation-of-treatment-results"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Evaluation of treatment",
+      "anchor": "#6-1-evaluation-of-treatment"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Treatment has not been effective",
+      "anchor": "#6-1-1-treatment-has-not-been-effective"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Treatment has been effective",
+      "anchor": "#6-1-2-treatment-has-been-effective"
+    },
+    {
+      "level": 2,
+      "text": "7. REFERENCES",
+      "anchor": "#7-references"
+    },
+    {
+      "level": 2,
+      "text": "8. CONFLICT OF INTEREST",
+      "anchor": "#8-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "9. CITATION INFORMATION",
+      "anchor": "#9-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "10. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#10-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#chronic-pelvic-pain",
+      "title": "Chronic Pelvic Pain",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 4. Diagnostic Evaluation Introduction Methodology Epidemiology, Aetiology And Pathophysiology Diagnostic Evaluation Management Evaluation Of Treatment Results References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#4-diagnostic-evaluation",
+      "title": "4. DIAGNOSTIC EVALUATION",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-general-evaluation",
+      "title": "4.1. General evaluation",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-1-history",
+      "title": "4.1.1. History",
+      "level": 4,
+      "text": "History is very important for the evaluation of patients with chronic pelvic pain. Pain syndromes are symptomatic diagnoses, which are derived from a history of pain perceived in the region of the pelvis and absence of other pathology for a minimum of three months. This implies that specific disease-associated pelvic pain caused by bacterial infection, cancer, drug-induced pathology (e.g. ketamine use) [234], primary anatomical or functional disease of the pelvic organs, and neurogenic disease must be ruled out. 4.1.1.a. Anxiety, depression and overall function Distress is best understood in the context of pain and of the meaning of pain to the individual and is best assessed ideographically rather than normatively. Almost all diagnostic measures and standardised instruments of anxiety and depression are designed for people without significant physical problems, so are difficult to interpret in chronic pelvic pain [235]. Anxiety about pain often refers to fears of missed pathology (particularly cancer) as the cause of pain [33], or to uncertainties about treatment and prognosis. This can drive healthcare seeking behaviour. The question: “What do you believe or fear is the cause of your pain?” has been suggested [236]. Anxiety may also concern urinary urgency and frequency that are problematic in social settings. Depression or depressed moods are common in chronic pain [237], often related to losses consequent to chronic pain (work, leisure activities, social relationships, etc.). Due to the lack of suitable assessment instruments, it is better to ask a simple question such as “How does the pain affect you emotionally?”. If the answer gives cause for concern about the patient’s emotional state, further assessment should be undertaken by an appropriately qualified healthcare professional. Most measures of restricted function are designed primarily for musculoskeletal pain and may emphasise mobility problems rather than the difficulties of the individual with pelvic or urogenital pain. A promising specific measure, UPOINT, was introduced and in a later version the sexological aspects were added [238]. However, it may underassess relevant psychological variables [40]. Generic QoL measures are helpful. If such an instrument is not already used, the Brief Pain Inventory [239] provides a broad and economical assessment of interference of pain with various aspects of life, and is available in multiple languages. For further suggested instruments see [240]. 4.1.1.b. Urological aspects Pain may be associated with urological symptoms. A detailed history of LUT functions should be taken. Dysfunctions of the LUT may exacerbate symptoms, as pain may interfere with the function of the LUT. Micturition in all its aspects should be addressed. Special attention should be paid to the influence of micturition on the experience of pain. Primary prostate pain syndrome Primary prostate pain syndrome is diagnosed from a history of pain perceived in the region of the prostate (convincingly reproduced by prostate palpation) and absence of other LUT pathology for a minimum of three months. As mentioned above, specific disease-associated pelvic pain must be ruled out. A thorough history is an important first step in the evaluation of PPPS. It should include type of pain and localisation. Pain is often reported in other pelvic areas outside the prostate such as perineum, rectum, penis, testicles and abdomen [46]. In addition, associated LUT symptoms, sexual function, psychological, social and economic factors should be addressed. Determination of the severity of disease, its progression, and treatment response can be assessed only by means of a validated symptom-scoring instrument (see Section 4.2.1). These subjective outcome measures are recommended for the basic evaluation and therapeutic monitoring of patients in urological practice. Primary bladder pain syndrome PBPS should be diagnosed on the basis of pain, pressure or discomfort associated with the urinary bladder, accompanied by at least one other symptom, such as daytime and/or night-time increased urinary frequency, the exclusion of confusable diseases as the cause of symptoms and, if indicated, cystoscopy with hydrodistension and biopsy (Table 4) [13]. A targeted drug history should be obtained, with ketamine uropathy considered in young patients presenting with otherwise unexplained LUTS and suprapubic or bladder pain. The nature of pain in PBPS is key to disease definition and typically includes: pressure, pain, or discomfort perceived to be related to the bladder, intensifying with increasing bladder content located suprapubically, sometimes radiating to the groins, vagina, rectum or sacrum relieved by voiding but soon returns [241, 242] aggravated by food or drink [242]. Primary bladder pain syndrome type 3 can lead to a small capacity fibrotic bladder with or without upper urinary tract outflow obstruction. 4.1.1.c. Gynaecological aspects A detailed medical history outli",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-2-physical-evaluation",
+      "title": "4.1.2. Physical evaluation",
+      "level": 4,
+      "text": "The clinical examination often serves to confirm or refute the initial impressions gained from a good history. The examination should be aimed at specific questions where the outcome of the examination may change management. Prior to an examination, best practice requires the medical practitioner to explain what will happen and what the aims of the examination are to the patient. Consent to the examination should occur during that discussion and should cover an explanation around the aim to maintain modesty as appropriate and, if necessary, why there is a need for rectal and/or vaginal examination. Finally, the risk of exacerbating the pain should form a part of that request. A record of the discussion should be noted. The possibility of the presence of a chaperone should be discussed with the patient. As well as a local examination, a general musculoskeletal and neurological examination should be considered and undertaken as an integral part of the assessment. Following the examination, it is good practice to ask the patient if they had any concerns relating to the conduct of the examination and that discussion should be noted. There is no specific diagnostic test for CPPPS, therefore, procedures are directed towards identification and exclusion of specific diseases associated with pelvic pain and may be used for phenotypic description. Abdominal and pelvic examination to exclude gross pelvic pathology and demonstrate the site of tenderness is essential. It is important to look for abnormalities in muscle function. Examination of the external genitalia is a part of the evaluation. In patients with scrotal pain, gentle palpation of each component of the scrotum is performed to search for masses and painful spots. The penis and urethra may be palpated in a similar way. Many authors recommend assessment of the cutaneous allodynia along the dermatomes of the abdomen (T11-L1) and the perineum (S3); the degree of tenderness should be recorded. The bulbocavernosus reflex in males may also provide useful information concerning the intactness of the pudendal nerves. Clinical pelvic examination should be a single digit examination, if possible. The usual bimanual examination can generate severe pain, and the examiner must proceed with caution. A rectal examination is performed to assess prostate abnormalities in male patients, including pain on palpation, and to examine the rectum and the pelvic floor muscles with respect to muscle tenderness, trigger points, and the ability to contract and relax these muscles. At clinical examination, perianal dermatitis may be found as a sign of faecal incontinence or diarrhoea. Fissures may be easily overlooked and should be searched for thoroughly in patients with anal pain. A rectal digital examination may show high or low anal sphincter resting pressure, a tender puborectalis muscle in patients with levator ani syndrome, and occasionally, increased perineal descent. The tenderness during posterior traction on the puborectalis muscle differentiates between levator ani syndrome and unspecified functional anorectal pain and is used in most studies as the main inclusion criterion. Dyssynergic (paradoxical) contraction of the pelvic muscles when instructed to strain during defecation is a frequent finding in patients with pelvic pain. Attention should be paid to anal or rectal prolapse at straining, and ideally during combined rectal and vaginal examination to diagnose pelvic organ prolapse. A full clinical examination of the musculo-skeletal, nervous and urogenital systems is necessary to aid in diagnosis of pudendal neuralgia, especially to detect signs indicating another pathology. Often, there is little to find in pudendal neuralgia and findings are frequently non-specific. The main pathognomonic features are the signs of nerve injury in the appropriate neurological distribution, for example, allodynia or numbness. Tenderness in response to pressure over the pudendal nerve may aid clinical diagnosis [244]. This may be elicited by per rectal or per vaginal examination and palpation in the region of the ischial spine and/or Alcock’s canal. Muscle tenderness and the presence of trigger points in the muscles may complicate the clinical picture. Trigger points may be present in a range of muscles, both within the pelvis (levator ani and obturator internus muscles) or externally (e.g. the piriformis, adductors, rectus abdominis or paraspinal muscles).",
+      "tables": []
+    },
+    {
+      "anchor": "#4-2-supplemental-evaluation",
+      "title": "4.2. Supplemental evaluation",
+      "level": 3,
+      "text": "If history is suggestive of LUT, gynaecological, anorectal or other disease of known aetiology, the diagnostic work-up should follow the respective Guidelines.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-2-1-assessing-pelvic-pain-and-related-symptoms",
+      "title": "4.2.1. Assessing pelvic pain and related symptoms",
+      "level": 4,
+      "text": "Determination of the severity of pain and associated symptoms, its progression and treatment response can be assessed only by means of a reliable and validated symptom-scoring instrument. These subjective outcome measures are recommended for the basic evaluation and therapeutic monitoring of patients. Pain should always be assessed at presentation and to identify progression and treatment response (see below). In addition to assessment in the clinic, the patient can maintain a daily record (pain diary). This may need to include other relevant variables such as voiding, sexual activity, activity levels or analgesic use. Increased attention to patient-reported outcomes gives prominence to patients’ views on their disease. Pain diaries, in patients’ own environments, improve data quality. Quality of life should also be measured because it can be very poor compared to other chronic diseases [245, 246]. In a study, more pain, pain-contingent rest, and urinary symptoms were associated with greater disability (also measured by self-report), and pain was predicted by depression and by catastrophising (helplessness subscale) [53]. Where the primary outcome of treatment is pain relief, it is valuable to agree upon a clinically useful level of relief before starting treatment [247]. The most reliable methods are: a five-point verbal scale: none, mild, moderate, severe, very severe pain a VAS score from one to ten an eleven-point numerical scale (as below). An 11 point numerical scale Pain assessment ratings are not independent of cognitive and emotional variables [52]. Target outcomes of pain severity, distress and disability co-vary only partly, and improvement in one does not necessarily imply improvement in the others. When the primary outcome is pain, its meaning should be anchored in discussion of clinically important difference [247]. Primary prostate pain syndrome Reliable, valid indices of symptoms and QoL are the NIH-CPSI [248] and the International Prostate Symptom Score (I-PSS) [249]. Primary bladder pain syndrome Symptom scores may help to assess the patient and act as outcome measures. The O’Leary-Sant Symptom Index, also known as the Interstitial Cystitis Symptom Index (ICSI), was validated in a large study [250]. Gastrointestinal questionnaire Functional anorectal pain disorders (anorectal pelvic pain) are defined and characterised by duration, frequency and quality of pain. More complex questionnaires are used in the setting of IBS. The validated IBS Symptom Severity Scale (IBS-SSS) includes the broadest measurement of pain-related aspects [251, 252]. However, as different instruments measure different endpoints of chronic abdominal pain in IBS, a comparison of published studies is often impossible. Sexual function assessment In males, the most frequent effect on sexual function are ED and premature ejaculation. These can be evaluated by proper questionnaires, namely IIEF and Premature Ejaculation Diagnostic Tool (PEDT). In comparison with controls, females with chronic pelvic pain reported significantly more sexual avoidance behaviour, non-sensuality and complaints of “vaginismus” [206]. The FSFI has been developed as a brief, multidimensional self-report instrument for assessing the key dimensions of sexual function in females, which includes desire, subjective arousal, lubrication, orgasm, satisfaction and pain [253]. The corresponding evidence in males is lacking.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-2-2-focused-myofascial-evaluation",
+      "title": "4.2.2. Focused myofascial evaluation",
+      "level": 4,
+      "text": "Pelvic floor muscle testing can be done by a clinician, but a consultation of the pelvic floor by a physiotherapist is a good alternative. Both should have appropriate training in pelvic assessment. A vaginal or rectal examination is performed to assess the function of the pelvic floor muscles, according to the International Continence Society (ICS) report. This assessment has been tested and shows satisfactory validity and intra-observer reliability. It can therefore be considered suitable for use in clinical practice [254]. Rectal examination is a good way to test the pelvic floor function in males [255]. There is a growing number of reports on the use of ultrasound (US) in establishing the function of the pelvic floor muscles. The exact place in the diagnostic setting needs to be addressed in the future [256]. In a cohort study of 72 males with chronic pelvic pain, the relationship between the locations of the trigger point and the referred pain was examined. Ninety percent of the patients showed tenderness in the puborectalis muscle and 55% in the abdominal wall muscles. Of the patients in whom trigger points were found in the puborectalis, 93% reported pain in the penis and 57% in the suprapubic region. Patients with trigger points in the abdominal muscles reported pain in the penis (74%), perineum (65%), and rectum (46%) [257]. In addition, a broad musculoskeletal (tender point) evaluation, including muscles outside the pelvis, helps to diagnose the myofascial pain aspects of the pelvic pain in phenotyping pelvic pain patients [258,259].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-2-3-neurological",
+      "title": "4.2.3. Neurological",
+      "level": 4,
+      "text": "Injections An injection of local anaesthetic and steroid at the site of nerve injury may be diagnostic. Differential block of the pudendal nerve helps to provide information in relation to the site where the nerve may be trapped [260,261]. Infiltration at the ischial spine requires the use of a nerve stimulator/locator. Both motor (anal contraction) and sensory endpoints may be noted. The anatomical target may be localised by fluoroscopy, computed tomography (CT) guidance, or the use of US. An US avoids any form of radiation, whereas CT guidance involves a significant amount of radiation. As well as injecting around the pudendal nerve, specific blocks of other nerves arising from the pelvis may be performed. Electrophysiological studies These may reveal signs of perineal denervation, increased pudendal nerve latency, or impaired bulbocavernosus reflex [262, 263]. However, for an abnormality to be detected, significant nerve damage is probably necessary. Pain may be associated with limited nerve damage; therefore, these investigations are often normal.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-2-4-imaging",
+      "title": "4.2.4. Imaging",
+      "level": 4,
+      "text": "Ancillary studies should be performed according to appropriate guidelines for exclusion of diseases with known aetiology presenting with symptoms identical to those of chronic pelvic pain syndrome. Once the latter diagnosis is established, studies can be useful to assess functional abnormalities and phenotype conditions such as PBPS and primary chronic anal pain syndrome. Ultrasound Ultrasound has limited value but may reassure patients. However, over-investigating may be detrimental. Magnetic resonance imaging Magnetic resonance (MR) neurography has been increasingly used in specialised centres for the diagnosis of the location (proximal vs. peripheral) and degree (total vs. partial) of nerve injury in the peripheral nervous system, earlier and with higher specificity than conduction studies. This may show benefits for CPPPS in the coming years. Magnetic resonance defecating proctogram Magnetic resonance imaging in conjunction with MR defecography has become the most valuable imaging technique to assess anorectal function dynamically. Magnetic resonance imaging studies simultaneously outline the anatomy of the pelvic floor and visualise different structural and functional pathologies by applying dynamic sequences after filling of the rectum with a viscous contrast medium (e.g. US gel). The following pathologies can be visualised: pelvic floor descent, an abnormal anorectal angle while squeezing and straining, rectal intussusception, rectocele, enterocele and cystocele. However, limitations of MR defecography are the left lateral or supine position and the limited space for the patient, which may reduce the ability to strain and thereby reduce the sensitivity of the method, underestimating the size of entero- and rectoceles as well as the amount of intussusception. Functional neuroimaging Functional magnetic resonance imaging (fMRI) is currently being re-evaluated as a research tool and some groups have raised issues around over interpretation [264]. With regards to pain, fMRI findings may represent a pain matrix or may represent non-specific threat processing [265]. Currently, this Panel cannot recommend fMRI as a clinical tool [266].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-2-5-laboratory-tests",
+      "title": "4.2.5. Laboratory tests",
+      "level": 4,
+      "text": "Microbiology tests Primary prostate pain syndrome Laboratory diagnosis of prostatitis has been classically based on the four-glass test for bacterial localisation [267]. Besides sterile pre-massage urine (voided bladder urine-2), PPPS shows < 103cfu/mL of uropathogenic bacteria in expressed prostatic secretions and insignificant numbers of leukocytes or bacterial growth in ejaculates. However, this test is too complex for use by practising urologists. Diagnostic efficiency may be cost-effectively enhanced by a simple screening procedure, that is, the two-glass test or pre-post-massage test (PPMT) [268,269]. Overall, these tests help only a little in the diagnosis of PPPS, because 8% of patients with suggested PPPS have been found to have positive prostatic localisation cultures, similar to the percentage of asymptomatic males [270]. Primary bladder pain syndrome Urine dipstick and urine culture (including culture for tuberculosis if sterile pyuria) are recommended in all patients suspected of having PBPS. Urine cytology is also recommended in risk groups. Gynaecological aspects of chronic pelvic pain Vaginal and endocervical swabs to exclude infection are recommended. In specific cases, imaging may be required to help rule out a defined pathology, such as sacral neuropathy in endometriosis [271].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-2-6-invasive-tests",
+      "title": "4.2.6. Invasive tests",
+      "level": 4,
+      "text": "Anorectal pain Anorectal manometry with sensory testing (pressure volume measurement: barostat) may be useful to diagnose dyssynergic defecation and hypersensitivity of the rectum that are typical for patients with CPPPS and IBS. Anorectal manometry and the ballon expulsion test (BET) may also help to predict the response to biofeedback therapy in levator ani syndrome [115]. In patients with anorectal pain, flexible rectosigmoidoscopy or colonoscopy should be considered to rule out coincidental colorectal pathology. Laparoscopy for females Laparoscopy is perhaps the most useful invasive investigation to exclude gynaecological pathology [272,273] and to assist in the differential diagnosis of CPPPS in females [274, 275]. Often, it is combined with cystoscopy [276,277] and/or proctoscopy to help identify the site of multi-compartment pain. Psychological considerations around laparoscopy Three very different studies of laparoscopy suggest that it can improve pain through resolving concerns about serious disease [278]. Integrating somatic and psychological assessment from the start rather than dealing with psychological concerns only after excluding organic causes of pelvic pain is helpful [279]. Cystoscopy and bladder biopsy Despite controversy on the diagnostic and follow-up value of cystoscopy in PBPS [280-284], the Panel are of the view that objective findings are important for diagnosis, prognosis and ruling out other treatable conditions (a standardised scheme of diagnostic criteria will also contribute to uniformity and comparability of different studies) [285]. Endoscopically, PBPS type 3 displays reddened mucosal areas often associated with small vessels radiating towards a central scar, sometimes covered by a small clot or fibrin deposit - the Hunner's lesion [241]. The scar ruptures with increasing bladder distension, producing a characteristic waterfall type of bleeding. There is a strong association between PBPS type 3 and reduced bladder capacity under anaesthesia [286]. Non-lesion disease displays a normal bladder mucosa at initial cystoscopy. The development of glomerulations after hydrodistension is considered to be a positive diagnostic sign although it can be observed without PBPS [287]. Biopsies are helpful in establishing or supporting the clinical diagnosis of both classic and non-lesion types of the disease [127,158,285,288,289]. Important differential diagnoses to exclude, by histological examination, are carcinoma in situ and tuberculous cystitis [290]. Table 4: ESSIC classification of PBPS types according to results of cystoscopy with hydrodistension and biopsies [13]   Cystoscopy with hydrodistension   Not done Normal Glomerulations a Hunner lesion b Biopsy         Not done XX 1X 2X 3X Normal XA 1A 2A 3A Inconclusive XB 1B 2B 3B Positive c XC 1C 2C 3C a Cystoscopy: glomerulations grade 2-3. b Lesion per Fall’s definition with/without glomerulations. c Histology showing inflammatory infiltrates and/or detrusor mastocytosis and/or granulation tissue and/or intrafascicular fibrosis. ESSIC = International Society for the Study of Bladder Pain Syndrome; PBPS = primary bladder pain syndrome.",
+      "tables": [
+        {
+          "rows": [
+            [
+              " ",
+              "Cystoscopy with hydrodistension"
+            ],
+            [
+              " ",
+              "Not done",
+              "Normal",
+              "Glomerulationsa",
+              "Hunner lesionb"
+            ],
+            [
+              "Biopsy",
+              " ",
+              " ",
+              " ",
+              " "
+            ],
+            [
+              "Not done",
+              "XX",
+              "1X",
+              "2X",
+              "3X"
+            ],
+            [
+              "Normal",
+              "XA",
+              "1A",
+              "2A",
+              "3A"
+            ],
+            [
+              "Inconclusive",
+              "XB",
+              "1B",
+              "2B",
+              "3B"
+            ],
+            [
+              "Positivec",
+              "XC",
+              "1C",
+              "2C",
+              "3C"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-3-diagnostic-algorithm",
+      "title": "4.3. Diagnostic algorithm",
+      "level": 3,
+      "text": "Figure 1: Diagnosing chronic pelvic pain Figure 2: Phenotyping of pelvic pain - UPOINT classification",
+      "tables": []
+    },
+    {
+      "anchor": "#4-4-other-painful-conditions-without-a-urological-cause",
+      "title": "4.4. Other painful conditions without a urological cause",
+      "level": 3,
+      "text": "Dysmenorrhoea Menstrual pain or ‘dysmenorrhoea’ may be primary or secondary. Primary dysmenorrhoea classically begins at the onset of ovulatory menstrual cycles and tends to decrease following childbirth [274]. Secondary dysmenorrhoea suggests the development of a pathological process, such as endometriosis [273], adenomyosis or pelvic infection, which need to be excluded. Infection In premenopausal females, a history of pelvic inflammatory disease (PID) must be excluded. A patient’s sexual history should be taken along with swabs to exclude chlamydia and gonorrhoea infection. Bacterial and viral genital tract pathogens should also be excluded [291] as this can cause severe pelvic/vaginal/vulvar pain [292] and are associated with ulcerating lesions and inflammation, which may lead to urinary retention [293]. If there is any doubt about the diagnosis, laparoscopy may be helpful, as one of the differential diagnoses is endometriosis. Endometriosis and adenomyosis The incidence of endometriosis is rising in the developed world. It has widespread impact on female lives [294], with pain more important than physical findings in determining QoL [295]. The precise aetiology is unknown, but an association with infertility is recognised [296]. A diagnosis is usually made when a history of secondary dysmenorrhoea and/or dyspareunia exists [297]. On examination, there is often tenderness in the lateral vaginal fornices, reduced uterine mobility, tenderness in the rectovaginal septum and, on occasion, adnexal masses. Laparoscopy is the most useful diagnostic tool [298]. Adenomyosis is associated with augmented pain during menses [299]. It is diagnosed by an US of the uterus, which often shows cystic dilatation of the myometrium [300]. Gynaecological malignancy The spread of gynaecological malignancy of the cervix, uterine body or ovary will cause pelvic pain depending on the site of spread. Injuries related to childbirth Trauma occurring at the time of childbirth may lead to chronic pelvic pain related to the site of injury [301]. Female sexual dysfunction is perhaps the most common presenting problem [302], though increasingly females are reporting other symptoms such as pelvic girdle pain and other genito-pelvic pain of different aetiology [303]. There is often a transient problem with oestrogen deficiency in the post-partum period and during breastfeeding, which can compound this condition. Denervation of the pelvic floor can similarly compound the condition [304]. Pain associated with pelvic organ prolapse and prolapse surgery Pelvic-organ prolapse is often asymptomatic, unless it is so marked that it causes back pain, vaginal pain and skin excoriation [305]. Prolapse is often a disease of older females and it is often associated with postmenopausal oestrogen deficiency that may lead to pain associated with intercourse. Prolapse surgery has entailed the use of non-absorbable mesh (usually in the form of “mesh kits”). Although these may have a role in supporting the vagina, it is also associated with several complications including bladder, bowel and vaginal trauma [306], chronic pain [307], and neuropathy [308]. Patients need to be fully evaluated and may need specialised imaging, using contrast mediums if necessary, to make a diagnosis of the possible cause of the pain [309-312]. Haemorrhoids Chronic pelvic pain is rare in haemorrhoidal disease because endoscopic and surgical treatment is mostly effective in acute disease. The most frequent aetiology of pain without significant bleeding is thrombosed external haemorrhoids or an anal fissure. Haemorrhoidal pain on defecation associated with bleeding is usually due to prolapse or ulceration of internal haemorrhoids. Anaemia from haemorrhoidal bleeding is rare but may arise in patients on anti-coagulation therapy, or those with clotting disorders. Anal fissure Anal fissures are tears in the distal anal canal and induce pain during and after defecation. The pain can last for several minutes to hours. Persistence of symptoms beyond six weeks or visible transversal anal sphincter fibres define chronicity. Fissures located off the midline are often associated with specific diseases such as Crohn’s disease or anal cancer. Internal anal sphincter spasms and ischaemia are associated with chronic fissures. Proctitis Abdominal and pelvic pain in patients with inflammatory bowel disease and proctitis are often difficult to interpret. Faecal calprotectin may help to differentiate between inflammation and functional pain, to spare steroids. Irritable bowel syndrome Although IBS can be associated with pelvic pain, the Panel consider a full discussion of this topic beyond the scope of these Guidelines. Several high-quality clinical guidelines address this topic [243, 313].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-5-summary-of-evidence-and-recommendations-for-diagnostic-evaluation",
+      "title": "4.5. Summary of evidence and recommendations for diagnostic evaluation",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-5-1-diagnostic-evaluation---general",
+      "title": "4.5.1. Diagnostic evaluation - general",
+      "level": 4,
+      "text": "Summary of evidence LE Clinical history and examination are mandatory when making a diagnosis. 2a Recommendation Strength rating Take a full history and evaluate to rule out a treatable cause in all patients with chronic pelvic pain. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Clinical history and examination are mandatory when making a diagnosis.",
+              "2a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Take a full history and evaluate to rule out a treatable cause in all patients with chronic pelvic pain.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-5-2-diagnostic-evaluation-of-primary-prostate-pain-syndrome",
+      "title": "4.5.2. Diagnostic evaluation of primary prostate pain syndrome",
+      "level": 4,
+      "text": "Summary of evidence LE Primary prostate pain syndrome is associated with negative cognitive, behavioural, sexual, or emotional consequences, as well as with symptoms suggestive of LUT and sexual dysfunction. 2b Primary prostate pain syndrome has no known single aetiology. 3 Pain in PPPS involves mechanisms of neuroplasticity and neuropathic pain. 2a Primary prostate pain syndrome has a high impact on QoL. 2b Depression and catastrophic thinking are associated with more pain and poorer adjustment. 3 The prevalence of PPPS-like symptoms is high in population-based studies (> 2%). 2b Reliable instruments assessing symptom severity as well as phenotypic differences exist. 2b Recommendations Strength rating Adapt diagnostic procedures to the patient. Exclude specific diseases with similar symptoms. Strong Use a validated symptom and Quality of Life scoring instrument, such as the National Institutes of Health Chronic Prostatitis Symptom Index, for initial assessment and follow-up. Strong Assess primary prostate pain syndrome-associated negative cognitive, behavioural, sexual or emotional consequences, as well as symptoms of lower urinary tract and sexual dysfunctions. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Primary prostate pain syndrome is associated with negative cognitive, behavioural, sexual, or emotional consequences, as well as with symptoms suggestive of LUT and sexual dysfunction.",
+              "2b"
+            ],
+            [
+              "Primary prostate pain syndrome has no known single aetiology.",
+              "3"
+            ],
+            [
+              "Pain in PPPS involves mechanisms of neuroplasticity and neuropathic pain.",
+              "2a"
+            ],
+            [
+              "Primary prostate pain syndrome has a high impact on QoL.",
+              "2b"
+            ],
+            [
+              "Depression and catastrophic thinking are associated with more pain and poorer adjustment.",
+              "3"
+            ],
+            [
+              "The prevalence of PPPS-like symptoms is high in population-based studies (> 2%).",
+              "2b"
+            ],
+            [
+              "Reliable instruments assessing symptom severity as well as phenotypic differences exist.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Adapt diagnostic procedures to the patient. Exclude specific diseases with similar symptoms.",
+              "Strong"
+            ],
+            [
+              "Use a validated symptom and Quality of Life scoring instrument, such as the National Institutes of Health Chronic Prostatitis Symptom Index, for initial assessment and follow-up.",
+              "Strong"
+            ],
+            [
+              "Assess primary prostate pain syndrome-associated negative cognitive, behavioural, sexual or emotional consequences, as well as symptoms of lower urinary tract and sexual dysfunctions.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-5-3-diagnostic-evaluation-of-primary-bladder-pain-syndrome",
+      "title": "4.5.3. Diagnostic evaluation of primary bladder pain syndrome",
+      "level": 4,
+      "text": "Summary of evidence LE Primary bladder pain syndrome has no known single aetiology. 3 Pain in PBPS does not correlate with bladder cystoscopy or histologic findings. 2a Primary bladder pain syndrome type 3C can only be confirmed by cystoscopy and histology. 2a Lesion/non-lesion disease ratios of PBPS are highly variable between studies. 2a The prevalence of PBPS-like symptoms is high in population-based studies. 2a Primary bladder pain syndrome occurs at a level higher than chance with other pain syndromes. 2a Primary bladder pain syndrome has an adverse impact on QoL. 2a Reliable instruments assessing symptom severity as well as phenotypical differences exist. 2a Recommendations Strength rating Perform general anaesthetic rigid cystoscopy in patients with bladder pain to subtype and rule out confusable disease. Strong Diagnose patients with symptoms according to the European Association of Urology definition, after primary exclusion of specific diseases, with primary bladder pain syndrome (PBPS) by subtype and phenotype. Strong Assess PBPS-associated non-bladder diseases systematically. Strong Assess PBPS-associated negative cognitive, behavioural, sexual or emotional consequences. Strong Use a validated symptom and Quality of Life scoring instrument for initial assessment and follow-up. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Primary bladder pain syndrome has no known single aetiology.",
+              "3"
+            ],
+            [
+              "Pain in PBPS does not correlate with bladder cystoscopy or histologic findings.",
+              "2a"
+            ],
+            [
+              "Primary bladder pain syndrome type 3C can only be confirmed by cystoscopy and histology.",
+              "2a"
+            ],
+            [
+              "Lesion/non-lesion disease ratios of PBPS are highly variable between studies.",
+              "2a"
+            ],
+            [
+              "The prevalence of PBPS-like symptoms is high in population-based studies.",
+              "2a"
+            ],
+            [
+              "Primary bladder pain syndrome occurs at a level higher than chance with other pain syndromes.",
+              "2a"
+            ],
+            [
+              "Primary bladder pain syndrome has an adverse impact on QoL.",
+              "2a"
+            ],
+            [
+              "Reliable instruments assessing symptom severity as well as phenotypical differences exist.",
+              "2a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform general anaesthetic rigid cystoscopy in patients with bladder pain to subtype and rule out confusable disease.",
+              "Strong"
+            ],
+            [
+              "Diagnose patients with symptoms according to the European Association of Urology definition, after primary exclusion of specific diseases, with primary bladder pain syndrome (PBPS) by subtype and phenotype.",
+              "Strong"
+            ],
+            [
+              "Assess PBPS-associated non-bladder diseases systematically.",
+              "Strong"
+            ],
+            [
+              "Assess PBPS-associated negative cognitive, behavioural, sexual or emotional consequences.",
+              "Strong"
+            ],
+            [
+              "Use a validated symptom and Quality of Life scoring instrument for initial assessment and follow-up.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-5-4-diagnostic-evaluation-of-scrotal-pain-syndrome",
+      "title": "4.5.4. Diagnostic evaluation of scrotal pain syndrome",
+      "level": 4,
+      "text": "Summary of evidence LE The nerves in the spermatic cord play an important role in scrotal pain. 2b Ultrasound of the scrotal contents does not aid in diagnosis or treatment of scrotal pain. 2b Post-vasectomy pain is seen in a substantial number of males undergoing vasectomy. 2b Scrotal pain is more often noticed after laparoscopic than after open inguinal hernia repair. 1b",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "The nerves in the spermatic cord play an important role in scrotal pain.",
+              "2b"
+            ],
+            [
+              "Ultrasound of the scrotal contents does not aid in diagnosis or treatment of scrotal pain.",
+              "2b"
+            ],
+            [
+              "Post-vasectomy pain is seen in a substantial number of males undergoing vasectomy.",
+              "2b"
+            ],
+            [
+              "Scrotal pain is more often noticed after laparoscopic than after open inguinal hernia repair.",
+              "1b"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-5-5-diagnostic-evaluation-of-urethral-pain-syndrome",
+      "title": "4.5.5. Diagnostic evaluation of urethral pain syndrome",
+      "level": 4,
+      "text": "Summary of evidence LE Primary urethral pain syndrome may be a part of PBPS. 2a Urethral pain involves mechanisms of neuroplasticity and neuropathic pain. 2b",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Primary urethral pain syndrome may be a part of PBPS.",
+              "2a"
+            ],
+            [
+              "Urethral pain involves mechanisms of neuroplasticity and neuropathic pain.",
+              "2b"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-5-6-diagnostic-evaluation-of-gynaecological-aspects-chronic-pelvic-pain",
+      "title": "4.5.6. Diagnostic evaluation of gynaecological aspects chronic pelvic pain",
+      "level": 4,
+      "text": "Summary of evidence LE Laparoscopy is well-tolerated and does not appear to have negative psychological effects. 1b Recommendations Strength rating Take a full uro-gynaecological history in those who have had a continence or prolapse non-absorbable mesh inserted and consider specialised imaging of the mesh. Strong Refer to a gynaecologist following complete urological evaluation if there is a clinical suspicion of a gynaecological cause for pain. Laparoscopy should be undertaken in accordance with gynaecological guidelines. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Laparoscopy is well-tolerated and does not appear to have negative psychological effects.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Take a full uro-gynaecological history in those who have had a continence or prolapse non-absorbable mesh inserted and consider specialised imaging of the mesh.",
+              "Strong"
+            ],
+            [
+              "Refer to a gynaecologist following complete urological evaluation if there is a clinical suspicion of a gynaecological cause for pain. Laparoscopy should be undertaken in accordance with gynaecological guidelines.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-5-7-diagnostic-evaluation-of-anorectal-pain-syndrome",
+      "title": "4.5.7. Diagnostic evaluation of anorectal pain syndrome",
+      "level": 4,
+      "text": "Summary of evidence LE Tenderness on traction is the main criterion of the chronic anal pain syndrome. 1a Recommendation Strength rating Anorectal function tests are recommended in patients with anorectal pain. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Tenderness on traction is the main criterion of the chronic anal pain syndrome.",
+              "1a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Anorectal function tests are recommended in patients with anorectal pain.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-5-8-diagnostic-evaluation-of-nerves-to-the-pelvis",
+      "title": "4.5.8. Diagnostic evaluation of nerves to the pelvis",
+      "level": 4,
+      "text": "Summary of evidence LE Multiple sensory and functional disorders within the region of the pelvis/urogenital system may occur because of injury to one or more of many nerves. The anatomy is complex. 2 There is no single aetiology for the nerve damage, and the symptoms and signs may be few or multiple. 1 Investigations are often normal. 2 The peripheral nerve pain syndromes are frequently associated with negative cognitive, behavioural, sexual or emotional consequences. 1 Recommendations Strength rating Rule out confusable diseases, such as neoplastic disease, infection, trauma and spinal pathology. Strong If a peripheral nerve pain syndrome is suspected, refer early to an expert in the field, working within a multidisciplinary team environment. Weak Imaging and neurophysiology help diagnosis, but image- and nerve-locator-guided local anaesthetic injection is preferable. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Multiple sensory and functional disorders within the region of the pelvis/urogenital system may occur because of injury to one or more of many nerves. The anatomy is complex.",
+              "2"
+            ],
+            [
+              "There is no single aetiology for the nerve damage, and the symptoms and signs may be few or multiple.",
+              "1"
+            ],
+            [
+              "Investigations are often normal.",
+              "2"
+            ],
+            [
+              "The peripheral nerve pain syndromes are frequently associated with negative cognitive, behavioural, sexual or emotional consequences.",
+              "1"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Rule out confusable diseases, such as neoplastic disease, infection, trauma and spinal pathology.",
+              "Strong"
+            ],
+            [
+              "If a peripheral nerve pain syndrome is suspected, refer early to an expert in the field, working within a multidisciplinary team environment.",
+              "Weak"
+            ],
+            [
+              "Imaging and neurophysiology help diagnosis, but image- and nerve-locator-guided local anaesthetic injection is preferable.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-5-9-diagnostic-evaluation-of-sexological-aspects-in-chronic-pelvic-pain",
+      "title": "4.5.9. Diagnostic evaluation of sexological aspects in chronic pelvic pain",
+      "level": 4,
+      "text": "Summary of evidence LE Chronic pain can lead to decline in sexual activity and satisfaction and may reduce relationship satisfaction. 2a Males who reported having sexual, physical or emotional abuse show a higher rate of reporting symptoms of CPPPS. 2b Sexual dysfunctions are prevalent in males with PPPS. 2b In males with PPPS, the most prevalent sexual complaints are ED and ejaculatory dysfunction. 3 In females with CPPPS, all sexual function domains are lower. The most reported dysfunctions are sexual avoidance, dyspareunia and “vaginismus”. 2a Vulvar pain syndrome is associated with PBPS. 2a Females with PBPS suffer significantly more from fear of pain, dyspareunia and decreased desire. 2a Pelvic floor muscle function is involved in the excitement and orgasm phases of sexual response. 3 Chronic pain can cause disturbances in each of the sexual response cycle phases. 2b Recommendation Strength rating Screen patients presenting with symptoms suggestive of chronic primary pelvic pain syndrome for abuse, without suggesting a causal relation with the pain. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Chronic pain can lead to decline in sexual activity and satisfaction and may reduce relationship satisfaction.",
+              "2a"
+            ],
+            [
+              "Males who reported having sexual, physical or emotional abuse show a higher rate of reporting symptoms of CPPPS.",
+              "2b"
+            ],
+            [
+              "Sexual dysfunctions are prevalent in males with PPPS.",
+              "2b"
+            ],
+            [
+              "In males with PPPS, the most prevalent sexual complaints are ED and ejaculatory dysfunction.",
+              "3"
+            ],
+            [
+              "In females with CPPPS, all sexual function domains are lower. The most reported dysfunctions are sexual avoidance, dyspareunia and “vaginismus”.",
+              "2a"
+            ],
+            [
+              "Vulvar pain syndrome is associated with PBPS.",
+              "2a"
+            ],
+            [
+              "Females with PBPS suffer significantly more from fear of pain, dyspareunia and decreased desire.",
+              "2a"
+            ],
+            [
+              "Pelvic floor muscle function is involved in the excitement and orgasm phases of sexual response.",
+              "3"
+            ],
+            [
+              "Chronic pain can cause disturbances in each of the sexual response cycle phases.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Screen patients presenting with symptoms suggestive of chronic primary pelvic pain syndrome for abuse, without suggesting a causal relation with the pain.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-5-10-diagnostic-evaluation-of-psychological-aspects-of-chronic-pelvic-pain",
+      "title": "4.5.10. Diagnostic evaluation of psychological aspects of chronic pelvic pain",
+      "level": 4,
+      "text": "Summary of evidence LE There is no evidence that distress generates complaints of pelvic pain, or that multiple symptoms suggest unreality of pain. 2b Current or recent sexual abuse are possible contributory factors in pelvic pain. 2a Recommendations Strength rating Assess patient psychological factors related to the pain, for example, pain-related fear, anxiety and depressive symptoms. Strong Ask patients what they think is the cause of their pain and other symptoms to allow the opportunity to inform and reassure. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "There is no evidence that distress generates complaints of pelvic pain, or that multiple symptoms suggest unreality of pain.",
+              "2b"
+            ],
+            [
+              "Current or recent sexual abuse are possible contributory factors in pelvic pain.",
+              "2a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Assess patient psychological factors related to the pain, for example, pain-related fear, anxiety and depressive symptoms.",
+              "Strong"
+            ],
+            [
+              "Ask patients what they think is the cause of their pain and other symptoms to allow the opportunity to inform and reassure.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-5-11-diagnostic-evaluation-of-pelvic-floor-function",
+      "title": "4.5.11. Diagnostic evaluation of pelvic floor function",
+      "level": 4,
+      "text": "Summary of evidence LE The ICS classification is suitable for clinical practice. 2a Over-activity of the pelvic floor muscles is related to chronic pelvic pain, prostate, bladder and vulvar pain. 2a Over-activity of the pelvic floor muscles is an input to the CNS causing central sensitisation. 2b There is no accepted standard for diagnosing myofascial trigger points. 2a There is a relation between the location of trigger point and the region where the pain is perceived. 3 Recommendations Strength rating Use the International Continence Society classification on pelvic floor muscle function and dysfunction. Strong In patients with chronic primary pelvic pain syndrome, actively look for the presence of myofascial trigger points. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "The ICS classification is suitable for clinical practice.",
+              "2a"
+            ],
+            [
+              "Over-activity of the pelvic floor muscles is related to chronic pelvic pain, prostate, bladder and vulvar pain.",
+              "2a"
+            ],
+            [
+              "Over-activity of the pelvic floor muscles is an input to the CNS causing central sensitisation.",
+              "2b"
+            ],
+            [
+              "There is no accepted standard for diagnosing myofascial trigger points.",
+              "2a"
+            ],
+            [
+              "There is a relation between the location of trigger point and the region where the pain is perceived.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use the International Continence Society classification on pelvic floor muscle function and dysfunction.",
+              "Strong"
+            ],
+            [
+              "In patients with chronic primary pelvic pain syndrome, actively look for the presence of myofascial trigger points.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 21
+}

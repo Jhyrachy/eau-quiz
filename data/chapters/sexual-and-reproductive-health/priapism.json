@@ -1,0 +1,1584 @@
+{
+  "guideline": "sexual-and-reproductive-health",
+  "chapter": "priapism",
+  "url": "https://uroweb.org/guidelines/sexual-and-reproductive-health/chapter/priapism",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and Objectives",
+      "anchor": "#1-1-aims-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel Composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Summary of changes",
+      "anchor": "#1-5-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODOLOGY",
+      "anchor": "#2-methodology"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Methods",
+      "anchor": "#2-1-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. MALE HYPOGONADISM",
+      "anchor": "#3-male-hypogonadism"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definition, epidemiology and classification of male hypogonadism",
+      "anchor": "#3-1-definition-epidemiology-and-classification-of-male-hypogonadism"
+    },
+    {
+      "level": 4,
+      "text": "3.1.1. Definition",
+      "anchor": "#3-1-1-definition"
+    },
+    {
+      "level": 4,
+      "text": "3.1.2. Epidemiology",
+      "anchor": "#3-1-2-epidemiology"
+    },
+    {
+      "level": 4,
+      "text": "3.1.3. Classification",
+      "anchor": "#3-1-3-classification"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Comorbidities associated with male hypogonadism",
+      "anchor": "#3-2-comorbidities-associated-with-male-hypogonadism"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Obesity",
+      "anchor": "#3-2-1-obesity"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Late-onset hypogonadism",
+      "anchor": "#3-3-late-onset-hypogonadism"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Clinical diagnosis and evaluation",
+      "anchor": "#3-3-1-clinical-diagnosis-and-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. History taking",
+      "anchor": "#3-3-2-history-taking"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Physical examination",
+      "anchor": "#3-3-3-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Laboratory diagnostics",
+      "anchor": "#3-3-4-laboratory-diagnostics"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. Summary of evidence and recommendations for the diagnostic evaluation and screening oflate-onset hypogonadism",
+      "anchor": "#3-3-5-summary-of-evidence-and-recommendations-for-the-diagnostic-evaluation-and-screening-oflate-onset-hypogonadism"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Treatment of classical and late-onset hypogonadism",
+      "anchor": "#3-4-treatment-of-classical-and-late-onset-hypogonadism"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Indications and contraindications for treatment of hypogonadism",
+      "anchor": "#3-4-1-indications-and-contraindications-for-treatment-of-hypogonadism"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Testosterone therapy outcomes",
+      "anchor": "#3-4-2-testosterone-therapy-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Choice of treatment",
+      "anchor": "#3-4-3-choice-of-treatment"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Safety and follow-up in hypogonadism management",
+      "anchor": "#3-5-safety-and-follow-up-in-hypogonadism-management"
+    },
+    {
+      "level": 4,
+      "text": "3.5.1. Hypogonadism and fertility issues",
+      "anchor": "#3-5-1-hypogonadism-and-fertility-issues"
+    },
+    {
+      "level": 4,
+      "text": "3.5.2. Male breast cancer",
+      "anchor": "#3-5-2-male-breast-cancer"
+    },
+    {
+      "level": 4,
+      "text": "3.5.4. Prostate cancer (PCa)",
+      "anchor": "#3-5-4-prostate-cancer-pca"
+    },
+    {
+      "level": 4,
+      "text": "3.5.5. Cardiovascular disease",
+      "anchor": "#3-5-5-cardiovascular-disease"
+    },
+    {
+      "level": 4,
+      "text": "3.5.6. Erythrocytosis",
+      "anchor": "#3-5-6-erythrocytosis"
+    },
+    {
+      "level": 4,
+      "text": "3.5.7. Obstructive sleep apnoea",
+      "anchor": "#3-5-7-obstructive-sleep-apnoea"
+    },
+    {
+      "level": 4,
+      "text": "3.5.8. Follow-up",
+      "anchor": "#3-5-8-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "3.5.9. Summary of evidence and recommendations on safety and monitoring in testosterone therapy",
+      "anchor": "#3-5-9-summary-of-evidence-and-recommendations-on-safety-and-monitoring-in-testosterone-therapy"
+    },
+    {
+      "level": 2,
+      "text": "4. EPIDEMIOLOGY AND PREVALENCE OF SEXUAL DYSFUNCTION AND DISORDERS OF MALE REPRODUCTIVE HEALTH",
+      "anchor": "#4-epidemiology-and-prevalence-of-sexual-dysfunction-and-disorders-of-male-reproductive-health"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Erectile dysfunction",
+      "anchor": "#4-1-erectile-dysfunction"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Premature ejaculation",
+      "anchor": "#4-2-premature-ejaculation"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Other ejaculatory disorders",
+      "anchor": "#4-3-other-ejaculatory-disorders"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. Delayed ejaculation",
+      "anchor": "#4-3-1-delayed-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "4.3.2. Anejaculation and anorgasmia",
+      "anchor": "#4-3-2-anejaculation-and-anorgasmia"
+    },
+    {
+      "level": 4,
+      "text": "4.3.3. Retrograde ejaculation",
+      "anchor": "#4-3-3-retrograde-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "4.3.4. Painful ejaculation",
+      "anchor": "#4-3-4-painful-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "4.3.5. Haemospermia",
+      "anchor": "#4-3-5-haemospermia"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Low sexual desire",
+      "anchor": "#4-4-low-sexual-desire"
+    },
+    {
+      "level": 2,
+      "text": "5. MANAGEMENT OF ERECTILE DYSFUNCTION",
+      "anchor": "#5-management-of-erectile-dysfunction"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Definition and classification",
+      "anchor": "#5-1-definition-and-classification"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Risk factors",
+      "anchor": "#5-2-risk-factors"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Pathophysiology",
+      "anchor": "#5-3-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Pelvic surgery and prostate cancer treatment",
+      "anchor": "#5-3-1-pelvic-surgery-and-prostate-cancer-treatment"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Summary of evidence on the epidemiology, aetiology and pathophysiology of erectile disfunction",
+      "anchor": "#5-3-2-summary-of-evidence-on-the-epidemiology-aetiology-and-pathophysiology-of-erectile-disfunction"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Diagnostic evaluation (basic work-up)",
+      "anchor": "#5-4-diagnostic-evaluation-basic-work-up"
+    },
+    {
+      "level": 4,
+      "text": "5.4.1. Medical and sexual history",
+      "anchor": "#5-4-1-medical-and-sexual-history"
+    },
+    {
+      "level": 4,
+      "text": "5.4.2. Physical examination",
+      "anchor": "#5-4-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.4.3. Laboratory testing",
+      "anchor": "#5-4-3-laboratory-testing"
+    },
+    {
+      "level": 4,
+      "text": "5.4.4. Cardiovascular system and sexual activity: the patient at risk",
+      "anchor": "#5-4-4-cardiovascular-system-and-sexual-activity-the-patient-at-risk"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Diagnostic Evaluation (advanced work-up)",
+      "anchor": "#5-5-diagnostic-evaluation-advanced-work-up"
+    },
+    {
+      "level": 4,
+      "text": "5.5.1. Nocturnal penile tumescence and rigidity test",
+      "anchor": "#5-5-1-nocturnal-penile-tumescence-and-rigidity-test"
+    },
+    {
+      "level": 4,
+      "text": "5.5.2. Intracavernous injection test",
+      "anchor": "#5-5-2-intracavernous-injection-test"
+    },
+    {
+      "level": 4,
+      "text": "5.5.3. Dynamic duplex ultrasound of the penis",
+      "anchor": "#5-5-3-dynamic-duplex-ultrasound-of-the-penis"
+    },
+    {
+      "level": 4,
+      "text": "5.5.4. Arteriography and dynamic infusion cavernosometry or cavernosography",
+      "anchor": "#5-5-4-arteriography-and-dynamic-infusion-cavernosometry-or-cavernosography"
+    },
+    {
+      "level": 4,
+      "text": "5.5.5. Psychopathological and psychosocial assessment",
+      "anchor": "#5-5-5-psychopathological-and-psychosocial-assessment"
+    },
+    {
+      "level": 4,
+      "text": "5.5.6. Summary of evidence and recommendations for diagnostic evaluation of erectile dysfunction",
+      "anchor": "#5-5-6-summary-of-evidence-and-recommendations-for-diagnostic-evaluation-of-erectile-dysfunction"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Treatment of erectile dysfunction",
+      "anchor": "#5-6-treatment-of-erectile-dysfunction"
+    },
+    {
+      "level": 4,
+      "text": "5.6.1. Patient education",
+      "anchor": "#5-6-1-patient-education"
+    },
+    {
+      "level": 4,
+      "text": "5.6.2. Modifiable risk factors",
+      "anchor": "#5-6-2-modifiable-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "5.6.3. Phosphodiesterase type 5 inhibitors",
+      "anchor": "#5-6-3-phosphodiesterase-type-5-inhibitors"
+    },
+    {
+      "level": 4,
+      "text": "5.6.4. Psychosocial intervention and therapy",
+      "anchor": "#5-6-4-psychosocial-intervention-and-therapy"
+    },
+    {
+      "level": 4,
+      "text": "5.6.5. Hormonal treatment",
+      "anchor": "#5-6-5-hormonal-treatment"
+    },
+    {
+      "level": 4,
+      "text": "5.6.6. Vacuum erection devices",
+      "anchor": "#5-6-6-vacuum-erection-devices"
+    },
+    {
+      "level": 4,
+      "text": "5.6.7. Intracavernous injections therapy",
+      "anchor": "#5-6-7-intracavernous-injections-therapy"
+    },
+    {
+      "level": 4,
+      "text": "5.6.8. Innovative treatment modalities",
+      "anchor": "#5-6-8-innovative-treatment-modalities"
+    },
+    {
+      "level": 4,
+      "text": "5.6.9. Herbal medicine and natural supplements",
+      "anchor": "#5-6-9-herbal-medicine-and-natural-supplements"
+    },
+    {
+      "level": 4,
+      "text": "5.6.10. Erectile dysfunction after radical prostatectomy",
+      "anchor": "#5-6-10-erectile-dysfunction-after-radical-prostatectomy"
+    },
+    {
+      "level": 4,
+      "text": "5.6.11. Surgical management",
+      "anchor": "#5-6-11-surgical-management"
+    },
+    {
+      "level": 4,
+      "text": "5.6.12. Summary of evidence and recommendations for treatment of ED",
+      "anchor": "#5-6-12-summary-of-evidence-and-recommendations-for-treatment-of-ed"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Follow-up",
+      "anchor": "#5-7-follow-up"
+    },
+    {
+      "level": 2,
+      "text": "6. DISORDERS OF EJACULATION",
+      "anchor": "#6-disorders-of-ejaculation"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Introduction",
+      "anchor": "#6-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Premature ejaculation",
+      "anchor": "#6-2-premature-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Epidemiology",
+      "anchor": "#6-2-1-epidemiology"
+    },
+    {
+      "level": 4,
+      "text": "6.2.2. Pathophysiology and risk factors",
+      "anchor": "#6-2-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.2.3. Impact of PE on quality of life",
+      "anchor": "#6-2-3-impact-of-pe-on-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "6.2.4. Classification",
+      "anchor": "#6-2-4-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.2.5. Diagnostic evaluation",
+      "anchor": "#6-2-5-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "6.2.6. Disease management",
+      "anchor": "#6-2-6-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "6.2.7. Summary of evidence and recommendations for the treatment of PE",
+      "anchor": "#6-2-7-summary-of-evidence-and-recommendations-for-the-treatment-of-pe"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Delayed ejaculation",
+      "anchor": "#6-3-delayed-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. Definition and classification",
+      "anchor": "#6-3-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Pathophysiology and risk factors",
+      "anchor": "#6-3-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.3.3. Investigation and treatment",
+      "anchor": "#6-3-3-investigation-and-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Anejaculation",
+      "anchor": "#6-4-anejaculation"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Definition and classification",
+      "anchor": "#6-4-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Pathophysiology and risk factors",
+      "anchor": "#6-4-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.4.3. Investigation and treatment",
+      "anchor": "#6-4-3-investigation-and-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Painful ejaculation",
+      "anchor": "#6-5-painful-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "6.5.1. Definition and classification",
+      "anchor": "#6-5-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.5.2. Pathophysiology and risk factors",
+      "anchor": "#6-5-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.5.3. Investigation and treatment",
+      "anchor": "#6-5-3-investigation-and-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Retrograde ejaculation",
+      "anchor": "#6-6-retrograde-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "6.6.1. Definition and classification",
+      "anchor": "#6-6-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.6.2. Pathophysiology and risk factors",
+      "anchor": "#6-6-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.6.3. Disease management",
+      "anchor": "#6-6-3-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.7. Anorgasmia",
+      "anchor": "#6-7-anorgasmia"
+    },
+    {
+      "level": 4,
+      "text": "6.7.1. Definition and classification",
+      "anchor": "#6-7-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.7.2. Pathophysiology and risk factors",
+      "anchor": "#6-7-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.7.3. Disease management",
+      "anchor": "#6-7-3-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.8. Haemospermia",
+      "anchor": "#6-8-haemospermia"
+    },
+    {
+      "level": 4,
+      "text": "6.8.1. Definition and classification",
+      "anchor": "#6-8-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.8.2. Pathophysiology and risk factors",
+      "anchor": "#6-8-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.8.3. Investigations",
+      "anchor": "#6-8-3-investigations"
+    },
+    {
+      "level": 4,
+      "text": "6.8.4. Disease management",
+      "anchor": "#6-8-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "6.8.5. Summary of evidence and recommendations for the investigation and management of haemospermia",
+      "anchor": "#6-8-5-summary-of-evidence-and-recommendations-for-the-investigation-and-management-of-haemospermia"
+    },
+    {
+      "level": 2,
+      "text": "7. LOW SEXUAL DESIRE AND MALE HYPOACTIVE SEXUAL DESIRE DISORDER",
+      "anchor": "#7-low-sexual-desire-and-male-hypoactive-sexual-desire-disorder"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Definition, classification and epidemiology",
+      "anchor": "#7-1-definition-classification-and-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Pathophysiology and risk factors",
+      "anchor": "#7-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. Psychological aspects",
+      "anchor": "#7-2-1-psychological-aspects"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Biological aspects",
+      "anchor": "#7-2-2-biological-aspects"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Risk factors",
+      "anchor": "#7-2-3-risk-factors"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Diagnostic work-up",
+      "anchor": "#7-3-diagnostic-work-up"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Assessment questionnaires",
+      "anchor": "#7-3-1-assessment-questionnaires"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Physical examination and investigations",
+      "anchor": "#7-3-2-physical-examination-and-investigations"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Disease management",
+      "anchor": "#7-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "7.4.1. Psychological intervention",
+      "anchor": "#7-4-1-psychological-intervention"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Pharmacotherapy",
+      "anchor": "#7-4-2-pharmacotherapy"
+    },
+    {
+      "level": 3,
+      "text": "7.5. Recommendations for the treatment of low sexual desire",
+      "anchor": "#7-5-recommendations-for-the-treatment-of-low-sexual-desire"
+    },
+    {
+      "level": 2,
+      "text": "8. PENILE CURVATURE",
+      "anchor": "#8-penile-curvature"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Congenital penile curvature",
+      "anchor": "#8-1-congenital-penile-curvature"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#8-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Diagnostic evaluation",
+      "anchor": "#8-1-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Disease management",
+      "anchor": "#8-1-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "8.1.4. Summary of evidence and recommendation for diagnosis and treatment of congenital penile curvature",
+      "anchor": "#8-1-4-summary-of-evidence-and-recommendation-for-diagnosis-and-treatment-of-congenital-penile-curvature"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Peyronie’s Disease",
+      "anchor": "#8-2-peyronies-disease"
+    },
+    {
+      "level": 4,
+      "text": "8.2.1. Epidemiology",
+      "anchor": "#8-2-1-epidemiology"
+    },
+    {
+      "level": 4,
+      "text": "8.2.2. Diagnostic evaluation",
+      "anchor": "#8-2-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "8.2.3. Disease management",
+      "anchor": "#8-2-3-disease-management"
+    },
+    {
+      "level": 2,
+      "text": "9. PENILE SIZE ABNORMALITIES AND DYSMORPHOPHOBIA",
+      "anchor": "#9-penile-size-abnormalities-and-dysmorphophobia"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Definition, epidemiology and classification",
+      "anchor": "#9-1-definition-epidemiology-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "9.1.1. History",
+      "anchor": "#9-1-1-history"
+    },
+    {
+      "level": 4,
+      "text": "9.1.2. Definition",
+      "anchor": "#9-1-2-definition"
+    },
+    {
+      "level": 4,
+      "text": "9.1.3. Epidemiology and classification",
+      "anchor": "#9-1-3-epidemiology-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "9.1.4. Summary of evidence and recommendations for classification of short penile size",
+      "anchor": "#9-1-4-summary-of-evidence-and-recommendations-for-classification-of-short-penile-size"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Diagnosis",
+      "anchor": "#9-2-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "9.2.1. Medical history, physical examination and psychological assessment",
+      "anchor": "#9-2-1-medical-history-physical-examination-and-psychological-assessment"
+    },
+    {
+      "level": 4,
+      "text": "9.2.2. Imaging",
+      "anchor": "#9-2-2-imaging"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Management",
+      "anchor": "#9-3-management"
+    },
+    {
+      "level": 4,
+      "text": "9.3.1. Non-surgical treatments",
+      "anchor": "#9-3-1-non-surgical-treatments"
+    },
+    {
+      "level": 4,
+      "text": "9.3.2. Surgical treatments",
+      "anchor": "#9-3-2-surgical-treatments"
+    },
+    {
+      "level": 2,
+      "text": "10. PRIAPISM",
+      "anchor": "#10-priapism"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Ischaemic (low-flow or veno-occlusive) priapism",
+      "anchor": "#10-1-ischaemic-low-flow-or-veno-occlusive-priapism"
+    },
+    {
+      "level": 4,
+      "text": "10.1.1. Epidemiology, aetiology, pathophysiology and diagnosis",
+      "anchor": "#10-1-1-epidemiology-aetiology-pathophysiology-and-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "10.1.2. Diagnostic evaluation",
+      "anchor": "#10-1-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "10.1.3. Disease management",
+      "anchor": "#10-1-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "10.1.4. Summary of evidence and recommendations for treatment of ischaemic priapism",
+      "anchor": "#10-1-4-summary-of-evidence-and-recommendations-for-treatment-of-ischaemic-priapism"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Priapism in special situations",
+      "anchor": "#10-2-priapism-in-special-situations"
+    },
+    {
+      "level": 4,
+      "text": "10.2.1. Stuttering (recurrent or intermittent) priapism",
+      "anchor": "#10-2-1-stuttering-recurrent-or-intermittent-priapism"
+    },
+    {
+      "level": 4,
+      "text": "10.2.2. Priapism in children",
+      "anchor": "#10-2-2-priapism-in-children"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Non-ischaemic (high-flow or arterial) priapism",
+      "anchor": "#10-3-non-ischaemic-high-flow-or-arterial-priapism"
+    },
+    {
+      "level": 4,
+      "text": "10.3.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#10-3-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "10.3.2. Diagnostic evaluation",
+      "anchor": "#10-3-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "10.3.3. Disease management",
+      "anchor": "#10-3-3-disease-management"
+    },
+    {
+      "level": 2,
+      "text": "11. MALE INFERTILITY",
+      "anchor": "#11-male-infertility"
+    },
+    {
+      "level": 3,
+      "text": "11.1. Definition and classification",
+      "anchor": "#11-1-definition-and-classification"
+    },
+    {
+      "level": 3,
+      "text": "11.2. Epidemiology, aetiology, pathophysiology and risk factors",
+      "anchor": "#11-2-epidemiology-aetiology-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "11.2.1. Introduction",
+      "anchor": "#11-2-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "11.2.2. Summary of evidence and recommendations on epidemiology and aetiology of male infertility",
+      "anchor": "#11-2-2-summary-of-evidence-and-recommendations-on-epidemiology-and-aetiology-of-male-infertility"
+    },
+    {
+      "level": 3,
+      "text": "11.3. Diagnostic work-up",
+      "anchor": "#11-3-diagnostic-work-up"
+    },
+    {
+      "level": 4,
+      "text": "11.3.1. Medical history, reproductive history and physical examination",
+      "anchor": "#11-3-1-medical-history-reproductive-history-and-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "11.3.2. Semen analysis",
+      "anchor": "#11-3-2-semen-analysis"
+    },
+    {
+      "level": 4,
+      "text": "11.3.3. Measurement of Sperm DNA Fragmentation Index",
+      "anchor": "#11-3-3-measurement-of-sperm-dna-fragmentation-index"
+    },
+    {
+      "level": 4,
+      "text": "11.3.4. Hormonal determinations",
+      "anchor": "#11-3-4-hormonal-determinations"
+    },
+    {
+      "level": 4,
+      "text": "11.3.5. Genetic testing",
+      "anchor": "#11-3-5-genetic-testing"
+    },
+    {
+      "level": 4,
+      "text": "11.3.6. Imaging in infertile men",
+      "anchor": "#11-3-6-imaging-in-infertile-men"
+    },
+    {
+      "level": 4,
+      "text": "11.3.7. Summary of evidence and recommendations for the diagnostic work-up of male infertilityhormonal determinations",
+      "anchor": "#11-3-7-summary-of-evidence-and-recommendations-for-the-diagnostic-work-up-of-male-infertilityhormonal-determinations"
+    },
+    {
+      "level": 3,
+      "text": "11.4. Special conditions and relevant clinical entities",
+      "anchor": "#11-4-special-conditions-and-relevant-clinical-entities"
+    },
+    {
+      "level": 4,
+      "text": "11.4.1. Cryptorchidism",
+      "anchor": "#11-4-1-cryptorchidism"
+    },
+    {
+      "level": 4,
+      "text": "11.4.2. Germ cell malignancy and male infertility",
+      "anchor": "#11-4-2-germ-cell-malignancy-and-male-infertility"
+    },
+    {
+      "level": 4,
+      "text": "11.4.3. Varicocele",
+      "anchor": "#11-4-3-varicocele"
+    },
+    {
+      "level": 4,
+      "text": "11.4.4. Male accessory gland infections and infertility",
+      "anchor": "#11-4-4-male-accessory-gland-infections-and-infertility"
+    },
+    {
+      "level": 3,
+      "text": "11.5. Non-invasive male infertility management",
+      "anchor": "#11-5-non-invasive-male-infertility-management"
+    },
+    {
+      "level": 4,
+      "text": "11.5.1. Empirical treatments",
+      "anchor": "#11-5-1-empirical-treatments"
+    },
+    {
+      "level": 4,
+      "text": "11.5.2. Summary of evidence and recommendation for non-invasive male infertility management",
+      "anchor": "#11-5-2-summary-of-evidence-and-recommendation-for-non-invasive-male-infertility-management"
+    },
+    {
+      "level": 4,
+      "text": "11.5.3. Hormonal therapy",
+      "anchor": "#11-5-3-hormonal-therapy"
+    },
+    {
+      "level": 3,
+      "text": "11.6. Invasive male infertility management",
+      "anchor": "#11-6-invasive-male-infertility-management"
+    },
+    {
+      "level": 4,
+      "text": "11.6.1. Obstructive azoospermia",
+      "anchor": "#11-6-1-obstructive-azoospermia"
+    },
+    {
+      "level": 4,
+      "text": "11.6.2. Non-obstructive azoospermia",
+      "anchor": "#11-6-2-non-obstructive-azoospermia"
+    },
+    {
+      "level": 3,
+      "text": "11.7. Assisted reproductive technologies",
+      "anchor": "#11-7-assisted-reproductive-technologies"
+    },
+    {
+      "level": 3,
+      "text": "11.8. Psychosocial aspects in men’s infertility",
+      "anchor": "#11-8-psychosocial-aspects-in-mens-infertility"
+    },
+    {
+      "level": 2,
+      "text": "12. LATE EFFECTS SURVIVORSHIP AND MENS HEALTH",
+      "anchor": "#12-late-effects-survivorship-and-mens-health"
+    },
+    {
+      "level": 2,
+      "text": "13. REFERENCES",
+      "anchor": "#13-references"
+    },
+    {
+      "level": 2,
+      "text": "14. CONFLICT OF INTEREST",
+      "anchor": "#14-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "15. CITATION INFORMATION",
+      "anchor": "#15-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "16. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#16-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#sexual-and-reproductive-health",
+      "title": "Sexual and Reproductive Health",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 10. Priapism Introduction Methodology Male Hypogonadism Epidemiology And Prevalence Of Sexual Dysfunction And Disorders Of Male Reproductive Health Management Of Erectile Dysfunction Disorders Of Ejaculation Low Sexual Desire And Male Hypoactive Sexual Desire Disorder Penile Curvature Penile Size Abnormalities And Dysmorphophobia Priapism Male Infertility Late Effects Survivorship And Mens Health References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#10-priapism",
+      "title": "10. PRIAPISM",
+      "level": 2,
+      "text": "Priapism is a persistent or prolonged erection in the absence of sexual stimulation that fails to subside. It can be divided into ischaemic, non-ischaemic and stuttering priapism. These Guidelines are based on three systematic reviews addressing the medical and surgical management of ischaemic and non-ischaemic priapism and the overall management of priapism related to sickle cell disease (SCD) [1392-1394].",
+      "tables": []
+    },
+    {
+      "anchor": "#10-1-ischaemic-low-flow-or-veno-occlusive-priapism",
+      "title": "10.1. Ischaemic (low-flow or veno-occlusive) priapism",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#10-1-1-epidemiology-aetiology-pathophysiology-and-diagnosis",
+      "title": "10.1.1. Epidemiology, aetiology, pathophysiology and diagnosis",
+      "level": 4,
+      "text": "Ischaemic priapism is a persistent erection marked by rigidity of the corpora cavernosa and by little or no cavernous arterial inflow [1395]. Ischaemic priapism is the most common subtype of priapism, accounting for > 95% of all episodes [1395,1396]. In ischaemic priapism, there are time-dependent metabolic alterations within the corpus cavernosum progressively leading to hypoxia, hypercapnia, glucopenia and acidosis [1397,1398]. Ischaemic priapism that lasts beyond four hours is similar to a compartment syndrome and characterised by the development of ischaemia within the closed space of the corpora cavernosa, which severely compromises the cavernosal circulation. Emergency medical intervention is required to minimise irreversible consequences, such as smooth muscle necrosis, corporal fibrosis and the development of permanent ED [1399,1400]. The duration of ischaemic priapism represents the most significant predictor for irreversible consequences, including ED. A study showed that ED risk rose sharply beyond 20 hours [1401]. Interventions beyond 48-72 hours of onset may help to relieve the erection and pain but have little clinical benefit in preventing long-term ED [1402]. In most cases, no specific pathophysiological causes of ischaemic priapism can be identified [1395,1403], although the common aetiological factors include SCD [1404,1405], haematological dyscrasias, neoplastic syndromes and several pharmacological agents (e.g. intracavernosal PGE1 therapy) (Table 10.1). A Danish study concluded that haemolytic disorders, such as thalassemia or glucose-6-phosphate dehydrogenase deficiency, other than SCD, are not significant risk factors for priapism [1406]. Ischaemic priapism may occur (0.4-35%) after intracavernosal injection of erectogenic agents [1395,1399,1407-1409]. The risk is higher with papaverine-based combinations [1410], while the risk of priapism is < 1% following prostaglandin E1 injection [1411]. Second-generation antipsychotics (33.8%), other medications (11.3%) and alpha-adrenergic antagonists (8.8%) accounted for the greatest percentage of published drug-induced priapism cases [1412]. Isolated cases of priapism have been described in males who have taken PDE5Is [1395]. Data from the FDA Adverse Reporting System Public Dashboard showed that PDE5Is-induced priapism accounted for only 2.9% of drug-induced priapism. Most of these males also had other risk factors for priapism and it is unclear whether PDE5Is per se can cause ischaemic priapism [1395,1413]. Since most males who experience priapism following PDE5Is treatment have additional risk factors for ischaemic priapism, PDE5Is use is usually not regarded as a risk factor in itself. In terms of haemoglobinopathies, SCD is the most common cause of priapism in childhood, accounting for 63% of cases. It is the primary aetiology in 23% of adult cases [1411]. It has been reported that males with a history of priapism exhibit a higher incidence of CV and cerebrovascular disease. Specifically, they had a 24% increased risk of ischaemic heart disease, a 31% increased risk of cerebrovascular disease, and a 15% increased risk of arterial disease compared to males with ED in the years following a priapism episode. Moreover, individuals with recurrent episodes showed progressively higher rates of vascular comorbidities [1414]. Mechanisms of SCD-associated priapism may involve derangements of several signalling pathways in the penis [1415]. Contrary to traditional belief, maintenance of physiological testosterone levels does not cause priapism, but rather preserves penile homeostasis and promotes normal EF [1416,1417]. Testosterone deficiency is considered a controversial risk factor: it is prevalent in patients with SCD, but evidence indicates that it may not be a risk factor for priapism [1418]. Priapism resulting from metastatic or regional infiltration by tumour is rare and usually reflects an infiltrative process, more often involving the bladder and prostate as the primary cancer sites [1419]. In a large retrospective study including 412 males with ischaemic priapism, 11 (3.5%) had malignant priapism, of which seven cases were a consequence of local invasion, while the others were secondary to haematological malignancy [1420]. The conventional therapeutic recommendations for pharmacological treatment are unlikely to be effective, and all these males should have MRI of the penis and be offered supportive care and medical intervention for their primary cancer. In selected cases where palliative treatment options fail to control penile pain, a palliative penectomy can be considered. Partial priapism, or idiopathic partial segmental thrombosis of the corpus cavemosum, is a rare condition. It is often classified as a subtype of priapism limited to a single crura without ischaemia, but rather a thrombus is present within the corpus cavernosum. Its aetiology is unknown, but bicycle riding, trauma, drug use, sexual intercourse, haematological diseases",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Aetiological factors for the development of priapism"
+            ],
+            [
+              "Idiopathic"
+            ],
+            [
+              "-"
+            ],
+            [
+              "Haematological dyscrasias, vascular and other disorders"
+            ],
+            [
+              "Sickle cell diseaseThalassemiaLeukaemiaMultiple myelomaHaemoglobin Olmsted variantFat emboli during hyperalimentationHaemodialysisGlucose-6-phosphate dehydrogenase deficiencyFactor V Leiden mutationVessel vasculitis (e.g. Henoch-Schönlein purpura; Behçet's disease; anti-phospholipid antibodies syndrome)"
+            ],
+            [
+              "Infections (toxin-mediated)"
+            ],
+            [
+              "Scorpion stingSpider biteRabies, malaria"
+            ],
+            [
+              "Metabolic disorders"
+            ],
+            [
+              "AmyloidosisFabry’s diseaseGout"
+            ],
+            [
+              "Neurogenic disorders"
+            ],
+            [
+              "SyphilisSpinal cord injuryCauda equina syndromeAutonomic neuropathyLumbar disc herniationSpinal stenosisCerebrovascular accidentBrain tumourSpinal anaesthesia"
+            ],
+            [
+              "Neoplasms (metastatic or regional infiltration)"
+            ],
+            [
+              "ProstateUrethraTestisBladderRectalLung, kidney"
+            ],
+            [
+              "Medications"
+            ],
+            [
+              "Vasoactive erectile agents (i.e. papaverine, phentolamine, prostaglandin E1/alprostadil, combination of intracavernous therapies)α-adrenergic receptor antagonists (i.e. prazosin, terazosin, doxazosin and tamsulosin)Anti-anxiety agents (hydroxyzine)Anticoagulants (heparin and warfarin)Antidepressants and antipsychotics (i.e. trazodone, bupropion, fluoxetine, sertraline, lithium, clozapine, risperidone, olanzapine, chlorpromazine, thiorizadine, phenothiazines and methylphenidate)Antihypertensives (i.e. hydralazine, guanethidine and propranolol)Hormones (i.e. gonadotropin-releasing hormone and testosterone)Anti-epileptics (i.e. valproic acid and its derivates, gabapentine, lamotrigine, levetiracetam, pregabalin, topiramate, carbamazepine, phenytoin, clonazepam) [1423]Recreational drugs (i.e. alcohol, marijuana, cocaine [intranasal and topical], crack cocaine)"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Ischaemic priapism is the most common type, accounting for more than 95% of all cases.",
+              "1b"
+            ],
+            [
+              "Ischaemic priapism is identified as idiopathic in most patients, while SCD is the most common cause in childhood.",
+              "1b"
+            ],
+            [
+              "Ischaemic priapism occurs relatively often (about 5%) after intracavernous injections of papaverine-based combinations, while it is rare (< 1%) after prostaglandin E1 monotherapy.",
+              "2a"
+            ],
+            [
+              "Priapism is rare in males who have taken PDE5Is, with only sporadic cases reported.",
+              "4"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#10-1-2-diagnostic-evaluation",
+      "title": "10.1.2. Diagnostic evaluation",
+      "level": 4,
+      "text": "10.1.2.a. History Taking a comprehensive history is critical in priapism diagnosis and treatment [1395,1424]. The medical history must specifically enquire about SCD or any other haematological abnormality [1425,1426] and a history of pelvic, genital or perineal trauma. The sexual history must include the duration of the erection; the presence and degree of pain; prior drug treatment and recreational drug use; history of priapism and methods of treatment; and EF prior to the last priapism episode [1395]. The history can help to determine the underlying priapism subtype (Table 10.2). Ischaemic priapism is classically associated with progressive penile pain and the erection is rigid. Conversely, non-ischaemic priapism is often painless, and the erection often fluctuates in rigidity. Table 10.2: Key findings in priapism (adapted from Broderick et al., [1395])   Ischaemic priapism Non-ischaemic priapism Corpora cavernosa fully rigid Typical Seldom Penile pain Typical Seldom Abnormal penile blood gas Typical Seldom Haematological abnormalities Sometimes Seldom Recent intracavernosal injection Sometimes Sometimes Perineal trauma Seldom Typical 10.1.2.b. Physical examination In ischaemic priapism, the corpora are fully rigid and tender, but the glans penis is soft. The patient usually complains of severe pain. Pelvic examination may reveal an underlying pelvic or genitourinary malignancy [1420]. 10.1.2.c. Laboratory testing Laboratory testing should include a complete blood count, white blood cell count with blood cell differential, platelet count, and coagulation profile to assess anaemia and detect haematological abnormalities [1395,1424]. Aspiration of blood from the corpora cavernosa is compulsory as an entry level investigation. It usually reveals dark ischaemic blood. Blood gas analysis is essential to differentiate between ischaemic and non-ischaemic priapism (Table 10.3). Further laboratory testing should be directed by the history, clinical examination and laboratory findings. These may include specific tests (e.g. haemoglobin electrophoresis) for diagnosis of SCD or other haemoglobinopathies. 10.1.2.d. Penile imaging Colour Doppler US of the penis and perineum is recommended after clinical diagnosis and can differentiate ischaemic from non-ischaemic priapism as an alternative or adjunct to blood gas analysis (Figure 10.1) [1427-1430]. Colour Doppler US can identify the presence of the fistula as a blush with 100% sensitivity and 73% specificity [1429,1431]. Penile US should be performed before corporal blood aspiration in ischaemic priapism to prevent aberrant blood flow which can mimic a non-ischaemic or reperfusion picture after intervention for low-flow priapism [1432]. Penile MRI can be used in the diagnostic evaluation of priapism and may be helpful in select cases of ischaemic priapism to assess the viability of the corpora cavernosa and the presence of penile fibrosis. In cases of refractory priapism or delayed presentation (> 48 hours), smooth muscle viability can be indirectly assessed. In a prospective study of 38 patients with ischaemic priapism, the sensitivity of MRI in predicting non-viable smooth muscle was 100% when correlated with corpus cavernosum biopsies [1432]. All patients with viable smooth muscle on MRI-maintained EF on clinical follow-up, with the non-viable group being offered early prosthesis. Table 10.3: Typical blood gas values (adapted from Broderick et al., [1395]) Source pO 2 (mmHg) pCO 2 (mmHg) pH Normal arterial blood (room air) (similar values are found in arterial priapism) > 90 < 40 7.40 Normal mixed venous blood (room air) 40 50 7.35 Ischaemic priapism (first corporal aspirate) < 30 > 60 < 7.25 pCO 2  = partial pressure of carbon dioxide; pO 2   = partial pressure of oxygen. Figure 10.1: Differential diagnosis of priapism US = ultrasound. 10.1.2.e. Summary of evidence and recommendations for the diagnosis of ischaemic priapism Summary of evidence LE Medical history, including the assessment of known haematological abnormalities (e.g. SCD), history of pelvic/perineal/genital trauma, prior drug treatment or recreational drug use, is essential to identify the possible aetiology and the type of priapism. 3 Blood gas analysis performed before blood aspiration from the corpora can differentiate between ischaemic and non-ischaemic priapism. Full blood count and haemoglobinopathy screen could reveal haematological alterations. 3 Penile colour Doppler US can differentiate between ischaemic and non-ischaemic priapism when performed before corporal blood aspiration. 3 Penile MRI can predict non-viable smooth muscle in patients with ischaemic priapism. 3 Recommendations Strength rating Take a comprehensive history to establish the diagnosis which can help to determine the priapism subtype. Strong Include a physical examination of the genitalia, perineum and abdomen in the diagnostic evaluation. Strong Include a full blood count, white blood cell count with blood cell differentia",
+      "tables": [
+        {
+          "rows": [
+            [
+              " ",
+              "Ischaemic priapism",
+              "Non-ischaemic priapism"
+            ],
+            [
+              "Corpora cavernosa fully rigid",
+              "Typical",
+              "Seldom"
+            ],
+            [
+              "Penile pain",
+              "Typical",
+              "Seldom"
+            ],
+            [
+              "Abnormal penile blood gas",
+              "Typical",
+              "Seldom"
+            ],
+            [
+              "Haematological abnormalities",
+              "Sometimes",
+              "Seldom"
+            ],
+            [
+              "Recent intracavernosal injection",
+              "Sometimes",
+              "Sometimes"
+            ],
+            [
+              "Perineal trauma",
+              "Seldom",
+              "Typical"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Source",
+              "pO2 (mmHg)",
+              "pCO2 (mmHg)",
+              "pH"
+            ],
+            [
+              "Normal arterial blood (room air)(similar values are found in arterial priapism)",
+              "> 90",
+              "< 40",
+              "7.40"
+            ],
+            [
+              "Normal mixed venous blood (room air)",
+              "40",
+              "50",
+              "7.35"
+            ],
+            [
+              "Ischaemic priapism (first corporal aspirate)",
+              "< 30",
+              "> 60",
+              "< 7.25"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Medical history, including the assessment of known haematological abnormalities (e.g. SCD), history of pelvic/perineal/genital trauma, prior drug treatment or recreational drug use, is essential to identify the possible aetiology and the type of priapism.",
+              "3"
+            ],
+            [
+              "Blood gas analysis performed before blood aspiration from the corpora can differentiate between ischaemic and non-ischaemic priapism. Full blood count and haemoglobinopathy screen could reveal haematological alterations.",
+              "3"
+            ],
+            [
+              "Penile colour Doppler US can differentiate between ischaemic and non-ischaemic priapism when performed before corporal blood aspiration.",
+              "3"
+            ],
+            [
+              "Penile MRI can predict non-viable smooth muscle in patients with ischaemic priapism.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Take a comprehensive history to establish the diagnosis which can help to determine the priapism subtype.",
+              "Strong"
+            ],
+            [
+              "Include a physical examination of the genitalia, perineum and abdomen in the diagnostic evaluation.",
+              "Strong"
+            ],
+            [
+              "Include a full blood count, white blood cell count with blood cell differential, platelet count, and coagulation profile for laboratory testing. Perform further directed laboratory testing depending upon history and clinical and laboratory findings. Perform a complete evaluation of all possible causes of priapism in children.",
+              "Strong"
+            ],
+            [
+              "Perform a haemoglobinopathy screen in patients with low-flow priapism who are at high risk of sickle cell disease or thalassemia.",
+              "Strong"
+            ],
+            [
+              "In the emergency setting, analysis of blood gas parameters from aspirated corporal blood is essential to distinguish between ischaemic and non-ischaemic priapism.",
+              "Strong"
+            ],
+            [
+              "Perform colour duplex ultrasound of the penis and perineum before aspiration to differentiate between ischaemic and non-ischaemic priapism.",
+              "Strong"
+            ],
+            [
+              "Use magnetic resonance imaging of the penis in cases of prolonged ischaemic priapism or refractory priapism, and as an adjunct to predict smooth muscle viability.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#10-1-3-disease-management",
+      "title": "10.1.3. Disease management",
+      "level": 4,
+      "text": "Acute ischaemic priapism is a medical emergency. Urgent intervention is mandatory and should follow a stepwise approach. The aim of any treatment is to restore penile detumescence, without pain, to prevent corporal smooth muscle fibrosis and subsequent ED. 10.1.3.a. Medical management – first-line treatment First-line medical treatments for ischaemic priapism lasting more than four hours are strongly recommended before any surgical treatment. Conversely, first-line treatments initiated beyond 48 hours, while relieving priapism, have little documented benefit on long-term EF preservation. This is likely a consequence of irreversible smooth muscle hypoxia and damage, which begin to develop approximately 48 hours after the onset of ischaemia [1399,1400,1402]. In a series of 50 patients with low-flow priapism who were successfully treated and followed-up for a mean of 66 months, those with priapism lasting for more than 48 hours had a significant risk of ED [1399]. Historically, several first-line treatments have been described including exercise, ejaculation, ice packs, cold baths and cold-water enemas [1395]. The evidence supporting the use of these conservative measures is limited, and their application may potentially worsen the condition in patients with SCD. Success rates achieved with conservative management alone are seldom reported. In a small case series, cold-water enemas were associated with detumescence in six of ten cases [1433]. In another study, 24.5% of 122 patients achieved detumescence following priapic episodes lasting for more than six hours by cooling of the penis and perineum, and walking upstairs [1434]. 10.1.3.a.1. Penile anaesthesia/analgesia Blood aspiration and intracavernous injection of a sympathomimetic agent can be performed without any anaesthesia; however, anaesthesia may be necessary when there is severe penile pain. Whilst anaesthesia may not alleviate the ischaemic pain, cutaneous anaesthesia facilitates subsequent therapies. The treatment options for penile anaesthesia/systemic analgesia include: dorsal nerve block; circumferential penile block; subcutaneous local penile shaft block; and oral conscious sedation (for paediatric patients). 10.1.3.a.2. Aspiration ± irrigation with 0.9% w/v saline solution The first intervention for an episode of priapism lasting more than four hours consists of corporal blood aspiration to drain the stagnant blood from the corporal bodies, making it possible to relieve the compartment-syndrome-like condition within the corpus cavernosum. Blood aspiration may be performed with intracorporeal access either through the glans or via percutaneous needle access to the lateral aspect of the proximal penile shaft, using a 16 or 18G angio-catheter or butterfly needle. The needle must penetrate the skin, the subcutaneous tissue and the tunica albuginea to drain blood from the corpus cavernosum. Some clinicians advocate using two angiocatheters or butterfly needles at the same time to accelerate drainage, as well as aspirating and irrigating simultaneously with a saline solution [1434]. Aspiration should be continued until bright red, oxygenated blood is aspirated. Several case series have reported outcomes for first-line treatments. In most cases, aspiration and irrigation were combined with intracavernosal injection of sympathomimetic agents [1393], thus making it difficult to draw conclusions about the success rate of aspiration plus irrigation alone [1393]. Overall, case series and retrospective studies reported a success rate ranging from 0 to 100% of cases [1393]. In an RCT, 70 patients with ischaemic priapism lasting more than six hours, secondary to intracavernosal injection and were treated with aspiration plus saline irrigation at different temperatures [1434]. The study reported an 85% success rate, with the optimum results achieved using a 10°C saline infusion after blood aspiration. There are insufficient data to determine if aspiration followed by saline intracorporeal irrigation is more effective than aspiration alone. 10.1.3.a.3. Aspiration ± irrigation with 0.9% w/v saline solution in combination with intracavernous injection of pharmacological agents This combination is considered the standard of care for treatment of ischaemic priapism [1395,1435,1436]. Pharmacological agents include sympathomimetic drugs or α-adrenergic agonists. Intracavernous sympathomimetic agents include phenylephrine, etilefrine, ephedrine, epinephrine, norepinephrine and metaraminol with a resolution rate of up to 80% [1395,1435,1437-1444]. The use of intracavernous adrenaline injection alone has also been sporadically reported [1375]. It has been reported that the use of a sympathomimetic agent combined with prior intracavernosal aspiration or irrigation had a resolution ranging from 80 to 100% of cases as compared with 58% in those who had a sympathomimetic injection alone [1393,1436]. The potential TRAEs of intracavernous phenylephrine (and other sympathomime",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Drug",
+              "Dose/Instructions for use"
+            ],
+            [
+              "Phenylephrine",
+              "Intracavernous injection of 200μg every 3-5 minutes.Maximum dosage is 1mg within 1 hour.Lower doses are recommended in children and patients with severe cardiovascular diseases."
+            ],
+            [
+              "Etilefrine",
+              "Intracavernous injection at a concentration of 2.5mg in 1-2mL normal saline."
+            ],
+            [
+              "Methylene blue",
+              "Intracavernous injection of 50-100mg, left for 5 minutes. It is then aspirated and the penis compressed for an additional 5 minutes."
+            ],
+            [
+              "Adrenaline",
+              "Intracavernous injection of 2mL of 1/100,000 adrenaline solution up to five times over a 20-minute period."
+            ],
+            [
+              "Terbutaline",
+              "Oral administration of 5mg for priapism lasting more than 2.5 hours, after intracavernous injection of vasoactive agents."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#10-1-4-summary-of-evidence-and-recommendations-for-treatment-of-ischaemic-priapism",
+      "title": "10.1.4. Summary of evidence and recommendations for treatment of ischaemic priapism",
+      "level": 4,
+      "text": "Summary of evidence LE Ischaemic priapism is a medical emergency and immediate intervention is mandatory. 2b Erectile function preservation is directly related to the duration of ischaemic priapism, age and preoperative erectile status. 2b Medical treatment is variably effective in case of priapism lasting less than 48 hours. 2b Aspiration ± irrigation with 0.9% results in over 80% success rate when combined with intracavernous injection of sympathomimetic drugs. 2b Phenylephrine is the recommended drug due to its favourable safety profile in the CV system compared to other drugs. Phenylephrine is usually diluted in normal saline with a concentration of 100-500μg/mL and given in 200μg doses every three to five minutes directly into the corpus cavernosum. Maximum dosage is 1mg within one hour. Patient monitoring is highly recommended. 2b Oral terbutaline has a success rate in up to 60% of cases when priapism is associated with intracavernous injection of erectogenic agents. 1b Exchange transfusion in patients with priapism associated with SCD may result in serious neurological sequelae. 2b Shunt procedures are effective to resolve priapism and provide pain relief. No clear recommendation of the superiority of one type of shunt over another can be given. Distal shunts are less invasive and associated with lower rate of ED. 2b Peri- and postoperative anticoagulant prophylaxis (325mg acetylsalicylic acid preoperatively; 5,000IU heparin intra-operatively; and 81mg acetylsalicylic acid and 75mg clopidogrel five days postoperatively) may prevent priapism recurrence. 3 Erectile dysfunction is almost inevitable in prolonged cases or ischaemic priapism. Early PPI is associated with lower infection rates and complications compared to late implantation. 2b Recommendations Strength rating Start management of ischaemic priapism as early as possible (within four to six hours) and follow a stepwise approach. Strong Perform corpus cavernosum aspiration and washout until fresh red blood is obtained as first treatment step. Strong Replace blood aspiration with intracavernous injection of a sympathomimetic drug as the first step in priapism secondary to intracavernous injections of vasoactive agents. Strong Perform intracavernous injection of a sympathomimetic drug in priapism that persists despite aspiration. Strong Repeat aspiration and intracavernous injection of a sympathomimetic drug in cases that persist despite prior aspiration and intracavernous injection of a sympathomimetic drug, before considering surgical intervention. Strong Treat ischaemic priapism associated with sickle cell disease in the same fashion as idiopathic ischaemic priapism. Do not use exchange transfusion as a primary treatment. Provide other supportive measures but do not delay initial treatment to the penis. Strong Proceed to surgical treatment only when blood aspiration and intracavernous injection of sympathomimetic drugs have failed. Strong Perform distal shunt surgical procedures first and combine them with tunnelling if necessary. Weak Peno-scrotal decompression may be used as An alternative first-line option instead of distal shunting (with or without tunnelling). Weak Discuss penile prosthesis implantation in cases of delayed presentation (> 48 hours) and in cases refractory to injection therapy and distal shunting. Weak Delay implantation of a penile prosthesis if a shunt has been performed, to minimise the risk of infection and erosion of the implant. Strong Decide on which type of implant to insert based on: patient suitability; surgeons’ experience; and availability and cost of equipment. If a malleable penile prosthesis is implanted, it can be exchanged for an inflatable penile implant. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Ischaemic priapism is a medical emergency and immediate intervention is mandatory.",
+              "2b"
+            ],
+            [
+              "Erectile function preservation is directly related to the duration of ischaemic priapism, age and preoperative erectile status.",
+              "2b"
+            ],
+            [
+              "Medical treatment is variably effective in case of priapism lasting less than 48 hours.",
+              "2b"
+            ],
+            [
+              "Aspiration ± irrigation with 0.9% results in over 80% success rate when combined with intracavernous injection of sympathomimetic drugs.",
+              "2b"
+            ],
+            [
+              "Phenylephrine is the recommended drug due to its favourable safety profile in the CV system compared to other drugs. Phenylephrine is usually diluted in normal saline with a concentration of 100-500μg/mL and given in 200μg doses every three to five minutes directly into the corpus cavernosum. Maximum dosage is 1mg within one hour. Patient monitoring is highly recommended.",
+              "2b"
+            ],
+            [
+              "Oral terbutaline has a success rate in up to 60% of cases when priapism is associated with intracavernous injection of erectogenic agents.",
+              "1b"
+            ],
+            [
+              "Exchange transfusion in patients with priapism associated with SCD may result in serious neurological sequelae.",
+              "2b"
+            ],
+            [
+              "Shunt procedures are effective to resolve priapism and provide pain relief. No clear recommendation of the superiority of one type of shunt over another can be given. Distal shunts are less invasive and associated with lower rate of ED.",
+              "2b"
+            ],
+            [
+              "Peri- and postoperative anticoagulant prophylaxis (325mg acetylsalicylic acid preoperatively; 5,000IU heparin intra-operatively; and 81mg acetylsalicylic acid and 75mg clopidogrel five days postoperatively) may prevent priapism recurrence.",
+              "3"
+            ],
+            [
+              "Erectile dysfunction is almost inevitable in prolonged cases or ischaemic priapism. Early PPI is associated with lower infection rates and complications compared to late implantation.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Start management of ischaemic priapism as early as possible (within four to six hours) and follow a stepwise approach.",
+              "Strong"
+            ],
+            [
+              "Perform corpus cavernosum aspiration and washout until fresh red blood is obtained as first treatment step.",
+              "Strong"
+            ],
+            [
+              "Replace blood aspiration with intracavernous injection of a sympathomimetic drug as the first step in priapism secondary to intracavernous injections of vasoactive agents.",
+              "Strong"
+            ],
+            [
+              "Perform intracavernous injection of a sympathomimetic drug in priapism that persists despite aspiration.",
+              "Strong"
+            ],
+            [
+              "Repeat aspiration and intracavernous injection of a sympathomimetic drug in cases that persist despite prior aspiration and intracavernous injection of a sympathomimetic drug, before considering surgical intervention.",
+              "Strong"
+            ],
+            [
+              "Treat ischaemic priapism associated with sickle cell disease in the same fashion as idiopathic ischaemic priapism. Do not use exchange transfusion as a primary treatment. Provide other supportive measures but do not delay initial treatment to the penis.",
+              "Strong"
+            ],
+            [
+              "Proceed to surgical treatment only when blood aspiration and intracavernous injection of sympathomimetic drugs have failed.",
+              "Strong"
+            ],
+            [
+              "Perform distal shunt surgical procedures first and combine them with tunnelling if necessary.",
+              "Weak"
+            ],
+            [
+              "Peno-scrotal decompression may be used as An alternative first-line option instead of distal shunting (with or without tunnelling).",
+              "Weak"
+            ],
+            [
+              "Discuss penile prosthesis implantation in cases of delayed presentation (> 48 hours) and in cases refractory to injection therapy and distal shunting.",
+              "Weak"
+            ],
+            [
+              "Delay implantation of a penile prosthesis if a shunt has been performed, to minimise the risk of infection and erosion of the implant.",
+              "Strong"
+            ],
+            [
+              "Decide on which type of implant to insert based on:patient suitability;surgeons’ experience; andavailability and cost of equipment.If a malleable penile prosthesis is implanted, it can be exchanged for an inflatable penile implant.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#10-2-priapism-in-special-situations",
+      "title": "10.2. Priapism in special situations",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#10-2-1-stuttering-recurrent-or-intermittent-priapism",
+      "title": "10.2.1. Stuttering (recurrent or intermittent) priapism",
+      "level": 4,
+      "text": "Stuttering priapism, also termed intermittent or recurrent priapism, is a distinct condition that is characterised by repetitive and painful episodes of prolonged erections. Erections are self-limiting with intervening periods of detumescence [1463,1517]. These are analogous to repeated episodes of ischaemic priapism. In stuttering priapism, the duration of the erections is generally shorter than in ischaemic priapism [1436]. The frequency and/or duration of these episodes are variable, and a single episode can sometimes progress into prolonged ischaemic priapism. Stuttering priapism needs to be differentiated from sleep-related painful erections as both are rare but distinct entities. A prospective cohort study found that although stuttering priapism and sleep-related painful erections share symptoms of painful nocturnal erections and poor sleep, they differ markedly in the characteristics, duration and resolution of nocturnal erections, as well as their penile Doppler US and polysomnographic features [1518]. Robust epidemiological studies of stuttering priapism are lacking [1519,1520]. Recurrent priapism episodes are common in males with SCD (42-64%) [1521,1522], while in adolescents and young men the incidence of priapism is 35%, of whom 72% have a history of stuttering priapism [1519]. The aetiology of stuttering priapism is similar to that of ischaemic priapism. Whilst SCD is the most common cause, idiopathic cases and cases due to a neurological disorder have been reported. Men with acute ischaemic priapism, particularly if prolonged (more than four hours), are at risk of developing stuttering priapism [1515]. Several studies have proposed alternative mechanisms for stuttering priapism, including inflammation, cellular adhesion, nitric oxide metabolism, vascular reactivity and coagulation [1395,1416,1463,1517,1523-1526]. Although debated, androgens have also been observed to have an association with priapism [1527]. One of the options for the treatment of stuttering priapism is to reduce serum testosterone levels to hypogonadal levels, which then suppresses androgen-associated mechanisms believed to be involved in triggering recurrent priapism. 10.2.1.a. Diagnostic evaluation History, physical examination, laboratory testing and penile imaging follow the same principals as ischaemic priapism. In stuttering priapism there is a history of recurrent episodes of prolonged erections. These episodes may range from several daily to isolated incidents every few months, occurring either continuously or followed by incident-free periods of unknown duration, even months and/or years [1528]. The onset of the priapic episodes usually occurs during sleep and detumescence does not occur upon waking. These episodes can be painful and may be the reason that the patient first seeks medical attention. Erections are painful and the penis is rigid as in ischaemic priapism, but the duration of events is usually shorter. Between erections the penis is usually normal, but in some cases signs of fibrosis can be found. Rarely, the penis may become enlarged, a condition known as megalo-phallus. Recommendations for the diagnosis of stuttering priapism are the same as those described in Section 10.1.2.e. 10.2.1.b. Disease management The main goal in the management of stuttering priapism is the prevention of recurrence and the minimization of progression to prolonged ischaemic priapism unresponsive to conventional therapeutic options. In most cases, stuttering priapism may be managed pharmacologically. Acute episodes should be treated according to established protocols for ischaemic priapism, including corporal aspiration and irrigation, with or without the adjunctive use of intracavernous α-adrenergic agonists. 10.2.1.b.1.α-Adrenergic agonists Studies of oral α-adrenergic agonists have suggested some prophylactic benefit for daily treatment with these agents [1529]. Adverse effects include tachycardia and palpitations. Pseudoephedrine is widely used as an oral decongestant and can be a first-line treatment option for stuttering priapism [1457]. Its effect on corporal smooth muscle is not fully understood. Etilefrine has been used successfully to prevent stuttering priapism caused by SCD. It is usually taken orally at doses of 5-10mg daily, with response rates of up to 72% [1530-1532]. In one RCT, placebo-controlled clinical study comparing medical prophylaxis with etilefrine and ephedrine, there was no difference in efficacy between the two drugs. 10.2.1.b.2. Hormonal manipulations of circulating testosterone The aim of hormonal manipulation is to down-regulate circulating testosterone levels to suppress the action of androgens on penile erection [1415,1463,1533]. This can be achieved by GnRH agonists or antagonists, antiandrogens or oestrogens [1534,1535]. Potential adverse effects may include hot flushes, gynaecomastia, ED, loss of libido, and asthenia. All approaches have a similar efficacy profile, while the potential CV toxi",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "The primary goal in the management of patients with stuttering priapism is prevention of future episodes, which can generally be achieved pharmacologically.",
+              "2b"
+            ],
+            [
+              "Hormonal therapy with GnRH agonists or antagonists or antiandrogens can reduce the risk of recurrent priapism episodes although it is associated with TRAEs (hot flushes, gynaecomastia, ED, loss of libido, asthenia and infertility).",
+              "3"
+            ],
+            [
+              "Phosphodiesterase type 5 inhibitors have a paradoxical effect in alleviating and preventing stuttering priapism, mainly in patients with idiopathic and SCD-associated priapism.",
+              "3"
+            ],
+            [
+              "The evidence on use of other systemic drugs (digoxin, α-adrenergic agonists, baclofen, gabapentin and terbutaline, hydroxyurea) is limited.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Manage each acute episode according to the recommendations for the treatment of ischaemic priapism (section 10.1.2.e).",
+              "Strong"
+            ],
+            [
+              "Use hormonal therapies (mainly gonadotropin-receptor hormone agonists or antagonists) and/or anti-androgens for the prevention of future episodes in patients with frequent relapses. Do not use these before sexual maturation is reached.",
+              "Weak"
+            ],
+            [
+              "Initiate treatment with phosphodiesterase type 5 inhibitors only when the penis is in its flaccid state.",
+              "Weak"
+            ],
+            [
+              "Use digoxin, α-adrenergic agonists, baclofen, gabapentin or terbutaline only in patients with frequent and uncontrolled relapses.",
+              "Weak"
+            ],
+            [
+              "Use intracavernous self-injections of sympathomimetic drugs at home for treatment of acute episodes on an interim basis until ischaemic priapism has been alleviated.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#10-2-2-priapism-in-children",
+      "title": "10.2.2. Priapism in children",
+      "level": 4,
+      "text": "The classification of priapism in children is similar to that in adults. In addition to ischaemic, stuttering and non-ischaemic priapism, a fourth type, neonatal priapism, is also described [1395,1557]. Priapism in children is considered rare as no data on its prevalence exist. Sickle cell disease is the major cause of priapism in children, followed by leukaemia (10%), trauma (10%), idiopathic causes (19%), and drugs (5%) [1558]. One study showed that 25% of children experienced SCD-related priapism in a pre-pubertal period [1559]. Another study revealed that 90% of men with SCD had their first priapism episode before age 20 years [1522]. A retrospective study found that ischaemic priapism in children can usually be managed with conservative measures such as oxygenation, intravenous fluids, and medical management. Surgical intervention with shunting procedures is rarely required [1560]. Ultimately, priapism in children should be evaluated and treated in a timely manner, as untreated ischaemic priapism may lead to ED and psychosexual disorders in adulthood [1561]. A multidisciplinary team approach should be utilised with specialist input from haematologists and paediatric endocrinologists.",
+      "tables": []
+    },
+    {
+      "anchor": "#10-3-non-ischaemic-high-flow-or-arterial-priapism",
+      "title": "10.3. Non-ischaemic (high-flow or arterial) priapism",
+      "level": 3,
+      "text": "Non-ischaemic priapism is a persistent erection caused by unregulated cavernous arterial inflow [1395]. According to aetiology, non-ischaemic priapism can be categorised into four types: traumatic, neurogenic, iatrogenic and idiopathic in origin.",
+      "tables": []
+    },
+    {
+      "anchor": "#10-3-1-epidemiology-aetiology-and-pathophysiology",
+      "title": "10.3.1. Epidemiology, aetiology and pathophysiology",
+      "level": 4,
+      "text": "Epidemiological data on non-ischaemic priapism are almost exclusively derived from small case series [1395,1429,1470,1562-1564]. Non-ischaemic priapism is significantly less common than the ischaemic type, comprising only 5% of all priapism cases [1395]. The most frequent cause of non-ischaemic priapism is blunt perineal or penile trauma [1565]. The injury results in a laceration in the cavernosal artery or branches, leading to a fistula between the artery and the lacunar spaces of the sinusoidal space [1564]. The resultant increased blood flow leads to a persistent and prolonged erection [1566]. There is often a delay between the trauma and the development of the priapism that may be up to two to three weeks [1567]. This is suggested to reflect either spasm or ischaemic necrosis of the injured artery, with the fistula only developing as the spasm resolves or when the ischaemic segment “blows up”. The priapism typically occurs after a nocturnal erection or an erection related to sexual activity, resulting in the sudden increase of blood flow and pressure in the cavernous arteries [1568]. The patient typically reports an erection that is not fully rigid and is not associated with pain because the venous drainage is not compromised and the penile tissue does not become ischaemic [1569]. Non-ischaemic priapism can occur after acute spinal cord injury, presumably due to loss of sympathetic input leading to predominant parasympathetic input and increased arterial flow [1570]. It is also reported to occur following internal urethrotomy [1571], Nesbit procedure [1572], circumcision [1573], transrectal prostate biopsy [1574], and brachytherapy for PCa [1575]. Some cases have been described following shunting procedures performed for ischaemic priapism due to a lacerated cavernosal artery (conversion of low-flow to high-flow priapism) [1576-1578]. Although SCD is usually associated with ischaemic priapism, occasional cases of high-flow priapism have been reported; however, the pathophysiological mechanism remains unclear [1579]. Finally, metastatic malignancy to the penis can also rarely cause non-ischaemic priapism [1580,1581].",
+      "tables": []
+    },
+    {
+      "anchor": "#10-3-2-diagnostic-evaluation",
+      "title": "10.3.2. Diagnostic evaluation",
+      "level": 4,
+      "text": "10.3.2.a. History A comprehensive history is mandatory in non-ischaemic priapism diagnosis and follows the same principles as described in section 10.1.2.1. Arterial priapism should be suspected when the patient reports a history of pelvic, perineal, or genital trauma; no penile pain (discomfort is possible); and a persistent, not fully rigid erection. The corpus cavernosum can become fully rigid with sexual stimulation, so sexual intercourse is usually not compromised. The onset of post-traumatic non-ischaemic priapism can be delayed by several hours to weeks following the initial injury [1395]. 10.3.2.b. Physical examination In non-ischaemic priapism, the corpora are tumescent but not fully rigid. Abdominal, penile and perineal examination may reveal evidence of trauma [1395]. Neurological examination is indicated if a neurogenic aetiology is suspected. 10.3.2.c. Laboratory testing Laboratory testing should include a blood count with white blood cell differential and a coagulation profile to assess for anaemia and other haematological abnormalities. Blood aspiration from the corpus cavernosum shows bright red arterial blood in arterial priapism, while blood is dark in ischaemic priapism. Blood gas analysis is essential to differentiate between non-ischaemic and ischaemic priapism. Blood gas values in high-flow priapism show normal arterial blood [1395] (Table 10.3). 10.3.2.d. Penile imaging Colour duplex US of the penis and perineum is recommended and can differentiate non-ischaemic from ischaemic priapism [1427-1429,1431]. Ultrasound must be performed without intracavernosal vasoactive drug injection [1582]. In non-ischaemic priapism, US helps to localise the fistula site and appears as a characteristic colour blush and turbulent high-velocity flow on Doppler analysis [1583]. Patients with non-ischaemic priapism have normal to high blood velocities in the cavernous arteries [1430,1584]. Selective pudendal arteriography can reveal a characteristic blush at the site of injury in arterial priapism [1585,1586]. However, due to its invasiveness, it should be reserved for the management of non-ischaemic priapism when embolisation is being considered [1395,1424]. The role of MRI in the diagnostic evaluation of priapism is controversial. Its role in non-ischaemic priapism is limited because the small penile vessels and fistulae cannot be easily demonstrated [1587]. 10.3.2.e. Summary of evidence and recommendations for the diagnosis of non-ischaemic priapism Summary of evidence LE Non-ischemic priapism is less common than ischemic and is usually associated with blunt perineal or penile trauma leading to the development of intracavernosal fistula. 2b Medical history and blood gas analysis can differentiate between ischemic and non-ischemic priapism. 2b Blood aspiration from the corpora in case of non-ischemic priapism reveal bright red arterial blood with normal arterial gas values. 2b Penile duplex US can identify intracavernosal fistula responsible for non-ischemic priapism. 2b Recommendations Strength rating Take a comprehensive history to establish the diagnosis, which can help to determine the priapism subtype. Strong Include a physical examination of the genitalia, perineum and abdomen in the diagnostic evaluation. Strong Include a neurological examination if neurogenic non-ischaemic priapism is suspected. Strong Include complete blood count, with white blood cell differential, and coagulation profile for laboratory testing. Strong Analyse the blood gas parameters of blood aspirated from the penis to differentiate between ischaemic and non-ischaemic priapism. Strong Perform colour duplex ultrasound of the penis and perineum to differentiate between ischaemic and non-ischaemic priapism. Strong Perform selected pudendal arteriography when embolisation is planned for non-ischaemic priapism. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Non-ischemic priapism is less common than ischemic and is usually associated with blunt perineal or penile trauma leading to the development of intracavernosal fistula.",
+              "2b"
+            ],
+            [
+              "Medical history and blood gas analysis can differentiate between ischemic and non-ischemic priapism.",
+              "2b"
+            ],
+            [
+              "Blood aspiration from the corpora in case of non-ischemic priapism reveal bright red arterial blood with normal arterial gas values.",
+              "2b"
+            ],
+            [
+              "Penile duplex US can identify intracavernosal fistula responsible for non-ischemic priapism.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Take a comprehensive history to establish the diagnosis, which can help to determine the priapism subtype.",
+              "Strong"
+            ],
+            [
+              "Include a physical examination of the genitalia, perineum and abdomen in the diagnostic evaluation.",
+              "Strong"
+            ],
+            [
+              "Include a neurological examination if neurogenic non-ischaemic priapism is suspected.",
+              "Strong"
+            ],
+            [
+              "Include complete blood count, with white blood cell differential, and coagulation profile for laboratory testing.",
+              "Strong"
+            ],
+            [
+              "Analyse the blood gas parameters of blood aspirated from the penis to differentiate between ischaemic and non-ischaemic priapism.",
+              "Strong"
+            ],
+            [
+              "Perform colour duplex ultrasound of the penis and perineum to differentiate between ischaemic and non-ischaemic priapism.",
+              "Strong"
+            ],
+            [
+              "Perform selected pudendal arteriography when embolisation is planned for non-ischaemic priapism.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#10-3-3-disease-management",
+      "title": "10.3.3. Disease management",
+      "level": 4,
+      "text": "The conventional belief is that the management of non-ischaemic priapism is not an emergency because the corpus cavernosum does not contain ischaemic blood; however, data indicate that the duration of non-ischaemic priapism can also impact EF. In a case series consisting of six patients with high-flow priapism after median follow-up of 4.5 (2-12) weeks, all patients reported development of ED or distal penile flaccidity [1508]. The goal of treatment is closure of the fistula. Non-ischaemic priapism can be managed conservatively or by direct perineal compression. Failure of conservative treatment requires selective arterial embolisation [1588]. The optimal time interval between conservative treatment and arterial embolisation is under debate. Definitive management can be performed at the discretion of the treating physician and should be discussed with the patient so that they can understand the risks of treatment [1395,1424]. 10.3.3.a. Conservative management Conservative management may include applying ice to the perineum or perineal compression, which is typically US-guided. The fistula occasionally closes spontaneously. Even in cases where the fistula remains patent, intercourse is still possible [1429,1563,1589,1590]. Androgen deprivation therapy (e.g. leuprolide injections, bicalutamide and ketoconazole) has been reported in case series to enable closure of the fistula reducing spontaneous and sleep-related erections [1591]. Sexual dysfunction due to these treatments must be considered. Patients may develop ED or distal penile flaccidity while undergoing conservative treatment [1508]. Blood aspiration is not helpful for the treatment of arterial priapism, and the use of α-adrenergic antagonists is not recommended because of potential severe TRAEs (e.g. transfer of the drug into the systemic circulation). 10.3.3.b. Selective arterial embolisation Selective arterial embolisation can be performed using temporary substances, such as autologous blood clot [1592-1595] and gel foam [1593-1597], or permanent substances, such as microcoils [1593,1596,1598,1599], ethylene-vinyl alcohol copolymer, and N-butyl-cyanoacrylate [1600]. It is assumed that temporary embolisation provides a decreased risk of ED, with the disadvantage of higher failure/recurrence rates because of artery embolisation using temporary materials. However, there is insufficient evidence to support this hypothesis. Success rates ranging between 61.7 and 83.3%, and ED rates from 0-33.3% after the first arterial embolisation, have been reported, suggesting that failure/recurrence may not be significantly higher with temporary embolisation materials, and preservation of EF may not be that different between the two modalities [1568]. Other potential complications of arterial embolisation include penile gangrene, gluteal ischaemia, cavernositis, and perineal abscess [1395,1601]. Repeated embolisation is a reasonable option for treating non-ischaemic priapism, both in terms of efficacy and safety [1568,1595]. 10.3.3.c. Surgical management Surgical ligation of the fistula is possible through a transcorporeal or inguinoscrotal approach, using intra-operative Doppler US. Surgery is technically challenging and associated with significant risks, particularly of ED [1602]. Surgery is rarely performed and should only be considered when there are contraindications for selective embolisation, if embolisation is unavailable, or repeated embolisation has failed. If the patient desires more definitive treatment and is not sexually active or has pre-existing ED, surgical intervention can be an appropriate option [1568]. Following treatment of non-ischaemic priapism, ED rates ranging from 0-50% have been reported, with surgical ligation having the highest reported rates [1568]. Patients can require PPI for ED in the long term [1480]. 10.3.3.d. Summary of evidence and recommendations for the treatment of non-ischaemic priapism Summary of evidence LE Nonischaemic priapism can cause ED over time and early definitive management should be undertaken. 3 Conservative management applying ice to the perineum or site-specific perineal compression is an option in all cases. The use of androgen deprivation therapy may enable closure of the fistula reducing spontaneous and sleep-related erections. 3 Selective artery embolisation, using temporary or permanent substances, has high success rates. No definitive statement can be made on the best substance for embolisation in terms of sexual function preservation and success rate. 3 Repeated embolisation is a reasonable option for the treatment of non-ischaemic priapism. 2b Selective surgical ligation of the fistula is associated with high risk of ED. 3 Recommendations Strength rating Perform definitive management for non-ischaemic priapism at the discretion of the treating physician as it is not a medical emergency. Weak Manage non-ischaemic priapism conservatively with the use of site-specific perineal compression as the first ste",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Nonischaemic priapism can cause ED over time and early definitive management should be undertaken.",
+              "3"
+            ],
+            [
+              "Conservative management applying ice to the perineum or site-specific perineal compression is an option in all cases. The use of androgen deprivation therapy may enable closure of the fistula reducing spontaneous and sleep-related erections.",
+              "3"
+            ],
+            [
+              "Selective artery embolisation, using temporary or permanent substances, has high success rates. No definitive statement can be made on the best substance for embolisation in terms of sexual function preservation and success rate.",
+              "3"
+            ],
+            [
+              "Repeated embolisation is a reasonable option for the treatment of non-ischaemic priapism.",
+              "2b"
+            ],
+            [
+              "Selective surgical ligation of the fistula is associated with high risk of ED.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform definitive management for non-ischaemic priapism at the discretion of the treating physician as it is not a medical emergency.",
+              "Weak"
+            ],
+            [
+              "Manage non-ischaemic priapism conservatively with the use of site-specific perineal compression as the first step. Consider androgen deprivation therapy only in adults.",
+              "Weak"
+            ],
+            [
+              "Perform selective arterial embolisation when conservative management has failed.",
+              "Strong"
+            ],
+            [
+              "Perform the first selective arterial embolisation using temporary material.",
+              "Weak"
+            ],
+            [
+              "Repeat selective arterial embolisation with temporary or permanent material for recurrent non-ischaemic priapism following selective arterial embolisation.",
+              "Weak"
+            ],
+            [
+              "Reserve selective surgical ligation of a fistula as a final treatment option when repeated arterial embolisations have failed.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 15
+}

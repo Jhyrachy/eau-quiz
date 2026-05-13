@@ -1,0 +1,826 @@
+{
+  "guideline": "non-muscle-invasive-bladder-cancer",
+  "chapter": "predicting-disease-recurrence-and-progression",
+  "url": "https://uroweb.org/guidelines/non-muscle-invasive-bladder-cancer/chapter/predicting-disease-recurrence-and-progression",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and scope",
+      "anchor": "#1-1-aim-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1 Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AND AETIOLOGY",
+      "anchor": "#3-epidemiology-and-aetiology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology",
+      "anchor": "#3-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Aetiology",
+      "anchor": "#3-2-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Main risk factors",
+      "anchor": "#3-2-1-main-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.2.2. Genetic",
+      "anchor": "#3-2-2-genetic"
+    },
+    {
+      "level": 4,
+      "text": "3.2.3. Dietary habits",
+      "anchor": "#3-2-3-dietary-habits"
+    },
+    {
+      "level": 4,
+      "text": "3.2.4. Environmental exposure",
+      "anchor": "#3-2-4-environmental-exposure"
+    },
+    {
+      "level": 4,
+      "text": "3.2.5. Pelvic radiation",
+      "anchor": "#3-2-5-pelvic-radiation"
+    },
+    {
+      "level": 4,
+      "text": "3.2.6. Other",
+      "anchor": "#3-2-6-other"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Summary of evidence for epidemiology and aetiology",
+      "anchor": "#3-3-summary-of-evidence-for-epidemiology-and-aetiology"
+    },
+    {
+      "level": 2,
+      "text": "4. PATHOLOGICAL STAGING, GRADING AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-pathological-staging-grading-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Definition of non-muscle-invasive bladder cancer",
+      "anchor": "#4-1-definition-of-non-muscle-invasive-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Tumour, Node, Metastasis classification",
+      "anchor": "#4-2-tumour-node-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.3. T 1 subclassification",
+      "anchor": "#4-3-t-1-subclassification"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Lymphovascular invasion",
+      "anchor": "#4-4-lymphovascular-invasion"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Histological grading of non-muscle-invasive bladder urothelial carcinomas",
+      "anchor": "#4-5-histological-grading-of-non-muscle-invasive-bladder-urothelial-carcinomas"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Types of histological grading systems",
+      "anchor": "#4-5-1-types-of-histological-grading-systems"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Prognostic value of histological grading",
+      "anchor": "#4-5-2-prognostic-value-of-histological-grading"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Clinical application of histological grading systems",
+      "anchor": "#4-5-3-clinical-application-of-histological-grading-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Carcinoma",
+      "anchor": "#4-6-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Inter- and intra-observer variability in staging and grading",
+      "anchor": "#4-7-inter--and-intra-observer-variability-in-staging-and-grading"
+    },
+    {
+      "level": 3,
+      "text": "4.8. Subtypes of urothelial carcinoma",
+      "anchor": "#4-8-subtypes-of-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "4.9. Tumour markers and molecular classification",
+      "anchor": "#4-9-tumour-markers-and-molecular-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.10. Summary of evidence and recommendations for bladder cancer classification",
+      "anchor": "#4-10-summary-of-evidence-and-recommendations-for-bladder-cancer-classification"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSIS",
+      "anchor": "#5-diagnosis"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Patient history",
+      "anchor": "#5-1-patient-history"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Signs and symptoms",
+      "anchor": "#5-2-signs-and-symptoms"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Physical examination",
+      "anchor": "#5-3-physical-examination"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Imaging",
+      "anchor": "#5-4-imaging"
+    },
+    {
+      "level": 4,
+      "text": "5.4.1. Computed tomography urography and intravenous urography",
+      "anchor": "#5-4-1-computed-tomography-urography-and-intravenous-urography"
+    },
+    {
+      "level": 4,
+      "text": "5.4.2. Ultrasound",
+      "anchor": "#5-4-2-ultrasound"
+    },
+    {
+      "level": 4,
+      "text": "5.4.3. Multi-parametric magnetic resonance imaging",
+      "anchor": "#5-4-3-multi-parametric-magnetic-resonance-imaging"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Urinary cytology",
+      "anchor": "#5-5-urinary-cytology"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Urinary molecular marker tests",
+      "anchor": "#5-6-urinary-molecular-marker-tests"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Potential application of urinary cytology and markers",
+      "anchor": "#5-7-potential-application-of-urinary-cytology-and-markers"
+    },
+    {
+      "level": 4,
+      "text": "5.7.1. Screening of the population at risk of bladder cancer",
+      "anchor": "#5-7-1-screening-of-the-population-at-risk-of-bladder-cancer"
+    },
+    {
+      "level": 4,
+      "text": "5.7.2. Investigation of patients after haematuria or other symptoms suggestive of bladder cancer (primary detection)",
+      "anchor": "#5-7-2-investigation-of-patients-after-haematuria-or-other-symptoms-suggestive-of-bladder-cancer-primary-detection"
+    },
+    {
+      "level": 4,
+      "text": "5.7.3. Follow-up of non-muscle-invasive bladder cancer",
+      "anchor": "#5-7-3-follow-up-of-non-muscle-invasive-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "5.8. Cystoscopy",
+      "anchor": "#5-8-cystoscopy"
+    },
+    {
+      "level": 3,
+      "text": "5.9. Summary of evidence and recommendations for the primary assessment of non-muscle-invasive bladder cancer",
+      "anchor": "#5-9-summary-of-evidence-and-recommendations-for-the-primary-assessment-of-non-muscle-invasive-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "5.10. Transurethral resection of TaT1 bladder tumours",
+      "anchor": "#5-10-transurethral-resection-of-tat1-bladder-tumours"
+    },
+    {
+      "level": 4,
+      "text": "5.10.1. Strategy of the procedure",
+      "anchor": "#5-10-1-strategy-of-the-procedure"
+    },
+    {
+      "level": 4,
+      "text": "5.10.2. Surgical and technical aspects of tumour resection",
+      "anchor": "#5-10-2-surgical-and-technical-aspects-of-tumour-resection"
+    },
+    {
+      "level": 3,
+      "text": "5.11. Endoscopic biopsies",
+      "anchor": "#5-11-endoscopic-biopsies"
+    },
+    {
+      "level": 4,
+      "text": "5.11.1. Bladder biopsies",
+      "anchor": "#5-11-1-bladder-biopsies"
+    },
+    {
+      "level": 4,
+      "text": "5.11.2. Prostatic urethral biopsies",
+      "anchor": "#5-11-2-prostatic-urethral-biopsies"
+    },
+    {
+      "level": 3,
+      "text": "5.12. New methods of tumour visualisation",
+      "anchor": "#5-12-new-methods-of-tumour-visualisation"
+    },
+    {
+      "level": 4,
+      "text": "5.12.1. Photodynamic diagnosis (fluorescence cystoscopy or blue light cystoscopy)",
+      "anchor": "#5-12-1-photodynamic-diagnosis-fluorescence-cystoscopy-or-blue-light-cystoscopy"
+    },
+    {
+      "level": 4,
+      "text": "5.12.2. Narrow-band imaging",
+      "anchor": "#5-12-2-narrow-band-imaging"
+    },
+    {
+      "level": 4,
+      "text": "5.12.3. IMAGE1 S™, and other technologies",
+      "anchor": "#5-12-3-image1-s-and-other-technologies"
+    },
+    {
+      "level": 3,
+      "text": "5.13. Second resection (second TURBT)",
+      "anchor": "#5-13-second-resection-second-turbt"
+    },
+    {
+      "level": 4,
+      "text": "5.13.1. Detection of residual disease and tumour upstaging",
+      "anchor": "#5-13-1-detection-of-residual-disease-and-tumour-upstaging"
+    },
+    {
+      "level": 4,
+      "text": "5.13.2. The impact of second resection on treatment outcomes",
+      "anchor": "#5-13-2-the-impact-of-second-resection-on-treatment-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "5.13.3. Timing of second resection",
+      "anchor": "#5-13-3-timing-of-second-resection"
+    },
+    {
+      "level": 4,
+      "text": "5.13.4. Recording of results",
+      "anchor": "#5-13-4-recording-of-results"
+    },
+    {
+      "level": 3,
+      "text": "5.14. Pathology report",
+      "anchor": "#5-14-pathology-report"
+    },
+    {
+      "level": 3,
+      "text": "5.15. Summary of evidence and recommendations for TURBT, biopsies and pathology report",
+      "anchor": "#5-15-summary-of-evidence-and-recommendations-for-turbt-biopsies-and-pathology-report"
+    },
+    {
+      "level": 2,
+      "text": "6. PREDICTING DISEASE RECURRENCE AND PROGRESSION",
+      "anchor": "#6-predicting-disease-recurrence-and-progression"
+    },
+    {
+      "level": 3,
+      "text": "6.1. TaT1 tumours",
+      "anchor": "#6-1-tat1-tumours"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Scoring models using the 1973 WHO classification system",
+      "anchor": "#6-1-1-scoring-models-using-the-1973-who-classification-system"
+    },
+    {
+      "level": 4,
+      "text": "6.1.3. Further prognostic factors",
+      "anchor": "#6-1-3-further-prognostic-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Primary carcinoma",
+      "anchor": "#6-2-primary-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Histological subtypes",
+      "anchor": "#6-3-histological-subtypes"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Patient stratification into risk groups",
+      "anchor": "#6-4-patient-stratification-into-risk-groups"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Summary of evidence and recommendations for stratification of NMIBC",
+      "anchor": "#6-5-summary-of-evidence-and-recommendations-for-stratification-of-nmibc"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT",
+      "anchor": "#7-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Counselling of smoking cessation",
+      "anchor": "#7-1-counselling-of-smoking-cessation"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Office-based fulguration and laser vaporisation",
+      "anchor": "#7-2-office-based-fulguration-and-laser-vaporisation"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Active surveillance",
+      "anchor": "#7-3-active-surveillance"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Adjuvant intravesical treatment",
+      "anchor": "#7-4-adjuvant-intravesical-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.4.1. Postoperative irrigation",
+      "anchor": "#7-4-1-postoperative-irrigation"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Intravesical chemotherapy",
+      "anchor": "#7-4-2-intravesical-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.4.3. Intravesical BCG immunotherapy",
+      "anchor": "#7-4-3-intravesical-bcg-immunotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.4.4. Combination therapy",
+      "anchor": "#7-4-4-combination-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.5. Intravesical chemoablation and neoadjuvant treatment",
+      "anchor": "#7-5-intravesical-chemoablation-and-neoadjuvant-treatment"
+    },
+    {
+      "level": 3,
+      "text": "7.6. Radical cystectomy for NMIBC",
+      "anchor": "#7-6-radical-cystectomy-for-nmibc"
+    },
+    {
+      "level": 3,
+      "text": "7.7. Primary treatment by disease type",
+      "anchor": "#7-7-primary-treatment-by-disease-type"
+    },
+    {
+      "level": 4,
+      "text": "7.7.1. Primary treatment by risk category",
+      "anchor": "#7-7-1-primary-treatment-by-risk-category"
+    },
+    {
+      "level": 4,
+      "text": "7.7.2. Treatment of carcinoma",
+      "anchor": "#7-7-2-treatment-of-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "7.8. Treatment of failure of intravesical therapy",
+      "anchor": "#7-8-treatment-of-failure-of-intravesical-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.8.1. Recurrence during or after intravesical chemotherapy",
+      "anchor": "#7-8-1-recurrence-during-or-after-intravesical-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.8.2. Recurrence during or after intravesical BCG therapy",
+      "anchor": "#7-8-2-recurrence-during-or-after-intravesical-bcg-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.8.3. Summary of evidence - treatment failure of intravesical therapy",
+      "anchor": "#7-8-3-summary-of-evidence---treatment-failure-of-intravesical-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.9. Multidisciplinary tumour board",
+      "anchor": "#7-9-multidisciplinary-tumour-board"
+    },
+    {
+      "level": 3,
+      "text": "7.10. Recommendations for adjuvant therapy in TaT1 tumours and for therapy of carcinoma",
+      "anchor": "#7-10-recommendations-for-adjuvant-therapy-in-tat1-tumours-and-for-therapy-of-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "7.11. Recommendations for the treatment of TaT1 tumours and carcinoma",
+      "anchor": "#7-11-recommendations-for-the-treatment-of-tat1-tumours-and-carcinoma"
+    },
+    {
+      "level": 2,
+      "text": "8. FOLLOW-UP OF PATIENTS WITH NMIBC",
+      "anchor": "#8-follow-up-of-patients-with-nmibc"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Intravesical surveillance during follow-up",
+      "anchor": "#8-1-intravesical-surveillance-during-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Follow-up of low-risk NMIBC",
+      "anchor": "#8-1-1-follow-up-of-low-risk-nmibc"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Follow-up of intermediate-risk NMIBC",
+      "anchor": "#8-1-2-follow-up-of-intermediate-risk-nmibc"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Follow-up of high- and very high-risk NMIBC",
+      "anchor": "#8-1-3-follow-up-of-high--and-very-high-risk-nmibc"
+    },
+    {
+      "level": 4,
+      "text": "8.1.4. Follow-up of extravesical sites urothelium",
+      "anchor": "#8-1-4-follow-up-of-extravesical-sites-urothelium"
+    },
+    {
+      "level": 4,
+      "text": "8.1.5. Aids for tumour detection during follow-up",
+      "anchor": "#8-1-5-aids-for-tumour-detection-during-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Summary of evidence and recommendations for follow-up of patients after TURBT for NMIBC",
+      "anchor": "#8-2-summary-of-evidence-and-recommendations-for-follow-up-of-patients-after-turbt-for-nmibc"
+    },
+    {
+      "level": 2,
+      "text": "9. PATIENT REPORTED OUTCOME MEASURES AND QUALITY INDICATORS FOR NMIBC",
+      "anchor": "#9-patient-reported-outcome-measures-and-quality-indicators-for-nmibc"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Patient Reported Outcome Measures and Patient Reported Experience Measures in NMIBC",
+      "anchor": "#9-1-patient-reported-outcome-measures-and-patient-reported-experience-measures-in-nmibc"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Quality Indicators in bladder cancer",
+      "anchor": "#9-2-quality-indicators-in-bladder-cancer"
+    },
+    {
+      "level": 2,
+      "text": "10. PRAGMATIC DEINTENSIFICATION STRATEGY IN NMIBC",
+      "anchor": "#10-pragmatic-deintensification-strategy-in-nmibc"
+    },
+    {
+      "level": 2,
+      "text": "11. REFERENCES",
+      "anchor": "#11-references"
+    },
+    {
+      "level": 2,
+      "text": "12. CONFLICT OF INTEREST",
+      "anchor": "#12-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "13. CITATION INFORMATION",
+      "anchor": "#13-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "14. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#14-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#non-muscle-invasive-bladder-cancer",
+      "title": "Non-muscle-invasive Bladder Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 6. Predicting Disease Recurrence And Progression Introduction Methods Epidemiology And Aetiology Pathological Staging, Grading And Classification Systems Diagnosis Predicting Disease Recurrence And Progression Disease Management Follow-up Of Patients With Nmibc Patient Reported Outcome Measures And Quality Indicators For Nmibc Pragmatic Deintensification Strategy In Nmibc References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#6-predicting-disease-recurrence-and-progression",
+      "title": "6. PREDICTING DISEASE RECURRENCE AND PROGRESSION",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-tat1-tumours",
+      "title": "6.1. TaT1 tumours",
+      "level": 3,
+      "text": "Treatment should take into account the patient’s risk of recurrence and prognosis. To predict the risk of disease recurrence and/or progression, several prognostic models for specified patient populations have been introduced.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-1-scoring-models-using-the-1973-who-classification-system",
+      "title": "6.1.1. Scoring models using the 1973 WHO classification system",
+      "level": 4,
+      "text": "6.1.1.a. The 2006 European Organisation for Research and Treatment of Cancer (EORTC) scoring model In 2006, the EORTC Genito-Urinary Cancer Group (GUCG) published a scoring system and risk tables, based on the 1973 WHO classification, to be able to predict both the short- and long-term risks of disease recurrence and progression in individual patients [251]. This scoring system is based on the six most significant clinical and pathological factors in patients mainly treated by intravesical chemotherapy, which are: number of tumours tumour diameter prior recurrence rate T category concurrent CIS 1973 WHO tumour grade Individual probabilities of recurrence and progression at one and five years may be calculated using the 2006 EORTC scoring model ( https://www.omnicalculator.com/health/eortc-bladder-cancer ). 6.1.1.b. Prediction model for patients with Ta G1/G2 (1973 WHO) tumours treated with chemotherapy Patients with Ta G1/G2 tumours receiving chemotherapy were stratified into three risk groups for recurrence, taking into account the history of recurrences, history of intravesical treatment, tumour grade (1973 WHO), number of tumours and adjuvant chemotherapy [252]. 6.1.1.c. Club Urologico Español de Tratamiento Oncologico (CUETO) scoring model for BCG-treated patients The Spanish Urological Oncology Group, CUETO, published a model that predicts the risk of recurrence and progression based on 12 doses of intravesical BCG over a five- to six-month period following TURBT. The model is based on an analysis of 1,062 patients from four CUETO trials that compared different intravesical BCG treatments. No immediate postoperative instillation or second TURBT was performed in these patients. The scoring system is based on the evaluation of the following seven prognostic factors: gender age prior recurrence status number of tumours T category associated CIS 1973 WHO tumour grade Using this model, the calculated risk of recurrence is lower than that obtained by the EORTC tables. For progression, probability is lower only in high-risk patients [253]. The lower risks in the CUETO tables may be attributed to the use of BCG in this study. The prognostic value of the EORTC scoring system has been confirmed by data from the CUETO patients treated with BCG [254] and by long-term follow-up in another patient population [255]. 6.1.1.d. The 2016 EORTC scoring model for patients treated with maintenance BCG In 1,812 intermediate- and high-risk patients without CIS treated with one to three years of maintenance BCG, the EORTC found that the prior disease-recurrence rate and number of tumours were the most important prognostic factors for disease recurrence, stage and 1973 WHO grade for disease progression and disease-specific survival, while age and 1973 WHO grade were the most important prognostic factors for OS. T1 G3 patients did poorly, with one- and five-year disease progression rates of 11.4% and 19.8%, respectively. Using these data, EORTC risk groups and nomograms for BCG-treated patients were developed [256].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-2-scoring-model-using-the-20042016-who-and-1973-who-classification-systems",
+      "title": "6.1.2. Scoring model using the 2004/2016 WHO and 1973 WHO classification systems",
+      "level": 4,
+      "text": "6.1.2.a. EAU NMIBC 2021 scoring model To update the risk of disease progression and create new prognostic factor risk groups using both the 1973 and 2004/2016 WHO classification systems, IPD from 3,401 primary patients treated from 1990 to 2018 were used [257] (see Section 4.5). Only patients treated with TURBT ± intravesical chemotherapy were included. Those treated with adjuvant intravesical BCG were excluded because BCG may reduce the risk of disease progression. From the multivariate analyses, tumour stage, 1973 WHO grade, 2004/2022 WHO grade, concomitant CIS, number of tumours, tumour size and age were independent predictors of disease progression [257]. This is the only available model where the 2004/2022 WHO classification system is included as one of the parameters to calculate an individual patient’s risk group and probability of progression. As the 2004/2022 WHO classification system is the main grading classification system used by pathologists, the Guidelines Panel recommends using the 2021 EAU NMIBC scoring model for risk groups definition (see Section 6.4). The 2021 EAU NMIBC scoring model determines the risk of tumour progression (in a non-BCG treated cohort, thus reflecting the natural history of the disease), but not recurrence; therefore, any of the models mentioned in Section 6.1.1 may be used to calculate an individual’s risk of disease recurrence.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-3-further-prognostic-factors",
+      "title": "6.1.3. Further prognostic factors",
+      "level": 4,
+      "text": "Additional prognostic factors have been described in selected patient populations: In T1 HG/G3 tumours, important prognostic factors were female sex, CIS in the prostatic urethra in male patients treated with an induction course of BCG, age, tumour size, and concurrent CIS in BCG-treated patients (62% with an induction course only) [203, 258]. Attention must be given to patients with T1 HG/G3 tumours in bladder diverticulum because of the absence of muscle layer in the diverticular wall [259]. In patients with T1 tumours, the finding of residual T1 disease at second TURBT is an unfavourable prognostic factor [240-242]. The prognostic value of pathological factors has been discussed elsewhere (see Section 4.6). More research is needed to determine the role of molecular markers in improving the predictive accuracy of currently available risk tables [255, 260].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-2-primary-carcinoma-in-situ",
+      "title": "6.2. Primary carcinoma in situ",
+      "level": 3,
+      "text": "Without any treatment, approximately 54% of patients with CIS progress to muscle-invasive disease [261]. No reliable prognostic factors are available, but some studies reported a worse prognosis in concurrent CIS and T1 tumours compared to primary CIS [262, 263], in extended CIS [264] and in CIS in the prostatic urethra [203]. The response to intravesical treatment with BCG or chemotherapy is an important prognostic factor for subsequent progression and death caused by BC [253, 254, 265].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-3-histological-subtypes",
+      "title": "6.3. Histological subtypes",
+      "level": 3,
+      "text": "Bladder cancer is primarily composed of UC, but various histological subtypes exist, each carrying unique prognostic implications (see Section 4.8) [266]. Understanding the differences between these subtypes is critical for risk stratification, as their biological behaviour can differ significantly from conventional UC. While most UC cases exhibit typical papillary architecture, certain subtypes, such as micropapillary, plasmacytoid, sarcomatoid, and NE subtypes, are associated with a higher risk of progression and recurrence [267, 268]. Literature on these subtypes remains limited; however, retrospective studies suggest that their aggressive behaviour correlates with a more rapid progression to MIBC. Certain pathological features further influence the prognosis of NMIBC, especially in the presence of specific histological subtypes [269, 270]. Identifying favourable and unfavourable prognostic factors can assist in tailoring patient management. The following table highlights key factors influencing prognosis based on subtype. Table 6.1: Key factors influencing prognosis based on histological subtypes [60] Prognostic factors in subtypes Risk of progression Highly aggressive High percentage of subtype(s)       Very high risk of progression Presence of CIS Lymphovascular invasion Pure micropapillary, sarcomatoid, nested and plasmacytoid subtype, or NE subtype Multifocal tumours Residual tumour or incomplete TURBT Aggressive Absence of CIS and LVI   High risk of progression Solitary tumour Complete TURBT with no residual tumour CIS = carcinoma in situ; LVI = lymphovascular invasion; NE = neuroendocrine; TURBT = transurethral resection of the bladder tumour.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Prognostic factors in subtypes",
+              "Risk of progression"
+            ],
+            [
+              "Highly aggressive"
+            ],
+            [
+              "High percentage of subtype(s)",
+              "   Very high risk of progression"
+            ],
+            [
+              "Presence of CIS"
+            ],
+            [
+              "Lymphovascular invasion"
+            ],
+            [
+              "Pure micropapillary, sarcomatoid, nested and plasmacytoid subtype, or NE subtype"
+            ],
+            [
+              "Multifocal tumours"
+            ],
+            [
+              "Residual tumour or incomplete TURBT"
+            ],
+            [
+              "Aggressive"
+            ],
+            [
+              "Absence of CIS and LVI",
+              " High risk of progression"
+            ],
+            [
+              "Solitary tumour"
+            ],
+            [
+              "Complete TURBT with no residual tumour"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-4-patient-stratification-into-risk-groups",
+      "title": "6.4. Patient stratification into risk groups",
+      "level": 3,
+      "text": "To be able to facilitate treatment recommendations, the Guidelines Panel recommends the stratification of patients into risk groups based on their probability of progression to muscle-invasive disease. The new risk group definitions provided in these EAU Guidelines are based on an IPD analysis in primary patients that did not receive immediate BCG and the calculation of their progression scores (2021 EAU NMIBC scoring model, as presented in Sections 4.5 and 6.1.2) [257]. For calculation of the risk group in individual patients, either one, or both, of the 1973 and 2004/2016 WHO classification systems may be used. The probability of progression at five years varies between the risk groups from less than 1% to more than 40%. For factors for which IPD were not collected, such as subtypes of UC, LVI, primary CIS and CIS in the prostatic urethra, literature data have been used to classify patients into risk groups. Table 6.2 provides the clinical compositions of the EAU NMIBC prognostic factor risk groups based on the 2004/2016 or 1973 WHO classification systems. A web-based ( www.nmibc.net ), iOS and Android App has been developed to facilitate determining a patient’s risk group in daily clinical practice. Table 6.3 presents the individual probability of disease progression at one, five and ten years for the EAU NMIBC risk groups. Two studies have validated the 2021 EAU NMIBC scoring model in 529 and 1,268 patients who received BCG [271,272], respectively. The authors found that the progression risk for the 2021 EAU NMIBC high- and very high-risk groups were substantially lower in BCG-treated patients than that in Table 6.3 [257]. A systematic review of the available risk stratification systems also observed an overestimation of progression rates for the 2021 EAU NMIBC model [273]. These lower risks may be attributed to the use of BCG. A new risk model aimed to improve risk assessment using AI approaches has been developed that includes 14 clinico-pathological variables for the prediction of progression (PROGRxN-BCa) [274]. The model also accounted for variables such as re-TURBT and BCG therapy that were not included in the 2021 EAU NMIBC risk model. In comparison to the 2021 EAU NMIBC risk model, PROGRxN-BCa had significantly higher c-index and net benefit overall and across different subgroups. It also outperformed other guidelines-endorsed tools and a previously published AI model [274]. Pending further validation, PROGRxN-BCa may hold the potential to optimise risk-adapted management of NMIBC by incorporating additional clinical variables. Table 6.2: Clinical composition of the 2021 EAU NMIBC prognostic factor risk groups based on the 2004/2016 or 1973 WHO grading classification systems [257] Only one of the two classification systems (1973 WHO or 2004/2016 WHO) is required to use this table. The category of LG tumours (2004/2016 WHO) also includes patients with tumours classified as PUNLMP. Additional clinical risk factors are age > 70; multiple papillary tumours; and tumour diameter > 3 cm. Risk group Low Risk A primary, single, TaT1 LG/G1 tumour < 3 cm in diameter without CIS in a patient ≤ 70 years A primary Ta LG/G1 tumour without CIS with at most ONE of the additional clinical risk factors Intermediate Risk Patients without CIS who are not included in either the low-, high-, or very high-risk groups High Risk All T1 HG/G3 without CIS, EXCEPT those included in the very high-risk group All CIS patients, EXCEPT those included in the very high-risk group Stage, grade with additional clinical risk factors: Ta LG/G2 or T1 G1, no CIS with all three risk factors Ta HG/G3 or T1 LG, no CIS with at least two risk factors T1 G2 no CIS with at least one risk factor Very High Risk Stage, grade with additional clinical risk factors: Ta HG/G3 and CIS with all three risk factors T1 G2 and CIS with at least two risk factors T1 HG/G3 and CIS with at least one risk factor T1 HG/G3 no CIS with all three risk factors CIS = carcinoma in situ; EAU = European Association of Urology; G = grade; HG = high-grade; LG = low-grade; NMIBC = non-muscle-invasive bladder cancer; PUNLMP = papillary urothelial neoplasm of low malignant potential; WHO = World Health Organization. The scoring model is based on IPD, but does not consider patients with primary CIS, CIS of the prostatic urethra or with recurrent tumours, as well as some pathologic parameters such as subtypes of UC (see Section 4.8) and LVI. Nevertheless, based on data from the literature: All patients with CIS in the prostatic urethra, with certain subtypes of UC (see Section 4.8 and Table 6.1), or with LVI, should be included in the very high-risk group. Patients with primary (pure) CIS should be considered in the high-risk group. Patients with recurrent tumours should be included in the intermediate-, high-, or very high-risk groups according to their other prognostic factors. Table 6.3: Probabilities of disease progression at 1, 5 and 10 year(s) for the 2021 EAU NMIBC risk",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Risk group"
+            ],
+            [
+              "Low Risk",
+              "A primary, single, TaT1 LG/G1 tumour < 3 cm in diameter without CIS in a patient ≤ 70 yearsA primary Ta LG/G1 tumour without CIS with at most ONE of the additional clinical risk factors"
+            ],
+            [
+              "Intermediate Risk",
+              "Patients without CIS who are not included in either the low-, high-, or very high-risk groups"
+            ],
+            [
+              "High Risk",
+              "All T1 HG/G3 without CIS, EXCEPT those included in the very high-risk groupAll CIS patients, EXCEPT those included in the very high-risk group"
+            ],
+            [
+              "Stage, grade with additional clinical risk factors:Ta LG/G2 or T1 G1, no CIS with all three risk factorsTa HG/G3 or T1 LG, no CIS with at least two risk factorsT1 G2 no CIS with at least one risk factor"
+            ],
+            [
+              "Very High Risk",
+              "Stage, grade with additional clinical risk factors:Ta HG/G3 and CIS with all three risk factorsT1 G2 and CIS with at least two risk factorsT1 HG/G3 and CIS with at least one risk factorT1 HG/G3 no CIS with all three risk factors"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Probabilities of disease progression at 1, 5 and 10 year(s) for the 2021 EAU NMIBC risk groups"
+            ],
+            [
+              "Risk group",
+              "Probability of progression and 95% CI"
+            ],
+            [
+              "1 Year",
+              "5 Years",
+              "10 Years"
+            ],
+            [
+              "New Risk Groups with WHO 2004/2016"
+            ],
+            [
+              "Low",
+              "0.06% (CI: 0.01%-0.43%)",
+              "0.93% (CI: 0.49%-1.7%)",
+              "3.7% (CI: 2.3%-5.9%)"
+            ],
+            [
+              "Intermediate",
+              "1.0% (CI: 0.50%-2.0%)",
+              "4.9% (CI: 3.4%-7.0%)",
+              "8.5% (CI: 5.6%-13%)"
+            ],
+            [
+              "High",
+              "3.5% (CI: 2.4%-5.2%)",
+              "9.6% (CI: 7.4%-12%)",
+              "14% (CI: 11%-18%)"
+            ],
+            [
+              "Very High",
+              "16% (CI: 10%-26%)",
+              "40% (CI: 29-54%)",
+              "53% (CI: 36%-73%)"
+            ],
+            [
+              "New Risk Groups with WHO 1973"
+            ],
+            [
+              "Low",
+              "0.12% (CI: 0.02%-0.82%)",
+              "0.57% (CI: 0.21%-1.5%)",
+              "3.0% (CI: 1.5%-6.3%)"
+            ],
+            [
+              "Intermediate",
+              "0.65% (CI: 0.36%-1.2%)",
+              "3.6% (CI: 2.7%-4.9%)",
+              "7.4% (CI: 5.5%-10%)"
+            ],
+            [
+              "High",
+              "3.8% (CI: 2.6%-5.7%)",
+              "11% (CI: 8.1%-14%)",
+              "14% (CI: 10%-19%)"
+            ],
+            [
+              "Very High",
+              "20% (CI: 12%-32%)",
+              "44% (CI: 30%-61%)",
+              "59% (CI: 39%-79%)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-5-summary-of-evidence-and-recommendations-for-stratification-of-nmibc",
+      "title": "6.5. Summary of evidence and recommendations for stratification of NMIBC",
+      "level": 3,
+      "text": "Summary of evidence LE The 2021 EAU NMIBC scoring model and risk tables predict the short- and long-term risks of disease progression in individual patients with primary NMIBC who did not receive BCG therapy, using the 2004/2022 or the 1973 WHO classification system (see Section 6.1.2.a). 2b The 2006 EORTC scoring model and risk tables predict the short- and long-term risks of disease recurrence and progression in individual patients with NMIBC using the 1973 WHO classification system (see Section 6.1.1.a). 1b In patients treated with five to six months of BCG, the CUETO scoring model predicts the short- and long-term risks of disease recurrence and progression using the 1973 WHO classification system (see Section 6.1.1.c). 1b In patients receiving at least one year of BCG maintenance; prior recurrence rate and number of tumours are the most important prognostic factors for disease recurrence. Stage and grade are the most important prognostic factors for disease progression and disease-specific survival; patient age and grade (1973 WHO) are the most important prognostic factors for OS (see Section 6.1.1.d). 1b Recommendations Strength rating Stratify non-muscle-invasive bladder cancer (NMIBC) patients into four risk groups to predict progression without Bacillus Calmette-Guérin (BCG) therapy, according to Table 6.3. A patient’s risk group can be determined using the 2021 European Association of Urology (EAU) risk group calculator available at www.nmibc.net . Strong Use the 2006 European Organisation for Research and Treatment of Cancer (EORTC) scoring model to predict the risk of tumour recurrence in individual patients not treated with BCG. Strong Use the 2016 EORTC scoring model or the Club Urologico Español de Tratamiento Oncologico (CUETO) risk scoring model to predict the risk of tumour recurrence and progression in individual patients treated with BCG intravesical immunotherapy (the 2016 EORTC model is calculated for one to three years of maintenance, the CUETO model for five to six months). Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "The 2021 EAU NMIBC scoring model and risk tables predict the short- and long-term risks of disease progression in individual patients with primary NMIBC who did not receive BCG therapy, using the 2004/2022 or the 1973 WHO classification system (see Section 6.1.2.a).",
+              "2b"
+            ],
+            [
+              "The 2006 EORTC scoring model and risk tables predict the short- and long-term risks of disease recurrence and progression in individual patients with NMIBC using the 1973 WHO classification system (see Section 6.1.1.a).",
+              "1b"
+            ],
+            [
+              "In patients treated with five to six months of BCG, the CUETO scoring model predicts the short- and long-term risks of disease recurrence and progression using the 1973 WHO classification system (see Section 6.1.1.c).",
+              "1b"
+            ],
+            [
+              "In patients receiving at least one year of BCG maintenance; prior recurrence rate and number of tumours are the most important prognostic factors for disease recurrence. Stage and grade are the most important prognostic factors for disease progression and disease-specific survival; patient age and grade (1973 WHO) are the most important prognostic factors for OS (see Section 6.1.1.d).",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Stratify non-muscle-invasive bladder cancer (NMIBC) patients into four risk groups to predict progression without Bacillus Calmette-Guérin (BCG) therapy, according to Table 6.3. A patient’s risk group can be determined using the 2021 European Association of Urology (EAU) risk group calculator available at www.nmibc.net.",
+              "Strong"
+            ],
+            [
+              "Use the 2006 European Organisation for Research and Treatment of Cancer (EORTC) scoring model to predict the risk of tumour recurrence in individual patients not treated with BCG.",
+              "Strong"
+            ],
+            [
+              "Use the 2016 EORTC scoring model or the Club Urologico Español de Tratamiento Oncologico (CUETO) risk scoring model to predict the risk of tumour recurrence and progression in individual patients treated with BCG intravesical immunotherapy (the 2016 EORTC model is calculated for one to three years of maintenance, the CUETO model for five to six months).",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 5
+}

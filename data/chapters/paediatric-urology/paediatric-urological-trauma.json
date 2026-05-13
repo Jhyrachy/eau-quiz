@@ -1,0 +1,2058 @@
+{
+  "guideline": "paediatric-urology",
+  "chapter": "paediatric-urological-trauma",
+  "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/paediatric-urological-trauma",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim",
+      "anchor": "#1-1-aim"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Summary of changes",
+      "anchor": "#1-5-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Introduction",
+      "anchor": "#2-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 2,
+      "text": "3. PHIMOSIS AND OTHER ABNORMALITIES OF THE PENILE SKIN",
+      "anchor": "#3-phimosis-and-other-abnormalities-of-the-penile-skin"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Terminology, epidemiology and pathophysiology",
+      "anchor": "#3-1-terminology-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Classification and diagnostic evaluation",
+      "anchor": "#3-2-classification-and-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Management",
+      "anchor": "#3-3-management"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Complications",
+      "anchor": "#3-4-complications"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Follow-up",
+      "anchor": "#3-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "3.6. Summary of evidence and recommendations for the management of phimosis",
+      "anchor": "#3-6-summary-of-evidence-and-recommendations-for-the-management-of-phimosis"
+    },
+    {
+      "level": 2,
+      "text": "4. MANAGEMENT OF UNDESCENDED TESTES",
+      "anchor": "#4-management-of-undescended-testes"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Background",
+      "anchor": "#4-1-background"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Classification",
+      "anchor": "#4-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. Palpable testes",
+      "anchor": "#4-2-1-palpable-testes"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. Nonpalpable testes",
+      "anchor": "#4-2-2-nonpalpable-testes"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Diagnostic evaluation",
+      "anchor": "#4-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. History",
+      "anchor": "#4-3-1-history"
+    },
+    {
+      "level": 4,
+      "text": "4.3.2. Physical examination",
+      "anchor": "#4-3-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "4.3.3. Imaging studies",
+      "anchor": "#4-3-3-imaging-studies"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Management",
+      "anchor": "#4-4-management"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Medical therapy",
+      "anchor": "#4-4-1-medical-therapy"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Surgical therapy",
+      "anchor": "#4-4-2-surgical-therapy"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Undescended testes and fertility",
+      "anchor": "#4-5-undescended-testes-and-fertility"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Undescended testes and malignancy",
+      "anchor": "#4-6-undescended-testes-and-malignancy"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Summary of evidence and recommendations for the management of undescended testes",
+      "anchor": "#4-7-summary-of-evidence-and-recommendations-for-the-management-of-undescended-testes"
+    },
+    {
+      "level": 2,
+      "text": "5. TESTICULAR TUMOURS IN PREPUBERTAL BOYS",
+      "anchor": "#5-testicular-tumours-in-prepubertal-boys"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Epidemiology and pathophysiology",
+      "anchor": "#5-1-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Clinical presentation",
+      "anchor": "#5-2-clinical-presentation"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Evaluation",
+      "anchor": "#5-3-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Tumour entities in prepubertal boys",
+      "anchor": "#5-5-tumour-entities-in-prepubertal-boys"
+    },
+    {
+      "level": 4,
+      "text": "5.5.1. Germ cell tumours",
+      "anchor": "#5-5-1-germ-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "5.5.2. Gonadal stromal tumours",
+      "anchor": "#5-5-2-gonadal-stromal-tumours"
+    },
+    {
+      "level": 4,
+      "text": "5.5.3. Other tumours",
+      "anchor": "#5-5-3-other-tumours"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Follow-up",
+      "anchor": "#5-6-follow-up"
+    },
+    {
+      "level": 2,
+      "text": "6. FERTILITY PRESERVATION IN CHILDREN AND ADOLESCENTS",
+      "anchor": "#6-fertility-preservation-in-children-and-adolescents"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Ovarian tissue cryopreservation in prepubertal and adolescent girls",
+      "anchor": "#6-1-ovarian-tissue-cryopreservation-in-prepubertal-and-adolescent-girls"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Cryopreservation in prepubertal and adolescent boys",
+      "anchor": "#6-2-cryopreservation-in-prepubertal-and-adolescent-boys"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Summary of evidence and recommendations fertility preservation in children and adolescents",
+      "anchor": "#6-3-summary-of-evidence-and-recommendations-fertility-preservation-in-children-and-adolescents"
+    },
+    {
+      "level": 2,
+      "text": "7. HYDROCELE",
+      "anchor": "#7-hydrocele"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#7-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Diagnostic evaluation",
+      "anchor": "#7-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Management",
+      "anchor": "#7-3-management"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Summary of evidence and recommendations for the management of hydrocele",
+      "anchor": "#7-4-summary-of-evidence-and-recommendations-for-the-management-of-hydrocele"
+    },
+    {
+      "level": 2,
+      "text": "8. ACUTE SCROTUM",
+      "anchor": "#8-acute-scrotum"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#8-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Diagnostic evaluation",
+      "anchor": "#8-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Management",
+      "anchor": "#8-3-management"
+    },
+    {
+      "level": 4,
+      "text": "8.3.1. Epididymitis",
+      "anchor": "#8-3-1-epididymitis"
+    },
+    {
+      "level": 4,
+      "text": "8.3.2. Testicular torsion",
+      "anchor": "#8-3-2-testicular-torsion"
+    },
+    {
+      "level": 4,
+      "text": "8.3.3. Surgical treatment",
+      "anchor": "#8-3-3-surgical-treatment"
+    },
+    {
+      "level": 3,
+      "text": "8.4. Follow-up",
+      "anchor": "#8-4-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "8.4.1. Fertility",
+      "anchor": "#8-4-1-fertility"
+    },
+    {
+      "level": 4,
+      "text": "8.4.2. Subfertility",
+      "anchor": "#8-4-2-subfertility"
+    },
+    {
+      "level": 4,
+      "text": "8.4.3. Androgen levels",
+      "anchor": "#8-4-3-androgen-levels"
+    },
+    {
+      "level": 2,
+      "text": "9. HYPOSPADIAS",
+      "anchor": "#9-hypospadias"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Epidemiology, aetiology, and pathophysiology",
+      "anchor": "#9-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "9.1.1. Epidemiology",
+      "anchor": "#9-1-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Risk factors",
+      "anchor": "#9-2-risk-factors"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Classification systems",
+      "anchor": "#9-3-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "9.4. Diagnostic evaluation",
+      "anchor": "#9-4-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "9.5. Management",
+      "anchor": "#9-5-management"
+    },
+    {
+      "level": 4,
+      "text": "9.5.1. Indication for reconstruction and therapeutic objectives",
+      "anchor": "#9-5-1-indication-for-reconstruction-and-therapeutic-objectives"
+    },
+    {
+      "level": 4,
+      "text": "9.5.2. Preoperative hormonal treatment",
+      "anchor": "#9-5-2-preoperative-hormonal-treatment"
+    },
+    {
+      "level": 4,
+      "text": "9.5.3. Age at surgery",
+      "anchor": "#9-5-3-age-at-surgery"
+    },
+    {
+      "level": 4,
+      "text": "9.5.4. Penile curvature",
+      "anchor": "#9-5-4-penile-curvature"
+    },
+    {
+      "level": 4,
+      "text": "9.5.5. Urethral reconstruction",
+      "anchor": "#9-5-5-urethral-reconstruction"
+    },
+    {
+      "level": 4,
+      "text": "9.5.6. Redo hypospadias repairs",
+      "anchor": "#9-5-6-redo-hypospadias-repairs"
+    },
+    {
+      "level": 4,
+      "text": "9.5.7. Penile reconstruction following formation of the neo-urethra",
+      "anchor": "#9-5-7-penile-reconstruction-following-formation-of-the-neo-urethra"
+    },
+    {
+      "level": 4,
+      "text": "9.5.8. Urine drainage and wound dressing",
+      "anchor": "#9-5-8-urine-drainage-and-wound-dressing"
+    },
+    {
+      "level": 4,
+      "text": "9.5.9. Analgesia (regional blocks)",
+      "anchor": "#9-5-9-analgesia-regional-blocks"
+    },
+    {
+      "level": 3,
+      "text": "9.6. Outcomes and complications",
+      "anchor": "#9-6-outcomes-and-complications"
+    },
+    {
+      "level": 4,
+      "text": "9.6.1. Factors influencing outcomes",
+      "anchor": "#9-6-1-factors-influencing-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "9.6.2. Complications",
+      "anchor": "#9-6-2-complications"
+    },
+    {
+      "level": 3,
+      "text": "9.7. Long-term follow-up and transition",
+      "anchor": "#9-7-long-term-follow-up-and-transition"
+    },
+    {
+      "level": 4,
+      "text": "9.7.1. Voiding",
+      "anchor": "#9-7-1-voiding"
+    },
+    {
+      "level": 4,
+      "text": "9.7.2. Penile appearance",
+      "anchor": "#9-7-2-penile-appearance"
+    },
+    {
+      "level": 4,
+      "text": "9.7.3. Sexual function and fertility",
+      "anchor": "#9-7-3-sexual-function-and-fertility"
+    },
+    {
+      "level": 4,
+      "text": "9.7.4. Health-related quality of life",
+      "anchor": "#9-7-4-health-related-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "9.7.5. Transition",
+      "anchor": "#9-7-5-transition"
+    },
+    {
+      "level": 3,
+      "text": "9.8. Summary of evidence and recommendations for the management of hypospadias",
+      "anchor": "#9-8-summary-of-evidence-and-recommendations-for-the-management-of-hypospadias"
+    },
+    {
+      "level": 2,
+      "text": "10. CONGENITAL PENILE CURVATURE",
+      "anchor": "#10-congenital-penile-curvature"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#10-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Diagnostic evaluation",
+      "anchor": "#10-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Management",
+      "anchor": "#10-3-management"
+    },
+    {
+      "level": 3,
+      "text": "10.4. Summary of evidence and recommendations for the management of congenital penile curvature",
+      "anchor": "#10-4-summary-of-evidence-and-recommendations-for-the-management-of-congenital-penile-curvature"
+    },
+    {
+      "level": 2,
+      "text": "11. VARICOCELE IN CHILDREN AND ADOLESCENTS",
+      "anchor": "#11-varicocele-in-children-and-adolescents"
+    },
+    {
+      "level": 3,
+      "text": "11.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#11-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "11.2. Classification systems",
+      "anchor": "#11-2-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "11.3. Diagnostic evaluation",
+      "anchor": "#11-3-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "11.4. Management",
+      "anchor": "#11-4-management"
+    },
+    {
+      "level": 4,
+      "text": "11.4.1. Surgical management",
+      "anchor": "#11-4-1-surgical-management"
+    },
+    {
+      "level": 4,
+      "text": "11.4.2. Radiological management",
+      "anchor": "#11-4-2-radiological-management"
+    },
+    {
+      "level": 3,
+      "text": "11.5. Summary of evidence and recommendations for the management of varicocele",
+      "anchor": "#11-5-summary-of-evidence-and-recommendations-for-the-management-of-varicocele"
+    },
+    {
+      "level": 2,
+      "text": "12. URINARY TRACT INFECTIONS IN CHILDREN",
+      "anchor": "#12-urinary-tract-infections-in-children"
+    },
+    {
+      "level": 3,
+      "text": "12.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#12-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "12.2. Presentation symptoms",
+      "anchor": "#12-2-presentation-symptoms"
+    },
+    {
+      "level": 3,
+      "text": "12.3. Classification systems",
+      "anchor": "#12-3-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "12.3.1. Classification according to clinical presentation",
+      "anchor": "#12-3-1-classification-according-to-clinical-presentation"
+    },
+    {
+      "level": 4,
+      "text": "12.3.2. Classification according to episode: first, recurrent, breakthrough",
+      "anchor": "#12-3-2-classification-according-to-episode-first-recurrent-breakthrough"
+    },
+    {
+      "level": 4,
+      "text": "12.3.3. Classification according to age and toilet-training status",
+      "anchor": "#12-3-3-classification-according-to-age-and-toilet-training-status"
+    },
+    {
+      "level": 4,
+      "text": "12.3.4. Classification according to the clinical course",
+      "anchor": "#12-3-4-classification-according-to-the-clinical-course"
+    },
+    {
+      "level": 4,
+      "text": "12.3.5. Classification according to urinary tract abnormalities",
+      "anchor": "#12-3-5-classification-according-to-urinary-tract-abnormalities"
+    },
+    {
+      "level": 3,
+      "text": "12.4. Diagnostic evaluation",
+      "anchor": "#12-4-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "12.4.1. Medical history",
+      "anchor": "#12-4-1-medical-history"
+    },
+    {
+      "level": 4,
+      "text": "12.4.2. Physical examination",
+      "anchor": "#12-4-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "12.4.3. Urine sampling, analysis and culture",
+      "anchor": "#12-4-3-urine-sampling-analysis-and-culture"
+    },
+    {
+      "level": 4,
+      "text": "12.4.4. Blood tests",
+      "anchor": "#12-4-4-blood-tests"
+    },
+    {
+      "level": 3,
+      "text": "12.5. Additional workup",
+      "anchor": "#12-5-additional-workup"
+    },
+    {
+      "level": 4,
+      "text": "12.5.1. Ultrasound (US)",
+      "anchor": "#12-5-1-ultrasound-us"
+    },
+    {
+      "level": 3,
+      "text": "12.6. Management",
+      "anchor": "#12-6-management"
+    },
+    {
+      "level": 4,
+      "text": "12.6.1. Administration route of antibacterial therapy",
+      "anchor": "#12-6-1-administration-route-of-antibacterial-therapy"
+    },
+    {
+      "level": 4,
+      "text": "12.6.2. Adjustment of antimicrobial agents",
+      "anchor": "#12-6-2-adjustment-of-antimicrobial-agents"
+    },
+    {
+      "level": 4,
+      "text": "12.6.3. Duration of therapy",
+      "anchor": "#12-6-3-duration-of-therapy"
+    },
+    {
+      "level": 4,
+      "text": "12.6.4. Adjunct steroid treatment",
+      "anchor": "#12-6-4-adjunct-steroid-treatment"
+    },
+    {
+      "level": 4,
+      "text": "12.6.5. Temporary urinary diversion",
+      "anchor": "#12-6-5-temporary-urinary-diversion"
+    },
+    {
+      "level": 4,
+      "text": "12.6.6. Monitoring",
+      "anchor": "#12-6-6-monitoring"
+    },
+    {
+      "level": 3,
+      "text": "12.7. Measures to prevent UTI recurrences",
+      "anchor": "#12-7-measures-to-prevent-uti-recurrences"
+    },
+    {
+      "level": 4,
+      "text": "12.7.1. Chemoprophylaxis",
+      "anchor": "#12-7-1-chemoprophylaxis"
+    },
+    {
+      "level": 4,
+      "text": "12.7.2. Nonantibiotic prophylaxis",
+      "anchor": "#12-7-2-nonantibiotic-prophylaxis"
+    },
+    {
+      "level": 4,
+      "text": "12.7.3. Phimosis",
+      "anchor": "#12-7-3-phimosis"
+    },
+    {
+      "level": 4,
+      "text": "12.7.4. Bladder and bowel dysfunction and lower urinary tract disorders",
+      "anchor": "#12-7-4-bladder-and-bowel-dysfunction-and-lower-urinary-tract-disorders"
+    },
+    {
+      "level": 3,
+      "text": "12.8. Summary of evidence and recommendations for the management of UTI in children",
+      "anchor": "#12-8-summary-of-evidence-and-recommendations-for-the-management-of-uti-in-children"
+    },
+    {
+      "level": 2,
+      "text": "13. DAYTIME LOWER URINARY TRACT CONDITIONS",
+      "anchor": "#13-daytime-lower-urinary-tract-conditions"
+    },
+    {
+      "level": 3,
+      "text": "13.1. Terminology, classification, epidemiology and pathophysiology",
+      "anchor": "#13-1-terminology-classification-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "13.1.1. Filling-phase (storage) dysfunctions",
+      "anchor": "#13-1-1-filling-phase-storage-dysfunctions"
+    },
+    {
+      "level": 4,
+      "text": "13.1.2. Voiding-phase (emptying) dysfunctions",
+      "anchor": "#13-1-2-voiding-phase-emptying-dysfunctions"
+    },
+    {
+      "level": 3,
+      "text": "13.2. Diagnostic evaluation",
+      "anchor": "#13-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "13.2.1. History and physical examination",
+      "anchor": "#13-2-1-history-and-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "13.2.2. Ultrasound and urinalysis",
+      "anchor": "#13-2-2-ultrasound-and-urinalysis"
+    },
+    {
+      "level": 4,
+      "text": "13.2.3. Urodynamics",
+      "anchor": "#13-2-3-urodynamics"
+    },
+    {
+      "level": 3,
+      "text": "13.3. Management",
+      "anchor": "#13-3-management"
+    },
+    {
+      "level": 4,
+      "text": "13.3.1. Urotherapy and specific add-on interventions",
+      "anchor": "#13-3-1-urotherapy-and-specific-add-on-interventions"
+    },
+    {
+      "level": 4,
+      "text": "13.3.2. Medication",
+      "anchor": "#13-3-2-medication"
+    },
+    {
+      "level": 4,
+      "text": "13.3.3. Neuromodulation",
+      "anchor": "#13-3-3-neuromodulation"
+    },
+    {
+      "level": 4,
+      "text": "13.3.4. Surgery",
+      "anchor": "#13-3-4-surgery"
+    },
+    {
+      "level": 3,
+      "text": "13.4. Quality of life",
+      "anchor": "#13-4-quality-of-life"
+    },
+    {
+      "level": 3,
+      "text": "13.5. Follow-up",
+      "anchor": "#13-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "13.6. Summary of evidence and recommendations for the management of daytime lower urinary tract conditions",
+      "anchor": "#13-6-summary-of-evidence-and-recommendations-for-the-management-of-daytime-lower-urinary-tract-conditions"
+    },
+    {
+      "level": 2,
+      "text": "14. MONOSYMPTOMATIC NOCTURNAL ENURESIS - BEDWETTING",
+      "anchor": "#14-monosymptomatic-nocturnal-enuresis---bedwetting"
+    },
+    {
+      "level": 3,
+      "text": "14.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#14-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "14.2. Diagnostic evaluation",
+      "anchor": "#14-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "14.3. Management",
+      "anchor": "#14-3-management"
+    },
+    {
+      "level": 4,
+      "text": "14.3.1. Supportive treatment measures",
+      "anchor": "#14-3-1-supportive-treatment-measures"
+    },
+    {
+      "level": 4,
+      "text": "14.3.2. Wetting alarm treatment",
+      "anchor": "#14-3-2-wetting-alarm-treatment"
+    },
+    {
+      "level": 4,
+      "text": "14.3.3. Medical treatment",
+      "anchor": "#14-3-3-medical-treatment"
+    },
+    {
+      "level": 4,
+      "text": "14.3.4. Electrical neuromodulation",
+      "anchor": "#14-3-4-electrical-neuromodulation"
+    },
+    {
+      "level": 4,
+      "text": "14.3.5. Complementary treatments:",
+      "anchor": "#14-3-5-complementary-treatments"
+    },
+    {
+      "level": 4,
+      "text": "14.3.6. Conservative ‘wait-and-see’ approach",
+      "anchor": "#14-3-6-conservative-wait-and-see-approach"
+    },
+    {
+      "level": 3,
+      "text": "14.4. Summary of evidence and recommendations for the management of monosymptomatic enuresis",
+      "anchor": "#14-4-summary-of-evidence-and-recommendations-for-the-management-of-monosymptomatic-enuresis"
+    },
+    {
+      "level": 2,
+      "text": "15. SPINAL DYSRAPHISM IN CHILDREN AND ADOLESCENTS (FORMALLY NEUROGENIC BLADDER)",
+      "anchor": "#15-spinal-dysraphism-in-children-and-adolescents-formally-neurogenic-bladder"
+    },
+    {
+      "level": 2,
+      "text": "16. DILATATION OF THE UPPER URINARY TRACT (PUJ OBSTRUCTION)",
+      "anchor": "#16-dilatation-of-the-upper-urinary-tract-puj-obstruction"
+    },
+    {
+      "level": 3,
+      "text": "16.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#16-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "16.2. Diagnostic evaluation",
+      "anchor": "#16-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "16.2.1. Antenatal ultrasound",
+      "anchor": "#16-2-1-antenatal-ultrasound"
+    },
+    {
+      "level": 4,
+      "text": "16.2.2. Postnatal ultrasound",
+      "anchor": "#16-2-2-postnatal-ultrasound"
+    },
+    {
+      "level": 4,
+      "text": "16.2.3. Voiding cystourethrogram",
+      "anchor": "#16-2-3-voiding-cystourethrogram"
+    },
+    {
+      "level": 4,
+      "text": "16.2.4. Diuretic renography",
+      "anchor": "#16-2-4-diuretic-renography"
+    },
+    {
+      "level": 4,
+      "text": "16.2.5. Severity classification and risk stratification",
+      "anchor": "#16-2-5-severity-classification-and-risk-stratification"
+    },
+    {
+      "level": 4,
+      "text": "16.2.6. Biomarkers",
+      "anchor": "#16-2-6-biomarkers"
+    },
+    {
+      "level": 3,
+      "text": "16.3. Management",
+      "anchor": "#16-3-management"
+    },
+    {
+      "level": 4,
+      "text": "16.3.1. Prenatal management",
+      "anchor": "#16-3-1-prenatal-management"
+    },
+    {
+      "level": 4,
+      "text": "16.3.2. PUJ obstruction",
+      "anchor": "#16-3-2-puj-obstruction"
+    },
+    {
+      "level": 3,
+      "text": "16.4. Summary of evidence and recommendations for the management of PUJ obstruction",
+      "anchor": "#16-4-summary-of-evidence-and-recommendations-for-the-management-of-puj-obstruction"
+    },
+    {
+      "level": 2,
+      "text": "17. VESICOURETERIC REFLUX",
+      "anchor": "#17-vesicoureteric-reflux"
+    },
+    {
+      "level": 3,
+      "text": "17.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#17-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "17.2. Diagnostic evaluation",
+      "anchor": "#17-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "17.2.1. Recommendation for diagnosis of VUR",
+      "anchor": "#17-2-1-recommendation-for-diagnosis-of-vur"
+    },
+    {
+      "level": 4,
+      "text": "17.2.2. Infants presenting with prenatally diagnosed hydronephrosis",
+      "anchor": "#17-2-2-infants-presenting-with-prenatally-diagnosed-hydronephrosis"
+    },
+    {
+      "level": 4,
+      "text": "17.2.3. Siblings and offspring of reflux patients",
+      "anchor": "#17-2-3-siblings-and-offspring-of-reflux-patients"
+    },
+    {
+      "level": 4,
+      "text": "17.2.4. Recommendation for paediatric screening of VUR",
+      "anchor": "#17-2-4-recommendation-for-paediatric-screening-of-vur"
+    },
+    {
+      "level": 4,
+      "text": "17.2.5. Children with febrile urinary tract infections",
+      "anchor": "#17-2-5-children-with-febrile-urinary-tract-infections"
+    },
+    {
+      "level": 4,
+      "text": "17.2.6. Children with lower urinary tract symptoms and vesicoureteric reflux",
+      "anchor": "#17-2-6-children-with-lower-urinary-tract-symptoms-and-vesicoureteric-reflux"
+    },
+    {
+      "level": 3,
+      "text": "17.3. Disease management",
+      "anchor": "#17-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "17.3.1. Nonsurgical therapy",
+      "anchor": "#17-3-1-nonsurgical-therapy"
+    },
+    {
+      "level": 4,
+      "text": "17.3.2. Surgical treatment",
+      "anchor": "#17-3-2-surgical-treatment"
+    },
+    {
+      "level": 3,
+      "text": "17.4. Summary of evidence and recommendations for the management of vesicoureteric reflux in childhood",
+      "anchor": "#17-4-summary-of-evidence-and-recommendations-for-the-management-of-vesicoureteric-reflux-in-childhood"
+    },
+    {
+      "level": 2,
+      "text": "18. URINARY STONE DISEASE",
+      "anchor": "#18-urinary-stone-disease"
+    },
+    {
+      "level": 3,
+      "text": "18.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#18-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "18.2. Classification systems",
+      "anchor": "#18-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "18.2.1. Calcium stones",
+      "anchor": "#18-2-1-calcium-stones"
+    },
+    {
+      "level": 4,
+      "text": "18.2.2. Uric acid stones",
+      "anchor": "#18-2-2-uric-acid-stones"
+    },
+    {
+      "level": 4,
+      "text": "18.2.3. Cystine stones",
+      "anchor": "#18-2-3-cystine-stones"
+    },
+    {
+      "level": 4,
+      "text": "18.2.4. Infection stones (struvite stones)",
+      "anchor": "#18-2-4-infection-stones-struvite-stones"
+    },
+    {
+      "level": 3,
+      "text": "18.3. Diagnostic evaluation",
+      "anchor": "#18-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "18.3.1. Imaging",
+      "anchor": "#18-3-1-imaging"
+    },
+    {
+      "level": 4,
+      "text": "18.3.2. Metabolic evaluation",
+      "anchor": "#18-3-2-metabolic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "18.3.3. Urolithiasis in infants",
+      "anchor": "#18-3-3-urolithiasis-in-infants"
+    },
+    {
+      "level": 3,
+      "text": "18.4. Management",
+      "anchor": "#18-4-management"
+    },
+    {
+      "level": 4,
+      "text": "18.4.1. Extracorporeal shockwave lithotripsy",
+      "anchor": "#18-4-1-extracorporeal-shockwave-lithotripsy"
+    },
+    {
+      "level": 4,
+      "text": "18.4.2. Percutaneous nephrolithotomy",
+      "anchor": "#18-4-2-percutaneous-nephrolithotomy"
+    },
+    {
+      "level": 4,
+      "text": "18.4.3. Ureterorenoscopy",
+      "anchor": "#18-4-3-ureterorenoscopy"
+    },
+    {
+      "level": 4,
+      "text": "18.4.4. Open or laparoscopic stone surgery",
+      "anchor": "#18-4-4-open-or-laparoscopic-stone-surgery"
+    },
+    {
+      "level": 3,
+      "text": "18.5. Summary of evidence and recommendations for the management of urinary stones",
+      "anchor": "#18-5-summary-of-evidence-and-recommendations-for-the-management-of-urinary-stones"
+    },
+    {
+      "level": 2,
+      "text": "19. URETEROCELE AND ECTOPIC URETER",
+      "anchor": "#19-ureterocele-and-ectopic-ureter"
+    },
+    {
+      "level": 3,
+      "text": "19.1. Ureterocele",
+      "anchor": "#19-1-ureterocele"
+    },
+    {
+      "level": 4,
+      "text": "19.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#19-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "19.1.2. Classification systems",
+      "anchor": "#19-1-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "19.1.3. Diagnostic evaluation",
+      "anchor": "#19-1-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "19.1.4. Management",
+      "anchor": "#19-1-4-management"
+    },
+    {
+      "level": 3,
+      "text": "19.2. Ectopic ureter",
+      "anchor": "#19-2-ectopic-ureter"
+    },
+    {
+      "level": 4,
+      "text": "19.2.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#19-2-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "19.2.2. Classification",
+      "anchor": "#19-2-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "19.2.3. Clinical presentation and diagnostic evaluation",
+      "anchor": "#19-2-3-clinical-presentation-and-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "19.2.4. Management",
+      "anchor": "#19-2-4-management"
+    },
+    {
+      "level": 3,
+      "text": "19.3. Summary of evidence and recommendations for the management of obstructive pathology of renal duplication: ureterocele and ectopic ureter",
+      "anchor": "#19-3-summary-of-evidence-and-recommendations-for-the-management-of-obstructive-pathology-of-renal-duplication-ureterocele-and-ectopic-ureter"
+    },
+    {
+      "level": 3,
+      "text": "20.1. Introduction",
+      "anchor": "#20-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "20.2. International consensus statements on DSD management",
+      "anchor": "#20-2-international-consensus-statements-on-dsd-management"
+    },
+    {
+      "level": 3,
+      "text": "20.3. Current classification of DSD conditions",
+      "anchor": "#20-3-current-classification-of-dsd-conditions"
+    },
+    {
+      "level": 3,
+      "text": "20.4. Diagnostic evaluation",
+      "anchor": "#20-4-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "20.4.1. The neonatal emergency",
+      "anchor": "#20-4-1-the-neonatal-emergency"
+    },
+    {
+      "level": 4,
+      "text": "20.4.2. Family history and clinical examination",
+      "anchor": "#20-4-2-family-history-and-clinical-examination"
+    },
+    {
+      "level": 3,
+      "text": "20.5. Gender assignment",
+      "anchor": "#20-5-gender-assignment"
+    },
+    {
+      "level": 3,
+      "text": "20.6. Risk of tumour development",
+      "anchor": "#20-6-risk-of-tumour-development"
+    },
+    {
+      "level": 3,
+      "text": "20.7. Quality of life",
+      "anchor": "#20-7-quality-of-life"
+    },
+    {
+      "level": 2,
+      "text": "21. CONGENITAL LOWER URINARY TRACT OBSTRUCTION",
+      "anchor": "#21-congenital-lower-urinary-tract-obstruction"
+    },
+    {
+      "level": 3,
+      "text": "21.1. Epidemiology and pathophysiology",
+      "anchor": "#21-1-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "21.2. Classification systems of the urethral valves",
+      "anchor": "#21-2-classification-systems-of-the-urethral-valves"
+    },
+    {
+      "level": 3,
+      "text": "21.3. Diagnostic evaluation",
+      "anchor": "#21-3-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "21.4. Management",
+      "anchor": "#21-4-management"
+    },
+    {
+      "level": 4,
+      "text": "21.4.1. Prenatal treatment",
+      "anchor": "#21-4-1-prenatal-treatment"
+    },
+    {
+      "level": 4,
+      "text": "21.4.2. Postnatal treatment",
+      "anchor": "#21-4-2-postnatal-treatment"
+    },
+    {
+      "level": 3,
+      "text": "21.5. Follow-up",
+      "anchor": "#21-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "21.6. Summary of evidence and recommendations for the management of posterior urethral valves",
+      "anchor": "#21-6-summary-of-evidence-and-recommendations-for-the-management-of-posterior-urethral-valves"
+    },
+    {
+      "level": 2,
+      "text": "22. RARE CONDITIONS IN CHILDHOOD",
+      "anchor": "#22-rare-conditions-in-childhood"
+    },
+    {
+      "level": 3,
+      "text": "22.1. Urachal remnants",
+      "anchor": "#22-1-urachal-remnants"
+    },
+    {
+      "level": 4,
+      "text": "22.1.1. Introduction",
+      "anchor": "#22-1-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "22.1.2. Epidemiology",
+      "anchor": "#22-1-2-epidemiology"
+    },
+    {
+      "level": 4,
+      "text": "22.1.3. Symptoms",
+      "anchor": "#22-1-3-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "22.1.4. Diagnosis",
+      "anchor": "#22-1-4-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "22.1.5. Treatment",
+      "anchor": "#22-1-5-treatment"
+    },
+    {
+      "level": 4,
+      "text": "22.1.6. Pathology of removed remnants",
+      "anchor": "#22-1-6-pathology-of-removed-remnants"
+    },
+    {
+      "level": 4,
+      "text": "22.1.7. Urachal cancer",
+      "anchor": "#22-1-7-urachal-cancer"
+    },
+    {
+      "level": 4,
+      "text": "22.1.8. Summary of evidence and recommendation for management of urachal remnants",
+      "anchor": "#22-1-8-summary-of-evidence-and-recommendation-for-management-of-urachal-remnants"
+    },
+    {
+      "level": 3,
+      "text": "22.2. Papillary tumours of the bladder in children and adolescents (Papillary urothelial neoplasm of low malignant potential)",
+      "anchor": "#22-2-papillary-tumours-of-the-bladder-in-children-and-adolescents-papillary-urothelial-neoplasm-of-low-malignant-potential"
+    },
+    {
+      "level": 4,
+      "text": "22.2.1. Incidence",
+      "anchor": "#22-2-1-incidence"
+    },
+    {
+      "level": 4,
+      "text": "22.2.2. Differences and similarities of papillary tumours of the bladder in children and adults",
+      "anchor": "#22-2-2-differences-and-similarities-of-papillary-tumours-of-the-bladder-in-children-and-adults"
+    },
+    {
+      "level": 4,
+      "text": "22.2.3. Risk factors",
+      "anchor": "#22-2-3-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "22.2.4. Presentation",
+      "anchor": "#22-2-4-presentation"
+    },
+    {
+      "level": 4,
+      "text": "22.2.5. Investigations and treatment",
+      "anchor": "#22-2-5-investigations-and-treatment"
+    },
+    {
+      "level": 4,
+      "text": "22.2.6. Histology",
+      "anchor": "#22-2-6-histology"
+    },
+    {
+      "level": 4,
+      "text": "22.2.7. Additional treatment",
+      "anchor": "#22-2-7-additional-treatment"
+    },
+    {
+      "level": 4,
+      "text": "22.2.8. Prognosis, recurrence and surveillance",
+      "anchor": "#22-2-8-prognosis-recurrence-and-surveillance"
+    },
+    {
+      "level": 4,
+      "text": "22.2.9. Summary of evidence and recommendations for papillary tumours of the bladder in children",
+      "anchor": "#22-2-9-summary-of-evidence-and-recommendations-for-papillary-tumours-of-the-bladder-in-children"
+    },
+    {
+      "level": 3,
+      "text": "22.3. Penile rare conditions",
+      "anchor": "#22-3-penile-rare-conditions"
+    },
+    {
+      "level": 4,
+      "text": "22.3.1. Cystic lesions",
+      "anchor": "#22-3-1-cystic-lesions"
+    },
+    {
+      "level": 4,
+      "text": "22.3.2. Vascular malformations",
+      "anchor": "#22-3-2-vascular-malformations"
+    },
+    {
+      "level": 4,
+      "text": "22.3.3. Neurogenic lesions",
+      "anchor": "#22-3-3-neurogenic-lesions"
+    },
+    {
+      "level": 4,
+      "text": "22.3.4. Soft tissue tumours of penis",
+      "anchor": "#22-3-4-soft-tissue-tumours-of-penis"
+    },
+    {
+      "level": 4,
+      "text": "22.3.5. Penile lymphedema",
+      "anchor": "#22-3-5-penile-lymphedema"
+    },
+    {
+      "level": 2,
+      "text": "23. EMERGENCIES IN PAEDIATRIC UROLOGY",
+      "anchor": "#23-emergencies-in-paediatric-urology"
+    },
+    {
+      "level": 3,
+      "text": "23.1. Acute scrotum",
+      "anchor": "#23-1-acute-scrotum"
+    },
+    {
+      "level": 3,
+      "text": "23.2. Paraphimosis",
+      "anchor": "#23-2-paraphimosis"
+    },
+    {
+      "level": 3,
+      "text": "23.3. Priapism",
+      "anchor": "#23-3-priapism"
+    },
+    {
+      "level": 4,
+      "text": "23.3.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#23-3-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "23.3.2. Classification",
+      "anchor": "#23-3-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "23.3.3. Diagnostic evaluation",
+      "anchor": "#23-3-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "23.3.4. Disease management",
+      "anchor": "#23-3-4-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "23.4. Summary of evidence and recommendations for the diagnosis and management of priapism",
+      "anchor": "#23-4-summary-of-evidence-and-recommendations-for-the-diagnosis-and-management-of-priapism"
+    },
+    {
+      "level": 2,
+      "text": "24. PAEDIATRIC UROLOGICAL TRAUMA",
+      "anchor": "#24-paediatric-urological-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.1. Paediatric renal trauma",
+      "anchor": "#24-1-paediatric-renal-trauma"
+    },
+    {
+      "level": 4,
+      "text": "24.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#24-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "24.1.2. Classification systems",
+      "anchor": "#24-1-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "24.1.3. Diagnostic evaluation",
+      "anchor": "#24-1-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.1.4. Disease management",
+      "anchor": "#24-1-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "24.1.5. Recommendations for the diagnosis and management of paediatric renal trauma",
+      "anchor": "#24-1-5-recommendations-for-the-diagnosis-and-management-of-paediatric-renal-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.2. Paediatric ureteral trauma",
+      "anchor": "#24-2-paediatric-ureteral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "24.2.1. Diagnostic evaluation",
+      "anchor": "#24-2-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.2.2. Management",
+      "anchor": "#24-2-2-management"
+    },
+    {
+      "level": 4,
+      "text": "24.2.3. Recommendations for the diagnosis and management of paediatric ureteral trauma",
+      "anchor": "#24-2-3-recommendations-for-the-diagnosis-and-management-of-paediatric-ureteral-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.3. Paediatric bladder injuries",
+      "anchor": "#24-3-paediatric-bladder-injuries"
+    },
+    {
+      "level": 4,
+      "text": "24.3.1. Diagnostic evaluation",
+      "anchor": "#24-3-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.3.2. Management",
+      "anchor": "#24-3-2-management"
+    },
+    {
+      "level": 4,
+      "text": "24.3.3. Recommendations for the diagnosis and management of paediatric bladder injuries",
+      "anchor": "#24-3-3-recommendations-for-the-diagnosis-and-management-of-paediatric-bladder-injuries"
+    },
+    {
+      "level": 3,
+      "text": "24.4. Paediatric urethral injuries",
+      "anchor": "#24-4-paediatric-urethral-injuries"
+    },
+    {
+      "level": 4,
+      "text": "24.4.1. Diagnostic evaluation",
+      "anchor": "#24-4-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.4.2. Disease management",
+      "anchor": "#24-4-2-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "24.4.3. Recommendations for the diagnosis and management of paediatric trauma",
+      "anchor": "#24-4-3-recommendations-for-the-diagnosis-and-management-of-paediatric-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.5. Urosepsis",
+      "anchor": "#24-5-urosepsis"
+    },
+    {
+      "level": 2,
+      "text": "25. PERIOPERATIVE MANAGEMENT",
+      "anchor": "#25-perioperative-management"
+    },
+    {
+      "level": 3,
+      "text": "25.1. Preoperative fasting, intraoperative fluid therapy, postoperative feeding, fasting and fluid management",
+      "anchor": "#25-1-preoperative-fasting-intraoperative-fluid-therapy-postoperative-feeding-fasting-and-fluid-management"
+    },
+    {
+      "level": 4,
+      "text": "25.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#25-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "25.1.2. Disease management",
+      "anchor": "#25-1-2-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "25.1.3. Summary of evidence and recommendations for the management of perioperative fluid management",
+      "anchor": "#25-1-3-summary-of-evidence-and-recommendations-for-the-management-of-perioperative-fluid-management"
+    },
+    {
+      "level": 3,
+      "text": "25.2. Postoperative pain management: general information",
+      "anchor": "#25-2-postoperative-pain-management-general-information"
+    },
+    {
+      "level": 4,
+      "text": "25.2.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#25-2-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "25.2.2. Diagnostic evaluation",
+      "anchor": "#25-2-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "25.2.3. Disease management",
+      "anchor": "#25-2-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "25.2.4. Summary of evidence and recommendations for the management of post-operative pain",
+      "anchor": "#25-2-4-summary-of-evidence-and-recommendations-for-the-management-of-post-operative-pain"
+    },
+    {
+      "level": 3,
+      "text": "25.3. Antibiotics management: general information",
+      "anchor": "#25-3-antibiotics-management-general-information"
+    },
+    {
+      "level": 3,
+      "text": "25.4. Thromboprophylaxis management: general information",
+      "anchor": "#25-4-thromboprophylaxis-management-general-information"
+    },
+    {
+      "level": 4,
+      "text": "25.4.1. Epidemiology, aetiology, pathophysiology",
+      "anchor": "#25-4-1-epidemiology-aetiology-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "25.4.2. Diagnostic evaluation",
+      "anchor": "#25-4-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "25.4.3. Disease management",
+      "anchor": "#25-4-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "25.4.4. Pharmacological treatment for thromboprophylaxis",
+      "anchor": "#25-4-4-pharmacological-treatment-for-thromboprophylaxis"
+    },
+    {
+      "level": 4,
+      "text": "25.4.5. Prevention of CVL-related VTE",
+      "anchor": "#25-4-5-prevention-of-cvl-related-vte"
+    },
+    {
+      "level": 4,
+      "text": "25.4.6. Summary of evidence and recommendations for the management of thromboprophylaxis management",
+      "anchor": "#25-4-6-summary-of-evidence-and-recommendations-for-the-management-of-thromboprophylaxis-management"
+    },
+    {
+      "level": 3,
+      "text": "25.5. Premedication management: general information",
+      "anchor": "#25-5-premedication-management-general-information"
+    },
+    {
+      "level": 4,
+      "text": "25.5.1. Recommendations for premedication management: general recommendations",
+      "anchor": "#25-5-1-recommendations-for-premedication-management-general-recommendations"
+    },
+    {
+      "level": 2,
+      "text": "26. BASIC PRINCIPLES OF LAPAROSCOPIC SURGERY IN CHILDREN",
+      "anchor": "#26-basic-principles-of-laparoscopic-surgery-in-children"
+    },
+    {
+      "level": 3,
+      "text": "26.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#26-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "26.2. Technical considerations and physiological consequences",
+      "anchor": "#26-2-technical-considerations-and-physiological-consequences"
+    },
+    {
+      "level": 4,
+      "text": "26.2.1. Preoperative evaluation",
+      "anchor": "#26-2-1-preoperative-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "26.2.2. Abdominal insufflation",
+      "anchor": "#26-2-2-abdominal-insufflation"
+    },
+    {
+      "level": 4,
+      "text": "26.2.3. Pulmonary effects",
+      "anchor": "#26-2-3-pulmonary-effects"
+    },
+    {
+      "level": 4,
+      "text": "26.2.4. Cardiovascular effects",
+      "anchor": "#26-2-4-cardiovascular-effects"
+    },
+    {
+      "level": 4,
+      "text": "26.2.5. Effects on renal function",
+      "anchor": "#26-2-5-effects-on-renal-function"
+    },
+    {
+      "level": 4,
+      "text": "26.2.6. Effects on neurological system",
+      "anchor": "#26-2-6-effects-on-neurological-system"
+    },
+    {
+      "level": 4,
+      "text": "26.2.7. Comparison of robot-assisted laparoscopic surgery versus laparoscopic surgery",
+      "anchor": "#26-2-7-comparison-of-robot-assisted-laparoscopic-surgery-versus-laparoscopic-surgery"
+    },
+    {
+      "level": 3,
+      "text": "26.3. Summary of evidence and recommendations for laparoscopy in children",
+      "anchor": "#26-3-summary-of-evidence-and-recommendations-for-laparoscopy-in-children"
+    },
+    {
+      "level": 2,
+      "text": "27. TRANSITIONAL UROLOGY",
+      "anchor": "#27-transitional-urology"
+    },
+    {
+      "level": 3,
+      "text": "27.1. Introduction",
+      "anchor": "#27-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "27.2. Barriers in transition",
+      "anchor": "#27-2-barriers-in-transition"
+    },
+    {
+      "level": 3,
+      "text": "27.3. The transition process",
+      "anchor": "#27-3-the-transition-process"
+    },
+    {
+      "level": 3,
+      "text": "27.4. Specific genitourinary conditions",
+      "anchor": "#27-4-specific-genitourinary-conditions"
+    },
+    {
+      "level": 4,
+      "text": "27.4.1. Neurogenic bladder",
+      "anchor": "#27-4-1-neurogenic-bladder"
+    },
+    {
+      "level": 4,
+      "text": "27.4.2. Posterior urethral valves",
+      "anchor": "#27-4-2-posterior-urethral-valves"
+    },
+    {
+      "level": 4,
+      "text": "27.4.3. Hypospadias",
+      "anchor": "#27-4-3-hypospadias"
+    },
+    {
+      "level": 4,
+      "text": "27.4.4. Bladder-exstrophy-epispadias complex",
+      "anchor": "#27-4-4-bladder-exstrophy-epispadias-complex"
+    },
+    {
+      "level": 4,
+      "text": "27.4.5. Differences of sex development",
+      "anchor": "#27-4-5-differences-of-sex-development"
+    },
+    {
+      "level": 3,
+      "text": "27.5. Summary of evidence and recommendations for transitional urology",
+      "anchor": "#27-5-summary-of-evidence-and-recommendations-for-transitional-urology"
+    },
+    {
+      "level": 2,
+      "text": "28. FOETAL UROLOGY",
+      "anchor": "#28-foetal-urology"
+    },
+    {
+      "level": 3,
+      "text": "28.1. Normal renal development",
+      "anchor": "#28-1-normal-renal-development"
+    },
+    {
+      "level": 4,
+      "text": "28.1.1. Introduction",
+      "anchor": "#28-1-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "28.1.2. Renal and bladder development",
+      "anchor": "#28-1-2-renal-and-bladder-development"
+    },
+    {
+      "level": 3,
+      "text": "28.2. Antenatal hydronephrosis",
+      "anchor": "#28-2-antenatal-hydronephrosis"
+    },
+    {
+      "level": 4,
+      "text": "28.2.1. Definitions and follow-up during pregnancy",
+      "anchor": "#28-2-1-definitions-and-follow-up-during-pregnancy"
+    },
+    {
+      "level": 4,
+      "text": "28.2.2. Aetiology",
+      "anchor": "#28-2-2-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "28.2.3. Classification systems for postnatal outcomes",
+      "anchor": "#28-2-3-classification-systems-for-postnatal-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "28.2.4. Postnatal outcomes",
+      "anchor": "#28-2-4-postnatal-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "28.2.5. Long-term outcomes",
+      "anchor": "#28-2-5-long-term-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "28.2.6. Prophylactic measures against UTIs",
+      "anchor": "#28-2-6-prophylactic-measures-against-utis"
+    },
+    {
+      "level": 3,
+      "text": "28.3. Congenital lower urinary tract obstruction",
+      "anchor": "#28-3-congenital-lower-urinary-tract-obstruction"
+    },
+    {
+      "level": 4,
+      "text": "28.3.1. Introduction",
+      "anchor": "#28-3-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "28.3.2. Diagnosis",
+      "anchor": "#28-3-2-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "28.3.3. Management",
+      "anchor": "#28-3-3-management"
+    },
+    {
+      "level": 4,
+      "text": "28.3.4. Foetal cystoscopy",
+      "anchor": "#28-3-4-foetal-cystoscopy"
+    },
+    {
+      "level": 4,
+      "text": "28.3.5. Serial amniotic infusions",
+      "anchor": "#28-3-5-serial-amniotic-infusions"
+    },
+    {
+      "level": 4,
+      "text": "28.3.6. Outcomes postnatally",
+      "anchor": "#28-3-6-outcomes-postnatally"
+    },
+    {
+      "level": 4,
+      "text": "28.3.7. Postnatal management",
+      "anchor": "#28-3-7-postnatal-management"
+    },
+    {
+      "level": 4,
+      "text": "28.3.8. Complex urogenital pathologies - prenatal management and considerations",
+      "anchor": "#28-3-8-complex-urogenital-pathologies---prenatal-management-and-considerations"
+    },
+    {
+      "level": 4,
+      "text": "28.3.9. Summary of evidence and recommendations for foetal urology",
+      "anchor": "#28-3-9-summary-of-evidence-and-recommendations-for-foetal-urology"
+    },
+    {
+      "level": 2,
+      "text": "29. REFERENCES",
+      "anchor": "#29-references"
+    },
+    {
+      "level": 2,
+      "text": "30. CONFLICT OF INTEREST",
+      "anchor": "#30-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "31. CITATION INFORMATION",
+      "anchor": "#31-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "32. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#32-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#paediatric-urology",
+      "title": "Paediatric Urology",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 24. Paediatric Urological Trauma Introduction Methods Phimosis And Other Abnormalities Of The Penile Skin Management Of Undescended Testes Testicular Tumours In Prepubertal Boys Fertility Preservation In Children And Adolescents Hydrocele Acute Scrotum Hypospadias Congenital Penile Curvature Varicocele In Children And Adolescents Urinary Tract Infections In Children Daytime Lower Urinary Tract Conditions Monosymptomatic Nocturnal Enuresis Bedwetting Spinal Dysraphism In Children And Adolescents Formally Neurogenic Bladder Dilatation Of The Upper Urinary Tract Puj Obstruction Vesicoureteric Reflux Urinary Stone Disease Ureterocele And Ectopic Ureter Disorders/differences Of Sex Development Congenital Lower Urinary Tract Obstruction Rare Conditions In Childhood Emergencies In Paediatric Urology Paediatric Urological Trauma Perioperative Management Basic Principles Of Laparoscopic Surgery In Children Transitional Urology Foetal Urology References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#24-paediatric-urological-trauma",
+      "title": "24. PAEDIATRIC UROLOGICAL TRAUMA",
+      "level": 2,
+      "text": "Trauma is the leading cause of morbidity and mortality in children [1417]. Trauma is generally caused by either blunt injuries from falls, car accidents, sports injuries, physical assault or sexual abuse, or penetrating injuries, usually due to falls onto sharp objects or from gunshot or knife wounds.",
+      "tables": []
+    },
+    {
+      "anchor": "#24-1-paediatric-renal-trauma",
+      "title": "24.1. Paediatric renal trauma",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#24-1-1-epidemiology-aetiology-and-pathophysiology",
+      "title": "24.1.1. Epidemiology, aetiology and pathophysiology",
+      "level": 4,
+      "text": "Of all renal injuries, approximately 25% occur in children, 79% of which are low-grade (I, II or III) and 21% of which are high-grade (IV or V) [1418]. The most common cause of renal injury is blunt abdominal trauma (90%), in which the kidney is the most commonly affected organ, accounting for approximately 10% of all blunt abdominal injuries [1419]. Children are more likely than adults to sustain renal injuries after blunt trauma due to several anatomical factors, including decreased perirenal fat, weaker abdominal musculature, a relatively large size of the kidney in relation to the rest of the body, foetal lobulations which result in a higher likelihood of a local parenchymal disruption, and a less-ossified rib cage [1423]. Blunt renal trauma is also frequently associated with injury to other organs [1424].",
+      "tables": []
+    },
+    {
+      "anchor": "#24-1-2-classification-systems",
+      "title": "24.1.2. Classification systems",
+      "level": 4,
+      "text": "Renal injuries are classified according to the kidney injury scale of the American Association for the Surgery of Trauma (Table 11) [1425]. Table 11: Renal injury classified according to the kidney injury scale of the American Association for the Surgery of Trauma [1425] Grade Type of injury Description I Haematoma and/or contusion Subcapsular haematoma and/or parenchymal contusion without laceration. II Haematoma Perirenal haematoma confined to Gerota’s fascia. Laceration Renal parenchymal laceration ≤ 1cm depth without urinary extravasation. III Laceration Renal parenchymal laceration > 1cm depth without collecting system rupture or urinary extravasation. Vascular Any injury in the presence of a kidney vascular injury or active bleeding contained within Gerota’s fascia. IV Laceration Parenchymal laceration extending into urinary collecting system with urinary extravasation; Renal pelvis laceration and/or complete ureteropelvic disruption. Vascular Segmental renal vein or artery injury Active bleeding beyond Gerota’s fascia into the retroperitoneum or peritoneum; Segmental or complete kidney infarction(s) due to vessel thrombosis without active bleeding. V Laceration Shattered kidney with loss of identifiable parenchymal renal anatomy. Vascular Main renal artery or vein laceration or avulsion of hilum Devascularised kidney with active bleeding. Vascular injury is defined as a pseudoaneurysm or arteriovenous fistula and appears as a focal collection of vascular contrast that decreases in attenuation with delayed imaging. Active bleeding from a vascular injury presents as vascular contrast, focal or diffuse that increases in size or attenuation in delayed phase. Vascular thrombosis can lead to organ infarction. Grade based on highest grade assessment made on imaging, at operation or on pathologic specimen. More than one grade of kidney injury may be present and should be classified by the higher grade of injury. Advance one grade for bilateral injuries up to Grade III.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Grade",
+              "Type of injury",
+              "Description"
+            ],
+            [
+              "I",
+              "Haematoma and/or contusion",
+              "Subcapsular haematoma and/or parenchymal contusion without laceration."
+            ],
+            [
+              "II",
+              "Haematoma",
+              "Perirenal haematoma confined to Gerota’s fascia."
+            ],
+            [
+              "Laceration",
+              "Renal parenchymal laceration ≤ 1cm depth without urinary extravasation."
+            ],
+            [
+              "III",
+              "Laceration",
+              "Renal parenchymal laceration > 1cm depth without collecting system rupture or urinary extravasation."
+            ],
+            [
+              "Vascular",
+              "Any injury in the presence of a kidney vascular injury or active bleeding contained within Gerota’s fascia."
+            ],
+            [
+              "IV",
+              "Laceration",
+              "Parenchymal laceration extending into urinary collecting system with urinary extravasation;Renal pelvis laceration and/or complete ureteropelvic disruption."
+            ],
+            [
+              "Vascular",
+              "Segmental renal vein or artery injuryActive bleeding beyond Gerota’s fascia into the retroperitoneum or peritoneum;Segmental or complete kidney infarction(s) due to vessel thrombosis without active bleeding."
+            ],
+            [
+              "V",
+              "Laceration",
+              "Shattered kidney with loss of identifiable parenchymal renal anatomy."
+            ],
+            [
+              "Vascular",
+              "Main renal artery or vein laceration or avulsion of hilumDevascularised kidney with active bleeding."
+            ],
+            [
+              "Vascular injury is defined as a pseudoaneurysm or arteriovenous fistula and appears as a focal collection of vascular contrast that decreases in attenuation with delayed imaging.Active bleeding from a vascular injury presents as vascular contrast, focal or diffuse that increases in size or attenuation in delayed phase. Vascular thrombosis can lead to organ infarction. Grade based on highest grade assessment made on imaging, at operation or on pathologic specimen. More than one grade of kidney injury may be present and should be classified by the higher grade of injury. Advance one grade for bilateral injuries up to Grade III."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#24-1-3-diagnostic-evaluation",
+      "title": "24.1.3. Diagnostic evaluation",
+      "level": 4,
+      "text": "In a child who has sustained blunt abdominal trauma, renal involvement can often be suspected from the history, physical examination and laboratory evaluation. Renal involvement may be associated with abdominal or flank tenderness, lower rib fractures, fractures of vertebral pedicles, trunk contusions and abrasions, and haematuria. Vital signs should be monitored during the initial evaluation and give the most reliable indication of the urgency of the situation. It is important to consider that children, unlike adults, are able to maintain their blood pressure, even in the presence of hypovolaemia, due to compliance of the vascular tree and mechanisms for cardiac compensation [1420]. All the clinical aspects involved must be considered, including the history, physical examination, consciousness of the child, overall clinical status and laboratory findings to decide on the diagnostic algorithm and whether or not a child requires further imaging studies. In severe renal injuries, 65% of patients suffer gross haematuria and 33% non-visible haematuria, while 2% have no haematuria at all [1421]. There have been several reports of significant renal injuries that manifest with little or even no blood in the urine [1422]. 24.1.3.a. Choice of imaging method FAST ultrasound In severe trauma or haemodynamically instable patients, focussed assessment sonography in trauma (FAST) ultrasound can be used to identify a hemoperitoneum with high specificity (95%) but low sensitivity (33-89%) and negative predictive value (50%). However, sensitivity and specificity for kidney trauma and retroperitoneal haemorrhage is low. Therefore, it is not recommended as a sole diagnostic tool [1426]. Computed tomography Computed tomography scanning is the imaging modality of choice in patients with suspicion of renal injuries, since it is widely available, quick and provides accurate grading [1427]. Ideally, CT is performed in three phases: the arterial phase to detect vascular injury or active bleeding, the nephrogenic phase to detect parenchymal lacerations, and the delayed phase to detect injury of the collecting system or ureter. Moreover, CT scanning can detect associated other intra-abdominal injuries, which are frequently associated with renal trauma, particularly in grade III-V [1424]. Scanning protocol should be adapted for paediatric patients according to the principles of ALARA (as low as reasonably achievable) to reduce the amount of ionising radiation as much as possible. Ultrasound (Contrast-enhanced) US can be considered as the sole investigation in patients with mild symptoms and no other indications for CT scanning, where the mechanism of trauma and the condition of the patient do not suggest the presence of injury to other organs or the urinary tract. Although conventional US is not sufficiently accurate to grade renal trauma, there could be a role for contrast-enhanced ultrasound (CEUS) to identify parenchymal lesions. However, this technique cannot detect injuries to the urinary tract or collecting system, since the contrast agent is not excreted by the kidney [1428]. Ultrasound can be performed in follow-up of a renal trauma to reduce the amount of radiation. However, even in high-grade renal trauma, routine repeat imaging may be avoidable in stable, asymptomatic patients [1429].",
+      "tables": []
+    },
+    {
+      "anchor": "#24-1-4-disease-management",
+      "title": "24.1.4. Disease management",
+      "level": 4,
+      "text": "The modern management of trauma is multidisciplinary, requiring paediatricians, emergency physicians, surgeons, urologists and other specialties as necessary. Nonsurgical conservative management with bed rest, fluids and monitoring has become the standard approach for treating blunt renal trauma. In high-grade renal injuries, a conservative approach is effective and recommended for hemodynamically stable children [1430]. However, this approach requires close clinical observation and intermittent reassessment of the patient’s overall condition. Therefore, a good initial trauma CT with delayed images to check for urinary extravasation is recommended, since patients with a urine leak have higher rates of morbidities, including febrile episodes and an increased requirement of operative or image-guided interventions [1431]. However, early drainage does not seem to prevent persistent urinary extravasation or complications [1432]. Therefore, reserve stenting and/or percutaneous drainage only when the patient is symptomatic [1433]. Emergency intervention is indicated only for haemodynamic instability and angioembolisation, if available, for ongoing or delayed bleeding is preferred compared to open surgery. The results of angioembolisation were evaluated and were successful in 92% of patients with Grade III-IV (294/322) and 76% of Grade V (63/82) injuries. Moreover, the success rate was 90% (312/346) in hemodynamically stable patients, but only 63% (42/66) in hemodynamically unstable patients [1434]. Absolute indications for surgery include persistent bleeding into an expanding or unconfined haematoma with haemodynamic instability. Relative indications for surgery are massive urinary extravasation and extensive nonviable renal tissue [1435]. Follow-up In paediatric patients with renal trauma, routine blood pressure checks to diagnose hypertension is recommended in the long-term follow-up, since post-traumatic renal hypertension rate varies between 4.2 and 18%, particularly in cases with concomitant vascular injury [1430,1436]. However, there is a dearth of long-term data on the risk of developing hypertension in children.",
+      "tables": []
+    },
+    {
+      "anchor": "#24-1-5-recommendations-for-the-diagnosis-and-management-of-paediatric-renal-trauma",
+      "title": "24.1.5. Recommendations for the diagnosis and management of paediatric renal trauma",
+      "level": 4,
+      "text": "Recommendations Strength rating Use imaging in all children who have sustained a blunt or penetrating trauma, irrespective of the presence of haematuria, particularly when the history reveals a deceleration trauma, direct flank trauma or a fall from a height. Strong Use contrast-enhanced computed tomography scanning with delayed images for diagnostic and staging purposes. Strong Manage most injured kidneys conservatively. Strong Perform angioembolisation or surgical intervention in case of haemodynamic instability or a Grade V renal injury. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use imaging in all children who have sustained a blunt or penetrating trauma, irrespective of the presence of haematuria, particularly when the history reveals a deceleration trauma, direct flank trauma or a fall from a height.",
+              "Strong"
+            ],
+            [
+              "Use contrast-enhanced computed tomography scanning with delayed images for diagnostic and staging purposes.",
+              "Strong"
+            ],
+            [
+              "Manage most injured kidneys conservatively.",
+              "Strong"
+            ],
+            [
+              "Perform angioembolisation or surgical intervention in case of haemodynamic instability or a Grade V renal injury.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#24-2-paediatric-ureteral-trauma",
+      "title": "24.2. Paediatric ureteral trauma",
+      "level": 3,
+      "text": "Injuries to the ureter are rare. The ureter is well-protected. The upper part is protected by its close proximity to the vertebral column and paraspinal muscles and the lower part by its route through the bony pelvis. In addition, the ureter is a small target, and both flexible and mobile. This also means that ureteral injuries are caused more often by penetrating trauma than blunt trauma [1437]. Since the ureter is the sole conduit for urinary transport between the kidney and the bladder, any ureteral injury can threaten the function of the ipsilateral kidney.",
+      "tables": []
+    },
+    {
+      "anchor": "#24-2-1-diagnostic-evaluation",
+      "title": "24.2.1. Diagnostic evaluation",
+      "level": 4,
+      "text": "As there are no classical clinical symptoms suggestive of ureteral trauma, it is important to carry out a careful diagnostic workup using various imaging modalities. Unfortunately, initial imaging studies, such as IVP and routine CT scans, are unreliable. A study of 11 disruptions of the ureteropelvic junction found that 72% had a normal or nondiagnostic IVP on initial studies [1437]. Diagnostic accuracy of CT scanning can be improved by performing a delayed CT scan up to ten minutes after injection of the contrast material [1438]. The most sensitive diagnostic test is a retrograde pyelogram. It is not uncommon for patients to present several days after the injury, when the urinoma produces flank and abdominal pain, nausea and fever. Due to symptoms being often vague, it is important to remain suspicious of a potential undiagnosed urinary injury following significant blunt abdominal trauma in a child.",
+      "tables": []
+    },
+    {
+      "anchor": "#24-2-2-management",
+      "title": "24.2.2. Management",
+      "level": 4,
+      "text": "Immediate repair during abdominal exploration is rare. Minimally invasive procedures are the method of choice, especially since many ureteral injuries are diagnosed late after the traumatic event. Percutaneous or nephrostomy tube drainage of urinomas can be successful, as well as internal stenting of ureteral injuries [1439]. If endoscopic management is not possible, primary repair of partial lacerations should be carried out together with internal stenting. The management of complete lacerations, avulsions or crush injuries depends on the amount of ureter lost and their location. If there is an adequate healthy length of ureter, a primary ureteroureterostomy can be performed. If primary reanastomosis is not achievable, distal ureteral injuries can be managed using a psoas bladder hitch, Boari flap or even nephropexy. Proximal injuries can be managed using transureteroureterostomy, autotransplantation or ureteral replacement with bowel or appendix [1440].",
+      "tables": []
+    },
+    {
+      "anchor": "#24-2-3-recommendations-for-the-diagnosis-and-management-of-paediatric-ureteral-trauma",
+      "title": "24.2.3. Recommendations for the diagnosis and management of paediatric ureteral trauma",
+      "level": 4,
+      "text": "Recommendations Strength rating Diagnose suspected ureteral injuries by retrograde pyelogram. Strong Manage ureteral injuries endoscopically, using internal stenting or drainage of a urinoma, either percutaneously or by means of a nephrostomy tube. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Diagnose suspected ureteral injuries by retrograde pyelogram.",
+              "Strong"
+            ],
+            [
+              "Manage ureteral injuries endoscopically, using internal stenting or drainage of a urinoma, either percutaneously or by means of a nephrostomy tube.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#24-3-paediatric-bladder-injuries",
+      "title": "24.3. Paediatric bladder injuries",
+      "level": 3,
+      "text": "The paediatric bladder is less well-protected than the adult bladder, and is therefore more susceptible to injuries, especially when full, due to: its higher position in the abdomen and its exposure above the bony pelvis; the fact that the abdominal wall provides less muscular protection; and the fact that there is less pelvic and abdominal fat surrounding the bladder to cushion it during trauma. Blunt trauma is the most common cause of significant bladder injury. In adults, bladder injury is often associated with pelvic fractures. This is less common in children, because the paediatric bladder is situated above the pelvic ring. In a large prospective study, only 57% of children with pelvic fractures also had a bladder injury, compared to 89% of adults [1441].",
+      "tables": []
+    },
+    {
+      "anchor": "#24-3-1-diagnostic-evaluation",
+      "title": "24.3.1. Diagnostic evaluation",
+      "level": 4,
+      "text": "The characteristic signs of bladder injury are suprapubic pain and tenderness, an inability to urinate, and visible haematuria (95% of injuries). Patients with a pelvic fracture and visible haematuria present with a bladder rupture in up to 45% of cases [1442]. The diagnosis of bladder rupture can be difficult in some cases. The bladder should be imaged both when fully distended and after drainage using standard radiography or with axial imaging (e.g. CT scan). Optimal imaging results are achieved through retrograde filling of the bladder using a catheter. Despite advances in CT imaging, the bladder must still be filled to capacity to accurately diagnose a possible bladder injury [1443]. Blunt injuries to the bladder are categorised as: contusions with damage to the bladder mucosa or muscle, without loss of bladder wall continuity or extravasation; and ruptures, which are either intraperitoneal or extraperitoneal. Intraperitoneal bladder ruptures are more common in children due to the bladder’s exposed position and the acute increase in pressure during trauma. These factors cause the bladder to rupture at its weakest point, i.e. at the dome. Extraperitoneal lesions occur in the lower half of the bladder and are almost always associated with pelvic fractures. A cystogram should demonstrate extravasation into the perivesical soft tissue in a typical flame pattern and the contrast material is confined to the pelvis.",
+      "tables": []
+    },
+    {
+      "anchor": "#24-3-2-management",
+      "title": "24.3.2. Management",
+      "level": 4,
+      "text": "Contusions usually present with varying degrees of haematuria and are treated with catheter drainage alone. 24.3.2.a. Intraperitoneal injuries The accepted management of intraperitoneal bladder ruptures is open surgical exploration and primary repair. Postoperative drainage with a suprapubic tube is mandatory. Recent data suggest that transurethral drainage may be equally effective, with fewer complications, resulting in shorter periods of diversion [1444]. Usually, after approximately seven to ten days, a repeat cystogram is performed to ensure adequate healing. 24.3.2.b. Extraperitoneal injuries Nonoperative, supportive management with catheter drainage for seven to ten days is the method of choice for extraperitoneal bladder rupture. However, if there are bone fragments within the bladder, these must be removed and the bladder must then be repaired and drained according to the principles for treating intraperitoneal ruptures [1445].",
+      "tables": []
+    },
+    {
+      "anchor": "#24-3-3-recommendations-for-the-diagnosis-and-management-of-paediatric-bladder-injuries",
+      "title": "24.3.3. Recommendations for the diagnosis and management of paediatric bladder injuries",
+      "level": 4,
+      "text": "Recommendations Strength rating Use retrograde cystography to diagnose suspected bladder injuries. Strong Ensure that the bladder has been filled to its full capacity and an additional film is taken after drainage. Strong Manage extraperitoneal bladder ruptures conservatively with a transurethral catheter left in place for seven to ten days. Strong Perform surgical exploration in cases of intraperitoneal bladder ruptures. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use retrograde cystography to diagnose suspected bladder injuries.",
+              "Strong"
+            ],
+            [
+              "Ensure that the bladder has been filled to its full capacity and an additional film is taken after drainage.",
+              "Strong"
+            ],
+            [
+              "Manage extraperitoneal bladder ruptures conservatively with a transurethral catheter left in place for seven to ten days.",
+              "Strong"
+            ],
+            [
+              "Perform surgical exploration in cases of intraperitoneal bladder ruptures.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#24-4-paediatric-urethral-injuries",
+      "title": "24.4. Paediatric urethral injuries",
+      "level": 3,
+      "text": "Except for the penile part of the urethra, the paediatric urethra is quite well-protected. In addition, the shape and elasticity of the paediatric urethra mean that the urethra is seldom injured by trauma. However, a urethral injury should be suspected in any patient with a pelvic fracture or significant trauma to the perineum until confirmed, otherwise by means of a diagnostic workup.",
+      "tables": []
+    },
+    {
+      "anchor": "#24-4-1-diagnostic-evaluation",
+      "title": "24.4.1. Diagnostic evaluation",
+      "level": 4,
+      "text": "Patients with suspected urethral trauma and pelvic fractures usually present with a history of severe trauma, often involving other organ systems. Signs of urethral injury include blood at the meatus, visible haematuria, pain during voiding or an inability to void. There may also be perineal swelling and haematoma involving the scrotum. A rectal examination to determine the position and fixation of the prostate is important in any male with a suspected urethral injury. The prostate (although small), as well as the bladder, may be displaced up out of the pelvis, especially in membranous urethral trauma. Radiographic evaluation of the urethra requires a retrograde urethrogram. It is important to expose the entire urethral length, including the bladder neck. If a catheter has already been placed and, if urethral trauma is suspected, the catheter should not be removed. Instead, a small infant catheter can be placed into the distal urethra along the catheter to allow the injection of contrast material for a diagnostic scan [1446].",
+      "tables": []
+    },
+    {
+      "anchor": "#24-4-2-disease-management",
+      "title": "24.4.2. Disease management",
+      "level": 4,
+      "text": "As these patients may be unstable due to the nature of their injuries, the urologist’s initial responsibility is to provide a method of draining and monitoring urine output. A transurethral catheter should only be inserted if there is a history of voiding after the traumatic event, and if a rectal and pelvic examination, as described above, has not suggested a urethral rupture. If the catheter does not pass easily, an immediate retrograde urethrogram should be performed. A suprapubic tube can be placed in the emergency department percutaneously, or even in the operating room if the patient must undergo immediate exploration due to other life-threatening injuries. There are often no associated injuries with a bulbar urethral or straddle injury, and management is therefore usually straightforward. In these cases, a transurethral catheter is the best option for preventing urethral bleeding and/or painful voiding [1447]. The initial management of posterior urethral injuries remains controversial, mainly regarding the long-term results with primary realignment compared to simple suprapubic drainage with later reconstruction. The main goals in the surgical repair of posterior urethral injuries are: providing a stricture-free urethra; and avoiding the complications of urinary incontinence and erectile dysfunction. Anterior urethral injury The data for anterior urethral injury repair is much the same as for adults. Small lacerations can be repaired by simple closure. Complete ruptures without extensive tissue loss are treated with anastomotic repair [1448]. Penetrating injuries require peri- and postoperative antibiotic treatment [1449]. Immediate urethroplasty is generally performed in blunt injuries. The long-term outcomes (patency rate, potency rate) of adult patients treated with immediate urethroplasty are similar to those initially treated with suprapubic diversion and delayed urethroplasty [1450]. The main advantage of performing immediate urethroplasty is that this strategy significantly reduces the time to spontaneous voiding from two to six months to three weeks on average. Spongiosal contusion and haematoma during immediate urethroplasty will make the operation technically more demanding. Therefore, immediate urethroplasty should be performed by a dedicated urethral surgeon [1451]. Posterior urethral injury Unlike anterior urethral injuries with immediate realignment, in children with posterior urethral injuries, a staged approach with delayed repair may be more appropriate. In children, there is significantly less experience with delayed repair, with a large paediatric series of delayed repair in 68 boys reporting successful voiding and a continence rate of 90% [1452]. Another study reported strictures and erectile dysfunction in 67% of boys, although all the boys were continent postoperatively [1247]. A follow-up study on 15 patients who underwent delayed urethroplasty for blunt urethral trauma during childhood reported high long-term success rates, with a low rate of long-term urinary and sexual dysfunction in adulthood [1453]. Revision surgery A large study of revision urethroplasty analysing revision urethroplasty following pelvic floor urethral injuries in children and adolescents demonstrated that these injuries appeared to be more common in the developing world, with more complex findings and longer gaps. In support of the above findings, these patients were best managed with delayed transperineal repair with self-reported success of up to 85% [1454]. On the other hand, a small prospective study demonstrated good results with immediate primary endoscopic realignment in patients with posterior urethral and bladder neck injuries [1455]. This may serve as an alternative to those with permitting endoscopic anatomy post-injury. A large study exploring outcomes of various urethroplasty techniques in both boys and girls demonstrated that most paediatric pelvic floor urethral injuries can be addressed through a transperineal approach with reasonable long-term outcomes (> 80%), however, up to 25% of patients require further endoscopic/open procedures during follow-up. In challenging cases, salvage procedures utilising vascular-based flaps as a urethral substitute can yield good results. The numbers lost to follow-up, however, were significant at 40.6% [1456]. In a study of 18 boys undergoing urethroplasty for strictures (traumatic/iatrogenic), post-void dribbling and urgency were the main patient-reported outcome measures (PROMs) following surgery, with universally high satisfaction rates. Patient-reported outcome measures are an important consideration for urologists performing these procedures on children, because they will likely need continued long-term follow-up [1457]. In those who have previously experienced a failed urethroplasty following pelvic fracture-associated urethral injuries, most cases of recurrent posterior urethral strictures of < 3cm in length can be treated with a perineal urethropla",
+      "tables": []
+    },
+    {
+      "anchor": "#24-4-3-recommendations-for-the-diagnosis-and-management-of-paediatric-trauma",
+      "title": "24.4.3. Recommendations for the diagnosis and management of paediatric trauma",
+      "level": 4,
+      "text": "Recommendations Strength rating Assess the urethra by means of retrograde urethrogram in case of suspected urethral injury. Strong Perform a rectal examination to determine the position of the prostate. Strong Manage urethral injuries conservatively initially if a transurethral catheter can be placed. Strong Manage posterior urethral injuries by means of either: primary drainage with a suprapubic catheter alone and delayed repair; or primary realignment with a transurethral catheter. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Assess the urethra by means of retrograde urethrogram in case of suspected urethral injury.",
+              "Strong"
+            ],
+            [
+              "Perform a rectal examination to determine the position of the prostate.",
+              "Strong"
+            ],
+            [
+              "Manage urethral injuries conservatively initially if a transurethral catheter can be placed.",
+              "Strong"
+            ],
+            [
+              "Manage posterior urethral injuries by means of either:primary drainage with a suprapubic catheter alone and delayed repair; orprimary realignment with a transurethral catheter.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#24-5-urosepsis",
+      "title": "24.5. Urosepsis",
+      "level": 3,
+      "text": "Refer to Chapter 12 on urinary tract infections in children.",
+      "tables": []
+    }
+  ],
+  "tables_count": 5
+}

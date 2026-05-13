@@ -1,0 +1,2150 @@
+{
+  "guideline": "paediatric-urology",
+  "chapter": "urinary-tract-infections-in-children",
+  "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/urinary-tract-infections-in-children",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim",
+      "anchor": "#1-1-aim"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Summary of changes",
+      "anchor": "#1-5-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Introduction",
+      "anchor": "#2-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 2,
+      "text": "3. PHIMOSIS AND OTHER ABNORMALITIES OF THE PENILE SKIN",
+      "anchor": "#3-phimosis-and-other-abnormalities-of-the-penile-skin"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Terminology, epidemiology and pathophysiology",
+      "anchor": "#3-1-terminology-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Classification and diagnostic evaluation",
+      "anchor": "#3-2-classification-and-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Management",
+      "anchor": "#3-3-management"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Complications",
+      "anchor": "#3-4-complications"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Follow-up",
+      "anchor": "#3-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "3.6. Summary of evidence and recommendations for the management of phimosis",
+      "anchor": "#3-6-summary-of-evidence-and-recommendations-for-the-management-of-phimosis"
+    },
+    {
+      "level": 2,
+      "text": "4. MANAGEMENT OF UNDESCENDED TESTES",
+      "anchor": "#4-management-of-undescended-testes"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Background",
+      "anchor": "#4-1-background"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Classification",
+      "anchor": "#4-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. Palpable testes",
+      "anchor": "#4-2-1-palpable-testes"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. Nonpalpable testes",
+      "anchor": "#4-2-2-nonpalpable-testes"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Diagnostic evaluation",
+      "anchor": "#4-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. History",
+      "anchor": "#4-3-1-history"
+    },
+    {
+      "level": 4,
+      "text": "4.3.2. Physical examination",
+      "anchor": "#4-3-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "4.3.3. Imaging studies",
+      "anchor": "#4-3-3-imaging-studies"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Management",
+      "anchor": "#4-4-management"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Medical therapy",
+      "anchor": "#4-4-1-medical-therapy"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Surgical therapy",
+      "anchor": "#4-4-2-surgical-therapy"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Undescended testes and fertility",
+      "anchor": "#4-5-undescended-testes-and-fertility"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Undescended testes and malignancy",
+      "anchor": "#4-6-undescended-testes-and-malignancy"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Summary of evidence and recommendations for the management of undescended testes",
+      "anchor": "#4-7-summary-of-evidence-and-recommendations-for-the-management-of-undescended-testes"
+    },
+    {
+      "level": 2,
+      "text": "5. TESTICULAR TUMOURS IN PREPUBERTAL BOYS",
+      "anchor": "#5-testicular-tumours-in-prepubertal-boys"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Epidemiology and pathophysiology",
+      "anchor": "#5-1-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Clinical presentation",
+      "anchor": "#5-2-clinical-presentation"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Evaluation",
+      "anchor": "#5-3-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Tumour entities in prepubertal boys",
+      "anchor": "#5-5-tumour-entities-in-prepubertal-boys"
+    },
+    {
+      "level": 4,
+      "text": "5.5.1. Germ cell tumours",
+      "anchor": "#5-5-1-germ-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "5.5.2. Gonadal stromal tumours",
+      "anchor": "#5-5-2-gonadal-stromal-tumours"
+    },
+    {
+      "level": 4,
+      "text": "5.5.3. Other tumours",
+      "anchor": "#5-5-3-other-tumours"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Follow-up",
+      "anchor": "#5-6-follow-up"
+    },
+    {
+      "level": 2,
+      "text": "6. FERTILITY PRESERVATION IN CHILDREN AND ADOLESCENTS",
+      "anchor": "#6-fertility-preservation-in-children-and-adolescents"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Ovarian tissue cryopreservation in prepubertal and adolescent girls",
+      "anchor": "#6-1-ovarian-tissue-cryopreservation-in-prepubertal-and-adolescent-girls"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Cryopreservation in prepubertal and adolescent boys",
+      "anchor": "#6-2-cryopreservation-in-prepubertal-and-adolescent-boys"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Summary of evidence and recommendations fertility preservation in children and adolescents",
+      "anchor": "#6-3-summary-of-evidence-and-recommendations-fertility-preservation-in-children-and-adolescents"
+    },
+    {
+      "level": 2,
+      "text": "7. HYDROCELE",
+      "anchor": "#7-hydrocele"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#7-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Diagnostic evaluation",
+      "anchor": "#7-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Management",
+      "anchor": "#7-3-management"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Summary of evidence and recommendations for the management of hydrocele",
+      "anchor": "#7-4-summary-of-evidence-and-recommendations-for-the-management-of-hydrocele"
+    },
+    {
+      "level": 2,
+      "text": "8. ACUTE SCROTUM",
+      "anchor": "#8-acute-scrotum"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#8-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Diagnostic evaluation",
+      "anchor": "#8-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Management",
+      "anchor": "#8-3-management"
+    },
+    {
+      "level": 4,
+      "text": "8.3.1. Epididymitis",
+      "anchor": "#8-3-1-epididymitis"
+    },
+    {
+      "level": 4,
+      "text": "8.3.2. Testicular torsion",
+      "anchor": "#8-3-2-testicular-torsion"
+    },
+    {
+      "level": 4,
+      "text": "8.3.3. Surgical treatment",
+      "anchor": "#8-3-3-surgical-treatment"
+    },
+    {
+      "level": 3,
+      "text": "8.4. Follow-up",
+      "anchor": "#8-4-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "8.4.1. Fertility",
+      "anchor": "#8-4-1-fertility"
+    },
+    {
+      "level": 4,
+      "text": "8.4.2. Subfertility",
+      "anchor": "#8-4-2-subfertility"
+    },
+    {
+      "level": 4,
+      "text": "8.4.3. Androgen levels",
+      "anchor": "#8-4-3-androgen-levels"
+    },
+    {
+      "level": 2,
+      "text": "9. HYPOSPADIAS",
+      "anchor": "#9-hypospadias"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Epidemiology, aetiology, and pathophysiology",
+      "anchor": "#9-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "9.1.1. Epidemiology",
+      "anchor": "#9-1-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Risk factors",
+      "anchor": "#9-2-risk-factors"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Classification systems",
+      "anchor": "#9-3-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "9.4. Diagnostic evaluation",
+      "anchor": "#9-4-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "9.5. Management",
+      "anchor": "#9-5-management"
+    },
+    {
+      "level": 4,
+      "text": "9.5.1. Indication for reconstruction and therapeutic objectives",
+      "anchor": "#9-5-1-indication-for-reconstruction-and-therapeutic-objectives"
+    },
+    {
+      "level": 4,
+      "text": "9.5.2. Preoperative hormonal treatment",
+      "anchor": "#9-5-2-preoperative-hormonal-treatment"
+    },
+    {
+      "level": 4,
+      "text": "9.5.3. Age at surgery",
+      "anchor": "#9-5-3-age-at-surgery"
+    },
+    {
+      "level": 4,
+      "text": "9.5.4. Penile curvature",
+      "anchor": "#9-5-4-penile-curvature"
+    },
+    {
+      "level": 4,
+      "text": "9.5.5. Urethral reconstruction",
+      "anchor": "#9-5-5-urethral-reconstruction"
+    },
+    {
+      "level": 4,
+      "text": "9.5.6. Redo hypospadias repairs",
+      "anchor": "#9-5-6-redo-hypospadias-repairs"
+    },
+    {
+      "level": 4,
+      "text": "9.5.7. Penile reconstruction following formation of the neo-urethra",
+      "anchor": "#9-5-7-penile-reconstruction-following-formation-of-the-neo-urethra"
+    },
+    {
+      "level": 4,
+      "text": "9.5.8. Urine drainage and wound dressing",
+      "anchor": "#9-5-8-urine-drainage-and-wound-dressing"
+    },
+    {
+      "level": 4,
+      "text": "9.5.9. Analgesia (regional blocks)",
+      "anchor": "#9-5-9-analgesia-regional-blocks"
+    },
+    {
+      "level": 3,
+      "text": "9.6. Outcomes and complications",
+      "anchor": "#9-6-outcomes-and-complications"
+    },
+    {
+      "level": 4,
+      "text": "9.6.1. Factors influencing outcomes",
+      "anchor": "#9-6-1-factors-influencing-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "9.6.2. Complications",
+      "anchor": "#9-6-2-complications"
+    },
+    {
+      "level": 3,
+      "text": "9.7. Long-term follow-up and transition",
+      "anchor": "#9-7-long-term-follow-up-and-transition"
+    },
+    {
+      "level": 4,
+      "text": "9.7.1. Voiding",
+      "anchor": "#9-7-1-voiding"
+    },
+    {
+      "level": 4,
+      "text": "9.7.2. Penile appearance",
+      "anchor": "#9-7-2-penile-appearance"
+    },
+    {
+      "level": 4,
+      "text": "9.7.3. Sexual function and fertility",
+      "anchor": "#9-7-3-sexual-function-and-fertility"
+    },
+    {
+      "level": 4,
+      "text": "9.7.4. Health-related quality of life",
+      "anchor": "#9-7-4-health-related-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "9.7.5. Transition",
+      "anchor": "#9-7-5-transition"
+    },
+    {
+      "level": 3,
+      "text": "9.8. Summary of evidence and recommendations for the management of hypospadias",
+      "anchor": "#9-8-summary-of-evidence-and-recommendations-for-the-management-of-hypospadias"
+    },
+    {
+      "level": 2,
+      "text": "10. CONGENITAL PENILE CURVATURE",
+      "anchor": "#10-congenital-penile-curvature"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#10-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Diagnostic evaluation",
+      "anchor": "#10-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Management",
+      "anchor": "#10-3-management"
+    },
+    {
+      "level": 3,
+      "text": "10.4. Summary of evidence and recommendations for the management of congenital penile curvature",
+      "anchor": "#10-4-summary-of-evidence-and-recommendations-for-the-management-of-congenital-penile-curvature"
+    },
+    {
+      "level": 2,
+      "text": "11. VARICOCELE IN CHILDREN AND ADOLESCENTS",
+      "anchor": "#11-varicocele-in-children-and-adolescents"
+    },
+    {
+      "level": 3,
+      "text": "11.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#11-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "11.2. Classification systems",
+      "anchor": "#11-2-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "11.3. Diagnostic evaluation",
+      "anchor": "#11-3-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "11.4. Management",
+      "anchor": "#11-4-management"
+    },
+    {
+      "level": 4,
+      "text": "11.4.1. Surgical management",
+      "anchor": "#11-4-1-surgical-management"
+    },
+    {
+      "level": 4,
+      "text": "11.4.2. Radiological management",
+      "anchor": "#11-4-2-radiological-management"
+    },
+    {
+      "level": 3,
+      "text": "11.5. Summary of evidence and recommendations for the management of varicocele",
+      "anchor": "#11-5-summary-of-evidence-and-recommendations-for-the-management-of-varicocele"
+    },
+    {
+      "level": 2,
+      "text": "12. URINARY TRACT INFECTIONS IN CHILDREN",
+      "anchor": "#12-urinary-tract-infections-in-children"
+    },
+    {
+      "level": 3,
+      "text": "12.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#12-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "12.2. Presentation symptoms",
+      "anchor": "#12-2-presentation-symptoms"
+    },
+    {
+      "level": 3,
+      "text": "12.3. Classification systems",
+      "anchor": "#12-3-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "12.3.1. Classification according to clinical presentation",
+      "anchor": "#12-3-1-classification-according-to-clinical-presentation"
+    },
+    {
+      "level": 4,
+      "text": "12.3.2. Classification according to episode: first, recurrent, breakthrough",
+      "anchor": "#12-3-2-classification-according-to-episode-first-recurrent-breakthrough"
+    },
+    {
+      "level": 4,
+      "text": "12.3.3. Classification according to age and toilet-training status",
+      "anchor": "#12-3-3-classification-according-to-age-and-toilet-training-status"
+    },
+    {
+      "level": 4,
+      "text": "12.3.4. Classification according to the clinical course",
+      "anchor": "#12-3-4-classification-according-to-the-clinical-course"
+    },
+    {
+      "level": 4,
+      "text": "12.3.5. Classification according to urinary tract abnormalities",
+      "anchor": "#12-3-5-classification-according-to-urinary-tract-abnormalities"
+    },
+    {
+      "level": 3,
+      "text": "12.4. Diagnostic evaluation",
+      "anchor": "#12-4-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "12.4.1. Medical history",
+      "anchor": "#12-4-1-medical-history"
+    },
+    {
+      "level": 4,
+      "text": "12.4.2. Physical examination",
+      "anchor": "#12-4-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "12.4.3. Urine sampling, analysis and culture",
+      "anchor": "#12-4-3-urine-sampling-analysis-and-culture"
+    },
+    {
+      "level": 4,
+      "text": "12.4.4. Blood tests",
+      "anchor": "#12-4-4-blood-tests"
+    },
+    {
+      "level": 3,
+      "text": "12.5. Additional workup",
+      "anchor": "#12-5-additional-workup"
+    },
+    {
+      "level": 4,
+      "text": "12.5.1. Ultrasound (US)",
+      "anchor": "#12-5-1-ultrasound-us"
+    },
+    {
+      "level": 3,
+      "text": "12.6. Management",
+      "anchor": "#12-6-management"
+    },
+    {
+      "level": 4,
+      "text": "12.6.1. Administration route of antibacterial therapy",
+      "anchor": "#12-6-1-administration-route-of-antibacterial-therapy"
+    },
+    {
+      "level": 4,
+      "text": "12.6.2. Adjustment of antimicrobial agents",
+      "anchor": "#12-6-2-adjustment-of-antimicrobial-agents"
+    },
+    {
+      "level": 4,
+      "text": "12.6.3. Duration of therapy",
+      "anchor": "#12-6-3-duration-of-therapy"
+    },
+    {
+      "level": 4,
+      "text": "12.6.4. Adjunct steroid treatment",
+      "anchor": "#12-6-4-adjunct-steroid-treatment"
+    },
+    {
+      "level": 4,
+      "text": "12.6.5. Temporary urinary diversion",
+      "anchor": "#12-6-5-temporary-urinary-diversion"
+    },
+    {
+      "level": 4,
+      "text": "12.6.6. Monitoring",
+      "anchor": "#12-6-6-monitoring"
+    },
+    {
+      "level": 3,
+      "text": "12.7. Measures to prevent UTI recurrences",
+      "anchor": "#12-7-measures-to-prevent-uti-recurrences"
+    },
+    {
+      "level": 4,
+      "text": "12.7.1. Chemoprophylaxis",
+      "anchor": "#12-7-1-chemoprophylaxis"
+    },
+    {
+      "level": 4,
+      "text": "12.7.2. Nonantibiotic prophylaxis",
+      "anchor": "#12-7-2-nonantibiotic-prophylaxis"
+    },
+    {
+      "level": 4,
+      "text": "12.7.3. Phimosis",
+      "anchor": "#12-7-3-phimosis"
+    },
+    {
+      "level": 4,
+      "text": "12.7.4. Bladder and bowel dysfunction and lower urinary tract disorders",
+      "anchor": "#12-7-4-bladder-and-bowel-dysfunction-and-lower-urinary-tract-disorders"
+    },
+    {
+      "level": 3,
+      "text": "12.8. Summary of evidence and recommendations for the management of UTI in children",
+      "anchor": "#12-8-summary-of-evidence-and-recommendations-for-the-management-of-uti-in-children"
+    },
+    {
+      "level": 2,
+      "text": "13. DAYTIME LOWER URINARY TRACT CONDITIONS",
+      "anchor": "#13-daytime-lower-urinary-tract-conditions"
+    },
+    {
+      "level": 3,
+      "text": "13.1. Terminology, classification, epidemiology and pathophysiology",
+      "anchor": "#13-1-terminology-classification-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "13.1.1. Filling-phase (storage) dysfunctions",
+      "anchor": "#13-1-1-filling-phase-storage-dysfunctions"
+    },
+    {
+      "level": 4,
+      "text": "13.1.2. Voiding-phase (emptying) dysfunctions",
+      "anchor": "#13-1-2-voiding-phase-emptying-dysfunctions"
+    },
+    {
+      "level": 3,
+      "text": "13.2. Diagnostic evaluation",
+      "anchor": "#13-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "13.2.1. History and physical examination",
+      "anchor": "#13-2-1-history-and-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "13.2.2. Ultrasound and urinalysis",
+      "anchor": "#13-2-2-ultrasound-and-urinalysis"
+    },
+    {
+      "level": 4,
+      "text": "13.2.3. Urodynamics",
+      "anchor": "#13-2-3-urodynamics"
+    },
+    {
+      "level": 3,
+      "text": "13.3. Management",
+      "anchor": "#13-3-management"
+    },
+    {
+      "level": 4,
+      "text": "13.3.1. Urotherapy and specific add-on interventions",
+      "anchor": "#13-3-1-urotherapy-and-specific-add-on-interventions"
+    },
+    {
+      "level": 4,
+      "text": "13.3.2. Medication",
+      "anchor": "#13-3-2-medication"
+    },
+    {
+      "level": 4,
+      "text": "13.3.3. Neuromodulation",
+      "anchor": "#13-3-3-neuromodulation"
+    },
+    {
+      "level": 4,
+      "text": "13.3.4. Surgery",
+      "anchor": "#13-3-4-surgery"
+    },
+    {
+      "level": 3,
+      "text": "13.4. Quality of life",
+      "anchor": "#13-4-quality-of-life"
+    },
+    {
+      "level": 3,
+      "text": "13.5. Follow-up",
+      "anchor": "#13-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "13.6. Summary of evidence and recommendations for the management of daytime lower urinary tract conditions",
+      "anchor": "#13-6-summary-of-evidence-and-recommendations-for-the-management-of-daytime-lower-urinary-tract-conditions"
+    },
+    {
+      "level": 2,
+      "text": "14. MONOSYMPTOMATIC NOCTURNAL ENURESIS - BEDWETTING",
+      "anchor": "#14-monosymptomatic-nocturnal-enuresis---bedwetting"
+    },
+    {
+      "level": 3,
+      "text": "14.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#14-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "14.2. Diagnostic evaluation",
+      "anchor": "#14-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "14.3. Management",
+      "anchor": "#14-3-management"
+    },
+    {
+      "level": 4,
+      "text": "14.3.1. Supportive treatment measures",
+      "anchor": "#14-3-1-supportive-treatment-measures"
+    },
+    {
+      "level": 4,
+      "text": "14.3.2. Wetting alarm treatment",
+      "anchor": "#14-3-2-wetting-alarm-treatment"
+    },
+    {
+      "level": 4,
+      "text": "14.3.3. Medical treatment",
+      "anchor": "#14-3-3-medical-treatment"
+    },
+    {
+      "level": 4,
+      "text": "14.3.4. Electrical neuromodulation",
+      "anchor": "#14-3-4-electrical-neuromodulation"
+    },
+    {
+      "level": 4,
+      "text": "14.3.5. Complementary treatments:",
+      "anchor": "#14-3-5-complementary-treatments"
+    },
+    {
+      "level": 4,
+      "text": "14.3.6. Conservative ‘wait-and-see’ approach",
+      "anchor": "#14-3-6-conservative-wait-and-see-approach"
+    },
+    {
+      "level": 3,
+      "text": "14.4. Summary of evidence and recommendations for the management of monosymptomatic enuresis",
+      "anchor": "#14-4-summary-of-evidence-and-recommendations-for-the-management-of-monosymptomatic-enuresis"
+    },
+    {
+      "level": 2,
+      "text": "15. SPINAL DYSRAPHISM IN CHILDREN AND ADOLESCENTS (FORMALLY NEUROGENIC BLADDER)",
+      "anchor": "#15-spinal-dysraphism-in-children-and-adolescents-formally-neurogenic-bladder"
+    },
+    {
+      "level": 2,
+      "text": "16. DILATATION OF THE UPPER URINARY TRACT (PUJ OBSTRUCTION)",
+      "anchor": "#16-dilatation-of-the-upper-urinary-tract-puj-obstruction"
+    },
+    {
+      "level": 3,
+      "text": "16.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#16-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "16.2. Diagnostic evaluation",
+      "anchor": "#16-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "16.2.1. Antenatal ultrasound",
+      "anchor": "#16-2-1-antenatal-ultrasound"
+    },
+    {
+      "level": 4,
+      "text": "16.2.2. Postnatal ultrasound",
+      "anchor": "#16-2-2-postnatal-ultrasound"
+    },
+    {
+      "level": 4,
+      "text": "16.2.3. Voiding cystourethrogram",
+      "anchor": "#16-2-3-voiding-cystourethrogram"
+    },
+    {
+      "level": 4,
+      "text": "16.2.4. Diuretic renography",
+      "anchor": "#16-2-4-diuretic-renography"
+    },
+    {
+      "level": 4,
+      "text": "16.2.5. Severity classification and risk stratification",
+      "anchor": "#16-2-5-severity-classification-and-risk-stratification"
+    },
+    {
+      "level": 4,
+      "text": "16.2.6. Biomarkers",
+      "anchor": "#16-2-6-biomarkers"
+    },
+    {
+      "level": 3,
+      "text": "16.3. Management",
+      "anchor": "#16-3-management"
+    },
+    {
+      "level": 4,
+      "text": "16.3.1. Prenatal management",
+      "anchor": "#16-3-1-prenatal-management"
+    },
+    {
+      "level": 4,
+      "text": "16.3.2. PUJ obstruction",
+      "anchor": "#16-3-2-puj-obstruction"
+    },
+    {
+      "level": 3,
+      "text": "16.4. Summary of evidence and recommendations for the management of PUJ obstruction",
+      "anchor": "#16-4-summary-of-evidence-and-recommendations-for-the-management-of-puj-obstruction"
+    },
+    {
+      "level": 2,
+      "text": "17. VESICOURETERIC REFLUX",
+      "anchor": "#17-vesicoureteric-reflux"
+    },
+    {
+      "level": 3,
+      "text": "17.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#17-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "17.2. Diagnostic evaluation",
+      "anchor": "#17-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "17.2.1. Recommendation for diagnosis of VUR",
+      "anchor": "#17-2-1-recommendation-for-diagnosis-of-vur"
+    },
+    {
+      "level": 4,
+      "text": "17.2.2. Infants presenting with prenatally diagnosed hydronephrosis",
+      "anchor": "#17-2-2-infants-presenting-with-prenatally-diagnosed-hydronephrosis"
+    },
+    {
+      "level": 4,
+      "text": "17.2.3. Siblings and offspring of reflux patients",
+      "anchor": "#17-2-3-siblings-and-offspring-of-reflux-patients"
+    },
+    {
+      "level": 4,
+      "text": "17.2.4. Recommendation for paediatric screening of VUR",
+      "anchor": "#17-2-4-recommendation-for-paediatric-screening-of-vur"
+    },
+    {
+      "level": 4,
+      "text": "17.2.5. Children with febrile urinary tract infections",
+      "anchor": "#17-2-5-children-with-febrile-urinary-tract-infections"
+    },
+    {
+      "level": 4,
+      "text": "17.2.6. Children with lower urinary tract symptoms and vesicoureteric reflux",
+      "anchor": "#17-2-6-children-with-lower-urinary-tract-symptoms-and-vesicoureteric-reflux"
+    },
+    {
+      "level": 3,
+      "text": "17.3. Disease management",
+      "anchor": "#17-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "17.3.1. Nonsurgical therapy",
+      "anchor": "#17-3-1-nonsurgical-therapy"
+    },
+    {
+      "level": 4,
+      "text": "17.3.2. Surgical treatment",
+      "anchor": "#17-3-2-surgical-treatment"
+    },
+    {
+      "level": 3,
+      "text": "17.4. Summary of evidence and recommendations for the management of vesicoureteric reflux in childhood",
+      "anchor": "#17-4-summary-of-evidence-and-recommendations-for-the-management-of-vesicoureteric-reflux-in-childhood"
+    },
+    {
+      "level": 2,
+      "text": "18. URINARY STONE DISEASE",
+      "anchor": "#18-urinary-stone-disease"
+    },
+    {
+      "level": 3,
+      "text": "18.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#18-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "18.2. Classification systems",
+      "anchor": "#18-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "18.2.1. Calcium stones",
+      "anchor": "#18-2-1-calcium-stones"
+    },
+    {
+      "level": 4,
+      "text": "18.2.2. Uric acid stones",
+      "anchor": "#18-2-2-uric-acid-stones"
+    },
+    {
+      "level": 4,
+      "text": "18.2.3. Cystine stones",
+      "anchor": "#18-2-3-cystine-stones"
+    },
+    {
+      "level": 4,
+      "text": "18.2.4. Infection stones (struvite stones)",
+      "anchor": "#18-2-4-infection-stones-struvite-stones"
+    },
+    {
+      "level": 3,
+      "text": "18.3. Diagnostic evaluation",
+      "anchor": "#18-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "18.3.1. Imaging",
+      "anchor": "#18-3-1-imaging"
+    },
+    {
+      "level": 4,
+      "text": "18.3.2. Metabolic evaluation",
+      "anchor": "#18-3-2-metabolic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "18.3.3. Urolithiasis in infants",
+      "anchor": "#18-3-3-urolithiasis-in-infants"
+    },
+    {
+      "level": 3,
+      "text": "18.4. Management",
+      "anchor": "#18-4-management"
+    },
+    {
+      "level": 4,
+      "text": "18.4.1. Extracorporeal shockwave lithotripsy",
+      "anchor": "#18-4-1-extracorporeal-shockwave-lithotripsy"
+    },
+    {
+      "level": 4,
+      "text": "18.4.2. Percutaneous nephrolithotomy",
+      "anchor": "#18-4-2-percutaneous-nephrolithotomy"
+    },
+    {
+      "level": 4,
+      "text": "18.4.3. Ureterorenoscopy",
+      "anchor": "#18-4-3-ureterorenoscopy"
+    },
+    {
+      "level": 4,
+      "text": "18.4.4. Open or laparoscopic stone surgery",
+      "anchor": "#18-4-4-open-or-laparoscopic-stone-surgery"
+    },
+    {
+      "level": 3,
+      "text": "18.5. Summary of evidence and recommendations for the management of urinary stones",
+      "anchor": "#18-5-summary-of-evidence-and-recommendations-for-the-management-of-urinary-stones"
+    },
+    {
+      "level": 2,
+      "text": "19. URETEROCELE AND ECTOPIC URETER",
+      "anchor": "#19-ureterocele-and-ectopic-ureter"
+    },
+    {
+      "level": 3,
+      "text": "19.1. Ureterocele",
+      "anchor": "#19-1-ureterocele"
+    },
+    {
+      "level": 4,
+      "text": "19.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#19-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "19.1.2. Classification systems",
+      "anchor": "#19-1-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "19.1.3. Diagnostic evaluation",
+      "anchor": "#19-1-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "19.1.4. Management",
+      "anchor": "#19-1-4-management"
+    },
+    {
+      "level": 3,
+      "text": "19.2. Ectopic ureter",
+      "anchor": "#19-2-ectopic-ureter"
+    },
+    {
+      "level": 4,
+      "text": "19.2.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#19-2-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "19.2.2. Classification",
+      "anchor": "#19-2-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "19.2.3. Clinical presentation and diagnostic evaluation",
+      "anchor": "#19-2-3-clinical-presentation-and-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "19.2.4. Management",
+      "anchor": "#19-2-4-management"
+    },
+    {
+      "level": 3,
+      "text": "19.3. Summary of evidence and recommendations for the management of obstructive pathology of renal duplication: ureterocele and ectopic ureter",
+      "anchor": "#19-3-summary-of-evidence-and-recommendations-for-the-management-of-obstructive-pathology-of-renal-duplication-ureterocele-and-ectopic-ureter"
+    },
+    {
+      "level": 3,
+      "text": "20.1. Introduction",
+      "anchor": "#20-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "20.2. International consensus statements on DSD management",
+      "anchor": "#20-2-international-consensus-statements-on-dsd-management"
+    },
+    {
+      "level": 3,
+      "text": "20.3. Current classification of DSD conditions",
+      "anchor": "#20-3-current-classification-of-dsd-conditions"
+    },
+    {
+      "level": 3,
+      "text": "20.4. Diagnostic evaluation",
+      "anchor": "#20-4-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "20.4.1. The neonatal emergency",
+      "anchor": "#20-4-1-the-neonatal-emergency"
+    },
+    {
+      "level": 4,
+      "text": "20.4.2. Family history and clinical examination",
+      "anchor": "#20-4-2-family-history-and-clinical-examination"
+    },
+    {
+      "level": 3,
+      "text": "20.5. Gender assignment",
+      "anchor": "#20-5-gender-assignment"
+    },
+    {
+      "level": 3,
+      "text": "20.6. Risk of tumour development",
+      "anchor": "#20-6-risk-of-tumour-development"
+    },
+    {
+      "level": 3,
+      "text": "20.7. Quality of life",
+      "anchor": "#20-7-quality-of-life"
+    },
+    {
+      "level": 2,
+      "text": "21. CONGENITAL LOWER URINARY TRACT OBSTRUCTION",
+      "anchor": "#21-congenital-lower-urinary-tract-obstruction"
+    },
+    {
+      "level": 3,
+      "text": "21.1. Epidemiology and pathophysiology",
+      "anchor": "#21-1-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "21.2. Classification systems of the urethral valves",
+      "anchor": "#21-2-classification-systems-of-the-urethral-valves"
+    },
+    {
+      "level": 3,
+      "text": "21.3. Diagnostic evaluation",
+      "anchor": "#21-3-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "21.4. Management",
+      "anchor": "#21-4-management"
+    },
+    {
+      "level": 4,
+      "text": "21.4.1. Prenatal treatment",
+      "anchor": "#21-4-1-prenatal-treatment"
+    },
+    {
+      "level": 4,
+      "text": "21.4.2. Postnatal treatment",
+      "anchor": "#21-4-2-postnatal-treatment"
+    },
+    {
+      "level": 3,
+      "text": "21.5. Follow-up",
+      "anchor": "#21-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "21.6. Summary of evidence and recommendations for the management of posterior urethral valves",
+      "anchor": "#21-6-summary-of-evidence-and-recommendations-for-the-management-of-posterior-urethral-valves"
+    },
+    {
+      "level": 2,
+      "text": "22. RARE CONDITIONS IN CHILDHOOD",
+      "anchor": "#22-rare-conditions-in-childhood"
+    },
+    {
+      "level": 3,
+      "text": "22.1. Urachal remnants",
+      "anchor": "#22-1-urachal-remnants"
+    },
+    {
+      "level": 4,
+      "text": "22.1.1. Introduction",
+      "anchor": "#22-1-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "22.1.2. Epidemiology",
+      "anchor": "#22-1-2-epidemiology"
+    },
+    {
+      "level": 4,
+      "text": "22.1.3. Symptoms",
+      "anchor": "#22-1-3-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "22.1.4. Diagnosis",
+      "anchor": "#22-1-4-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "22.1.5. Treatment",
+      "anchor": "#22-1-5-treatment"
+    },
+    {
+      "level": 4,
+      "text": "22.1.6. Pathology of removed remnants",
+      "anchor": "#22-1-6-pathology-of-removed-remnants"
+    },
+    {
+      "level": 4,
+      "text": "22.1.7. Urachal cancer",
+      "anchor": "#22-1-7-urachal-cancer"
+    },
+    {
+      "level": 4,
+      "text": "22.1.8. Summary of evidence and recommendation for management of urachal remnants",
+      "anchor": "#22-1-8-summary-of-evidence-and-recommendation-for-management-of-urachal-remnants"
+    },
+    {
+      "level": 3,
+      "text": "22.2. Papillary tumours of the bladder in children and adolescents (Papillary urothelial neoplasm of low malignant potential)",
+      "anchor": "#22-2-papillary-tumours-of-the-bladder-in-children-and-adolescents-papillary-urothelial-neoplasm-of-low-malignant-potential"
+    },
+    {
+      "level": 4,
+      "text": "22.2.1. Incidence",
+      "anchor": "#22-2-1-incidence"
+    },
+    {
+      "level": 4,
+      "text": "22.2.2. Differences and similarities of papillary tumours of the bladder in children and adults",
+      "anchor": "#22-2-2-differences-and-similarities-of-papillary-tumours-of-the-bladder-in-children-and-adults"
+    },
+    {
+      "level": 4,
+      "text": "22.2.3. Risk factors",
+      "anchor": "#22-2-3-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "22.2.4. Presentation",
+      "anchor": "#22-2-4-presentation"
+    },
+    {
+      "level": 4,
+      "text": "22.2.5. Investigations and treatment",
+      "anchor": "#22-2-5-investigations-and-treatment"
+    },
+    {
+      "level": 4,
+      "text": "22.2.6. Histology",
+      "anchor": "#22-2-6-histology"
+    },
+    {
+      "level": 4,
+      "text": "22.2.7. Additional treatment",
+      "anchor": "#22-2-7-additional-treatment"
+    },
+    {
+      "level": 4,
+      "text": "22.2.8. Prognosis, recurrence and surveillance",
+      "anchor": "#22-2-8-prognosis-recurrence-and-surveillance"
+    },
+    {
+      "level": 4,
+      "text": "22.2.9. Summary of evidence and recommendations for papillary tumours of the bladder in children",
+      "anchor": "#22-2-9-summary-of-evidence-and-recommendations-for-papillary-tumours-of-the-bladder-in-children"
+    },
+    {
+      "level": 3,
+      "text": "22.3. Penile rare conditions",
+      "anchor": "#22-3-penile-rare-conditions"
+    },
+    {
+      "level": 4,
+      "text": "22.3.1. Cystic lesions",
+      "anchor": "#22-3-1-cystic-lesions"
+    },
+    {
+      "level": 4,
+      "text": "22.3.2. Vascular malformations",
+      "anchor": "#22-3-2-vascular-malformations"
+    },
+    {
+      "level": 4,
+      "text": "22.3.3. Neurogenic lesions",
+      "anchor": "#22-3-3-neurogenic-lesions"
+    },
+    {
+      "level": 4,
+      "text": "22.3.4. Soft tissue tumours of penis",
+      "anchor": "#22-3-4-soft-tissue-tumours-of-penis"
+    },
+    {
+      "level": 4,
+      "text": "22.3.5. Penile lymphedema",
+      "anchor": "#22-3-5-penile-lymphedema"
+    },
+    {
+      "level": 2,
+      "text": "23. EMERGENCIES IN PAEDIATRIC UROLOGY",
+      "anchor": "#23-emergencies-in-paediatric-urology"
+    },
+    {
+      "level": 3,
+      "text": "23.1. Acute scrotum",
+      "anchor": "#23-1-acute-scrotum"
+    },
+    {
+      "level": 3,
+      "text": "23.2. Paraphimosis",
+      "anchor": "#23-2-paraphimosis"
+    },
+    {
+      "level": 3,
+      "text": "23.3. Priapism",
+      "anchor": "#23-3-priapism"
+    },
+    {
+      "level": 4,
+      "text": "23.3.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#23-3-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "23.3.2. Classification",
+      "anchor": "#23-3-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "23.3.3. Diagnostic evaluation",
+      "anchor": "#23-3-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "23.3.4. Disease management",
+      "anchor": "#23-3-4-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "23.4. Summary of evidence and recommendations for the diagnosis and management of priapism",
+      "anchor": "#23-4-summary-of-evidence-and-recommendations-for-the-diagnosis-and-management-of-priapism"
+    },
+    {
+      "level": 2,
+      "text": "24. PAEDIATRIC UROLOGICAL TRAUMA",
+      "anchor": "#24-paediatric-urological-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.1. Paediatric renal trauma",
+      "anchor": "#24-1-paediatric-renal-trauma"
+    },
+    {
+      "level": 4,
+      "text": "24.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#24-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "24.1.2. Classification systems",
+      "anchor": "#24-1-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "24.1.3. Diagnostic evaluation",
+      "anchor": "#24-1-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.1.4. Disease management",
+      "anchor": "#24-1-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "24.1.5. Recommendations for the diagnosis and management of paediatric renal trauma",
+      "anchor": "#24-1-5-recommendations-for-the-diagnosis-and-management-of-paediatric-renal-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.2. Paediatric ureteral trauma",
+      "anchor": "#24-2-paediatric-ureteral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "24.2.1. Diagnostic evaluation",
+      "anchor": "#24-2-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.2.2. Management",
+      "anchor": "#24-2-2-management"
+    },
+    {
+      "level": 4,
+      "text": "24.2.3. Recommendations for the diagnosis and management of paediatric ureteral trauma",
+      "anchor": "#24-2-3-recommendations-for-the-diagnosis-and-management-of-paediatric-ureteral-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.3. Paediatric bladder injuries",
+      "anchor": "#24-3-paediatric-bladder-injuries"
+    },
+    {
+      "level": 4,
+      "text": "24.3.1. Diagnostic evaluation",
+      "anchor": "#24-3-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.3.2. Management",
+      "anchor": "#24-3-2-management"
+    },
+    {
+      "level": 4,
+      "text": "24.3.3. Recommendations for the diagnosis and management of paediatric bladder injuries",
+      "anchor": "#24-3-3-recommendations-for-the-diagnosis-and-management-of-paediatric-bladder-injuries"
+    },
+    {
+      "level": 3,
+      "text": "24.4. Paediatric urethral injuries",
+      "anchor": "#24-4-paediatric-urethral-injuries"
+    },
+    {
+      "level": 4,
+      "text": "24.4.1. Diagnostic evaluation",
+      "anchor": "#24-4-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.4.2. Disease management",
+      "anchor": "#24-4-2-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "24.4.3. Recommendations for the diagnosis and management of paediatric trauma",
+      "anchor": "#24-4-3-recommendations-for-the-diagnosis-and-management-of-paediatric-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.5. Urosepsis",
+      "anchor": "#24-5-urosepsis"
+    },
+    {
+      "level": 2,
+      "text": "25. PERIOPERATIVE MANAGEMENT",
+      "anchor": "#25-perioperative-management"
+    },
+    {
+      "level": 3,
+      "text": "25.1. Preoperative fasting, intraoperative fluid therapy, postoperative feeding, fasting and fluid management",
+      "anchor": "#25-1-preoperative-fasting-intraoperative-fluid-therapy-postoperative-feeding-fasting-and-fluid-management"
+    },
+    {
+      "level": 4,
+      "text": "25.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#25-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "25.1.2. Disease management",
+      "anchor": "#25-1-2-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "25.1.3. Summary of evidence and recommendations for the management of perioperative fluid management",
+      "anchor": "#25-1-3-summary-of-evidence-and-recommendations-for-the-management-of-perioperative-fluid-management"
+    },
+    {
+      "level": 3,
+      "text": "25.2. Postoperative pain management: general information",
+      "anchor": "#25-2-postoperative-pain-management-general-information"
+    },
+    {
+      "level": 4,
+      "text": "25.2.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#25-2-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "25.2.2. Diagnostic evaluation",
+      "anchor": "#25-2-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "25.2.3. Disease management",
+      "anchor": "#25-2-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "25.2.4. Summary of evidence and recommendations for the management of post-operative pain",
+      "anchor": "#25-2-4-summary-of-evidence-and-recommendations-for-the-management-of-post-operative-pain"
+    },
+    {
+      "level": 3,
+      "text": "25.3. Antibiotics management: general information",
+      "anchor": "#25-3-antibiotics-management-general-information"
+    },
+    {
+      "level": 3,
+      "text": "25.4. Thromboprophylaxis management: general information",
+      "anchor": "#25-4-thromboprophylaxis-management-general-information"
+    },
+    {
+      "level": 4,
+      "text": "25.4.1. Epidemiology, aetiology, pathophysiology",
+      "anchor": "#25-4-1-epidemiology-aetiology-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "25.4.2. Diagnostic evaluation",
+      "anchor": "#25-4-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "25.4.3. Disease management",
+      "anchor": "#25-4-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "25.4.4. Pharmacological treatment for thromboprophylaxis",
+      "anchor": "#25-4-4-pharmacological-treatment-for-thromboprophylaxis"
+    },
+    {
+      "level": 4,
+      "text": "25.4.5. Prevention of CVL-related VTE",
+      "anchor": "#25-4-5-prevention-of-cvl-related-vte"
+    },
+    {
+      "level": 4,
+      "text": "25.4.6. Summary of evidence and recommendations for the management of thromboprophylaxis management",
+      "anchor": "#25-4-6-summary-of-evidence-and-recommendations-for-the-management-of-thromboprophylaxis-management"
+    },
+    {
+      "level": 3,
+      "text": "25.5. Premedication management: general information",
+      "anchor": "#25-5-premedication-management-general-information"
+    },
+    {
+      "level": 4,
+      "text": "25.5.1. Recommendations for premedication management: general recommendations",
+      "anchor": "#25-5-1-recommendations-for-premedication-management-general-recommendations"
+    },
+    {
+      "level": 2,
+      "text": "26. BASIC PRINCIPLES OF LAPAROSCOPIC SURGERY IN CHILDREN",
+      "anchor": "#26-basic-principles-of-laparoscopic-surgery-in-children"
+    },
+    {
+      "level": 3,
+      "text": "26.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#26-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "26.2. Technical considerations and physiological consequences",
+      "anchor": "#26-2-technical-considerations-and-physiological-consequences"
+    },
+    {
+      "level": 4,
+      "text": "26.2.1. Preoperative evaluation",
+      "anchor": "#26-2-1-preoperative-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "26.2.2. Abdominal insufflation",
+      "anchor": "#26-2-2-abdominal-insufflation"
+    },
+    {
+      "level": 4,
+      "text": "26.2.3. Pulmonary effects",
+      "anchor": "#26-2-3-pulmonary-effects"
+    },
+    {
+      "level": 4,
+      "text": "26.2.4. Cardiovascular effects",
+      "anchor": "#26-2-4-cardiovascular-effects"
+    },
+    {
+      "level": 4,
+      "text": "26.2.5. Effects on renal function",
+      "anchor": "#26-2-5-effects-on-renal-function"
+    },
+    {
+      "level": 4,
+      "text": "26.2.6. Effects on neurological system",
+      "anchor": "#26-2-6-effects-on-neurological-system"
+    },
+    {
+      "level": 4,
+      "text": "26.2.7. Comparison of robot-assisted laparoscopic surgery versus laparoscopic surgery",
+      "anchor": "#26-2-7-comparison-of-robot-assisted-laparoscopic-surgery-versus-laparoscopic-surgery"
+    },
+    {
+      "level": 3,
+      "text": "26.3. Summary of evidence and recommendations for laparoscopy in children",
+      "anchor": "#26-3-summary-of-evidence-and-recommendations-for-laparoscopy-in-children"
+    },
+    {
+      "level": 2,
+      "text": "27. TRANSITIONAL UROLOGY",
+      "anchor": "#27-transitional-urology"
+    },
+    {
+      "level": 3,
+      "text": "27.1. Introduction",
+      "anchor": "#27-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "27.2. Barriers in transition",
+      "anchor": "#27-2-barriers-in-transition"
+    },
+    {
+      "level": 3,
+      "text": "27.3. The transition process",
+      "anchor": "#27-3-the-transition-process"
+    },
+    {
+      "level": 3,
+      "text": "27.4. Specific genitourinary conditions",
+      "anchor": "#27-4-specific-genitourinary-conditions"
+    },
+    {
+      "level": 4,
+      "text": "27.4.1. Neurogenic bladder",
+      "anchor": "#27-4-1-neurogenic-bladder"
+    },
+    {
+      "level": 4,
+      "text": "27.4.2. Posterior urethral valves",
+      "anchor": "#27-4-2-posterior-urethral-valves"
+    },
+    {
+      "level": 4,
+      "text": "27.4.3. Hypospadias",
+      "anchor": "#27-4-3-hypospadias"
+    },
+    {
+      "level": 4,
+      "text": "27.4.4. Bladder-exstrophy-epispadias complex",
+      "anchor": "#27-4-4-bladder-exstrophy-epispadias-complex"
+    },
+    {
+      "level": 4,
+      "text": "27.4.5. Differences of sex development",
+      "anchor": "#27-4-5-differences-of-sex-development"
+    },
+    {
+      "level": 3,
+      "text": "27.5. Summary of evidence and recommendations for transitional urology",
+      "anchor": "#27-5-summary-of-evidence-and-recommendations-for-transitional-urology"
+    },
+    {
+      "level": 2,
+      "text": "28. FOETAL UROLOGY",
+      "anchor": "#28-foetal-urology"
+    },
+    {
+      "level": 3,
+      "text": "28.1. Normal renal development",
+      "anchor": "#28-1-normal-renal-development"
+    },
+    {
+      "level": 4,
+      "text": "28.1.1. Introduction",
+      "anchor": "#28-1-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "28.1.2. Renal and bladder development",
+      "anchor": "#28-1-2-renal-and-bladder-development"
+    },
+    {
+      "level": 3,
+      "text": "28.2. Antenatal hydronephrosis",
+      "anchor": "#28-2-antenatal-hydronephrosis"
+    },
+    {
+      "level": 4,
+      "text": "28.2.1. Definitions and follow-up during pregnancy",
+      "anchor": "#28-2-1-definitions-and-follow-up-during-pregnancy"
+    },
+    {
+      "level": 4,
+      "text": "28.2.2. Aetiology",
+      "anchor": "#28-2-2-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "28.2.3. Classification systems for postnatal outcomes",
+      "anchor": "#28-2-3-classification-systems-for-postnatal-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "28.2.4. Postnatal outcomes",
+      "anchor": "#28-2-4-postnatal-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "28.2.5. Long-term outcomes",
+      "anchor": "#28-2-5-long-term-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "28.2.6. Prophylactic measures against UTIs",
+      "anchor": "#28-2-6-prophylactic-measures-against-utis"
+    },
+    {
+      "level": 3,
+      "text": "28.3. Congenital lower urinary tract obstruction",
+      "anchor": "#28-3-congenital-lower-urinary-tract-obstruction"
+    },
+    {
+      "level": 4,
+      "text": "28.3.1. Introduction",
+      "anchor": "#28-3-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "28.3.2. Diagnosis",
+      "anchor": "#28-3-2-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "28.3.3. Management",
+      "anchor": "#28-3-3-management"
+    },
+    {
+      "level": 4,
+      "text": "28.3.4. Foetal cystoscopy",
+      "anchor": "#28-3-4-foetal-cystoscopy"
+    },
+    {
+      "level": 4,
+      "text": "28.3.5. Serial amniotic infusions",
+      "anchor": "#28-3-5-serial-amniotic-infusions"
+    },
+    {
+      "level": 4,
+      "text": "28.3.6. Outcomes postnatally",
+      "anchor": "#28-3-6-outcomes-postnatally"
+    },
+    {
+      "level": 4,
+      "text": "28.3.7. Postnatal management",
+      "anchor": "#28-3-7-postnatal-management"
+    },
+    {
+      "level": 4,
+      "text": "28.3.8. Complex urogenital pathologies - prenatal management and considerations",
+      "anchor": "#28-3-8-complex-urogenital-pathologies---prenatal-management-and-considerations"
+    },
+    {
+      "level": 4,
+      "text": "28.3.9. Summary of evidence and recommendations for foetal urology",
+      "anchor": "#28-3-9-summary-of-evidence-and-recommendations-for-foetal-urology"
+    },
+    {
+      "level": 2,
+      "text": "29. REFERENCES",
+      "anchor": "#29-references"
+    },
+    {
+      "level": 2,
+      "text": "30. CONFLICT OF INTEREST",
+      "anchor": "#30-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "31. CITATION INFORMATION",
+      "anchor": "#31-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "32. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#32-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#paediatric-urology",
+      "title": "Paediatric Urology",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 12. Urinary Tract Infections In Children Introduction Methods Phimosis And Other Abnormalities Of The Penile Skin Management Of Undescended Testes Testicular Tumours In Prepubertal Boys Fertility Preservation In Children And Adolescents Hydrocele Acute Scrotum Hypospadias Congenital Penile Curvature Varicocele In Children And Adolescents Urinary Tract Infections In Children Daytime Lower Urinary Tract Conditions Monosymptomatic Nocturnal Enuresis Bedwetting Spinal Dysraphism In Children And Adolescents Formally Neurogenic Bladder Dilatation Of The Upper Urinary Tract Puj Obstruction Vesicoureteric Reflux Urinary Stone Disease Ureterocele And Ectopic Ureter Disorders/differences Of Sex Development Congenital Lower Urinary Tract Obstruction Rare Conditions In Childhood Emergencies In Paediatric Urology Paediatric Urological Trauma Perioperative Management Basic Principles Of Laparoscopic Surgery In Children Transitional Urology Foetal Urology References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#12-urinary-tract-infections-in-children",
+      "title": "12. URINARY TRACT INFECTIONS IN CHILDREN",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#12-1-epidemiology-aetiology-and-pathophysiology",
+      "title": "12.1. Epidemiology, aetiology and pathophysiology",
+      "level": 3,
+      "text": "Urinary tract infections (UTIs) represent the most common bacterial infections in children [499-501]. The leading causative organism for UTIs is Escherichia coli (E. Coli) , but other bacteria have been increasing in prevalence. In a large European study, E. Coli was found in less than 50% of urine cultures. Klebsiella pneumoniae, Enterobacter spp., Enterococcus spp., Pseudomonas spp., Proteus spp. and Candida spp. have all become more frequent in nosocomial infections, but their prevalence has increased also for community-acquired infections [502]. In addition, an increase in the prevalence of beta-lactamase resistant E. Coli has been observed over the last decades, both in nosocomial and community-acquired UTIs [503,504]. The pooled prevalence of UTI in children presenting with urinary symptoms is reportedly 7.8% (CI: 6.6-8.9) [505]. However, UTI prevalence and characteristics vary according to patient characteristics, such as age, sex and circumcision status in males. The prevalence is higher in neonates, where there is a male predominance, infections are more often caused by organisms other than E. Coli and there is a higher risk of urosepsis [505,506]. In a retrospective study, 12.4% of blood cultures from neonates admitted for UTI were positive for bacteraemia [507], which is particularly common in nosocomial UTIs [507,508]. One meta-analysis showed that, in children presenting with fever in the first three months of life, UTIs were present in 7.5% of girls, 2.4% (CI: 1.4-3.5) of circumcised boys and 20.1% (CI: 16.8-23.4) of uncircumcised boys [505]. The incidence for boys is highest during the first six months of life (5.3%) and decreases with age to approximately 2% for the ages up to six years. In girls, UTIs are less common during the first six months of life (2%) and incidence increases with age to around 11% for the ages up to six years [509]. Abnormal development of gut microbiota during infancy can also increase the risk of developing UTIs [510]. Urinary tract infections can determine the development of permanent focal renal damage, referred to as renal scarring, The risk of renal scarring increases if treatment of UTI is delayed [511], which is more often the case in older children than in younger infants [512] and in patients experiencing recurrent UTIs [513,514]. The risk of renal scarring increases with the number of febrile UTIs, with an incidence of 2.8% after a first febrile UTI, rising to 25.7% after two febrile UTIs and 28.6% after three or more febrile UTIs [514]. The sum of multiple episodes of UTI may also lead to significant loss of renal function and the development of chronic renal failure [515]. Risk factors for recurrent UTIs include obesity, ethnicity, the presence of lower urinary tract disorders (LUTD) or bladder and bowel dysfunction (BBD), and any underlying urological conditions, particularly high-grade vesicoureteral reflux (VUR) [516-521]. Prompt treatment is important to prevent the development of renal damage with UTIs. However, the diagnosis is seldom certain, and misdiagnosis can lead to unnecessary treatment and medicalisation of otherwise healthy children [522,523]. A systematic approach and management can significantly improve results [524-527].",
+      "tables": []
+    },
+    {
+      "anchor": "#12-2-presentation-symptoms",
+      "title": "12.2. Presentation symptoms",
+      "level": 3,
+      "text": "The most common presenting symptoms for UTI include fever, vomiting, lethargy and/or irritability. Urinary tract infection is the cause of fever in 4.1-7.5% of children who present to a paediatric clinic [528,529]. Neonates with severe UTIs can present with non-specific symptoms, such as failure to thrive, jaundice and hyperexcitability, even in the absence of a fever. In neonates, it is important to rule out coexisting meningitis [530]. Septic shock is unusual, even in febrile cases. Urinary symptoms are more common in children older than two years. These include frequent voiding, dysuria, and suprapubic, abdominal or lumbar pain.",
+      "tables": []
+    },
+    {
+      "anchor": "#12-3-classification-systems",
+      "title": "12.3. Classification systems",
+      "level": 3,
+      "text": "All UTIs can eventually be classified into upper or lower urinary tract infections. Lower UTIs (cystitis): An inflammatory condition of the urinary bladder mucosa with specific signs and symptoms including dysuria, frequency, urgency, malodorous urine, enuresis, haematuria and/or suprapubic pain. Upper UTIs (pyelonephritis): A diffuse pyogenic infection of the renal pelvis and parenchyma. The onset of pyelonephritis is generally abrupt. Clinical signs and symptoms include fever (> 38°C), chills, costovertebral angle or flank pain, and tenderness. For clinical decision-making, however, the following classifications are possibly more relevant.",
+      "tables": []
+    },
+    {
+      "anchor": "#12-3-1-classification-according-to-clinical-presentation",
+      "title": "12.3.1. Classification according to clinical presentation",
+      "level": 4,
+      "text": "From a clinical point of view, UTIs can be differentiated into febrile and nonfebrile. Febrile UTIs (fUTIs)s: Usually involve the upper tract, but mild fever can sometimes occur also in lower urinary tract infections. These are the UTIs of greatest interest in terms of the risk of developing renal damage. Nonfebrile UTIs: Infections generally limited to the lower urinary tract. Lower urinary tract symptoms are typically present. Infants and children may present with non-specific signs such as poor appetite, failure to thrive, lethargy, irritability, vomiting or diarrhoea. A nonfebrile UTI should be differentiated from an asymptomatic bacteriuria, where there is a positive culture in an otherwise asymptomatic child.",
+      "tables": []
+    },
+    {
+      "anchor": "#12-3-2-classification-according-to-episode-first-recurrent-breakthrough",
+      "title": "12.3.2. Classification according to episode: first, recurrent, breakthrough",
+      "level": 4,
+      "text": "A UTI can occur as first episode or a recurrence. A breakthrough infection is a UTI in patients on continuous antibacterial prophylaxis. A breakthrough UTI is usually due to bacteria resistant to the antibiotic used for prophylaxis and is also associated with parental non-compliance and/or severe underlying urogenital anomalies [531,532].",
+      "tables": []
+    },
+    {
+      "anchor": "#12-3-3-classification-according-to-age-and-toilet-training-status",
+      "title": "12.3.3. Classification according to age and toilet-training status",
+      "level": 4,
+      "text": "Urinary tract infection can occur in infants, in children during the period of toilet training, in toilet-trained children and finally in older patients. Infants represent a critical group as the diagnosis of UTI can be difficult, the course severe and UTI can be the first sign of a previously unknown urinary tract abnormality. Urinary tract infection can occur during toilet training as a result of transitory partial bladder control during this period. These infections tend to be mild and generally do not recur. Urinary tract infections in toilet trained patients can suggest an underlying LUTD/BBD. Urinary tract infections in older patients, particularly in females, can be associated with sexual intercourse.",
+      "tables": []
+    },
+    {
+      "anchor": "#12-3-4-classification-according-to-the-clinical-course",
+      "title": "12.3.4. Classification according to the clinical course",
+      "level": 4,
+      "text": "This is particularly relevant during a first UTI. Children may have typical or atypical UTIs. Typical UTIs are due to common bacteria, generally E. Coli . The UTI responds quickly to oral antibiotics (within 48 hours), and symptoms and patient conditions are not severe enough to require hospital admission. In contrast, atypical UTIs are generally due to bacteria other than E. Coli and/or multiresistant bacteria. The patient fails to respond to oral treatment or is unable to tolerate oral treatment, and hospital admission may be required.",
+      "tables": []
+    },
+    {
+      "anchor": "#12-3-5-classification-according-to-urinary-tract-abnormalities",
+      "title": "12.3.5. Classification according to urinary tract abnormalities",
+      "level": 4,
+      "text": "Most UTIs occur in patients without any underlying urinary tract abnormalities, and with normal renal function and a competent immune system. Under these circumstances, the UTIs is usually typical and the need for additional imaging is controversial. At the opposite end of the spectrum, UTIs can occur as a complication in a child with a known abnormality of the urinary tract, including any prenatal history of urinary tract dilatation. These are usually fUTIs. Common urinary tract abnormalities that can increase the risk of UTI include posterior urethral valves, strictures, stones, LUTD of either neurogenic or non-neurogenic origin, and VUR. This category also includes patients developing a UTI after urinary tract surgery, particularly those with indwelling stents/catheters and/or after renal transplantation [533,534]. Finally, UTIs can be the presenting symptoms of a previously unknown urinary tract condition. These are usually fUTIs.",
+      "tables": []
+    },
+    {
+      "anchor": "#12-4-diagnostic-evaluation",
+      "title": "12.4. Diagnostic evaluation",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#12-4-1-medical-history",
+      "title": "12.4.1. Medical history",
+      "level": 4,
+      "text": "History taking should define the type of episode: first or recurring; possible history of urinary tract abnormalities, including any dilatation detected during prenatal US screening; prior operations; family history; and the presence of lower urinary tract symptoms (LUTS) and/or constipation.",
+      "tables": []
+    },
+    {
+      "anchor": "#12-4-2-physical-examination",
+      "title": "12.4.2. Physical examination",
+      "level": 4,
+      "text": "Physical examination includes a general examination to exclude other causes of fever. Assessment of body weight and temperature, the abdomen (constipation, palpable and painful kidney, or palpable bladder), flank, lower back (stigmata of spina bifida or sacral agenesis) and genitalia (phimosis, labial adhesions, vulvitis, epididymo-orchitis) should be performed.",
+      "tables": []
+    },
+    {
+      "anchor": "#12-4-3-urine-sampling-analysis-and-culture",
+      "title": "12.4.3. Urine sampling, analysis and culture",
+      "level": 4,
+      "text": "Urine must be collected under defined conditions and investigated as soon as possible to confirm or exclude a UTI, especially in children with a fever. Urine sampling must be performed before any antimicrobial agent is administered. The technique for obtaining urine for urinalysis, as well as culture method, affects the rate of contamination, which influences interpretation of the results. This can be challenging in early infancy and depends on the method of urine sampling [535]. In older, toilet-trained children who can void on command, after carefully retracting the foreskin and cleaning the glans penis in boys and spreading the labia and cleaning the periurethral area in girls, the use of a clean catch, especially a midstream urine, can be an acceptable technique for obtaining a reliable urine sample. In a randomised trial, cleaning the urethral meatus and perineum twice with gauze and liquid soap reduced the risk of sample contamination from 23.9% (41/171) to 7.8% (14/171) [536]. In neonates, infants and non-toilet-trained children, there are four main methods with varying contamination rates and invasiveness with respect to urine collection: Plastic bag attached to the cleaned genitalia: Although this technique is most often used in daily practice, contamination rates are high: approximately 50-60% [537]. The technique is only deemed to be reliable when culture results are negative. If the dipstick is negative for both leukocyte esterase and nitrite, or microscopic analysis is negative for both pyuria and bacteriuria, UTI can be excluded without the need for confirmatory culture [538]. Clean-catch urine (CCU) collection: There appears to be a good correlation between the results of urine cultures obtained using this method and suprapubic aspiration (SPA), with a false-positive rate of 5% and false-negative rate of 12% [539,540]. However, the contamination rate is higher for CCU of up to 26% compared to catheterisation (10%) and suprapubic bladder aspiration (1%) [537,541]. In one prospective cohort study of infants below the age of six months, the success rate was 49% and the contamination rate 16%, with some differences in culture results between those obtained by CCU and those by more invasive methods [542]. Transurethral bladder catheterisation is the fastest and safest method to obtain a reliable urine sample for microscopic and bacteriological evaluation to rule out - or to document - a UTI in non-toilet-trained infants and children. Suprapubic bladder aspiration is the most invasive modality but also the most sensitive method to obtain an uncontaminated urine sample in this age group [543,544]. 12.4.3.a. Urinalysis Three methods are commonly used for urinalysis: Dipstick: This method is appealing because it provides rapid results, does not require microscopy and is ready-to-use. Leukocyte esterase (as a surrogate marker for pyuria) and nitrite (which is converted from dietary nitrates by most Gram-negative enteric bacteria in the urine) are the most frequent markers and are usually combined in a dipstick test. The conversion of dietary nitrates to nitrites by bacteria takes approximately four hours in the bladder [540,545]. The sensitivity of using nitrate alone to screen febrile children < 2 years of age is too low, and relevant UTIs can be missed. However, the specificity is high for children at any age [546,547]. In febrile infants < 90 days old, urine dipstick tests from CCU samples can be used for screening of UTIs when nitrites and leukocyte esterase are used in combination, with a sensitivity of 86% and a specificity of 80% [548,549]. Anand et al. (2023) assessed the use of urine dipstick tests for the rapid detection of UTIs in children, demonstrating a sensitivity of 75% and a specificity of 90%, suggesting their utility in resource-limited settings [550]. Microscopy: This is the standard method of assessing pyuria after urine centrifugation with a threshold of five white blood cells (WBCs) per high-power field (25 WBC/μL) [551]. In uncentrifuged urine, > 10 WBC/μL has been demonstrated to be sensitive for UTI [552], and this performs well in a hospital setting [553]. However, this is rarely done in an outpatient setting. No significant differences were found between dipsticks and microscopy testing for UTI [547]. A meta-analysis showed that only microscopy with Gram staining has a higher sensitivity compared to dipsticks [554]. Flow imaging analysis technology: This technology is increasingly being used to classify particles in uncentrifuged urine specimens [555]. The numbers of WBCs, squamous epithelial cells and red cells correlate well with those found by manual methods [540]. Flow cytometry-based bacterial and leukocyte count analysis when using a cut-off value of 250 bacteria/μL in the presence of leukocyturia has a sensitivity of 0.97 and specificity of 0.91 for diagnosing UTIs [556]. In addition to these methods, urine biomarkers are currently under evaluation to distinguish UTIs",
+      "tables": []
+    },
+    {
+      "anchor": "#12-4-4-blood-tests",
+      "title": "12.4.4. Blood tests",
+      "level": 4,
+      "text": "Blood tests are a complement for the diagnosis of UTI and are generally performed only in patients requiring hospital admission. In cases of renal parenchymal involvement, a neutrophilic leukocytosis is expected, as is a rise in C-reactive protein. These markers are non-specific and several additional markers are under evaluation, but are not used in clinical practice [558,561]. In current clinical practice, the most specific blood marker of renal involvement is procalcitonin [562]. A cut-off value of serum procalcitonin > 1.0ng/mL has been shown to be predictive of acute pyelonephritis in young children [563]. In patients with febrile UTIs requiring admission, serum electrolytes and blood cell counts should also be requested. Figure 5: Diagnostic evaluation and subsequent management of a febrile child with suspicion of UTI AB = antibiotic; CAP = continuous antibiotic prophylaxis; CRP = C-reactive protein.",
+      "tables": []
+    },
+    {
+      "anchor": "#12-5-additional-workup",
+      "title": "12.5. Additional workup",
+      "level": 3,
+      "text": "Imaging modalities in the acute phase of the infection should be differentiated from follow-up investigations recommended in patients following a first or recurrent episode of UTI.",
+      "tables": []
+    },
+    {
+      "anchor": "#12-5-1-ultrasound-us",
+      "title": "12.5.1. Ultrasound (US)",
+      "level": 4,
+      "text": "The Panel recommends a renal and bladder ultrasound (US) in children with febrile UTIs to rule out urinary tract abnormalities. The investigation should be performed within 24 hours in infants and acutely ill children, as these patients are typically hospitalised and may require urgent management. However, in children who do not require hospitalisation, renal US may be scheduled at a later date. In toilet-trained patients, the US should be performed before and after voiding to assess upper tract changes in relation to bladder filling and to measure post-void residual (PVR) urine volumes, which can be the sign of underlying voiding dysfunction. An elevated PVR urine volume predicts the recurrence of UTIs in toilet-trained children [564]. Ultrasound can also help in assessing the presence of faecal impaction [565]. Overall, abnormal results are found in 15% of cases [538], and 7% require further investigations [566]. A study evaluating the necessity of performing US only in children with a pathogen other than E. Coli during their first UTI or those experiencing recurrent UTI demonstrated that this selective approach could reduce the overall number of ultrasound scans by 40.4% [567]. The overall accuracy of US in predicting high-grade VUR is low, with a sensitivity 0.59 (CI: 0.45-0.72) and specificity 0.79 (CI: 0.65-0.87) [568]. When perirenal or psoas abscesses or renal masses are seen on US, it is important to consider xanthogranulomatous pyelonephritis, and subsequent CT scan is recommended [569].",
+      "tables": []
+    },
+    {
+      "anchor": "#12-5-2-radionuclide-scanningmri",
+      "title": "12.5.2. Radionuclide scanning/MRI",
+      "level": 4,
+      "text": "Dimercaptosuccinic acid (DMSA) scan is the most accurate method to document localisation of a UTI to the renal parenchyma and the associated renal scarring that can ensue. To assess renal involvement, the DMSA scan must be performed within days of a febrile UTI (acute or early DMSA). The pyelonephritis appears as a perfusion defect within the kidney. These changes were found to correlate with the presence of dilating reflux, the risk of further pyelonephritis episodes, breakthrough infections, and the development of renal scarring [570]. After the first community-acquired fUTI, it has been shown that the majority of renal units with dilating VUR had normal early DMSA scanning [571]. The sensitivity of the DMSA scan to detect VUR is 0.75 (CI: 0.67-0.81) with a specificity of 0.48 (CI: 0.38-0.57), and a negative DMSA scan results in a very low probability of high-grade VUR [572]. This investigation, however, is no longer widely used in clinical practice to limit the level of radiation exposure in patients. Dimercaptosuccinic acid scans are generally recommended in the follow-up of febrile UTIs, after a period of at least six months from the infection, to detect persistent scaring [573]. Increasingly physicians tend to avoid DMSA scans after the first fUTI, if the US does not demonstrate any pelvicalyceal dilatation, or cortical abnormalities. Diffusion-weighted MRI has also been shown to accurately diagnose acute pyelonephritis and reveal late renal scars and could be an alternative to DMSA, therefore, avoiding radiation burden [574]. Magnetic resonance imaging, however, cannot be considered standard practice at present.",
+      "tables": []
+    },
+    {
+      "anchor": "#12-5-3-voiding-cystourethrographyurosonography",
+      "title": "12.5.3. Voiding cystourethrography/urosonography",
+      "level": 4,
+      "text": "Voiding cystourethrography (VCUG) is the imaging of choice to detect VUR. The timing of VCUG does correlate with the presence or severity of VUR [575]. Performing a VCUG close to the UTI in patients with proven sterile urine does not cause any significant morbidity [576]. Using harmonic voiding urosonography may be an alternative to standard VCUG avoiding radiation [577,578]. Visualisation of the urethra may be difficult with this technique. Neither examination, however, is recommended in the acute phase of the UTI and, given the fact that the investigation is invasive and bothersome for the family [566,579], selective use is generally recommended during follow-up. VCUG is recommended in the following cases: (1) first febrile UTI in infants under 12 months, regardless of ultrasound results; (2) recurrent febrile UTI, abnormal ultrasound or presence of an abnormal DMSA in a top-down approach; and (3) atypical UTI at any age, regardless of ultrasound results [16,580]. Prediction models using machine learning have also been developed to combine additional factors [581]. As an alternative strategy to avoid unnecessary VCUG investigations, VCUGs can be limited to patients with an abnormal DMSA. This is known as a top-down approach. Numerous top-down strategies have been proposed, but waiting for a second infection can be an alternative option in patients with typical infections and a normal US. The Panel recommends the diagnostic flowchart depicted in Figure 6 [582]. In some patients with recurrent febrile UTIs and an abnormal DMSA, but a VCUG showing no reflux, a cystography performed with endoscopic instillation of the contrast in front of the ureteral orifice (positional instillation of contrast [PIC] cystography), which may demonstrate reflux [583]. Figure 6: Diagnosis strategy for first febrile UTI BBD = bladder and bowel dysfunction; CT = computed tomography; DMSA = dimercaptosuccinic acid; US = ultrasound; UTI = urinary tract infections; VCUG = voiding cystourethrogram.",
+      "tables": []
+    },
+    {
+      "anchor": "#12-6-management",
+      "title": "12.6. Management",
+      "level": 3,
+      "text": "The cornerstone in the management of UTIs is the administration of antimicrobial therapy and should not be delayed. Delaying treatment in children with a febrile UTI for more than 48-72 hours increases the risk of renal scars [511,572]. Supportive treatment may be required in severely ill patients. Temporary urinary diversion can be considered on a case-by-case basis. The requirement for surgical procedures, such as cutaneous ureterostomy or nephrectomy, during the acute phase is exceptional. After the treatment of the infection, it is crucial to address any LUTD/BBD, if present [584-587].",
+      "tables": []
+    },
+    {
+      "anchor": "#12-6-1-administration-route-of-antibacterial-therapy",
+      "title": "12.6.1. Administration route of antibacterial therapy",
+      "level": 4,
+      "text": "The choice between oral and parenteral therapy should be based on patient age; clinical suspicion of urosepsis; illness severity; refusal of fluids, food and/or oral medication; vomiting; diarrhoea; noncompliance; and complicated pyelonephritis (e.g. urinary obstruction). As a result of the increased incidence of urosepsis and severe pyelonephritis in newborns and infants aged less than two months, parenteral antibiotic therapy is recommended in this age group. Electrolyte disorders with life-threatening hyponatraemia and hyperkalaemia based on pseudohypoaldosteronism can also occur in these patients [588,589]. The choice of agent is also based on local antimicrobial sensitivity patterns and should later be adjusted according to sensitivity testing of the isolated uropathogen [540]. Not all available antibiotics are approved by national health authorities, especially in infancy. When recent urinary cultures are available, the sensitivity pattern should guide in the choice of treatment. Consider local resistance patterns and patient kidney function in the choice of antibiotic treatment.",
+      "tables": []
+    },
+    {
+      "anchor": "#12-6-2-adjustment-of-antimicrobial-agents",
+      "title": "12.6.2. Adjustment of antimicrobial agents",
+      "level": 4,
+      "text": "There is a large heterogeneity in the prevalence of antibiotic resistance patterns of uropathogenic E. Coli within different countries, with increased high resistance patterns in countries outside of the Organisation for Economic Co-operation and Development (OECD) [590]. There are increasing reports of UTIs caused by extended spectrum ß-lactamase-producing enterobacteriaceae (ESBL) in children, with pooled numbers of UTI caused by ESBL-producing bacteria of approximately 14% [591]. Within OECD countries, the prevalence of resistance was 53% for ampicillin, 24% for trimethoprim, 8% for co-amoxiclav, 2% for Ciproxin and 1% for nitrofurantoin [590]. According to Al-Wandawy et al. (2023), nearly all bacteria isolated from children with UTI showed resistance to ampicillin (65.62%) and amoxicillin (65.62%), but demonstrated high sensitivity to nitrofurantoin (90%), cefoperazone-sulbactam (85%) and meropenem (92%) [592]. Several risk factors and determinants for UTIs caused by ESBL and non- E. Coli bacteria have been identified, including a history of infection, recent hospitalisation, short-term exposure to antibiotics, and prophylaxis [590,593,594]. Overall, oral nitrofurantoin appears to be a good empirical choice in the treatment of cystitis [595]. The choice of antibiotics should be guided by good antibiotic stewardship. It is important to be aware of local resistance patterns, which are variable between countries and even between hospitals. Local antibiogram protocols and web-based recommendations can guide the choice of the type of antibiotic therapy. The individual patient’s previous urine cultures should also be taken into account in these decisions. The daily dosage of antibiotics is dependent on the age and weight of the child, as well as on renal and liver function (see Figure 5).",
+      "tables": []
+    },
+    {
+      "anchor": "#12-6-3-duration-of-therapy",
+      "title": "12.6.3. Duration of therapy",
+      "level": 4,
+      "text": "Prompt, adequate treatment of UTI can prevent the spread of infection and renal scarring. In newborns and young infants with a febrile UTI, up to 20% may have a positive blood culture [507,596]. Children with bacteraemia did not show significant clinical differences with non-bacteraemic infants but did receive longer parental treatment [597]. In late infancy, there are no differences between strategies regarding the incidence of parenchymal scars, as diagnosed with DMSA scan [598]. The duration of antibiotic therapy should be determined by the nature of the UTI, with simple cystitis generally requiring shorter courses, while febrile and complicated infections may necessitate longer treatment [540]. However, a simple cystitis can be treated with three to five days of antibiotics [599]. No significant difference in recurrent UTIs and rehospitalisation was found between seven-day parental treatment and longer regimens for bacteraemic UTIs in younger infants [600,601]. In young infants, a short course of parental treatment with early conversion to oral antibiotics may be considered [602]. The short course therapy for urinary tract infections (SCOUT) randomised trial demonstrated that a five-day course of oral antibiotics was noninferior to a ten-day course for the treatment of uncomplicated UTIs in children, supporting the use of shorter regimens when clinically appropriate. However, febrile UTIs still require longer courses to reduce the risk of recurrence and renal complications [603]. The use of exclusively oral therapy with a third-generation cephalosporin (e.g. cefixime or ceftibuten) has been demonstrated to be equivalent to the usual two to four days intravenous therapy followed by oral treatment [604-607]. Similar data have been shown for amoxicillin-clavulanate [608]. If ambulatory therapy is chosen, adequate surveillance, medical supervision and, if necessary, adjustment of therapy must be guaranteed. In the initial phase of therapy, close contact with the family is advised [609]. In complicated UTIs, uropathogens other than E. Coli. , such as Proteus mirabilis, Klebsiella spp., Pseudomonas aeruginosa, enterococci and staphylococci are the most likely causative pathogens [596]. Children with acute focal bacterial nephritis often present without pyuria and significant bacteriuria. For most children, the pathogenesis is related to ascending infection due to a pre-existing uropathy, especially VUR or urinary obstruction. Initial management consists of broad-spectrum antibiotics with good tissue penetration. A treatment regimen of a total of three weeks with initial intravenous and subsequently oral therapy tailored to the pathogen identified in culture is recommended [610].",
+      "tables": []
+    },
+    {
+      "anchor": "#12-6-4-adjunct-steroid-treatment",
+      "title": "12.6.4. Adjunct steroid treatment",
+      "level": 4,
+      "text": "Adjuvant dexamethasone treatment, by modulating the immune response, has been hypothesised to reduce kidney scarring after acute pyelonephritis in children. A multicentre, prospective, double-blind, placebo-controlled, randomised clinical trial demonstrated no difference either in the duration of the UTI or in the presence of renal scars on a DMSA performed six months after the infection, between patients receiving a three-day course of either intravenous dexamethasone 0.30mg/kg/day twice daily or placebo [611].",
+      "tables": []
+    },
+    {
+      "anchor": "#12-6-5-temporary-urinary-diversion",
+      "title": "12.6.5. Temporary urinary diversion",
+      "level": 4,
+      "text": "Temporary bladder drainage via a transurethral catheter or a suprapubic cystostomy might be required in case of failure to respond to treatment with suitable antibiotics within 72 hours. It can offer some advantages in selected patients with urinary tract abnormalities, underlying medical conditions, poor urine flow, abdominal or bladder mass, elevated creatinine levels, significant kidney damage and septicaemia. Drainage of infected urine may prevent progression to renal abscess formation and preserve renal function. In patients affected by refractory UTIs unresponsive to antibiotic treatment and concomitant obstructive uropathy, temporary urinary diversion via a ureteral stent or a nephrostomy can be considered.",
+      "tables": []
+    },
+    {
+      "anchor": "#12-6-6-monitoring",
+      "title": "12.6.6. Monitoring",
+      "level": 4,
+      "text": "With successful treatment, urine usually becomes sterile after 24 hours, and leukocyturia normally disappears within three to four days. Normalisation of body temperature can be expected within 24 to 48 hours following the commencement of therapy in 90% of cases. In patients with prolonged fever and those failing to respond, treatment-resistant uropathogens or the presence of congenital uropathy or acute urinary obstruction should be considered. Repeated US examination is recommended in these cases.",
+      "tables": []
+    },
+    {
+      "anchor": "#12-7-measures-to-prevent-uti-recurrences",
+      "title": "12.7. Measures to prevent UTI recurrences",
+      "level": 3,
+      "text": "Recurrent UTIs are problematic as the symptoms are bothersome to children, and recurrent febrile UTIs may also result in renal scarring [514]. Therefore, it is important to prevent the incidence of recurrent UTIs.",
+      "tables": []
+    },
+    {
+      "anchor": "#12-7-1-chemoprophylaxis",
+      "title": "12.7.1. Chemoprophylaxis",
+      "level": 4,
+      "text": "Chemoprophylaxis is commonly prescribed to prevent UTIs in children. However, with increasing rates of bacterial resistance, the question of which patients should receive antibacterial prophylaxis should be carefully considered. The evidence for the use of antibacterial prophylaxis has been conflicting. Its use causes a reduction of the number of recurrent symptomatic UTIs, but long-term use of antibacterial prophylaxis has also been associated with increased microbial resistance [531,612]. The use of antibacterial prophylaxis did not reduce newly acquired renal damage in children after the first or second UTI [612]. However, when used in patients with anatomic abnormalities of the urinary system, a reduction in UTIs and subsequent renal scarring has been shown [531,612]. A prospective multicentre study demonstrated that a ureteral diameter of 7mm or greater indicates a higher risk of UTI, and that these patients may benefit from chemoprophylaxis administration [613]. The Panel recommend chemoprophylaxis for the first year of life in patients with evidence of megaureter. In children with LUTD/BBD and VUR, a benefit was seen in the reduction of recurrent UTI with the use of antimicrobial prophylaxis [8] (see also Chapter 17 on vesicoureteric reflux). Chemoprophylaxis can be considered under these circumstances, particularly while waiting for the treatment of the LUT dysfunction to become effective. For the specific group of patients with incomplete bladder emptying with properly performed clean intermittent catheterisation but still suffering from recurrent UTIs, the intravesical application of gentamycin has proven to be effective [614,615]. Table 1: Drugs for antibacterial prophylaxis* Substance Prophylactic dosage (mg/kg bw/d) Limitations in neonates and infants Trimethoprim** 2 Not recommended under six weeks of age Trimethoprim and Sulfamethoxazole 1-2 Not recommended under two months of age Sulfamethoxazole 1-2 Up to three months of age Nitrofurantoin** 1-2 Not recommended under two months of age Cefaclor 10 No age limitations Cefixim 2 Preterms and newborns * Reproduced with permission from the International Consultation on Urological Diseases (ICUD), International Consultation on Urogenital Infections, 2009. Copyright© by the European Association of Urology . ** Substances of first choice are nitrofurantoin and trimethoprim. In exceptional cases, oral cephalosporin can be used.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Substance",
+              "Prophylactic dosage(mg/kg bw/d)",
+              "Limitations in neonates and infants"
+            ],
+            [
+              "Trimethoprim**",
+              "2",
+              "Not recommended under six weeks of age"
+            ],
+            [
+              "Trimethoprim andSulfamethoxazole",
+              "1-2",
+              "Not recommended under two months of age"
+            ],
+            [
+              "Sulfamethoxazole",
+              "1-2",
+              "Up to three months of age"
+            ],
+            [
+              "Nitrofurantoin**",
+              "1-2",
+              "Not recommended under two months of age"
+            ],
+            [
+              "Cefaclor",
+              "10",
+              "No age limitations"
+            ],
+            [
+              "Cefixim",
+              "2",
+              "Preterms and newborns"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#12-7-2-nonantibiotic-prophylaxis",
+      "title": "12.7.2. Nonantibiotic prophylaxis",
+      "level": 4,
+      "text": "The most investigated nonantibiotic prophylactic measures to prevent UTI recurrence in children are cranberry products and probiotic. As reported in a recent systematic review and meta-analysis of randomised controlled trials, both these interventions reduced the risk of UTI recurrence as compared with placebo in children with a normal urinary tract. The quality of evidence is moderate for cranberry, whereas the quality of evidence for probiotics products must be strengthened with larger and more robust trials [617]. The results for probiotics are somewhat more conflicting, with one systematic review not ruling out any effect [618] and an RCT showing promising results in children with normal urogenital anatomy [619]. A meta-analysis could not demonstrate a beneficial effect, and therefore probiotics should be used only as an adjuvant to antibiotic prophylaxis [620,621]. Other supplements of interest include vitamin A, which has shown promising results in preventing renal scarring in children with acute pyelonephritis [622,623]. The use of vitamin E could potentially improve the symptoms of UTI [624]. Several studies have demonstrated that vitamin D deficiency could be a risk factor for renal scarring in patients with recurrent UTIs. Vitamin D treatment may be beneficial for preventing renal scarring in patients with recurrent UTIs, but no prospective studies have been conducted [625]. None of these supplementations, however, can be considered at present for routine use in clinical practice.",
+      "tables": []
+    },
+    {
+      "anchor": "#12-7-3-phimosis",
+      "title": "12.7.3. Phimosis",
+      "level": 4,
+      "text": "When a physiologic phimosis is present in boys with a UTI, the use of steroid cream can significantly reduce recurrent UTIs [51]. The number needed to treat to prevent a single UTI is high in patients without associated urinary tract abnormalities, which calls into question the actual cost-to-benefit ratio [49]. Circumcision appears to be more cost-effective in preventing UTI recurrences in patients with posterior urethral valves (PUV) and vesicoureteral reflux (VUR) [626,627] (see also Section 21.1 on posterior urethral valves).",
+      "tables": []
+    },
+    {
+      "anchor": "#12-7-4-bladder-and-bowel-dysfunction-and-lower-urinary-tract-disorders",
+      "title": "12.7.4. Bladder and bowel dysfunction and lower urinary tract disorders",
+      "level": 4,
+      "text": "Bladder and bowel dysfunction (BBD) and lower urinary tract disorders (LUTDs) are risk factors for which every toilet-trained child with UTIs should be screened at presentation [517]. Normalisation of micturition disorders or bladder overactivity is important to lower the rate of UTI recurrence. In case of signs of BBD during infection-free intervals, further diagnosis and effective treatment are strongly recommended [628]. Exclusion of BBD is strongly recommended in any toilet-trained child with febrile and/or recurrent UTIs, and it should be treated (for treatment, see Chapter 13 on day-time lower urinary tract conditions). Treatment of constipation leads to a decrease in UTI recurrence, and a multidisciplinary approach is recommended [517,628-630]. The importance of comprehensive and preventive management of UTIs in patients with LUTD cannot be underestimated. Adequate hydration and proper hygiene, along with the evaluation and treatment of bladder dysfunctions, are key measures to reduce the recurrence of these infections. Similarly, optimisation of bladder emptying and correct catheterisation techniques in patients with neurogenic bladder dysfunction is critical to prevent UTI recurrence (for treatment, see the new guideline on spinal dysraphism in children and adolescents) [631,632].",
+      "tables": []
+    },
+    {
+      "anchor": "#12-8-summary-of-evidence-and-recommendations-for-the-management-of-uti-in-children",
+      "title": "12.8. Summary of evidence and recommendations for the management of UTI in children",
+      "level": 3,
+      "text": "Summary of evidence LE Urinary tract infection (UTI) represents the most common bacterial infection in children less than two years of age. The incidence varies depending on age and sex. 1b Urinary tract infections, particularly if febrile and/or recurrent, can cause renal scarring. 1b Urinary tract infections are classified according to upper and lower urinary tract involvement, clinical presentation, episode, severity, age and toilet-training status, clinical course, and associated urinary tract abnormalities. 2b Urinalysis by dipstick yields rapid results but should be used with caution and in a clinical context. Microscopic investigation is the standard method of assessing pyuria after centrifugation. 2a The number of colony forming units (CFUs) in the urine culture can vary, however, any colony count of one organism indicates a high suspicion for UTI. 2b Prompt treatment of febrile UTIs reduces the risk of developing renal scarring. 1b Due to increasing resistance numbers, good antibiotic stewardship should guide the choice of antibiotics, taking into account local resistance patterns, previous urine cultures (when available) and clinical parameters. 2a Preventive measures against recurrent UTIs include chemoprophylaxis, cranberries and probiotics. 1b Some studies suggest potential benefits of vitamin A, E and D supplements in preventing UTIs. 2a Treatment of bladder and bowel dysfunction and lower urinary tract dysfunction reduces the risk of UTI recurrences. 1b Recommendations Strength rating Take a detailed medical history, assess clinical signs and symptoms, and perform a physical examination in the evaluation of children suspected of having a urinary tract infection (UTI). Strong Use bladder catheterisation or suprapubic bladder aspiration to collect urine for urinalysis and cultures in non-toilet-trained children. Strong Use clean catch urine for screening for UTI in non-toilet-trained children. Weak Do not use plastic bags for urine sampling in non-toilet-trained children. Strong Use midstream urine in toilet-trained children for analysis and culture. Strong Perform renal and bladder US within 24 hours in infants with febrile UTI and acutely ill children to check for abnormalities of the urinary tract. Strong Consider a voiding cystourethrogram (VCUG) in the follow-up of patients developing febrile UTI < 1 year of age, with atypical infections, with recurrent infections, or with ultrasound abnormalities. Weak Consider a dimercaptosuccinic acid (DMSA) scan at least six months after a febrile UTI to assess kidney function and the presence of renal scars. Weak Treat febrile UTIs with four-to-seven-day courses of oral or parenteral therapy. Strong Chose parenteral therapy in severely ill patients or if oral treatment is not tolerated. Strong Start empirical antibiotic therapy for complicated febrile UTI. Strong Consider urinary drainage in patients with UTIs unresponsive to antibiotic treatment. Weak Offer antibacterial prophylaxis in patients at risk of recurrent UTIs. Strong Consider dietary supplementation as an alternative or add-on preventive measure in selected cases. Weak Offer treatment for phimosis to patients with underlying urological conditions. Weak Assess bladder and bowel dysfunction and lower urinary tract function in any toilet-trained child with febrile and/or recurrent UTI and treat it. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Urinary tract infection (UTI) represents the most common bacterial infection in children less than two years of age. The incidence varies depending on age and sex.",
+              "1b"
+            ],
+            [
+              "Urinary tract infections, particularly if febrile and/or recurrent, can cause renal scarring.",
+              "1b"
+            ],
+            [
+              "Urinary tract infections are classified according to upper and lower urinary tract involvement, clinical presentation, episode, severity, age and toilet-training status, clinical course, and associated urinary tract abnormalities.",
+              "2b"
+            ],
+            [
+              "Urinalysis by dipstick yields rapid results but should be used with caution and in a clinical context. Microscopic investigation is the standard method of assessing pyuria after centrifugation.",
+              "2a"
+            ],
+            [
+              "The number of colony forming units (CFUs) in the urine culture can vary, however, any colony count of one organism indicates a high suspicion for UTI.",
+              "2b"
+            ],
+            [
+              "Prompt treatment of febrile UTIs reduces the risk of developing renal scarring.",
+              "1b"
+            ],
+            [
+              "Due to increasing resistance numbers, good antibiotic stewardship should guide the choice of antibiotics, taking into account local resistance patterns, previous urine cultures (when available) and clinical parameters.",
+              "2a"
+            ],
+            [
+              "Preventive measures against recurrent UTIs include chemoprophylaxis, cranberries and probiotics.",
+              "1b"
+            ],
+            [
+              "Some studies suggest potential benefits of vitamin A, E and D supplements in preventing UTIs.",
+              "2a"
+            ],
+            [
+              "Treatment of bladder and bowel dysfunction and lower urinary tract dysfunction reduces the risk of UTI recurrences.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Take a detailed medical history, assess clinical signs and symptoms, and perform a physical examination in the evaluation of children suspected of having a urinary tract infection (UTI).",
+              "Strong"
+            ],
+            [
+              "Use bladder catheterisation or suprapubic bladder aspiration to collect urine for urinalysis and cultures in non-toilet-trained children.",
+              "Strong"
+            ],
+            [
+              "Use clean catch urine for screening for UTI in non-toilet-trained children.",
+              "Weak"
+            ],
+            [
+              "Do not use plastic bags for urine sampling in non-toilet-trained children.",
+              "Strong"
+            ],
+            [
+              "Use midstream urine in toilet-trained children for analysis and culture.",
+              "Strong"
+            ],
+            [
+              "Perform renal and bladder US within 24 hours in infants with febrile UTI and acutely ill children to check for abnormalities of the urinary tract.",
+              "Strong"
+            ],
+            [
+              "Consider a voiding cystourethrogram (VCUG) in the follow-up of patients developing febrile UTI < 1 year of age, with atypical infections, with recurrent infections, or with ultrasound abnormalities.",
+              "Weak"
+            ],
+            [
+              "Consider a dimercaptosuccinic acid (DMSA) scan at least six months after a febrile UTI to assess kidney function and the presence of renal scars.",
+              "Weak"
+            ],
+            [
+              "Treat febrile UTIs with four-to-seven-day courses of oral or parenteral therapy.",
+              "Strong"
+            ],
+            [
+              "Chose parenteral therapy in severely ill patients or if oral treatment is not tolerated.",
+              "Strong"
+            ],
+            [
+              "Start empirical antibiotic therapy for complicated febrile UTI.",
+              "Strong"
+            ],
+            [
+              "Consider urinary drainage in patients with UTIs unresponsive to antibiotic treatment.",
+              "Weak"
+            ],
+            [
+              "Offer antibacterial prophylaxis in patients at risk of recurrent UTIs.",
+              "Strong"
+            ],
+            [
+              "Consider dietary supplementation as an alternative or add-on preventive measure in selected cases.",
+              "Weak"
+            ],
+            [
+              "Offer treatment for phimosis to patients with underlying urological conditions.",
+              "Weak"
+            ],
+            [
+              "Assess bladder and bowel dysfunction and lower urinary tract function in any toilet-trained child with febrile and/or recurrent UTI and treat it.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 3
+}

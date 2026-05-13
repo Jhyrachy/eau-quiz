@@ -1,0 +1,371 @@
+{
+  "guideline": "primary-urethral-carcinoma",
+  "chapter": "diagnostic-evaluation-and-staging",
+  "url": "https://uroweb.org/guidelines/primary-urethral-carcinoma/chapter/diagnostic-evaluation-and-staging",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Summary of changes",
+      "anchor": "#1-4-1-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY, AETIOLOGY AND PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology",
+      "anchor": "#3-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Aetiology",
+      "anchor": "#3-2-aetiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Histopathology and genomic profiling",
+      "anchor": "#3-3-histopathology-and-genomic-profiling"
+    },
+    {
+      "level": 2,
+      "text": "4. STAGING AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-staging-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Tumour, Node, Metastasis classification",
+      "anchor": "#4-1-tumour-node-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Tumour grade",
+      "anchor": "#4-2-tumour-grade"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Handling of tumour specimens",
+      "anchor": "#4-3-handling-of-tumour-specimens"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Recommendation for staging and classification systems",
+      "anchor": "#4-4-recommendation-for-staging-and-classification-systems"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION AND STAGING",
+      "anchor": "#5-diagnostic-evaluation-and-staging"
+    },
+    {
+      "level": 3,
+      "text": "5.1. History",
+      "anchor": "#5-1-history"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Clinical examination",
+      "anchor": "#5-2-clinical-examination"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Urinary cytology",
+      "anchor": "#5-3-urinary-cytology"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Diagnostic urethrocystoscopy and biopsy",
+      "anchor": "#5-4-diagnostic-urethrocystoscopy-and-biopsy"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Imaging for diagnosis and staging",
+      "anchor": "#5-5-imaging-for-diagnosis-and-staging"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Regional lymph nodes",
+      "anchor": "#5-6-regional-lymph-nodes"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Summary of evidence and recommendations for diagnostic evaluation and staging",
+      "anchor": "#5-7-summary-of-evidence-and-recommendations-for-diagnostic-evaluation-and-staging"
+    },
+    {
+      "level": 2,
+      "text": "6. PROGNOSIS",
+      "anchor": "#6-prognosis"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Long-term survival after primary urethral carcinoma",
+      "anchor": "#6-1-long-term-survival-after-primary-urethral-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Predictors of survival in primary urethral carcinoma",
+      "anchor": "#6-2-predictors-of-survival-in-primary-urethral-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Summary of evidence for prognosis",
+      "anchor": "#6-3-summary-of-evidence-for-prognosis"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT",
+      "anchor": "#7-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Treatment of primary urethral carcinoma in males",
+      "anchor": "#7-1-treatment-of-primary-urethral-carcinoma-in-males"
+    },
+    {
+      "level": 4,
+      "text": "7.1.1. Summary of evidence and recommendations for the treatment of primary urethral carcinoma in males",
+      "anchor": "#7-1-1-summary-of-evidence-and-recommendations-for-the-treatment-of-primary-urethral-carcinoma-in-males"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Treatment of localised primary urethral carcinoma in females",
+      "anchor": "#7-2-treatment-of-localised-primary-urethral-carcinoma-in-females"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. Urethrectomy and urethra-sparing surgery",
+      "anchor": "#7-2-1-urethrectomy-and-urethra-sparing-surgery"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Radiotherapy",
+      "anchor": "#7-2-2-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Summary of evidence and recommendations for the treatment of localised primary urethral carcinoma in females",
+      "anchor": "#7-2-3-summary-of-evidence-and-recommendations-for-the-treatment-of-localised-primary-urethral-carcinoma-in-females"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Multimodal treatment in locally advanced urethral carcinoma in both males and females",
+      "anchor": "#7-3-multimodal-treatment-in-locally-advanced-urethral-carcinoma-in-both-males-and-females"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Introduction",
+      "anchor": "#7-3-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Preoperative systemic treatment",
+      "anchor": "#7-3-2-preoperative-systemic-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. Chemoradiotherapy in locally advanced squamous cell carcinoma of the urethra",
+      "anchor": "#7-3-3-chemoradiotherapy-in-locally-advanced-squamous-cell-carcinoma-of-the-urethra"
+    },
+    {
+      "level": 4,
+      "text": "7.3.4. Salvage treatment in recurrent primary urethral carcinoma after surgery for primary treatment",
+      "anchor": "#7-3-4-salvage-treatment-in-recurrent-primary-urethral-carcinoma-after-surgery-for-primary-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.3.5. Treatment of regional lymph nodes",
+      "anchor": "#7-3-5-treatment-of-regional-lymph-nodes"
+    },
+    {
+      "level": 4,
+      "text": "7.3.6. Summary of evidence and recommendations for multimodal treatment in advanced urethral carcinoma in both males and females",
+      "anchor": "#7-3-6-summary-of-evidence-and-recommendations-for-multimodal-treatment-in-advanced-urethral-carcinoma-in-both-males-and-females"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Treatment of urothelial carcinoma of the prostate",
+      "anchor": "#7-4-treatment-of-urothelial-carcinoma-of-the-prostate"
+    },
+    {
+      "level": 4,
+      "text": "7.4.1. Summary of evidence and recommendations for the treatment of urothelial carcinoma of the prostate",
+      "anchor": "#7-4-1-summary-of-evidence-and-recommendations-for-the-treatment-of-urothelial-carcinoma-of-the-prostate"
+    },
+    {
+      "level": 3,
+      "text": "7.5. Metastatic disease",
+      "anchor": "#7-5-metastatic-disease"
+    },
+    {
+      "level": 2,
+      "text": "8. FOLLOW-UP",
+      "anchor": "#8-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Research priorities",
+      "anchor": "#8-1-research-priorities"
+    },
+    {
+      "level": 2,
+      "text": "9. REFERENCES",
+      "anchor": "#9-references"
+    },
+    {
+      "level": 2,
+      "text": "10. CONFLICT OF INTEREST",
+      "anchor": "#10-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "11. CITATION INFORMATION",
+      "anchor": "#11-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "12. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#12-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#primary-urethral-carcinoma",
+      "title": "Primary Urethral Carcinoma",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 5. Diagnostic Evaluation And Staging Introduction Methods Epidemiology, Aetiology And Pathology Staging And Classification Systems Diagnostic Evaluation And Staging Prognosis Disease Management Follow-up References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#5-diagnostic-evaluation-and-staging",
+      "title": "5. DIAGNOSTIC EVALUATION AND STAGING",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#5-1-history",
+      "title": "5.1. History",
+      "level": 3,
+      "text": "When becoming clinically apparent, most patients (45-57%) with PUC present with symptoms associated with locally advanced disease (T3/T4) [35]. At initial presentation, visible haematuria or bloody urethral discharge is reported in up to 62% of the cases. Further symptoms of locally advanced disease include: an extraurethral mass (52%), bladder outlet obstruction (48%), pelvic pain (33%), urethrocutaneous fistula (10%), abscess formation (5%) or dyspareunia [35].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-clinical-examination",
+      "title": "5.2. Clinical examination",
+      "level": 3,
+      "text": "In male patients, physical examination should comprise palpation of the external genitalia for suspicious indurations or masses and digital rectal examination [36]. In female patients, further pelvic examination and palpation of the urethra should be performed. In addition, when necessary, bimanual examination should be performed under general anaesthesia for local clinical staging and to assess whether colorectal or gynaecological malignancies are present. Bilateral inguinal palpation should be performed to assess the presence of enlarged lymph nodes (LNs), describing location, size and mobility [37].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-3-urinary-cytology",
+      "title": "5.3. Urinary cytology",
+      "level": 3,
+      "text": "Urinary cytology is part of the standard work-up of a patient with suspected PUC. Reporting of urinary cytology findings should follow the Paris system [38]. However, the role of urinary cytology in PUC is limited, since its sensitivity ranges between 55% and 59% [39]. Detection rates depend on the underlying histological entity. In male patients, the sensitivity for UC and SCC was reported to be 80% and 50%, respectively, whereas in female patients, this was reported to be 50% and 77%, respectively [39].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-4-diagnostic-urethrocystoscopy-and-biopsy",
+      "title": "5.4. Diagnostic urethrocystoscopy and biopsy",
+      "level": 3,
+      "text": "Diagnostic urethrocystoscopy and biopsy enables primary assessment of a urethral tumour in terms of tumour extent, location and underlying histology [36]. Cystoscopic examination is necessary to exclude the presence of concomitant bladder tumours [40]. A cold-cup biopsy enables accurate tissue retrieval for histological analysis and avoids artificial tissue damage. In patients with larger lesions, transurethral resection (optionally in male patients under penile blood arrest using a tourniquet) can be performed for histological diagnosis [41]. In patients with suspected UC of the prostatic urethra or ducts, resectoscope loop biopsy of the prostatic urethra (between the five and seven o’clock position from the bladder neck and distally around the area of the verumontanum) can contribute to an improved detection rate [42]. To enable accurate pathological assessment of surgical margins, biopsy sites (proximal/distal end) should be marked and sent together with clinical information to the pathologist. To obtain all relevant information, the collection, handling and evaluation of biopsy specimens should follow the recommendations provided by the ICCR (see Table 4.3) [34].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-5-imaging-for-diagnosis-and-staging",
+      "title": "5.5. Imaging for diagnosis and staging",
+      "level": 3,
+      "text": "Radiological imaging of urethral carcinoma aims to assess local staging and to detect lymphatic and distant metastatic spread. In a multicentre study, the accuracy of cross-sectional imaging for clinical tumour and nodal staging predicting final pathological staging was found to be 72.9% and 70.6%, respectively [43]. Imaging work-up should include computed tomography (CT) of the chest, abdomen and pelvis for staging, including CT urography for urothelial evaluation. Magnetic resonance imaging (MRI) can be used to evaluate tumour location and size, as well as local tumour extent and presence of regional LN metastases, focusing in particular on inguinal and pelvic LNs [44-48]. For local staging, there is evidence that MRI is an accurate tool for monitoring tumour response to neoadjuvant chemoradiotherapy and evaluating the extent of local disease prior to exenteration surgery [49]. [ 18 F]fluorodeoxyglucose positron emission tomography (FDG-PET)/MRI has shown to improve the diagnostic evaluation in patients with metastatic disease [50].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-6-regional-lymph-nodes",
+      "title": "5.6. Regional lymph nodes",
+      "level": 3,
+      "text": "In urethral carcinoma, enlarged LNs often represent metastatic disease (approximately 84% of patients) [51-53], which is in contrast to penile cancer where this is the case in approximately 41% of patients [54]. In male patients, lymphatics from the anterior urethra drain into the superficial and deep inguinal LNs, and subsequently to the pelvic (external, obturator, and internal iliac) LNs. Conversely, lymphatic vessels of the posterior urethra drain into the pelvic LNs. In female patients, the lymph of the proximal third drains into the pelvic LN chains, whereas the distal two-thirds initially drain into the superficial and deep inguinal nodes [55, 56].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-7-summary-of-evidence-and-recommendations-for-diagnostic-evaluation-and-staging",
+      "title": "5.7. Summary of evidence and recommendations for diagnostic evaluation and staging",
+      "level": 3,
+      "text": "Summary of evidence LE Patients with clinically enlarged inguinal or pelvic LNs often exhibit pathological LN metastasis. 3 Recommendations Strength rating Use urethrocystoscopy with biopsy and urinary cytology to diagnose urethral carcinoma. Strong Assess the presence of distant metastases by computed tomography of the thorax and abdomen/pelvis. Strong Use pelvic magnetic resonance imaging to assess the local extent of urethral tumour and regional lymph node enlargement. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Patients with clinically enlarged inguinal or pelvic LNs often exhibit pathological LN metastasis.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use urethrocystoscopy with biopsy and urinary cytology to diagnose urethral carcinoma.",
+              "Strong"
+            ],
+            [
+              "Assess the presence of distant metastases by computed tomography of the thorax and abdomen/pelvis.",
+              "Strong"
+            ],
+            [
+              "Use pelvic magnetic resonance imaging to assess the local extent of urethral tumour and regional lymph node enlargement.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 2
+}

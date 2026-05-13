@@ -1,0 +1,339 @@
+{
+  "guideline": "urological-trauma",
+  "chapter": "references",
+  "url": "https://uroweb.org/guidelines/urological-trauma/chapter/references",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Evidence sources",
+      "anchor": "#2-1-evidence-sources"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY CLASSIFICATION GENERAL MANAGEMENT PRINCIPALS",
+      "anchor": "#3-epidemiology-classification-general-management-principals"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definition and epidemiology",
+      "anchor": "#3-1-definition-and-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Classification of trauma",
+      "anchor": "#3-2-classification-of-trauma"
+    },
+    {
+      "level": 3,
+      "text": "3.3. General management principals",
+      "anchor": "#3-3-general-management-principals"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Initial evaluation",
+      "anchor": "#3-3-1-initial-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Polytrauma managed in major trauma centres leads to improved survival",
+      "anchor": "#3-3-2-polytrauma-managed-in-major-trauma-centres-leads-to-improved-survival"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Damage control",
+      "anchor": "#3-3-3-damage-control"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Mass casualty events and triage",
+      "anchor": "#3-3-4-mass-casualty-events-and-triage"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. The role of thromboprophylaxis and bed rest",
+      "anchor": "#3-3-5-the-role-of-thromboprophylaxis-and-bed-rest"
+    },
+    {
+      "level": 4,
+      "text": "3.3.6. Antibiotic stewardship",
+      "anchor": "#3-3-6-antibiotic-stewardship"
+    },
+    {
+      "level": 4,
+      "text": "3.3.7. Urinary catheterisation",
+      "anchor": "#3-3-7-urinary-catheterisation"
+    },
+    {
+      "level": 2,
+      "text": "4. UROGENITAL TRAUMA GUIDELINES",
+      "anchor": "#4-urogenital-trauma-guidelines"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Renal trauma",
+      "anchor": "#4-1-renal-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. Epidemiology, aetiology and classification",
+      "anchor": "#4-1-1-epidemiology-aetiology-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. Diagnosis",
+      "anchor": "#4-1-2-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.1.3. Management",
+      "anchor": "#4-1-3-management"
+    },
+    {
+      "level": 4,
+      "text": "4.1.4. Follow-up",
+      "anchor": "#4-1-4-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "4.1.5. Complications",
+      "anchor": "#4-1-5-complications"
+    },
+    {
+      "level": 4,
+      "text": "4.1.6. Iatrogenic renal injuries",
+      "anchor": "#4-1-6-iatrogenic-renal-injuries"
+    },
+    {
+      "level": 4,
+      "text": "4.1.7. Summary of evidence and recommendations for evaluation and management of renal trauma",
+      "anchor": "#4-1-7-summary-of-evidence-and-recommendations-for-evaluation-and-management-of-renal-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.1.8. Treatment algorithms",
+      "anchor": "#4-1-8-treatment-algorithms"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Ureteral trauma",
+      "anchor": "#4-2-ureteral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#4-2-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. Diagnosis",
+      "anchor": "#4-2-2-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.2.3. Prevention of iatrogenic trauma",
+      "anchor": "#4-2-3-prevention-of-iatrogenic-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.2.4. Management",
+      "anchor": "#4-2-4-management"
+    },
+    {
+      "level": 4,
+      "text": "4.2.5. Summary of evidence and recommendations for the management of ureteral trauma",
+      "anchor": "#4-2-5-summary-of-evidence-and-recommendations-for-the-management-of-ureteral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.2.6. Treatment algorithms",
+      "anchor": "#4-2-6-treatment-algorithms"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Bladder trauma",
+      "anchor": "#4-3-bladder-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#4-3-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "4.3.2. Classification",
+      "anchor": "#4-3-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "4.3.3. Diagnosis",
+      "anchor": "#4-3-3-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.3.4. Prevention",
+      "anchor": "#4-3-4-prevention"
+    },
+    {
+      "level": 4,
+      "text": "4.3.5. Management",
+      "anchor": "#4-3-5-management"
+    },
+    {
+      "level": 4,
+      "text": "4.3.6. Follow-up",
+      "anchor": "#4-3-6-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "4.3.7. Summary of evidence and recommendations for bladder injury",
+      "anchor": "#4-3-7-summary-of-evidence-and-recommendations-for-bladder-injury"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Urethral trauma",
+      "anchor": "#4-4-urethral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Introduction",
+      "anchor": "#4-4-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Anterior male urethral injury",
+      "anchor": "#4-4-2-anterior-male-urethral-injury"
+    },
+    {
+      "level": 4,
+      "text": "4.4.3. Posterior male urethral injury",
+      "anchor": "#4-4-3-posterior-male-urethral-injury"
+    },
+    {
+      "level": 4,
+      "text": "4.4.4. Female urethral injuries",
+      "anchor": "#4-4-4-female-urethral-injuries"
+    },
+    {
+      "level": 4,
+      "text": "4.4.5. Summary of evidence and recommendations for the evaluation and management of urethral trauma",
+      "anchor": "#4-4-5-summary-of-evidence-and-recommendations-for-the-evaluation-and-management-of-urethral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.4.6. Treatment algorithms",
+      "anchor": "#4-4-6-treatment-algorithms"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Genital trauma",
+      "anchor": "#4-5-genital-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#4-5-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Categorisation of genital trauma",
+      "anchor": "#4-5-2-categorisation-of-genital-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Diagnosis",
+      "anchor": "#4-5-3-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.5.4. Management",
+      "anchor": "#4-5-4-management"
+    },
+    {
+      "level": 4,
+      "text": "4.5.5. Complications",
+      "anchor": "#4-5-5-complications"
+    },
+    {
+      "level": 4,
+      "text": "4.5.6. Follow-up",
+      "anchor": "#4-5-6-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "4.5.7. Summary of evidence and recommendations for evaluation and management of genital trauma",
+      "anchor": "#4-5-7-summary-of-evidence-and-recommendations-for-evaluation-and-management-of-genital-trauma"
+    },
+    {
+      "level": 2,
+      "text": "5. REFERENCES",
+      "anchor": "#5-references"
+    },
+    {
+      "level": 2,
+      "text": "6. CONFLICT OF INTEREST",
+      "anchor": "#6-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "7. CITATION INFORMATION",
+      "anchor": "#7-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "8. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#8-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#urological-trauma",
+      "title": "Urological Trauma",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 5. References Introduction Methods Epidemiology Classification General Management Principals Urogenital Trauma Guidelines References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#5-references",
+      "title": "5. REFERENCES",
+      "level": 2,
+      "text": "1. Radmayr, C., et al. EAU Guidelines on Paediatric Urology 2022. Edn. presented at the EAU Annual Congress Amsterdam 2022. ISBN 978-94-92671-16-5. https://uroweb.org/guidelines/paediatric-urology 2. Martinez-Pineiro, L., et al. EAU Guidelines on Urethral Trauma. Eur Urol, 2010. 57: 791. https://www.ncbi.nlm.nih.gov/pubmed/20122789 3. Summerton, D.J., et al. EAU guidelines on iatrogenic trauma. Eur Urol, 2012. 62: 628. https://www.ncbi.nlm.nih.gov/pubmed/22717550 4. Lumen, N., et al. Review of the current management of lower urinary tract injuries by the EAU Trauma Guidelines Panel. Eur Urol, 2015. 67: 925. https://www.ncbi.nlm.nih.gov/pubmed/25576009 5. Serafetinides, E., et al. Review of the current management of upper urinary tract injuries by the EAU Trauma Guidelines Panel. Eur Urol, 2015. 67: 930. https://www.ncbi.nlm.nih.gov/pubmed/25578621 6. Serafetinidis, E., et al. Summary Paper of the Updated 2023 European Association of Urology Guidelines on Urological Trauma. Eur Urol Focus, 2024. 10: 475. https://www.ncbi.nlm.nih.gov/pubmed/37968186 7. Phillips, B. Oxford Centre for Evidence-based Medicine Levels of Evidence. Updated by Jeremy Howick March 2009. 1998. https://www.cebm.ox.ac.uk/resources/levels-of-evidence/oxford-centre-for-evidence-based-medicine-levels-of-evidence-march-2009 8. Guyatt, G.H., et al. Going from evidence to recommendations. BMJ, 2008. 336: 1049. https://www.ncbi.nlm.nih.gov/pubmed/18467413 9. WHO Global Health Observatory, Global health estimates: Leading causes of death. 2019. https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death 10. WHO. World Health Organization - The top 10 causes of death. 2024. https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death 11. WHO. World Health Organization - Injuries and violence. 2024. https://www.who.int/news-room/fact-sheets/detail/injuries-and-violence 12. WHO Global Health Observatory, Global health estimates: Leading causes of DALYs. Disease Burden 2000-2021. 2019. https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/global-health-estimates-leading-causes-of-dalys 13. Kozar, R.A., et al. Organ injury scaling 2018 update: Spleen, liver, and kidney. J Trauma Acute Care Surg, 2018. 85: 1119. https://www.ncbi.nlm.nih.gov/pubmed/30462622 14. Moore, E.E., et al. Organ injury scaling: spleen, liver, and kidney. J Trauma, 1989. 29: 1664. https://www.ncbi.nlm.nih.gov/pubmed/2593197 15. Monstrey, S.J., et al. Urological trauma and severe associated injuries. Br J Urol, 1987. 60: 393. https://www.ncbi.nlm.nih.gov/pubmed/3427315 16. MacKenzie, E.J., et al. A national evaluation of the effect of trauma-center care on mortality. N Engl J Med, 2006. 354: 366. https://www.ncbi.nlm.nih.gov/pubmed/16436768 17. Caterson, E.J., et al. Boston bombings: a surgical view of lessons learned from combat casualty care and the applicability to Boston’s terrorist attack. J Craniofac Surg, 2013. 24: 1061. https://www.ncbi.nlm.nih.gov/pubmed/23851738 18. Baloche, P., et al. Impact of Hospital Volume on the Outcomes of Renal Trauma Management. Eur Urol Open Sci, 2022. 37: 99. https://www.ncbi.nlm.nih.gov/pubmed/35243394 19. Feliciano, D.V., et al. Trauma damage control, in Trauma, Mattox, F.D., et al. Editor, 2000, McGraw-Hill: New York. 20. Hirshberg, A., et al. ‘Damage control’ in trauma surgery. Br J Surg, 1993. 80: 1501. https://www.ncbi.nlm.nih.gov/pubmed/8298911 21. Rignault, D.P. Recent progress in surgery for the victims of disaster, terrorism, and war--Introduction. World J Surg, 1992. 16: 885. https://www.ncbi.nlm.nih.gov/pubmed/1462624 22. Rotondo, M.F., et al. ‘Damage control’: an approach for improved survival in exsanguinating penetrating abdominal injury. J Trauma, 1993. 35: 375. https://www.ncbi.nlm.nih.gov/pubmed/8371295 23. Coccolini, F., et al. Kidney and uro-trauma: WSES-AAST guidelines. World J Emerg Surg, 2019. 14: 54. https://www.ncbi.nlm.nih.gov/pubmed/31827593 24. Slater, M.S., et al. Terrorism in America. An evolving threat. Arch Surg, 1997. 132: 1059. https://www.ncbi.nlm.nih.gov/pubmed/9336502 25. Frykberg, E.R. Medical management of disasters and mass casualties from terrorist bombings: how can we cope? J Trauma, 2002. 53: 201. https://www.ncbi.nlm.nih.gov/pubmed/12169923 26. Jacobs, L.M., Jr., et al. An emergency medical system approach to disaster planning. J Trauma, 1979. 19: 157. https://www.ncbi.nlm.nih.gov/pubmed/458880 27. Eberle, B.M., et al. Thromboembolic prophylaxis with low-molecular-weight heparin in patients with blunt solid abdominal organ injuries undergoing nonoperative management: current practice and outcomes. J Trauma, 2011. 70: 141. https://www.ncbi.nlm.nih.gov/pubmed/21217492 28. Barrera, L.M., et al. Thromboprophylaxis for trauma patients. Cochrane Database Syst Rev, 2013. 2013: CD008303. https://www.ncbi.nlm.nih.gov/pubmed/23543562 29. Werner, Z., et al. Implementation of a Standardized Renal Trauma Protocol at a Level 1",
+      "tables": []
+    }
+  ],
+  "tables_count": 0
+}

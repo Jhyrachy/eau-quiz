@@ -1,0 +1,1806 @@
+{
+  "guideline": "prostate-cancer",
+  "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+  "url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer",
+  "question_count": 58,
+  "questions": [
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-001",
+      "question": "How many parts is Chapter 8 on Quality of Life Outcomes in Prostate Cancer presented in?",
+      "options": [
+        {
+          "id": "A",
+          "text": "One part"
+        },
+        {
+          "id": "B",
+          "text": "Two parts"
+        },
+        {
+          "id": "C",
+          "text": "Three parts"
+        },
+        {
+          "id": "D",
+          "text": "Four parts"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The text explicitly states 'This chapter is presented in two parts' in Section 8.1. The first part covers long-term consequences while the second part provides evidence-based recommendations for treatment selection.",
+      "section": "8.1",
+      "section_title": "8.1. Introduction",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-1-introduction",
+      "difficulty": "easy",
+      "fact": "This chapter is presented in two parts",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-002",
+      "question": "What is the minimum time threshold for defining 'long-term consequences' of therapies for prostate cancer according to Section 8.2?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Six months or more"
+        },
+        {
+          "id": "B",
+          "text": "Nine months or more"
+        },
+        {
+          "id": "C",
+          "text": "Twelve months or more"
+        },
+        {
+          "id": "D",
+          "text": "Twenty-four months or more"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Section 8.1 explicitly states that Section 8.2 summarises 'long-term consequences (≥ twelve months) of therapies for PCa'. This twelve-month threshold is the defining criterion for long-term consequences.",
+      "section": "8.1",
+      "section_title": "8.1. Introduction",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-1-introduction",
+      "difficulty": "easy",
+      "fact": "Long-term consequences are defined as ≥ twelve months",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-003",
+      "question": "What does Section 8.3 of the Quality of Life chapter specifically address?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Surgical techniques for prostate cancer treatment"
+        },
+        {
+          "id": "B",
+          "text": "Chemotherapy protocols for advanced disease"
+        },
+        {
+          "id": "C",
+          "text": "Evidence-based recommendations for supporting patients selecting primary treatment options for localised disease and supportive interventions for improving disease-specific QoL"
+        },
+        {
+          "id": "D",
+          "text": "Radiation therapy dosing schedules"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The text in Section 8.1 clearly states that Section 8.3 'provides evidence-based recommendations for supporting patients when selecting primary treatment options for localised disease and supportive interventions aimed at improving disease-specific QoL across all stages of disease'.",
+      "section": "8.1",
+      "section_title": "8.1. Introduction",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-1-introduction",
+      "difficulty": "medium",
+      "fact": "Section 8.3 provides evidence-based recommendations for supporting patients when selecting primary treatment options for localised disease and supportive interventions aimed at improving disease-specific QoL",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-004",
+      "question": "Which of the following healthcare professionals is specifically mentioned as part of the multidisciplinary team required for holistic prostate cancer care?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Physical therapists"
+        },
+        {
+          "id": "B",
+          "text": "Behavioural practitioners"
+        },
+        {
+          "id": "C",
+          "text": "Cardiologists"
+        },
+        {
+          "id": "D",
+          "text": "Endocrinologists"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Section 8.2 explicitly states that a multidisciplinary team approach requires the intervention of urologists, medical oncologists, radiation oncologists, oncology nurses, behavioural practitioners, and others including fellow patients. Physical therapists, cardiologists, and endocrinologists are not mentioned in this context.",
+      "section": "8.2",
+      "section_title": "8.2. Adverse effects of PCa therapies",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "Approaching care from a holistic perspective requires the intervention of a multidisciplinary team including urologists, medical oncologists, radiation oncologists, oncology nurses, behavioural practitioners and many others, including fellow patients.",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-005",
+      "question": "According to the guideline, which of the following patient subgroups is NOT identified as being at higher risk of long-term mental health issues following prostate cancer treatment?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Patients with pre-existing depressive symptoms"
+        },
+        {
+          "id": "B",
+          "text": "Patients with poor general health"
+        },
+        {
+          "id": "C",
+          "text": "Patients with high socioeconomic status"
+        },
+        {
+          "id": "D",
+          "text": "Unmarried patients"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Section 8.2 identifies that subgroups including those with poor general health, being unmarried, older age, and/or pre-existing depressive symptoms are more at risk of long-term mental health issues. High socioeconomic status is not listed as a risk factor; in fact, the text indicates clinical trial populations (often higher socioeconomic groups) experience less impact.",
+      "section": "8.2",
+      "section_title": "8.2. Adverse effects of PCa therapies",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "medium",
+      "fact": "Subgroups of people, including those with poor general health, being unmarried, older age and/or pre-existing depressive symptoms, are more at risk of long-term mental health issues following treatment for PCa.",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-006",
+      "question": "How does the impact of prostate cancer treatment on quality of life in general PCa populations compare to clinical trial populations?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The impact is similar in both populations"
+        },
+        {
+          "id": "B",
+          "text": "The impact is greater in clinical trial populations"
+        },
+        {
+          "id": "C",
+          "text": "The impact is greater in general PCa populations"
+        },
+        {
+          "id": "D",
+          "text": "General populations show no impact on quality of life"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Section 8.2 clearly states that cross-sectional patient-reported outcomes studies show the impact of treatment on global and disease-specific QoL is greater than that described in clinical trial populations, who often have less co-morbidities and belong to higher socio-economic groups.",
+      "section": "8.2",
+      "section_title": "8.2. Adverse effects of PCa therapies",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "medium",
+      "fact": "Cross-sectional patient-reported outcomes studies in general PCa populations show the impact of treatment on global and disease-specific QoL is greater than that described in clinical trial populations, who often have less co-morbidities and belong to higher socio-economic groups.",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-007",
+      "question": "According to the systematic review on long-term health-related quality of life, which treatment approach shows a clear advantage in preserving continence over active treatment, particularly radical prostatectomy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Active surveillance"
+        },
+        {
+          "id": "B",
+          "text": "Radical prostatectomy"
+        },
+        {
+          "id": "C",
+          "text": "External beam radiotherapy"
+        },
+        {
+          "id": "D",
+          "text": "Brachytherapy"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The systematic review states that 'in preservation of continence, there is a clear advantage for AS over active treatment, particularly to RP,' indicating that patients on active surveillance maintain superior continence outcomes compared to those who underwent radical prostatectomy.",
+      "section": "8.2.2",
+      "section_title": "8.2.2. Surgery",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "In preservation of continence, there is a clear advantage for AS over active treatment, particularly to RP.",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-008",
+      "question": "How long does it typically take for most men on active surveillance to report low levels of cancer-specific anxiety according to registry data?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Six months"
+        },
+        {
+          "id": "B",
+          "text": "One year"
+        },
+        {
+          "id": "C",
+          "text": "Three years"
+        },
+        {
+          "id": "D",
+          "text": "Two years"
+        }
+      ],
+      "correct": "D",
+      "explanation": "The text states that 'patients considering active surveillance can be informed that, although it is common experience some anxiety initially, most men rapidly adjust and report low levels of anxiety within two years,' citing registry data from the USA.",
+      "section": "8.2.2",
+      "section_title": "8.2.2. Surgery",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "Most men rapidly adjust and report low levels of anxiety within two years.",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-009",
+      "question": "According to studies comparing active surveillance with active treatment, what was found regarding general health-related quality of life PROMs?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Active treatment showed substantially better PROMs than active surveillance"
+        },
+        {
+          "id": "B",
+          "text": "Active surveillance showed substantially better PROMs than active treatment"
+        },
+        {
+          "id": "C",
+          "text": "No substantial or consistent difference in general HRQoL PROMs between groups"
+        },
+        {
+          "id": "D",
+          "text": "Active surveillance showed inconsistent results compared to active treatment"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The systematic review explicitly states that 'all studies comparing AS with active treatment found no substantial or consistent difference in general HRQoL PROMs between groups,' indicating equivalent quality of life outcomes between the approaches.",
+      "section": "8.2.2",
+      "section_title": "8.2.2. Surgery",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "medium",
+      "fact": "All studies comparing AS with active treatment found no substantial or consistent difference in general HRQoL PROMs between groups.",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-010",
+      "question": "In which patient group are obstructive voiding symptoms more commonly observed according to the systematic review?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Patients on active surveillance"
+        },
+        {
+          "id": "B",
+          "text": "Post-operative radical prostatectomy patients"
+        },
+        {
+          "id": "C",
+          "text": "Patients who received radiotherapy"
+        },
+        {
+          "id": "D",
+          "text": "Patients who received combined radiotherapy and hormone therapy"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The text clearly states that 'obstructive voiding symptoms were more common in patients on AS than in postoperative patients,' suggesting that active surveillance patients experience more obstructive symptoms compared to those who underwent surgery.",
+      "section": "8.2.2",
+      "section_title": "8.2.2. Surgery",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "medium",
+      "fact": "Obstructive voiding symptoms were more common in patients on AS than in postoperative patients.",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-011",
+      "question": "Compared to patients without prostate cancer, how do patients on active surveillance report their quality of life according to the systematic review?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Significantly worse quality of life"
+        },
+        {
+          "id": "B",
+          "text": "Slightly worse but statistically similar quality of life"
+        },
+        {
+          "id": "C",
+          "text": "Good quality of life, similar to individuals without prostate cancer"
+        },
+        {
+          "id": "D",
+          "text": "Much better quality of life due to avoidance of treatment side effects"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The text explicitly states that 'all patients on AS report good quality of life, similar to that in individuals without prostate cancer,' indicating that active surveillance does not significantly impair overall quality of life compared to the general population.",
+      "section": "8.2.2",
+      "section_title": "8.2.2. Surgery",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "All patients on AS report good quality of life, similar to that in individuals without prostate cancer.",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-012",
+      "question": "What percentage of patients experience urinary retention following brachytherapy implantation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.5-22%"
+        },
+        {
+          "id": "B",
+          "text": "5-15%"
+        },
+        {
+          "id": "C",
+          "text": "25-35%"
+        },
+        {
+          "id": "D",
+          "text": "40-50%"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The guideline states that urinary retention occurs in 1.5-22% of patients following implantation. This statistic appears in section 8.2.4 under the discussion of urinary complications from whole-gland treatments.",
+      "section": "8.2.4",
+      "section_title": "8.2.4. Local primary whole-gland treatments other than surgery or radiotherapy",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "urinary retention (1.5-22%)",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-013",
+      "question": "What proportion of urinary complications following brachytherapy are attributed to urethral strictures?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At least 50%"
+        },
+        {
+          "id": "B",
+          "text": "At least 30%"
+        },
+        {
+          "id": "C",
+          "text": "Approximately 20%"
+        },
+        {
+          "id": "D",
+          "text": "Less than 10%"
+        }
+      ],
+      "correct": "A",
+      "explanation": "According to section 8.2.4, urethral strictures account for at least 50% of urinary complications and can be resolved with dilation in the majority of cases. This is one of the most significant urinary adverse effects reported in the guideline.",
+      "section": "8.2.4",
+      "section_title": "8.2.4. Local primary whole-gland treatments other than surgery or radiotherapy",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "Urethral strictures account for at least 50% of urinary complications",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-014",
+      "question": "Prevention of morbidity from brachytherapy depends on which combination of factors?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Careful patient selection and IPSS score, backed up by urodynamic studies"
+        },
+        {
+          "id": "B",
+          "text": "Pre-treatment PSA levels and Gleason score assessment"
+        },
+        {
+          "id": "C",
+          "text": "Use of adjuvant hormone therapy and regular MRI monitoring"
+        },
+        {
+          "id": "D",
+          "text": "Patient age and body mass index optimization"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Section 8.2.4 explicitly states that prevention of morbidity depends on careful patient selection and IPSS score, backed up by urodynamic studies. This highlights the importance of baseline urinary function assessment before brachytherapy.",
+      "section": "8.2.4",
+      "section_title": "8.2.4. Local primary whole-gland treatments other than surgery or radiotherapy",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "medium",
+      "fact": "Prevention of morbidity depends on careful patient selection and IPSS score, backed up by urodynamic studies",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-015",
+      "question": "According to the ProtecT trial analysis, which of the following bowel toxicities was reported in patients treated with EBRT and six months of ADT?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Transient constipation and mild abdominal discomfort"
+        },
+        {
+          "id": "B",
+          "text": "Persistent diarrhoea, bowel urgency and/or incontinence, and rectal bleeding"
+        },
+        {
+          "id": "C",
+          "text": "Acute intestinal obstruction requiring surgical intervention"
+        },
+        {
+          "id": "D",
+          "text": "Mild nausea with occasional vomiting"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The text explicitly states in Section 8.2.3.b that analysis of the ProtecT trial shows patients treated with EBRT and six months of ADT report 'bowel toxicity including persistent diarrhoea, bowel urgency and/or incontinence and rectal bleeding'.",
+      "section": "8.2.3.b",
+      "section_title": "8.2.3.b. Side effects from brachytherapy",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "Analysis of the toxicity outcomes of the ProtecT trial shows that patients treated with EBRT and six months of ADT report bowel toxicity including persistent diarrhoea, bowel urgency and/or incontinence and rectal bleeding",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-016",
+      "question": "Based on the systematic review and meta-analysis cited in the guidelines, what are the approximate odds ratios for developing second cancers after prostate radiotherapy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bladder: 1.12, colorectal: 1.25, rectum: 1.20"
+        },
+        {
+          "id": "B",
+          "text": "Bladder: 1.39, colorectal: 1.68, rectum: 1.62"
+        },
+        {
+          "id": "C",
+          "text": "Bladder: 2.10, colorectal: 2.35, rectum: 2.20"
+        },
+        {
+          "id": "D",
+          "text": "Bladder: 1.05, colorectal: 1.15, rectum: 1.10"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The text explicitly states in Section 8.2.3.b that the SR and meta-analysis 'demonstrates an increased risk of developing second cancers for bladder (OR: 1.39), colorectal (OR: 1.68) and rectum (OR: 1.62)'.",
+      "section": "8.2.3.b",
+      "section_title": "8.2.3.b. Side effects from brachytherapy",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "medium",
+      "fact": "An SR and meta-analysis of observational studies comparing patients exposed or unexposed to RT in the course of treatment for PCa demonstrates an increased risk of developing second cancers for bladder (OR: 1.39), colorectal (OR: 1.68) and rectum (OR: 1.62)",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-017",
+      "question": "What is the range of absolute excess risks of developing second cancers over a ten-year period following prostate radiotherapy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5-10%"
+        },
+        {
+          "id": "B",
+          "text": "10-15%"
+        },
+        {
+          "id": "C",
+          "text": "1-4%"
+        },
+        {
+          "id": "D",
+          "text": "15-20%"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The text explicitly states in Section 8.2.3.b that 'absolute excess risks over ten years are small (1–4%)' and these should be discussed with younger patients in particular.",
+      "section": "8.2.3.b",
+      "section_title": "8.2.3.b. Side effects from brachytherapy",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "medium",
+      "fact": "Absolute excess risks over ten years are small (1–4%) but should be discussed with younger patients in particular",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-018",
+      "question": "Compared to 3D-CRT, how does IMRT affect bowel toxicity in prostate cancer radiotherapy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "IMRT demonstrates significantly greater bowel toxicity than 3D-CRT"
+        },
+        {
+          "id": "B",
+          "text": "IMRT demonstrates less bowel toxicity than noted previously with 3D-CRT"
+        },
+        {
+          "id": "C",
+          "text": "IMRT and 3D-CRT show equivalent rates of bowel toxicity"
+        },
+        {
+          "id": "D",
+          "text": "IMRT eliminates all bowel toxicity complications"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The text explicitly states in Section 8.2.3.b that 'studies using IMRT demonstrate less bowel toxicity than noted previously with 3D-CRT', noting that ProtecT participants were treated with 3D-CRT.",
+      "section": "8.2.3.b",
+      "section_title": "8.2.3.b. Side effects from brachytherapy",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "medium",
+      "fact": "Participants in the ProtecT study were treated with 3D-CRT and studies using IMRT demonstrate less bowel toxicity than noted previously with 3D-CRT",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-019",
+      "question": "According to the systematic review and meta-analysis, how did whole-gland cryotherapy compare to radical prostatectomy (RP) regarding urinary incontinence at one year?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cryotherapy had lower urinary incontinence rates than RP"
+        },
+        {
+          "id": "B",
+          "text": "Cryotherapy had higher urinary incontinence rates than RP"
+        },
+        {
+          "id": "C",
+          "text": "There was no significant difference between cryotherapy and RP"
+        },
+        {
+          "id": "D",
+          "text": "Cryotherapy and RP had identical urinary incontinence rates"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Section 8.2.4.b states that the SR and meta-analysis produced evidence that the rate of urinary incontinence at one year was lower for whole-gland cryotherapy than for RP, though the size of this difference decreased with longer follow-up. This makes cryotherapy favorable for early urinary continence outcomes compared to radical prostatectomy.",
+      "section": "8.2.4.b",
+      "section_title": "8.2.4.b. Focal treatments",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "The rate of urinary incontinence at one year was lower for whole-gland cryotherapy than for RP, but the size of the difference decreased with longer follow-up [853].",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-020",
+      "question": "What was the urinary incontinence rate at one year when comparing whole-gland cryotherapy to external beam radiotherapy (EBRT)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cryotherapy showed significantly better outcomes than EBRT"
+        },
+        {
+          "id": "B",
+          "text": "Cryotherapy showed significantly worse outcomes than EBRT"
+        },
+        {
+          "id": "C",
+          "text": "No significant difference was seen between cryotherapy and EBRT (<1%)"
+        },
+        {
+          "id": "D",
+          "text": "Cryotherapy had twice the incontinence rate of EBRT"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Section 8.2.4.b explicitly states that no significant difference was seen between cryotherapy versus EBRT in terms of urinary incontinence at one year, with both showing rates of less than 1%. This indicates comparable urinary continence outcomes between these two treatment modalities.",
+      "section": "8.2.4.b",
+      "section_title": "8.2.4.b. Focal treatments",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "medium",
+      "fact": "No significant difference was seen between cryotherapy versus EBRT in terms of urinary incontinence at one year (< 1%) [853].",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-021",
+      "question": "According to the systematic review and meta-analysis, how did whole-gland HIFU compare to radical prostatectomy (RP) for urinary incontinence at one year?",
+      "options": [
+        {
+          "id": "A",
+          "text": "HIFU had higher incontinence rates than RP"
+        },
+        {
+          "id": "B",
+          "text": "HIFU had lower incontinence rates than RP"
+        },
+        {
+          "id": "C",
+          "text": "HIFU and RP had identical incontinence rates"
+        },
+        {
+          "id": "D",
+          "text": "The comparison showed no clear difference between HIFU and RP"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Section 8.2.4.b clearly states that whole-gland HIFU showed lower incontinence rates at one year than RP with an odds ratio of 0.06 (95% CI: 0.01–0.48) [853]. This statistically significant finding indicates a substantial protective effect of HIFU against urinary incontinence compared to radical prostatectomy at one-year follow-up.",
+      "section": "8.2.4.b",
+      "section_title": "8.2.4.b. Focal treatments",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "medium",
+      "fact": "Whole-gland HIFU on the other hand showed lower incontinence rates at one year than RP (OR: 0.06, 95% CI: 0.01–0.48) [853].",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-022",
+      "question": "According to the systematic review on focal therapy for prostate cancer, what were the pad-free continence rates reported for focal HIFU and cryotherapy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Above 95%"
+        },
+        {
+          "id": "B",
+          "text": "Between 75-85%"
+        },
+        {
+          "id": "C",
+          "text": "Approximately 60%"
+        },
+        {
+          "id": "D",
+          "text": "Between 85-90%"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The systematic review (SR) covering 72 studies with 5,827 patients found that focal HIFU and cryotherapy achieved pad-free continence rates above 95%, demonstrating favourable functional outcomes for these focal therapies.",
+      "section": "8.2.5",
+      "section_title": "8.2.5. Androgen-deprivation therapy",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "For focal HIFU and cryotherapy, this SR showed pad-free continence rates above 95%",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-023",
+      "question": "What was the median decrease in erectile function reported after focal therapy according to the systematic review?",
+      "options": [
+        {
+          "id": "A",
+          "text": "50%"
+        },
+        {
+          "id": "B",
+          "text": "12%"
+        },
+        {
+          "id": "C",
+          "text": "35%"
+        },
+        {
+          "id": "D",
+          "text": "25%"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The systematic review found that focal HIFU and cryotherapy resulted in a median decrease of erectile function of only 12%, indicating minimal impact on erectile function with focal therapy approaches.",
+      "section": "8.2.5",
+      "section_title": "8.2.5. Androgen-deprivation therapy",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "A median decrease of erectile function of only 12%",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-024",
+      "question": "According to a systematic review of only prospective data, what percentage reduction in sexual function scores was observed with focal ablation compared to whole-gland ablation at one year?",
+      "options": [
+        {
+          "id": "A",
+          "text": "15% vs 30%"
+        },
+        {
+          "id": "B",
+          "text": "9% vs 43%"
+        },
+        {
+          "id": "C",
+          "text": "25% vs 50%"
+        },
+        {
+          "id": "D",
+          "text": "5% vs 20%"
+        }
+      ],
+      "correct": "B",
+      "explanation": "A systematic review with only prospective data found that focal ablation showed only a 9% reduction in sexual function scores compared to 43% for whole-gland ablation at one year, highlighting the functional advantage of focal over whole-gland approaches.",
+      "section": "8.2.5",
+      "section_title": "8.2.5. Androgen-deprivation therapy",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "medium",
+      "fact": "A SR with only prospective data found that focal ablation showed only 9% reduction in sexual function scores, compared to 43% for whole-gland ablation at one year",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-025",
+      "question": "According to the guideline section on sexual outcomes in ADT, what percentage of patients experience cessation of sexual activity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Up to 93%"
+        },
+        {
+          "id": "B",
+          "text": "Approximately 75%"
+        },
+        {
+          "id": "C",
+          "text": "About 50%"
+        },
+        {
+          "id": "D",
+          "text": "Less than 30%"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The guideline explicitly states that 'Cessation of sexual activity is very common in people undergoing ADT, affecting up to 93%', making this the only directly supported statistic in the text.",
+      "section": "8.2.5.b",
+      "section_title": "8.2.5.b. Hot flushes",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "Cessation of sexual activity is very common in people undergoing ADT, affecting up to 93%",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-026",
+      "question": "What does androgen-deprivation therapy (ADT) reduce according to the guideline?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only libido"
+        },
+        {
+          "id": "B",
+          "text": "Both libido and the ability to gain and maintain erections"
+        },
+        {
+          "id": "C",
+          "text": "Only erectile function"
+        },
+        {
+          "id": "D",
+          "text": "Only testosterone levels"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The guideline directly states that 'Androgen-deprivation therapy reduces both libido and the ability to gain and maintain erections', indicating dual effects on sexual function.",
+      "section": "8.2.5.b",
+      "section_title": "8.2.5.b. Hot flushes",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "Androgen-deprivation therapy reduces both libido and the ability to gain and maintain erections",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-027",
+      "question": "What is the recommended approach for managing acquired erectile dysfunction in patients on ADT?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hormone replacement therapy"
+        },
+        {
+          "id": "B",
+          "text": "Specific validated protocols"
+        },
+        {
+          "id": "C",
+          "text": "Mostly non-specific management"
+        },
+        {
+          "id": "D",
+          "text": "Immediate cessation of ADT"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The guideline explicitly states that 'The management of the acquired ED is mostly non-specific', which is the only description of ED management approach provided in the text.",
+      "section": "8.2.5.b",
+      "section_title": "8.2.5.b. Hot flushes",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "The management of the acquired ED is mostly non-specific",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-028",
+      "question": "In a study comparing bicalutamide monotherapy to castration at twelve months, what domains showed significant advantage for bicalutamide?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Physical capacity and sexual function"
+        },
+        {
+          "id": "B",
+          "text": "Sexual interest and sexual function"
+        },
+        {
+          "id": "C",
+          "text": "Physical capacity and sexual interest, but not sexual function"
+        },
+        {
+          "id": "D",
+          "text": "Sexual function only"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The guideline explicitly states that 'bicalutamide monotherapy showed a significant advantage over castration in the domains of physical capacity and sexual interest (but not sexual function) at twelve months', making this the precise answer.",
+      "section": "8.2.5.b",
+      "section_title": "8.2.5.b. Hot flushes",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "medium",
+      "fact": "Using a specific nonvalidated questionnaire, bicalutamide monotherapy showed a significant advantage over castration in the domains of physical capacity and sexual interest (but not sexual function) at twelve months",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-029",
+      "question": "According to the guideline, what is the estimated prevalence of hot flushes in men on androgen deprivation therapy (ADT)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "14–30%"
+        },
+        {
+          "id": "B",
+          "text": "44–80%"
+        },
+        {
+          "id": "C",
+          "text": "50–65%"
+        },
+        {
+          "id": "D",
+          "text": "80–95%"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The guideline explicitly states that hot flushes are a common side effect of ADT with prevalence estimated between 44–80% of men on ADT, as referenced in the section on ADT-induced adverse effects.",
+      "section": "8.2.5.c",
+      "section_title": "8.2.5.c. ADT induced bone fractures",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "Hot flushes are a common side effect of ADT (prevalence estimated between 44–80% of men on ADT)",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-030",
+      "question": "In the prospective RCT comparing venlafaxine with hormonal therapies for hot flushes, what was the percentage reduction in median daily hot-flush score for venlafaxine at six months?",
+      "options": [
+        {
+          "id": "A",
+          "text": "-47.2%"
+        },
+        {
+          "id": "B",
+          "text": "-74.5%"
+        },
+        {
+          "id": "C",
+          "text": "-83.7%"
+        },
+        {
+          "id": "D",
+          "text": "-94.5%"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The guideline states that venlafaxine was inferior to hormonal therapies with a median daily hot-flush score reduction of -47.2% (interquartile range -74.3 to -2.5) compared to -94.5% in the cyproterone group and -83.7% in the medroxyprogesterone group.",
+      "section": "8.2.5.c",
+      "section_title": "8.2.5.c. ADT induced bone fractures",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "medium",
+      "fact": "Based on median daily hot-flush score, venlafaxine was inferior -47.2% (interquartile range -74.3 to -2.5) compared to -94.5% (-100.0 to -74.5) in the cyproterone group, and -83.7% (-98.9 to -64.3) in the medroxyprogesterone group",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-031",
+      "question": "Regarding transdermal oestradiol compared to placebo for hot flushes in men on ADT, which statement is correct according to the cited RCT?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Oestradiol significantly reduced both daily and weekly hot flushes"
+        },
+        {
+          "id": "B",
+          "text": "Oestradiol significantly reduced daily hot flushes but not weekly hot flushes"
+        },
+        {
+          "id": "C",
+          "text": "Oestradiol only reduced weekly hot flushes but not daily"
+        },
+        {
+          "id": "D",
+          "text": "Oestradiol had no significant effect on hot flushes"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The guideline cites an RCT (n=78) showing that after six months, oestradiol reduced daily hot flushes frequency with a mean adjusted difference of -1.6 (p=0.04), but the effect on weekly hot flushes was not significant (MAD -19.6, p=0.11).",
+      "section": "8.2.5.c",
+      "section_title": "8.2.5.c. ADT induced bone fractures",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "medium",
+      "fact": "After six months, oestradiol reduced daily hot flushes frequency (mean adjusted difference MAD -1,6, p = 0.04), but the effect on weekly hot flushes was not significant (MAD -19,6 p = 0.11)",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-032",
+      "question": "What level of placebo response rate has been reported in hot flush studies according to the guideline?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Up to 10%"
+        },
+        {
+          "id": "B",
+          "text": "Up to 20%"
+        },
+        {
+          "id": "C",
+          "text": "Up to 30%"
+        },
+        {
+          "id": "D",
+          "text": "Up to 50%"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The guideline states that considering placebo response rates in up to 30% of patients, prospective RCTs are required to document the efficacy of various treatments including clonidine, veralipride, gabapentin, and acupuncture.",
+      "section": "8.2.5.c",
+      "section_title": "8.2.5.c. ADT induced bone fractures",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "Considering placebo response rates in up to 30% of patients [1538], prospective RCTs are required to document the efficacy of clonidine, veralipride, gabapentin [1539] and acupuncture [1540]",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-033",
+      "question": "According to the EAU guidelines on prostate cancer, what is the current evidence status regarding the association between castration and stroke risk?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Castration appears to be associated with an increased risk of stroke"
+        },
+        {
+          "id": "B",
+          "text": "Castration definitively causes stroke based on randomized trials"
+        },
+        {
+          "id": "C",
+          "text": "Castration has no association with cardiovascular events"
+        },
+        {
+          "id": "D",
+          "text": "The association between castration and stroke is completely refuted"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The guideline states in section 8.2.6 that castration 'appears to be associated with an increased risk of stroke,' indicating a suspected but not definitive causal relationship.",
+      "section": "8.2.6",
+      "section_title": "8.2.6. Osteonecrosis during bisphosphonates or denosumab",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "Castration appears to be associated with an increased risk of stroke",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-034",
+      "question": "Based on the EAU guidelines, what is the current evidence status for the association between castration and depression or cognitive decline, including Alzheimer disease?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Castration is suspected to be associated with an increased risk for depression and cognitive decline"
+        },
+        {
+          "id": "B",
+          "text": "Castration has been proven to cause depression in all patients"
+        },
+        {
+          "id": "C",
+          "text": "There is no suspected link between castration and any neuropsychological effects"
+        },
+        {
+          "id": "D",
+          "text": "Castration prevents cognitive decline based on strong evidence"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The guideline states in section 8.2.6 that castration is 'suspected to be associated with an increased risk for depression and cognitive decline such as Alzheimer disease,' indicating an uncertain but concerning relationship.",
+      "section": "8.2.6",
+      "section_title": "8.2.6. Osteonecrosis during bisphosphonates or denosumab",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "Castration is suspected to be associated with an increased risk for depression and cognitive decline such as Alzheimer disease",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-035",
+      "question": "According to the guideline, what is the minimum number of criteria required to diagnose metabolic syndrome?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Two criteria"
+        },
+        {
+          "id": "B",
+          "text": "Three criteria"
+        },
+        {
+          "id": "C",
+          "text": "Four criteria"
+        },
+        {
+          "id": "D",
+          "text": "Five criteria"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The text explicitly states that metabolic syndrome 'is defined by the presence of at least three of the following criteria', which includes waist circumference > 102cm, serum triglyceride > 1.7mmol/L, blood pressure > 130/80mmHg or antihypertensive use, HDL cholesterol < 1mmol/L, and glycaemia > 5.6mmol/L or hyperglycaemia medication use.",
+      "section": "8.2.5.e",
+      "section_title": "8.2.5.e. Cardiovascular morbidity",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "Metabolic syndrome is defined by the presence of at least three of the following criteria",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-036",
+      "question": "How early can lipid alterations occur after starting androgen deprivation therapy (ADT)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "After six months"
+        },
+        {
+          "id": "B",
+          "text": "After one year"
+        },
+        {
+          "id": "C",
+          "text": "Within the first three months"
+        },
+        {
+          "id": "D",
+          "text": "After two years"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The guideline text explicitly states 'Lipid alterations are common and may occur as early as the first three months of ADT', indicating this is a well-documented early metabolic complication of ADT.",
+      "section": "8.2.5.e",
+      "section_title": "8.2.5.e. Cardiovascular morbidity",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "Lipid alterations are common and may occur as early as the first three months of ADT",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-037",
+      "question": "In a prospective longitudinal study of 252 men on ADT for a median of 20.4 months, what was the percentage decline in lean body mass at three years?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.0%"
+        },
+        {
+          "id": "B",
+          "text": "2.1%"
+        },
+        {
+          "id": "C",
+          "text": "2.4%"
+        },
+        {
+          "id": "D",
+          "text": "3.5%"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The text explicitly reports that the study 'reported a progressive decline in lean body mass over time: 1.0% at one year, 2.1% at two years, and 2.4% at three years', with the decline being more pronounced in men aged 70 years or older.",
+      "section": "8.2.5.e",
+      "section_title": "8.2.5.e. Cardiovascular morbidity",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "medium",
+      "fact": "2.4% at three years",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-038",
+      "question": "What was the prevalence of sarcopenia at baseline in the study of 110 men with mCRPC?",
+      "options": [
+        {
+          "id": "A",
+          "text": "17%"
+        },
+        {
+          "id": "B",
+          "text": "27%"
+        },
+        {
+          "id": "C",
+          "text": "37%"
+        },
+        {
+          "id": "D",
+          "text": "47%"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The guideline clearly states that 'Sarcopenia at baseline, found in 27% of 110 men with mCRPC, significantly predicted severe toxicity and ER visits', indicating this was the documented baseline prevalence in this patient population.",
+      "section": "8.2.5.e",
+      "section_title": "8.2.5.e. Cardiovascular morbidity",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "Sarcopenia at baseline, found in 27% of 110 men with mCRPC",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-039",
+      "question": "According to the systematic review on ADT's impact on body composition, what effect does ADT have on BMI?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increases BMI significantly"
+        },
+        {
+          "id": "B",
+          "text": "Decreases BMI significantly"
+        },
+        {
+          "id": "C",
+          "text": "Has a relatively stable effect"
+        },
+        {
+          "id": "D",
+          "text": "First increases then decreases BMI"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The text explicitly states that 'An SR on the impact of ADT on body composition found ADT had a relatively stable effect on BMI but increased sarcopenia and subcutaneous adipose tissue', distinguishing the effect on BMI from its effects on body composition components.",
+      "section": "8.2.5.e",
+      "section_title": "8.2.5.e. Cardiovascular morbidity",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "medium",
+      "fact": "ADT had a relatively stable effect on BMI",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-040",
+      "question": "According to the guideline, what is considered the best protective measure against fatigue associated with ADT?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Regular exercise"
+        },
+        {
+          "id": "B",
+          "text": "Antidepressant medication"
+        },
+        {
+          "id": "C",
+          "text": "Sleep optimization therapy"
+        },
+        {
+          "id": "D",
+          "text": "Vitamin D supplementation"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The guideline explicitly states that 'regular exercise appears to be the best protective measure' for fatigue developing as a side effect of ADT. Section 8.2.5.g directly identifies exercise as the most effective intervention.",
+      "section": "8.2.5.g",
+      "section_title": "8.2.5.g. Neurological side effects",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "Regular exercise appears to be the best protective measure against ADT-related fatigue",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-041",
+      "question": "According to the guideline, what clinical action should be prompted when a patient reports clinically significant fatigue during ADT?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Immediate discontinuation of ADT"
+        },
+        {
+          "id": "B",
+          "text": "Screening for anxiety and/or depression"
+        },
+        {
+          "id": "C",
+          "text": "Initiation of erythropoietin therapy"
+        },
+        {
+          "id": "D",
+          "text": "Referral to endocrinology for thyroid evaluation"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The guideline explicitly states that 'Reporting clinically significant fatigue is associated with severe psychological distress and should prompt screening for anxiety and/or depression.' Section 8.2.5.g identifies this as the appropriate clinical response.",
+      "section": "8.2.5.g",
+      "section_title": "8.2.5.g. Neurological side effects",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "easy",
+      "fact": "Clinically significant fatigue should prompt screening for anxiety and/or depression",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-042",
+      "question": "Which of the following is listed in the guideline as a potential cause of anaemia that requires evaluation in patients on ADT?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Medullary invasion, renal insufficiency, iron deficiency, or chronic bleeding"
+        },
+        {
+          "id": "B",
+          "text": "Vitamin B12 deficiency, folate deficiency, or bone marrow metastasis"
+        },
+        {
+          "id": "C",
+          "text": "Prostate cancer direct invasion, splenic sequestration, or autoimmune haemolysis"
+        },
+        {
+          "id": "D",
+          "text": "Chronic infection, liver dysfunction, or thyroid disease"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The guideline explicitly lists the causes requiring evaluation as 'medullar invasion, renal insufficiency, iron deficiency, chronic bleeding.' Section 8.2.5.g specifies these as the causes that must be identified when anaemia is present.",
+      "section": "8.2.5.g",
+      "section_title": "8.2.5.g. Neurological side effects",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-2-adverse-effects-of-p-ca-therapies",
+      "difficulty": "medium",
+      "fact": "Anaemia evaluation should identify medullar invasion, renal insufficiency, iron deficiency, or chronic bleeding",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-043",
+      "question": "According to the EAU guidelines, what can patients eligible for active surveillance be advised regarding global quality of life compared to radical treatment options?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Global quality of life is equivalent for up to five years compared to radical prostatectomy or external beam radiotherapy"
+        },
+        {
+          "id": "B",
+          "text": "Global quality of life is superior for at least ten years compared to radical prostatectomy"
+        },
+        {
+          "id": "C",
+          "text": "Global quality of life is inferior but improves significantly after three years"
+        },
+        {
+          "id": "D",
+          "text": "Global quality of life equivalence has only been demonstrated for external beam radiotherapy, not surgery"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The guideline section 8.3.2 explicitly states that patients eligible for active surveillance should be advised that global quality of life is equivalent for up to five years compared to radical prostatectomy or external beam radiotherapy. This is a Strong recommendation.",
+      "section": "8.3.2",
+      "section_title": "8.3.2. Improving quality of life in men who have been diagnosed with PCa",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-3-overall-quality-of-life-in-men-with-p-ca",
+      "difficulty": "easy",
+      "fact": "Advise patients eligible for active surveillance that global quality of life is equivalent for up to five years compared to radical prostatectomy or external beam radiotherapy",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-044",
+      "question": "Which of the following functional domains is negatively impacted by external beam radiotherapy according to the EAU guidelines?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bowel function"
+        },
+        {
+          "id": "B",
+          "text": "Sexual function"
+        },
+        {
+          "id": "C",
+          "text": "Renal function"
+        },
+        {
+          "id": "D",
+          "text": "Respiratory function"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The guideline section 8.3.2 clearly states that physicians should discuss the negative impact of RT on bowel function with patients, alongside the recommendation to discuss surgery's impact on urinary and sexual function.",
+      "section": "8.3.2",
+      "section_title": "8.3.2. Improving quality of life in men who have been diagnosed with PCa",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-3-overall-quality-of-life-in-men-with-p-ca",
+      "difficulty": "easy",
+      "fact": "Discuss the negative impact of surgery on urinary and sexual function, as well as the negative impact of RT on bowel function with patients",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-045",
+      "question": "Regarding patients treated with brachytherapy, when does irritative urinary symptomatology typically resolve according to the EAU guidelines?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At one year but not after five years"
+        },
+        {
+          "id": "B",
+          "text": "Within three months of treatment"
+        },
+        {
+          "id": "C",
+          "text": "Gradually over ten years"
+        },
+        {
+          "id": "D",
+          "text": "Immediately following the procedure"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The guideline section 8.3.2 specifies that patients treated with brachytherapy should be advised of the negative impact on irritative urinary symptomatology at one year but not after five years, making this a Weak recommendation.",
+      "section": "8.3.2",
+      "section_title": "8.3.2. Improving quality of life in men who have been diagnosed with PCa",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-3-overall-quality-of-life-in-men-with-p-ca",
+      "difficulty": "medium",
+      "fact": "Advise patients treated with brachytherapy of the negative impact on irritative urinary symptomatology at one year but not after five years",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-046",
+      "question": "What is the reported prevalence of fear of cancer recurrence in men with prostate cancer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8%"
+        },
+        {
+          "id": "B",
+          "text": "16%"
+        },
+        {
+          "id": "C",
+          "text": "22%"
+        },
+        {
+          "id": "D",
+          "text": "30%"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The guideline explicitly states that fear of cancer recurrence has a prevalence of 16% across studies. Section 8.3.1 confirms this specific statistic for men with prostate cancer.",
+      "section": "8.3.1",
+      "section_title": "8.3.1. Long-term (&gt;&nbsp;twelve months) quality of life outcomes in men with localised disease",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-3-overall-quality-of-life-in-men-with-p-ca",
+      "difficulty": "easy",
+      "fact": "Fear of cancer recurrence and PSA anxiety has a prevalence of 16% and 22%, respectively, across studies.",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-047",
+      "question": "Which combination of patient-reported outcome measures (PROMs) has the best evidence for use in patients with localised prostate cancer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "FACT-G and FACT-P"
+        },
+        {
+          "id": "B",
+          "text": "EORTC QLQ-C30 and QLQ-PR25"
+        },
+        {
+          "id": "C",
+          "text": "EPIC and EORTC QLQ-C30"
+        },
+        {
+          "id": "D",
+          "text": "FACT-P and EPIC short form 26"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The guideline specifically states that the tools with the best evidence for psychometric properties and feasibility are EORTC QLQ-C30 and QLQ-PR25. Section 8.3.1 identifies these as the recommended combination for localised PCa.",
+      "section": "8.3.1",
+      "section_title": "8.3.1. Long-term (&gt;&nbsp;twelve months) quality of life outcomes in men with localised disease",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-3-overall-quality-of-life-in-men-with-p-ca",
+      "difficulty": "medium",
+      "fact": "The tools with the best evidence for psychometric properties and feasibility for use in routine practice and research settings to assess PROMs in patients with localised PCa were EORTC QLQ-C30 and QLQ-PR25.",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-048",
+      "question": "According to the guideline, why should EORTC QLQ-C30 be used in conjunction with QLQ-PR25?",
+      "options": [
+        {
+          "id": "A",
+          "text": "QLQ-PR25 is more cost-effective than standalone use"
+        },
+        {
+          "id": "B",
+          "text": "EORTC QLQ-C30 does not directly assess PCa-specific issues"
+        },
+        {
+          "id": "C",
+          "text": "QLQ-PR25 has better sensitivity for advanced disease"
+        },
+        {
+          "id": "D",
+          "text": "EORTC QLQ-C30 requires additional validation for PCa use"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The guideline explicitly states that because EORTC QLQ-C30 is a general module that does not directly assess PCa-specific issues, it should be adopted in conjunction with the QLQ-PR25 module. This justification is provided in Section 8.3.1.",
+      "section": "8.3.1",
+      "section_title": "8.3.1. Long-term (&gt;&nbsp;twelve months) quality of life outcomes in men with localised disease",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-3-overall-quality-of-life-in-men-with-p-ca",
+      "difficulty": "medium",
+      "fact": "Because EORTC QLQ-C30 is a general module that does not directly assess PCa-specific issues, it should be adopted in conjunction with the QLQ-PR25 module.",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-049",
+      "question": "Which type of psychological intervention has been shown to improve depression, anxiety and distress in men with prostate cancer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mindfulness-based stress reduction"
+        },
+        {
+          "id": "B",
+          "text": "Pharmacotherapy with antidepressants"
+        },
+        {
+          "id": "C",
+          "text": "Combined cognitive- and education-based interventions"
+        },
+        {
+          "id": "D",
+          "text": "Supportive expressive group therapy"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The guideline explicitly states that combined cognitive- and education-based psychological interventions improve depression, anxiety and distress. This is stated in Section 8.3.1 as evidence-based intervention.",
+      "section": "8.3.1",
+      "section_title": "8.3.1. Long-term (&gt;&nbsp;twelve months) quality of life outcomes in men with localised disease",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-3-overall-quality-of-life-in-men-with-p-ca",
+      "difficulty": "easy",
+      "fact": "Combined cognitive- and education-based psychological interventions improve depression, anxiety and distress.",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-050",
+      "question": "Which adverse effects are specifically associated with androgen deprivation therapy (ADT) used in short- or long-term treatment according to the guideline?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Osteoporosis and hearing loss only"
+        },
+        {
+          "id": "B",
+          "text": "Sexual problems, fatigue, psychological morbidity, adverse metabolic sequelae, increased cardiovascular and bone fracture risk"
+        },
+        {
+          "id": "C",
+          "text": "Nausea, vomiting and hair loss"
+        },
+        {
+          "id": "D",
+          "text": "Renal impairment and liver dysfunction"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The guideline explicitly lists these specific adverse effects of ADT in Section 8.3.1, including sexual problems, fatigue, psychological morbidity, adverse metabolic sequelae, and increased cardiovascular and bone fracture risk.",
+      "section": "8.3.1",
+      "section_title": "8.3.1. Long-term (&gt;&nbsp;twelve months) quality of life outcomes in men with localised disease",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-3-overall-quality-of-life-in-men-with-p-ca",
+      "difficulty": "easy",
+      "fact": "ADT used in short- or long-term treatment can cause sexual problems, fatigue, psychological morbidity, adverse metabolic sequelae and increased cardiovascular and bone fracture risk.",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-051",
+      "question": "According to the EAU guidelines, what is the approximate cure rate following surgical interventions (sling or artificial urinary sphincter) for post-surgical urinary incontinence in men with prostate cancer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Approximately 40%"
+        },
+        {
+          "id": "B",
+          "text": "Approximately 60%"
+        },
+        {
+          "id": "C",
+          "text": "Approximately 80%"
+        },
+        {
+          "id": "D",
+          "text": "Approximately 25%"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The guideline states in Section 8.3.2.b that surgical interventions including sling and AUS have an overall cure rate of approximately 60%, which is directly supported by the text.",
+      "section": "8.3.2.b",
+      "section_title": "8.3.2.b. Men undergoing systemic treatments",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-3-overall-quality-of-life-in-men-with-p-ca",
+      "difficulty": "easy",
+      "fact": "The overall cure rate following sling and AUS surgery is approximately 60% and results in improvement in incontinence by approximately 25%.",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-052",
+      "question": "In the multicentre double-blind RCT evaluating tadalafil for penile rehabilitation after nerve-sparing radical prostatectomy (n=423), what was the dosage and frequency that improved EPIC sexual domain scores compared to placebo at nine months?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tadalafil 20 mg once daily"
+        },
+        {
+          "id": "B",
+          "text": "Tadalafil 50 mg on-demand"
+        },
+        {
+          "id": "C",
+          "text": "Tadalafil 5 mg once daily"
+        },
+        {
+          "id": "D",
+          "text": "Tadalafil 10 mg on-demand"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Section 8.3.2.b explicitly states that tadalafil 5 mg once per day improved EPIC sexual domain scores (least-squares mean difference +9.6) compared to 20mg on-demand or placebo at nine months in men aged <68 years.",
+      "section": "8.3.2.b",
+      "section_title": "8.3.2.b. Men undergoing systemic treatments",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-3-overall-quality-of-life-in-men-with-p-ca",
+      "difficulty": "medium",
+      "fact": "In men aged <68 years with normal pretreatment erectile function undergoing nerve-sparing RP, tadalafil 5 mg once per day improved EPIC sexual domain scores compared to on-demand use or placebo at nine months.",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-053",
+      "question": "Which of the following alternative devices for urinary incontinence may be less efficacious than the artificial urinary sphincter (AUS) according to the guidelines?",
+      "options": [
+        {
+          "id": "A",
+          "text": "AdVance sling and Virtue male sling"
+        },
+        {
+          "id": "B",
+          "text": "Adjustable Transobturator Male System (ATOMS) and Adjustable Continence Therapy (proACT)"
+        },
+        {
+          "id": "C",
+          "text": "Pelvic floor muscle training with biofeedback"
+        },
+        {
+          "id": "D",
+          "text": "Extra-corporeal magnetic innervation (ExMI)"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The guideline in Section 8.3.2.b specifically states that ATOMS and proACT may be an option but appear to be less efficacious than AUS, distinguishing these surgical alternatives from conservative options listed.",
+      "section": "8.3.2.b",
+      "section_title": "8.3.2.b. Men undergoing systemic treatments",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-3-overall-quality-of-life-in-men-with-p-ca",
+      "difficulty": "medium",
+      "fact": "Alternative surgical options such as the Adjustable Transobturator Male System (ATOMS) and the Adjustable Continence Therapy (proACT) may be an option but appear to be less efficacious than AUS.",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-054",
+      "question": "According to the guideline, what effect did patient education have on PSA testing and adherence to Active Surveillance protocols?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Patient education increased PSA testing and decreased adherence to AS protocols"
+        },
+        {
+          "id": "B",
+          "text": "Patient education decreased PSA testing and increased adherence to AS protocols"
+        },
+        {
+          "id": "C",
+          "text": "Patient education had no effect on PSA testing but increased adherence to AS protocols"
+        },
+        {
+          "id": "D",
+          "text": "Patient education increased both PSA testing and adherence to AS protocols"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The guideline states in section 8.3.2.e that patient education decreased PSA testing and increased adherence to AS protocols (references 1667-1669). This demonstrates the positive impact of education on both reducing unnecessary testing and improving protocol compliance.",
+      "section": "8.3.2.e",
+      "section_title": "8.3.2.e. Recommendations for quality of life in men undergoing systemic treatments",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-3-overall-quality-of-life-in-men-with-p-ca",
+      "difficulty": "easy",
+      "fact": "Patient education decreased PSA testing and increased adherence to AS protocols",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-055",
+      "question": "When patients with metastasised prostate cancer were presented with treatment choices, what did they prioritise over mode of administration and risk of fatigue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cost and availability of treatment"
+        },
+        {
+          "id": "B",
+          "text": "Effectiveness and pain control"
+        },
+        {
+          "id": "C",
+          "text": "Treatment duration and hospital visits"
+        },
+        {
+          "id": "D",
+          "text": "Side effect profile and recovery time"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The guideline in section 8.3.2.e explicitly states that patients prioritised effectiveness and pain control over mode of administration and risk of fatigue when presented with treatment choice in metastasised PCa (reference 1672). This highlights what matters most to patients in advanced disease treatment decisions.",
+      "section": "8.3.2.e",
+      "section_title": "8.3.2.e. Recommendations for quality of life in men undergoing systemic treatments",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-3-overall-quality-of-life-in-men-with-p-ca",
+      "difficulty": "medium",
+      "fact": "Patients prioritised effectiveness and pain control over mode of administration and risk of fatigue when presented with treatment choice in metastasised PCa",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-056",
+      "question": "According to the guideline, what are the two essential components that a decision aid should incorporate to optimise efficacy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Clinical validity and clinical utility"
+        },
+        {
+          "id": "B",
+          "text": "Patient education and promotion of shared decision-making"
+        },
+        {
+          "id": "C",
+          "text": "Risk assessment and treatment recommendations"
+        },
+        {
+          "id": "D",
+          "text": "Pain management and effectiveness monitoring"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The guideline in section 8.3.2.e clearly states that a decision aid should educate as well as promote shared decision-making to optimise efficacy (reference 1674). This dual approach combining education with shared decision-making is emphasized as essential for decision aid effectiveness.",
+      "section": "8.3.2.e",
+      "section_title": "8.3.2.e. Recommendations for quality of life in men undergoing systemic treatments",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-3-overall-quality-of-life-in-men-with-p-ca",
+      "difficulty": "medium",
+      "fact": "A decision aid should educate as well as promote shared decision-making to optimise efficacy",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-057",
+      "question": "In men with T1-T3 prostate cancer undergoing radiation therapy and androgen deprivation therapy, what components were included in the combined nurse-led psychological support and physiotherapist-led multidisciplinary rehabilitation programme?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Action planning for lifestyle changes, weight control, toilet habits, sexuality and psychological problems, complemented with pelvic floor muscle therapy"
+        },
+        {
+          "id": "B",
+          "text": "Medication management, dietary counseling, and mindfulness meditation"
+        },
+        {
+          "id": "C",
+          "text": "Chemotherapy education, pain management, and group therapy sessions"
+        },
+        {
+          "id": "D",
+          "text": "Surgical rehabilitation, occupational therapy, and speech therapy"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The text in Section 8.3.2.c states that the intervention involved 'action planning concerning patients' needs related to lifestyle changes, weight control, toilet habits, sexuality and psychological problems, complemented with pelvic floor muscle therapy'. This specific combination of nurse-led and physiotherapist-led components is explicitly described.",
+      "section": "8.3.2.c",
+      "section_title": "8.3.2.c. Decision regret",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-3-overall-quality-of-life-in-men-with-p-ca",
+      "difficulty": "easy",
+      "fact": "The intervention involved action planning concerning patients' needs related to lifestyle changes, weight control, toilet habits, sexuality and psychological problems, complemented with pelvic floor muscle therapy.",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-quality-of-life-outcomes-in-prostate-cancer-058",
+      "question": "According to the meta-analysis including 34 studies and 2,741 men, what type of exercise training produced the greatest effects for men with prostate cancer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Combined aerobic and resistance training"
+        },
+        {
+          "id": "B",
+          "text": "Aerobic training alone"
+        },
+        {
+          "id": "C",
+          "text": "Resistance training alone"
+        },
+        {
+          "id": "D",
+          "text": "Low-intensity stretching and flexibility exercises"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Section 8.3.2.c explicitly states: 'A meta-analysis including 34 studies and 2,741 men confirmed that supervised exercise significantly improves fatigue (SMD –0.32), cancer-specific QoL (SMD 0.24), and muscular strength, with the greatest effects seen in combined aerobic and resistance training.'",
+      "section": "8.3.2.c",
+      "section_title": "8.3.2.c. Decision regret",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/quality-of-life-outcomes-in-prostate-cancer#8-3-overall-quality-of-life-in-men-with-p-ca",
+      "difficulty": "medium",
+      "fact": "A meta-analysis including 34 studies and 2,741 men confirmed that supervised exercise significantly improves fatigue (SMD –0.32), cancer-specific QoL (SMD 0.24), and muscular strength, with the greatest effects seen in combined aerobic and resistance training.",
+      "chapter": "quality-of-life-outcomes-in-prostate-cancer",
+      "guideline": "prostate-cancer"
+    }
+  ]
+}

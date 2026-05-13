@@ -1,0 +1,1151 @@
+{
+  "guideline": "management-of-non-neurogenic-male-luts",
+  "chapter": "diagnostic-evaluation",
+  "url": "https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/diagnostic-evaluation",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Summary of changes",
+      "anchor": "#1-4-1-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1 Introduction",
+      "anchor": "#2-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Patients to whom the Guidelines apply",
+      "anchor": "#2-3-patients-to-whom-the-guidelines-apply"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AETIOLOGY AND PATHOPHYSIOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 2,
+      "text": "4. DIAGNOSTIC EVALUATION",
+      "anchor": "#4-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Medical history",
+      "anchor": "#4-1-medical-history"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Symptom score questionnaires",
+      "anchor": "#4-2-symptom-score-questionnaires"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. International Prostate Symptom Score",
+      "anchor": "#4-2-1-international-prostate-symptom-score"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. International Consultation on Incontinence Questionnaire for MLUTS",
+      "anchor": "#4-2-2-international-consultation-on-incontinence-questionnaire-for-mluts"
+    },
+    {
+      "level": 4,
+      "text": "4.2.3. Danish Prostate Symptom Score",
+      "anchor": "#4-2-3-danish-prostate-symptom-score"
+    },
+    {
+      "level": 4,
+      "text": "4.2.4. Symptoms of Lower Urinary Tract Dysfunction Research Network",
+      "anchor": "#4-2-4-symptoms-of-lower-urinary-tract-dysfunction-research-network"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Physical examination and digital rectal examination",
+      "anchor": "#4-4-physical-examination-and-digital-rectal-examination"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Digital rectal examination and prostate size evaluation",
+      "anchor": "#4-4-1-digital-rectal-examination-and-prostate-size-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Urinalysis",
+      "anchor": "#4-5-urinalysis"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Prostate-specific antigen",
+      "anchor": "#4-6-prostate-specific-antigen"
+    },
+    {
+      "level": 4,
+      "text": "4.6.1. Prostate-specific antigen and the prediction of prostatic volume",
+      "anchor": "#4-6-1-prostate-specific-antigen-and-the-prediction-of-prostatic-volume"
+    },
+    {
+      "level": 4,
+      "text": "4.6.2. Prostate-specific antigen and the probability of PCa",
+      "anchor": "#4-6-2-prostate-specific-antigen-and-the-probability-of-pca"
+    },
+    {
+      "level": 4,
+      "text": "4.6.3. Prostate-specific antigen and the prediction of BPO-related outcomes",
+      "anchor": "#4-6-3-prostate-specific-antigen-and-the-prediction-of-bpo-related-outcomes"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Renal function measurement",
+      "anchor": "#4-7-renal-function-measurement"
+    },
+    {
+      "level": 3,
+      "text": "4.8. Post-void residual urine",
+      "anchor": "#4-8-post-void-residual-urine"
+    },
+    {
+      "level": 3,
+      "text": "4.9. Uroflowmetry",
+      "anchor": "#4-9-uroflowmetry"
+    },
+    {
+      "level": 3,
+      "text": "4.10. Imaging",
+      "anchor": "#4-10-imaging"
+    },
+    {
+      "level": 4,
+      "text": "4.10.1. Upper urinary tract",
+      "anchor": "#4-10-1-upper-urinary-tract"
+    },
+    {
+      "level": 4,
+      "text": "4.10.2. Prostate",
+      "anchor": "#4-10-2-prostate"
+    },
+    {
+      "level": 4,
+      "text": "4.10.3. Voiding cystourethrogram",
+      "anchor": "#4-10-3-voiding-cystourethrogram"
+    },
+    {
+      "level": 3,
+      "text": "4.11. Urethrocystoscopy",
+      "anchor": "#4-11-urethrocystoscopy"
+    },
+    {
+      "level": 3,
+      "text": "4.12. Urodynamics",
+      "anchor": "#4-12-urodynamics"
+    },
+    {
+      "level": 4,
+      "text": "4.12.1. Diagnosing bladder outflow obstruction",
+      "anchor": "#4-12-1-diagnosing-bladder-outflow-obstruction"
+    },
+    {
+      "level": 4,
+      "text": "4.12.2. Videourodynamics",
+      "anchor": "#4-12-2-videourodynamics"
+    },
+    {
+      "level": 3,
+      "text": "4.13. Non-invasive tests in diagnosing bladder outlet obstruction in men with LUTS",
+      "anchor": "#4-13-non-invasive-tests-in-diagnosing-bladder-outlet-obstruction-in-men-with-luts"
+    },
+    {
+      "level": 4,
+      "text": "4.13.3. Non-invasive pressure-flow testing",
+      "anchor": "#4-13-3-non-invasive-pressure-flow-testing"
+    },
+    {
+      "level": 4,
+      "text": "4.13.4. The diagnostic performance of non-invasive tests in diagnosing bladder outlet obstruction in men with LUTS compared with pressure-flow studies",
+      "anchor": "#4-13-4-the-diagnostic-performance-of-non-invasive-tests-in-diagnosing-bladder-outlet-obstruction-in-men-with-luts-compared-with-pressure-flow-studies"
+    },
+    {
+      "level": 3,
+      "text": "4.14. Novel assessment",
+      "anchor": "#4-14-novel-assessment"
+    },
+    {
+      "level": 4,
+      "text": "4.14.1. Visual prostate symptom score",
+      "anchor": "#4-14-1-visual-prostate-symptom-score"
+    },
+    {
+      "level": 4,
+      "text": "4.14.2. MicroRNA",
+      "anchor": "#4-14-2-microrna"
+    },
+    {
+      "level": 3,
+      "text": "4.15. Prostate cancer",
+      "anchor": "#4-15-prostate-cancer"
+    },
+    {
+      "level": 2,
+      "text": "5. DISEASE MANAGEMENT",
+      "anchor": "#5-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Conservative treatment",
+      "anchor": "#5-1-conservative-treatment"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Watchful waiting",
+      "anchor": "#5-1-1-watchful-waiting"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Behavioural and dietary modifications",
+      "anchor": "#5-1-2-behavioural-and-dietary-modifications"
+    },
+    {
+      "level": 4,
+      "text": "5.1.3. Practical considerations",
+      "anchor": "#5-1-3-practical-considerations"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Pharmacological treatment",
+      "anchor": "#5-2-pharmacological-treatment"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1.α1-Adrenoceptor antagonists (α1-blockers)",
+      "anchor": "#5-2-1-1-adrenoceptor-antagonists-1-blockers"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2.5α-reductase inhibitors",
+      "anchor": "#5-2-2-5-reductase-inhibitors"
+    },
+    {
+      "level": 4,
+      "text": "5.2.3. Muscarinic receptor antagonists",
+      "anchor": "#5-2-3-muscarinic-receptor-antagonists"
+    },
+    {
+      "level": 4,
+      "text": "5.2.4. β",
+      "anchor": "#5-2-4"
+    },
+    {
+      "level": 4,
+      "text": "5.2.5. Phosphodiesterase type 5 inhibitors",
+      "anchor": "#5-2-5-phosphodiesterase-type-5-inhibitors"
+    },
+    {
+      "level": 4,
+      "text": "5.2.6. Plant extracts - phytotherapy",
+      "anchor": "#5-2-6-plant-extracts---phytotherapy"
+    },
+    {
+      "level": 4,
+      "text": "5.2.7. Combination therapies",
+      "anchor": "#5-2-7-combination-therapies"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Surgical treatment of benign prostatic obstruction",
+      "anchor": "#5-3-surgical-treatment-of-benign-prostatic-obstruction"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Resection of the prostate",
+      "anchor": "#5-3-1-resection-of-the-prostate"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Enucleation of the prostate",
+      "anchor": "#5-3-2-enucleation-of-the-prostate"
+    },
+    {
+      "level": 4,
+      "text": "5.3.3. Vaporisation of the prostate",
+      "anchor": "#5-3-3-vaporisation-of-the-prostate"
+    },
+    {
+      "level": 4,
+      "text": "5.3.4. Alternative ablative techniques",
+      "anchor": "#5-3-4-alternative-ablative-techniques"
+    },
+    {
+      "level": 4,
+      "text": "5.3.5. Nonablative techniques",
+      "anchor": "#5-3-5-nonablative-techniques"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Management of nocturia in men with lower urinary tract symptoms",
+      "anchor": "#5-5-management-of-nocturia-in-men-with-lower-urinary-tract-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "5.5.1. Diagnostic assessment",
+      "anchor": "#5-5-1-diagnostic-assessment"
+    },
+    {
+      "level": 4,
+      "text": "5.5.2. Medical conditions and sleep disorders shared care pathway",
+      "anchor": "#5-5-2-medical-conditions-and-sleep-disorders-shared-care-pathway"
+    },
+    {
+      "level": 4,
+      "text": "5.5.3. Treatment for nocturia",
+      "anchor": "#5-5-3-treatment-for-nocturia"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Management of male urinary incontinence",
+      "anchor": "#5-6-management-of-male-urinary-incontinence"
+    },
+    {
+      "level": 4,
+      "text": "5.6.1. Epidemiology and pathophysiology",
+      "anchor": "#5-6-1-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "5.6.2. Diagnostic evaluation",
+      "anchor": "#5-6-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "5.6.3. Conservative treatment",
+      "anchor": "#5-6-3-conservative-treatment"
+    },
+    {
+      "level": 4,
+      "text": "5.6.4. Pharmacological management",
+      "anchor": "#5-6-4-pharmacological-management"
+    },
+    {
+      "level": 4,
+      "text": "5.6.5. Surgical treatment for stress urinary incontinence",
+      "anchor": "#5-6-5-surgical-treatment-for-stress-urinary-incontinence"
+    },
+    {
+      "level": 4,
+      "text": "5.6.6. Surgical treatment for urgency urinary incontinence",
+      "anchor": "#5-6-6-surgical-treatment-for-urgency-urinary-incontinence"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Management of underactive bladder",
+      "anchor": "#5-7-management-of-underactive-bladder"
+    },
+    {
+      "level": 4,
+      "text": "5.7.1. Epidemiology and pathophysiology",
+      "anchor": "#5-7-1-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "5.7.2. Diagnostic evaluation",
+      "anchor": "#5-7-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "5.7.3. Conservative management",
+      "anchor": "#5-7-3-conservative-management"
+    },
+    {
+      "level": 4,
+      "text": "5.7.4. Pharmacological management",
+      "anchor": "#5-7-4-pharmacological-management"
+    },
+    {
+      "level": 4,
+      "text": "5.7.5. Surgical treatment for underactive bladder",
+      "anchor": "#5-7-5-surgical-treatment-for-underactive-bladder"
+    },
+    {
+      "level": 4,
+      "text": "5.7.6. Follow-up",
+      "anchor": "#5-7-6-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "5.8. Voiding dysfunction in young men",
+      "anchor": "#5-8-voiding-dysfunction-in-young-men"
+    },
+    {
+      "level": 4,
+      "text": "5.8.1. Diagnostic evaluation",
+      "anchor": "#5-8-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "5.8.2. Treatment",
+      "anchor": "#5-8-2-treatment"
+    },
+    {
+      "level": 2,
+      "text": "6. FOLLOW UP",
+      "anchor": "#6-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Watchful waiting (behavioural)",
+      "anchor": "#6-1-watchful-waiting-behavioural"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Medical treatment",
+      "anchor": "#6-2-medical-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Surgical treatment",
+      "anchor": "#6-3-surgical-treatment"
+    },
+    {
+      "level": 2,
+      "text": "7. REFERENCES",
+      "anchor": "#7-references"
+    },
+    {
+      "level": 2,
+      "text": "8. CONFLICT OF INTEREST",
+      "anchor": "#8-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "9. CITATION INFORMATION",
+      "anchor": "#9-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "10. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#10-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#non-neurogenic-male-luts",
+      "title": "Non-neurogenic Male LUTS",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 4. Diagnostic Evaluation Introduction Methods Epidemiology Aetiology And Pathophysiology Diagnostic Evaluation Disease Management Follow Up References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#4-diagnostic-evaluation",
+      "title": "4. DIAGNOSTIC EVALUATION",
+      "level": 2,
+      "text": "Tests are useful for diagnosis, monitoring, assessing the risk of disease progression, treatment planning and predicting treatment outcomes. The clinical assessment of patients with LUTS has two main objectives: to identify the differential diagnoses. Since the origin of MLUTS is multifactorial, the relevant EAU Guidelines on the management of applicable conditions should be followed; and to define the clinical profile (including the risk of disease progression) of men with LUTS to provide appropriate care.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-medical-history",
+      "title": "4.1. Medical history",
+      "level": 3,
+      "text": "The importance of assessing the patient’s history is well recognised [18-20]. A medical history aims to identify the potential causes and relevant comorbidities, including medical and neurological diseases. In addition, current medication, lifestyle habits, emotional and psychological factors must be reviewed. The Panel recognises the need to discuss LUTS and the therapeutic pathway from the patient’s perspective. This includes reassuring the patient that there is no definite link between LUTS and PCa [21, 22]. As part of the urological/surgical history, a self-completed validated symptom questionnaire (see Section 4.2) should be obtained to objectify and quantify LUTS [18, 20]. Bladder diaries or frequency/volume charts (FVCs) are particularly beneficial (see Section 4.3) [23]. Sexual function should also be assessed, preferably with validated symptom questionnaires such as the International Index of Erectile Function (IIEF) and the Male Sexual Health Questionnaire Ejaculatory Dysfunction (MSHQ-EjD) [24, 25]. Summary of evidence LE A medical and surgical history is an integral part of a patient’s medical evaluation. 4 A medical and surgical history aims to identify the potential causes of LUTS as well as any relevant comorbidities and to review the patient’s current medication and lifestyle habits. 4 Recommendation Strength rating Take a complete medical and surgical history from men with LUTS. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "A medical and surgical history is an integral part of a patient’s medical evaluation.",
+              "4"
+            ],
+            [
+              "A medical and surgical history aims to identify the potential causes of LUTS as well as any relevant comorbidities and to review the patient’s current medication and lifestyle habits.",
+              "4"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Take a complete medical and surgical history from men with LUTS.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-2-symptom-score-questionnaires",
+      "title": "4.2. Symptom score questionnaires",
+      "level": 3,
+      "text": "All published guidelines for MLUTS recommend using validated symptom score questionnaires [18, 20]. Several questionnaires have been developed which are sensitive to symptom changes and can be used to monitor treatment [26-32]. Symptom scores are helpful in quantifying LUTS and in identifying which type of symptoms are predominant, however, they are not disease- or age-specific. An SR evaluating the diagnostic accuracy of individual symptoms and questionnaires, compared with urodynamic studies (the reference standard), for the diagnosis of BOO in males with LUTS found that individual symptoms and questionnaires for diagnosing BOO were not significantly associated with one another [33].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-2-1-international-prostate-symptom-score",
+      "title": "4.2.1. International Prostate Symptom Score",
+      "level": 4,
+      "text": "The International Prostate Symptom Score (IPSS) is an eight-item questionnaire, consisting of seven symptom questions and one QoL question [27]. The IPSS score is categorised as ‘asymptomatic’ (0 points), ‘mildly symptomatic’ (1-7 points), ‘moderately symptomatic’ (8-19 points) and ‘severely symptomatic’ (20-35 points). Limitations include lack of assessment of incontinence, post-micturition symptoms and bother caused by each separate symptom.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-2-2-international-consultation-on-incontinence-questionnaire-for-mluts",
+      "title": "4.2.2. International Consultation on Incontinence Questionnaire for MLUTS",
+      "level": 4,
+      "text": "The International Consultation on Incontinence Questionnaire for MLUTS (ICIQ-MLUTS) was developed from the International Continence Society (ICS) male questionnaire. The ICIQ-MLUTS is a widely used and validated patient-completed questionnaire consisting of incontinence questions and bother for each symptom [28]. The questionnaire contains 13 items and is available in 24 languages [34]. The ICIQ-MLUTS more deeply explores the subtypes of MLUTS [35].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-2-3-danish-prostate-symptom-score",
+      "title": "4.2.3. Danish Prostate Symptom Score",
+      "level": 4,
+      "text": "The Danish Prostate Symptom Score (DAN-PSS) [31] is a symptom score used mainly in Denmark and Finland. The DAN-PSS has 12 questions divided into parts A and B with questions on incontinence and measures the bother of each individual LUTS.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-2-4-symptoms-of-lower-urinary-tract-dysfunction-research-network",
+      "title": "4.2.4. Symptoms of Lower Urinary Tract Dysfunction Research Network",
+      "level": 4,
+      "text": "The Symptoms of Lower Urinary Tract Dysfunction Research Network (LURN-SI-10) correlates strongly with the IPSS but identifies additional important symptomatology including incontinence and bladder pain in men with LUTS [36]. Summary of evidence LE Symptom questionnaires are sensitive to symptom changes. 3 Symptom scores can quantify LUTS and identify which types of symptoms are predominant, however, they are not disease- or age-specific. 3 Recommendation Strength rating Use a validated symptom score questionnaire including bother and quality of life assessment, during the initial assessment of male LUTS and for re-evaluation during and/or after treatment. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Symptom questionnaires are sensitive to symptom changes.",
+              "3"
+            ],
+            [
+              "Symptom scores can quantify LUTS and identify which types of symptoms are predominant, however, they are not disease- or age-specific.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Use a validated symptom score questionnaire including bother and quality of life assessment, during the initial assessment of male LUTS and for re-evaluation during and/or after treatment.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-3-frequency-volume-charts-andor-bladder-diaries",
+      "title": "4.3. Frequency volume charts and/or bladder diaries",
+      "level": 3,
+      "text": "The recording of the volume and time of each void by the patient is referred to as a FVC. Inclusion of additional information, such as fluid intake, use of pads, activities during recording, or that grades symptom severity and bladder sensation, is referred to as a bladder diary [3]. Parameters that can be derived from the FVC and bladder diary include daytime and night-time voiding frequency, total voided volume, the fraction of urine production during the night relative to the 24-hour urine volume (NP index) and volume of individual voids. The mean 24-hour urine production is subject to considerable variation. Similarly, circumstantial influence and intraindividual variation cause FVC parameters to fluctuate, although comparatively little data is available to support this [37,38]. The FVC/bladder diary is particularly relevant in nocturia, for which it underpins the categorisation of underlying mechanism(s) [39-41]. The use of FVCs may cause a ‘bladder training (BT) effect’ and influence the frequency of nocturnal voids [42]. The duration of the FVC/bladder diary needs to be long enough to avoid sampling errors, but short enough to avoid noncompliance [23]. An SR of the available literature recommended that FVCs should continue for at least three days [43]. No data is available as to whether the three days should be consecutive or scattered or whether it must be on weekdays or weekends, as long as it is representative. The ICIQ-Bladder diary (ICIQ-BD) is the only diary that has undergone full validation [44]. Summary of evidence LE Frequency/volume charts and/or bladder diaries provide real-time objective documentation of urinary symptoms and reduce recall bias. 3 Three-day FVCs provide reliable measurement of urinary symptoms in patients with LUTS similar to seven days and without losing the diagnostic accuracy. 2b Recommendations Strength rating Use a bladder diary to assess male LUTS, particularly for nocturia. Strong Have the patient complete a bladder diary for at least three days. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Frequency/volume charts and/or bladder diaries provide real-time objective documentation of urinary symptoms and reduce recall bias.",
+              "3"
+            ],
+            [
+              "Three-day FVCs provide reliable measurement of urinary symptoms in patients with LUTS similar to seven days and without losing the diagnostic accuracy.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use a bladder diary to assess male LUTS, particularly for nocturia.",
+              "Strong"
+            ],
+            [
+              "Have the patient complete a bladder diary for at least three days.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-4-physical-examination-and-digital-rectal-examination",
+      "title": "4.4. Physical examination and digital rectal examination",
+      "level": 3,
+      "text": "Physical examination focusing in particular on the suprapubic area, the external genitalia, the perineum and lower limbs should be performed. Urethral discharge, meatal stenosis, phimosis and penile cancer must be excluded.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-4-1-digital-rectal-examination-and-prostate-size-evaluation",
+      "title": "4.4.1. Digital rectal examination and prostate size evaluation",
+      "level": 4,
+      "text": "Digital rectal examination (DRE) is the simplest way to assess prostate volume, but the correlation to prostate volume is poor. Quality-control procedures for DRE have been described [45]. Transrectal ultrasound (TRUS) is more accurate in determining prostate volume than DRE as a DRE underestimates prostate volume. The underestimation increases with increasing TRUS volume, particularly where the volume is > 30mL [46]. A model of visual aids has been developed to help urologists estimate prostate volume more accurately [47]. One study concluded that DRE was sufficient to discriminate between prostate volumes > or < 50mL [48]. Summary of evidence LE Physical examination is an integral part of a patient’s medical evaluation. 4 Digital rectal examination can be used to assess prostate volume and texture, however, the correlation to actual prostate volume is poor. 3 Recommendation Strength rating Perform a physical examination, including digital rectal examination, in the assessment of male LUTS. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Physical examination is an integral part of a patient’s medical evaluation.",
+              "4"
+            ],
+            [
+              "Digital rectal examination can be used to assess prostate volume and texture, however, the correlation to actual prostate volume is poor.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Perform a physical examination, including digital rectal examination, in the assessment of male LUTS.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-5-urinalysis",
+      "title": "4.5. Urinalysis",
+      "level": 3,
+      "text": "Urinalysis (dipstick or microscopy) must be included in the primary evaluation of any patient presenting with LUTS to identify conditions such as urinary tract infections (UTI), microhaematuria and diabetes mellitus. If abnormal findings are detected, further tests are recommended according to other EAU Guidelines, for example, Guidelines on Urinary Tract Cancers and Urological Infections [49-52]. In most Guidelines, urinalysis is recommended in the primary management of patients with LUTS [53,54]. Limited evidence is available, but general expert consensus suggests that the benefits outweigh the costs [55]. The value of urinary dipstick/microscopy for diagnosing UTI in men with LUTS without acute frequency and dysuria has been questioned [56]. Summary of evidence LE Urinalysis (dipstick or microscopy) may indicate a UTI, proteinuria, haematuria and/or glycosuria requiring further assessment. 3 The benefits of urinalysis outweigh the costs. 4 Recommendation Strength rating Use urinalysis (by dipstick or microscopy) in the assessment of male LUTS. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Urinalysis (dipstick or microscopy) may indicate a UTI, proteinuria, haematuria and/or glycosuria requiring further assessment.",
+              "3"
+            ],
+            [
+              "The benefits of urinalysis outweigh the costs.",
+              "4"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Use urinalysis (by dipstick or microscopy) in the assessment of male LUTS.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-6-prostate-specific-antigen",
+      "title": "4.6. Prostate-specific antigen",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-6-1-prostate-specific-antigen-and-the-prediction-of-prostatic-volume",
+      "title": "4.6.1. Prostate-specific antigen and the prediction of prostatic volume",
+      "level": 4,
+      "text": "Pooled analysis of RCTs of men with LUTS and presumed BPO showed that prostate-specific antigen (PSA) has a good predictive value for assessing prostate volume, with areas under the curve (AUC) of 0.76-0.78 for various prostate volume thresholds (30mL, 40mL and 50mL). To achieve a specificity of 70% whilst maintaining a sensitivity of 65-70%, approximate age-specific criteria for detecting men with prostate glands exceeding 40mL are PSA > 1.6ng/mL, > 2.0ng/mL and > 2.3ng/mL for men with BPH in their 50s, 60s and 70s, respectively [57]. A strong association between PSA and prostate volume was found in a large community-based study in the Netherlands [58]. A PSA threshold value of 1.5ng/mL could best predict a prostate volume of > 30mL, with a positive predictive value (PPV) of 78%. The prediction of prostate volume can also be based on total and free PSA. Both PSA forms predict the TRUS prostate volume (± 20%) in > 90% of cases [59, 60].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-6-2-prostate-specific-antigen-and-the-probability-of-pca",
+      "title": "4.6.2. Prostate-specific antigen and the probability of PCa",
+      "level": 4,
+      "text": "The EAU Guidelines on PCa present the role of PSA in the diagnosis of PCa [61]. The potential benefits and harms of using serum PSA testing to diagnose PCa in men with LUTS should be discussed with the patient.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-6-3-prostate-specific-antigen-and-the-prediction-of-bpo-related-outcomes",
+      "title": "4.6.3. Prostate-specific antigen and the prediction of BPO-related outcomes",
+      "level": 4,
+      "text": "Serum PSA is a stronger predictor of prostate growth than prostate volume [62]. In addition, an RCT showed that PSA also predicted the changes in symptoms, QoL/bother and maximum flowrate (Q max ) [63]. In a longitudinal study of men managed conservatively, PSA was a highly significant predictor of clinical progression to urinary retention [64, 65]. In the placebo arms of large double-blind studies, baseline serum PSA predicted the risk of AUR and BPO-related surgery [66, 67]. The Olmsted County Study also confirmed an equivalent link. The risk for treatment was higher in men with a baseline PSA of > 1.4ng/mL [68]. Patients with BPO appear to have a higher PSA level and larger prostate volumes. The PPV of PSA for the detection of BPO was recently shown to be 68% [69]. Moreover, in an epidemiological study, elevated free PSA levels could predict clinical BPE, independent of total PSA levels [70]. Summary of evidence LE Prostate-specific antigen has a good predictive value for assessing prostate volume and is a strong predictor of prostate growth. 1b Baseline PSA can predict the risk of acute urinary retention (AUR) and the need for BPO-related surgery. 1b Recommendations Strength rating Measure prostate-specific antigen (PSA) if a diagnosis of prostate cancer will change management. Strong Measure PSA if it assists in the treatment and/or decision-making process. Strong Counsel patients about PSA testing and the implications of a raised PSA test. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Prostate-specific antigen has a good predictive value for assessing prostate volume and is a strong predictor of prostate growth.",
+              "1b"
+            ],
+            [
+              "Baseline PSA can predict the risk of acute urinary retention (AUR) and the need for BPO-related surgery.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Measure prostate-specific antigen (PSA) if a diagnosis of prostate cancer will change management.",
+              "Strong"
+            ],
+            [
+              "Measure PSA if it assists in the treatment and/or decision-making process.",
+              "Strong"
+            ],
+            [
+              "Counsel patients about PSA testing and the implications of a raised PSA test.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-7-renal-function-measurement",
+      "title": "4.7. Renal function measurement",
+      "level": 3,
+      "text": "Renal function may be assessed by serum creatinine or estimated glomerular filtration rate (eGFR). Hydronephrosis, renal insufficiency or urinary retention are more prevalent in patients with signs or symptoms of BPO [71]. Although BPO may be responsible for these complications, no conclusive evidence is available on the mechanism [72]. One study reported that 11% of men with LUTS had renal insufficiency [71]. Neither symptom score nor QoL was associated with the serum creatinine level. Diabetes mellitus or hypertension were the most likely causes of the elevated creatinine concentration. Studies reported that non-neurogenic voiding dysfunction is not a risk factor for elevated creatinine levels [73]. It was concluded that only those with an elevated creatinine level or reduced eGFR require investigational ultrasound (US) of the kidney and bladder to assess post-void residual (PVR) [74]. In another study, a cross-sectional association was identified between signs and symptoms of BPO (although not prostate volume) and chronic kidney disease (CKD) [75]. In 2,741 consecutive patients who presented with LUTS, decreased maximum flow rate (Q max ), a history of hypertension and/or diabetes were associated with CKD [76]. Another study demonstrated a correlation between Q max and eGFR in middle-aged men with moderate-to-severe LUTS [77]. Patients with renal insufficiency are at an increased risk of developing postoperative complications [78]. Summary of evidence LE Decreased Q max and a history of hypertension and/or diabetes are associated with CKD in patients who present with LUTS. 3 Patients with renal insufficiency are at an increased risk of developing postoperative complications. 3 Recommendation Strength rating Assess renal function if renal impairment is suspected based on history and clinical examination, or in the presence of hydronephrosis, or when considering surgical treatment for male LUTS. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Decreased Qmax and a history of hypertension and/or diabetes are associated with CKD in patients who present with LUTS.",
+              "3"
+            ],
+            [
+              "Patients with renal insufficiency are at an increased risk of developing postoperative complications.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Assess renal function if renal impairment is suspected based on history and clinical examination, or in the presence of hydronephrosis, or when considering surgical treatment for male LUTS.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-8-post-void-residual-urine",
+      "title": "4.8. Post-void residual urine",
+      "level": 3,
+      "text": "Post-void residual urine can be assessed using transabdominal US, bladder scan or catheterisation. Post-void residual is not necessarily associated with BOO, since high PVR volumes can be a consequence of obstruction and/or poor detrusor function/DU [79, 80]. Using a PVR threshold of 50mL, the diagnostic accuracy of PVR measurement has a PPV of 63% and a negative predictive value (NPV) of 52% for the prediction of BOO [81]. A large PVR is not a contraindication to watchful waiting (WW) or medical therapy, although it may indicate a poor response to treatment and in particular to WW. In both the MTOPS and ALTESS studies, a high baseline PVR (PVR of ≥ 350mL) was associated with an increased risk of symptom progression [66, 67]. Monitoring of changes in PVR over time may allow for identification of patients at risk of AUR [82]. This is of importance for the treatment of patients using antimuscarinic medication. In contrast, baseline PVR has little prognostic value for the risk of BPO-related invasive therapy in patients on α1-blockers or WW [83]. However, due to large test-retest variability and lack of outcome studies, no PVR threshold for treatment decision has yet been established; this is a research priority. Since the role of PVR in males with LUTS has given inconclusive data, bladder voiding efficiency (BVE) (voided volume/total bladder capacity × 100) has been introduced [84]. This parameter seems to be more reliable than PVR especially in patients with DU [85]. Together with BE, to overcome some limits of PVR, post-void residual urine ratio (PVR-R) was investigated. Post-void residual urine ratio represents the ratio of PVR to bladder volume (BV). This parameter indicates the non-functional bladder storage of urine after micturition and could be better related to voiding/emptying than the PVR per se and is defined as (PVR/total BV) × 100 [86]. Summary of evidence LE The diagnostic accuracy of PVR urine ratio measurement, using a PVR threshold of 50mL, has a PPV of 63% and a NPV of 52% for the prediction of BOO. 3 Monitoring of changes in PVR over time may allow for identification of patients at risk of AUR. 3 Recommendation Strength rating Measure post-void residual in the assessment of male LUTS. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "The diagnostic accuracy of PVR urine ratio measurement, using a PVR threshold of 50mL, has a PPV of 63% and a NPV of 52% for the prediction of BOO.",
+              "3"
+            ],
+            [
+              "Monitoring of changes in PVR over time may allow for identification of patients at risk of AUR.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Measure post-void residual in the assessment of male LUTS.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-9-uroflowmetry",
+      "title": "4.9. Uroflowmetry",
+      "level": 3,
+      "text": "Urinary flow rate assessment is a widely used non-invasive urodynamic test. Key parameters are Q max , voided volume, PVR and flow pattern. Uroflowmetry is best conducted with BVs > 150mL. Since Q max is prone to within-subject variation [87, 88], and is affected by voided volumes, it is useful to repeat uroflowmetry measurements, especially if the voided volume is < 150mL, or Q max or flow pattern is abnormal and not representative of the patient’s normal voided volumes. Patients should also be asked whether the flow recorded during uroflowmetry reflects their usual voiding pattern at home, as this helps ensure that the results are interpreted in the right clinical context. The diagnostic accuracy of uroflowmetry for detecting BOO varies considerably and is substantially influenced by threshold values. A threshold Q max of 10mL/s has a specificity of 70%, a PPV of 70% and a sensitivity of 47% for BOO. The specificity using a threshold Q max of 15mL/s was 38%, the PPV 67% and the sensitivity 82% [89]. If Q max is > 15mL/s, physiological compensatory processes mean that BOO cannot be excluded. Low Q max can arise as a consequence of BOO [90], DU or an under-filled bladder [91]. Therefore, uroflowmetry is limited as a diagnostic test because it is unable to discriminate between the underlying mechanisms causing the low Q max . Uroflowmetry can be used for monitoring treatment outcomes [92] and correlating symptoms with objective findings [89,93]. Recently, a deep-learning system for sound-based prediction of urinary flow has been proposed as a simple, home-based alternative to uroflowmetry with acceptable correlation to conventional test [94]. Summary of evidence LE The diagnostic accuracy of uroflowmetry for detecting BOO varies considerably and is substantially influenced by threshold values. Specificity can be improved by repeated flow rate testing. 2b Recommendations Strength rating Perform uroflowmetry in the initial assessment of male LUTS. Weak Perform uroflowmetry prior to medical or invasive treatment. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "The diagnostic accuracy of uroflowmetry for detecting BOO varies considerably and is substantially influenced by threshold values. Specificity can be improved by repeated flow rate testing.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform uroflowmetry in the initial assessment of male LUTS.",
+              "Weak"
+            ],
+            [
+              "Perform uroflowmetry prior to medical or invasive treatment.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-10-imaging",
+      "title": "4.10. Imaging",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-10-1-upper-urinary-tract",
+      "title": "4.10.1. Upper urinary tract",
+      "level": 4,
+      "text": "Men with LUTS are not at increased risk for upper tract malignancy or other abnormalities as compared to the overall population [74, 95-97]. Several arguments support the use of renal US in preference to urological computed tomography (UROCT). Ultrasound allows for better characterisation of renal masses, the possibility of investigating the liver and retroperitoneum, and simultaneous evaluation of the bladder, PVR and prostate, together with a lower cost, no radiation dose and less side effects [95]. Ultrasound can be used for the evaluation of men with large PVR, haematuria, or a history of urolithiasis. Summary of evidence LE Men with LUTS are not at increased risk for upper tract malignancy or other abnormalities when compared to the overall population. 3 Ultrasound can be used for the evaluation of men with large PVR, haematuria or a history of urolithiasis. 4 Recommendation Strength rating Perform ultrasound of the upper urinary tract in men with LUTS. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Men with LUTS are not at increased risk for upper tract malignancy or other abnormalities when compared to the overall population.",
+              "3"
+            ],
+            [
+              "Ultrasound can be used for the evaluation of men with large PVR, haematuria or a history of urolithiasis.",
+              "4"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Perform ultrasound of the upper urinary tract in men with LUTS.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-10-2-prostate",
+      "title": "4.10.2. Prostate",
+      "level": 4,
+      "text": "Imaging of the prostate can be performed by means of transabdominal US, TRUS, computed tomography (CT) and magnetic resonance imaging (MRI). However, in daily practice, prostate imaging is performed by transabdominal (suprapubic) US or TRUS [95]. 4.10.2.a. Prostate size and shape Assessment of prostate size is important for the selection of interventional treatment, i.e. Open prostatectomy (OP), enucleation techniques, transurethral resection, transurethral incision of the prostate (TUIP) or minimally invasive therapies. Assessment of the prostate size is also important prior to treatment with 5α-reductase inhibitors (5-ARIs). Prostate volume predicts symptom progression and the risk of complications [97]. Transrectal US is superior to transabdominal volume measurement [98, 99]. The presence of a median lobe may guide treatment choice in patients scheduled for a minimally invasive approach, since median lobe presence can be a contraindication for some minimally invasive treatments (see Section 5.3). Summary of evidence LE Assessment of prostate size by TRUS or transabdominal US is important for the selection of interventional treatment and prior to treatment with 5-ARIs. 3 Recommendations Strength rating Perform imaging of the prostate when considering medical treatment for male LUTS, if this assists in the choice of the appropriate drug. Weak Perform imaging of the prostate when considering surgical treatment. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Assessment of prostate size by TRUS or transabdominal US is important for the selection of interventional treatment and prior to treatment with 5-ARIs.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform imaging of the prostate when considering medical treatment for male LUTS, if this assists in the choice of the appropriate drug.",
+              "Weak"
+            ],
+            [
+              "Perform imaging of the prostate when considering surgical treatment.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-10-3-voiding-cystourethrogram",
+      "title": "4.10.3. Voiding cystourethrogram",
+      "level": 4,
+      "text": "Voiding cystourethrogram (VCUG) on its own is not recommended in the routine diagnostic workup of men with LUTS but may be useful for the detection of vesicoureteral reflux, bladder diverticula or urethral diseases and can be combined with urodynamics (UDS) in the form of Videourodynamics (VUDS). Retrograde urethrography may additionally be useful for the evaluation of suspected urethral strictures.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-11-urethrocystoscopy",
+      "title": "4.11. Urethrocystoscopy",
+      "level": 3,
+      "text": "Patients with a history of microscopic or gross haematuria, urethral stricture or bladder cancer who present with LUTS should undergo urethrocystoscopy during diagnostic evaluation. The evaluation of a prostatic middle lobe with urethrocystoscopy should be performed when considering interventional treatments for which the presence of middle lobe may affect the treatment offered. A prospective study evaluated 122 patients with LUTS using uroflowmetry and urethrocystoscopy [100]. The preoperative Q max was normal in 25% of 60 patients who had no bladder trabeculation, 21% of 73 patients with mild trabeculation, and 12% of 40 patients with marked trabeculation on cystoscopy. All 21 patients who presented with diverticula had a reduced Q max . Another study showed that there was no significant correlation between the degree of bladder trabeculation (graded from I to IV) and the preoperative Q max value in 39 symptomatic men aged 53-83 years [101]. The largest study published on this issue examined the relation of urethroscopic findings to urodynamic studies in 492 elderly men with LUTS [102]. The authors noted a correlation between cystoscopic appearance (grade of bladder trabeculation and urethral occlusion) and urodynamic indices, DO and low compliance. It should be noted, however, that BOO was present in 15% of patients with normal cystoscopic findings, while 8% of patients had no obstruction, even in the presence of severe trabeculation [102]. Summary of evidence LE Men with a history of microscopic or visible haematuria, urethral stricture or bladder cancer who present with LUTS should undergo urethrocystoscopy during diagnostic evaluation. 3 No study clearly identified a strong association between the urethrocystoscopic and urodynamic findings. 3 Recommendation Strength rating Perform urethrocystoscopy in men with LUTS if the findings may change diagnosis or treatment. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Men with a history of microscopic or visible haematuria, urethral stricture or bladder cancer who present with LUTS should undergo urethrocystoscopy during diagnostic evaluation.",
+              "3"
+            ],
+            [
+              "No study clearly identified a strong association between the urethrocystoscopic and urodynamic findings.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Perform urethrocystoscopy in men with LUTS if the findings may change diagnosis or treatment.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-12-urodynamics",
+      "title": "4.12. Urodynamics",
+      "level": 3,
+      "text": "In MLUTS, the most widespread invasive urodynamic techniques employed are filling cystometry and pressure flow studies (PFS). The major goal of UDS is to explore the functional mechanisms of LUTS, to help identify risk factors for adverse outcomes and to provide information for shared decision-making. Most terms and conditions (e.g. DO, low compliance, BOO/BPO, DU) are defined by urodynamic investigation.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-12-1-diagnosing-bladder-outflow-obstruction",
+      "title": "4.12.1. Diagnosing bladder outflow obstruction",
+      "level": 4,
+      "text": "Pressure flow studies are used to diagnose and define the severity of BOO, which is characterised by increased detrusor pressure and decreased urinary flow rate during voiding. Bladder outflow obstruction/BPO must be differentiated from DU, which exhibits decreased detrusor pressure during voiding in combination with decreased urinary flow rate [3]. The bladder outlet obstruction index (BOOI) is calculated according to the equation detrusor pressure at a maximum flow rate (p det Q max -2Q max ) (BOO > 40 = obstructed; BOO 20-40 = equivocal; and BOO < 20 = unobstructed) [103], and to assess the contractility of the bladder, the blader contractility index (BCI) is calculated according to the equation p det Q max  + 5Q max [104] (BCI > 150 = strong contractility, 100-150 = normal contractility, and < 100 = weak contractility) [84]. Deep learning algorithms can enhance diagnostic interpretation of urodynamic traces and even provide automated systems for accurately detecting and predicting between BOO and DU [104], however these are currently underdeveloped. Urodynamic testing may also identify DO. Studies have described an association between BOO and DO [105, 106]. In men with LUTS attributed to BPO, DO was present in 61% and independently associated with BOO grade and ageing [105]. The prevalence of DU in men with LUTS is 11-40% [107, 108]. Detrusor contractility does not appear to decline in long-term BOO and surgical relief of BOO does not improve contractility [109, 110]. The UPSTREAM trial investigated whether UDS would reduce surgery without increasing urinary symptoms. The UPSTREAM trial was a non-inferiority RCT in men with bothersome LUTS, in whom surgery was an option, in 26 hospitals in England. In the UDS arm, 153/408 patients (38%) received surgery compared with 138/384 (36%) in the routine care (RC) arm. A total of 428 adverse events were recorded, with related events similar in both arms and 11 unrelated deaths. The UDS group was non-inferior to the RC group for IPSS, and UDS did not significantly reduce surgical rates. The authors concluded that routine use of UDS in the evaluation of uncomplicated LUTS has a limited role and should be used selectively [111]. However, in a prospective cohort study of urodynamically assessed patients prior to surgery, patients with DU alone with BCI < 100 and BOO index (BOOI) < 40 had significantly worse outcome with regard to postoperative maximum flow rate at 12 months than those with DU and BOO with BCI < 100 and BOOI ≥ 40, as well as patients with BOO alone with BCI ≥ 100 and BOOI ≥ 40 [112]. Nevertheless, if urodynamic investigation is performed, a rigorous quality control is mandatory [113, 114]. Exploratory findings from the UPSTREAM trial have characterised the basic diagnostic and urodynamic parameters to identify men who will benefit more from deobstructive surgery [114]. The investigators reported that surgery was more beneficial in those men with higher symptom scores (IPSS > 16), age < 74 years, poor urine flow (Q max  < 10mL/s), BOOI > 47.6 and BCI > 123. Due to the invasive nature of the test, a urodynamic investigation is generally only offered if conservative and medical treatment have failed. The Panel attempted to identify specific indications for UDS based on age, findings from other diagnostic tests and previous treatments. The Panel allocated a different degree of obligation for UDS in men > 80 years and men < 50 years, which reflects the lack of evidence. In addition, there was no consensus whether UDS should or may be performed when considering surgery in men with bothersome predominantly voiding LUTS and Q max  > 10mL/s, although the Panel recognised that with a Q max  < 10mL/s, BOO is likely and UDS is not necessarily needed. Patients with neurological disease, including those with previous radical pelvic surgery, should be assessed according to the EAU Guidelines on Neuro-Urology [115].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-12-2-videourodynamics",
+      "title": "4.12.2. Videourodynamics",
+      "level": 4,
+      "text": "Videourodynamics provides additional anatomical and functional information and may be recommended if the clinician considers this necessary to understand the pathophysiological mechanism of an individual patient’s LUTS. Only low-level evidence is available for the addition of imaging to UDS. Summary of evidence LE Pressure-flow studies are not tests for routine use prior to prostate surgery for all patients. 3 Recommendations Strength rating Perform urodynamics (UDS) only in individual patients for specific indications prior to invasive treatment or when further evaluation of the underlying pathophysiology of LUTS is warranted. Weak Perform UDS in men who have had previous unsuccessful (invasive) treatment for LUTS prior to further invasive treatment. Weak Perform UDS in men considering invasive treatment who cannot void > 150mL. Weak Perform UDS when considering surgery in men with bothersome predominantly voiding LUTS and Q max  > 10mL/s. Weak Perform UDS when considering invasive treatment in men with bothersome, predominantly voiding LUTS aged > 80 years. Weak Perform UDS when considering invasive treatment in men with bothersome, predominantly voiding LUTS aged < 50 years. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Pressure-flow studies are not tests for routine use prior to prostate surgery for all patients.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform urodynamics (UDS) only in individual patients for specific indications prior to invasive treatment or when further evaluation of the underlying pathophysiology of LUTS is warranted.",
+              "Weak"
+            ],
+            [
+              "Perform UDS in men who have had previous unsuccessful (invasive) treatment for LUTS prior to further invasive treatment.",
+              "Weak"
+            ],
+            [
+              "Perform UDS in men considering invasive treatment who cannot void > 150mL.",
+              "Weak"
+            ],
+            [
+              "Perform UDS when considering surgery in men with bothersome predominantly voiding LUTS and Qmax > 10mL/s.",
+              "Weak"
+            ],
+            [
+              "Perform UDS when considering invasive treatment in men with bothersome, predominantly voiding LUTS aged > 80 years.",
+              "Weak"
+            ],
+            [
+              "Perform UDS when considering invasive treatment in men with bothersome, predominantly voiding LUTS aged < 50 years.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-13-non-invasive-tests-in-diagnosing-bladder-outlet-obstruction-in-men-with-luts",
+      "title": "4.13. Non-invasive tests in diagnosing bladder outlet obstruction in men with LUTS",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-13-1-prostatic-configurationintravesical-prostatic-protrusion",
+      "title": "4.13.1. Prostatic configuration/intravesical prostatic protrusion",
+      "level": 4,
+      "text": "Prostatic configuration can be evaluated with TRUS, using the concept of the presumed circle area ratio (PCAR) [116]. The PCAR evaluates how closely the transverse US image of the prostate approaches a circular shape. The ratio tends toward one as the prostate becomes more circular. The sensitivity of PCAR was 77% for diagnosing BPO when PCAR was > 0.8, with 75% specificity [116]. Ultrasound measurement of intravesical prostatic protrusion (IPP) assesses the distance between the tip of the prostate median lobe and bladder neck in the midsagittal plane, using a suprapubically positioned US scanner, with a BV of 150-250mL; grade I protrusion is 0-4.9mm, grade II is 5-10mm and grade III is > 10mm. Intravesical prostatic protrusion correlates well with BOO, with a PPV of 94% and a NPV of 79% [117]. An SR examined the role of IPP in UDS determined BOO [118]. At cut-off > 10mm, the sensitivity was found to be 0.71 and the specificity 0.77. Intravesical prostatic protrusion may also correlate with prostate volume, DO, bladder compliance, detrusor pressure at maximum urinary flow, BOO index and PVR, and negatively correlates with Q max [119]. Moreover, IPP also appears to successfully predict the outcome of a trial without catheter (TWOC) after AUR [120,121]. Evidence from the above-mentioned SR showed that, at an IPP cut-off of > 10mm, the sensitivity and specificity to predict unsuccessful voiding TWOC was 0.51 and 0.79, respectively [118]. However, no information with regards to intra- or interobserver variability and learning curve is available as yet. Therefore, whilst IPP may be a feasible option to infer BPO in men with LUTS, the role of IPP as a non-invasive alternative to PFS in the assessment of MLUTS remains under evaluation.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-13-2-bladderdetrusor-wall-thickness-and-ultrasound-estimated-bladder-weight",
+      "title": "4.13.2. Bladder/detrusor wall thickness and ultrasound-estimated bladder weight",
+      "level": 4,
+      "text": "For bladder wall thickness (BWT) assessment, the distance between the mucosa and the adventitia is measured. For detrusor wall thickness (DWT) assessment, the only measurement needed is the detrusor sandwiched between the mucosa and adventitia [122]. A correlation between BWT and UDS parameters has been reported. A threshold value of 5mm at the anterior bladder wall with a bladder filling of 150mL was best at differentiating between patients with or without BOO [123]. Detrusor wall thickness at the anterior bladder wall with a bladder filling > 250mL (threshold value for BOO > 2mm) has a PPV of 94% and a specificity of 95%, achieving 89% agreement with PFS [74]. Threshold values of 2.0, 2.5, or 2.9mm for DWT in patients with LUTS are able to identify 81%, 89% and 100% of patients with BOO, respectively [124]. A meta-analysis reported that DWT has high accuracy in diagnosing BOO with 71% sensitivity and 88% specificity [125]. All studies found that BWT or DWT measurements have a higher diagnostic accuracy for detecting BOO than Q max or average flow rate (Q ave ) of free uroflowmetry, measurements of PVR, prostate volume or symptom severity. One study could not demonstrate any difference in BWT between patients with normal UDS, BOO or DO. However, the study did not use a specific bladder-filling volume for measuring BWT [126]. Disadvantages of the method include the lack of standardisation, and lack of evidence to indicate which measurement (BWT/DWT) is preferable [127]. Measurement of BWT/DWT is therefore not recommended for the diagnostic workup of men with LUTS. Ultrasound-estimated bladder weight (UEBW) may identify BOO with a diagnostic accuracy of 86% at a cut-off value of 35g [128,129]. Severe LUTS and a high UEBW (> 35g) are risk factors for prostate/BPO surgery in men on α-blockers [130].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-13-3-non-invasive-pressure-flow-testing",
+      "title": "4.13.3. Non-invasive pressure-flow testing",
+      "level": 4,
+      "text": "The penile cuff test (PCT), in which flow is interrupted to estimate isovolumetric bladder pressure, shows promising data, with good test repeatability [131] and interobserver agreement [132]. A nomogram has also been derived [133] whilst a method in which flow is not interrupted is also under investigation [134]. An SR and meta-analysis assessed the performance of PCT to recognise BOO, reported sensitivity 0.85, specificity 0.78, PPV 0.74 and NPV 0.87 [135]. However, there was marked heterogeneity among the included studies in the definition of obstruction. The data generated with the external condom method [136] correlates with invasive PFS in a high proportion of patients [137]. Resistive index [138] and prostatic urethral angle [139] have also been proposed, but are still experimental.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-13-4-the-diagnostic-performance-of-non-invasive-tests-in-diagnosing-bladder-outlet-obstruction-in-men-with-luts-compared-with-pressure-flow-studies",
+      "title": "4.13.4. The diagnostic performance of non-invasive tests in diagnosing bladder outlet obstruction in men with LUTS compared with pressure-flow studies",
+      "level": 4,
+      "text": "An SR including 42 studies investigated the diagnostic performance of non-invasive tests in diagnosing BOO in men with LUTS compared with UDS/PFS [140]. The majority of the included studies were prospective cohorts, focusing on BOO and not specifically on BPO, and the diagnostic accuracy of the following non-invasive tests were assessed: PCT; uroflowmetry; DWT/BWT; bladder weight; external condom catheter method; IPP; Doppler US; prostate volume/height; and near-infrared spectroscopy. Overall, although the majority of studies have a low risk of bias, data regarding the diagnostic accuracy of these non-invasive tests is limited by the heterogeneity of the studies in terms of the threshold values used to define BOO, the various urodynamic definitions of BOO used across various studies and the small number of studies for each test. Specificity, sensitivity, PPV and NPV of the non-invasive tests were found to be highly variable. Therefore, even though several tests have shown promising results regarding non-invasive diagnosis of BOO, invasive UDS remains the modality of choice. The diagnostic performance of non-invasive tests could theoretically be improved when two or more tests are combined along with clinical parameters, however, the evidence is still limited. Investigators have proposed a model and a clinical nomogram that uses BWT, prostate volume and PVR ratio to predict BOO with reported accuracy 0.82 [141]. Summary of evidence LE Data regarding the diagnostic accuracy of non-invasive tests is limited by the heterogeneity of the studies as well as the small number of studies for each test. 1a Specificity, sensitivity, PPV and NPV of the non-invasive tests were highly variable. 1a Recommendation Strength rating Do not offer non-invasive tests as an alternative to urodynamics/pressure-flow studies for diagnosing bladder outflow obstruction in men. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Data regarding the diagnostic accuracy of non-invasive tests is limited by the heterogeneity of the studies as well as the small number of studies for each test.",
+              "1a"
+            ],
+            [
+              "Specificity, sensitivity, PPV and NPV of the non-invasive tests were highly variable.",
+              "1a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Do not offer non-invasive tests as an alternative to urodynamics/pressure-flow studies for diagnosing bladder outflow obstruction in men.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-14-novel-assessment",
+      "title": "4.14. Novel assessment",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-14-1-visual-prostate-symptom-score",
+      "title": "4.14.1. Visual prostate symptom score",
+      "level": 4,
+      "text": "A novel visual prostate symptom score (VPSS) has been prospectively tested versus the IPPS and correlated positively with the IPSS score [142, 143]. This visual score can be used as an option in men with limited literacy.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-14-2-microrna",
+      "title": "4.14.2. MicroRNA",
+      "level": 4,
+      "text": "The use of miR-221 has been shown to have the potential to be used as a biomarker and novel target in the early diagnosis and therapy of BPH [144]. Figure 2: Assessment algorithm of LUTS in men aged 40 years or older Readers are strongly recommended to read the full text that highlights the current position of each test in detail. DRE = digital rectal examination; EAU = European Association of Urology; FVC = frequency volume chart; LUTS = lower urinary tract symptoms; MLUTS = male lower urinary tract symptoms; PCa = prostate cancer; PSA = prostate specific antigen; PVR = post-void residual; US = ultrasound.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-15-prostate-cancer",
+      "title": "4.15. Prostate cancer",
+      "level": 3,
+      "text": "Incidental PCa is diagnosed in more than 5% of all patients undergoing surgery for BPO [145]. When identified, the possibility of extracapsular extension requires careful evaluation. Subsequent management should follow the recommendations outlined in the EAU Guidelines on Prostate Cancer [146].",
+      "tables": []
+    }
+  ],
+  "tables_count": 28
+}

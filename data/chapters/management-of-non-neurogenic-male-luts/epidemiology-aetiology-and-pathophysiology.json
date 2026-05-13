@@ -1,0 +1,479 @@
+{
+  "guideline": "management-of-non-neurogenic-male-luts",
+  "chapter": "epidemiology-aetiology-and-pathophysiology",
+  "url": "https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts/chapter/epidemiology-aetiology-and-pathophysiology",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Summary of changes",
+      "anchor": "#1-4-1-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1 Introduction",
+      "anchor": "#2-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Patients to whom the Guidelines apply",
+      "anchor": "#2-3-patients-to-whom-the-guidelines-apply"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AETIOLOGY AND PATHOPHYSIOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 2,
+      "text": "4. DIAGNOSTIC EVALUATION",
+      "anchor": "#4-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Medical history",
+      "anchor": "#4-1-medical-history"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Symptom score questionnaires",
+      "anchor": "#4-2-symptom-score-questionnaires"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. International Prostate Symptom Score",
+      "anchor": "#4-2-1-international-prostate-symptom-score"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. International Consultation on Incontinence Questionnaire for MLUTS",
+      "anchor": "#4-2-2-international-consultation-on-incontinence-questionnaire-for-mluts"
+    },
+    {
+      "level": 4,
+      "text": "4.2.3. Danish Prostate Symptom Score",
+      "anchor": "#4-2-3-danish-prostate-symptom-score"
+    },
+    {
+      "level": 4,
+      "text": "4.2.4. Symptoms of Lower Urinary Tract Dysfunction Research Network",
+      "anchor": "#4-2-4-symptoms-of-lower-urinary-tract-dysfunction-research-network"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Physical examination and digital rectal examination",
+      "anchor": "#4-4-physical-examination-and-digital-rectal-examination"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Digital rectal examination and prostate size evaluation",
+      "anchor": "#4-4-1-digital-rectal-examination-and-prostate-size-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Urinalysis",
+      "anchor": "#4-5-urinalysis"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Prostate-specific antigen",
+      "anchor": "#4-6-prostate-specific-antigen"
+    },
+    {
+      "level": 4,
+      "text": "4.6.1. Prostate-specific antigen and the prediction of prostatic volume",
+      "anchor": "#4-6-1-prostate-specific-antigen-and-the-prediction-of-prostatic-volume"
+    },
+    {
+      "level": 4,
+      "text": "4.6.2. Prostate-specific antigen and the probability of PCa",
+      "anchor": "#4-6-2-prostate-specific-antigen-and-the-probability-of-pca"
+    },
+    {
+      "level": 4,
+      "text": "4.6.3. Prostate-specific antigen and the prediction of BPO-related outcomes",
+      "anchor": "#4-6-3-prostate-specific-antigen-and-the-prediction-of-bpo-related-outcomes"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Renal function measurement",
+      "anchor": "#4-7-renal-function-measurement"
+    },
+    {
+      "level": 3,
+      "text": "4.8. Post-void residual urine",
+      "anchor": "#4-8-post-void-residual-urine"
+    },
+    {
+      "level": 3,
+      "text": "4.9. Uroflowmetry",
+      "anchor": "#4-9-uroflowmetry"
+    },
+    {
+      "level": 3,
+      "text": "4.10. Imaging",
+      "anchor": "#4-10-imaging"
+    },
+    {
+      "level": 4,
+      "text": "4.10.1. Upper urinary tract",
+      "anchor": "#4-10-1-upper-urinary-tract"
+    },
+    {
+      "level": 4,
+      "text": "4.10.2. Prostate",
+      "anchor": "#4-10-2-prostate"
+    },
+    {
+      "level": 4,
+      "text": "4.10.3. Voiding cystourethrogram",
+      "anchor": "#4-10-3-voiding-cystourethrogram"
+    },
+    {
+      "level": 3,
+      "text": "4.11. Urethrocystoscopy",
+      "anchor": "#4-11-urethrocystoscopy"
+    },
+    {
+      "level": 3,
+      "text": "4.12. Urodynamics",
+      "anchor": "#4-12-urodynamics"
+    },
+    {
+      "level": 4,
+      "text": "4.12.1. Diagnosing bladder outflow obstruction",
+      "anchor": "#4-12-1-diagnosing-bladder-outflow-obstruction"
+    },
+    {
+      "level": 4,
+      "text": "4.12.2. Videourodynamics",
+      "anchor": "#4-12-2-videourodynamics"
+    },
+    {
+      "level": 3,
+      "text": "4.13. Non-invasive tests in diagnosing bladder outlet obstruction in men with LUTS",
+      "anchor": "#4-13-non-invasive-tests-in-diagnosing-bladder-outlet-obstruction-in-men-with-luts"
+    },
+    {
+      "level": 4,
+      "text": "4.13.3. Non-invasive pressure-flow testing",
+      "anchor": "#4-13-3-non-invasive-pressure-flow-testing"
+    },
+    {
+      "level": 4,
+      "text": "4.13.4. The diagnostic performance of non-invasive tests in diagnosing bladder outlet obstruction in men with LUTS compared with pressure-flow studies",
+      "anchor": "#4-13-4-the-diagnostic-performance-of-non-invasive-tests-in-diagnosing-bladder-outlet-obstruction-in-men-with-luts-compared-with-pressure-flow-studies"
+    },
+    {
+      "level": 3,
+      "text": "4.14. Novel assessment",
+      "anchor": "#4-14-novel-assessment"
+    },
+    {
+      "level": 4,
+      "text": "4.14.1. Visual prostate symptom score",
+      "anchor": "#4-14-1-visual-prostate-symptom-score"
+    },
+    {
+      "level": 4,
+      "text": "4.14.2. MicroRNA",
+      "anchor": "#4-14-2-microrna"
+    },
+    {
+      "level": 3,
+      "text": "4.15. Prostate cancer",
+      "anchor": "#4-15-prostate-cancer"
+    },
+    {
+      "level": 2,
+      "text": "5. DISEASE MANAGEMENT",
+      "anchor": "#5-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Conservative treatment",
+      "anchor": "#5-1-conservative-treatment"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Watchful waiting",
+      "anchor": "#5-1-1-watchful-waiting"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Behavioural and dietary modifications",
+      "anchor": "#5-1-2-behavioural-and-dietary-modifications"
+    },
+    {
+      "level": 4,
+      "text": "5.1.3. Practical considerations",
+      "anchor": "#5-1-3-practical-considerations"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Pharmacological treatment",
+      "anchor": "#5-2-pharmacological-treatment"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1.α1-Adrenoceptor antagonists (α1-blockers)",
+      "anchor": "#5-2-1-1-adrenoceptor-antagonists-1-blockers"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2.5α-reductase inhibitors",
+      "anchor": "#5-2-2-5-reductase-inhibitors"
+    },
+    {
+      "level": 4,
+      "text": "5.2.3. Muscarinic receptor antagonists",
+      "anchor": "#5-2-3-muscarinic-receptor-antagonists"
+    },
+    {
+      "level": 4,
+      "text": "5.2.4. β",
+      "anchor": "#5-2-4"
+    },
+    {
+      "level": 4,
+      "text": "5.2.5. Phosphodiesterase type 5 inhibitors",
+      "anchor": "#5-2-5-phosphodiesterase-type-5-inhibitors"
+    },
+    {
+      "level": 4,
+      "text": "5.2.6. Plant extracts - phytotherapy",
+      "anchor": "#5-2-6-plant-extracts---phytotherapy"
+    },
+    {
+      "level": 4,
+      "text": "5.2.7. Combination therapies",
+      "anchor": "#5-2-7-combination-therapies"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Surgical treatment of benign prostatic obstruction",
+      "anchor": "#5-3-surgical-treatment-of-benign-prostatic-obstruction"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Resection of the prostate",
+      "anchor": "#5-3-1-resection-of-the-prostate"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Enucleation of the prostate",
+      "anchor": "#5-3-2-enucleation-of-the-prostate"
+    },
+    {
+      "level": 4,
+      "text": "5.3.3. Vaporisation of the prostate",
+      "anchor": "#5-3-3-vaporisation-of-the-prostate"
+    },
+    {
+      "level": 4,
+      "text": "5.3.4. Alternative ablative techniques",
+      "anchor": "#5-3-4-alternative-ablative-techniques"
+    },
+    {
+      "level": 4,
+      "text": "5.3.5. Nonablative techniques",
+      "anchor": "#5-3-5-nonablative-techniques"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Management of nocturia in men with lower urinary tract symptoms",
+      "anchor": "#5-5-management-of-nocturia-in-men-with-lower-urinary-tract-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "5.5.1. Diagnostic assessment",
+      "anchor": "#5-5-1-diagnostic-assessment"
+    },
+    {
+      "level": 4,
+      "text": "5.5.2. Medical conditions and sleep disorders shared care pathway",
+      "anchor": "#5-5-2-medical-conditions-and-sleep-disorders-shared-care-pathway"
+    },
+    {
+      "level": 4,
+      "text": "5.5.3. Treatment for nocturia",
+      "anchor": "#5-5-3-treatment-for-nocturia"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Management of male urinary incontinence",
+      "anchor": "#5-6-management-of-male-urinary-incontinence"
+    },
+    {
+      "level": 4,
+      "text": "5.6.1. Epidemiology and pathophysiology",
+      "anchor": "#5-6-1-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "5.6.2. Diagnostic evaluation",
+      "anchor": "#5-6-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "5.6.3. Conservative treatment",
+      "anchor": "#5-6-3-conservative-treatment"
+    },
+    {
+      "level": 4,
+      "text": "5.6.4. Pharmacological management",
+      "anchor": "#5-6-4-pharmacological-management"
+    },
+    {
+      "level": 4,
+      "text": "5.6.5. Surgical treatment for stress urinary incontinence",
+      "anchor": "#5-6-5-surgical-treatment-for-stress-urinary-incontinence"
+    },
+    {
+      "level": 4,
+      "text": "5.6.6. Surgical treatment for urgency urinary incontinence",
+      "anchor": "#5-6-6-surgical-treatment-for-urgency-urinary-incontinence"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Management of underactive bladder",
+      "anchor": "#5-7-management-of-underactive-bladder"
+    },
+    {
+      "level": 4,
+      "text": "5.7.1. Epidemiology and pathophysiology",
+      "anchor": "#5-7-1-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "5.7.2. Diagnostic evaluation",
+      "anchor": "#5-7-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "5.7.3. Conservative management",
+      "anchor": "#5-7-3-conservative-management"
+    },
+    {
+      "level": 4,
+      "text": "5.7.4. Pharmacological management",
+      "anchor": "#5-7-4-pharmacological-management"
+    },
+    {
+      "level": 4,
+      "text": "5.7.5. Surgical treatment for underactive bladder",
+      "anchor": "#5-7-5-surgical-treatment-for-underactive-bladder"
+    },
+    {
+      "level": 4,
+      "text": "5.7.6. Follow-up",
+      "anchor": "#5-7-6-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "5.8. Voiding dysfunction in young men",
+      "anchor": "#5-8-voiding-dysfunction-in-young-men"
+    },
+    {
+      "level": 4,
+      "text": "5.8.1. Diagnostic evaluation",
+      "anchor": "#5-8-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "5.8.2. Treatment",
+      "anchor": "#5-8-2-treatment"
+    },
+    {
+      "level": 2,
+      "text": "6. FOLLOW UP",
+      "anchor": "#6-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Watchful waiting (behavioural)",
+      "anchor": "#6-1-watchful-waiting-behavioural"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Medical treatment",
+      "anchor": "#6-2-medical-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Surgical treatment",
+      "anchor": "#6-3-surgical-treatment"
+    },
+    {
+      "level": 2,
+      "text": "7. REFERENCES",
+      "anchor": "#7-references"
+    },
+    {
+      "level": 2,
+      "text": "8. CONFLICT OF INTEREST",
+      "anchor": "#8-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "9. CITATION INFORMATION",
+      "anchor": "#9-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "10. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#10-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#non-neurogenic-male-luts",
+      "title": "Non-neurogenic Male LUTS",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 3. Epidemiology Aetiology And Pathophysiology Introduction Methods Epidemiology Aetiology And Pathophysiology Diagnostic Evaluation Disease Management Follow Up References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#3-epidemiology-aetiology-and-pathophysiology",
+      "title": "3. EPIDEMIOLOGY AETIOLOGY AND PATHOPHYSIOLOGY",
+      "level": 2,
+      "text": "Lower urinary tract symptoms can be divided into storage, voiding and post-micturition symptoms [3], and they are prevalent, cause bother and impair QoL [4-7]. An increasing awareness of LUTS, and storage symptoms in particular, is warranted to discuss management options that could improve QoL [8]. Lower urinary tract symptoms are strongly associated with ageing [4, 5], associated costs and burden are therefore likely to increase with future demographic changes [5, 9]. Lower urinary tract symptoms are also associated with a number of modifiable risk factors, suggesting potential targets for prevention (e.g. metabolic syndrome) [10]. In addition, men with moderate-to-severe LUTS may have an increased risk of major adverse cardiac events [11]. Most elderly men have at least one LUTS [5], however, symptoms are often mild or not very bothersome [7, 8, 12]. Lower urinary tract symptoms can progress dynamically: for some individuals, LUTS persist and progress over long time periods, while for others they remit [5]. Lower urinary tract symptoms have traditionally been related to bladder outlet obstruction (BOO), most frequently when histological BPH progresses through benign prostatic enlargement (BPE) to BPO [3, 6]. However, increasing numbers of studies have shown that LUTS are often unrelated to the prostate [5, 13]. Bladder dysfunction may also cause LUTS, including DO/OAB, DU/underactive bladder (UAB), as well as other structural or functional abnormalities of the urinary tract and its surrounding tissues [13]. Prostatic inflammation also appears to play a role in BPH pathogenesis and progression [14, 15]. In addition, many nonurological conditions also contribute to urinary symptoms, especially nocturia [5]. The following list provides definitions for some of the most common conditions related to MLUTS: Acute retention of urine: A painful, palpable or percussible bladder when the patient is unable to pass any urine [3]. Chronic retention of urine: A nonpainful bladder that remains palpable or percussible after the patient has passed urine. Such patients may be incontinent [3]. Bladder outlet obstruction: The generic term for obstruction during voiding. This conditions is characterised by increasing detrusor pressure and reduced urine flow rate. Bladder outlet obstruction is usually diagnosed by invasive pressure/flow studies [3]. Benign prostatic obstruction: A form of BOO that may be diagnosed when the cause of outflow obstruction is known to be BPE [3]. In the Guidelines, the term BPO or BOO is used as reported by the original studies. Benign prostatic hyperplasia: A term used (and reserved) for the typical histological pattern, which defines the disease. Detrusor overactivity is a urodynamic observation characterised by involuntary detrusor contractions during the filling phase, which may be spontaneous or provoked [3]. DO is usually associated with OAB syndrome characterised by urinary urgency, with or without urge urinary incontinence (UUI), usually with increased daytime frequency and nocturia, if there is no proven infection or other obvious pathology [16]. Detrusor underactivity during voiding is characterised by decreased detrusor voiding pressure leading to a reduced urine flow rate. Detrusor underactivity causes UAB syndrome which is characterised by voiding symptoms similar to those caused by BPO [17]. Figure 1 illustrates the potential causes of LUTS. In any man complaining of LUTS, it is common for more than one of these factors to be present. Figure 1: Causes of MLUTS",
+      "tables": []
+    }
+  ],
+  "tables_count": 0
+}

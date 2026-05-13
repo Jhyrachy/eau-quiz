@@ -1,0 +1,869 @@
+{
+  "guideline": "muscle-invasive-and-metastatic-bladder-cancer",
+  "chapter": "epidemiology-and-aetiology",
+  "url": "https://uroweb.org/guidelines/muscle-invasive-and-metastatic-bladder-cancer/chapter/epidemiology-and-aetiology",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Future goals",
+      "anchor": "#2-3-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AND AETIOLOGY",
+      "anchor": "#3-epidemiology-and-aetiology"
+    },
+    {
+      "level": 2,
+      "text": "3.1 Clinical presentation",
+      "anchor": "#3-1-clinical-presentation"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Aetiology",
+      "anchor": "#3-3-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Tobacco smoking",
+      "anchor": "#3-3-1-tobacco-smoking"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Occupational exposure to chemicals",
+      "anchor": "#3-3-2-occupational-exposure-to-chemicals"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Radiotherapy",
+      "anchor": "#3-3-3-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Dietary factors",
+      "anchor": "#3-3-4-dietary-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. Metabolic disorders",
+      "anchor": "#3-3-5-metabolic-disorders"
+    },
+    {
+      "level": 4,
+      "text": "3.3.6. Bladder schistosomiasis and chronic urinary tract infection",
+      "anchor": "#3-3-6-bladder-schistosomiasis-and-chronic-urinary-tract-infection"
+    },
+    {
+      "level": 4,
+      "text": "3.3.7. Sex",
+      "anchor": "#3-3-7-sex"
+    },
+    {
+      "level": 4,
+      "text": "3.3.8. Genetic factors",
+      "anchor": "#3-3-8-genetic-factors"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Summary of evidence and recommendations for epidemiology and risk factors",
+      "anchor": "#3-4-summary-of-evidence-and-recommendations-for-epidemiology-and-risk-factors"
+    },
+    {
+      "level": 2,
+      "text": "4. PATHOLOGY AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-pathology-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Cytology",
+      "anchor": "#4-1-cytology"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Histology",
+      "anchor": "#4-2-histology"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Pathological staging",
+      "anchor": "#4-3-pathological-staging"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Tumour, Node, Metastasis classification",
+      "anchor": "#4-4-tumour-node-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Pathological markers",
+      "anchor": "#4-5-pathological-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Lymphovascular invasion",
+      "anchor": "#4-5-1-lymphovascular-invasion"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Carcinoma",
+      "anchor": "#4-5-2-carcinoma"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Tumour location",
+      "anchor": "#4-5-3-tumour-location"
+    },
+    {
+      "level": 4,
+      "text": "4.5.4. Lymph node-positive disease",
+      "anchor": "#4-5-4-lymph-node-positive-disease"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Tissue handling",
+      "anchor": "#4-6-tissue-handling"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Recommendations for the assessment of tumour specimens",
+      "anchor": "#4-7-recommendations-for-the-assessment-of-tumour-specimens"
+    },
+    {
+      "level": 3,
+      "text": "4.8. EAU-ESMO consensus statements on the management of advanced- and variant bladder cancer [82, 83]*",
+      "anchor": "#4-8-eau-esmo-consensus-statements-on-the-management-of-advanced--and-variant-bladder-cancer-82-83"
+    },
+    {
+      "level": 3,
+      "text": "4.9. Markers",
+      "anchor": "#4-9-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.9.1. Introduction",
+      "anchor": "#4-9-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "4.9.2. Clinical and histopathological markers",
+      "anchor": "#4-9-2-clinical-and-histopathological-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.9.3. Molecular variants",
+      "anchor": "#4-9-3-molecular-variants"
+    },
+    {
+      "level": 4,
+      "text": "4.9.4. Molecular markers",
+      "anchor": "#4-9-4-molecular-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.9.5. Conclusion",
+      "anchor": "#4-9-5-conclusion"
+    },
+    {
+      "level": 4,
+      "text": "4.9.6. Summary of evidence and recommendations for urothelial markers",
+      "anchor": "#4-9-6-summary-of-evidence-and-recommendations-for-urothelial-markers"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSIS",
+      "anchor": "#5-diagnosis"
+    },
+    {
+      "level": 3,
+      "text": "5.1. History and physical examination",
+      "anchor": "#5-1-history-and-physical-examination"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Urine cytology",
+      "anchor": "#5-2-urine-cytology"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Cystoscopy",
+      "anchor": "#5-3-cystoscopy"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Transurethral resection of invasive bladder tumours",
+      "anchor": "#5-4-transurethral-resection-of-invasive-bladder-tumours"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Summary of evidence and recommendations for the primary assessment of presumably invasive bladder tumours*",
+      "anchor": "#5-5-summary-of-evidence-and-recommendations-for-the-primary-assessment-of-presumably-invasive-bladder-tumours"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Imaging for staging",
+      "anchor": "#5-6-imaging-for-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.1. Local staging",
+      "anchor": "#5-6-1-local-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.2. Upper tract evaluation",
+      "anchor": "#5-6-2-upper-tract-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "5.6.3. Lymph node staging",
+      "anchor": "#5-6-3-lymph-node-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.4. Distant staging",
+      "anchor": "#5-6-4-distant-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.5. Future perspectives",
+      "anchor": "#5-6-5-future-perspectives"
+    },
+    {
+      "level": 4,
+      "text": "5.6.6. Summary of evidence and recommendations for staging in MIBC",
+      "anchor": "#5-6-6-summary-of-evidence-and-recommendations-for-staging-in-mibc"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT",
+      "anchor": "#6-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Multidisciplinary team for patients with MIBC",
+      "anchor": "#6-1-multidisciplinary-team-for-patients-with-mibc"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Recommendations for a multidisciplinary team",
+      "anchor": "#6-1-1-recommendations-for-a-multidisciplinary-team"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Health status assessment",
+      "anchor": "#6-2-health-status-assessment"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Evaluation of comorbidity, frailty and cognition",
+      "anchor": "#6-3-evaluation-of-comorbidity-frailty-and-cognition"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Comorbidity scales, anaesthetic risk classification and geriatric assessment",
+      "anchor": "#6-4-comorbidity-scales-anaesthetic-risk-classification-and-geriatric-assessment"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Summary of evidence and recommendations for comorbidity scales",
+      "anchor": "#6-4-1-summary-of-evidence-and-recommendations-for-comorbidity-scales"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Perioperative systemic therapy",
+      "anchor": "#6-5-perioperative-systemic-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.5.1. Neoadjuvant",
+      "anchor": "#6-5-1-neoadjuvant"
+    },
+    {
+      "level": 4,
+      "text": "6.5.2. Adjuvant therapy",
+      "anchor": "#6-5-2-adjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Perioperative radiotherapy",
+      "anchor": "#6-6-perioperative-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.6.1. Preoperative radiotherapy",
+      "anchor": "#6-6-1-preoperative-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.6.2. Postoperative radiotherapy",
+      "anchor": "#6-6-2-postoperative-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.6.3. Summary of evidence and recommendations for pre- and postoperative radiotherapy",
+      "anchor": "#6-6-3-summary-of-evidence-and-recommendations-for-pre--and-postoperative-radiotherapy"
+    },
+    {
+      "level": 3,
+      "text": "6.7. Radical cystectomy with pelvic lymph node dissection",
+      "anchor": "#6-7-radical-cystectomy-with-pelvic-lymph-node-dissection"
+    },
+    {
+      "level": 4,
+      "text": "6.7.1. Removal of the tumour-bearing bladder",
+      "anchor": "#6-7-1-removal-of-the-tumour-bearing-bladder"
+    },
+    {
+      "level": 4,
+      "text": "6.7.2. Radical cystectomy: technique and extent",
+      "anchor": "#6-7-2-radical-cystectomy-technique-and-extent"
+    },
+    {
+      "level": 4,
+      "text": "6.7.3. Lymphadenectomy: role and extent",
+      "anchor": "#6-7-3-lymphadenectomy-role-and-extent"
+    },
+    {
+      "level": 4,
+      "text": "6.7.4. Robotic-assisted laparoscopic cystectomy",
+      "anchor": "#6-7-4-robotic-assisted-laparoscopic-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.7.5. Urinary diversion after radical cystectomy",
+      "anchor": "#6-7-5-urinary-diversion-after-radical-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.7.6. Morbidity and mortality",
+      "anchor": "#6-7-6-morbidity-and-mortality"
+    },
+    {
+      "level": 4,
+      "text": "6.7.7. Survival",
+      "anchor": "#6-7-7-survival"
+    },
+    {
+      "level": 4,
+      "text": "6.7.8. Impact of hospital and surgeon volume on treatment outcomes",
+      "anchor": "#6-7-8-impact-of-hospital-and-surgeon-volume-on-treatment-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "6.7.9. Summary of evidence and recommendations for quality indicators in radical cystectomy",
+      "anchor": "#6-7-9-summary-of-evidence-and-recommendations-for-quality-indicators-in-radical-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.7.10. Palliative cystectomy",
+      "anchor": "#6-7-10-palliative-cystectomy"
+    },
+    {
+      "level": 3,
+      "text": "6.8. Trimodality therapy",
+      "anchor": "#6-8-trimodality-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.8.1. Trimodality bladder-preserving treatment",
+      "anchor": "#6-8-1-trimodality-bladder-preserving-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.9. External beam radiotherapy",
+      "anchor": "#6-9-external-beam-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.9.1. Definitive external beam radiotherapy",
+      "anchor": "#6-9-1-definitive-external-beam-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.9.2. Palliative external beam radiotherapy",
+      "anchor": "#6-9-2-palliative-external-beam-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.9.3. Summary of evidence and recommendation for external beam radiotherapy",
+      "anchor": "#6-9-3-summary-of-evidence-and-recommendation-for-external-beam-radiotherapy"
+    },
+    {
+      "level": 3,
+      "text": "6.10. Other approaches",
+      "anchor": "#6-10-other-approaches"
+    },
+    {
+      "level": 4,
+      "text": "6.10.1. Transurethral resection of bladder tumour",
+      "anchor": "#6-10-1-transurethral-resection-of-bladder-tumour"
+    },
+    {
+      "level": 4,
+      "text": "6.10.2. Chemotherapy",
+      "anchor": "#6-10-2-chemotherapy"
+    },
+    {
+      "level": 2,
+      "text": "7. FOLLOW-UP AND SURVEILLANCE",
+      "anchor": "#7-follow-up-and-surveillance"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Response to neoadjuvant therapy",
+      "anchor": "#7-1-response-to-neoadjuvant-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.1.1. Recommendation for response to neoadjuvant therapy",
+      "anchor": "#7-1-1-recommendation-for-response-to-neoadjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Follow-up after radical cystectomy",
+      "anchor": "#7-2-follow-up-after-radical-cystectomy"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Follow-up after trimodality therapy",
+      "anchor": "#7-3-follow-up-after-trimodality-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Follow-up of functional outcomes and complications",
+      "anchor": "#7-4-follow-up-of-functional-outcomes-and-complications"
+    },
+    {
+      "level": 2,
+      "text": "8. RECURRENT DISEASE",
+      "anchor": "#8-recurrent-disease"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Intravesical recurrence",
+      "anchor": "#8-1-intravesical-recurrence"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Post-trimodality therapy bladder recurrences and salvage cystectomy",
+      "anchor": "#8-1-1-post-trimodality-therapy-bladder-recurrences-and-salvage-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Salvage cystectomy post-trimodality therapy",
+      "anchor": "#8-1-2-salvage-cystectomy-post-trimodality-therapy"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Recommendation for salvage cystectomy",
+      "anchor": "#8-1-3-recommendation-for-salvage-cystectomy"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Pelvic recurrence",
+      "anchor": "#8-2-pelvic-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Upper tract recurrence",
+      "anchor": "#8-3-upper-tract-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.4. Urethral recurrence",
+      "anchor": "#8-4-urethral-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.5. Distant recurrence",
+      "anchor": "#8-5-distant-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.6. Summary of evidence and recommendations for specific recurrence sites",
+      "anchor": "#8-6-summary-of-evidence-and-recommendations-for-specific-recurrence-sites"
+    },
+    {
+      "level": 2,
+      "text": "9. METASTATIC DISEASE",
+      "anchor": "#9-metastatic-disease"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Introduction",
+      "anchor": "#9-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Management of oligometastatic bladder cancer",
+      "anchor": "#9-2-management-of-oligometastatic-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "9.3. First-line systemic therapy for metastatic disease: patient selection",
+      "anchor": "#9-3-first-line-systemic-therapy-for-metastatic-disease-patient-selection"
+    },
+    {
+      "level": 3,
+      "text": "9.4. First-line therapy in patients fit for combination therapy",
+      "anchor": "#9-4-first-line-therapy-in-patients-fit-for-combination-therapy"
+    },
+    {
+      "level": 4,
+      "text": "9.4.1. Enfortumab vedotin plus pembrolizumab",
+      "anchor": "#9-4-1-enfortumab-vedotin-plus-pembrolizumab"
+    },
+    {
+      "level": 4,
+      "text": "9.4.2. Patients eligible for combination therapy but not eligible for enfortumab vedotin or enfortumab vedotin not available",
+      "anchor": "#9-4-2-patients-eligible-for-combination-therapy-but-not-eligible-for-enfortumab-vedotin-or-enfortumab-vedotin-not-available"
+    },
+    {
+      "level": 3,
+      "text": "9.5. First-line therapy in patients not eligible for combination therapy",
+      "anchor": "#9-5-first-line-therapy-in-patients-not-eligible-for-combination-therapy"
+    },
+    {
+      "level": 3,
+      "text": "9.6. Results of other trials integrating immunotherapy in the first-line setting without overall survival benefit",
+      "anchor": "#9-6-results-of-other-trials-integrating-immunotherapy-in-the-first-line-setting-without-overall-survival-benefit"
+    },
+    {
+      "level": 3,
+      "text": "9.7. Further-line systemic therapy for metastatic disease",
+      "anchor": "#9-7-further-line-systemic-therapy-for-metastatic-disease"
+    },
+    {
+      "level": 4,
+      "text": "9.7.1. Introduction",
+      "anchor": "#9-7-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "9.7.2. Chemotherapy",
+      "anchor": "#9-7-2-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "9.7.3. Immunotherapy for platinum-pretreated patients without previous immunotherapy",
+      "anchor": "#9-7-3-immunotherapy-for-platinum-pretreated-patients-without-previous-immunotherapy"
+    },
+    {
+      "level": 3,
+      "text": "9.8. Integration of other agents",
+      "anchor": "#9-8-integration-of-other-agents"
+    },
+    {
+      "level": 4,
+      "text": "9.8.1. Enfortumab vedotin monotherapy",
+      "anchor": "#9-8-1-enfortumab-vedotin-monotherapy"
+    },
+    {
+      "level": 4,
+      "text": "9.8.2. Sacituzumab govitecan",
+      "anchor": "#9-8-2-sacituzumab-govitecan"
+    },
+    {
+      "level": 4,
+      "text": "9.8.3. FGFR inhibition",
+      "anchor": "#9-8-3-fgfr-inhibition"
+    },
+    {
+      "level": 4,
+      "text": "9.8.4. HER2 targeted agents",
+      "anchor": "#9-8-4-her2-targeted-agents"
+    },
+    {
+      "level": 4,
+      "text": "9.8.6. Systemic treatment of metastatic disease with histology other than pure urothelial carcinoma",
+      "anchor": "#9-8-6-systemic-treatment-of-metastatic-disease-with-histology-other-than-pure-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "9.9. Treatment of patients with bone metastases",
+      "anchor": "#9-9-treatment-of-patients-with-bone-metastases"
+    },
+    {
+      "level": 3,
+      "text": "9.10. Treatment algorithm for metastatic urothelial cancer",
+      "anchor": "#9-10-treatment-algorithm-for-metastatic-urothelial-cancer"
+    },
+    {
+      "level": 3,
+      "text": "9.11. Summary of evidence and recommendations for metastatic disease",
+      "anchor": "#9-11-summary-of-evidence-and-recommendations-for-metastatic-disease"
+    },
+    {
+      "level": 2,
+      "text": "10. QUALITY OF LIFE AND PALLIATIVE CARE",
+      "anchor": "#10-quality-of-life-and-palliative-care"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Introduction",
+      "anchor": "#10-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Neoadjuvant therapy",
+      "anchor": "#10-2-neoadjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Radical cystectomy and urinary diversion",
+      "anchor": "#10-3-radical-cystectomy-and-urinary-diversion"
+    },
+    {
+      "level": 3,
+      "text": "10.4. Adjuvant therapy",
+      "anchor": "#10-4-adjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "10.5. Bladder-sparing trimodality therapy",
+      "anchor": "#10-5-bladder-sparing-trimodality-therapy"
+    },
+    {
+      "level": 3,
+      "text": "10.6. Noncurative or metastatic bladder cancer",
+      "anchor": "#10-6-noncurative-or-metastatic-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "10.7. Summary of evidence and recommendations for health-related quality of life",
+      "anchor": "#10-7-summary-of-evidence-and-recommendations-for-health-related-quality-of-life"
+    },
+    {
+      "level": 3,
+      "text": "10.8. Supportive care",
+      "anchor": "#10-8-supportive-care"
+    },
+    {
+      "level": 4,
+      "text": "10.8.1. Obstruction of the upper urinary tract",
+      "anchor": "#10-8-1-obstruction-of-the-upper-urinary-tract"
+    },
+    {
+      "level": 4,
+      "text": "10.8.2. Bleeding and pain",
+      "anchor": "#10-8-2-bleeding-and-pain"
+    },
+    {
+      "level": 2,
+      "text": "11. REFERENCES",
+      "anchor": "#11-references"
+    },
+    {
+      "level": 2,
+      "text": "12. CONFLICT OF INTEREST",
+      "anchor": "#12-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "13. CITATION INFORMATION",
+      "anchor": "#13-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "14. COPYRIGHT AND TERMS OF USE ",
+      "anchor": "#14-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#muscle-invasive-and-metastatic-bladder-cancer",
+      "title": "Muscle-invasive and Metastatic Bladder Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 3. Epidemiology And Aetiology Introduction Methods Epidemiology And Aetiology Pathology And Classification Systems Diagnosis Disease Management Follow-up And Surveillance Recurrent Disease Metastatic Disease Quality Of Life And Palliative Care References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#3-epidemiology-and-aetiology",
+      "title": "3. EPIDEMIOLOGY AND AETIOLOGY",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-1-clinical-presentation",
+      "title": "3.1 Clinical presentation",
+      "level": 2,
+      "text": "Painless visible haematuria is the most common presenting complaint. Other presenting symptoms and clinical signs include non-visable haematuria, urgency, dysuria, increased frequency and - in more advanced tumours - pelvic pain and symptoms related to urinary tract obstruction.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-2-epidemiology",
+      "title": "3.2. Epidemiology",
+      "level": 3,
+      "text": "Bladder cancer (BC) is the sixth most commonly diagnosed cancer in males, and it is the ninth when both sexes are considered [7]. The worldwide age-standardised incidence rate (per 100,000 person/years) is 9.3 for males and 2.4 for females [7]. In the European Union, the age-standardised incidence rate is 23.2 for males and 5.9 for females [7]. In Europe, the highest age-standardised incidence rate has been reported in Spain (32.4 in males and 7.8 in females) and the lowest in Luxembourg (10.3 in males and 4.4 in females) [7]. Worldwide, the BC age-standardised mortality rate (per 100,000 person/years) in 2022 was 3.1 for males versus 0.80 for females [7]. Bladder cancer incidence and mortality rates vary across countries due to differences in risk factors, detection and diagnostic practices, and availability of treatments. The variations are, however, also partly caused by the various methodologies used in the studies and the quality of data collection [8]. The incidence and mortality of BC have decreased in some registries, possibly reflecting the decreased impact of causative agents [9-11]. Approximately 25% of patients with BC present with muscle invasive disease. In younger patients (< 40 years) this percentage is lower [12]. Patients with T2-4 tumours have a higher risk of cancer-specific mortality (CSM) compared with TaT1 and carcinoma in situ (CIS) [7,8].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-aetiology",
+      "title": "3.3. Aetiology",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-1-tobacco-smoking",
+      "title": "3.3.1. Tobacco smoking",
+      "level": 4,
+      "text": "Tobacco smoking is the most well-established risk factor for BC, causing 50-65% of male cases and 20-30% of female cases [13]. A meta-analysis of 89 studies that comprised data from 57,145 BC cases calculated summary odds ratios (ORs). Dose-response meta-analyses were used to examine the relationships between smoking intensity, duration, pack-years and cessation with BC risk. The sources of heterogeneity were explored, and sensitivity analyses were conducted to test the robustness of findings. Former smokers (hazard ratio [HR]: 2.2) and current smokers (HR: 4.1) had higher risks of BC than never smokers [14]. In studies in which chance, bias and confounding can be discounted with reasonable confidence, a causal relationship has been established between exposure to tobacco and cancer [13,15]. An increase in risk estimates for current smokers relative to never-smokers has been described, suggesting this could be due to changes in cigarette composition [13]. Starting to smoke at a younger age increased the risk of death from BC [16]. An immediate decrease in the risk of BC has been observed in those who stopped smoking. The reduction was approximately 40% within one to four years of quitting smoking, and 60% after 25 years of cessation [17]. Encouraging people to stop smoking would result in the incidence of BC decreasing equally in males and females [13].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-2-occupational-exposure-to-chemicals",
+      "title": "3.3.2. Occupational exposure to chemicals",
+      "level": 4,
+      "text": "Occupational exposure is the second-most important risk factor for BC. Work-related cases accounted for 20-25% of all BC cases in several series and it is likely to occur in occupations in which dyes (except hair dyes [18]), rubbers, textiles, paints, leathers and chemicals are used [19]. The risk of BC due to occupational exposure to carcinogenic aromatic amines is significantly greater after ten years or more of exposure; the mean latency period usually exceeds 30 years [20]. Population-based studies established the occupational attribution for BC in males to be 7.1%, while no such attribution was discernible for females [21].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-3-radiotherapy",
+      "title": "3.3.3. Radiotherapy",
+      "level": 4,
+      "text": "Increased rates of secondary bladder malignancies have been reported after external-beam radiotherapy (EBRT) for gynaecological malignancies, with relative risks of 2 to 4 [22]. A recent study analysed 583 patients with prostate cancer who underwent brachytherapy, with or without EBRT, and assessed disease-free survival (DFS) for BC in this cohort. Of these patients, 2.4% developed BC after brachytherapy with or without EBRT. The percentage of high-grade urothelial carcinoma (UC) was 63.6%. A total of 85.7% of the patients had NMIBC, and 14.3% of patients had MIBC. Disease-free survival was longer in brachytherapy monotherapy than in combination therapy (brachytherapy + EBRT). The study showed that most cases of BC after brachytherapy with or without EBRT are high grade and invasive. External-beam radiotherapy in combination might be a risk factor for BC in patients with prostate cancer who underwent brachytherapy [23]. It has been proposed that patients who have received EBRT for prostate cancer with modern modalities such as intensity-modulated radiotherapy (IMRT) may have lower rates of in-field bladder- and rectal secondary malignancies [24]. Nevertheless, since longer follow-up data are not yet available, and as BC requires a long period to develop, further studies are required [24].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-4-dietary-factors",
+      "title": "3.3.4. Dietary factors",
+      "level": 4,
+      "text": "It is biologically plausible for dietary factors to influence BC risk, considering that beneficial as well as harmful components of a diet are excreted through the urinary tract and in direct contact with the epithelium of the bladder. However, studies that investigated the association between dietary factors and BC risk have largely reported inconsistent results. Dietary carbohydrate intake does not appear to be directly associated with BC risk. Even though a large number of studies have investigated the association between fruit and vegetable consumption, their micronutrient content, and BC risk, these have yielded inconsistent results. No strong evidence is available to suggest that supplementation with any common micronutrient is effective in reducing BC risk. However, the limitations in published research do not totally eclipse the observation that a diet rich in fruits and vegetables and low in processed meat - especially along with smoking cessation - may convey some protective effects against BC risk [25].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-5-metabolic-disorders",
+      "title": "3.3.5. Metabolic disorders",
+      "level": 4,
+      "text": "In a large prospective study pooling six cohorts from Norway, Sweden and Austria (the Metabolic syndrome and Cancer project, Me-Can 2.0), metabolic aberrations, especially elevated blood pressure and triglycerides, were associated with increased risks of BC among males, whereas high body mass index (BMI) was associated with decreased BC risk. The associations between BMI, blood pressure and BC risk significantly differed between males and females [26]. The association of diabetes mellitus with the risk of BC has been evaluated in numerous meta-analyses with inconsistent results. When analysing specific subpopulations, diabetes mellitus was associated with BC or CSM risk, especially in males [27]. The FDA recommends that healthcare professionals should not prescribe pioglitazone in patients with active BC [28]. Several countries in Europe have removed this agent from the market or included warnings for prescription. However, a recent systematic review emphasised the importance of cautious interpretation regarding the safety profile of pioglitazone in relation to BC risk. Of the included studies, two suggested a potential association between pioglitazone use and an increased risk of BC, whereas four reported no statistically significant correlation [29]. Moreover, the benefits of glycaemic control versus unknown risks for cancer recurrence with pioglitazone should be considered in patients with a prior history of BC.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-6-bladder-schistosomiasis-and-chronic-urinary-tract-infection",
+      "title": "3.3.6. Bladder schistosomiasis and chronic urinary tract infection",
+      "level": 4,
+      "text": "Bladder schistosomiasis (bilharzia) is the second most common parasitic infection after malaria, with approximately 250 million people infected annually [30]. There is a clear relationship between schistosomiasis and UC of the bladder, which can develop into BC and, if not treated, squamous cell carcinoma (SCC). Better control of the disease reduces the incidence of SCC of the bladder in endemic areas, such as Egypt [31]. Invasive SCC has been linked to the presence of chronic urinary tract infection (UTI) distinct from schistosomiasis. A direct association between BC and UTIs has been observed in several case-control studies, which have reported a twofold increased risk of BC in patients with recurrent UTIs in some series [31]. However, a meta-analysis found no statistical association when pooling data from the most recent and highest quality studies. This highlights the need for better quality data to be able to draw conclusions [32]. Urinary calculi and chronic irritation or inflammation of the urothelium have been described as possible risk factors for BC. A meta-analysis of case-control and cohort studies suggests a positive association between history of urinary calculi and BC [33].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-7-sex",
+      "title": "3.3.7. Sex",
+      "level": 4,
+      "text": "Although males are more likely to develop BC than females, females present with more advanced disease and have worse survival rates. A meta-analysis including nearly 28,000 patients showed that female sex was associated with a worse survival outcome (HR: 1.20; 95% confidence interval [CI]: 1.09-1.32) compared to male sex after radical cystectomy (RC) [34]. This finding had already been presented in a descriptive nationwide analysis based on 27,773 Austrian patients. After analysis, it was found that cancer-specific survival (CSS) was identical for pT1 tumours in both sexes, while females had a worse CSS in both age cohorts (< 70 years and ≥ 70 years) with higher tumour stages [35]. However, treatment patterns are unlikely to explain the differences in OS [36]. In a population-based study from the Ontario Cancer Registry analysing all patients with BC treated with cystectomy or radical radiotherapy (RT) between 1994 and 2008, no differences in OS, mortality and outcomes were found between males and females following radical therapy [37]. The sex-specific difference in survival for patients with BC was also analysed in the Norwegian population. Survival was inferior for females, but only within the first two years after diagnosis. This discrepancy was partly attributed to a more severe T-stage in female patients at initial diagnoses [38]. A population-based study from the MarketScan databases suggests that possible reasons for worse survival in the female population may include longer delays in diagnosis than males, as the differential diagnosis in females include diseases that are more prevalent than BC, such as UTIs [39]. Furthermore, differences in the sex prevalence of BC may be due to other factors besides tobacco and chemical exposure. In a large prospective cohort study, postmenopausal status was associated with an increased risk of BC, even after adjustment for smoking status. This finding suggests that the differences in oestrogen and androgen levels between males and females may be responsible for some of the difference in the sex prevalence of BC [40-42]. Moreover, a population study assessing impact of hormones on BC suggested that younger age at menopause (≤ 45 years) is associated with an increased risk of BC [43].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-8-genetic-factors",
+      "title": "3.3.8. Genetic factors",
+      "level": 4,
+      "text": "There is growing evidence that genetic susceptibility factors and family association may influence the incidence of BC. A population-based study of cancer risk in relatives and spouses of UC patients showed an increased risk for first- and second-degree relatives and suggests genetic or environmental roots independent of smoking-related behaviour [44]. Shared environmental exposure was recognised as a potentially confounding factor [45]. Studies have detected genetic susceptibility with independent loci, which are associated with BC risk [46]. Genome-wide association studies of BC identified several susceptibility loci associated with BC risk [47].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-4-summary-of-evidence-and-recommendations-for-epidemiology-and-risk-factors",
+      "title": "3.4. Summary of evidence and recommendations for epidemiology and risk factors",
+      "level": 3,
+      "text": "Summary of evidence LE Worldwide, BC is the ninth most diagnosed cancer. 2a Several risk factors associated with BC diagnosis have been identified. 3 Active and passive tobacco smoking continues to be the main risk factor, while exposure-related incidence is decreasing. 2a The increased risk of developing BC in patients undergoing EBRT, brachytherapy or a combination of EBRT and brachytherapy, must be considered during patient follow-up. As BC requires time to develop, patients treated with radiation at a young age are at the greatest risk and should be followed up closely. 3 Recommendations Strength rating Counsel patients to stop active and avoid passive smoking. Strong Inform workers in potentially hazardous workplaces of the potential carcinogenic effects of a number of recognised substances, including duration of exposure and latency periods. Protective measures are recommended. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Worldwide, BC is the ninth most diagnosed cancer.",
+              "2a"
+            ],
+            [
+              "Several risk factors associated with BC diagnosis have been identified.",
+              "3"
+            ],
+            [
+              "Active and passive tobacco smoking continues to be the main risk factor, while exposure-related incidence is decreasing.",
+              "2a"
+            ],
+            [
+              "The increased risk of developing BC in patients undergoing EBRT, brachytherapy or a combination of EBRT and brachytherapy, must be considered during patient follow-up. As BC requires time to develop, patients treated with radiation at a young age are at the greatest risk and should be followed up closely.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Counsel patients to stop active and avoid passive smoking.",
+              "Strong"
+            ],
+            [
+              "Inform workers in potentially hazardous workplaces of the potential carcinogenic effects of a number of recognised substances, including duration of exposure and latency periods. Protective measures are recommended.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 2
+}

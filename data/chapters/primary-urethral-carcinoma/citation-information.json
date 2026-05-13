@@ -1,0 +1,289 @@
+{
+  "guideline": "primary-urethral-carcinoma",
+  "chapter": "citation-information",
+  "url": "https://uroweb.org/guidelines/primary-urethral-carcinoma/chapter/citation-information",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Summary of changes",
+      "anchor": "#1-4-1-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY, AETIOLOGY AND PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology",
+      "anchor": "#3-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Aetiology",
+      "anchor": "#3-2-aetiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Histopathology and genomic profiling",
+      "anchor": "#3-3-histopathology-and-genomic-profiling"
+    },
+    {
+      "level": 2,
+      "text": "4. STAGING AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-staging-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Tumour, Node, Metastasis classification",
+      "anchor": "#4-1-tumour-node-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Tumour grade",
+      "anchor": "#4-2-tumour-grade"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Handling of tumour specimens",
+      "anchor": "#4-3-handling-of-tumour-specimens"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Recommendation for staging and classification systems",
+      "anchor": "#4-4-recommendation-for-staging-and-classification-systems"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION AND STAGING",
+      "anchor": "#5-diagnostic-evaluation-and-staging"
+    },
+    {
+      "level": 3,
+      "text": "5.1. History",
+      "anchor": "#5-1-history"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Clinical examination",
+      "anchor": "#5-2-clinical-examination"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Urinary cytology",
+      "anchor": "#5-3-urinary-cytology"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Diagnostic urethrocystoscopy and biopsy",
+      "anchor": "#5-4-diagnostic-urethrocystoscopy-and-biopsy"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Imaging for diagnosis and staging",
+      "anchor": "#5-5-imaging-for-diagnosis-and-staging"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Regional lymph nodes",
+      "anchor": "#5-6-regional-lymph-nodes"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Summary of evidence and recommendations for diagnostic evaluation and staging",
+      "anchor": "#5-7-summary-of-evidence-and-recommendations-for-diagnostic-evaluation-and-staging"
+    },
+    {
+      "level": 2,
+      "text": "6. PROGNOSIS",
+      "anchor": "#6-prognosis"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Long-term survival after primary urethral carcinoma",
+      "anchor": "#6-1-long-term-survival-after-primary-urethral-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Predictors of survival in primary urethral carcinoma",
+      "anchor": "#6-2-predictors-of-survival-in-primary-urethral-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Summary of evidence for prognosis",
+      "anchor": "#6-3-summary-of-evidence-for-prognosis"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT",
+      "anchor": "#7-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Treatment of primary urethral carcinoma in males",
+      "anchor": "#7-1-treatment-of-primary-urethral-carcinoma-in-males"
+    },
+    {
+      "level": 4,
+      "text": "7.1.1. Summary of evidence and recommendations for the treatment of primary urethral carcinoma in males",
+      "anchor": "#7-1-1-summary-of-evidence-and-recommendations-for-the-treatment-of-primary-urethral-carcinoma-in-males"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Treatment of localised primary urethral carcinoma in females",
+      "anchor": "#7-2-treatment-of-localised-primary-urethral-carcinoma-in-females"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. Urethrectomy and urethra-sparing surgery",
+      "anchor": "#7-2-1-urethrectomy-and-urethra-sparing-surgery"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Radiotherapy",
+      "anchor": "#7-2-2-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Summary of evidence and recommendations for the treatment of localised primary urethral carcinoma in females",
+      "anchor": "#7-2-3-summary-of-evidence-and-recommendations-for-the-treatment-of-localised-primary-urethral-carcinoma-in-females"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Multimodal treatment in locally advanced urethral carcinoma in both males and females",
+      "anchor": "#7-3-multimodal-treatment-in-locally-advanced-urethral-carcinoma-in-both-males-and-females"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Introduction",
+      "anchor": "#7-3-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Preoperative systemic treatment",
+      "anchor": "#7-3-2-preoperative-systemic-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. Chemoradiotherapy in locally advanced squamous cell carcinoma of the urethra",
+      "anchor": "#7-3-3-chemoradiotherapy-in-locally-advanced-squamous-cell-carcinoma-of-the-urethra"
+    },
+    {
+      "level": 4,
+      "text": "7.3.4. Salvage treatment in recurrent primary urethral carcinoma after surgery for primary treatment",
+      "anchor": "#7-3-4-salvage-treatment-in-recurrent-primary-urethral-carcinoma-after-surgery-for-primary-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.3.5. Treatment of regional lymph nodes",
+      "anchor": "#7-3-5-treatment-of-regional-lymph-nodes"
+    },
+    {
+      "level": 4,
+      "text": "7.3.6. Summary of evidence and recommendations for multimodal treatment in advanced urethral carcinoma in both males and females",
+      "anchor": "#7-3-6-summary-of-evidence-and-recommendations-for-multimodal-treatment-in-advanced-urethral-carcinoma-in-both-males-and-females"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Treatment of urothelial carcinoma of the prostate",
+      "anchor": "#7-4-treatment-of-urothelial-carcinoma-of-the-prostate"
+    },
+    {
+      "level": 4,
+      "text": "7.4.1. Summary of evidence and recommendations for the treatment of urothelial carcinoma of the prostate",
+      "anchor": "#7-4-1-summary-of-evidence-and-recommendations-for-the-treatment-of-urothelial-carcinoma-of-the-prostate"
+    },
+    {
+      "level": 3,
+      "text": "7.5. Metastatic disease",
+      "anchor": "#7-5-metastatic-disease"
+    },
+    {
+      "level": 2,
+      "text": "8. FOLLOW-UP",
+      "anchor": "#8-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Research priorities",
+      "anchor": "#8-1-research-priorities"
+    },
+    {
+      "level": 2,
+      "text": "9. REFERENCES",
+      "anchor": "#9-references"
+    },
+    {
+      "level": 2,
+      "text": "10. CONFLICT OF INTEREST",
+      "anchor": "#10-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "11. CITATION INFORMATION",
+      "anchor": "#11-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "12. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#12-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#primary-urethral-carcinoma",
+      "title": "Primary Urethral Carcinoma",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 11. Citation Information Introduction Methods Epidemiology, Aetiology And Pathology Staging And Classification Systems Diagnostic Evaluation And Staging Prognosis Disease Management Follow-up References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#11-citation-information",
+      "title": "11. CITATION INFORMATION",
+      "level": 2,
+      "text": "The compilation of the complete Guidelines should be referenced as: EAU Guidelines. Edn. presented at the EAU Annual Congress London 2026. ISBN 978-94-92671-32-5. If a publisher and/or location is required, include: EAU Guidelines Office, Arnhem, The Netherlands. http://uroweb.org/guidelines/compilations-of-all-guidelines/ References to individual Guidelines should be structured in the following way: Contributors’ names. Title of resource. Publication type. ISBN. Publisher and publisher location, year.",
+      "tables": []
+    }
+  ],
+  "tables_count": 0
+}

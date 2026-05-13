@@ -1,0 +1,740 @@
+{
+  "guideline": "upper-urinary-tract-urothelial-cell-carcinoma",
+  "chapter": "disease-management",
+  "url": "https://uroweb.org/guidelines/upper-urinary-tract-urothelial-cell-carcinoma/chapter/disease-management",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and scope",
+      "anchor": "#1-1-aim-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Summary of changes",
+      "anchor": "#1-4-1-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY, AETIOLOGY AND PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology",
+      "anchor": "#3-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Risk factors",
+      "anchor": "#3-2-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Environmental risk factors",
+      "anchor": "#3-2-1-environmental-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.2.2. Genetic risk factors",
+      "anchor": "#3-2-2-genetic-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.2.3. History of bladder cancer",
+      "anchor": "#3-2-3-history-of-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Histology and classification",
+      "anchor": "#3-3-histology-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Histological types",
+      "anchor": "#3-3-1-histological-types"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Molecular background of upper urinary tract urothelial carcinoma",
+      "anchor": "#3-4-molecular-background-of-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Summary of evidence and recommendations for epidemiology, aetiology and histology",
+      "anchor": "#3-5-summary-of-evidence-and-recommendations-for-epidemiology-aetiology-and-histology"
+    },
+    {
+      "level": 2,
+      "text": "4. STAGING AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-staging-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Classification",
+      "anchor": "#4-1-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Tumour, Node, Metastasis classification",
+      "anchor": "#4-2-tumour-node-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Tumour grade",
+      "anchor": "#4-3-tumour-grade"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSIS",
+      "anchor": "#5-diagnosis"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Symptoms",
+      "anchor": "#5-1-symptoms"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Imaging",
+      "anchor": "#5-2-imaging"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Computed tomography",
+      "anchor": "#5-2-1-computed-tomography"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Magnetic resonance urography",
+      "anchor": "#5-2-2-magnetic-resonance-urography"
+    },
+    {
+      "level": 4,
+      "text": "5.2.3.",
+      "anchor": "#5-2-3"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Cystoscopy",
+      "anchor": "#5-3-cystoscopy"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Cytology and urinary markers",
+      "anchor": "#5-4-cytology-and-urinary-markers"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Diagnostic ureteroscopy",
+      "anchor": "#5-5-diagnostic-ureteroscopy"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Molecular testing",
+      "anchor": "#5-6-molecular-testing"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Summary of evidence and recommendations for the diagnosis of upper urinary tract urothelial carcinoma",
+      "anchor": "#5-7-summary-of-evidence-and-recommendations-for-the-diagnosis-of-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 2,
+      "text": "6. RISK STRATIFICATION",
+      "anchor": "#6-risk-stratification"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Factors for clinical decision-making",
+      "anchor": "#6-1-factors-for-clinical-decision-making"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Pathological grade",
+      "anchor": "#6-1-1-pathological-grade"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Histological subtypes",
+      "anchor": "#6-1-2-histological-subtypes"
+    },
+    {
+      "level": 4,
+      "text": "6.1.3. Local invasion on computed tomography",
+      "anchor": "#6-1-3-local-invasion-on-computed-tomography"
+    },
+    {
+      "level": 4,
+      "text": "6.1.4. Multifocality",
+      "anchor": "#6-1-4-multifocality"
+    },
+    {
+      "level": 4,
+      "text": "6.1.5. Hydroureteronephrosis",
+      "anchor": "#6-1-5-hydroureteronephrosis"
+    },
+    {
+      "level": 4,
+      "text": "6.1.6. Tumour size",
+      "anchor": "#6-1-6-tumour-size"
+    },
+    {
+      "level": 4,
+      "text": "6.1.7. Risk stratification for clinical decision-making",
+      "anchor": "#6-1-7-risk-stratification-for-clinical-decision-making"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Bladder recurrence",
+      "anchor": "#6-2-bladder-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Summary of evidence and recommendation for the prognosis of upper urinary tract urothelial carcinoma",
+      "anchor": "#6-3-summary-of-evidence-and-recommendation-for-the-prognosis-of-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT",
+      "anchor": "#7-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Low-risk disease",
+      "anchor": "#7-1-low-risk-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.1.1. General considerations on kidney-sparing surgery",
+      "anchor": "#7-1-1-general-considerations-on-kidney-sparing-surgery"
+    },
+    {
+      "level": 4,
+      "text": "7.1.2. Endoscopic ablation with ureteroscopy",
+      "anchor": "#7-1-2-endoscopic-ablation-with-ureteroscopy"
+    },
+    {
+      "level": 4,
+      "text": "7.1.3. Percutaneous antegrade access",
+      "anchor": "#7-1-3-percutaneous-antegrade-access"
+    },
+    {
+      "level": 4,
+      "text": "7.1.4. Ureteral resection",
+      "anchor": "#7-1-4-ureteral-resection"
+    },
+    {
+      "level": 4,
+      "text": "7.1.5. Chemoablation",
+      "anchor": "#7-1-5-chemoablation"
+    },
+    {
+      "level": 4,
+      "text": "7.1.6. Adjuvant instillations",
+      "anchor": "#7-1-6-adjuvant-instillations"
+    },
+    {
+      "level": 4,
+      "text": "7.1.7. Recommendations for kidney-sparing management of localised low-risk upper urinary tract urothelial carcinoma",
+      "anchor": "#7-1-7-recommendations-for-kidney-sparing-management-of-localised-low-risk-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Localised high-risk disease",
+      "anchor": "#7-2-localised-high-risk-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. Local treatments",
+      "anchor": "#7-2-1-local-treatments"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Perioperative treatments",
+      "anchor": "#7-2-2-perioperative-treatments"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Summary of evidence and recommendations for the management of high-risk non-metastatic upper urinary tract urothelial carcinoma",
+      "anchor": "#7-2-3-summary-of-evidence-and-recommendations-for-the-management-of-high-risk-non-metastatic-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Metastatic disease",
+      "anchor": "#7-3-metastatic-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Clinical locoregional lymph node metastases",
+      "anchor": "#7-3-1-clinical-locoregional-lymph-node-metastases"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Distant metastases",
+      "anchor": "#7-3-2-distant-metastases"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. Summary of evidence and recommendations for the treatment of metastatic upper urinary tract urothelial carcinoma",
+      "anchor": "#7-3-3-summary-of-evidence-and-recommendations-for-the-treatment-of-metastatic-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 2,
+      "text": "8. FOLLOW-UP",
+      "anchor": "#8-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Summary of evidence and recommendations for the follow-up of upper urinary tract urothelial carcinoma",
+      "anchor": "#8-1-summary-of-evidence-and-recommendations-for-the-follow-up-of-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 2,
+      "text": "9. QUALITY INDICATORS FOR THE MANAGEMENT OF UTUC",
+      "anchor": "#9-quality-indicators-for-the-management-of-utuc"
+    },
+    {
+      "level": 2,
+      "text": "10. REFERENCES",
+      "anchor": "#10-references"
+    },
+    {
+      "level": 2,
+      "text": "11. CONFLICT OF INTEREST",
+      "anchor": "#11-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "12. CITATION INFORMATION",
+      "anchor": "#12-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "13. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#13-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#upper-urinary-tract-urothelial-cell-carcinoma",
+      "title": "Upper Urinary Tract Urothelial Cell Carcinoma",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 7. Disease Management Introduction Methods Epidemiology, Aetiology And Pathology Staging And Classification Systems Diagnosis Risk Stratification Disease Management Follow-up Quality Indicators For The Management Of Utuc References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#7-disease-management",
+      "title": "7. DISEASE MANAGEMENT",
+      "level": 2,
+      "text": "All patients with suspicion of UTUC based on radiology, cystoscopy and urine cytology should be discussed in a multidisciplinary team prior to diagnostic ureteroscopy and the initiation of treatment [162]. This is supported by population-based data reporting increased use of invasive diagnostic modalities in hospitals with a lower caseload [161].",
+      "tables": []
+    },
+    {
+      "anchor": "#7-1-low-risk-disease",
+      "title": "7.1. Low-risk disease",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#7-1-1-general-considerations-on-kidney-sparing-surgery",
+      "title": "7.1.1. General considerations on kidney-sparing surgery",
+      "level": 4,
+      "text": "Kidney-sparing surgery for low-risk UTUC reduces the morbidity associated with RNU (e.g. loss of kidney function) without compromising oncological outcomes [163]. In low-risk cancers, kidney-sparing surgery is the preferred approach, because survival is similar to that after RNU [163,164]. This option should therefore be discussed with all patients with low-risk UTUC, irrespective of the status of the contralateral kidney, as part of a shared decision-making process. Recommendations for kidney-sparing management of UTUC are listed in section 7.1.7.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-1-2-endoscopic-ablation-with-ureteroscopy",
+      "title": "7.1.2. Endoscopic ablation with ureteroscopy",
+      "level": 4,
+      "text": "Endoscopic tumour ablation should be considered in patients with low-risk UTUC [165,166]. Patients should be informed of the need and be willing and able to comply with an early second-look URS [167] and stringent surveillance, because one in two patients develop ipsilateral upper tract recurrence within two years [168]. Additionally, complete tumour resection or destruction is necessary [167]. Nevertheless, a risk of disease downstaging or progression remains with endoscopic management due to the suboptimal performance of imaging and biopsy for risk stratification and tumour biology [169]. A systematic review confirmed the comparable survival outcomes of endoscopic treatment to those of RNU, but at the cost of higher local recurrence rates and need for repeated interventions. In addition, the evidence on renal preservation after endoscopic treatment is inconsistent and the long-term benefits are not assured, possibly due to the cumulative effects of repeated procedures and imaging during follow-up [170]. The use of flexible ureteroscopes with an external diameter < 9F is useful in the endoscopic management of UTUC [171]. Ablation is preferably performed with lasers; however, data regarding optimal laser type or settings are lacking. Although there is no evidence on optimal laser settings, excessive power should be avoided, as high power settings will generate heat and cause thermal injury of normal tissue [172]. Second-look URS after initial endoscopic treatment is recommended to ensure complete tumour resection and evaluate residual disease. Second-look URS should be performed within eight weeks following initial endoscopic treatment to assess for residual tumours or recurrence [167]. Other studies reported that up to nearly 50% of patients showed residual or recurrent disease during the second-look procedure, emphasising the value of early follow-up [173]. Therefore, early second-look URS plays a crucial role in optimising the outcomes of conservative treatment in UTUC by ensuring thorough tumour control.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-1-3-percutaneous-antegrade-access",
+      "title": "7.1.3. Percutaneous antegrade access",
+      "level": 4,
+      "text": "Percutaneous antegrade management can be considered for low-risk UTUC in the renal pelvis [165,174]. This can also be offered for low-risk tumours that are inaccessible or difficult to manage by means of flexible retrograde URS, for example, in patients with urinary diversions. This approach is being used less in the wake of improved endoscopic possibilities with smaller sized ureteroscopes [166,174]. Although rare, the risk of tumour seeding remains with percutaneous antegrade access [174].",
+      "tables": []
+    },
+    {
+      "anchor": "#7-1-4-ureteral-resection",
+      "title": "7.1.4. Ureteral resection",
+      "level": 4,
+      "text": "Segmental or distal ureterectomy and ureteral resection with adequate margins - ideally based on frozen section analysis - provides sufficient pathological specimens for staging and grading while preserving the ipsilateral kidney. Further direct anastomoses using either an end-to-end technique or ureteroneocystostomy are usually performed, but ileal-ureteral substitution or renal autotransplantation are also technically feasible, depending on the length of ureter removed [175,176]. Segmental resection of the proximal two-thirds of ureter is associated with higher failure rates than for the distal ureter [177,178]. Distal ureterectomy with ureteroneocystostomy for tumours in the distal ureter is reported with a low cumulative incidence of ipsilateral upper tract recurrence (0-18%) [179-181] compared to 25-85% after endourologic kidney sparing [170].",
+      "tables": []
+    },
+    {
+      "anchor": "#7-1-5-chemoablation",
+      "title": "7.1.5. Chemoablation",
+      "level": 4,
+      "text": "A single-arm phase III trial including 71 patients with biopsy-proven low-grade UTUC measuring less than 15mm showed that the use of mitomycin-containing reverse thermal gel (UGN-101) instillations (six-weekly induction) in a chemoablation setting by means of a retrograde catheter to the renal pelvis and calyces was associated with a complete response (CR) rate in a total of 41 patients (58%) [182]. The most frequently reported all-cause adverse events (AEs) were ureteric stenosis in 31 (44%), urinary tract infection in 23 (32%), haematuria in 22 (31%), flank pain in 21 (30%), nausea in 17 (24%) and 19/31 (61%) reported ureteric stenosis requiring treatment. Among patients with CR, 29/41 (71%) received at least one maintenance instillation (median of six), and 23/41 (56%) remained disease free at one year [182]. Long-term outcomes remain uncertain [183].",
+      "tables": []
+    },
+    {
+      "anchor": "#7-1-6-adjuvant-instillations",
+      "title": "7.1.6. Adjuvant instillations",
+      "level": 4,
+      "text": "7.1.6.a. Upper urinary tract The antegrade instillation of BCG or mitomycin C in the upper urinary tract by means of percutaneous nephrostomy after complete tumour eradication has been studied for CIS after kidney-sparing management [184,185]. Retrograde instillation through a single-J open-ended ureteric stent is also used [186]. Before both the antegrade and retrograde approach, a nephroureterogram must rule out ureteric obstruction or leakage, asses that there is no infection and ensure a low-pressure system to avoid pyelovenous backflow during instillation/perfusion. The reflux obtained from a double-J stent has been used, but this approach is suboptimal because the drug often does not reach the renal pelvis [187,188]. A systematic review and meta-analysis assessing the oncologic outcomes of patients with papillary (Ta-T1) UTUC or CIS of the upper urinary tract treated with kidney-sparing surgery and adjuvant endocavitary therapies (i.e. chemotherapeutic agents and/or BCG) did not find any difference between the method of drug administration (antegrade vs. retrograde vs. combined approach) in terms of recurrence, progression, CSS and OS. However, all included studies were underpowered and highly heterogeneous. Furthermore, the recurrence rates following adjuvant instillations are comparable to those reported in the literature in untreated patients, questioning their efficacy [189]. The analyses were based on retrospective small studies suffering from publication and reporting bias. Further evidence suggests that early single-adjuvant intracavitary upper-tract instillation of mitomycin C in patients with low-grade UTUC might reduce the risk of local recurrence [190]. Limited complications related to the instillations were reported, and the need for a retrograde pyelography before instillations are commenced to exclude contrast extravasation was confirmed. 7.1.6.b. Bladder No data is currently available to support the use of bladder instillation of chemotherapy after kidney-sparing surgery, as available randomised controlled trials (RCTs) included only patients who received RNU.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-1-7-recommendations-for-kidney-sparing-management-of-localised-low-risk-upper-urinary-tract-urothelial-carcinoma",
+      "title": "7.1.7. Recommendations for kidney-sparing management of localised low-risk upper urinary tract urothelial carcinoma",
+      "level": 4,
+      "text": "Recommendations Strength rating Offer kidney-sparing management as primary treatment option to patients with low-risk tumours. Strong Discuss both endoscopic management and distal ureterectomy in low-risk tumours of the distal ureter based on tumour characteristics and shared decision-making with the patient. Strong Perform second-look ureteroscopy within eight weeks following initial endoscopic management. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer kidney-sparing management as primary treatment option to patients with low-risk tumours.",
+              "Strong"
+            ],
+            [
+              "Discuss both endoscopic management and distal ureterectomy in low-risk tumours of the distal ureter based on tumour characteristics and shared decision-making with the patient.",
+              "Strong"
+            ],
+            [
+              "Perform second-look ureteroscopy within eight weeks following initial endoscopic management.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-2-localised-high-risk-disease",
+      "title": "7.2. Localised high-risk disease",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#7-2-1-local-treatments",
+      "title": "7.2.1. Local treatments",
+      "level": 4,
+      "text": "7.2.1.a. Radical nephroureterectomy 7.2.1.a.1. Surgical approach Although the open approach has long been the standard [13], both laparoscopic and robot-assisted RNU can be used to treat high-risk UTUC, providing perioperative benefits such as decreased risk of complication and shorter hospital stay [191,192]. In addition, equivalent oncological outcomes have generally been reported between the three procedures [191-193], except for a higher risk of intravesical recurrence after minimally invasive RNU [194]. It is worth noting that, although laparoscopic RNU was historically purported to provide inferior oncological outcomes [195] in locally advanced UTUC, this was not confirmed with the use of robotic RNU [194]. A meta-analysis of six retrospective comparative studies showed that the use of a retroperitoneal versus transperitoneal route at the time of laparoscopic RNU provides similar perioperative and oncological outcomes, except for a longer operative time and shorter recovery time to bowel function in the retroperitoneal group [196]. Similarly, retroperitoneal robotic RNU is safe and feasible to perform [197]. Regardless of the approach, RNU must be performed according to oncological principles to prevent tumour seeding: Perform en bloc removal of the kidney, ureter and bladder cuff. Avoid entering the urinary tract, except when performing a bladder cuff excision and only after prior clipping of the ureter and complete drainage of the bladder [198]. 7.2.1.a.2. Bladder cuff management Resection of the distal ureter and its orifice is performed because there is a considerable risk of tumour recurrence in this area and in the bladder [32,177,199]. Several techniques have been described, including the transvesical, extravesical and endoscopic approaches with similar oncological outcomes regarding CSS. Uncertainty remains regarding their impact on intravesical recurrence [200,201], with the endoscopic approach potentially affecting a higher risk of recurrence [201]. Several other techniques have been proposed to simplify distal ureter resection, including the pluck technique, stripping, transurethral resection of the intramural ureter, and intussusception, but none of these techniques have convincingly been shown to be equal to complete bladder cuff excision [33,201]. 7.2.1.a.3. Lymph node dissection No high-level evidence is available to support the routine use of LND for upper tract tumours. However, template-based LND and its completeness may reduce the risk of local recurrence and improve CSS [202]. This could have a greater impact than the number of removed LNs [203]. Even in clinically [204] and pathologically [205] node-negative patients, LND may improve survival. Moreover, clinical tumour staging is inaccurate preoperatively. Provided the patient meets the strong criteria for high-risk disease (Figure 6.1), template-based LND could be offered to those who are scheduled for RNU, particularly given the low risk of major postoperative complications [206]. The templates for LND vary according to primary tumour location [202,207,208]. 7.2.1.b. Kidney-sparing surgery 7.2.1.b.1. Elective indications Distal ureterectomy Distal ureterectomy - particularly with adequate surgical margins based on frozen section analysis - followed by ureteroneocystostomy may achieve equivalent long-term oncological outcomes and improved renal preservation as compared to RNU for high-risk UTUC located in the distal ureter [163,164,209,210]. However, the risk of local- and intravesical recurrence is significantly higher following distal ureterectomy, emphasising the necessity of patient selection and close postoperative surveillance [211]. Two retrospective studies [212-215] including mainly high-risk patients, and one prospective study [216] including only high-risk patients, showed ipsilateral upper tract recurrence in 16-28% of cases after segmental ureterectomy, highlighting the need to weigh this risk against performing RNU on an individual patient basis. This procedure can be performed with concomitant LND. Ureterorenoscopy with laser ablation or segmental ureterectomy Patients with high-risk UTUC that harbour more favourable features (predominantly “weak” high-risk criteria, low-grade disease and no infiltrative features at imaging), cannot be systematically considered as an indication for RNU [217,218]. Alternatively, the use of ureterorenoscopy with laser ablation or segmental ureterectomy may be proposed on a case-by-case basis if feasible. 7.2.1.b.2. Imperative indications Ureterorenoscopy with laser ablation or segmental ureterectomy can be considered on a case-by-case basis for patients with high-risk UTUC and imperative kidney-sparing indications. This includes situations such as solitary kidney, bilateral UTUC, and even those harbouring high-grade disease and/or infiltrative features, but only in the presence of severe chronic kidney disease or any other comorbidity compromising the use of RNU. However, there is a ",
+      "tables": []
+    },
+    {
+      "anchor": "#7-2-2-perioperative-treatments",
+      "title": "7.2.2. Perioperative treatments",
+      "level": 4,
+      "text": "7.2.2.a. Neoadjuvant systemic treatments 7.2.2.a.1. Chemotherapy The primary advantage of neoadjuvant chemotherapy (NAC) is the ability to give cisplatin-based regimens when patients still have maximal renal function. Several retrospective studies evaluating the role of NAC have shown evidence of pathological downstaging and CR rates at RNU [219-223] with a direct impact on OS [224]. Moreover, NAC has been shown to result in lower disease-recurrence and mortality rates compared to RNU alone, without compromising the use of definitive surgical treatment with a potential OS benefit [222,225-227]. No RCTs have been published yet, but prospective data from phase II trials showed that NAC based on cisplatin combination therapy was associated with a 14-19% pathological CR rate in high-grade and/or cT2-T4N0M0 UTUC [228,229]. In addition, final pathological stage was < ypT1 in more than 60% of included patients with acceptable toxicity profile. In a systematic review and meta-analysis comprising more than 800 patients, NAC has shown a pathologic partial response of 43% and a downstaging in 33% of patients, resulting in an OS and CSS benefit compared with RNU alone [230]. A further systematic review and meta-analysis included 21 trials involving 14,117 patients with UTUC, comprising 1,983 patients who received NAC. Among those treated with NAC, 10% achieved a pathological CR and 42% experienced pathological downstaging; however, no survival benefit was demonstrated [231]. It is important to note that these findings are not conclusive, as the evidence is limited by significant bias and heterogeneity of the available data. If there is residual ≥ ypT2 and/or ypN+ disease after NAC and subsequent RNU, patients are likely to have a poorer prognosis [232]. Adjuvant immunotherapy should be discussed. 7.2.2.a.2. Immunotherapy Only a small phase II study including ten patients with high-risk UTUC evaluated the efficacy of pembrolizumab in the neoadjuvant setting [233]. However, no pathological response was observed, and one treatment-related death was reported. Therefore, no evidence is currently available to support the use of neoadjuvant immunotherapy for high-risk UTUC. 7.2.2.a.3. Chemoimmunotherapy The efficacy of the neoadjuvant combination of durvalumab with gemcitabine plus cisplatin (cohort 1) or carboplatin (cohort 2) before RNU has been evaluated in a negative phase II study showing pathological CR rates of 13% in those who received cisplatin and 5% in those who received carboplatin. These were both below the prespecified statistical hypotheses, although a final pathological stage < pT1 was found in 63% and 47% of patients included in cohort 1 and 2, respectively [234]. 7.2.2.b. Perioperative intravesical instillations 7.2.2.b.1. Adjuvant intravesical instillations The rate of bladder recurrence after RNU for UTUC is approximately 30% [32,201]. Two prospective randomised trials [235,236] and two meta-analyses [237,238] have demonstrated that a single postoperative dose of intravesical chemotherapy (mitomycin C, pirarubicin) two to ten days after surgery reduces the risk of bladder tumour recurrence within the first years post-RNU in patients without a history of BC. Prior to instillation, a cystogram can be considered in case of concerns about drug extravasation. All studies showed a very low risk of AEs. Based on current evidence, it is unlikely that additional instillations beyond one perioperative instillation of chemotherapy further substantially reduce the risk of intravesical recurrence [239]. Management is outlined in Figures 7.1 and 7.2. One low-level evidence study suggested that bladder irrigation might reduce the risk of bladder recurrence after RNU [240]. No data are currently available to support the use of bladder instillation of chemotherapy after kidney-sparing surgery, because available RCTs included only patients who received RNU. 7.2.2.b.2. Other perioperative intravesical instillations Intravesical chemotherapy has been administered safely at the time of RNU prior to bladder cuff opening, removing the need for a postoperative cystogram but with low-level data for efficacy [241]. Given worldwide low compliance with the use of adjuvant bladder instillations after RNU, its efficacy has more recently been tested in the preoperative setting. A single bladder instillation of mitomycin C within three hours before RNU or segmental ureterectomy, combined with saline irrigation, provided a two-year intravesical recurrence rate of 24%, which was above the pre-specified threshold of 20% in a prospective study [242]. Nonetheless, a significant reduction in the risk of intravesical recurrence was observed in the subgroup of patients who did not receive diagnostic ureterorenoscopy before radical surgery using an historical cohort as a comparative group. 7.2.2.c. Adjuvant treatments 7.2.2.c.1. Systemic chemotherapy The POUT phase III multicentre prospective RCT (n = 261) evaluating the benefit of four cycles of",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Platinum eligible",
+              "Platinum ineligible"
+            ],
+            [
+              "Cisplatin eligible",
+              "Carboplatin* eligible",
+              " "
+            ],
+            [
+              "ECOG PS 0-1 andGFR > 50-60mL/min. andaudiometric hearing loss Grade < 2 andperipheral neuropathy Grade < 2 andcardiac insufficiency NYHA class < III",
+              "ECOG PS 2 or GFR30-60mL/min. ornot fulfilling other cisplatin-eligibility criteria",
+              "Any of the following:GFR < 30mL/min.ECOG PS > 2ECOG PS 2 and GFR< 60mL/min.Comorbidites > Grade 2"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-2-3-summary-of-evidence-and-recommendations-for-the-management-of-high-risk-non-metastatic-upper-urinary-tract-urothelial-carcinoma",
+      "title": "7.2.3. Summary of evidence and recommendations for the management of high-risk non-metastatic upper urinary tract urothelial carcinoma",
+      "level": 4,
+      "text": "Summary of evidence LE Radical nephroureterectomy is the standard treatment for high-risk UTUC, regardless of tumour location. 2a Open, laparoscopic and robotic approaches have similar oncological outcomes. 2a Failure to completely remove the bladder cuff increases the risk of BC recurrence. 3 Template-based LND may improve survival in muscle-invasive UTUC. 3 Postoperative platinum-based adjuvant chemotherapy improves DFS. 1b Single postoperative intravesical instillation of chemotherapy lowers the BC recurrence rate. 1b Recommendations Strength rating Discuss all patients with suspicion of upper urinary tract urothelial carcinoma (UTUC) on imaging in a multidisciplinary team meeting. Strong Perform radical nephroureterectomy (RNU) in patients with high-risk non-metastatic UTUC. Strong Use an open, laparoscopic or robotic approach to perform RNU in patients with high-risk non-metastatic UTUC. Weak Perform a template-based lymphadenectomy in patients with high-risk non-metastatic UTUC. Weak Offer adjuvant platinum-based chemotherapy after RNU to eligible patients with pT2-T4 and/or pN+ disease. Strong Deliver a postoperative bladder instillation of chemotherapy to lower the intravesical recurrence rate in patients without a history of bladder cancer. Strong Discuss adjuvant nivolumab with programmed death-ligand 1 (PD-L1) positive patients unfit for, or who declined, platinum-based adjuvant chemotherapy for ≥ pT3 and/or pN+ disease after previous RNU alone or ≥ ypT2 and/or ypN+ disease after previous neoadjuvant chemotherapy followed by RNU. Weak Discuss adjuvant pembrolizumab with patients unfit for, or who declined, platinum-based adjuvant chemotherapy for ≥ pT3 and/or pN+ and/or positive margin disease after previous RNU alone or ≥ ypT2 and/or ypN+ and/or positive margin disease after previous neoadjuvant chemotherapy followed by RNU. Weak Offer distal ureterectomy to selected patients with high-risk tumours limited to the distal ureter. Weak Discuss kidney-sparing management of high-risk patients with imperative indication, on a case-by-case basis, in a shared decision-making process with the patient, despite the higher risk of disease progression. Strong Figure 7.1: Proposed flowchart for the management of upper urinary tract urothelial carcinoma a: In patients with solitary kidney, consider a more conservative approach. b: In low-grade patients without invasive features, consider a more conservative approach.CTU = computed tomography urography; PD-L1 = programmed death-ligand 1; RNU = radical nephroureterectomy; UTUC = upper urinary tract urothelial carcinoma. Figure 7.2: Surgical treatment according to location and risk status a: In patients with solitary kidney, consider a more conservative approach. b: In low-grade patients without invasive features, consider a more conservative approach. 1 = first treatment option; 2 = secondary treatment option. *If not amendable to endoscopic management. LND = lymph node dissection; RNU = radical nephroureterectomy; URS = ureteroscopy; UTUC = upper urinary tract urothelial carcinoma.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Radical nephroureterectomy is the standard treatment for high-risk UTUC, regardless of tumour location.",
+              "2a"
+            ],
+            [
+              "Open, laparoscopic and robotic approaches have similar oncological outcomes.",
+              "2a"
+            ],
+            [
+              "Failure to completely remove the bladder cuff increases the risk of BC recurrence.",
+              "3"
+            ],
+            [
+              "Template-based LND may improve survival in muscle-invasive UTUC.",
+              "3"
+            ],
+            [
+              "Postoperative platinum-based adjuvant chemotherapy improves DFS.",
+              "1b"
+            ],
+            [
+              "Single postoperative intravesical instillation of chemotherapy lowers the BC recurrence rate.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Discuss all patients with suspicion of upper urinary tract urothelial carcinoma (UTUC) on imaging in a multidisciplinary team meeting.",
+              "Strong"
+            ],
+            [
+              "Perform radical nephroureterectomy (RNU) in patients with high-risk non-metastatic UTUC.",
+              "Strong"
+            ],
+            [
+              "Use an open, laparoscopic or robotic approach to perform RNU in patients with high-risk non-metastatic UTUC.",
+              "Weak"
+            ],
+            [
+              "Perform a template-based lymphadenectomy in patients with high-risk non-metastatic UTUC.",
+              "Weak"
+            ],
+            [
+              "Offer adjuvant platinum-based chemotherapy after RNU to eligible patients with pT2-T4 and/or pN+ disease.",
+              "Strong"
+            ],
+            [
+              "Deliver a postoperative bladder instillation of chemotherapy to lower the intravesical recurrence rate in patients without a history of bladder cancer.",
+              "Strong"
+            ],
+            [
+              "Discuss adjuvant nivolumab with programmed death-ligand 1 (PD-L1) positive patients unfit for, or who declined, platinum-based adjuvant chemotherapy for ≥ pT3 and/or pN+ disease after previous RNU alone or ≥ ypT2 and/or ypN+ disease after previous neoadjuvant chemotherapy followed by RNU.",
+              "Weak"
+            ],
+            [
+              "Discuss adjuvant pembrolizumab with patients unfit for, or who declined, platinum-based adjuvant chemotherapy for ≥ pT3 and/or pN+ and/or positive margin disease after previous RNU alone or ≥ ypT2 and/or ypN+ and/or positive margin disease after previous neoadjuvant chemotherapy followed by RNU.",
+              "Weak"
+            ],
+            [
+              "Offer distal ureterectomy to selected patients with high-risk tumours limited to the distal ureter.",
+              "Weak"
+            ],
+            [
+              "Discuss kidney-sparing management of high-risk patients with imperative indication, on a case-by-case basis, in a shared decision-making process with the patient, despite the higher risk of disease progression.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-3-metastatic-disease",
+      "title": "7.3. Metastatic disease",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#7-3-1-clinical-locoregional-lymph-node-metastases",
+      "title": "7.3.1. Clinical locoregional lymph node metastases",
+      "level": 4,
+      "text": "Patients with clinical evidence of positive locoregional LNs which are surgically resectable fall in between localised and metastatic disease, and their treatment remains an area of debate. There are a number of options that could be considered based on published clinical trial data, but first-line treatment relies on systemic therapy. Induction platinum-based chemotherapy or enfortumab vedotin with pembrolizumab (EV + P) combination could be considered for these patients [257,258]. Radical nephroureterectomy with template-based LND can be discussed in a multidisciplinary team for patients responding to initial systemic therapy [259]. A systematic review and meta-analysis of 15 studies showed that induction chemotherapy followed by RNU is associated with greater odds of pathological downstaging (response rate = 3.06; 95% CI: 2.48-3.77) and appears to prolong OS compared with RNU plus AC. However, the analysis is limited by the heterogeneity of the studies, fewer adjuvant trials, and differences in how nodal status was reported in the studies (e.g. type of nodal surgery) [259]. In addition, no data are available on the use of RNU combined with EV + P in these patients. In patients whose cancer is stable or progresses, maintenance avelumab or second-line treatment can be offered, similar to distant metastatic disease. Unresectable cN+ patients should be treated as distant metastatic patients.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-3-2-distant-metastases",
+      "title": "7.3.2. Distant metastases",
+      "level": 4,
+      "text": "7.3.2.a. Systemic treatments - first-line setting 7.3.2.a.1. Enfortumab vedotin plus pembrolizumab combination therapy For more than 23 years, despite multiple attempts with new agents and/or combinations of treatments, platinum-based chemotherapy remained the standard of care for previously untreated advanced or metastatic UC. In October 2023, the landscape changed dramatically with the EV302 phase III randomised multicentre study. This compared the nectin-4–directed antibody–drug conjugate EV + P with platinum-based combination chemotherapy (gemcitabine-cisplatin or gemcitabine-carboplatin. See Table 2 for the definition of cisplatin eligibility). The study showed significant improvement in both PFS (HR: 0.45; 95% CI: 0.38-0.54) and OS (HR: 0.47; 95% CI: 0.38-0.58) with a response rate of 68% (vs. 44%) and a CR of 29%. Overall survival benefit was seen across subgroups regardless of cisplatin eligibility. The most common grade 3 or above treatment-related AEs of special interest included skin reactions (15.5%), peripheral neuropathy (6.8%) and hyperglycaemia (6.1%). The proportion of UTUC patients in this study was 25% and preplanned subgroup analysis showed benefit irrespective of tumour location [260]. Sequencing of treatment after EV + P is currently unclear and later-line treatments will depend on what agents the patient has previously received (Figure 7.3). 7.3.2.a.2. Patients ineligible for enfortumab vedotin plus pembrolizumab and fit for cisplatin-based combination chemotherapy Upper tract UC and urothelial BC both respond to systemic platinum-based chemotherapy. Eligibility for platinum-based chemotherapy in the metastatic setting is based on the same criteria outlined in Table 2. A retrospective analysis of three RCTs showed that primary tumour location in the lower or upper urinary tract had no impact on progression-free survival (PFS) or OS in patients with locally advanced or metastatic UC treated with platinum-based combination chemotherapy [261]. Therefore, cisplatin-containing combination chemotherapy is the standard treatment for advanced or metastatic UTUC in patients who are ineligible for EV + P [2]. A number of cisplatin-containing chemotherapy regimens have proven efficacy, although gemcitabine and cisplatin are the most widely used. The use of cisplatin-based chemotherapy is widely considered in patients with eGFR > 45mL/min [261]. The efficacy of immunotherapy using programmed death 1 (PD-1) or PD-L1 inhibitors has been evaluated in the first-line setting for the treatment of cisplatin/carboplatin-fit patients with metastatic UC, including those with UTUC [262]. First-line immune CPIs or the combination of platinum-based chemotherapy with immune CPIs have not previously resulted in positive significant survival advantages and were thus not previously recommended [263-265]. These studies included both cisplatin and carboplatin combinations. A phase III RCT in advanced/metastatic UC has now shown an OS benefit from the addition of nivolumab to chemotherapy (gemcitabine-cisplatin). Median OS was improved (21.7 months vs. 18.9 months; HR: 0.78; 95% CI: 0.63-0.96) as well as median PFS (7.9 months vs. 7.6 months; HR: 0.72; 95% CI: 0.59-0.88). Objective response rates were 57.6% compared with 43.1% for chemotherapy alone [266]. Although there is no subgroup analysis based on tumour position in this study, 12.6% of patients had UTUC. 7.3.2.a.3. Patients ineligible for enfortumab vedotin plus pembrolizumab and unfit for cisplatin-based combination chemotherapy Carboplatin-based chemotherapy is recommended in patients unfit for cisplatin [2]. Carboplatin with gemcitabine is the preferred regimen [267], irrespective of PD-L1 status. In a critical re-analysis of RCTs comparing OS after cisplatin versus carboplatin-based regimens in advanced UC, cisplatin conferred a minor OS benefit compared to carboplatin [268]. 7.3.2.a.4. Maintenance therapy after first-line platinum-based chemotherapy Maintenance avelumab is recommended in patients with complete/partial response or stable disease after four to six cycles of platinum-based chemotherapy, given in the first line setting only. Data from a phase III RCT showed that the use of maintenance avelumab therapy after four to six cycles of gemcitabine plus cisplatin or carboplatin (started within ten weeks of completion of first-line platinum-based chemotherapy) significantly prolonged OS as compared to best supportive care alone in those patients with advanced or metastatic UC who did not experience disease progression during, or responded to, first-line chemotherapy (HR: 0.69; 95% CI: 0.56-0.86) [269,270]. An increase in median OS from 14 to 21 months was observed with avelumab. Although no subgroup analysis based on tumour location was available in this study, almost 30% of the included patients had UTUC. Similarly, in a phase II study comprising 108 patients with metastatic UC achieving at least stable disease on first-line platinum-based chemother",
+      "tables": []
+    },
+    {
+      "anchor": "#7-3-3-summary-of-evidence-and-recommendations-for-the-treatment-of-metastatic-upper-urinary-tract-urothelial-carcinoma",
+      "title": "7.3.3. Summary of evidence and recommendations for the treatment of metastatic upper urinary tract urothelial carcinoma",
+      "level": 4,
+      "text": "Summary of evidence LE Enfortumab vedotin plus pembrolizumab offers an OS benefit compared to gemcitabine-cisplatin in the first-line setting. 1b Cisplatin-based combination chemotherapy can improve median survival. 2 Cisplatin-containing combination chemotherapy is the standard of care in advanced or metastatic patients fit enough to tolerate cisplatin and who are ineligible for EV + P. 1b Cisplatin-containing combination chemotherapy in combination with nivolumab offers a survival advantage compared with chemotherapy alone in the first-line setting. 1b Carboplatin-based combination chemotherapy offers a survival benefit in cisplatin unfit patients. 1b Non-platinum combination chemotherapy has not been tested against standard chemotherapy in patients who are fit or unfit for cisplatin combination chemotherapy. 4 Maintenance avelumab is associated with an OS advantage compared with best supportive care in patients who did not have disease progression after four to six cycles of gemcitabine plus either cisplatin or carboplatin. 1b Pembrolizumab, a PD-1 inhibitor, has been approved for patients who have experienced disease progression during or after previous platinum-based chemotherapy and did not receive previous immune therapy, based on the results of a phase III trial. 1b Nivolumab, a PD-1 inhibitor, has been approved for patients who have experienced disease progression during or after previous platinum-based chemotherapy and did not receive previous immune therapy, based on the results of a phase II trial. 2a Pembrolizumab, a PD-1 inhibitor, has been approved for patients with advanced or metastatic UC unfit for platinum-based first-line chemotherapy, based on the results of a phase II trial, but use of pembrolizumab is restricted to PD-L1 positive patients. 2a Atezolizumab, a PD-L1 inhibitor, has been approved for patients with advanced or metastatic UC unfit for platinum-based first-line chemotherapy, based on the results of a phase II trial, but use of atezolizumab is restricted to PD-L1 positive patients. 2a Erdafitinib was associated with improved OS in platinum-refractory patients with locally advanced or metastatic UC and FGFR DNA genomic alterations ( FGFR 2/3 mutations or FGFR 3 fusions). 1b Enfortumab vedotin was associated with OS benefit in patients who had previously received platinum-containing chemotherapy and experienced disease progression during or after treatment with a PD-1 or PD-L1 inhibitor. 1b Palliative RNU can improve quality of life by controlling symptomatic disease. 3 Radical nephroureterectomy could confer a survival benefit in highly selected patients with metastatic UC, for example, after response to platinum-based combination chemotherapy with limited metastatic burden. 4 Recommendations Strength rating Offer EV + P as first-line treatment to patients with advanced/metastatic disease. Strong First-line treatment for platinum-eligible patients who are unsuitable/ineligible for EV + P Offer platinum combination chemotherapy to platinum-eligible patients. Strong Offer cisplatin-based chemotherapy with gemcitabine-cisplatin plus nivolumab in cisplatin-eligible patients. Weak Offer cisplatin-based chemotherapy with gemcitabine/cisplatin or HD-MVAC to cisplatin-eligible patients. Strong Offer gemcitabine/carboplatin chemotherapy to cisplatin-ineligible patients. Strong Offer maintenance avelumab to patients who did not have disease progression after four to six cycles of platinum-based combination chemotherapy. Strong First-line treatment in patients ineligible for any combination therapy Offer CPIs pembrolizumab or atezolizumab to patients with PD-L1 positive tumours. Weak Later lines of treatment Offer platinum-based combination chemotherapy as second-line treatment of choice if not received in the first-line setting. Strong Offer CPI (pembrolizumab) to patients with disease progression during or after platinum-based combination chemotherapy for metastatic disease who did not receive maintenance avelumab. Strong Offer EV to patients previously treated with platinum-containing chemotherapy and who had disease progression during or after treatment with a PD-1 or PD-L1 inhibitor. Strong Offer erdafitinib as an alternative subsequent-line therapy to patients: previously treated with platinum-containing chemotherapy who had disease progression during or after treatment with a PD-1 or PD-L1 inhibitor who harbour FGFR DNA genomic alterations ( FGFR 2/3 mutations or FGFR 3 fusions). Strong Only offer vinflunine to patients with metastatic disease as second-line treatment if immunotherapy or combination chemotherapy is not feasible. Alternatively, offer vinflunine as third- or subsequent-line treatment. Strong Offer RNU as a palliative treatment to symptomatic patients with resectable locally advanced tumours. Weak CPI = checkpoint inhibitors; DNA = deoxyribonucleic acid; EV = enfortumab vedotin; EV + P = enfortumab vedotin plus pembrolizumab; FGFR = fibroblast growth factor receptors",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Enfortumab vedotin plus pembrolizumab offers an OS benefit compared to gemcitabine-cisplatin in the first-line setting.",
+              "1b"
+            ],
+            [
+              "Cisplatin-based combination chemotherapy can improve median survival.",
+              "2"
+            ],
+            [
+              "Cisplatin-containing combination chemotherapy is the standard of care in advanced or metastatic patients fit enough to tolerate cisplatin and who are ineligible for EV + P.",
+              "1b"
+            ],
+            [
+              "Cisplatin-containing combination chemotherapy in combination with nivolumab offers a survival advantage compared with chemotherapy alone in the first-line setting.",
+              "1b"
+            ],
+            [
+              "Carboplatin-based combination chemotherapy offers a survival benefit in cisplatin unfit patients.",
+              "1b"
+            ],
+            [
+              "Non-platinum combination chemotherapy has not been tested against standard chemotherapy in patients who are fit or unfit for cisplatin combination chemotherapy.",
+              "4"
+            ],
+            [
+              "Maintenance avelumab is associated with an OS advantage compared with best supportive care in patients who did not have disease progression after four to six cycles of gemcitabine plus either cisplatin or carboplatin.",
+              "1b"
+            ],
+            [
+              "Pembrolizumab, a PD-1 inhibitor, has been approved for patients who have experienced disease progression during or after previous platinum-based chemotherapy and did not receive previous immune therapy, based on the results of a phase III trial.",
+              "1b"
+            ],
+            [
+              "Nivolumab, a PD-1 inhibitor, has been approved for patients who have experienced disease progression during or after previous platinum-based chemotherapy and did not receive previous immune therapy, based on the results of a phase II trial.",
+              "2a"
+            ],
+            [
+              "Pembrolizumab, a PD-1 inhibitor, has been approved for patients with advanced or metastatic UC unfit for platinum-based first-line chemotherapy, based on the results of a phase II trial, but use of pembrolizumab is restricted to PD-L1 positive patients.",
+              "2a"
+            ],
+            [
+              "Atezolizumab, a PD-L1 inhibitor, has been approved for patients with advanced or metastatic UC unfit for platinum-based first-line chemotherapy, based on the results of a phase II trial, but use of atezolizumab is restricted to PD-L1 positive patients.",
+              "2a"
+            ],
+            [
+              "Erdafitinib was associated with improved OS in platinum-refractory patients with locally advanced or metastatic UC and FGFR DNA genomic alterations (FGFR 2/3 mutations or FGFR 3 fusions).",
+              "1b"
+            ],
+            [
+              "Enfortumab vedotin was associated with OS benefit in patients who had previously received platinum-containing chemotherapy and experienced disease progression during or after treatment with a PD-1 or PD-L1 inhibitor.",
+              "1b"
+            ],
+            [
+              "Palliative RNU can improve quality of life by controlling symptomatic disease.",
+              "3"
+            ],
+            [
+              "Radical nephroureterectomy could confer a survival benefit in highly selected patients with metastatic UC, for example, after response to platinum-based combination chemotherapy with limited metastatic burden.",
+              "4"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer EV + P as first-line treatment to patients with advanced/metastatic disease.",
+              "Strong"
+            ],
+            [
+              "First-line treatment for platinum-eligible patients who are unsuitable/ineligible for EV + P"
+            ],
+            [
+              "Offer platinum combination chemotherapy to platinum-eligible patients.",
+              "Strong"
+            ],
+            [
+              "Offer cisplatin-based chemotherapy with gemcitabine-cisplatin plus nivolumab in cisplatin-eligible patients.",
+              "Weak"
+            ],
+            [
+              "Offer cisplatin-based chemotherapy with gemcitabine/cisplatin or HD-MVAC to cisplatin-eligible patients.",
+              "Strong"
+            ],
+            [
+              "Offer gemcitabine/carboplatin chemotherapy to cisplatin-ineligible patients.",
+              "Strong"
+            ],
+            [
+              "Offer maintenance avelumab to patients who did not have disease progression after four to six cycles of platinum-based combination chemotherapy.",
+              "Strong"
+            ],
+            [
+              "First-line treatment in patients ineligible for any combination therapy"
+            ],
+            [
+              "Offer CPIs pembrolizumab or atezolizumab to patients with PD-L1 positive tumours.",
+              "Weak"
+            ],
+            [
+              "Later lines of treatment"
+            ],
+            [
+              "Offer platinum-based combination chemotherapy as second-line treatment of choice if not received in the first-line setting.",
+              "Strong"
+            ],
+            [
+              "Offer CPI (pembrolizumab) to patients with disease progression during or after platinum-based combination chemotherapy for metastatic disease who did not receive maintenance avelumab.",
+              "Strong"
+            ],
+            [
+              "Offer EV to patients previously treated with platinum-containing chemotherapy and who had disease progression during or after treatment with a PD-1 or PD-L1 inhibitor.",
+              "Strong"
+            ],
+            [
+              "Offer erdafitinib as an alternative subsequent-line therapy to patients:previously treated with platinum-containing chemotherapywho had disease progression during or after treatment with a PD-1 or PD-L1 inhibitorwho harbour FGFR DNA genomic alterations (FGFR 2/3 mutations or FGFR 3 fusions).",
+              "Strong"
+            ],
+            [
+              "Only offer vinflunine to patients with metastatic disease as second-line treatment if immunotherapy or combination chemotherapy is not feasible. Alternatively, offer vinflunine as third- or subsequent-line treatment.",
+              "Strong"
+            ],
+            [
+              "Offer RNU as a palliative treatment to symptomatic patients with resectable locally advanced tumours.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 6
+}

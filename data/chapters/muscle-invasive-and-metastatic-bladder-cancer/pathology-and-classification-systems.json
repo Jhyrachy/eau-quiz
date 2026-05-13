@@ -1,0 +1,1068 @@
+{
+  "guideline": "muscle-invasive-and-metastatic-bladder-cancer",
+  "chapter": "pathology-and-classification-systems",
+  "url": "https://uroweb.org/guidelines/muscle-invasive-and-metastatic-bladder-cancer/chapter/pathology-and-classification-systems",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Future goals",
+      "anchor": "#2-3-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AND AETIOLOGY",
+      "anchor": "#3-epidemiology-and-aetiology"
+    },
+    {
+      "level": 2,
+      "text": "3.1 Clinical presentation",
+      "anchor": "#3-1-clinical-presentation"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Aetiology",
+      "anchor": "#3-3-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Tobacco smoking",
+      "anchor": "#3-3-1-tobacco-smoking"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Occupational exposure to chemicals",
+      "anchor": "#3-3-2-occupational-exposure-to-chemicals"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Radiotherapy",
+      "anchor": "#3-3-3-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Dietary factors",
+      "anchor": "#3-3-4-dietary-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. Metabolic disorders",
+      "anchor": "#3-3-5-metabolic-disorders"
+    },
+    {
+      "level": 4,
+      "text": "3.3.6. Bladder schistosomiasis and chronic urinary tract infection",
+      "anchor": "#3-3-6-bladder-schistosomiasis-and-chronic-urinary-tract-infection"
+    },
+    {
+      "level": 4,
+      "text": "3.3.7. Sex",
+      "anchor": "#3-3-7-sex"
+    },
+    {
+      "level": 4,
+      "text": "3.3.8. Genetic factors",
+      "anchor": "#3-3-8-genetic-factors"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Summary of evidence and recommendations for epidemiology and risk factors",
+      "anchor": "#3-4-summary-of-evidence-and-recommendations-for-epidemiology-and-risk-factors"
+    },
+    {
+      "level": 2,
+      "text": "4. PATHOLOGY AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-pathology-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Cytology",
+      "anchor": "#4-1-cytology"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Histology",
+      "anchor": "#4-2-histology"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Pathological staging",
+      "anchor": "#4-3-pathological-staging"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Tumour, Node, Metastasis classification",
+      "anchor": "#4-4-tumour-node-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Pathological markers",
+      "anchor": "#4-5-pathological-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Lymphovascular invasion",
+      "anchor": "#4-5-1-lymphovascular-invasion"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Carcinoma",
+      "anchor": "#4-5-2-carcinoma"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Tumour location",
+      "anchor": "#4-5-3-tumour-location"
+    },
+    {
+      "level": 4,
+      "text": "4.5.4. Lymph node-positive disease",
+      "anchor": "#4-5-4-lymph-node-positive-disease"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Tissue handling",
+      "anchor": "#4-6-tissue-handling"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Recommendations for the assessment of tumour specimens",
+      "anchor": "#4-7-recommendations-for-the-assessment-of-tumour-specimens"
+    },
+    {
+      "level": 3,
+      "text": "4.8. EAU-ESMO consensus statements on the management of advanced- and variant bladder cancer [82, 83]*",
+      "anchor": "#4-8-eau-esmo-consensus-statements-on-the-management-of-advanced--and-variant-bladder-cancer-82-83"
+    },
+    {
+      "level": 3,
+      "text": "4.9. Markers",
+      "anchor": "#4-9-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.9.1. Introduction",
+      "anchor": "#4-9-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "4.9.2. Clinical and histopathological markers",
+      "anchor": "#4-9-2-clinical-and-histopathological-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.9.3. Molecular variants",
+      "anchor": "#4-9-3-molecular-variants"
+    },
+    {
+      "level": 4,
+      "text": "4.9.4. Molecular markers",
+      "anchor": "#4-9-4-molecular-markers"
+    },
+    {
+      "level": 4,
+      "text": "4.9.5. Conclusion",
+      "anchor": "#4-9-5-conclusion"
+    },
+    {
+      "level": 4,
+      "text": "4.9.6. Summary of evidence and recommendations for urothelial markers",
+      "anchor": "#4-9-6-summary-of-evidence-and-recommendations-for-urothelial-markers"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSIS",
+      "anchor": "#5-diagnosis"
+    },
+    {
+      "level": 3,
+      "text": "5.1. History and physical examination",
+      "anchor": "#5-1-history-and-physical-examination"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Urine cytology",
+      "anchor": "#5-2-urine-cytology"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Cystoscopy",
+      "anchor": "#5-3-cystoscopy"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Transurethral resection of invasive bladder tumours",
+      "anchor": "#5-4-transurethral-resection-of-invasive-bladder-tumours"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Summary of evidence and recommendations for the primary assessment of presumably invasive bladder tumours*",
+      "anchor": "#5-5-summary-of-evidence-and-recommendations-for-the-primary-assessment-of-presumably-invasive-bladder-tumours"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Imaging for staging",
+      "anchor": "#5-6-imaging-for-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.1. Local staging",
+      "anchor": "#5-6-1-local-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.2. Upper tract evaluation",
+      "anchor": "#5-6-2-upper-tract-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "5.6.3. Lymph node staging",
+      "anchor": "#5-6-3-lymph-node-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.4. Distant staging",
+      "anchor": "#5-6-4-distant-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.6.5. Future perspectives",
+      "anchor": "#5-6-5-future-perspectives"
+    },
+    {
+      "level": 4,
+      "text": "5.6.6. Summary of evidence and recommendations for staging in MIBC",
+      "anchor": "#5-6-6-summary-of-evidence-and-recommendations-for-staging-in-mibc"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT",
+      "anchor": "#6-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Multidisciplinary team for patients with MIBC",
+      "anchor": "#6-1-multidisciplinary-team-for-patients-with-mibc"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Recommendations for a multidisciplinary team",
+      "anchor": "#6-1-1-recommendations-for-a-multidisciplinary-team"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Health status assessment",
+      "anchor": "#6-2-health-status-assessment"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Evaluation of comorbidity, frailty and cognition",
+      "anchor": "#6-3-evaluation-of-comorbidity-frailty-and-cognition"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Comorbidity scales, anaesthetic risk classification and geriatric assessment",
+      "anchor": "#6-4-comorbidity-scales-anaesthetic-risk-classification-and-geriatric-assessment"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Summary of evidence and recommendations for comorbidity scales",
+      "anchor": "#6-4-1-summary-of-evidence-and-recommendations-for-comorbidity-scales"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Perioperative systemic therapy",
+      "anchor": "#6-5-perioperative-systemic-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.5.1. Neoadjuvant",
+      "anchor": "#6-5-1-neoadjuvant"
+    },
+    {
+      "level": 4,
+      "text": "6.5.2. Adjuvant therapy",
+      "anchor": "#6-5-2-adjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Perioperative radiotherapy",
+      "anchor": "#6-6-perioperative-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.6.1. Preoperative radiotherapy",
+      "anchor": "#6-6-1-preoperative-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.6.2. Postoperative radiotherapy",
+      "anchor": "#6-6-2-postoperative-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.6.3. Summary of evidence and recommendations for pre- and postoperative radiotherapy",
+      "anchor": "#6-6-3-summary-of-evidence-and-recommendations-for-pre--and-postoperative-radiotherapy"
+    },
+    {
+      "level": 3,
+      "text": "6.7. Radical cystectomy with pelvic lymph node dissection",
+      "anchor": "#6-7-radical-cystectomy-with-pelvic-lymph-node-dissection"
+    },
+    {
+      "level": 4,
+      "text": "6.7.1. Removal of the tumour-bearing bladder",
+      "anchor": "#6-7-1-removal-of-the-tumour-bearing-bladder"
+    },
+    {
+      "level": 4,
+      "text": "6.7.2. Radical cystectomy: technique and extent",
+      "anchor": "#6-7-2-radical-cystectomy-technique-and-extent"
+    },
+    {
+      "level": 4,
+      "text": "6.7.3. Lymphadenectomy: role and extent",
+      "anchor": "#6-7-3-lymphadenectomy-role-and-extent"
+    },
+    {
+      "level": 4,
+      "text": "6.7.4. Robotic-assisted laparoscopic cystectomy",
+      "anchor": "#6-7-4-robotic-assisted-laparoscopic-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.7.5. Urinary diversion after radical cystectomy",
+      "anchor": "#6-7-5-urinary-diversion-after-radical-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.7.6. Morbidity and mortality",
+      "anchor": "#6-7-6-morbidity-and-mortality"
+    },
+    {
+      "level": 4,
+      "text": "6.7.7. Survival",
+      "anchor": "#6-7-7-survival"
+    },
+    {
+      "level": 4,
+      "text": "6.7.8. Impact of hospital and surgeon volume on treatment outcomes",
+      "anchor": "#6-7-8-impact-of-hospital-and-surgeon-volume-on-treatment-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "6.7.9. Summary of evidence and recommendations for quality indicators in radical cystectomy",
+      "anchor": "#6-7-9-summary-of-evidence-and-recommendations-for-quality-indicators-in-radical-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.7.10. Palliative cystectomy",
+      "anchor": "#6-7-10-palliative-cystectomy"
+    },
+    {
+      "level": 3,
+      "text": "6.8. Trimodality therapy",
+      "anchor": "#6-8-trimodality-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.8.1. Trimodality bladder-preserving treatment",
+      "anchor": "#6-8-1-trimodality-bladder-preserving-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.9. External beam radiotherapy",
+      "anchor": "#6-9-external-beam-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.9.1. Definitive external beam radiotherapy",
+      "anchor": "#6-9-1-definitive-external-beam-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.9.2. Palliative external beam radiotherapy",
+      "anchor": "#6-9-2-palliative-external-beam-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.9.3. Summary of evidence and recommendation for external beam radiotherapy",
+      "anchor": "#6-9-3-summary-of-evidence-and-recommendation-for-external-beam-radiotherapy"
+    },
+    {
+      "level": 3,
+      "text": "6.10. Other approaches",
+      "anchor": "#6-10-other-approaches"
+    },
+    {
+      "level": 4,
+      "text": "6.10.1. Transurethral resection of bladder tumour",
+      "anchor": "#6-10-1-transurethral-resection-of-bladder-tumour"
+    },
+    {
+      "level": 4,
+      "text": "6.10.2. Chemotherapy",
+      "anchor": "#6-10-2-chemotherapy"
+    },
+    {
+      "level": 2,
+      "text": "7. FOLLOW-UP AND SURVEILLANCE",
+      "anchor": "#7-follow-up-and-surveillance"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Response to neoadjuvant therapy",
+      "anchor": "#7-1-response-to-neoadjuvant-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.1.1. Recommendation for response to neoadjuvant therapy",
+      "anchor": "#7-1-1-recommendation-for-response-to-neoadjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Follow-up after radical cystectomy",
+      "anchor": "#7-2-follow-up-after-radical-cystectomy"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Follow-up after trimodality therapy",
+      "anchor": "#7-3-follow-up-after-trimodality-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Follow-up of functional outcomes and complications",
+      "anchor": "#7-4-follow-up-of-functional-outcomes-and-complications"
+    },
+    {
+      "level": 2,
+      "text": "8. RECURRENT DISEASE",
+      "anchor": "#8-recurrent-disease"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Intravesical recurrence",
+      "anchor": "#8-1-intravesical-recurrence"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Post-trimodality therapy bladder recurrences and salvage cystectomy",
+      "anchor": "#8-1-1-post-trimodality-therapy-bladder-recurrences-and-salvage-cystectomy"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Salvage cystectomy post-trimodality therapy",
+      "anchor": "#8-1-2-salvage-cystectomy-post-trimodality-therapy"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Recommendation for salvage cystectomy",
+      "anchor": "#8-1-3-recommendation-for-salvage-cystectomy"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Pelvic recurrence",
+      "anchor": "#8-2-pelvic-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Upper tract recurrence",
+      "anchor": "#8-3-upper-tract-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.4. Urethral recurrence",
+      "anchor": "#8-4-urethral-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.5. Distant recurrence",
+      "anchor": "#8-5-distant-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "8.6. Summary of evidence and recommendations for specific recurrence sites",
+      "anchor": "#8-6-summary-of-evidence-and-recommendations-for-specific-recurrence-sites"
+    },
+    {
+      "level": 2,
+      "text": "9. METASTATIC DISEASE",
+      "anchor": "#9-metastatic-disease"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Introduction",
+      "anchor": "#9-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Management of oligometastatic bladder cancer",
+      "anchor": "#9-2-management-of-oligometastatic-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "9.3. First-line systemic therapy for metastatic disease: patient selection",
+      "anchor": "#9-3-first-line-systemic-therapy-for-metastatic-disease-patient-selection"
+    },
+    {
+      "level": 3,
+      "text": "9.4. First-line therapy in patients fit for combination therapy",
+      "anchor": "#9-4-first-line-therapy-in-patients-fit-for-combination-therapy"
+    },
+    {
+      "level": 4,
+      "text": "9.4.1. Enfortumab vedotin plus pembrolizumab",
+      "anchor": "#9-4-1-enfortumab-vedotin-plus-pembrolizumab"
+    },
+    {
+      "level": 4,
+      "text": "9.4.2. Patients eligible for combination therapy but not eligible for enfortumab vedotin or enfortumab vedotin not available",
+      "anchor": "#9-4-2-patients-eligible-for-combination-therapy-but-not-eligible-for-enfortumab-vedotin-or-enfortumab-vedotin-not-available"
+    },
+    {
+      "level": 3,
+      "text": "9.5. First-line therapy in patients not eligible for combination therapy",
+      "anchor": "#9-5-first-line-therapy-in-patients-not-eligible-for-combination-therapy"
+    },
+    {
+      "level": 3,
+      "text": "9.6. Results of other trials integrating immunotherapy in the first-line setting without overall survival benefit",
+      "anchor": "#9-6-results-of-other-trials-integrating-immunotherapy-in-the-first-line-setting-without-overall-survival-benefit"
+    },
+    {
+      "level": 3,
+      "text": "9.7. Further-line systemic therapy for metastatic disease",
+      "anchor": "#9-7-further-line-systemic-therapy-for-metastatic-disease"
+    },
+    {
+      "level": 4,
+      "text": "9.7.1. Introduction",
+      "anchor": "#9-7-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "9.7.2. Chemotherapy",
+      "anchor": "#9-7-2-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "9.7.3. Immunotherapy for platinum-pretreated patients without previous immunotherapy",
+      "anchor": "#9-7-3-immunotherapy-for-platinum-pretreated-patients-without-previous-immunotherapy"
+    },
+    {
+      "level": 3,
+      "text": "9.8. Integration of other agents",
+      "anchor": "#9-8-integration-of-other-agents"
+    },
+    {
+      "level": 4,
+      "text": "9.8.1. Enfortumab vedotin monotherapy",
+      "anchor": "#9-8-1-enfortumab-vedotin-monotherapy"
+    },
+    {
+      "level": 4,
+      "text": "9.8.2. Sacituzumab govitecan",
+      "anchor": "#9-8-2-sacituzumab-govitecan"
+    },
+    {
+      "level": 4,
+      "text": "9.8.3. FGFR inhibition",
+      "anchor": "#9-8-3-fgfr-inhibition"
+    },
+    {
+      "level": 4,
+      "text": "9.8.4. HER2 targeted agents",
+      "anchor": "#9-8-4-her2-targeted-agents"
+    },
+    {
+      "level": 4,
+      "text": "9.8.6. Systemic treatment of metastatic disease with histology other than pure urothelial carcinoma",
+      "anchor": "#9-8-6-systemic-treatment-of-metastatic-disease-with-histology-other-than-pure-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "9.9. Treatment of patients with bone metastases",
+      "anchor": "#9-9-treatment-of-patients-with-bone-metastases"
+    },
+    {
+      "level": 3,
+      "text": "9.10. Treatment algorithm for metastatic urothelial cancer",
+      "anchor": "#9-10-treatment-algorithm-for-metastatic-urothelial-cancer"
+    },
+    {
+      "level": 3,
+      "text": "9.11. Summary of evidence and recommendations for metastatic disease",
+      "anchor": "#9-11-summary-of-evidence-and-recommendations-for-metastatic-disease"
+    },
+    {
+      "level": 2,
+      "text": "10. QUALITY OF LIFE AND PALLIATIVE CARE",
+      "anchor": "#10-quality-of-life-and-palliative-care"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Introduction",
+      "anchor": "#10-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Neoadjuvant therapy",
+      "anchor": "#10-2-neoadjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Radical cystectomy and urinary diversion",
+      "anchor": "#10-3-radical-cystectomy-and-urinary-diversion"
+    },
+    {
+      "level": 3,
+      "text": "10.4. Adjuvant therapy",
+      "anchor": "#10-4-adjuvant-therapy"
+    },
+    {
+      "level": 3,
+      "text": "10.5. Bladder-sparing trimodality therapy",
+      "anchor": "#10-5-bladder-sparing-trimodality-therapy"
+    },
+    {
+      "level": 3,
+      "text": "10.6. Noncurative or metastatic bladder cancer",
+      "anchor": "#10-6-noncurative-or-metastatic-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "10.7. Summary of evidence and recommendations for health-related quality of life",
+      "anchor": "#10-7-summary-of-evidence-and-recommendations-for-health-related-quality-of-life"
+    },
+    {
+      "level": 3,
+      "text": "10.8. Supportive care",
+      "anchor": "#10-8-supportive-care"
+    },
+    {
+      "level": 4,
+      "text": "10.8.1. Obstruction of the upper urinary tract",
+      "anchor": "#10-8-1-obstruction-of-the-upper-urinary-tract"
+    },
+    {
+      "level": 4,
+      "text": "10.8.2. Bleeding and pain",
+      "anchor": "#10-8-2-bleeding-and-pain"
+    },
+    {
+      "level": 2,
+      "text": "11. REFERENCES",
+      "anchor": "#11-references"
+    },
+    {
+      "level": 2,
+      "text": "12. CONFLICT OF INTEREST",
+      "anchor": "#12-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "13. CITATION INFORMATION",
+      "anchor": "#13-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "14. COPYRIGHT AND TERMS OF USE ",
+      "anchor": "#14-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#muscle-invasive-and-metastatic-bladder-cancer",
+      "title": "Muscle-invasive and Metastatic Bladder Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 4. Pathology And Classification Systems Introduction Methods Epidemiology And Aetiology Pathology And Classification Systems Diagnosis Disease Management Follow-up And Surveillance Recurrent Disease Metastatic Disease Quality Of Life And Palliative Care References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#4-pathology-and-classification-systems",
+      "title": "4. PATHOLOGY AND CLASSIFICATION SYSTEMS",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-cytology",
+      "title": "4.1. Cytology",
+      "level": 3,
+      "text": "Evaluation of cytology specimens can be hampered by low cellular yield, UTIs, stones or intravesical instillations, but for experienced readers, specificity exceeds 90% [48,49]. However, negative cytology does not exclude a tumour. A standardised reporting system, known as The Paris System, published in 2022 (2 nd Edn.) redefined urinary cytology diagnostic categories and full category names should always be cited [50]: adequacy of urine specimens (Adequacy) negative for high-grade UC (Negative) atypical urothelial cells (AUC) suspicious for high-grade UC (SHGUC) high-grade UC (HGUC)",
+      "tables": []
+    },
+    {
+      "anchor": "#4-2-histology",
+      "title": "4.2. Histology",
+      "level": 3,
+      "text": "All muscle invasive UCs of the bladder are high grade. For this reason, no prognostic information can be provided by grading MIBC [51]. Identification of morphological subtypes is important for prognostic reasons and treatment decisions [52,53]. The data presented in these Guidelines are based on the 2004/2016 World Health Organization (WHO) classifications. An update was presented in 2022 [51]. Currently, the following subtypes of UC are used [54]: urothelial carcinoma (more than 90% of cases) urothelial carcinomas with partial squamous and/or glandular or divergent differentiation micropapillary UC nested/microcystic large nested UC microtubular UC plasmacytoid, signet ring lymphoepithelioma-like giant cell, diffuse, undifferentiated sarcomatoid UC some UCs with other rare differentiations urothelial carcinomas with partial neuroendocrine (NE) differentiation (% to be given) pure NE carcinoma (including small and large cell NE carcinomas [51]). The percentage of subtype in the specimen must be reported, as it has been shown to be of prognostic value [55]. The majority of subtypes are MIBC, with no more than 15-30% being NMIBC [51,55-61].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-3-pathological-staging",
+      "title": "4.3. Pathological staging",
+      "level": 3,
+      "text": "For staging, the Tumour, Node, Metastasis (TNM) classification (2025, 9 th edition) is recommended [62]. Blood and lymphatic vessel invasion have an independent prognostic significance [63].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-4-tumour-node-metastasis-classification",
+      "title": "4.4. Tumour, Node, Metastasis classification",
+      "level": 3,
+      "text": "The TNM Classification of malignant tumours is the method most widely used to classify the extent of cancer spread [62] (Table 4.1). Table 4.1: Tumour, Node, Metastasis Classification of urinary bladder cancer [62] Tumour, Node, Metastasis Classification of urinary bladder cancer T - Primary tumour Tx Primary tumour cannot be assessed T0 No evidence of primary tumour Ta Non-invasive papillary carcinoma Tis Carcinoma in situ : “flat tumour” T1 Tumour invades subepithelial connective tissue T2 Tumour invades muscle T2a Tumour invades superficial muscle (inner half) T2b Tumour invades deep muscle (outer half) T3 Tumour invades perivesical tissue: T3a microscopically T3b macroscopically (extravesical mass) T4 Tumour invades any of the following: prostate stroma, seminal vesicles, uterus, vagina, pelvic wall, abdominal wall T4a Tumour invades prostate stroma, seminal vesicles, uterus or vagina T4b Tumour invades pelvic wall or abdominal wall N - Regional lymph nodes Nx Regional lymph nodes cannot be assessed N0 No regional lymph node metastasis N1 Metastasis in a single lymph node in the true pelvis (hypogastric, obturator, external iliac or presacral) N2 Metastasis in multiple regional lymph nodes in the true pelvis (hypogastric, obturator, external iliac or presacral) N3 Metastasis in a common iliac lymph node(s) M - Distant metastasis M0 No distant metastasis M1a Nonregional lymph nodes M1b Other distant metastasis Staging after neoadjuvant chemotherapy (NAC) and RC can be done but must be reported as ypTNM (International Collaboration on Cancer Reporting) [64]. ypT0N0 after NAC and cystectomy is associated with better prognosis [51,65,66]. Photodynamic diagnosis (PDD) is highly sensitive for detecting CIS. In experienced hands, the false-positive rate may be similar to that of conventional white-light cystoscopy [67,68].",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Tumour, Node, Metastasis Classification of urinary bladder cancer"
+            ],
+            [
+              "T - Primary tumour"
+            ],
+            [
+              "Tx",
+              "Primary tumour cannot be assessed"
+            ],
+            [
+              "T0",
+              "No evidence of primary tumour"
+            ],
+            [
+              "Ta",
+              "Non-invasive papillary carcinoma"
+            ],
+            [
+              "Tis",
+              "Carcinoma in situ: “flat tumour”"
+            ],
+            [
+              "T1",
+              "Tumour invades subepithelial connective tissue"
+            ],
+            [
+              "T2",
+              "Tumour invades muscle"
+            ],
+            [
+              "T2a",
+              "Tumour invades superficial muscle (inner half)"
+            ],
+            [
+              "T2b",
+              "Tumour invades deep muscle (outer half)"
+            ],
+            [
+              "T3",
+              "Tumour invades perivesical tissue:"
+            ],
+            [
+              "T3a",
+              "microscopically"
+            ],
+            [
+              "T3b",
+              "macroscopically (extravesical mass)"
+            ],
+            [
+              "T4",
+              "Tumour invades any of the following: prostate stroma, seminal vesicles, uterus, vagina, pelvic wall, abdominal wall"
+            ],
+            [
+              "T4a",
+              "Tumour invades prostate stroma, seminal vesicles, uterus or vagina"
+            ],
+            [
+              "T4b",
+              "Tumour invades pelvic wall or abdominal wall"
+            ],
+            [
+              "N - Regional lymph nodes"
+            ],
+            [
+              "Nx",
+              "Regional lymph nodes cannot be assessed"
+            ],
+            [
+              "N0",
+              "No regional lymph node metastasis"
+            ],
+            [
+              "N1",
+              "Metastasis in a single lymph node in the true pelvis (hypogastric, obturator, external iliac or presacral)"
+            ],
+            [
+              "N2",
+              "Metastasis in multiple regional lymph nodes in the true pelvis (hypogastric, obturator, external iliac or presacral)"
+            ],
+            [
+              "N3",
+              "Metastasis in a common iliac lymph node(s)"
+            ],
+            [
+              "M - Distant metastasis"
+            ],
+            [
+              "M0",
+              "No distant metastasis"
+            ],
+            [
+              "M1a",
+              "Nonregional lymph nodes"
+            ],
+            [
+              "M1b",
+              "Other distant metastasis"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-5-pathological-markers",
+      "title": "4.5. Pathological markers",
+      "level": 3,
+      "text": "The most important histopathological prognostic variables after RC and lymph node dissection (LND) are tumour stage and lymph node (LN) status [69]. In addition, other histopathological parameters of the RC specimen have been associated with prognosis.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-5-1-lymphovascular-invasion",
+      "title": "4.5.1. Lymphovascular invasion",
+      "level": 4,
+      "text": "The value of lymphovascular invasion (LVI) was reported in a systematic review and meta-analysis including 78,000 patients from 65 studies treated with RC for BC [70]. In 35% of patients, LVI was present and correlated with a 1.5-fold higher risk of recurrence and CSM, independent of pathological stage and perioperative chemotherapy. This correlation was even stronger in those patients with node-negative disease [71].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-5-2-carcinoma-in-situ",
+      "title": "4.5.2. Carcinoma in situ",
+      "level": 4,
+      "text": "In a systematic review and meta-analysis that included 23 studies and over 20,000 patients, the presence of concomitant CIS in the RC specimen was associated with a higher OR of ureteral involvement (pooled OR: 4.51; 2.59-7.84). Concomitant CIS was not independently associated with OS, recurrence-free survival (RFS) and disease-specific survival (DSS) in all patients, but in patients with organ-confined disease, concomitant CIS was associated with worse RFS (pooled HR: 1.57; 1.12-2.21) and CSM (pooled HR: 1.51; 1.001-2.280) [71].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-5-3-tumour-location",
+      "title": "4.5.3. Tumour location",
+      "level": 4,
+      "text": "Tumour location has been associated with prognosis. Tumours located at the bladder neck or trigone of the bladder appear to have an increased likelihood of nodal metastasis (OR: 1.83; 95% CI: 1.11-2.99) and have been associated with decreased survival [69,72-74]. Prostatic urethral involvement at the time of RC was also found to be associated with worse survival outcomes. In a series of 995 patients, prostatic involvement was recorded in 31% of patients. The five-year CSS in patients with CIS of the prostatic urethra was 40%, whilst the prognosis of patients with UC invading the prostatic stroma was worse with a five-year CSS of only 12% [75]. The Southwest Oncology Group (SWOG) 8710 trial, a randomised phase III trial assessing cystectomy ± NAC in patients with MIBC, suggested that Neutrophil-to-lymphocyte ratio is neither a prognostic nor a predictive biomarker for OS in MIBC [76].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-5-4-lymph-node-positive-disease",
+      "title": "4.5.4. Lymph node-positive disease",
+      "level": 4,
+      "text": "In patients with LN-positive disease, various prognostic parameters have been reported, such as the number of LNs removed, the number of positive LNs, LN density (the ratio of positive LNs to the number of LNs removed) and extranodal extension. LN density is subject to surgical and pathological factors. This makes it difficult to apply the concept of LN density uniformly [77]. To allow for pTNM staging, all LN specimens should be provided in their totality, separated in clearly labelled containers or en bloc on a board. In case of doubt or adipose differentiation of the LNs, the entire specimen must be included. Lymph nodes should be counted and measured on slides; capsular rupture and percentage of LN invasion should be reported as well as LVI [64,78]. In case of metastatic spread in the perivesical fat without real LN structures (capsule, subcapsular sinus), this localisation should nevertheless be considered as N+.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-6-tissue-handling",
+      "title": "4.6. Tissue handling",
+      "level": 3,
+      "text": "During transurethral resection, specimens should be taken from the superficial and deep areas of the tumour and sent to the pathology laboratory separately. If random biopsies of the normal-looking mucosa are taken, each biopsy specimen must be submitted separately [79]. The sampling sites must be recorded by the urologist. The pathologist report should include location of tumour tissue in the cystectomy specimen. Anatomical tumour location is relevant for staging and prognosis [80]. In RC, bladder fixation must be carried out as soon as possible. The pathologist must open the specimen from the urethra to the bladder dome and fix the specimen. Specimen handling should follow the rules of handing and sampling RC specimens [81]. It must be stressed that it may be very difficult to confirm the presence of a neoplastic lesion using gross examination of the cystectomy specimen after transurethral resection or NAC, and all retracted or ulcerated areas should be inked and included before fixation.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-7-recommendations-for-the-assessment-of-tumour-specimens",
+      "title": "4.7. Recommendations for the assessment of tumour specimens",
+      "level": 3,
+      "text": "Recommendations Strength rating Record the depth of invasion for the entire specimen (categories pT2a and pT2b, pT3a and pT3b, or pT4a and pT4b). Strong Record margins with special attention paid to the radial margin, prostate, ureter, urethra, peritoneal fat, uterus and vaginal vault. Strong Record the total number of lymph nodes (LNs), the number of positive LNs and extranodal spread. Strong Record lymphovascular invasion. Strong Record the presence of carcinoma in situ . Strong Record the sampling sites, as well as information on tumour size, when providing specimens to the pathologist. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Record the depth of invasion for the entire specimen (categories pT2a and pT2b, pT3a and pT3b, or pT4a and pT4b).",
+              "Strong"
+            ],
+            [
+              "Record margins with special attention paid to the radial margin, prostate, ureter, urethra, peritoneal fat, uterus and vaginal vault.",
+              "Strong"
+            ],
+            [
+              "Record the total number of lymph nodes (LNs), the number of positive LNs and extranodal spread.",
+              "Strong"
+            ],
+            [
+              "Record lymphovascular invasion.",
+              "Strong"
+            ],
+            [
+              "Record the presence of carcinoma in situ.",
+              "Strong"
+            ],
+            [
+              "Record the sampling sites, as well as information on tumour size, when providing specimens to the pathologist.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-8-eau-esmo-consensus-statements-on-the-management-of-advanced--and-variant-bladder-cancer-82-83",
+      "title": "4.8. EAU-ESMO consensus statements on the management of advanced- and variant bladder cancer [82, 83]*",
+      "level": 3,
+      "text": "Consensus statements Muscle-invasive pure SCC of the bladder should be treated with primary radical cystectomy and lymphadenectomy. Muscle-invasive pure adenocarcinoma of the bladder should be treated with primary radical cystectomy and lymphadenectomy. Muscle-invasive small cell neuroendocrine variant of bladder UC should not receive preventive brain irradiation to avoid brain recurrence. Differentiating between urachal and non-urachal subtypes of adenocarcinoma is essential when making treatment decisions. *Only statements which met the a priori consensus threshold across all three stakeholder groups are listed (defined as ≥ 70% agreement and ≤ 15% disagreement, or vice versa). The consensus statements were published in 2019 and 2020, respectively. Accordingly, not all consensus statements have been included.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Consensus statements"
+            ],
+            [
+              "Muscle-invasive pure SCC of the bladder should be treated with primary radical cystectomy and lymphadenectomy."
+            ],
+            [
+              "Muscle-invasive pure adenocarcinoma of the bladder should be treated with primary radical cystectomy and lymphadenectomy."
+            ],
+            [
+              "Muscle-invasive small cell neuroendocrine variant of bladder UC should not receive preventive brain irradiation to avoid brain recurrence."
+            ],
+            [
+              "Differentiating between urachal and non-urachal subtypes of adenocarcinoma is essential when making treatment decisions."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-9-markers",
+      "title": "4.9. Markers",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-9-1-introduction",
+      "title": "4.9.1. Introduction",
+      "level": 4,
+      "text": "Both patient and tumour characteristics guide treatment decisions and prognosis of patients with MIBC.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-9-2-clinical-and-histopathological-markers",
+      "title": "4.9.2. Clinical and histopathological markers",
+      "level": 4,
+      "text": "In a meta-analysis including 19 cohorts from 16 studies, inferior outcomes were seen in progressive versus de novo MIBC regardless of the use of NAC [84]. Subtypes and non-UC have also been linked to worse outcomes after NAC, but as yet, there is insufficient data to conclude that these can be considered as predictive markers [85].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-9-3-molecular-variants",
+      "title": "4.9.3. Molecular variants",
+      "level": 4,
+      "text": "The updated Cancer Genome Atlas (TCGA) reported on 412 MIBCs and identified five messenger ribonucleic acid (mRNA) expression-based molecular variants, including luminal-papillary, luminal-infiltrated, luminal, basal-squamous and neuronal (a variant associated with poor survival in which some of the tumours did not have small cell or NE histology). Each variant is associated with distinct mutational profiles, sometimes with histopathological features and prognostic and treatment implications [86]. The basal-squamous variant is characterised by expression of basal keratin markers, immune infiltrates and is considered to be chemo-sensitive. The luminal papillary variant is characterised by fibroblast growth factor receptor 3 ( FGFR 3) alterations (luminal-papillary [LumP]) [87]. In 2019, a consensus on molecular variant classification was reported [53]. An analysis of 1,750 MIBC transcriptomic profiles from 18 datasets identified six MIBC molecular classes that reconciled all previously published classification schemes. The molecular variant classes include LumP, luminal non-specified (LumNS), luminal unstable (LumU), stroma-rich, basal/squamous (Ba/Sq) and NE-like. Each class has distinct differentiation patterns, oncogenic mechanisms, tumour microenvironments and histological and clinical associations. However, it was stressed that consensus was reached for biological rather than clinical classes. A study investigated how variants impact pathological response and survival in patients receiving preoperative cisplatin-based chemotherapy [88]. Patients with genomically unstable and urothelial-like tumours had higher proportions of pathologic complete response (16/31 [52%] and 17/54 [31%]), versus 5/24 (21%) for the Ba/Sq subtype following NAC and RC. Molecular subtype was independently associated with improved survival for patients with genomically unstable tumours (HR: 0.29; 95% CI: 0.11-0.79) and urothelial-like tumours (HR: 0.37; 95% CI: 0.14-0.94) compared with Ba/Sq tumours, adjusting for clinical stage. In a post-hoc analysis of the GETUG/AFU VESPER trial of NAC, Ba/Sq tumours had poor outcomes post-NAC compared to other consensus subtypes [89]. At this time, the classification should be considered as a research tool for retrospective and prospective studies until future studies establish how these molecular variants may best be used in a clinical setting.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-9-4-molecular-markers",
+      "title": "4.9.4. Molecular markers",
+      "level": 4,
+      "text": "4.9.4.a. DNA damage repair genes Expression of, or defects in, DNA damage repair genes including ERCC2 , ATM, MRE11 , RB1 and FANCC that may predict response to cisplatin-based NAC [90,91] or chemoradiation [92-95]. The presence of a mutation in any of ATM , RB1 , ERCC2 and FANCC genes was found to be associated with a higher likelihood of achieving a pathologic complete response with NAC [96]. In a correlative analysis of the SWOG S1314 neoadjuvant trial of gemcitabine and cisplatin (GC) or dose-dense methotrexate, vinblastine, adriamycin, and cisplatin (DDMVAC), a mutation in any one of the four genes, ATM , RB1 , FANCC or ERCC2 , was predicted for pT0 at surgery [96]. 4.9.4.b. FGFR alterations An important advance has been the recognition of alterations in FGFR 3, including mutations and gene fusions as a predictive marker for response to FGFR inhibitors [97,98]. Alterations in FGFR 3 are used to select patients for treatment with the FGFR inhibitor erdafitinib (see Chapter 9, ‘Metastatic disease’) [99]. Screening metastatic UC (mUC) patients is recommended, ideally at diagnosis of metastatic disease, for FGFR 3 alterations to plan optimal treatment. 4.9.4.c. Nectin-4 The membrane antigen receptor Nectin-4 is a target for the antibody-drug conjugate enfortumab vedotin (EV). Nectin-4 is believed to have ubiquitous expression on UC cells. Nectin-4 can be assessed either by immunohistochemistry or fluorescent in situ hybridisation (FISH). Reports from a German study group suggest that Nectin-4 expression is decreased on metastatic cells [100]. Nectin-4 amplification may represent a predictive factor for benefit from EV and merits further investigation [101]. 4.9.4.d. PD-L1 expression Several efforts have focused on markers for predicting response to immune checkpoint inhibition. Programmed death-ligand 1 (PD-L1) expression by immunohistochemistry has been evaluated in several studies with mixed results. The predictive value of PD-L1 was, for example, not confirmed in large phase III trials evaluating the integration of immunotherapy (IO) in the first-line setting for mUC [102-104]. This may in part be related to the use of different antibodies and various scoring systems evaluating different compartments, that is, tumour cells, immune cells, or both. The major limitation of PD-L1 staining relates to the significant proportion of PD-L1-negative patients that respond to immune checkpoint blockade. At present, the indications for PD-L1 testing relate to the restricted EMA approval for nivolumab in the adjuvant setting (≥ 1% tumour cells PD-L1 positive) and pembrolizumab (combined positive score [CPS] of ≥ 10) and atezolizumab (immune cells ≥ 5%) as first-line monotherapy in patients with locally advanced or mUC unfit for cisplatin-containing chemotherapy. 4.9.4.e. Circulating tumour DNA Studies have reported on the potential for ctDNA to guide the use of adjuvant IO in UC [105-107]. In 581 patients from a phase III RCT of adjuvant atezolizumab versus observation in UC, ctDNA testing at the start of therapy identified 37% of patients who were positive for ctDNA and who had poor prognosis (observation arm HR: 6.3; 95% CI: 4.45-8.92; p < 0.0001) [105]. Patients who were positive for ctDNA had improved DFS and OS in the atezolizumab arm versus the observation arm (DFS = HR: 0.58; 95% CI: 0.43-0.79; p = 0.0024; OS = HR: 0.59; 95% CI: 0.41-0.86). For patients who were negative for ctDNA, there was no difference in DFS or OS between treatment arms. The rate of ctDNA clearance at week six was higher in the atezolizumab arm (18%) than in the observation arm (4%) (p = 0.0204) [105]. The results from the IMvigor011 trial evaluating the efficacy of atezolizumab as adjuvant therapy versus a placebo in patients with high-risk MIBC who are ctDNA positive were recently published (see Section 6.5.2.b) [108]. 4.9.4.f. Biomarkers for response to immune checkpoint inhibitors Urothelial cancer is associated with a high tumour mutational burden (TMB) [109]. High TMB has been associated with response to immune checkpoint inhibitors (CPIs) in metastatic BC [110,111]. However, the application of high TMB is limited by several factors, including inconsistent predictive power and the lack of a clear relationship with OS. The tumour microenvironment must also be considered. Recent work has focused on the importance of stroma, including the role of transforming growth factors, in predicting response to immune checkpoint blockade [112,113]. Recent findings suggest that neoadjuvant atezolizumab in MIBC is associated with clinical responses and high DFS. Expression of CD8+ cells and serial ctDNA levels can correlate with outcomes and may contribute to personalised therapy in the future [114]. An exploratory analysis in patients with mUC who received pembrolizumab in the first line (KEYNOTE-052 trial) and salvage (KEYNOTE-045 trial) settings demonstrated that TMB and T-cell inflamed gene expression profile were significantly associated with i",
+      "tables": []
+    },
+    {
+      "anchor": "#4-9-5-conclusion",
+      "title": "4.9.5. Conclusion",
+      "level": 4,
+      "text": "The updated TCGA and other efforts have refined our understanding of the molecular underpinnings of BC biology. Variants, immune gene signatures, as well as stromal signatures may ultimately play an important role in predicting response to IO. Although PD-L1 expression by immunohistochemistry and TMB have demonstrated predictive value in certain settings, additional studies are needed. Prospectively validated prognostic and predictive molecular biomarkers will present valuable adjuncts to clinical and pathological data, but large phase III RCTs with long-term follow-up will be needed to clarify the many questions remaining.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-9-6-summary-of-evidence-and-recommendations-for-urothelial-markers",
+      "title": "4.9.6. Summary of evidence and recommendations for urothelial markers",
+      "level": 4,
+      "text": "Summary of evidence LE Defined alterations of FGFR 3 are predictive of response to therapy with the FGFR inhibitor erdafitinib. 1b Circulating tumour DNA holds promise as both a prognostic and predictive biomarker to guide the use of adjuvant IO for UC in patients compared with observation. 2b Recommendations Strength rating Use susceptible fibroblast growth factor receptor 3 alterations to select patients with unresectable or metastatic urothelial carcinoma for treatment with erdafitinib. Strong Determine immunohistochemical human epidermal growth factor receptor (HER) 2 expression to select patients for HER2-directed antibody-drug conjugate therapy. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Defined alterations of FGFR 3 are predictive of response to therapy with the FGFR inhibitor erdafitinib.",
+              "1b"
+            ],
+            [
+              "Circulating tumour DNA holds promise as both a prognostic and predictive biomarker to guide the use of adjuvant IO for UC in patients compared with observation.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use susceptible fibroblast growth factor receptor 3 alterations to select patients with unresectable or metastatic urothelial carcinoma for treatment with erdafitinib.",
+              "Strong"
+            ],
+            [
+              "Determine immunohistochemical human epidermal growth factor receptor (HER) 2 expression to select patients for HER2-directed antibody-drug conjugate therapy.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 5
+}

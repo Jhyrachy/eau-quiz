@@ -1,0 +1,2069 @@
+{
+  "guideline": "paediatric-urology",
+  "chapter": "vesicoureteric-reflux",
+  "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/vesicoureteric-reflux",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim",
+      "anchor": "#1-1-aim"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Summary of changes",
+      "anchor": "#1-5-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Introduction",
+      "anchor": "#2-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 2,
+      "text": "3. PHIMOSIS AND OTHER ABNORMALITIES OF THE PENILE SKIN",
+      "anchor": "#3-phimosis-and-other-abnormalities-of-the-penile-skin"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Terminology, epidemiology and pathophysiology",
+      "anchor": "#3-1-terminology-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Classification and diagnostic evaluation",
+      "anchor": "#3-2-classification-and-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Management",
+      "anchor": "#3-3-management"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Complications",
+      "anchor": "#3-4-complications"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Follow-up",
+      "anchor": "#3-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "3.6. Summary of evidence and recommendations for the management of phimosis",
+      "anchor": "#3-6-summary-of-evidence-and-recommendations-for-the-management-of-phimosis"
+    },
+    {
+      "level": 2,
+      "text": "4. MANAGEMENT OF UNDESCENDED TESTES",
+      "anchor": "#4-management-of-undescended-testes"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Background",
+      "anchor": "#4-1-background"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Classification",
+      "anchor": "#4-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. Palpable testes",
+      "anchor": "#4-2-1-palpable-testes"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. Nonpalpable testes",
+      "anchor": "#4-2-2-nonpalpable-testes"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Diagnostic evaluation",
+      "anchor": "#4-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. History",
+      "anchor": "#4-3-1-history"
+    },
+    {
+      "level": 4,
+      "text": "4.3.2. Physical examination",
+      "anchor": "#4-3-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "4.3.3. Imaging studies",
+      "anchor": "#4-3-3-imaging-studies"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Management",
+      "anchor": "#4-4-management"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Medical therapy",
+      "anchor": "#4-4-1-medical-therapy"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Surgical therapy",
+      "anchor": "#4-4-2-surgical-therapy"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Undescended testes and fertility",
+      "anchor": "#4-5-undescended-testes-and-fertility"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Undescended testes and malignancy",
+      "anchor": "#4-6-undescended-testes-and-malignancy"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Summary of evidence and recommendations for the management of undescended testes",
+      "anchor": "#4-7-summary-of-evidence-and-recommendations-for-the-management-of-undescended-testes"
+    },
+    {
+      "level": 2,
+      "text": "5. TESTICULAR TUMOURS IN PREPUBERTAL BOYS",
+      "anchor": "#5-testicular-tumours-in-prepubertal-boys"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Epidemiology and pathophysiology",
+      "anchor": "#5-1-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Clinical presentation",
+      "anchor": "#5-2-clinical-presentation"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Evaluation",
+      "anchor": "#5-3-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Tumour entities in prepubertal boys",
+      "anchor": "#5-5-tumour-entities-in-prepubertal-boys"
+    },
+    {
+      "level": 4,
+      "text": "5.5.1. Germ cell tumours",
+      "anchor": "#5-5-1-germ-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "5.5.2. Gonadal stromal tumours",
+      "anchor": "#5-5-2-gonadal-stromal-tumours"
+    },
+    {
+      "level": 4,
+      "text": "5.5.3. Other tumours",
+      "anchor": "#5-5-3-other-tumours"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Follow-up",
+      "anchor": "#5-6-follow-up"
+    },
+    {
+      "level": 2,
+      "text": "6. FERTILITY PRESERVATION IN CHILDREN AND ADOLESCENTS",
+      "anchor": "#6-fertility-preservation-in-children-and-adolescents"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Ovarian tissue cryopreservation in prepubertal and adolescent girls",
+      "anchor": "#6-1-ovarian-tissue-cryopreservation-in-prepubertal-and-adolescent-girls"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Cryopreservation in prepubertal and adolescent boys",
+      "anchor": "#6-2-cryopreservation-in-prepubertal-and-adolescent-boys"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Summary of evidence and recommendations fertility preservation in children and adolescents",
+      "anchor": "#6-3-summary-of-evidence-and-recommendations-fertility-preservation-in-children-and-adolescents"
+    },
+    {
+      "level": 2,
+      "text": "7. HYDROCELE",
+      "anchor": "#7-hydrocele"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#7-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Diagnostic evaluation",
+      "anchor": "#7-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Management",
+      "anchor": "#7-3-management"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Summary of evidence and recommendations for the management of hydrocele",
+      "anchor": "#7-4-summary-of-evidence-and-recommendations-for-the-management-of-hydrocele"
+    },
+    {
+      "level": 2,
+      "text": "8. ACUTE SCROTUM",
+      "anchor": "#8-acute-scrotum"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#8-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Diagnostic evaluation",
+      "anchor": "#8-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Management",
+      "anchor": "#8-3-management"
+    },
+    {
+      "level": 4,
+      "text": "8.3.1. Epididymitis",
+      "anchor": "#8-3-1-epididymitis"
+    },
+    {
+      "level": 4,
+      "text": "8.3.2. Testicular torsion",
+      "anchor": "#8-3-2-testicular-torsion"
+    },
+    {
+      "level": 4,
+      "text": "8.3.3. Surgical treatment",
+      "anchor": "#8-3-3-surgical-treatment"
+    },
+    {
+      "level": 3,
+      "text": "8.4. Follow-up",
+      "anchor": "#8-4-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "8.4.1. Fertility",
+      "anchor": "#8-4-1-fertility"
+    },
+    {
+      "level": 4,
+      "text": "8.4.2. Subfertility",
+      "anchor": "#8-4-2-subfertility"
+    },
+    {
+      "level": 4,
+      "text": "8.4.3. Androgen levels",
+      "anchor": "#8-4-3-androgen-levels"
+    },
+    {
+      "level": 2,
+      "text": "9. HYPOSPADIAS",
+      "anchor": "#9-hypospadias"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Epidemiology, aetiology, and pathophysiology",
+      "anchor": "#9-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "9.1.1. Epidemiology",
+      "anchor": "#9-1-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Risk factors",
+      "anchor": "#9-2-risk-factors"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Classification systems",
+      "anchor": "#9-3-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "9.4. Diagnostic evaluation",
+      "anchor": "#9-4-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "9.5. Management",
+      "anchor": "#9-5-management"
+    },
+    {
+      "level": 4,
+      "text": "9.5.1. Indication for reconstruction and therapeutic objectives",
+      "anchor": "#9-5-1-indication-for-reconstruction-and-therapeutic-objectives"
+    },
+    {
+      "level": 4,
+      "text": "9.5.2. Preoperative hormonal treatment",
+      "anchor": "#9-5-2-preoperative-hormonal-treatment"
+    },
+    {
+      "level": 4,
+      "text": "9.5.3. Age at surgery",
+      "anchor": "#9-5-3-age-at-surgery"
+    },
+    {
+      "level": 4,
+      "text": "9.5.4. Penile curvature",
+      "anchor": "#9-5-4-penile-curvature"
+    },
+    {
+      "level": 4,
+      "text": "9.5.5. Urethral reconstruction",
+      "anchor": "#9-5-5-urethral-reconstruction"
+    },
+    {
+      "level": 4,
+      "text": "9.5.6. Redo hypospadias repairs",
+      "anchor": "#9-5-6-redo-hypospadias-repairs"
+    },
+    {
+      "level": 4,
+      "text": "9.5.7. Penile reconstruction following formation of the neo-urethra",
+      "anchor": "#9-5-7-penile-reconstruction-following-formation-of-the-neo-urethra"
+    },
+    {
+      "level": 4,
+      "text": "9.5.8. Urine drainage and wound dressing",
+      "anchor": "#9-5-8-urine-drainage-and-wound-dressing"
+    },
+    {
+      "level": 4,
+      "text": "9.5.9. Analgesia (regional blocks)",
+      "anchor": "#9-5-9-analgesia-regional-blocks"
+    },
+    {
+      "level": 3,
+      "text": "9.6. Outcomes and complications",
+      "anchor": "#9-6-outcomes-and-complications"
+    },
+    {
+      "level": 4,
+      "text": "9.6.1. Factors influencing outcomes",
+      "anchor": "#9-6-1-factors-influencing-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "9.6.2. Complications",
+      "anchor": "#9-6-2-complications"
+    },
+    {
+      "level": 3,
+      "text": "9.7. Long-term follow-up and transition",
+      "anchor": "#9-7-long-term-follow-up-and-transition"
+    },
+    {
+      "level": 4,
+      "text": "9.7.1. Voiding",
+      "anchor": "#9-7-1-voiding"
+    },
+    {
+      "level": 4,
+      "text": "9.7.2. Penile appearance",
+      "anchor": "#9-7-2-penile-appearance"
+    },
+    {
+      "level": 4,
+      "text": "9.7.3. Sexual function and fertility",
+      "anchor": "#9-7-3-sexual-function-and-fertility"
+    },
+    {
+      "level": 4,
+      "text": "9.7.4. Health-related quality of life",
+      "anchor": "#9-7-4-health-related-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "9.7.5. Transition",
+      "anchor": "#9-7-5-transition"
+    },
+    {
+      "level": 3,
+      "text": "9.8. Summary of evidence and recommendations for the management of hypospadias",
+      "anchor": "#9-8-summary-of-evidence-and-recommendations-for-the-management-of-hypospadias"
+    },
+    {
+      "level": 2,
+      "text": "10. CONGENITAL PENILE CURVATURE",
+      "anchor": "#10-congenital-penile-curvature"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#10-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Diagnostic evaluation",
+      "anchor": "#10-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Management",
+      "anchor": "#10-3-management"
+    },
+    {
+      "level": 3,
+      "text": "10.4. Summary of evidence and recommendations for the management of congenital penile curvature",
+      "anchor": "#10-4-summary-of-evidence-and-recommendations-for-the-management-of-congenital-penile-curvature"
+    },
+    {
+      "level": 2,
+      "text": "11. VARICOCELE IN CHILDREN AND ADOLESCENTS",
+      "anchor": "#11-varicocele-in-children-and-adolescents"
+    },
+    {
+      "level": 3,
+      "text": "11.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#11-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "11.2. Classification systems",
+      "anchor": "#11-2-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "11.3. Diagnostic evaluation",
+      "anchor": "#11-3-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "11.4. Management",
+      "anchor": "#11-4-management"
+    },
+    {
+      "level": 4,
+      "text": "11.4.1. Surgical management",
+      "anchor": "#11-4-1-surgical-management"
+    },
+    {
+      "level": 4,
+      "text": "11.4.2. Radiological management",
+      "anchor": "#11-4-2-radiological-management"
+    },
+    {
+      "level": 3,
+      "text": "11.5. Summary of evidence and recommendations for the management of varicocele",
+      "anchor": "#11-5-summary-of-evidence-and-recommendations-for-the-management-of-varicocele"
+    },
+    {
+      "level": 2,
+      "text": "12. URINARY TRACT INFECTIONS IN CHILDREN",
+      "anchor": "#12-urinary-tract-infections-in-children"
+    },
+    {
+      "level": 3,
+      "text": "12.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#12-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "12.2. Presentation symptoms",
+      "anchor": "#12-2-presentation-symptoms"
+    },
+    {
+      "level": 3,
+      "text": "12.3. Classification systems",
+      "anchor": "#12-3-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "12.3.1. Classification according to clinical presentation",
+      "anchor": "#12-3-1-classification-according-to-clinical-presentation"
+    },
+    {
+      "level": 4,
+      "text": "12.3.2. Classification according to episode: first, recurrent, breakthrough",
+      "anchor": "#12-3-2-classification-according-to-episode-first-recurrent-breakthrough"
+    },
+    {
+      "level": 4,
+      "text": "12.3.3. Classification according to age and toilet-training status",
+      "anchor": "#12-3-3-classification-according-to-age-and-toilet-training-status"
+    },
+    {
+      "level": 4,
+      "text": "12.3.4. Classification according to the clinical course",
+      "anchor": "#12-3-4-classification-according-to-the-clinical-course"
+    },
+    {
+      "level": 4,
+      "text": "12.3.5. Classification according to urinary tract abnormalities",
+      "anchor": "#12-3-5-classification-according-to-urinary-tract-abnormalities"
+    },
+    {
+      "level": 3,
+      "text": "12.4. Diagnostic evaluation",
+      "anchor": "#12-4-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "12.4.1. Medical history",
+      "anchor": "#12-4-1-medical-history"
+    },
+    {
+      "level": 4,
+      "text": "12.4.2. Physical examination",
+      "anchor": "#12-4-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "12.4.3. Urine sampling, analysis and culture",
+      "anchor": "#12-4-3-urine-sampling-analysis-and-culture"
+    },
+    {
+      "level": 4,
+      "text": "12.4.4. Blood tests",
+      "anchor": "#12-4-4-blood-tests"
+    },
+    {
+      "level": 3,
+      "text": "12.5. Additional workup",
+      "anchor": "#12-5-additional-workup"
+    },
+    {
+      "level": 4,
+      "text": "12.5.1. Ultrasound (US)",
+      "anchor": "#12-5-1-ultrasound-us"
+    },
+    {
+      "level": 3,
+      "text": "12.6. Management",
+      "anchor": "#12-6-management"
+    },
+    {
+      "level": 4,
+      "text": "12.6.1. Administration route of antibacterial therapy",
+      "anchor": "#12-6-1-administration-route-of-antibacterial-therapy"
+    },
+    {
+      "level": 4,
+      "text": "12.6.2. Adjustment of antimicrobial agents",
+      "anchor": "#12-6-2-adjustment-of-antimicrobial-agents"
+    },
+    {
+      "level": 4,
+      "text": "12.6.3. Duration of therapy",
+      "anchor": "#12-6-3-duration-of-therapy"
+    },
+    {
+      "level": 4,
+      "text": "12.6.4. Adjunct steroid treatment",
+      "anchor": "#12-6-4-adjunct-steroid-treatment"
+    },
+    {
+      "level": 4,
+      "text": "12.6.5. Temporary urinary diversion",
+      "anchor": "#12-6-5-temporary-urinary-diversion"
+    },
+    {
+      "level": 4,
+      "text": "12.6.6. Monitoring",
+      "anchor": "#12-6-6-monitoring"
+    },
+    {
+      "level": 3,
+      "text": "12.7. Measures to prevent UTI recurrences",
+      "anchor": "#12-7-measures-to-prevent-uti-recurrences"
+    },
+    {
+      "level": 4,
+      "text": "12.7.1. Chemoprophylaxis",
+      "anchor": "#12-7-1-chemoprophylaxis"
+    },
+    {
+      "level": 4,
+      "text": "12.7.2. Nonantibiotic prophylaxis",
+      "anchor": "#12-7-2-nonantibiotic-prophylaxis"
+    },
+    {
+      "level": 4,
+      "text": "12.7.3. Phimosis",
+      "anchor": "#12-7-3-phimosis"
+    },
+    {
+      "level": 4,
+      "text": "12.7.4. Bladder and bowel dysfunction and lower urinary tract disorders",
+      "anchor": "#12-7-4-bladder-and-bowel-dysfunction-and-lower-urinary-tract-disorders"
+    },
+    {
+      "level": 3,
+      "text": "12.8. Summary of evidence and recommendations for the management of UTI in children",
+      "anchor": "#12-8-summary-of-evidence-and-recommendations-for-the-management-of-uti-in-children"
+    },
+    {
+      "level": 2,
+      "text": "13. DAYTIME LOWER URINARY TRACT CONDITIONS",
+      "anchor": "#13-daytime-lower-urinary-tract-conditions"
+    },
+    {
+      "level": 3,
+      "text": "13.1. Terminology, classification, epidemiology and pathophysiology",
+      "anchor": "#13-1-terminology-classification-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "13.1.1. Filling-phase (storage) dysfunctions",
+      "anchor": "#13-1-1-filling-phase-storage-dysfunctions"
+    },
+    {
+      "level": 4,
+      "text": "13.1.2. Voiding-phase (emptying) dysfunctions",
+      "anchor": "#13-1-2-voiding-phase-emptying-dysfunctions"
+    },
+    {
+      "level": 3,
+      "text": "13.2. Diagnostic evaluation",
+      "anchor": "#13-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "13.2.1. History and physical examination",
+      "anchor": "#13-2-1-history-and-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "13.2.2. Ultrasound and urinalysis",
+      "anchor": "#13-2-2-ultrasound-and-urinalysis"
+    },
+    {
+      "level": 4,
+      "text": "13.2.3. Urodynamics",
+      "anchor": "#13-2-3-urodynamics"
+    },
+    {
+      "level": 3,
+      "text": "13.3. Management",
+      "anchor": "#13-3-management"
+    },
+    {
+      "level": 4,
+      "text": "13.3.1. Urotherapy and specific add-on interventions",
+      "anchor": "#13-3-1-urotherapy-and-specific-add-on-interventions"
+    },
+    {
+      "level": 4,
+      "text": "13.3.2. Medication",
+      "anchor": "#13-3-2-medication"
+    },
+    {
+      "level": 4,
+      "text": "13.3.3. Neuromodulation",
+      "anchor": "#13-3-3-neuromodulation"
+    },
+    {
+      "level": 4,
+      "text": "13.3.4. Surgery",
+      "anchor": "#13-3-4-surgery"
+    },
+    {
+      "level": 3,
+      "text": "13.4. Quality of life",
+      "anchor": "#13-4-quality-of-life"
+    },
+    {
+      "level": 3,
+      "text": "13.5. Follow-up",
+      "anchor": "#13-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "13.6. Summary of evidence and recommendations for the management of daytime lower urinary tract conditions",
+      "anchor": "#13-6-summary-of-evidence-and-recommendations-for-the-management-of-daytime-lower-urinary-tract-conditions"
+    },
+    {
+      "level": 2,
+      "text": "14. MONOSYMPTOMATIC NOCTURNAL ENURESIS - BEDWETTING",
+      "anchor": "#14-monosymptomatic-nocturnal-enuresis---bedwetting"
+    },
+    {
+      "level": 3,
+      "text": "14.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#14-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "14.2. Diagnostic evaluation",
+      "anchor": "#14-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "14.3. Management",
+      "anchor": "#14-3-management"
+    },
+    {
+      "level": 4,
+      "text": "14.3.1. Supportive treatment measures",
+      "anchor": "#14-3-1-supportive-treatment-measures"
+    },
+    {
+      "level": 4,
+      "text": "14.3.2. Wetting alarm treatment",
+      "anchor": "#14-3-2-wetting-alarm-treatment"
+    },
+    {
+      "level": 4,
+      "text": "14.3.3. Medical treatment",
+      "anchor": "#14-3-3-medical-treatment"
+    },
+    {
+      "level": 4,
+      "text": "14.3.4. Electrical neuromodulation",
+      "anchor": "#14-3-4-electrical-neuromodulation"
+    },
+    {
+      "level": 4,
+      "text": "14.3.5. Complementary treatments:",
+      "anchor": "#14-3-5-complementary-treatments"
+    },
+    {
+      "level": 4,
+      "text": "14.3.6. Conservative ‘wait-and-see’ approach",
+      "anchor": "#14-3-6-conservative-wait-and-see-approach"
+    },
+    {
+      "level": 3,
+      "text": "14.4. Summary of evidence and recommendations for the management of monosymptomatic enuresis",
+      "anchor": "#14-4-summary-of-evidence-and-recommendations-for-the-management-of-monosymptomatic-enuresis"
+    },
+    {
+      "level": 2,
+      "text": "15. SPINAL DYSRAPHISM IN CHILDREN AND ADOLESCENTS (FORMALLY NEUROGENIC BLADDER)",
+      "anchor": "#15-spinal-dysraphism-in-children-and-adolescents-formally-neurogenic-bladder"
+    },
+    {
+      "level": 2,
+      "text": "16. DILATATION OF THE UPPER URINARY TRACT (PUJ OBSTRUCTION)",
+      "anchor": "#16-dilatation-of-the-upper-urinary-tract-puj-obstruction"
+    },
+    {
+      "level": 3,
+      "text": "16.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#16-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "16.2. Diagnostic evaluation",
+      "anchor": "#16-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "16.2.1. Antenatal ultrasound",
+      "anchor": "#16-2-1-antenatal-ultrasound"
+    },
+    {
+      "level": 4,
+      "text": "16.2.2. Postnatal ultrasound",
+      "anchor": "#16-2-2-postnatal-ultrasound"
+    },
+    {
+      "level": 4,
+      "text": "16.2.3. Voiding cystourethrogram",
+      "anchor": "#16-2-3-voiding-cystourethrogram"
+    },
+    {
+      "level": 4,
+      "text": "16.2.4. Diuretic renography",
+      "anchor": "#16-2-4-diuretic-renography"
+    },
+    {
+      "level": 4,
+      "text": "16.2.5. Severity classification and risk stratification",
+      "anchor": "#16-2-5-severity-classification-and-risk-stratification"
+    },
+    {
+      "level": 4,
+      "text": "16.2.6. Biomarkers",
+      "anchor": "#16-2-6-biomarkers"
+    },
+    {
+      "level": 3,
+      "text": "16.3. Management",
+      "anchor": "#16-3-management"
+    },
+    {
+      "level": 4,
+      "text": "16.3.1. Prenatal management",
+      "anchor": "#16-3-1-prenatal-management"
+    },
+    {
+      "level": 4,
+      "text": "16.3.2. PUJ obstruction",
+      "anchor": "#16-3-2-puj-obstruction"
+    },
+    {
+      "level": 3,
+      "text": "16.4. Summary of evidence and recommendations for the management of PUJ obstruction",
+      "anchor": "#16-4-summary-of-evidence-and-recommendations-for-the-management-of-puj-obstruction"
+    },
+    {
+      "level": 2,
+      "text": "17. VESICOURETERIC REFLUX",
+      "anchor": "#17-vesicoureteric-reflux"
+    },
+    {
+      "level": 3,
+      "text": "17.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#17-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "17.2. Diagnostic evaluation",
+      "anchor": "#17-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "17.2.1. Recommendation for diagnosis of VUR",
+      "anchor": "#17-2-1-recommendation-for-diagnosis-of-vur"
+    },
+    {
+      "level": 4,
+      "text": "17.2.2. Infants presenting with prenatally diagnosed hydronephrosis",
+      "anchor": "#17-2-2-infants-presenting-with-prenatally-diagnosed-hydronephrosis"
+    },
+    {
+      "level": 4,
+      "text": "17.2.3. Siblings and offspring of reflux patients",
+      "anchor": "#17-2-3-siblings-and-offspring-of-reflux-patients"
+    },
+    {
+      "level": 4,
+      "text": "17.2.4. Recommendation for paediatric screening of VUR",
+      "anchor": "#17-2-4-recommendation-for-paediatric-screening-of-vur"
+    },
+    {
+      "level": 4,
+      "text": "17.2.5. Children with febrile urinary tract infections",
+      "anchor": "#17-2-5-children-with-febrile-urinary-tract-infections"
+    },
+    {
+      "level": 4,
+      "text": "17.2.6. Children with lower urinary tract symptoms and vesicoureteric reflux",
+      "anchor": "#17-2-6-children-with-lower-urinary-tract-symptoms-and-vesicoureteric-reflux"
+    },
+    {
+      "level": 3,
+      "text": "17.3. Disease management",
+      "anchor": "#17-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "17.3.1. Nonsurgical therapy",
+      "anchor": "#17-3-1-nonsurgical-therapy"
+    },
+    {
+      "level": 4,
+      "text": "17.3.2. Surgical treatment",
+      "anchor": "#17-3-2-surgical-treatment"
+    },
+    {
+      "level": 3,
+      "text": "17.4. Summary of evidence and recommendations for the management of vesicoureteric reflux in childhood",
+      "anchor": "#17-4-summary-of-evidence-and-recommendations-for-the-management-of-vesicoureteric-reflux-in-childhood"
+    },
+    {
+      "level": 2,
+      "text": "18. URINARY STONE DISEASE",
+      "anchor": "#18-urinary-stone-disease"
+    },
+    {
+      "level": 3,
+      "text": "18.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#18-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "18.2. Classification systems",
+      "anchor": "#18-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "18.2.1. Calcium stones",
+      "anchor": "#18-2-1-calcium-stones"
+    },
+    {
+      "level": 4,
+      "text": "18.2.2. Uric acid stones",
+      "anchor": "#18-2-2-uric-acid-stones"
+    },
+    {
+      "level": 4,
+      "text": "18.2.3. Cystine stones",
+      "anchor": "#18-2-3-cystine-stones"
+    },
+    {
+      "level": 4,
+      "text": "18.2.4. Infection stones (struvite stones)",
+      "anchor": "#18-2-4-infection-stones-struvite-stones"
+    },
+    {
+      "level": 3,
+      "text": "18.3. Diagnostic evaluation",
+      "anchor": "#18-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "18.3.1. Imaging",
+      "anchor": "#18-3-1-imaging"
+    },
+    {
+      "level": 4,
+      "text": "18.3.2. Metabolic evaluation",
+      "anchor": "#18-3-2-metabolic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "18.3.3. Urolithiasis in infants",
+      "anchor": "#18-3-3-urolithiasis-in-infants"
+    },
+    {
+      "level": 3,
+      "text": "18.4. Management",
+      "anchor": "#18-4-management"
+    },
+    {
+      "level": 4,
+      "text": "18.4.1. Extracorporeal shockwave lithotripsy",
+      "anchor": "#18-4-1-extracorporeal-shockwave-lithotripsy"
+    },
+    {
+      "level": 4,
+      "text": "18.4.2. Percutaneous nephrolithotomy",
+      "anchor": "#18-4-2-percutaneous-nephrolithotomy"
+    },
+    {
+      "level": 4,
+      "text": "18.4.3. Ureterorenoscopy",
+      "anchor": "#18-4-3-ureterorenoscopy"
+    },
+    {
+      "level": 4,
+      "text": "18.4.4. Open or laparoscopic stone surgery",
+      "anchor": "#18-4-4-open-or-laparoscopic-stone-surgery"
+    },
+    {
+      "level": 3,
+      "text": "18.5. Summary of evidence and recommendations for the management of urinary stones",
+      "anchor": "#18-5-summary-of-evidence-and-recommendations-for-the-management-of-urinary-stones"
+    },
+    {
+      "level": 2,
+      "text": "19. URETEROCELE AND ECTOPIC URETER",
+      "anchor": "#19-ureterocele-and-ectopic-ureter"
+    },
+    {
+      "level": 3,
+      "text": "19.1. Ureterocele",
+      "anchor": "#19-1-ureterocele"
+    },
+    {
+      "level": 4,
+      "text": "19.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#19-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "19.1.2. Classification systems",
+      "anchor": "#19-1-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "19.1.3. Diagnostic evaluation",
+      "anchor": "#19-1-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "19.1.4. Management",
+      "anchor": "#19-1-4-management"
+    },
+    {
+      "level": 3,
+      "text": "19.2. Ectopic ureter",
+      "anchor": "#19-2-ectopic-ureter"
+    },
+    {
+      "level": 4,
+      "text": "19.2.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#19-2-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "19.2.2. Classification",
+      "anchor": "#19-2-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "19.2.3. Clinical presentation and diagnostic evaluation",
+      "anchor": "#19-2-3-clinical-presentation-and-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "19.2.4. Management",
+      "anchor": "#19-2-4-management"
+    },
+    {
+      "level": 3,
+      "text": "19.3. Summary of evidence and recommendations for the management of obstructive pathology of renal duplication: ureterocele and ectopic ureter",
+      "anchor": "#19-3-summary-of-evidence-and-recommendations-for-the-management-of-obstructive-pathology-of-renal-duplication-ureterocele-and-ectopic-ureter"
+    },
+    {
+      "level": 3,
+      "text": "20.1. Introduction",
+      "anchor": "#20-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "20.2. International consensus statements on DSD management",
+      "anchor": "#20-2-international-consensus-statements-on-dsd-management"
+    },
+    {
+      "level": 3,
+      "text": "20.3. Current classification of DSD conditions",
+      "anchor": "#20-3-current-classification-of-dsd-conditions"
+    },
+    {
+      "level": 3,
+      "text": "20.4. Diagnostic evaluation",
+      "anchor": "#20-4-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "20.4.1. The neonatal emergency",
+      "anchor": "#20-4-1-the-neonatal-emergency"
+    },
+    {
+      "level": 4,
+      "text": "20.4.2. Family history and clinical examination",
+      "anchor": "#20-4-2-family-history-and-clinical-examination"
+    },
+    {
+      "level": 3,
+      "text": "20.5. Gender assignment",
+      "anchor": "#20-5-gender-assignment"
+    },
+    {
+      "level": 3,
+      "text": "20.6. Risk of tumour development",
+      "anchor": "#20-6-risk-of-tumour-development"
+    },
+    {
+      "level": 3,
+      "text": "20.7. Quality of life",
+      "anchor": "#20-7-quality-of-life"
+    },
+    {
+      "level": 2,
+      "text": "21. CONGENITAL LOWER URINARY TRACT OBSTRUCTION",
+      "anchor": "#21-congenital-lower-urinary-tract-obstruction"
+    },
+    {
+      "level": 3,
+      "text": "21.1. Epidemiology and pathophysiology",
+      "anchor": "#21-1-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "21.2. Classification systems of the urethral valves",
+      "anchor": "#21-2-classification-systems-of-the-urethral-valves"
+    },
+    {
+      "level": 3,
+      "text": "21.3. Diagnostic evaluation",
+      "anchor": "#21-3-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "21.4. Management",
+      "anchor": "#21-4-management"
+    },
+    {
+      "level": 4,
+      "text": "21.4.1. Prenatal treatment",
+      "anchor": "#21-4-1-prenatal-treatment"
+    },
+    {
+      "level": 4,
+      "text": "21.4.2. Postnatal treatment",
+      "anchor": "#21-4-2-postnatal-treatment"
+    },
+    {
+      "level": 3,
+      "text": "21.5. Follow-up",
+      "anchor": "#21-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "21.6. Summary of evidence and recommendations for the management of posterior urethral valves",
+      "anchor": "#21-6-summary-of-evidence-and-recommendations-for-the-management-of-posterior-urethral-valves"
+    },
+    {
+      "level": 2,
+      "text": "22. RARE CONDITIONS IN CHILDHOOD",
+      "anchor": "#22-rare-conditions-in-childhood"
+    },
+    {
+      "level": 3,
+      "text": "22.1. Urachal remnants",
+      "anchor": "#22-1-urachal-remnants"
+    },
+    {
+      "level": 4,
+      "text": "22.1.1. Introduction",
+      "anchor": "#22-1-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "22.1.2. Epidemiology",
+      "anchor": "#22-1-2-epidemiology"
+    },
+    {
+      "level": 4,
+      "text": "22.1.3. Symptoms",
+      "anchor": "#22-1-3-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "22.1.4. Diagnosis",
+      "anchor": "#22-1-4-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "22.1.5. Treatment",
+      "anchor": "#22-1-5-treatment"
+    },
+    {
+      "level": 4,
+      "text": "22.1.6. Pathology of removed remnants",
+      "anchor": "#22-1-6-pathology-of-removed-remnants"
+    },
+    {
+      "level": 4,
+      "text": "22.1.7. Urachal cancer",
+      "anchor": "#22-1-7-urachal-cancer"
+    },
+    {
+      "level": 4,
+      "text": "22.1.8. Summary of evidence and recommendation for management of urachal remnants",
+      "anchor": "#22-1-8-summary-of-evidence-and-recommendation-for-management-of-urachal-remnants"
+    },
+    {
+      "level": 3,
+      "text": "22.2. Papillary tumours of the bladder in children and adolescents (Papillary urothelial neoplasm of low malignant potential)",
+      "anchor": "#22-2-papillary-tumours-of-the-bladder-in-children-and-adolescents-papillary-urothelial-neoplasm-of-low-malignant-potential"
+    },
+    {
+      "level": 4,
+      "text": "22.2.1. Incidence",
+      "anchor": "#22-2-1-incidence"
+    },
+    {
+      "level": 4,
+      "text": "22.2.2. Differences and similarities of papillary tumours of the bladder in children and adults",
+      "anchor": "#22-2-2-differences-and-similarities-of-papillary-tumours-of-the-bladder-in-children-and-adults"
+    },
+    {
+      "level": 4,
+      "text": "22.2.3. Risk factors",
+      "anchor": "#22-2-3-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "22.2.4. Presentation",
+      "anchor": "#22-2-4-presentation"
+    },
+    {
+      "level": 4,
+      "text": "22.2.5. Investigations and treatment",
+      "anchor": "#22-2-5-investigations-and-treatment"
+    },
+    {
+      "level": 4,
+      "text": "22.2.6. Histology",
+      "anchor": "#22-2-6-histology"
+    },
+    {
+      "level": 4,
+      "text": "22.2.7. Additional treatment",
+      "anchor": "#22-2-7-additional-treatment"
+    },
+    {
+      "level": 4,
+      "text": "22.2.8. Prognosis, recurrence and surveillance",
+      "anchor": "#22-2-8-prognosis-recurrence-and-surveillance"
+    },
+    {
+      "level": 4,
+      "text": "22.2.9. Summary of evidence and recommendations for papillary tumours of the bladder in children",
+      "anchor": "#22-2-9-summary-of-evidence-and-recommendations-for-papillary-tumours-of-the-bladder-in-children"
+    },
+    {
+      "level": 3,
+      "text": "22.3. Penile rare conditions",
+      "anchor": "#22-3-penile-rare-conditions"
+    },
+    {
+      "level": 4,
+      "text": "22.3.1. Cystic lesions",
+      "anchor": "#22-3-1-cystic-lesions"
+    },
+    {
+      "level": 4,
+      "text": "22.3.2. Vascular malformations",
+      "anchor": "#22-3-2-vascular-malformations"
+    },
+    {
+      "level": 4,
+      "text": "22.3.3. Neurogenic lesions",
+      "anchor": "#22-3-3-neurogenic-lesions"
+    },
+    {
+      "level": 4,
+      "text": "22.3.4. Soft tissue tumours of penis",
+      "anchor": "#22-3-4-soft-tissue-tumours-of-penis"
+    },
+    {
+      "level": 4,
+      "text": "22.3.5. Penile lymphedema",
+      "anchor": "#22-3-5-penile-lymphedema"
+    },
+    {
+      "level": 2,
+      "text": "23. EMERGENCIES IN PAEDIATRIC UROLOGY",
+      "anchor": "#23-emergencies-in-paediatric-urology"
+    },
+    {
+      "level": 3,
+      "text": "23.1. Acute scrotum",
+      "anchor": "#23-1-acute-scrotum"
+    },
+    {
+      "level": 3,
+      "text": "23.2. Paraphimosis",
+      "anchor": "#23-2-paraphimosis"
+    },
+    {
+      "level": 3,
+      "text": "23.3. Priapism",
+      "anchor": "#23-3-priapism"
+    },
+    {
+      "level": 4,
+      "text": "23.3.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#23-3-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "23.3.2. Classification",
+      "anchor": "#23-3-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "23.3.3. Diagnostic evaluation",
+      "anchor": "#23-3-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "23.3.4. Disease management",
+      "anchor": "#23-3-4-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "23.4. Summary of evidence and recommendations for the diagnosis and management of priapism",
+      "anchor": "#23-4-summary-of-evidence-and-recommendations-for-the-diagnosis-and-management-of-priapism"
+    },
+    {
+      "level": 2,
+      "text": "24. PAEDIATRIC UROLOGICAL TRAUMA",
+      "anchor": "#24-paediatric-urological-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.1. Paediatric renal trauma",
+      "anchor": "#24-1-paediatric-renal-trauma"
+    },
+    {
+      "level": 4,
+      "text": "24.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#24-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "24.1.2. Classification systems",
+      "anchor": "#24-1-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "24.1.3. Diagnostic evaluation",
+      "anchor": "#24-1-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.1.4. Disease management",
+      "anchor": "#24-1-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "24.1.5. Recommendations for the diagnosis and management of paediatric renal trauma",
+      "anchor": "#24-1-5-recommendations-for-the-diagnosis-and-management-of-paediatric-renal-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.2. Paediatric ureteral trauma",
+      "anchor": "#24-2-paediatric-ureteral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "24.2.1. Diagnostic evaluation",
+      "anchor": "#24-2-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.2.2. Management",
+      "anchor": "#24-2-2-management"
+    },
+    {
+      "level": 4,
+      "text": "24.2.3. Recommendations for the diagnosis and management of paediatric ureteral trauma",
+      "anchor": "#24-2-3-recommendations-for-the-diagnosis-and-management-of-paediatric-ureteral-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.3. Paediatric bladder injuries",
+      "anchor": "#24-3-paediatric-bladder-injuries"
+    },
+    {
+      "level": 4,
+      "text": "24.3.1. Diagnostic evaluation",
+      "anchor": "#24-3-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.3.2. Management",
+      "anchor": "#24-3-2-management"
+    },
+    {
+      "level": 4,
+      "text": "24.3.3. Recommendations for the diagnosis and management of paediatric bladder injuries",
+      "anchor": "#24-3-3-recommendations-for-the-diagnosis-and-management-of-paediatric-bladder-injuries"
+    },
+    {
+      "level": 3,
+      "text": "24.4. Paediatric urethral injuries",
+      "anchor": "#24-4-paediatric-urethral-injuries"
+    },
+    {
+      "level": 4,
+      "text": "24.4.1. Diagnostic evaluation",
+      "anchor": "#24-4-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.4.2. Disease management",
+      "anchor": "#24-4-2-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "24.4.3. Recommendations for the diagnosis and management of paediatric trauma",
+      "anchor": "#24-4-3-recommendations-for-the-diagnosis-and-management-of-paediatric-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.5. Urosepsis",
+      "anchor": "#24-5-urosepsis"
+    },
+    {
+      "level": 2,
+      "text": "25. PERIOPERATIVE MANAGEMENT",
+      "anchor": "#25-perioperative-management"
+    },
+    {
+      "level": 3,
+      "text": "25.1. Preoperative fasting, intraoperative fluid therapy, postoperative feeding, fasting and fluid management",
+      "anchor": "#25-1-preoperative-fasting-intraoperative-fluid-therapy-postoperative-feeding-fasting-and-fluid-management"
+    },
+    {
+      "level": 4,
+      "text": "25.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#25-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "25.1.2. Disease management",
+      "anchor": "#25-1-2-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "25.1.3. Summary of evidence and recommendations for the management of perioperative fluid management",
+      "anchor": "#25-1-3-summary-of-evidence-and-recommendations-for-the-management-of-perioperative-fluid-management"
+    },
+    {
+      "level": 3,
+      "text": "25.2. Postoperative pain management: general information",
+      "anchor": "#25-2-postoperative-pain-management-general-information"
+    },
+    {
+      "level": 4,
+      "text": "25.2.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#25-2-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "25.2.2. Diagnostic evaluation",
+      "anchor": "#25-2-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "25.2.3. Disease management",
+      "anchor": "#25-2-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "25.2.4. Summary of evidence and recommendations for the management of post-operative pain",
+      "anchor": "#25-2-4-summary-of-evidence-and-recommendations-for-the-management-of-post-operative-pain"
+    },
+    {
+      "level": 3,
+      "text": "25.3. Antibiotics management: general information",
+      "anchor": "#25-3-antibiotics-management-general-information"
+    },
+    {
+      "level": 3,
+      "text": "25.4. Thromboprophylaxis management: general information",
+      "anchor": "#25-4-thromboprophylaxis-management-general-information"
+    },
+    {
+      "level": 4,
+      "text": "25.4.1. Epidemiology, aetiology, pathophysiology",
+      "anchor": "#25-4-1-epidemiology-aetiology-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "25.4.2. Diagnostic evaluation",
+      "anchor": "#25-4-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "25.4.3. Disease management",
+      "anchor": "#25-4-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "25.4.4. Pharmacological treatment for thromboprophylaxis",
+      "anchor": "#25-4-4-pharmacological-treatment-for-thromboprophylaxis"
+    },
+    {
+      "level": 4,
+      "text": "25.4.5. Prevention of CVL-related VTE",
+      "anchor": "#25-4-5-prevention-of-cvl-related-vte"
+    },
+    {
+      "level": 4,
+      "text": "25.4.6. Summary of evidence and recommendations for the management of thromboprophylaxis management",
+      "anchor": "#25-4-6-summary-of-evidence-and-recommendations-for-the-management-of-thromboprophylaxis-management"
+    },
+    {
+      "level": 3,
+      "text": "25.5. Premedication management: general information",
+      "anchor": "#25-5-premedication-management-general-information"
+    },
+    {
+      "level": 4,
+      "text": "25.5.1. Recommendations for premedication management: general recommendations",
+      "anchor": "#25-5-1-recommendations-for-premedication-management-general-recommendations"
+    },
+    {
+      "level": 2,
+      "text": "26. BASIC PRINCIPLES OF LAPAROSCOPIC SURGERY IN CHILDREN",
+      "anchor": "#26-basic-principles-of-laparoscopic-surgery-in-children"
+    },
+    {
+      "level": 3,
+      "text": "26.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#26-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "26.2. Technical considerations and physiological consequences",
+      "anchor": "#26-2-technical-considerations-and-physiological-consequences"
+    },
+    {
+      "level": 4,
+      "text": "26.2.1. Preoperative evaluation",
+      "anchor": "#26-2-1-preoperative-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "26.2.2. Abdominal insufflation",
+      "anchor": "#26-2-2-abdominal-insufflation"
+    },
+    {
+      "level": 4,
+      "text": "26.2.3. Pulmonary effects",
+      "anchor": "#26-2-3-pulmonary-effects"
+    },
+    {
+      "level": 4,
+      "text": "26.2.4. Cardiovascular effects",
+      "anchor": "#26-2-4-cardiovascular-effects"
+    },
+    {
+      "level": 4,
+      "text": "26.2.5. Effects on renal function",
+      "anchor": "#26-2-5-effects-on-renal-function"
+    },
+    {
+      "level": 4,
+      "text": "26.2.6. Effects on neurological system",
+      "anchor": "#26-2-6-effects-on-neurological-system"
+    },
+    {
+      "level": 4,
+      "text": "26.2.7. Comparison of robot-assisted laparoscopic surgery versus laparoscopic surgery",
+      "anchor": "#26-2-7-comparison-of-robot-assisted-laparoscopic-surgery-versus-laparoscopic-surgery"
+    },
+    {
+      "level": 3,
+      "text": "26.3. Summary of evidence and recommendations for laparoscopy in children",
+      "anchor": "#26-3-summary-of-evidence-and-recommendations-for-laparoscopy-in-children"
+    },
+    {
+      "level": 2,
+      "text": "27. TRANSITIONAL UROLOGY",
+      "anchor": "#27-transitional-urology"
+    },
+    {
+      "level": 3,
+      "text": "27.1. Introduction",
+      "anchor": "#27-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "27.2. Barriers in transition",
+      "anchor": "#27-2-barriers-in-transition"
+    },
+    {
+      "level": 3,
+      "text": "27.3. The transition process",
+      "anchor": "#27-3-the-transition-process"
+    },
+    {
+      "level": 3,
+      "text": "27.4. Specific genitourinary conditions",
+      "anchor": "#27-4-specific-genitourinary-conditions"
+    },
+    {
+      "level": 4,
+      "text": "27.4.1. Neurogenic bladder",
+      "anchor": "#27-4-1-neurogenic-bladder"
+    },
+    {
+      "level": 4,
+      "text": "27.4.2. Posterior urethral valves",
+      "anchor": "#27-4-2-posterior-urethral-valves"
+    },
+    {
+      "level": 4,
+      "text": "27.4.3. Hypospadias",
+      "anchor": "#27-4-3-hypospadias"
+    },
+    {
+      "level": 4,
+      "text": "27.4.4. Bladder-exstrophy-epispadias complex",
+      "anchor": "#27-4-4-bladder-exstrophy-epispadias-complex"
+    },
+    {
+      "level": 4,
+      "text": "27.4.5. Differences of sex development",
+      "anchor": "#27-4-5-differences-of-sex-development"
+    },
+    {
+      "level": 3,
+      "text": "27.5. Summary of evidence and recommendations for transitional urology",
+      "anchor": "#27-5-summary-of-evidence-and-recommendations-for-transitional-urology"
+    },
+    {
+      "level": 2,
+      "text": "28. FOETAL UROLOGY",
+      "anchor": "#28-foetal-urology"
+    },
+    {
+      "level": 3,
+      "text": "28.1. Normal renal development",
+      "anchor": "#28-1-normal-renal-development"
+    },
+    {
+      "level": 4,
+      "text": "28.1.1. Introduction",
+      "anchor": "#28-1-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "28.1.2. Renal and bladder development",
+      "anchor": "#28-1-2-renal-and-bladder-development"
+    },
+    {
+      "level": 3,
+      "text": "28.2. Antenatal hydronephrosis",
+      "anchor": "#28-2-antenatal-hydronephrosis"
+    },
+    {
+      "level": 4,
+      "text": "28.2.1. Definitions and follow-up during pregnancy",
+      "anchor": "#28-2-1-definitions-and-follow-up-during-pregnancy"
+    },
+    {
+      "level": 4,
+      "text": "28.2.2. Aetiology",
+      "anchor": "#28-2-2-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "28.2.3. Classification systems for postnatal outcomes",
+      "anchor": "#28-2-3-classification-systems-for-postnatal-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "28.2.4. Postnatal outcomes",
+      "anchor": "#28-2-4-postnatal-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "28.2.5. Long-term outcomes",
+      "anchor": "#28-2-5-long-term-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "28.2.6. Prophylactic measures against UTIs",
+      "anchor": "#28-2-6-prophylactic-measures-against-utis"
+    },
+    {
+      "level": 3,
+      "text": "28.3. Congenital lower urinary tract obstruction",
+      "anchor": "#28-3-congenital-lower-urinary-tract-obstruction"
+    },
+    {
+      "level": 4,
+      "text": "28.3.1. Introduction",
+      "anchor": "#28-3-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "28.3.2. Diagnosis",
+      "anchor": "#28-3-2-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "28.3.3. Management",
+      "anchor": "#28-3-3-management"
+    },
+    {
+      "level": 4,
+      "text": "28.3.4. Foetal cystoscopy",
+      "anchor": "#28-3-4-foetal-cystoscopy"
+    },
+    {
+      "level": 4,
+      "text": "28.3.5. Serial amniotic infusions",
+      "anchor": "#28-3-5-serial-amniotic-infusions"
+    },
+    {
+      "level": 4,
+      "text": "28.3.6. Outcomes postnatally",
+      "anchor": "#28-3-6-outcomes-postnatally"
+    },
+    {
+      "level": 4,
+      "text": "28.3.7. Postnatal management",
+      "anchor": "#28-3-7-postnatal-management"
+    },
+    {
+      "level": 4,
+      "text": "28.3.8. Complex urogenital pathologies - prenatal management and considerations",
+      "anchor": "#28-3-8-complex-urogenital-pathologies---prenatal-management-and-considerations"
+    },
+    {
+      "level": 4,
+      "text": "28.3.9. Summary of evidence and recommendations for foetal urology",
+      "anchor": "#28-3-9-summary-of-evidence-and-recommendations-for-foetal-urology"
+    },
+    {
+      "level": 2,
+      "text": "29. REFERENCES",
+      "anchor": "#29-references"
+    },
+    {
+      "level": 2,
+      "text": "30. CONFLICT OF INTEREST",
+      "anchor": "#30-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "31. CITATION INFORMATION",
+      "anchor": "#31-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "32. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#32-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#paediatric-urology",
+      "title": "Paediatric Urology",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 17. Vesicoureteric Reflux Introduction Methods Phimosis And Other Abnormalities Of The Penile Skin Management Of Undescended Testes Testicular Tumours In Prepubertal Boys Fertility Preservation In Children And Adolescents Hydrocele Acute Scrotum Hypospadias Congenital Penile Curvature Varicocele In Children And Adolescents Urinary Tract Infections In Children Daytime Lower Urinary Tract Conditions Monosymptomatic Nocturnal Enuresis Bedwetting Spinal Dysraphism In Children And Adolescents Formally Neurogenic Bladder Dilatation Of The Upper Urinary Tract Puj Obstruction Vesicoureteric Reflux Urinary Stone Disease Ureterocele And Ectopic Ureter Disorders/differences Of Sex Development Congenital Lower Urinary Tract Obstruction Rare Conditions In Childhood Emergencies In Paediatric Urology Paediatric Urological Trauma Perioperative Management Basic Principles Of Laparoscopic Surgery In Children Transitional Urology Foetal Urology References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#17-vesicoureteric-reflux",
+      "title": "17. VESICOURETERIC REFLUX",
+      "level": 2,
+      "text": "Lack of robust prospective RCTs limits the strength of the established guidelines for the management of VUR. The scientific literature for reflux disease is still limited and thus the level of evidence is generally low. Most of the studies are retrospective, include various patient groups and have poor stratification of quality. There is also a high risk of presenting misleading results by combining different types of studies when systematically extracting data. Therefore, for reflux disease, it is unfortunately not possible to produce recommendations based on high-quality studies. These Guidelines aim to provide a practical approach to the treatment of VUR based on risk analysis and selective indications for both diagnostics and intervention. Although the Panel have tried to summarise most of the possible scenarios in a single table, the table itself is still quite busy. The Panel strongly share the view that making simple and practical guidelines would underestimate the complexity of VUR as a sign of a wide range of pathologies [841]. The Panel summarised and updated this chapter in a recent publication [8].",
+      "tables": []
+    },
+    {
+      "anchor": "#17-1-epidemiology-aetiology-and-pathophysiology",
+      "title": "17.1. Epidemiology, aetiology and pathophysiology",
+      "level": 3,
+      "text": "Vesicoureteric reflux is an anatomical and/or functional disorder with potentially serious consequences, such as renal scarring, hypertension and renal failure. Patients with VUR present with a wide range of severity, and a good proportion of reflux patients do not develop renal scars and probably do not need any intervention [842]. Vesicoureteric reflux is a very common urological anomaly in children, with an incidence of nearly 1%. Genetic analysis studies revealed monogenic causes for VUR and significant differentiation of innate immunity and epithelial function genes in children with VUR/UTIs compared to controls [843-845]. The main management goal is the preservation of kidney function by minimising the risk of pyelonephritis. By defining and analysing the risk factors for each patient (i.e. age, sex, reflux grade, LUTD, anatomical abnormalities and kidney status), it is possible to identify those patients with a potential risk of UTIs and renal scarring. Controversy persists regarding the optimal management of VUR, particularly the choice of diagnostic procedures, treatment (medical, endoscopic or surgical), and the timing of treatment. Many children present without symptoms of UTI and, because invasive diagnostic procedures are performed only when clinically indicated, the exact prevalence of VUR is unknown. However, the prevalence of VUR in nonsymptomatic children has been estimated at 0.4-1.8% [846]. Among infants prenatally identified with hydronephrosis on US who were screened for VUR, the prevalence was 16.2% (7-35%) [847]. Siblings of children with VUR had a 27.4% (3-51%) risk of also having VUR, whereas the offspring of parents with VUR had a higher incidence of 35.7% (21.2-61.4%) [847]. However, reflux detected by sibling screening is associated with lower grades [848] and significantly earlier resolution [849]. When VUR is discovered in siblings after UTI, it is usually high-grade and associated with a high incidence of reflux nephropathy, particularly if the sibling is male and the grade of reflux was high in the index patient [850]. The incidence of VUR is much higher among children with UTIs (30-50%, depending on age). Urinary tract infections are more common in girls than boys due to anatomical differences. However, among all children with UTIs, boys are more likely to have VUR than girls (29% vs. 14%). Boys also tend to have higher grades of VUR diagnosed at younger ages, although their VUR is more likely to resolve itself [851-854]. There is a clear coprevalence between LUTD and VUR [855]. Lower urinary tract dysfunction refers to the presence of LUTS, including urge, urge incontinence, weak stream, hesitancy, frequency and UTIs, which reflect the filling and/or emptying dysfunction and may be accompanied with bowel problems [855]. Some studies have described a prevalence of 40-60% for VUR in children with LUTD [856]. A published Swedish Reflux trial has demonstrated LUTD in 34% of patients, and subdivision into groups characteristic of children revealed that 9% had isolated overactive bladder and 24% had voiding phase dysfunction [857]. The spontaneous resolution of VUR is dependent on age at presentation, sex, grade, laterality, mode of clinical presentation and anatomy [858]. Faster resolution of VUR is more likely with age less than one year at presentation, lower grade of reflux (grade 1-3) and asymptomatic presentation with prenatal hydronephrosis or sibling reflux. The overall resolution rate is high in congenital high-grade VUR during the first years of life. In several Scandinavian studies, the complete resolution rate for high-grade VUR has been reported at > 25%, which is higher than the resolution rate for VUR detected after infancy [857,859,860]. The presence of renal cortical abnormality, bladder dysfunction and breakthrough febrile UTIs are negative predictive factors for reflux resolution [861-863]. Dilating VUR increases the risk of developing acute pyelonephritis and renal scarring. Untreated recurrent UTIs may have a negative impact on somatic growth and medical status of the child. Evidence of renal scarring is present in 10-40% of children with symptomatic VUR, resulting from either congenital dysplasia and/or acquired post-infectious damage, which may have a negative impact on somatic growth and general well-being [864-866]. Scar rates vary among patient groups. Patients with higher grades of VUR present with higher rates of renal scars. In those with prenatal hydronephrosis, renal scarring occurs in 10% of patients [867-872], whereas in patients with LUTD, this may increase up to 30% [866,873,874]. Renal scarring may adversely affect renal growth and function, with bilateral scarring increasing the risk of insufficiency. Reflux nephropathy (RN) may be the most common cause of childhood hypertension. Follow-up studies have shown that 10-20% of children with RN develop hypertension or end-stage renal disease [875].",
+      "tables": []
+    },
+    {
+      "anchor": "#17-2-diagnostic-evaluation",
+      "title": "17.2. Diagnostic evaluation",
+      "level": 3,
+      "text": "The diagnostic workup should aim to evaluate the overall health and development of the child, the presence of UTIs, renal status, the presence of VUR and LUT function. A basic diagnostic workup consists of a detailed medical history (including family history and screening for LUTD), physical examination including blood pressure measurement, urinalysis (assessing proteinuria), urine culture and serum creatinine in patients with bilateral renal parenchymal abnormalities. The standard imaging tests include renal and bladder US, VCUG and nuclear renal scans. Ultrasound and VCUG could be considered as complementary techniques [876]. The criterion standard in diagnosis of VUR is VCUG, particularly at the initial workup. This test provides precise anatomical detail and allows grading of VUR [877]. In 1985, the International Reflux Study Committee introduced a uniform system for the classification of VUR [878,879] (Table 2). The grading system combines two earlier classifications and is based upon the extent of retrograde filling and dilatation of the ureter, renal pelvis and calyces on VCUG [879]. Radionuclide studies for detection of reflux have lower radiation exposure than VCUG, but the anatomical details depicted are inferior [880]. Recent studies on alternative imaging modalities for detection on VUR have yielded good results with voiding US and magnetic resonance VCUG [881-884]. Contrast-enhanced voiding urosonography (ceVUS) with intravesical instillation of various ultrasound contrast agents has been shown to be highly sensitive, giving comparable results with conventional VCUG while avoiding exposure to ionising radiation [577,885-887]. However, despite the concerns about ionising radiation and its invasive nature, conventional VCUG still remains the gold standard, because it allows better determination of the grade of VUR (in a single or duplicated kidney) and assessment of the bladder and urethral configuration. Intrarenal reflux (IRR) is associated with renal scarring development and can be diagnosed on the images acquired during the voiding phase of the standard four-staged VCUG and on ceVUS [888,889]. Table 2: Grading system for VUR on VCUG, according to the International Reflux Study Committee [839] Grade I Reflux does not reach the renal pelvis; varying degrees of ureteral dilatation Grade II Reflux reaches the renal pelvis; no dilatation of the collecting system; normal fornices Grade III Mild or moderate dilatation of the ureter, with or without kinking; moderate dilatation of the collecting system; normal or minimally deformed fornices Grade IV Moderate dilatation of the ureter, with or without kinking; moderate dilatation of the collecting system; blunt fornices, but impressions of the papillae still visible Grade V Gross dilatation and kinking of the ureter; marked dilatation of the collecting system; papillary impressions no longer visible; intraparenchymal reflux Dimercaptosuccinic acid is the best nuclear agent for visualising the cortical tissue and differential function between both kidneys. Dimercaptosuccinic acid is taken up by proximal renal tubular cells and is a good indicator of renal parenchyma function. In areas of acute inflammation or scarring, DMSA uptake is poor and appears as cold spots. Dimercaptosuccinic acid scans are therefore used to detect and monitor renal scarring. A baseline DMSA scan at the time of diagnosis can be used for comparison with successive scans later during follow-up [891]. Dimercaptosuccinic acid can also be used as a diagnostic tool during suspected episodes of acute pyelonephritis [892]. Children with a normal DMSA scan during acute UTI have a low risk of renal damage [892,893]. Videourodynamic studies are only important in patients in whom secondary reflux is suspected, such as those with spina bifida or boys in whom VCUG is suggestive of PUV. In the case of LUTS, diagnosis and follow-up can be limited to noninvasive tests (e.g. voiding charts, US or uroflowmetry) [855]. Cystoscopy has a limited role in evaluating reflux, except for infravesical obstruction or ureteral anomalies that might influence therapy.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Grade I",
+              "Reflux does not reach the renal pelvis; varying degrees of ureteral dilatation"
+            ],
+            [
+              "Grade II",
+              "Reflux reaches the renal pelvis; no dilatation of the collecting system; normal fornices"
+            ],
+            [
+              "Grade III",
+              "Mild or moderate dilatation of the ureter, with or without kinking; moderate dilatation of the collecting system; normal or minimally deformed fornices"
+            ],
+            [
+              "Grade IV",
+              "Moderate dilatation of the ureter, with or without kinking; moderate dilatation of the collecting system; blunt fornices, but impressions of the papillae still visible"
+            ],
+            [
+              "Grade V",
+              "Gross dilatation and kinking of the ureter; marked dilatation of the collecting system; papillary impressions no longer visible; intraparenchymal reflux"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#17-2-1-recommendation-for-diagnosis-of-vur",
+      "title": "17.2.1. Recommendation for diagnosis of VUR",
+      "level": 4,
+      "text": "Recommendation Strength rating Use voiding cystourethrography for the diagnosis of vesicoureteric reflux. Contrast-enhanced voiding urosonography is another option. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Use voiding cystourethrography for the diagnosis of vesicoureteric reflux. Contrast-enhanced voiding urosonography is another option.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#17-2-2-infants-presenting-with-prenatally-diagnosed-hydronephrosis",
+      "title": "17.2.2. Infants presenting with prenatally diagnosed hydronephrosis",
+      "level": 4,
+      "text": "Ultrasound of the kidney and bladder is the first standard evaluation tool for children with prenatally diagnosed hydronephrosis. The procedure is noninvasive and provides reliable information regarding kidney structure, size, parenchymal thickness and collecting system dilatation [894,895]. Ultrasound should be delayed until the first week after birth because of early oliguria in the neonate. It is essential to evaluate the bladder, as well as the kidneys. The degree of dilatation in the collecting system under US, when the bladder is both full and empty, may provide significant information about the presence of VUR. Bladder wall thickness and configuration may be an indirect sign of LUTD and reflux. The absence of hydronephrosis on postnatal US excludes the presence of significant obstruction, however, it does not exclude VUR. Monitoring with careful US avoids unnecessary invasive and irradiating examinations. The first two US scans within the first one to two months of life are highly accurate for defining the presence or absence of renal pathology. In infants with two normal, successive scans, VUR is rare, and if present it is likely to be low-grade [867,896]. The degree of hydronephrosis is not a reliable indicator for the presence of VUR, even though cortical abnormalities are more common in high-grade hydronephrosis [847]. The presence of cortical abnormalities on US (defined as cortical thinning and irregularity, as well as increased echogenicity) warrants the use of VCUG for detecting VUR [847]. Dimercaptosuccinic acid provides more reliable and quantitative measurement of the degree of cortical abnormalities first detected with US. The use of VCUG is recommended in patients with US findings of bilateral high-grade hydronephrosis, duplex kidneys with hydronephrosis, ureterocele, ureteric dilatation, and abnormal bladders, because the likelihood of VUR is much higher. In all other conditions, the use of VCUG to detect reflux is optional [847,869,897-899]. When infants who are diagnosed with prenatal hydronephrosis become symptomatic with UTIs, further evaluation with VCUG should be considered [898]. Patients with severe hydronephrosis and those whose hydronephrosis is sustained or progressive need further evaluation to exclude obstruction.",
+      "tables": []
+    },
+    {
+      "anchor": "#17-2-3-siblings-and-offspring-of-reflux-patients",
+      "title": "17.2.3. Siblings and offspring of reflux patients",
+      "level": 4,
+      "text": "The screening of asymptomatic siblings and offspring is controversial. Some authors think that early identification of children with VUR may prevent episodes of UTI and therefore renal scarring, whereas others think that screening asymptomatic individuals is likely to result in significant overtreatment of clinically insignificant VUR. In screened populations, the prevalence of VUR is 27.4% in siblings and 35.7% in offspring [890]. The overall estimate for renal cortical abnormalities is 19.3% (11-54%), with 27.8% having renal damage in cohorts of symptomatic and asymptomatic children combined. In asymptomatic siblings only, the rate of renal damage is 14.4% (0-100%). Although early screening, and therefore early diagnosis and treatment, appears to be more effective than late screening in preventing further renal damage [847,850,900,901], screening in all siblings and offspring cannot be recommended based on the available evidence. The lack of RCTs for screened patients to assess clinical health outcomes makes evidence-based guideline recommendations difficult.",
+      "tables": []
+    },
+    {
+      "anchor": "#17-2-4-recommendation-for-paediatric-screening-of-vur",
+      "title": "17.2.4. Recommendation for paediatric screening of VUR",
+      "level": 4,
+      "text": "Recommendation Strength rating Inform parents of children with vesicoureteric reflux (VUR) that siblings and offspring have a high prevalence of VUR. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Inform parents of children with vesicoureteric reflux (VUR) that siblings and offspring have a high prevalence of VUR.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#17-2-5-children-with-febrile-urinary-tract-infections",
+      "title": "17.2.5. Children with febrile urinary tract infections",
+      "level": 4,
+      "text": "A routine recommendation of VCUG at zero to two years of age after the first proven febrile UTI is the safest approach, as the evidence for patient selection criteria for reflux detection is weak. Upon diagnosing a child with the first febrile UTI, the risk factors, which include age (> 6 months), presence of sepsis, WBC count (≥ 15,000/mm), and abnormal renal US results, can be used to generate a predictive score for VUR presence [902]. (See Chapter 12 on urinary tract infections in children). Children with febrile infections and abnormal renal US findings may have higher risk of developing renal scars and they should all be evaluated for reflux [903]. If reflux is diagnosed, further evaluation has traditionally consisted of a DMSA scan. An alternative ‘top-down’ approach is also an option, as suggested by several studies in the literature. This approach involves carrying out an initial DMSA scan close to the time of a febrile UTI to determine the presence of pyelonephritis, which is then followed by VCUG if the DMSA scan reveals kidney involvement. A normal DMSA scan with no subsequent VCUG will fail to identify VUR in 5-27% of cases, with the missed VUR presumably being less significant. In contrast, a normal DMSA scan with no VCUG avoids unnecessary VCUG in > 50% of those screened [573,904-906].",
+      "tables": []
+    },
+    {
+      "anchor": "#17-2-6-children-with-lower-urinary-tract-symptoms-and-vesicoureteric-reflux",
+      "title": "17.2.6. Children with lower urinary tract symptoms and vesicoureteric reflux",
+      "level": 4,
+      "text": "Detection of LUTD is essential in treating children with VUR. It is suggested that reflux with LUTD resolves faster after LUTD correction, and that patients with LUTD are at higher risk for developing UTI and renal scarring [854,907]. The coexistence of both conditions should be explored in any patient who has VUR. In case of symptoms suggestive of LUTD (e.g. urgency, wetting, constipation or holding manoeuvres), an extensive history and examination, including voiding charts, uroflowmetry and residual urine determination, will reliably diagnose underlying LUTD. Among toilet-trained children, those with both LUTD and VUR are at higher risk of developing recurrent UTIs than children with isolated VUR [628]. Bladder and bowel dysfunction is common in toilet-trained children presenting with UTI with or without primary VUR. A subgroup meta-analysis also shows that functional constipation is common in these children, affecting nearly every third child. The presence of both BBD and VUR was also found to double the risk of recurrence of UTI. Therefore, all children presenting with UTI should be carefully evaluated for presence of BBD and managed accordingly [908]. In LUTD, VUR is often low-grade and US findings are normal. There is also no indication for performing VCUG in all children with LUTD, but the presence of febrile infections should be meticulously investigated. The coexistence of LUTD and VUR means it would be better to do a test covering both conditions, such as a VUDS. Any patient with LUTD and a history of febrile UTI should be investigated with a VUDS, if available. Moreover, any child who fails standard therapy for LUTD should undergo urodynamic investigation. At this stage, combining a urodynamic study with VCUG is highly recommended.",
+      "tables": []
+    },
+    {
+      "anchor": "#17-3-disease-management",
+      "title": "17.3. Disease management",
+      "level": 3,
+      "text": "Two main treatment approaches are available: conservative (nonsurgical) and surgical.",
+      "tables": []
+    },
+    {
+      "anchor": "#17-3-1-nonsurgical-therapy",
+      "title": "17.3.1. Nonsurgical therapy",
+      "level": 4,
+      "text": "The objective of conservative therapy is prevention of febrile UTI, based on the understanding that: Vesicoureteric reflux can resolve spontaneously, mostly in young patients with low-grade reflux. Renal scarring is also a significant risk factor for breakthrough UTI and could be used to determine those at risk of symptomatic VUR persistence [909]. Resolution is nearly 80% in VUR grades I and II and 30-50% in VUR grades III-V within four to five years of follow-up. Spontaneous resolution is low for bilateral high-grade reflux [910]. Vesicoureteric reflux is very unlikely to damage the kidney postnatally when patients are free of infection and have normal LUT function. There is no evidence that small scars, even bilateral, can cause hypertension, renal insufficiency or problems during pregnancy. Indeed, these problems during pregnancy are possible only in cases of severe bilateral renal damage. The conservative approach includes watchful waiting, intermittent or continuous antibiotic prophylaxis, and bladder and bowel rehabilitation in those with LUTD [873,907,911-913]. Circumcision during early infancy may be considered as part of the conservative approach, because it is effective in reducing the risk of infection in normal children [914]. 17.3.1.a. Follow-up Regular follow-up with imaging studies (e.g. VCUG, nuclear cystography or DMSA scan) is part of the conservative management to monitor spontaneous resolution and kidney status. Vesicoureteral reflux increases the risk of febrile UTI and renal scarring, especially when in combination with LUTD. Constipation in VUR patients with UTI is common and the prevalence can reach 27%. Assessment and management of all toilet-trained children presenting with UTI should be a part of conservative follow-up [908]. During the conservative management of high-grade infant reflux, spontaneous downgrading and resolution of VUR is more likely. However, this also depends on gender, breakthrough UTI, renal damage type and bladder dysfunction. Practical scoring systems for making decisions on further treatment, surveillance, prophylaxis or surgical intervention exist [915]. Conservative management should be dismissed in all cases of febrile breakthrough infections, despite prophylaxis, and intervention should be considered. 17.3.1.b. Continuous antibiotic prophylaxis Many prospective studies have evaluated the role of continuous antibiotic prophylaxis in the prevention of recurrent UTI and renal scarring. Antibiotic prophylaxis may not be needed in every reflux patient [916-918]. Trials show the benefit of CAP is none or minimal in low-grade reflux. Continuous antibiotic prophylaxis is useful in patients with grades III and IV reflux in preventing recurrent infections, but its use in preventing further renal damage is not proven. For VUR children receiving CAP, younger age at the initial diagnosis of UTI (≤ 12 months), bilateral VUR and BBD are independent risk factors for the occurrence of breakthrough UTIs [919]. Toilet-trained children and children with LUTD derive better benefit from CAP [918,920-924]. The RIVUR trial was the largest randomised, placebo-controlled, double-blind, multicentre study, involving 607 children aged 2-72 months with grade I-IV VUR. The RIVUR study showed that prophylaxis reduced the risk of recurrent UTI by 50%, but not renal scarring and its consequences (hypertension and renal failure), at the cost of increased antimicrobial resistance. The benefit of prophylaxis was insignificant in patients with grade III or IV VUR and in the absence of LUTD [925-928]. Additional review of the RIVUR data based on a risk classification system defines a high-risk group (uncircumcised males, presence of BBD and high-grade reflux) who would benefit from an antibiotic prophylaxis significantly. In the context of management with CAP in VUR patients, this should be viewed as a spectrum and a shift from ‘absolute’ CAP in dilated VUR towards a ‘selective’, risk-based approach and should be supported [929]. Selecting patients who do not need CAP may be difficult and risky. A safe approach would be to use CAP in most cases. Decision-making may be influenced by the presence of risk factors for UTI, such as young age, high-grade VUR, status of toilet-training/LUTS, female sex and circumcision status. Although the literature does not provide any reliable information about the duration of CAP in reflux patients. A practical approach would be to use CAP until after children have been toilet-trained and ensuring that there is no LUTD. The literature generally consists of prescribing daily antibiotics at one quarter to one half the regular therapeutic dose. Trimethoprim-sulfamethoxazole, amoxicillin and nitrofurantoin are the most commonly used CAP agents. A child with a UTI and significant VUR can still be recommended to be treated conservatively at first, with surgical care reserved for incompliance for CAP, breakthrough UTIs under CAP and significant VUR that persists after ",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Treat all symptomatic patients diagnosed within the first year of life initially with continuous antibiotic prophylaxis, regardless of the grade of reflux or presence of renal scars.",
+              "Weak"
+            ],
+            [
+              "Offer immediate, parenteral antibiotic treatment for febrile breakthrough infections.",
+              "Strong"
+            ],
+            [
+              "Manage all children presenting at age one to five years conservatively initially.",
+              "Strong"
+            ],
+            [
+              "Offer close surveillance without antibiotic prophylaxis to children presenting with lower grades of reflux and without symptoms.",
+              "Strong"
+            ],
+            [
+              "Ensure that a detailed investigation for the presence of lower urinary tract dysfunction (LUTD) is performed in all children, particularly after toilet training. If LUTD is found, the initial treatment should always be for LUTD.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#17-3-2-surgical-treatment",
+      "title": "17.3.2. Surgical treatment",
+      "level": 4,
+      "text": "Surgical treatment can be carried out by means of endoscopic injection of bulking agents or ureteral reimplantation. 17.3.2.a. Subureteric injection of bulking materials With the availability of biodegradable substances, endoscopic subureteric injection of bulking agents has become an alternative to long-term antibiotic prophylaxis and open surgical intervention in the treatment of VUR in children. Using cystoscopy, a bulking material is injected beneath the intramural part of the ureter in a submucosal location. The injected bulking agent elevates the ureteral orifice and supports the distal ureter and lengthens the submucosal tunnel so that coaptation is increased. This results in narrowing of the lumen, which prevents reflux of urine into the ureter, while still allowing its antegrade flow. Reflux timing during VCUG can be used to predict the success rate of endoscopic treatment, since reflux occurring only during the voiding phase has a higher success than filling phase VUR [936]. Several bulking agents have been used over the past two decades, including polytetrafluoroethylene (PTFE or Teflon™), collagen, autologous fat, polydimethylsiloxane, silicone, chondrocytes, a solution of dextranomer/hyaluronic acid (D/HA) (Deflux™, Dexell ® ), and more recently polyacrylate-polyalcohol copolymer hydrogel (PPC) (Vantris ® ) [937,938]. Although the best results have been obtained with PTFE [939], due to concerns about particle migration, PTFE has not been approved for use in children [940]. Although they are all biocompatible, other compounds such as collagen and chondrocytes have failed to provide a good outcome. The United States Food and Drug Administration (FDA) approved Deflux™ for the treatment of VUR in children in 2001. Injection can be performed under the ureteric orifice to create a volcanic appearance or by using a hydrodistension technique to the ureteric orifice followed by injection to the intramural ureter. In a meta-analysis [941] of 5,527 patients and 8,101 renal units, the reflux resolution rate (by ureter) following one treatment for grades I and II reflux was 78.5%, 72% for grade III, 63% for grade IV, and 51% for grade V. If the first injection was unsuccessful, the second treatment had a success rate of 68% and the third treatment 34%. The aggregate success rate with one or more injections was 85%. The success rate was significantly lower for duplicated (50%) versus single (73%) systems, and neuropathic (62%) versus normal (74%) bladders. The required injection volume of PPC and D/HA to achieve the same success rate can differ between agents and is generally less for PPC [942,943]. Ureteral diameter ratio is a relatively recent objective measurement and appears to be a new predictive tool for clinical outcome and success after endoscopic injection of VUR [944]. Obstruction at UVJ (UVJO) may occur in the long-term follow-up after endoscopic correction of reflux. Patients with high-grade reflux and dilated ureters are at risk of late obstruction. Although in the short term (3-6 months) follow-up success rates and UVJ obstruction appear to be comparable in the long run, it is significantly more common when polyacrylate-polyalcohol copolymer is used as bulking substance [945-948]. The ureteral reimplantation following a failed endoscopic surgery is more challenging after PPC and distal ureter cannot be preserved and requires excision due to fibrosis [943]. Although ureteral fibrosis or inflammatory changes following Vantris injection causing UVJO has been shown to be similar to other injection materials, PPC still demonstrates a higher obstruction rate [949]. Clinical validation of the effectiveness of antireflux endoscopy is currently hampered by the lack of methodologically appropriate studies. In the most recent prospective, randomised trials comparing three treatment arms - i) endoscopic injection, ii) antibiotic prophylaxis, iii) surveillance without antibiotic prophylaxis - in 203 children aged one to two years with grade III/IV reflux, endoscopic treatment gave the highest resolution rate of 71% compared to 39% and 47% for treatment arms ii and iii, respectively, after two-years follow-up. The recurrence rate at two years after endoscopic treatment was 20%. The occurrence of febrile UTIs and scar formation was highest in the surveillance group at 57% and 11%, respectively. New scar formation rate was higher with endoscopic injection (7%) compared with antibiotic prophylaxis (0%) [950]. Longer follow-up studies are needed to validate these findings. High-grade VUR in infants can be treated with injection therapy and the resolution rate is higher than that of prophylaxis. However, this cannot be recommended for all high-grade infants with VUR, since not only are all symptomatic, but resolution or downgrading can also be achieved at favourable conditions, such as unilaterality, grade IV and low residual urine [951,952]. 17.3.2.b. Open surgical techniques Various intra- and extravesical tech",
+      "tables": []
+    },
+    {
+      "anchor": "#17-4-summary-of-evidence-and-recommendations-for-the-management-of-vesicoureteric-reflux-in-childhood",
+      "title": "17.4. Summary of evidence and recommendations for the management of vesicoureteric reflux in childhood",
+      "level": 3,
+      "text": "Summary of evidence There is no evidence that correction of persistent low-grade reflux (grades I-III) without symptoms and normal kidneys offers a significant benefit. The traditional approach of initial medical treatment after diagnosis and shifting to interventional treatment in case of breakthrough infections and new scar formation needs to be challenged, because the treatment should be tailored to various risk groups. Surgical correction should be considered in patients with persistent high-grade reflux (grades IV/V). There is no consensus on the timing and type of surgical correction. The outcome of reimplantation is better than endoscopic correction for higher grades of reflux, whereas satisfactory results can be achieved by endoscopic injection for lower grades. The choice of management depends on the presence of renal scars, clinical course, grade of reflux, ipsilateral renal function, bilaterality, bladder function, associated anomalies of the urinary tract, age, compliance and parental preference. Febrile UTI, high-grade reflux, bilaterality and cortical abnormalities are considered to be risk factors for possible renal damage. The presence of LUTD is an additional risk factor for new scars. Recommendations Strength rating Offer reimplantation or endoscopic correction to patients with frequent breakthrough infections. Weak Offer reimplantation to patients with persistent high-grade reflux and endoscopic correction for lower grades of reflux. Strong Offer surgical repair to children above the age of one presenting with high-grade reflux and abnormal renal parenchyma. Weak Offer surgical correction if parents prefer definitive therapy to conservative management. Strong Select the most appropriate management option based on: the presence of renal scars; clinical course; the grade of reflux; ipsilateral renal function; bilaterality; bladder function; associated anomalies of the urinary tract; age and gender; compliance; and parental preference. Refer to Table 3 for risk factors and follow-up. Weak In high-risk patients who already have renal impairment, a more aggressive, multidisciplinary approach is needed. Strong Table 3: Management and follow-up according to various risk groups Risk Groups Presentation Initial treatment Comment Follow-up High Symptomatic male or female patients after toilet training with high-grade reflux (grades IV-V), abnormal kidneys and LUTD Initial treatment is always for LUTD with CAP; intervention may be considered in cases of BT infections or persistent reflux Greater possibility of earlier intervention More aggressive follow-up for UTI and LUTD; full re-evaluation after six months High Symptomatic male or female patients after toilet training with high-grade reflux (grade IV-V), abnormal kidneys and no LUTD Intervention should be considered Reimplantation has better results than endoscopic surgery Postoperative VCUG on indication only; follow-up of kidney status until after puberty Moderate Symptomatic male or female patients before toilet training, with high-grade reflux and abnormal kidneys CAP is the initial treatment. Intervention may be considered in cases of BT infections or persistent reflux Spontaneous resolution is higher in males Follow-up for UTI/ hydronephrosis; full re-evaluation after 12-24 months Moderate Asymptomatic patients (PNH or sibling) with high-grade reflux and abnormal kidneys CAP is the initial treatment. Intervention may be considered in cases of BT, infections or persistent reflux   Follow-up for UTI/ hydronephrosis; full re-evaluation after 12-24 months Moderate Symptomatic male or female patients after toilet training, with high-grade reflux and normal kidneys with LUTD Initial treatment is always for LUTD with CAP. Intervention may be considered in cases of BT infections or persistent reflux In case of persistent LUTD, despite urotherapy, intervention should be considered. The choice of intervention is controversial Follow-up for UTI and LUTD, kidney status; full re-evaluation after successful urotherapy Moderate Symptomatic male or female patients after toilet training with low-grade reflux, abnormal kidneys with or without LUTD Choice of treatment is controversial. Endoscopic treatment may be an option. LUTD treatment should be given if needed   Follow-up for UTI, LUTD and kidney status until after puberty Moderate All symptomatic patients with normal kidneys, with low-grade reflux, with LUTD Initial treatment is always for LUTD with or without CAP   Follow-up for UTI and LUTD Low All symptomatic patients with normal kidneys, with low-grade reflux, with no LUTD No treatment or CAP If no treatment is given, parents should be informed about risk of infection Follow-up for UTI Low All asymptomatic patients with normal kidneys with low-grade reflux No treatment or CAP in infants If no treatment is given, parents should be informed about risk of infection Follow-up for UTI BT = breakthrough; CAP = continuous antibiotic prophylaxis; LUTD = lowe",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence"
+            ],
+            [
+              "There is no evidence that correction of persistent low-grade reflux (grades I-III) without symptoms and normal kidneys offers a significant benefit."
+            ],
+            [
+              "The traditional approach of initial medical treatment after diagnosis and shifting to interventional treatment in case of breakthrough infections and new scar formation needs to be challenged, because the treatment should be tailored to various risk groups."
+            ],
+            [
+              "Surgical correction should be considered in patients with persistent high-grade reflux (grades IV/V). There is no consensus on the timing and type of surgical correction. The outcome of reimplantation is better than endoscopic correction for higher grades of reflux, whereas satisfactory results can be achieved by endoscopic injection for lower grades."
+            ],
+            [
+              "The choice of management depends on the presence of renal scars, clinical course, grade of reflux, ipsilateral renal function, bilaterality, bladder function, associated anomalies of the urinary tract, age, compliance and parental preference. Febrile UTI, high-grade reflux, bilaterality and cortical abnormalities are considered to be risk factors for possible renal damage. The presence of LUTD is an additional risk factor for new scars."
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer reimplantation or endoscopic correction to patients with frequent breakthrough infections.",
+              "Weak"
+            ],
+            [
+              "Offer reimplantation to patients with persistent high-grade reflux and endoscopic correction for lower grades of reflux.",
+              "Strong"
+            ],
+            [
+              "Offer surgical repair to children above the age of one presenting with high-grade reflux and abnormal renal parenchyma.",
+              "Weak"
+            ],
+            [
+              "Offer surgical correction if parents prefer definitive therapy to conservative management.",
+              "Strong"
+            ],
+            [
+              "Select the most appropriate management option based on:the presence of renal scars;clinical course;the grade of reflux;ipsilateral renal function;bilaterality;bladder function;associated anomalies of the urinary tract;age and gender;compliance; andparental preference.Refer to Table 3 for risk factors and follow-up.",
+              "Weak"
+            ],
+            [
+              "In high-risk patients who already have renal impairment, a more aggressive, multidisciplinary approach is needed.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Risk Groups",
+              "Presentation",
+              "Initial treatment",
+              "Comment",
+              "Follow-up"
+            ],
+            [
+              "High",
+              "Symptomatic male or female patients after toilet training with high-grade reflux (grades IV-V), abnormal kidneys and LUTD",
+              "Initial treatment is always for LUTD with CAP; intervention may be considered in cases of BT infections or persistent reflux",
+              "Greater possibility of earlier intervention",
+              "More aggressive follow-up for UTI and LUTD; full re-evaluation after six months"
+            ],
+            [
+              "High",
+              "Symptomatic male or female patients after toilet training with high-grade reflux (grade IV-V), abnormal kidneys and no LUTD",
+              "Intervention should be considered",
+              "Reimplantation has better results than endoscopic surgery",
+              "Postoperative VCUG on indication only; follow-up of kidney status until after puberty"
+            ],
+            [
+              "Moderate",
+              "Symptomatic male or female patients before toilet training, with high-grade reflux and abnormal kidneys",
+              "CAP is the initial treatment. Intervention may be considered in cases of BT infections or persistent reflux",
+              "Spontaneous resolution is higher in males",
+              "Follow-up for UTI/ hydronephrosis; full re-evaluation after 12-24 months"
+            ],
+            [
+              "Moderate",
+              "Asymptomatic patients (PNH or sibling) with high-grade reflux and abnormal kidneys",
+              "CAP is the initial treatment. Intervention may be considered in cases of BT, infections or persistent reflux",
+              " ",
+              "Follow-up for UTI/ hydronephrosis; full re-evaluation after 12-24 months"
+            ],
+            [
+              "Moderate",
+              "Symptomatic male or female patients after toilet training, with high-grade reflux and normal kidneys with LUTD",
+              "Initial treatment is always for LUTD with CAP. Intervention may be considered in cases of BT infections or persistent reflux",
+              "In case of persistent LUTD, despite urotherapy, intervention should be considered. The choice of intervention is controversial",
+              "Follow-up for UTI and LUTD, kidney status; full re-evaluation after successful urotherapy"
+            ],
+            [
+              "Moderate",
+              "Symptomatic male or female patients after toilet training with low-grade reflux, abnormal kidneys with or without LUTD",
+              "Choice of treatment is controversial. Endoscopic treatment may be an option. LUTD treatment should be given if needed",
+              " ",
+              "Follow-up for UTI, LUTD and kidney status until after puberty"
+            ],
+            [
+              "Moderate",
+              "All symptomatic patients with normal kidneys, with low-grade reflux, with LUTD",
+              "Initial treatment is always for LUTD with or without CAP",
+              " ",
+              "Follow-up for UTI and LUTD"
+            ],
+            [
+              "Low",
+              "All symptomatic patients with normal kidneys, with low-grade reflux, with no LUTD",
+              "No treatment or CAP",
+              "If no treatment is given, parents should be informed about risk of infection",
+              "Follow-up for UTI"
+            ],
+            [
+              "Low",
+              "All asymptomatic patients with normal kidneys with low-grade reflux",
+              "No treatment or CAP in infants",
+              "If no treatment is given, parents should be informed about risk of infection",
+              "Follow-up for UTI"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 7
+}

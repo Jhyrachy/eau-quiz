@@ -1,0 +1,679 @@
+{
+  "guideline": "renal-cell-carcinoma",
+  "chapter": "followup-in-rcc",
+  "url": "https://uroweb.org/guidelines/renal-cell-carcinoma/chapter/followup-in-rcc",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Future goals",
+      "anchor": "#2-3-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AETIOLOGY AND PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology",
+      "anchor": "#3-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Aetiology",
+      "anchor": "#3-2-aetiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Screening",
+      "anchor": "#3-3-screening"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Summary of evidence and recommendations for epidemiology, aetiology and screening",
+      "anchor": "#3-3-1-summary-of-evidence-and-recommendations-for-epidemiology-aetiology-and-screening"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Histological diagnosis",
+      "anchor": "#3-4-histological-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Clear-cell RCC",
+      "anchor": "#3-4-1-clear-cell-rcc"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Papillary RCC",
+      "anchor": "#3-4-2-papillary-rcc"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Chromophobe RCC",
+      "anchor": "#3-4-3-chromophobe-rcc"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Other renal tumours",
+      "anchor": "#3-5-other-renal-tumours"
+    },
+    {
+      "level": 4,
+      "text": "3.5.1. Renal medullary carcinoma (SMARCB1-deficient renal medullary carcinoma)",
+      "anchor": "#3-5-1-renal-medullary-carcinoma-smarcb1-deficient-renal-medullary-carcinoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.2. Carcinoma associated with end-stage renal disease; acquired cystic disease-associated RCC",
+      "anchor": "#3-5-2-carcinoma-associated-with-end-stage-renal-disease-acquired-cystic-disease-associated-rcc"
+    },
+    {
+      "level": 4,
+      "text": "3.5.3. Papillary adenoma",
+      "anchor": "#3-5-3-papillary-adenoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.4. Renal oncocytoma",
+      "anchor": "#3-5-4-renal-oncocytoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.5. Other oncocytic tumours of the kidney",
+      "anchor": "#3-5-5-other-oncocytic-tumours-of-the-kidney"
+    },
+    {
+      "level": 4,
+      "text": "3.5.6. Classical angiomyolipoma",
+      "anchor": "#3-5-6-classical-angiomyolipoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.7. Cystic renal tumours",
+      "anchor": "#3-5-7-cystic-renal-tumours"
+    },
+    {
+      "level": 3,
+      "text": "3.6. Summary of evidence and recommendations for the management of other renal tumours",
+      "anchor": "#3-6-summary-of-evidence-and-recommendations-for-the-management-of-other-renal-tumours"
+    },
+    {
+      "level": 2,
+      "text": "4. STAGING AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-staging-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Staging",
+      "anchor": "#4-1-staging"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Anatomic classification systems",
+      "anchor": "#4-2-anatomic-classification-systems"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION",
+      "anchor": "#5-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Symptoms",
+      "anchor": "#5-1-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Physical examination",
+      "anchor": "#5-1-1-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Laboratory findings",
+      "anchor": "#5-1-2-laboratory-findings"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Imaging investigations",
+      "anchor": "#5-2-imaging-investigations"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Computed tomography",
+      "anchor": "#5-2-1-computed-tomography"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Magnetic resonance imaging",
+      "anchor": "#5-2-2-magnetic-resonance-imaging"
+    },
+    {
+      "level": 4,
+      "text": "5.2.3. Other investigations and emerging technologies",
+      "anchor": "#5-2-3-other-investigations-and-emerging-technologies"
+    },
+    {
+      "level": 4,
+      "text": "5.2.4. Radiographic investigations to evaluate RCC metastases",
+      "anchor": "#5-2-4-radiographic-investigations-to-evaluate-rcc-metastases"
+    },
+    {
+      "level": 4,
+      "text": "5.2.5. Bosniak classification of renal cystic masses",
+      "anchor": "#5-2-5-bosniak-classification-of-renal-cystic-masses"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Renal tumour biopsy",
+      "anchor": "#5-3-renal-tumour-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Indications and rationale",
+      "anchor": "#5-3-1-indications-and-rationale"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Technique",
+      "anchor": "#5-3-2-technique"
+    },
+    {
+      "level": 4,
+      "text": "5.3.3. Diagnostic yield and accuracy",
+      "anchor": "#5-3-3-diagnostic-yield-and-accuracy"
+    },
+    {
+      "level": 4,
+      "text": "5.3.4. Morbidity",
+      "anchor": "#5-3-4-morbidity"
+    },
+    {
+      "level": 4,
+      "text": "5.3.5. Genetic assessment",
+      "anchor": "#5-3-5-genetic-assessment"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Summary of evidence and recommendations for the diagnostic assessment of RCC",
+      "anchor": "#5-4-summary-of-evidence-and-recommendations-for-the-diagnostic-assessment-of-rcc"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Summary of evidence and recommendations for genetic assessment of RCC",
+      "anchor": "#5-5-summary-of-evidence-and-recommendations-for-genetic-assessment-of-rcc"
+    },
+    {
+      "level": 2,
+      "text": "6. PROGNOSTIC FACTORS",
+      "anchor": "#6-prognostic-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Definition and classification",
+      "anchor": "#6-1-definition-and-classification"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Anatomical factors",
+      "anchor": "#6-2-anatomical-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Histological factors",
+      "anchor": "#6-3-histological-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Clinical factors",
+      "anchor": "#6-4-clinical-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Frailty and comprehensive geriatric assessment",
+      "anchor": "#6-4-1-frailty-and-comprehensive-geriatric-assessment"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Nephrological assessment",
+      "anchor": "#6-4-2-nephrological-assessment"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Molecular factors",
+      "anchor": "#6-5-molecular-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Prognostic models",
+      "anchor": "#6-6-prognostic-models"
+    },
+    {
+      "level": 3,
+      "text": "6.7. Summary of evidence and recommendations for prognostic factors",
+      "anchor": "#6-7-summary-of-evidence-and-recommendations-for-prognostic-factors"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT",
+      "anchor": "#7-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Patient involvement in kidney cancer treatment",
+      "anchor": "#7-1-patient-involvement-in-kidney-cancer-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.1.1. Recommendation on patient involvement and shared decision making",
+      "anchor": "#7-1-1-recommendation-on-patient-involvement-and-shared-decision-making"
+    },
+    {
+      "level": 4,
+      "text": "7.1.2. Smoking cessation",
+      "anchor": "#7-1-2-smoking-cessation"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Treatment of localised RCC",
+      "anchor": "#7-2-treatment-of-localised-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. Introduction",
+      "anchor": "#7-2-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Surgical treatment",
+      "anchor": "#7-2-2-surgical-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Radical and partial nephrectomy techniques",
+      "anchor": "#7-2-3-radical-and-partial-nephrectomy-techniques"
+    },
+    {
+      "level": 4,
+      "text": "7.2.4. Therapeutic approaches as alternatives to surgery",
+      "anchor": "#7-2-4-therapeutic-approaches-as-alternatives-to-surgery"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Treatment of locally advanced RCC",
+      "anchor": "#7-3-treatment-of-locally-advanced-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Introduction",
+      "anchor": "#7-3-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Role of lymph node dissection in locally advanced RCC",
+      "anchor": "#7-3-2-role-of-lymph-node-dissection-in-locally-advanced-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. Management of RCC with venous tumour thrombus",
+      "anchor": "#7-3-3-management-of-rcc-with-venous-tumour-thrombus"
+    },
+    {
+      "level": 4,
+      "text": "7.3.4. Management of locally advanced unresectable RCC",
+      "anchor": "#7-3-4-management-of-locally-advanced-unresectable-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.3.5. Neoadjuvant and adjuvant therapy",
+      "anchor": "#7-3-5-neoadjuvant-and-adjuvant-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Therapy of oligometastatic disease",
+      "anchor": "#7-4-2-therapy-of-oligometastatic-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.5.1. Chemotherapy",
+      "anchor": "#7-5-1-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.5.2. Targeted therapies",
+      "anchor": "#7-5-2-targeted-therapies"
+    },
+    {
+      "level": 4,
+      "text": "7.5.3. Immunotherapy",
+      "anchor": "#7-5-3-immunotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.5.4. Therapeutic strategies",
+      "anchor": "#7-5-4-therapeutic-strategies"
+    },
+    {
+      "level": 3,
+      "text": "7.6. Locally recurrent RCC after treatment of localised disease",
+      "anchor": "#7-6-locally-recurrent-rcc-after-treatment-of-localised-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.6.1. Locally recurrent RCC after nephron-sparing approaches",
+      "anchor": "#7-6-1-locally-recurrent-rcc-after-nephron-sparing-approaches"
+    },
+    {
+      "level": 4,
+      "text": "7.6.2. Locally recurrent RCC after radical nephrectomy",
+      "anchor": "#7-6-2-locally-recurrent-rcc-after-radical-nephrectomy"
+    },
+    {
+      "level": 4,
+      "text": "7.6.3. Summary of evidence and recommendation on locally recurrent RCC after treatment of localised disease",
+      "anchor": "#7-6-3-summary-of-evidence-and-recommendation-on-locally-recurrent-rcc-after-treatment-of-localised-disease"
+    },
+    {
+      "level": 2,
+      "text": "8. HEREDITARY AND SYNDROME SPECIFIC RCC",
+      "anchor": "#8-hereditary-and-syndrome-specific-rcc"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Microphthalmia-associated transcription factors (MiTF) associated translocation tumours",
+      "anchor": "#8-1-microphthalmia-associated-transcription-factors-mitf-associated-translocation-tumours"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Management of hereditary and syndrome-specific RCC",
+      "anchor": "#8-2-management-of-hereditary-and-syndrome-specific-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.1. Von Hippel-Lindau-disease-associated RCC",
+      "anchor": "#8-2-1-von-hippel-lindau-disease-associated-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.2. TFE3-rearranged RCC",
+      "anchor": "#8-2-2-tfe3-rearranged-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.3. TFEB-altered RCC",
+      "anchor": "#8-2-3-tfeb-altered-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.4. Combined therapy for TFE3- and TFEB-altered RCCs",
+      "anchor": "#8-2-4-combined-therapy-for-tfe3--and-tfeb-altered-rccs"
+    },
+    {
+      "level": 4,
+      "text": "8.2.5. Summary of evidence and recommendation for hereditary and syndrome-specific RCC",
+      "anchor": "#8-2-5-summary-of-evidence-and-recommendation-for-hereditary-and-syndrome-specific-rcc"
+    },
+    {
+      "level": 2,
+      "text": "9. FOLLOW UP",
+      "anchor": "#9-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Introduction",
+      "anchor": "#9-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Which imaging investigations for which patients, and when?",
+      "anchor": "#9-2-which-imaging-investigations-for-which-patients-and-when"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Summary of evidence and recommendations for surveillance following RN or PN or ablative therapies in RCC",
+      "anchor": "#9-3-summary-of-evidence-and-recommendations-for-surveillance-following-rn-or-pn-or-ablative-therapies-in-rcc"
+    },
+    {
+      "level": 2,
+      "text": "10. REFERENCES",
+      "anchor": "#10-references"
+    },
+    {
+      "level": 2,
+      "text": "11. CONFLICT OF INTEREST",
+      "anchor": "#11-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "12. CITATION INFORMATION",
+      "anchor": "#12-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "13. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#13-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#renal-cell-carcinoma",
+      "title": "Renal Cell Carcinoma",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 9. Follow Up Introduction Methods Epidemiology Aetiology And Pathology Staging And Classification Systems Diagnostic Evaluation Prognostic Factors Disease Management Hereditary And Syndrome Specific Rcc Follow Up References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#9-follow-up",
+      "title": "9. FOLLOW UP",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#9-1-introduction",
+      "title": "9.1. Introduction",
+      "level": 3,
+      "text": "Surveillance after treatment for RCC allows the urologist to monitor or identify the following: postoperative complications; renal function; local recurrence; recurrence in the contralateral kidney; distant metastases; and cardiovascular events. There is no consensus on follow-up strategies after RCC treatment, with limited evidence suggesting that more frequent postoperative imaging intervals do not provide any improvement for early detection of recurrence that would lead to improved survival [726]. As such, intensive radiological surveillance may not be necessary for all patients. Follow-up is also important to assess functional outcomes and to limit long-term sequelae, such as renal function impairment, ESRD and cardiovascular events [749]. Referral of patients at risk of CKD/renal function deterioration after treatment (surgery/ablation) to a nephrologist may minimise the risk of worsening of renal function; support oncologists in managing treatment-related renal adverse events; assist in the choice of optimal follow-up radiological procedures (mainly deciding if, when, and how to use CT contrast media); and deal with oncological patients on dialysis or with kidney transplant (including if and when to start dialysis, or whether to allow a kidney transplant) (expert opinion) [252]. Patients with pre-existing or treatment-induced CKD (e.g. patients with new baseline estimated GFR equal to or less than 45ml/min. [750]), and/or known comorbidities potentially affecting renal function could benefit the most from specialist nephrological assessment during follow-up (expert opinion). Currently, the key question is whether any recurrence detection during follow-up and subsequent treatment will lead to any meaningful change in survival outcome for these patients. In contrast to high-grade and/or locally advanced disease, the outcome after surgery for T1a low-grade tumours is almost always excellent. It is therefore reasonable to stratify follow-up, taking into account the risk of each different RCC to develop a local or distant recurrence. Although there is no randomised evidence, large studies have examined prognostic factors with long follow-up [220,751,752] (LE: 4). One study has shown a survival benefit in patients who were followed within a structured surveillance protocol versus patients who were not [753]; patients undergoing follow-up appear to have a longer OS when compared to patients not undergoing routine follow-up [753]. Moreover, an individualised and risk-based approach to RCC follow-up has recently been proposed [754]. The authors used competing risk models, incorporating patient age, pathologic stage, relapse location and comorbidities, to calculate when the risk of non-RCC death exceeds the risk of RCC recurrence [755]. For patients with low-stage disease but with a Charlson comorbidity index > 2, the risk of non-RCC death exceeded that of abdominal recurrence risk already one month after surgery, regardless of patient age. As for psychological factors, an SR including fifteen studies revealed that psychological distress (defined as anxiety, depression or psychological distress at any time during treatment or follow-up) is also prevalent among RCC patients, reaching up to 77% in non-metastatic cases [756]. The RECUR consortium, initiated by this Panel, collects similar data with the aim to provide comparators for guideline recommendations. Published RECUR data support a risk-based approach; more specifically, a competing-risk analysis showed that, for low-risk patients, the risk of non-RCC-related death exceeded the risk of RCC recurrence shortly after the initial surgery. For intermediate-risk patients, the corresponding time point was reached approximately four to five years after surgery. In high-risk patients, the risk of RCC recurrence continuously exceeded the risk of non-RCC-related death [757]. In the near future, genetic profiling may refine the existing prognostic scores and external validation in datasets from adjuvant trials have been promising in improving stratification of patient’s risk of recurrence [757,758]. Recurrence after PN is rare, but early diagnosis is relevant, as the most effective treatment is surgery [717,759]. Recurrence in the contralateral kidney is rare (1-2%) and can occur late (median 5-6 years) [760] (LE: 3). Follow-up can identify local recurrences or metastases at an early stage. At recurrence, extensive metastatic tumour growth can hinder the opportunity for surgical resection. In addition, early diagnosis of tumour recurrence may enhance the efficacy of systemic treatment if the tumour burden is low.",
+      "tables": []
+    },
+    {
+      "anchor": "#9-2-which-imaging-investigations-for-which-patients-and-when",
+      "title": "9.2. Which imaging investigations for which patients, and when?",
+      "level": 3,
+      "text": "The sensitivity of chest radiography and US for detection of small RCC metastases is poor. The sensitivity of chest radiography is significantly lower than CT-scans, as proven in comparative studies including histological evaluation [761-763]. Therefore, follow-up for recurrence detection with chest radiography and US are less sensitive [764]. Positron-emission tomography and PET-CT as well as bone scintigraphy should not be used routinely in RCC follow-up, due to their limited specificity and sensitivity [128,144]. Surveillance should also include evaluation of renal function and cardiovascular risk factors [749]. Outside the scope of regular follow-up imaging of the chest and abdomen, targeted imaging should be considered in patients with organ-specific symptoms, e.g. CT or MRI imaging of the brain in patients experiencing neurological symptoms [765]. Controversy exists on the optimal duration of follow-up. Some authors argue that follow-up with imaging is not cost-effective after five years. However, late metastases are more likely to be solitary and justify more aggressive therapy with curative intent. In addition, patients with tumours that develop in the contralateral kidney can be treated with NSS if the tumours are detected early. Several authors have designed scoring systems and nomograms to quantify the likelihood of patients to develop tumour recurrences, metastases and subsequent death [282,284,766,767]. These models, the most utilised of which are summarised in Chapter 6, ‘Prognosis’, have been compared and validated [768] (LE: 2). Using prognostic variables, several stage-based follow-up regimens have been proposed, although, none propose follow-up strategies after ablative therapies [769,770]. A postoperative nomogram is available to estimate the likelihood of freedom from recurrence at five years [279]. A preoperative prognostic model based on age, symptoms and TNM staging has been published and validated [771] (LE: 3). A follow-up algorithm for monitoring patients after treatment for RCC is needed, recognising not only the patient’s risk of recurrence profile, but also the efficacy of the treatment given (Table 8.1). These prognostic systems can be used to adapt the follow-up schedule according to predicted risk of recurrence. Ancillary to the above, life-expectancy calculations based on comorbidity and age at diagnosis may be useful in counselling patients on duration of follow-up [772]. An SR evaluated frequency and duration of follow-up. Most studies employ a higher imaging frequency during FU after treatment for non-metastatic RCC than recommended by the 2022 EAU Guidelines. Survival and recurrence rates suggest that more frequent imaging than recommended by the EAU may not be advantageous, although high-quality evidence is needed to further improve guidelines [773]. Referral of patients at risk of CKD or with renal function deterioration after treatment to a nephrologist may minimise the risk of worsening of renal function, support oncologists in managing treatment-related renal adverse events, and assist in the choice of optimal follow-up radiological procedures (expert opinion) [252]. Patients with pre-existing or treatment-induced CKD (e.g. patients with new baseline estimated GFR < 45ml/min. [252]) and/or those with known comorbidities potentially affecting renal function could benefit the most from specialist nephrological assessment during follow-up (expert opinion). Table 9.1: Proposed follow-up schedule following treatment for localised RCC, taking into account patient risk of recurrence profile and treatment efficacy (based on expert opinion [LE: 4]) Risk profile (*) Oncological follow-up after date of surgery   3 mos. 6 mos. 12 mos. 18 mos. 24 mos. 30 mos. 36 mos. > 3 yr (**) (***) > 5 yr (**) (***) Low risk of recurrence For ccRCC: Leibovich Score 0-2 For non-ccRCC: pT1a-T1b pNx-0 M0 and histological grade 1 or 2. - CT - CT - CT - CT once every two yrs - Intermediate risk of recurrence For ccRCC: Leibovich Score 3-5 For non-ccRCC: pT1b pNx-0 and/or histological grade 3 or 4 - CT CT - CT - CT CT once yr CT once  every  two yrs High risk of recurrence For ccRCC: Leibovich Score ≥ 6 For non-ccRCC: pT2-pT4 with any histological grade or pT any, pN1 cM0 with any histological grade CT CT CT CT CT - CT CT once yr CT once  every  two yrs ccRCC = clear cell renal cell carcinoma; CT = computed tomography; mos. = months; non-ccRCC = non clear cell renal cell carcinoma; yrs. = years. The table above provides recommendations on follow-up strategies for low, intermediate and high risk of recurrence in patients curatively treated for localised RCC either with NSS or RN. Computed tomography in the table refers to imaging of both chest and abdomen. Alternatively, MRI of the abdomen can be performed instead of a CT-scan. * Risk of recurrence profiles should be based on validated prognostic models. The EAU RCC Guidelines Panel recommends the 2003 Leibovich model for ccRCC [282]. However, physi",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Risk profile (*)",
+              "Oncological follow-up after date of surgery"
+            ],
+            [
+              " ",
+              "3 mos.",
+              "6 mos.",
+              "12 mos.",
+              "18 mos.",
+              "24 mos.",
+              "30 mos.",
+              "36 mos.",
+              "> 3 yr (**) (***)",
+              "> 5 yr (**) (***)"
+            ],
+            [
+              "Low risk of recurrenceFor ccRCC:Leibovich Score 0-2For non-ccRCC:pT1a-T1b pNx-0 M0 and histological grade 1 or 2.",
+              "-",
+              "CT",
+              "-",
+              "CT",
+              "-",
+              "CT",
+              "-",
+              "CT once every two yrs",
+              "-"
+            ],
+            [
+              "Intermediate risk of recurrenceFor ccRCC:Leibovich Score 3-5For non-ccRCC:pT1b pNx-0 and/or histological grade 3 or 4",
+              "-",
+              "CT",
+              "CT",
+              "-",
+              "CT",
+              "-",
+              "CT",
+              "CT once yr",
+              "CT once every two yrs"
+            ],
+            [
+              "High risk of recurrenceFor ccRCC:Leibovich Score ≥ 6For non-ccRCC:pT2-pT4 with any histological gradeorpT any, pN1 cM0 with any histological grade",
+              "CT",
+              "CT",
+              "CT",
+              "CT",
+              "CT",
+              "-",
+              "CT",
+              "CT once yr",
+              "CT once every two yrs"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#9-3-summary-of-evidence-and-recommendations-for-surveillance-following-rn-or-pn-or-ablative-therapies-in-rcc",
+      "title": "9.3. Summary of evidence and recommendations for surveillance following RN or PN or ablative therapies in RCC",
+      "level": 3,
+      "text": "Summary of evidence LE Functional follow-up after curative treatment for RCC is useful to prevent renal and cardiovascular deterioration. 3 Oncological follow-up can detect local recurrence or metastatic disease while the patient may still be surgically curable. 4 After NSS, there is an increased risk of recurrence for larger (> 7cm) tumours, or when there is a PSM. 3 Patients undergoing follow-up have a better OS than patients not undergoing follow-up. 3 Prognostic models provide stratification of RCC risk of recurrence based on TNM and histological features. 3 In competing-risk models, risk of non-RCC-related death exceeds that of RCC recurrence or related death in low-risk patients. 3 Life expectancy estimation is feasible and may support counselling of patients on duration of follow-up. 4 Overall survival is reduced in metastatic RCC patients with symptoms of depression and distress. 2a Referral to nephrological evaluation of patients with baseline or treatment-induced CKD and/or with known risk factors for renal function deterioration may minimise the risk of worsening of renal function, support management decisions, and tailor follow-up schedules. 4 Recommendations Strength rating Base follow-up after treatment of localised RCC on the risk of recurrence. Strong Base risk of recurrence stratification on validated subtype-specific models such as the Leibovich Score for clear cell renal cell carcinoma (ccRCC), or the University of California Los Angeles integrated staging system for non-ccRCC. Weak Intensify follow-up in patients after nephron-sparing surgery with a positive surgical margin. Weak Consider curtailing follow-up when the risk of dying from other causes is double that of the RCC recurrence risk. Weak Offer psychological evaluation for all patients diagnosed with RCC to provide timely support for distress, depression, or anxiety. Weak Seek nephrological consultation during follow-up in patients treated for RCC with one or more of the following conditions: - pre-existing chronic kidney disease (CKD) - treatment-induced CKD (e.g. new baseline eGFR < 45ml/min.) - known comorbidities potentially affecting renal function. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Functional follow-up after curative treatment for RCC is useful to prevent renal and cardiovascular deterioration.",
+              "3"
+            ],
+            [
+              "Oncological follow-up can detect local recurrence or metastatic disease while the patient may still be surgically curable.",
+              "4"
+            ],
+            [
+              "After NSS, there is an increased risk of recurrence for larger (> 7cm) tumours, or when there is a PSM.",
+              "3"
+            ],
+            [
+              "Patients undergoing follow-up have a better OS than patients not undergoing follow-up.",
+              "3"
+            ],
+            [
+              "Prognostic models provide stratification of RCC risk of recurrence based on TNM and histological features.",
+              "3"
+            ],
+            [
+              "In competing-risk models, risk of non-RCC-related death exceeds that of RCC recurrence or related death in low-risk patients.",
+              "3"
+            ],
+            [
+              "Life expectancy estimation is feasible and may support counselling of patients on duration of follow-up.",
+              "4"
+            ],
+            [
+              "Overall survival is reduced in metastatic RCC patients with symptoms of depression and distress.",
+              "2a"
+            ],
+            [
+              "Referral to nephrological evaluation of patients with baseline or treatment-induced CKD and/or with known risk factors for renal function deterioration may minimise the risk of worsening of renal function, support management decisions, and tailor follow-up schedules.",
+              "4"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Base follow-up after treatment of localised RCC on the risk of recurrence.",
+              "Strong"
+            ],
+            [
+              "Base risk of recurrence stratification on validated subtype-specific models such as the Leibovich Score for clear cell renal cell carcinoma (ccRCC), or the University of California Los Angeles integrated staging system for non-ccRCC.",
+              "Weak"
+            ],
+            [
+              "Intensify follow-up in patients after nephron-sparing surgery with a positive surgical margin.",
+              "Weak"
+            ],
+            [
+              "Consider curtailing follow-up when the risk of dying from other causes is double that of the RCC recurrence risk.",
+              "Weak"
+            ],
+            [
+              "Offer psychological evaluation for all patients diagnosed with RCC to provide timely support for distress, depression, or anxiety.",
+              "Weak"
+            ],
+            [
+              "Seek nephrological consultation during follow-up in patients treated for RCC with one or more of the following conditions:- pre-existing chronic kidney disease (CKD)- treatment-induced CKD (e.g. new baseline eGFR < 45ml/min.)- known comorbidities potentially affecting renal function.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 3
+}

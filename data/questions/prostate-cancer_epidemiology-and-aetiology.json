@@ -1,0 +1,845 @@
+{
+  "guideline": "prostate-cancer",
+  "chapter": "epidemiology-and-aetiology",
+  "url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology",
+  "question_count": 27,
+  "questions": [
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-001",
+      "question": "First-generation Asian immigrants in the USA have approximately how much risk of PCa compared to their US-born Asian-descendant compatriots?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Approximately half the risk"
+        },
+        {
+          "id": "B",
+          "text": "Similar risk"
+        },
+        {
+          "id": "C",
+          "text": "Approximately double the risk"
+        },
+        {
+          "id": "D",
+          "text": "Approximately three times the risk"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Section 3.2.1 states that first-generation Asian immigrants in the USA have approximately half the risk of PCa when compared to their US-born Asian-descendant compatriots, suggesting a role for environmental and/or dietary factors.",
+      "section": "3.2.1",
+      "section_title": "3.2.1. Hereditary risk factors for PCa",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "easy",
+      "fact": "First-generation Asian immigrants in the USA have approximately half the risk of PCa when compared to their US-born Asian-descendant compatriots",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-002",
+      "question": "According to the guidelines, which of the following is classified as a hereditary risk factor for prostate cancer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Metabolic syndrome"
+        },
+        {
+          "id": "B",
+          "text": "Dietary factors"
+        },
+        {
+          "id": "C",
+          "text": "Known genetic mutations"
+        },
+        {
+          "id": "D",
+          "text": "Obesity"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Section 3.2.1 explicitly categorises known genetic mutations as a hereditary risk factor, whereas metabolic syndrome, dietary factors, and obesity are classified as nonhereditary risk factors.",
+      "section": "3.2.1",
+      "section_title": "3.2.1. Hereditary risk factors for PCa",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "medium",
+      "fact": "Hereditary risk factors include ethnicity, family history and known genetic mutations",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-003",
+      "question": "These guidelines divide risk factors for prostate cancer into which two categories?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Modifiable and non-modifiable"
+        },
+        {
+          "id": "B",
+          "text": "Hereditary and nonhereditary"
+        },
+        {
+          "id": "C",
+          "text": "Endogenous and exogenous"
+        },
+        {
+          "id": "D",
+          "text": "Direct and indirect"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Section 3.2.1 states that these guidelines divide risk factors into hereditary (ethnicity, family history, known genetic mutations) and nonhereditary (dietary and medical factors, metabolic syndrome, obesity) categories.",
+      "section": "3.2.1",
+      "section_title": "3.2.1. Hereditary risk factors for PCa",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "easy",
+      "fact": "These guidelines divide the risk factors into hereditary and nonhereditary",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-004",
+      "question": "According to the 2022 global estimates, how many men were diagnosed with prostate cancer worldwide?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Approximately 1.46 million men"
+        },
+        {
+          "id": "B",
+          "text": "Approximately 396,000 men"
+        },
+        {
+          "id": "C",
+          "text": "Approximately 2.5 million men"
+        },
+        {
+          "id": "D",
+          "text": "Approximately 750,000 men"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The text explicitly states 'an estimated 1.46 million diagnoses' worldwide in 2022. The 396,792 figure refers to deaths, not diagnoses. This is a direct recall question from Section 3.2.",
+      "section": "3.2",
+      "section_title": "3.2. Aetiology and risk factors for prostate cancer",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "easy",
+      "fact": "Prostate cancer is the second-most diagnosed cancer in men, with an estimated 1.46 million diagnoses and 396,792 deaths worldwide in 2022.",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-005",
+      "question": "What is the reported prevalence of prostate cancer at autopsy in men over 79 years of age according to the systematic review cited?",
+      "options": [
+        {
+          "id": "A",
+          "text": "59% (95% CI: 48-71%)"
+        },
+        {
+          "id": "B",
+          "text": "41% (95% CI: 30-52%)"
+        },
+        {
+          "id": "C",
+          "text": "83% (95% CI: 75-91%)"
+        },
+        {
+          "id": "D",
+          "text": "5% (95% CI: 3-8%)"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The text specifically states prevalence increases to 59% (48-71%) by age >79 years. The 41% figure refers to Japanese men aged 71-80, and 5% refers to men under 30 years. This is a direct recall question from Section 3.2.",
+      "section": "3.2",
+      "section_title": "3.2. Aetiology and risk factors for prostate cancer",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "easy",
+      "fact": "An SR of autopsy studies reported a prevalence of PCa at age <30 years of 5% (95% confidence interval [CI]: 3-8%), increasing with age to a prevalence of 59% (48-71%) by age >79 years.",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-006",
+      "question": "Which population has the highest age-standardised mortality rate for prostate cancer according to the guideline?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Populations of African descent"
+        },
+        {
+          "id": "B",
+          "text": "Men in Northern America"
+        },
+        {
+          "id": "C",
+          "text": "Men in Western Europe"
+        },
+        {
+          "id": "D",
+          "text": "Men in Australia/New Zealand"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The text explicitly states mortality rates are generally high in populations of African descent (Caribbean: ASR 29, Sub-Saharan Africa: ASRs 14-19), compared to intermediate in the USA and very low in Asia. This is an application question requiring interpretation of mortality data from Section 3.2.",
+      "section": "3.2",
+      "section_title": "3.2. Aetiology and risk factors for prostate cancer",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "medium",
+      "fact": "There is relatively less variation in mortality rates worldwide, although rates are generally high in populations of African descent (e.g. Caribbean: ASR of 29, and Sub-Saharan Africa: ASRs ranging between 14 and 19), intermediate in the USA, and very low in Asia.",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-007",
+      "question": "How many basic inherited risk factors are consistently associated with prostate cancer (PCa)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "One"
+        },
+        {
+          "id": "B",
+          "text": "Two"
+        },
+        {
+          "id": "C",
+          "text": "Three"
+        },
+        {
+          "id": "D",
+          "text": "Four"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Section 3.2.1.a states that there are three basic inherited risk factors consistently associated with PCa. These are ethnicity/family history, rare germline mutations, and common genetic SNPs.",
+      "section": "3.2.1.a",
+      "section_title": "3.2.1.a. Ethnicity and Family history",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "easy",
+      "fact": "There are three basic inherited risk factors that are consistently associated with PCa: ethnicity/family history, rare germline mutations in various candidate genes and common genetic single-nucleotide polymorphism (SNPs).",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-008",
+      "question": "Which of the following is NOT listed as one of the three basic inherited risk factors for prostate cancer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ethnicity/family history"
+        },
+        {
+          "id": "B",
+          "text": "Rare germline mutations in candidate genes"
+        },
+        {
+          "id": "C",
+          "text": "Environmental lifestyle factors"
+        },
+        {
+          "id": "D",
+          "text": "Common genetic single-nucleotide polymorphisms (SNPs)"
+        }
+      ],
+      "correct": "C",
+      "explanation": "According to Section 3.2.1.a, the three basic inherited risk factors are ethnicity/family history, rare germline mutations, and common genetic SNPs. Environmental lifestyle factors are not included in this list of inherited risk factors.",
+      "section": "3.2.1.a",
+      "section_title": "3.2.1.a. Ethnicity and Family history",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "medium",
+      "fact": "There are three basic inherited risk factors that are consistently associated with PCa: ethnicity/family history, rare germline mutations in various candidate genes and common genetic single-nucleotide polymorphism (SNPs).",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-009",
+      "question": "How many individual SNPs have been identified to be associated with prostate cancer risk?",
+      "options": [
+        {
+          "id": "A",
+          "text": "269"
+        },
+        {
+          "id": "B",
+          "text": "50"
+        },
+        {
+          "id": "C",
+          "text": "18"
+        },
+        {
+          "id": "D",
+          "text": "51"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The guideline text explicitly states that 'Two hundred and sixty-nine individual SNPs have been identified to be associated with PCa risk' in section 3.2.2. This is a direct factual recall from the epidemiological data provided.",
+      "section": "3.2.2",
+      "section_title": "3.2.2. Non-hereditary risk factors for PCa",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "easy",
+      "fact": "Two hundred and sixty-nine individual SNPs have been identified to be associated with PCa risk",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-010",
+      "question": "What is the clinical utility of polygenic risk scores (PRSs) when added to PSA for prostate cancer risk stratification?",
+      "options": [
+        {
+          "id": "A",
+          "text": "PRSs significantly improve risk stratification when combined with PSA"
+        },
+        {
+          "id": "B",
+          "text": "PRSs can completely replace PSA as a screening tool"
+        },
+        {
+          "id": "C",
+          "text": "PRSs provide no additive prognostic value and cannot be used for risk stratification"
+        },
+        {
+          "id": "D",
+          "text": "PRSs are useful only in patients with family history of prostate cancer"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Section 3.2.2 explicitly states that 'there appears to be no additive prognostic value in the PRSs when added to PSA and PRSs therefore cannot be used for risk stratification.' This indicates that PRSs have no clinical utility when combined with PSA for risk stratification.",
+      "section": "3.2.2",
+      "section_title": "3.2.2. Non-hereditary risk factors for PCa",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "medium",
+      "fact": "There appears to be no additive prognostic value in the PRSs when added to PSA and PRSs therefore cannot be used for risk stratification",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-011",
+      "question": "Which statement best describes the difference between germline genetic mutations and SNPs in relation to prostate cancer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Germline mutations are common with low impact, while SNPs are rare with significant impact"
+        },
+        {
+          "id": "B",
+          "text": "Germline mutations are rare with significant impact, while SNPs are very common but each has low individual impact"
+        },
+        {
+          "id": "C",
+          "text": "Both germline mutations and SNPs are equally common with equal impact on PCa risk"
+        },
+        {
+          "id": "D",
+          "text": "Germline mutations have no role in hereditary prostate cancer development"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The guideline in section 3.2.2 clearly distinguishes that 'germline genetic mutations are relatively rare, but with significant impact on PCa risk, SNPs are very common, but each SNP has low impact on the risk of developing PCa.' This contrasts the two genetic risk factors.",
+      "section": "3.2.2",
+      "section_title": "3.2.2. Non-hereditary risk factors for PCa",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "medium",
+      "fact": "Germline genetic mutations are relatively rare, but with significant impact on PCa risk, SNPs are very common, but each SNP has low impact on the risk of developing PCa",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-012",
+      "question": "According to the EAU guidelines, which of the following is the most obvious risk factor for prostate cancer among those less determined by ethnicity and/or heredity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Age"
+        },
+        {
+          "id": "B",
+          "text": "Body mass index"
+        },
+        {
+          "id": "C",
+          "text": "Smoking status"
+        },
+        {
+          "id": "D",
+          "text": "Alcohol consumption"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The guideline explicitly states that among risk factors less determined by ethnicity and/or heredity, age is the most obvious risk factor for prostate cancer (Section 3.2.2.a).",
+      "section": "3.2.2.a",
+      "section_title": "3.2.2.a. Metabolic syndrome",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "easy",
+      "fact": "Age is the most obvious risk factor for PCa among factors less determined by ethnicity and/or heredity",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-013",
+      "question": "The EAU guidelines describe prostate cancer risk factors as being differentiated based on their determination by ethnicity and/or heredity. Which statement best reflects this classification?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Age represents the most obvious risk factor among those less determined by ethnicity and/or heredity"
+        },
+        {
+          "id": "B",
+          "text": "Dietary factors are the most obvious risk factors regardless of ethnic background"
+        },
+        {
+          "id": "C",
+          "text": "All prostate cancer risk factors are equally influenced by ethnicity and heredity"
+        },
+        {
+          "id": "D",
+          "text": "Heredity has no influence on any prostate cancer risk factors"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The guideline clearly distinguishes between risk factors, noting that some are less determined by ethnicity/heredity, with age being the most obvious example (Section 3.2.2.a).",
+      "section": "3.2.2.a",
+      "section_title": "3.2.2.a. Metabolic syndrome",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "medium",
+      "fact": "There are risk factors for PCa which are less determined by ethnicity and/or heredity",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-014",
+      "question": "According to the EAU guidelines, which factors primarily determine the incidence of prostate cancer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Age and extent of PSA testing"
+        },
+        {
+          "id": "B",
+          "text": "Genetic predisposition and smoking status"
+        },
+        {
+          "id": "C",
+          "text": "Dietary habits and alcohol consumption"
+        },
+        {
+          "id": "D",
+          "text": "Geographical location and healthcare access"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The guideline states that 'incidence mainly dependent on age and extent of PSA testing' in the epidemiology and aetiology chapter. This is a direct recall of stated risk factors for prostate cancer incidence.",
+      "section": "1",
+      "section_title": "About EAU",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#about-eau",
+      "difficulty": "easy",
+      "fact": "Incidence of prostate cancer is mainly dependent on age and extent of PSA testing",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-015",
+      "question": "What effect do testosterone supplements have on prostate cancer risk in hypogonadal men according to EAU guidelines?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They significantly increase the risk of prostate cancer"
+        },
+        {
+          "id": "B",
+          "text": "They do not increase the risk of prostate cancer"
+        },
+        {
+          "id": "C",
+          "text": "They decrease the risk of aggressive prostate cancer"
+        },
+        {
+          "id": "D",
+          "text": "They have a variable effect depending on dosage"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The guideline explicitly states that 'in hypogonadal men, testosterone supplements do not increase the risk of PCa' with Level of Evidence 2a. This is a direct factual statement from the evidence summary.",
+      "section": "1",
+      "section_title": "About EAU",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#about-eau",
+      "difficulty": "easy",
+      "fact": "Testosterone supplements do not increase the risk of PCa in hypogonadal men",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-016",
+      "question": "Based on the current evidence, what is the status of preventive or dietary measures for reducing prostate cancer risk?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Several specific measures have been proven effective"
+        },
+        {
+          "id": "B",
+          "text": "No conclusive data exist to support specific preventive measures"
+        },
+        {
+          "id": "C",
+          "text": "Dietary modifications are universally recommended"
+        },
+        {
+          "id": "D",
+          "text": "Regular screening is the only proven preventive strategy"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The guideline states that 'no conclusive data exist which could support specific preventive or dietary measures aimed at reducing the risk of developing PCa' with Level of Evidence 1a. This directly addresses the lack of conclusive evidence for specific preventive interventions.",
+      "section": "1",
+      "section_title": "About EAU",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#about-eau",
+      "difficulty": "medium",
+      "fact": "No conclusive data exist which could support specific preventive or dietary measures aimed at reducing the risk of developing PCa",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-017",
+      "question": "According to EAU guidelines, which of the following is associated with prostate cancer incidence and prognosis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A variety of dietary/exogenous/environmental factors"
+        },
+        {
+          "id": "B",
+          "text": "Only genetic factors"
+        },
+        {
+          "id": "C",
+          "text": "Exclusively hormonal factors"
+        },
+        {
+          "id": "D",
+          "text": "Solely age-related factors"
+        }
+      ],
+      "correct": "A",
+      "explanation": "The guideline explicitly states that 'a variety of dietary/exogenous/environmental factors have been associated with PCa incidence and prognosis.' This summarizes the multifactorial nature of prostate cancer risk factors beyond just genetic or hormonal influences.",
+      "section": "1",
+      "section_title": "About EAU",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#about-eau",
+      "difficulty": "medium",
+      "fact": "A variety of dietary/exogenous/environmental factors have been associated with PCa incidence and prognosis",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-018",
+      "question": "According to the EAU guidelines, what is the magnitude of risk reduction for prostate cancer with 5-alpha-reductase inhibitors (5-ARIs)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "25% reduction for all prostate cancers"
+        },
+        {
+          "id": "B",
+          "text": "25% reduction only for ISUP Grade Group 1 cancer"
+        },
+        {
+          "id": "C",
+          "text": "50% reduction for all prostate cancers"
+        },
+        {
+          "id": "D",
+          "text": "No significant risk reduction"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Section 3.2.2.c.1 states that 5-ARIs have the potential of preventing or delaying the development of PCa by decreasing the risk by 25% but only for ISUP GG 1 cancer. This is a specific limitation that should be noted.",
+      "section": "3.2.2.c.1",
+      "section_title": "3.2.2.d. Other potential risk factors",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "easy",
+      "fact": "5-ARIs decrease the risk of PCa by 25% but only for ISUP GG 1 cancer",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-019",
+      "question": "Which statement is correct regarding the regulatory status of 5-alpha-reductase inhibitors for prostate cancer chemoprevention in Europe?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Finasteride is approved by EMA for chemoprevention"
+        },
+        {
+          "id": "B",
+          "text": "Dutasteride is approved by EMA for chemoprevention"
+        },
+        {
+          "id": "C",
+          "text": "All available 5-ARIs are approved by EMA for chemoprevention"
+        },
+        {
+          "id": "D",
+          "text": "None of the available 5-ARIs have been approved by EMA for chemoprevention"
+        }
+      ],
+      "correct": "D",
+      "explanation": "Section 3.2.2.c.1 explicitly states that none of the available 5-ARIs have been approved by the European Medicines Agency (EMA) for chemoprevention. This regulatory status is important when considering preventive use.",
+      "section": "3.2.2.c.1",
+      "section_title": "3.2.2.d. Other potential risk factors",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "easy",
+      "fact": "None of the available 5-ARIs have been approved by EMA for chemoprevention",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-020",
+      "question": "According to pooled analysis data, what is the prostate cancer risk for men with very low concentrations of free testosterone (lowest 10%)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Significantly increased risk (OR: 1.5)"
+        },
+        {
+          "id": "B",
+          "text": "No change in risk"
+        },
+        {
+          "id": "C",
+          "text": "Below average risk (OR: 0.77)"
+        },
+        {
+          "id": "D",
+          "text": "Twice the average risk"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Section 3.2.2.c.2 reports that a pooled analysis showed men with very low concentrations of free testosterone (lowest 10%) have a below average risk with an odds ratio of 0.77 for prostate cancer.",
+      "section": "3.2.2.c.2",
+      "section_title": "3.2.2.d. Other potential risk factors",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "medium",
+      "fact": "Men with very low concentrations of free testosterone (lowest 10%) have a below average risk (OR: 0.77) of PCa",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-021",
+      "question": "What is the effect of testosterone supplementation on prostate cancer risk in hypogonadal men?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increases the risk of developing prostate cancer"
+        },
+        {
+          "id": "B",
+          "text": "Decreases the risk of developing prostate cancer"
+        },
+        {
+          "id": "C",
+          "text": "Does not increase the risk of developing prostate cancer"
+        },
+        {
+          "id": "D",
+          "text": "Significantly increases high-grade cancer risk only"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Section 3.2.2.c.2 states that hypogonadal men receiving testosterone supplements do not have an increased risk of developing PCa. This addresses a common concern regarding testosterone replacement therapy.",
+      "section": "3.2.2.c.2",
+      "section_title": "3.2.2.d. Other potential risk factors",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "easy",
+      "fact": "Hypogonadal men receiving testosterone supplements do not have an increased risk of developing PCa",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-022",
+      "question": "What is the odds ratio for prostate cancer risk associated with the highest tertile of plasma chlordecone concentration?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.24"
+        },
+        {
+          "id": "B",
+          "text": "1.50"
+        },
+        {
+          "id": "C",
+          "text": "1.77"
+        },
+        {
+          "id": "D",
+          "text": "4.04"
+        }
+      ],
+      "correct": "C",
+      "explanation": "The section states that plasma concentration of the estrogenic insecticide chlordecone is associated with an increase in the risk of PCa with an OR of 1.77 for the highest tertile of values above the limit of detection.",
+      "section": "3.2.3",
+      "section_title": "3.2.3. Summary of evidence for epidemiology and aetiology",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "easy",
+      "fact": "OR: 1.77 for highest tertile of values above the limit of detection",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-023",
+      "question": "In men with inflammatory bowel disease, what hazard ratio for ISUP Grade Group ≥2 prostate cancer was found compared to the general population?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.77"
+        },
+        {
+          "id": "B",
+          "text": "2.50"
+        },
+        {
+          "id": "C",
+          "text": "3.20"
+        },
+        {
+          "id": "D",
+          "text": "4.04"
+        }
+      ],
+      "correct": "D",
+      "explanation": "The guideline explicitly states that a significantly higher rate of ISUP GG ≥2 PCa was found in men with inflammatory bowel disease with a hazard ratio of 4.04 compared to the general population.",
+      "section": "3.2.3",
+      "section_title": "3.2.3. Summary of evidence for epidemiology and aetiology",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "easy",
+      "fact": "HR: 4.04 for ISUP GG ≥2 PCa in men with IBD",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-024",
+      "question": "Which procedure has been disproved as a risk factor for prostate cancer according to the guideline?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Circumcision"
+        },
+        {
+          "id": "B",
+          "text": "Vasectomy"
+        },
+        {
+          "id": "C",
+          "text": "Orchiectomy"
+        },
+        {
+          "id": "D",
+          "text": "Prostatectomy"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The guideline explicitly states that a number of factors previously linked to an increased risk of PCa have been disproved, including vasectomy.",
+      "section": "3.2.3",
+      "section_title": "3.2.3. Summary of evidence for epidemiology and aetiology",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "easy",
+      "fact": "Vasectomy has been disproved as a risk factor for PCa",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-025",
+      "question": "According to the guideline, what percentage reduction in prostate cancer risk is associated with higher ejaculation frequency (≥21 times/month vs 4-7 times)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10%"
+        },
+        {
+          "id": "B",
+          "text": "20%"
+        },
+        {
+          "id": "C",
+          "text": "30%"
+        },
+        {
+          "id": "D",
+          "text": "40%"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The guideline states that higher ejaculation frequency (≥21 times a month vs 4 to 7 times) has been associated with a 20% lower risk of PCa.",
+      "section": "3.2.3",
+      "section_title": "3.2.3. Summary of evidence for epidemiology and aetiology",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "easy",
+      "fact": "20% lower risk of PCa with ≥21 times/month vs 4-7 times ejaculation frequency",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-026",
+      "question": "For which specific type of inflammatory bowel disease did the meta-analysis show a clear association with prostate cancer risk?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Crohn's disease"
+        },
+        {
+          "id": "B",
+          "text": "Ulcerative colitis"
+        },
+        {
+          "id": "C",
+          "text": "Microscopic colitis"
+        },
+        {
+          "id": "D",
+          "text": "Indeterminate colitis"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The guideline states that while results on IBD overall were mixed in the systematic review, except for the subgroup of ulcerative colitis, where a clear association could be seen.",
+      "section": "3.2.3",
+      "section_title": "3.2.3. Summary of evidence for epidemiology and aetiology",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "medium",
+      "fact": "Clear association with PCa seen specifically in ulcerative colitis subgroup",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    },
+    {
+      "id": "prostate-cancer-epidemiology-and-aetiology-027",
+      "question": "What is the relative risk of prostate cancer death associated with current cigarette smoking?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.14"
+        },
+        {
+          "id": "B",
+          "text": "1.24"
+        },
+        {
+          "id": "C",
+          "text": "1.50"
+        },
+        {
+          "id": "D",
+          "text": "1.77"
+        }
+      ],
+      "correct": "B",
+      "explanation": "The guideline explicitly states that current cigarette smoking was associated with an increased risk of PCa death with a relative risk of 1.24.",
+      "section": "3.2.3",
+      "section_title": "3.2.3. Summary of evidence for epidemiology and aetiology",
+      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/epidemiology-and-aetiology#3-2-aetiology-and-risk-factors-for-prostate-cancer",
+      "difficulty": "easy",
+      "fact": "RR: 1.24 for PCa death with current cigarette smoking",
+      "chapter": "epidemiology-and-aetiology",
+      "guideline": "prostate-cancer"
+    }
+  ]
+}

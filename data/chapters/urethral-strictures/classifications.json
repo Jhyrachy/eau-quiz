@@ -1,0 +1,554 @@
+{
+  "guideline": "urethral-strictures",
+  "chapter": "classifications",
+  "url": "https://uroweb.org/guidelines/urethral-strictures/chapter/classifications",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Summary of changes",
+      "anchor": "#1-5-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODOLOGY",
+      "anchor": "#2-methodology"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Methods",
+      "anchor": "#2-1-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. DEFINITION EPIDEMIOLOGY AETIOLOGY AND PREVENTION",
+      "anchor": "#3-definition-epidemiology-aetiology-and-prevention"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definitions",
+      "anchor": "#3-1-definitions"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Aetiology and prevention",
+      "anchor": "#3-3-aetiology-and-prevention"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Aetiology and prevention in males",
+      "anchor": "#3-3-1-aetiology-and-prevention-in-males"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Aetiology in females",
+      "anchor": "#3-3-2-aetiology-in-females"
+    },
+    {
+      "level": 2,
+      "text": "4. CLASSIFICATIONS",
+      "anchor": "#4-classifications"
+    },
+    {
+      "level": 3,
+      "text": "4.1. According to stricture location",
+      "anchor": "#4-1-according-to-stricture-location"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. In males",
+      "anchor": "#4-1-1-in-males"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. In females",
+      "anchor": "#4-1-2-in-females"
+    },
+    {
+      "level": 3,
+      "text": "4.2. According to stricture tightness",
+      "anchor": "#4-2-according-to-stricture-tightness"
+    },
+    {
+      "level": 3,
+      "text": "4.3. According to stricture severity",
+      "anchor": "#4-3-according-to-stricture-severity"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Strictures in transgender men and woman",
+      "anchor": "#4-4-strictures-in-transgender-men-and-woman"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Trans women",
+      "anchor": "#4-4-1-trans-women"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Trans men",
+      "anchor": "#4-4-2-trans-men"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION",
+      "anchor": "#5-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Patient history",
+      "anchor": "#5-1-patient-history"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Physical examination",
+      "anchor": "#5-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Further diagnostic evaluation",
+      "anchor": "#5-2-1-further-diagnostic-evaluation"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT IN MALES",
+      "anchor": "#6-disease-management-in-males"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Conservative options",
+      "anchor": "#6-1-conservative-options"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Observation",
+      "anchor": "#6-1-1-observation"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Suprapubic catheter",
+      "anchor": "#6-1-2-suprapubic-catheter"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Endoluminal treatment of anterior urethral strictures in males",
+      "anchor": "#6-2-endoluminal-treatment-of-anterior-urethral-strictures-in-males"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Direct vision internal urethrotomy",
+      "anchor": "#6-2-1-direct-vision-internal-urethrotomy"
+    },
+    {
+      "level": 4,
+      "text": "6.2.2. Single dilatation",
+      "anchor": "#6-2-2-single-dilatation"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Open repairs (urethroplasty): site and aetiology (clinical scenario) treatment options",
+      "anchor": "#6-3-open-repairs-urethroplasty-site-and-aetiology-clinical-scenario-treatment-options"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. The role of urethroplasty in the management of penile urethral strictures",
+      "anchor": "#6-3-1-the-role-of-urethroplasty-in-the-management-of-penile-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Urethroplasty for bulbar strictures",
+      "anchor": "#6-3-2-urethroplasty-for-bulbar-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.3. Urethroplasty for penobulbar or panurethral strictures",
+      "anchor": "#6-3-3-urethroplasty-for-penobulbar-or-panurethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.4. Perineal urethrostomy",
+      "anchor": "#6-3-4-perineal-urethrostomy"
+    },
+    {
+      "level": 4,
+      "text": "6.3.5. Posterior urethra",
+      "anchor": "#6-3-5-posterior-urethra"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT IN FEMALES",
+      "anchor": "#7-disease-management-in-females"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Signs and symptoms of female urethral strictures",
+      "anchor": "#7-1-signs-and-symptoms-of-female-urethral-strictures"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Diagnosis of female urethral strictures",
+      "anchor": "#7-2-diagnosis-of-female-urethral-strictures"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Treatment of female urethral strictures",
+      "anchor": "#7-3-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Minimally invasive techniques for treatment of female urethral strictures",
+      "anchor": "#7-3-1-minimally-invasive-techniques-for-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Urethroplasty for treatment of female urethral strictures",
+      "anchor": "#7-3-2-urethroplasty-for-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 2,
+      "text": "8. DISEASE MANAGEMENT IN TRANSGENDER PATIENTS",
+      "anchor": "#8-disease-management-in-transgender-patients"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Treatment of strictures in trans men",
+      "anchor": "#8-1-treatment-of-strictures-in-trans-men"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Management of strictures early after neophallic reconstruction",
+      "anchor": "#8-1-1-management-of-strictures-early-after-neophallic-reconstruction"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Treatment of meatal stenosis in trans men",
+      "anchor": "#8-1-2-treatment-of-meatal-stenosis-in-trans-men"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Treatment of strictures at the neophallic urethra",
+      "anchor": "#8-1-3-treatment-of-strictures-at-the-neophallic-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.4. Treatment of strictures at the anastomosis neophallic urethra-fixed part of the urethra",
+      "anchor": "#8-1-4-treatment-of-strictures-at-the-anastomosis-neophallic-urethra-fixed-part-of-the-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.5. Treatment of strictures at the fixed part of the urethra",
+      "anchor": "#8-1-5-treatment-of-strictures-at-the-fixed-part-of-the-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.6. Definitive perineostomy in trans men",
+      "anchor": "#8-1-6-definitive-perineostomy-in-trans-men"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Perioperative care after treatment of strictures in trans men",
+      "anchor": "#8-2-perioperative-care-after-treatment-of-strictures-in-trans-men"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Strictures in trans women",
+      "anchor": "#8-3-strictures-in-trans-women"
+    },
+    {
+      "level": 2,
+      "text": "9. TISSUE TRANSFER",
+      "anchor": "#9-tissue-transfer"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Comparison of grafts with flaps",
+      "anchor": "#9-1-comparison-of-grafts-with-flaps"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Comparison of different types of flaps",
+      "anchor": "#9-2-comparison-of-different-types-of-flaps"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Comparison of different types of grafts",
+      "anchor": "#9-3-comparison-of-different-types-of-grafts"
+    },
+    {
+      "level": 3,
+      "text": "9.4. Tissue engineered grafts",
+      "anchor": "#9-4-tissue-engineered-grafts"
+    },
+    {
+      "level": 4,
+      "text": "9.4.1. Cell-free tissue engineered grafts",
+      "anchor": "#9-4-1-cell-free-tissue-engineered-grafts"
+    },
+    {
+      "level": 4,
+      "text": "9.4.2. Autologous tissue engineered oral mucosa grafts",
+      "anchor": "#9-4-2-autologous-tissue-engineered-oral-mucosa-grafts"
+    },
+    {
+      "level": 3,
+      "text": "9.5. Management of oral cavity after buccal mucosa harvesting",
+      "anchor": "#9-5-management-of-oral-cavity-after-buccal-mucosa-harvesting"
+    },
+    {
+      "level": 2,
+      "text": "10. PERIOPERATIVE CARE OF URETHRAL SURGERY",
+      "anchor": "#10-perioperative-care-of-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Urethral rest",
+      "anchor": "#10-1-urethral-rest"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Antibiotics",
+      "anchor": "#10-2-antibiotics"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Catheter management",
+      "anchor": "#10-3-catheter-management"
+    },
+    {
+      "level": 2,
+      "text": "11. FOLLOW UP",
+      "anchor": "#11-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "11.1. Rationale for follow-up after urethral surgery",
+      "anchor": "#11-1-rationale-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.2. Definition of success after urethroplasty surgery",
+      "anchor": "#11-2-definition-of-success-after-urethroplasty-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.3. Follow-up tools after urethral surgery",
+      "anchor": "#11-3-follow-up-tools-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.1. Diagnostic tools for follow-up after urethral surgery",
+      "anchor": "#11-3-1-diagnostic-tools-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.2. Screening tools for follow-up after urethral surgery",
+      "anchor": "#11-3-2-screening-tools-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.3. Quality of life assessment, including disease specific questionnaires during follow-up after urethral surgery",
+      "anchor": "#11-3-3-quality-of-life-assessment-including-disease-specific-questionnaires-during-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.4. Ideal follow-up interval after urethral surgery",
+      "anchor": "#11-4-ideal-follow-up-interval-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.5. Length of follow-up after urethral surgery",
+      "anchor": "#11-5-length-of-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.6. Risk-stratified proposals during follow-up after urethral surgery",
+      "anchor": "#11-6-risk-stratified-proposals-during-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.7. Follow-up protocol proposal after urethroplasty",
+      "anchor": "#11-7-follow-up-protocol-proposal-after-urethroplasty"
+    },
+    {
+      "level": 4,
+      "text": "11.7.1. Surgeries with low risk of recurrence",
+      "anchor": "#11-7-1-surgeries-with-low-risk-of-recurrence"
+    },
+    {
+      "level": 4,
+      "text": "11.7.2. Surgical management options with standard risk of recurrence",
+      "anchor": "#11-7-2-surgical-management-options-with-standard-risk-of-recurrence"
+    },
+    {
+      "level": 2,
+      "text": "12. REFERENCES",
+      "anchor": "#12-references"
+    },
+    {
+      "level": 2,
+      "text": "13. CONFLICT OF INTEREST",
+      "anchor": "#13-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "14. CITATION INFORMATION",
+      "anchor": "#14-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "15. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#15-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#urethral-strictures",
+      "title": "Urethral Strictures",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 4. Classifications Introduction Methodology Definition Epidemiology Aetiology And Prevention Classifications Diagnostic Evaluation Disease Management In Males Disease Management In Females Disease Management In Transgender Patients Tissue Transfer Perioperative Care Of Urethral Surgery Follow Up References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#4-classifications",
+      "title": "4. CLASSIFICATIONS",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-according-to-stricture-location",
+      "title": "4.1. According to stricture location",
+      "level": 3,
+      "text": "Classification according to stricture location is important, as this will affect further management.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-1-in-males",
+      "title": "4.1.1. In males",
+      "level": 4,
+      "text": "4.1.1.a. Anterior urethra The anterior urethra runs from the meatus to the urogenital diaphragm and is surrounded in its entire length by the corpus spongiosum [4, 146]. Further subdivision is made in three different areas (from distal to proximal) [5]: Meatal strictures: these strictures are located at the external urethral meatus and may extend into the fossa navicularis of the glans. Penile strictures: these strictures are located in the segment between the fossa navicularis and the bulbar urethra. Externally, the penile urethra begins approximately at the balanopreputial sulcus and continues to the penoscrotal junction. The entire penile urethral segment lies in the groove ventral to corpora cavernosa and is surrounded by a thin layer of corpus spongiosum. Bulbar strictures: the bulbar urethra starts at the penoscrotal junction and is surrounded by the bulbospongious muscle. It ends in the membranous urethra proximally at the level of the urogenital diaphragm. The bulbar urethra can be subdivided into a proximal and distal part. The proximal bulbar urethra is defined as the segment within 5cm of the membranous urethra; the urethra lies eccentrically in this part with abundant ventral spongious tissue. The distal bulbar urethra is defined as the adjoining segment extending to the penoscrotal junction [147]. Strictures extending towards the membranous urethra are termed bulbomembranous strictures (BMS). Penobulbar strictures: these extend from the penile urethra into the bulbar segment, compromising long segments of urethra. The difference between penobulbar strictures and multifocal strictures should be noted. The latter are defined by two or more narrowed segments, either in the same or different subdivision of the urethra but preserving healthy lengths of urethra between them (e.g., iatrogenic strictures related to TUR procedures which typically affect the fossa navicularis and the penoscrotal junction with healthy urethra in between). 4.1.1.b. Posterior urethra The posterior urethra is approximately 5cm long, with three different segments [5]: The membranous urethra is the area of the urethra traversing the urogenital diaphragm, between the proximal bulbar and the distal verumontanum. The prostatic urethra runs through the prostatic gland, starting at the proximal membranous urethra and extending to the bladder neck. The bladder neck is surrounded by the internal urinary sphincter and is the junction between the prostatic urethra and the bladder. Stenosis (or contracture) of the bladder neck implies a prostate in situ (i.e. after TURP or simple prostatectomies). If the narrowing or obliteration appears at this level but after an RP, the correct term is VUAS [5].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-2-in-females",
+      "title": "4.1.2. In females",
+      "level": 4,
+      "text": "The female urethra is approximately 4cm long and arbitrarily divided in an upper, mid and lower part [129, 131, 132, 134-136, 141, 144, 145].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-2-according-to-stricture-tightness",
+      "title": "4.2. According to stricture tightness",
+      "level": 3,
+      "text": "Several classifications systems have been proposed over the years [148]. The definition of low- versus high-grade strictures remains debatable [149-151]. A urethral plate less than 3mm is considered a high-grade or tight stricture [152]. It has been demonstrated with a normally functioning bladder that flow rate will not diminish until the urethral lumen has a diameter below 10Fr [150]. Table 4.1 presents a suggested classification for male patients with a normal functioning bladder. This classification was developed by the EAU Urethral Stricture Panel based on a consensus process. Table 4.1: EAU classification according to the degree of urethral narrowing Category Description Urethral lumen (French [Fr]) Degree 0 Normal urethra on imaging - - 1 Subclinical strictures Urethral narrowing but > 16 Fr Low 2 Low grade strictures 11–15Fr 3 High-grade or flow-significant strictures 4–10Fr High 4 Nearly obliterative strictures 1–3Fr 5 Obliterative strictures No urethral lumen (0Fr)",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Category",
+              "Description",
+              "Urethral lumen (French [Fr])",
+              "Degree"
+            ],
+            [
+              "0",
+              "Normal urethra on imaging",
+              "-",
+              "-"
+            ],
+            [
+              "1",
+              "Subclinical strictures",
+              "Urethral narrowing but > 16 Fr",
+              "Low"
+            ],
+            [
+              "2",
+              "Low grade strictures",
+              "11–15Fr"
+            ],
+            [
+              "3",
+              "High-grade or flow-significant strictures",
+              "4–10Fr",
+              "High"
+            ],
+            [
+              "4",
+              "Nearly obliterative strictures",
+              "1–3Fr"
+            ],
+            [
+              "5",
+              "Obliterative strictures",
+              "No urethral lumen (0Fr)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-3-according-to-stricture-severity",
+      "title": "4.3. According to stricture severity",
+      "level": 3,
+      "text": "Several scoring systems have been developed to describe stricture complexity and predict the risk of recurrence (U-score, LSE score and urethroplasty triad score) [153]. Such scores could be useful for clinical patient counseling and for academic comparison of outcomes between centers and surgical techniques. For further information, see supplementary Table S4.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-4-strictures-in-transgender-men-and-woman",
+      "title": "4.4. Strictures in transgender men and woman",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-4-1-trans-women",
+      "title": "4.4.1. Trans women",
+      "level": 4,
+      "text": "After MtF gender confirming surgery, the penile urethra has been resected. Meatal strictures are defined as strictures occurring at the neomeatus, which is formed between the junction of the distal bulbar urethra and the neovagina. The other segments (bulbar and posterior) are the same as in a biological male.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-4-2-trans-men",
+      "title": "4.4.2. Trans men",
+      "level": 4,
+      "text": "Four different areas can be identified in the urethra after FtM gender confirming surgeries [154]: The native urethra is the female urethral segment which remains preserved during surgery. It runs from the bladder neck to the original external meatus. The fixed part (pars fixa) or perineal urethra follows the native urethra, starting at the original external meatus. This segment is reconstructed using local tissues, typically vestibular mucosa, or anterior vaginal mucosa. Its course is similar to the bulbar urethral segment in males, but without being covered by spongiosal tissue. The anastomotic part is the area where the pars fixa joins the neophallus. The phallic urethra is the segment located within the neophallus or the metoidioplasty and is usually made of a skin tube. Its course is similar to the penile urethra in males, but without being covered by spongiosal tissue.",
+      "tables": []
+    }
+  ],
+  "tables_count": 1
+}

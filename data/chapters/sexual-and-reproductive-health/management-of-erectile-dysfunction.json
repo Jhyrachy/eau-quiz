@@ -1,0 +1,1777 @@
+{
+  "guideline": "sexual-and-reproductive-health",
+  "chapter": "management-of-erectile-dysfunction",
+  "url": "https://uroweb.org/guidelines/sexual-and-reproductive-health/chapter/management-of-erectile-dysfunction",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and Objectives",
+      "anchor": "#1-1-aims-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel Composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Summary of changes",
+      "anchor": "#1-5-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODOLOGY",
+      "anchor": "#2-methodology"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Methods",
+      "anchor": "#2-1-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. MALE HYPOGONADISM",
+      "anchor": "#3-male-hypogonadism"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definition, epidemiology and classification of male hypogonadism",
+      "anchor": "#3-1-definition-epidemiology-and-classification-of-male-hypogonadism"
+    },
+    {
+      "level": 4,
+      "text": "3.1.1. Definition",
+      "anchor": "#3-1-1-definition"
+    },
+    {
+      "level": 4,
+      "text": "3.1.2. Epidemiology",
+      "anchor": "#3-1-2-epidemiology"
+    },
+    {
+      "level": 4,
+      "text": "3.1.3. Classification",
+      "anchor": "#3-1-3-classification"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Comorbidities associated with male hypogonadism",
+      "anchor": "#3-2-comorbidities-associated-with-male-hypogonadism"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Obesity",
+      "anchor": "#3-2-1-obesity"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Late-onset hypogonadism",
+      "anchor": "#3-3-late-onset-hypogonadism"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Clinical diagnosis and evaluation",
+      "anchor": "#3-3-1-clinical-diagnosis-and-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. History taking",
+      "anchor": "#3-3-2-history-taking"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Physical examination",
+      "anchor": "#3-3-3-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Laboratory diagnostics",
+      "anchor": "#3-3-4-laboratory-diagnostics"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. Summary of evidence and recommendations for the diagnostic evaluation and screening oflate-onset hypogonadism",
+      "anchor": "#3-3-5-summary-of-evidence-and-recommendations-for-the-diagnostic-evaluation-and-screening-oflate-onset-hypogonadism"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Treatment of classical and late-onset hypogonadism",
+      "anchor": "#3-4-treatment-of-classical-and-late-onset-hypogonadism"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Indications and contraindications for treatment of hypogonadism",
+      "anchor": "#3-4-1-indications-and-contraindications-for-treatment-of-hypogonadism"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Testosterone therapy outcomes",
+      "anchor": "#3-4-2-testosterone-therapy-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Choice of treatment",
+      "anchor": "#3-4-3-choice-of-treatment"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Safety and follow-up in hypogonadism management",
+      "anchor": "#3-5-safety-and-follow-up-in-hypogonadism-management"
+    },
+    {
+      "level": 4,
+      "text": "3.5.1. Hypogonadism and fertility issues",
+      "anchor": "#3-5-1-hypogonadism-and-fertility-issues"
+    },
+    {
+      "level": 4,
+      "text": "3.5.2. Male breast cancer",
+      "anchor": "#3-5-2-male-breast-cancer"
+    },
+    {
+      "level": 4,
+      "text": "3.5.4. Prostate cancer (PCa)",
+      "anchor": "#3-5-4-prostate-cancer-pca"
+    },
+    {
+      "level": 4,
+      "text": "3.5.5. Cardiovascular disease",
+      "anchor": "#3-5-5-cardiovascular-disease"
+    },
+    {
+      "level": 4,
+      "text": "3.5.6. Erythrocytosis",
+      "anchor": "#3-5-6-erythrocytosis"
+    },
+    {
+      "level": 4,
+      "text": "3.5.7. Obstructive sleep apnoea",
+      "anchor": "#3-5-7-obstructive-sleep-apnoea"
+    },
+    {
+      "level": 4,
+      "text": "3.5.8. Follow-up",
+      "anchor": "#3-5-8-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "3.5.9. Summary of evidence and recommendations on safety and monitoring in testosterone therapy",
+      "anchor": "#3-5-9-summary-of-evidence-and-recommendations-on-safety-and-monitoring-in-testosterone-therapy"
+    },
+    {
+      "level": 2,
+      "text": "4. EPIDEMIOLOGY AND PREVALENCE OF SEXUAL DYSFUNCTION AND DISORDERS OF MALE REPRODUCTIVE HEALTH",
+      "anchor": "#4-epidemiology-and-prevalence-of-sexual-dysfunction-and-disorders-of-male-reproductive-health"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Erectile dysfunction",
+      "anchor": "#4-1-erectile-dysfunction"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Premature ejaculation",
+      "anchor": "#4-2-premature-ejaculation"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Other ejaculatory disorders",
+      "anchor": "#4-3-other-ejaculatory-disorders"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. Delayed ejaculation",
+      "anchor": "#4-3-1-delayed-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "4.3.2. Anejaculation and anorgasmia",
+      "anchor": "#4-3-2-anejaculation-and-anorgasmia"
+    },
+    {
+      "level": 4,
+      "text": "4.3.3. Retrograde ejaculation",
+      "anchor": "#4-3-3-retrograde-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "4.3.4. Painful ejaculation",
+      "anchor": "#4-3-4-painful-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "4.3.5. Haemospermia",
+      "anchor": "#4-3-5-haemospermia"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Low sexual desire",
+      "anchor": "#4-4-low-sexual-desire"
+    },
+    {
+      "level": 2,
+      "text": "5. MANAGEMENT OF ERECTILE DYSFUNCTION",
+      "anchor": "#5-management-of-erectile-dysfunction"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Definition and classification",
+      "anchor": "#5-1-definition-and-classification"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Risk factors",
+      "anchor": "#5-2-risk-factors"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Pathophysiology",
+      "anchor": "#5-3-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Pelvic surgery and prostate cancer treatment",
+      "anchor": "#5-3-1-pelvic-surgery-and-prostate-cancer-treatment"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Summary of evidence on the epidemiology, aetiology and pathophysiology of erectile disfunction",
+      "anchor": "#5-3-2-summary-of-evidence-on-the-epidemiology-aetiology-and-pathophysiology-of-erectile-disfunction"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Diagnostic evaluation (basic work-up)",
+      "anchor": "#5-4-diagnostic-evaluation-basic-work-up"
+    },
+    {
+      "level": 4,
+      "text": "5.4.1. Medical and sexual history",
+      "anchor": "#5-4-1-medical-and-sexual-history"
+    },
+    {
+      "level": 4,
+      "text": "5.4.2. Physical examination",
+      "anchor": "#5-4-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.4.3. Laboratory testing",
+      "anchor": "#5-4-3-laboratory-testing"
+    },
+    {
+      "level": 4,
+      "text": "5.4.4. Cardiovascular system and sexual activity: the patient at risk",
+      "anchor": "#5-4-4-cardiovascular-system-and-sexual-activity-the-patient-at-risk"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Diagnostic Evaluation (advanced work-up)",
+      "anchor": "#5-5-diagnostic-evaluation-advanced-work-up"
+    },
+    {
+      "level": 4,
+      "text": "5.5.1. Nocturnal penile tumescence and rigidity test",
+      "anchor": "#5-5-1-nocturnal-penile-tumescence-and-rigidity-test"
+    },
+    {
+      "level": 4,
+      "text": "5.5.2. Intracavernous injection test",
+      "anchor": "#5-5-2-intracavernous-injection-test"
+    },
+    {
+      "level": 4,
+      "text": "5.5.3. Dynamic duplex ultrasound of the penis",
+      "anchor": "#5-5-3-dynamic-duplex-ultrasound-of-the-penis"
+    },
+    {
+      "level": 4,
+      "text": "5.5.4. Arteriography and dynamic infusion cavernosometry or cavernosography",
+      "anchor": "#5-5-4-arteriography-and-dynamic-infusion-cavernosometry-or-cavernosography"
+    },
+    {
+      "level": 4,
+      "text": "5.5.5. Psychopathological and psychosocial assessment",
+      "anchor": "#5-5-5-psychopathological-and-psychosocial-assessment"
+    },
+    {
+      "level": 4,
+      "text": "5.5.6. Summary of evidence and recommendations for diagnostic evaluation of erectile dysfunction",
+      "anchor": "#5-5-6-summary-of-evidence-and-recommendations-for-diagnostic-evaluation-of-erectile-dysfunction"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Treatment of erectile dysfunction",
+      "anchor": "#5-6-treatment-of-erectile-dysfunction"
+    },
+    {
+      "level": 4,
+      "text": "5.6.1. Patient education",
+      "anchor": "#5-6-1-patient-education"
+    },
+    {
+      "level": 4,
+      "text": "5.6.2. Modifiable risk factors",
+      "anchor": "#5-6-2-modifiable-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "5.6.3. Phosphodiesterase type 5 inhibitors",
+      "anchor": "#5-6-3-phosphodiesterase-type-5-inhibitors"
+    },
+    {
+      "level": 4,
+      "text": "5.6.4. Psychosocial intervention and therapy",
+      "anchor": "#5-6-4-psychosocial-intervention-and-therapy"
+    },
+    {
+      "level": 4,
+      "text": "5.6.5. Hormonal treatment",
+      "anchor": "#5-6-5-hormonal-treatment"
+    },
+    {
+      "level": 4,
+      "text": "5.6.6. Vacuum erection devices",
+      "anchor": "#5-6-6-vacuum-erection-devices"
+    },
+    {
+      "level": 4,
+      "text": "5.6.7. Intracavernous injections therapy",
+      "anchor": "#5-6-7-intracavernous-injections-therapy"
+    },
+    {
+      "level": 4,
+      "text": "5.6.8. Innovative treatment modalities",
+      "anchor": "#5-6-8-innovative-treatment-modalities"
+    },
+    {
+      "level": 4,
+      "text": "5.6.9. Herbal medicine and natural supplements",
+      "anchor": "#5-6-9-herbal-medicine-and-natural-supplements"
+    },
+    {
+      "level": 4,
+      "text": "5.6.10. Erectile dysfunction after radical prostatectomy",
+      "anchor": "#5-6-10-erectile-dysfunction-after-radical-prostatectomy"
+    },
+    {
+      "level": 4,
+      "text": "5.6.11. Surgical management",
+      "anchor": "#5-6-11-surgical-management"
+    },
+    {
+      "level": 4,
+      "text": "5.6.12. Summary of evidence and recommendations for treatment of ED",
+      "anchor": "#5-6-12-summary-of-evidence-and-recommendations-for-treatment-of-ed"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Follow-up",
+      "anchor": "#5-7-follow-up"
+    },
+    {
+      "level": 2,
+      "text": "6. DISORDERS OF EJACULATION",
+      "anchor": "#6-disorders-of-ejaculation"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Introduction",
+      "anchor": "#6-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Premature ejaculation",
+      "anchor": "#6-2-premature-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Epidemiology",
+      "anchor": "#6-2-1-epidemiology"
+    },
+    {
+      "level": 4,
+      "text": "6.2.2. Pathophysiology and risk factors",
+      "anchor": "#6-2-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.2.3. Impact of PE on quality of life",
+      "anchor": "#6-2-3-impact-of-pe-on-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "6.2.4. Classification",
+      "anchor": "#6-2-4-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.2.5. Diagnostic evaluation",
+      "anchor": "#6-2-5-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "6.2.6. Disease management",
+      "anchor": "#6-2-6-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "6.2.7. Summary of evidence and recommendations for the treatment of PE",
+      "anchor": "#6-2-7-summary-of-evidence-and-recommendations-for-the-treatment-of-pe"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Delayed ejaculation",
+      "anchor": "#6-3-delayed-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. Definition and classification",
+      "anchor": "#6-3-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Pathophysiology and risk factors",
+      "anchor": "#6-3-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.3.3. Investigation and treatment",
+      "anchor": "#6-3-3-investigation-and-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Anejaculation",
+      "anchor": "#6-4-anejaculation"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Definition and classification",
+      "anchor": "#6-4-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Pathophysiology and risk factors",
+      "anchor": "#6-4-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.4.3. Investigation and treatment",
+      "anchor": "#6-4-3-investigation-and-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Painful ejaculation",
+      "anchor": "#6-5-painful-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "6.5.1. Definition and classification",
+      "anchor": "#6-5-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.5.2. Pathophysiology and risk factors",
+      "anchor": "#6-5-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.5.3. Investigation and treatment",
+      "anchor": "#6-5-3-investigation-and-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Retrograde ejaculation",
+      "anchor": "#6-6-retrograde-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "6.6.1. Definition and classification",
+      "anchor": "#6-6-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.6.2. Pathophysiology and risk factors",
+      "anchor": "#6-6-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.6.3. Disease management",
+      "anchor": "#6-6-3-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.7. Anorgasmia",
+      "anchor": "#6-7-anorgasmia"
+    },
+    {
+      "level": 4,
+      "text": "6.7.1. Definition and classification",
+      "anchor": "#6-7-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.7.2. Pathophysiology and risk factors",
+      "anchor": "#6-7-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.7.3. Disease management",
+      "anchor": "#6-7-3-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.8. Haemospermia",
+      "anchor": "#6-8-haemospermia"
+    },
+    {
+      "level": 4,
+      "text": "6.8.1. Definition and classification",
+      "anchor": "#6-8-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.8.2. Pathophysiology and risk factors",
+      "anchor": "#6-8-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.8.3. Investigations",
+      "anchor": "#6-8-3-investigations"
+    },
+    {
+      "level": 4,
+      "text": "6.8.4. Disease management",
+      "anchor": "#6-8-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "6.8.5. Summary of evidence and recommendations for the investigation and management of haemospermia",
+      "anchor": "#6-8-5-summary-of-evidence-and-recommendations-for-the-investigation-and-management-of-haemospermia"
+    },
+    {
+      "level": 2,
+      "text": "7. LOW SEXUAL DESIRE AND MALE HYPOACTIVE SEXUAL DESIRE DISORDER",
+      "anchor": "#7-low-sexual-desire-and-male-hypoactive-sexual-desire-disorder"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Definition, classification and epidemiology",
+      "anchor": "#7-1-definition-classification-and-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Pathophysiology and risk factors",
+      "anchor": "#7-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. Psychological aspects",
+      "anchor": "#7-2-1-psychological-aspects"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Biological aspects",
+      "anchor": "#7-2-2-biological-aspects"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Risk factors",
+      "anchor": "#7-2-3-risk-factors"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Diagnostic work-up",
+      "anchor": "#7-3-diagnostic-work-up"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Assessment questionnaires",
+      "anchor": "#7-3-1-assessment-questionnaires"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Physical examination and investigations",
+      "anchor": "#7-3-2-physical-examination-and-investigations"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Disease management",
+      "anchor": "#7-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "7.4.1. Psychological intervention",
+      "anchor": "#7-4-1-psychological-intervention"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Pharmacotherapy",
+      "anchor": "#7-4-2-pharmacotherapy"
+    },
+    {
+      "level": 3,
+      "text": "7.5. Recommendations for the treatment of low sexual desire",
+      "anchor": "#7-5-recommendations-for-the-treatment-of-low-sexual-desire"
+    },
+    {
+      "level": 2,
+      "text": "8. PENILE CURVATURE",
+      "anchor": "#8-penile-curvature"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Congenital penile curvature",
+      "anchor": "#8-1-congenital-penile-curvature"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#8-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Diagnostic evaluation",
+      "anchor": "#8-1-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Disease management",
+      "anchor": "#8-1-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "8.1.4. Summary of evidence and recommendation for diagnosis and treatment of congenital penile curvature",
+      "anchor": "#8-1-4-summary-of-evidence-and-recommendation-for-diagnosis-and-treatment-of-congenital-penile-curvature"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Peyronie’s Disease",
+      "anchor": "#8-2-peyronies-disease"
+    },
+    {
+      "level": 4,
+      "text": "8.2.1. Epidemiology",
+      "anchor": "#8-2-1-epidemiology"
+    },
+    {
+      "level": 4,
+      "text": "8.2.2. Diagnostic evaluation",
+      "anchor": "#8-2-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "8.2.3. Disease management",
+      "anchor": "#8-2-3-disease-management"
+    },
+    {
+      "level": 2,
+      "text": "9. PENILE SIZE ABNORMALITIES AND DYSMORPHOPHOBIA",
+      "anchor": "#9-penile-size-abnormalities-and-dysmorphophobia"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Definition, epidemiology and classification",
+      "anchor": "#9-1-definition-epidemiology-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "9.1.1. History",
+      "anchor": "#9-1-1-history"
+    },
+    {
+      "level": 4,
+      "text": "9.1.2. Definition",
+      "anchor": "#9-1-2-definition"
+    },
+    {
+      "level": 4,
+      "text": "9.1.3. Epidemiology and classification",
+      "anchor": "#9-1-3-epidemiology-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "9.1.4. Summary of evidence and recommendations for classification of short penile size",
+      "anchor": "#9-1-4-summary-of-evidence-and-recommendations-for-classification-of-short-penile-size"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Diagnosis",
+      "anchor": "#9-2-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "9.2.1. Medical history, physical examination and psychological assessment",
+      "anchor": "#9-2-1-medical-history-physical-examination-and-psychological-assessment"
+    },
+    {
+      "level": 4,
+      "text": "9.2.2. Imaging",
+      "anchor": "#9-2-2-imaging"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Management",
+      "anchor": "#9-3-management"
+    },
+    {
+      "level": 4,
+      "text": "9.3.1. Non-surgical treatments",
+      "anchor": "#9-3-1-non-surgical-treatments"
+    },
+    {
+      "level": 4,
+      "text": "9.3.2. Surgical treatments",
+      "anchor": "#9-3-2-surgical-treatments"
+    },
+    {
+      "level": 2,
+      "text": "10. PRIAPISM",
+      "anchor": "#10-priapism"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Ischaemic (low-flow or veno-occlusive) priapism",
+      "anchor": "#10-1-ischaemic-low-flow-or-veno-occlusive-priapism"
+    },
+    {
+      "level": 4,
+      "text": "10.1.1. Epidemiology, aetiology, pathophysiology and diagnosis",
+      "anchor": "#10-1-1-epidemiology-aetiology-pathophysiology-and-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "10.1.2. Diagnostic evaluation",
+      "anchor": "#10-1-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "10.1.3. Disease management",
+      "anchor": "#10-1-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "10.1.4. Summary of evidence and recommendations for treatment of ischaemic priapism",
+      "anchor": "#10-1-4-summary-of-evidence-and-recommendations-for-treatment-of-ischaemic-priapism"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Priapism in special situations",
+      "anchor": "#10-2-priapism-in-special-situations"
+    },
+    {
+      "level": 4,
+      "text": "10.2.1. Stuttering (recurrent or intermittent) priapism",
+      "anchor": "#10-2-1-stuttering-recurrent-or-intermittent-priapism"
+    },
+    {
+      "level": 4,
+      "text": "10.2.2. Priapism in children",
+      "anchor": "#10-2-2-priapism-in-children"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Non-ischaemic (high-flow or arterial) priapism",
+      "anchor": "#10-3-non-ischaemic-high-flow-or-arterial-priapism"
+    },
+    {
+      "level": 4,
+      "text": "10.3.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#10-3-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "10.3.2. Diagnostic evaluation",
+      "anchor": "#10-3-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "10.3.3. Disease management",
+      "anchor": "#10-3-3-disease-management"
+    },
+    {
+      "level": 2,
+      "text": "11. MALE INFERTILITY",
+      "anchor": "#11-male-infertility"
+    },
+    {
+      "level": 3,
+      "text": "11.1. Definition and classification",
+      "anchor": "#11-1-definition-and-classification"
+    },
+    {
+      "level": 3,
+      "text": "11.2. Epidemiology, aetiology, pathophysiology and risk factors",
+      "anchor": "#11-2-epidemiology-aetiology-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "11.2.1. Introduction",
+      "anchor": "#11-2-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "11.2.2. Summary of evidence and recommendations on epidemiology and aetiology of male infertility",
+      "anchor": "#11-2-2-summary-of-evidence-and-recommendations-on-epidemiology-and-aetiology-of-male-infertility"
+    },
+    {
+      "level": 3,
+      "text": "11.3. Diagnostic work-up",
+      "anchor": "#11-3-diagnostic-work-up"
+    },
+    {
+      "level": 4,
+      "text": "11.3.1. Medical history, reproductive history and physical examination",
+      "anchor": "#11-3-1-medical-history-reproductive-history-and-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "11.3.2. Semen analysis",
+      "anchor": "#11-3-2-semen-analysis"
+    },
+    {
+      "level": 4,
+      "text": "11.3.3. Measurement of Sperm DNA Fragmentation Index",
+      "anchor": "#11-3-3-measurement-of-sperm-dna-fragmentation-index"
+    },
+    {
+      "level": 4,
+      "text": "11.3.4. Hormonal determinations",
+      "anchor": "#11-3-4-hormonal-determinations"
+    },
+    {
+      "level": 4,
+      "text": "11.3.5. Genetic testing",
+      "anchor": "#11-3-5-genetic-testing"
+    },
+    {
+      "level": 4,
+      "text": "11.3.6. Imaging in infertile men",
+      "anchor": "#11-3-6-imaging-in-infertile-men"
+    },
+    {
+      "level": 4,
+      "text": "11.3.7. Summary of evidence and recommendations for the diagnostic work-up of male infertilityhormonal determinations",
+      "anchor": "#11-3-7-summary-of-evidence-and-recommendations-for-the-diagnostic-work-up-of-male-infertilityhormonal-determinations"
+    },
+    {
+      "level": 3,
+      "text": "11.4. Special conditions and relevant clinical entities",
+      "anchor": "#11-4-special-conditions-and-relevant-clinical-entities"
+    },
+    {
+      "level": 4,
+      "text": "11.4.1. Cryptorchidism",
+      "anchor": "#11-4-1-cryptorchidism"
+    },
+    {
+      "level": 4,
+      "text": "11.4.2. Germ cell malignancy and male infertility",
+      "anchor": "#11-4-2-germ-cell-malignancy-and-male-infertility"
+    },
+    {
+      "level": 4,
+      "text": "11.4.3. Varicocele",
+      "anchor": "#11-4-3-varicocele"
+    },
+    {
+      "level": 4,
+      "text": "11.4.4. Male accessory gland infections and infertility",
+      "anchor": "#11-4-4-male-accessory-gland-infections-and-infertility"
+    },
+    {
+      "level": 3,
+      "text": "11.5. Non-invasive male infertility management",
+      "anchor": "#11-5-non-invasive-male-infertility-management"
+    },
+    {
+      "level": 4,
+      "text": "11.5.1. Empirical treatments",
+      "anchor": "#11-5-1-empirical-treatments"
+    },
+    {
+      "level": 4,
+      "text": "11.5.2. Summary of evidence and recommendation for non-invasive male infertility management",
+      "anchor": "#11-5-2-summary-of-evidence-and-recommendation-for-non-invasive-male-infertility-management"
+    },
+    {
+      "level": 4,
+      "text": "11.5.3. Hormonal therapy",
+      "anchor": "#11-5-3-hormonal-therapy"
+    },
+    {
+      "level": 3,
+      "text": "11.6. Invasive male infertility management",
+      "anchor": "#11-6-invasive-male-infertility-management"
+    },
+    {
+      "level": 4,
+      "text": "11.6.1. Obstructive azoospermia",
+      "anchor": "#11-6-1-obstructive-azoospermia"
+    },
+    {
+      "level": 4,
+      "text": "11.6.2. Non-obstructive azoospermia",
+      "anchor": "#11-6-2-non-obstructive-azoospermia"
+    },
+    {
+      "level": 3,
+      "text": "11.7. Assisted reproductive technologies",
+      "anchor": "#11-7-assisted-reproductive-technologies"
+    },
+    {
+      "level": 3,
+      "text": "11.8. Psychosocial aspects in men’s infertility",
+      "anchor": "#11-8-psychosocial-aspects-in-mens-infertility"
+    },
+    {
+      "level": 2,
+      "text": "12. LATE EFFECTS SURVIVORSHIP AND MENS HEALTH",
+      "anchor": "#12-late-effects-survivorship-and-mens-health"
+    },
+    {
+      "level": 2,
+      "text": "13. REFERENCES",
+      "anchor": "#13-references"
+    },
+    {
+      "level": 2,
+      "text": "14. CONFLICT OF INTEREST",
+      "anchor": "#14-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "15. CITATION INFORMATION",
+      "anchor": "#15-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "16. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#16-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#sexual-and-reproductive-health",
+      "title": "Sexual and Reproductive Health",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 5. Management Of Erectile Dysfunction Introduction Methodology Male Hypogonadism Epidemiology And Prevalence Of Sexual Dysfunction And Disorders Of Male Reproductive Health Management Of Erectile Dysfunction Disorders Of Ejaculation Low Sexual Desire And Male Hypoactive Sexual Desire Disorder Penile Curvature Penile Size Abnormalities And Dysmorphophobia Priapism Male Infertility Late Effects Survivorship And Mens Health References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#5-management-of-erectile-dysfunction",
+      "title": "5. MANAGEMENT OF ERECTILE DYSFUNCTION",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#5-1-definition-and-classification",
+      "title": "5.1. Definition and classification",
+      "level": 3,
+      "text": "Erectile dysfunction is defined as the persistent inability to attain and maintain an erection sufficient to permit satisfactory sexual performance [253]. Erectile dysfunction may affect psychosocial health and have a significant impact on the QoL of patients and their partners [205,254-256]. Erectile dysfunction is commonly classified into three groups based on aetiology: organic, psychogenic and mixed ED. However, this classification should be used with caution as most cases are of mixed aetiology. Therefore, it has been suggested to use the terms ‘primary organic’ or ‘primary psychogenic’ ED.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-risk-factors",
+      "title": "5.2. Risk factors",
+      "level": 3,
+      "text": "Erectile dysfunction is a complex medical issue with several known causes, including vascular, hormonal, neurologic and psychological dysfunctions, and is associated with chronic health conditions [257]. An association with numerous risk factors including age, diabetes mellitus, dyslipidaemia, hypertension, CVD, obesity, MetS, hyperhomocysteinemia, lack of exercise, smoking and drug use has been reported [255,258-269]. In addition, a number of therapeutic agents for CVD have been shown to have a detrimental effect on EF, whereas newer drugs have exhibited a neutral or even beneficial effect [261,270,271]. Other reported risk factors include atrial fibrillation, hyperthyroidism, vitamin D and folic acid deficiency, hyperuricemia, depression and anxiety disorders, chronic kidney and rheumatic disease, COPD, migraine, inflammatory bowel disease, osteoporosis, and sleep disorders [266,272-285]. In addition, a growing body of evidence has demonstrated an association between the onset of new ED in men who have had COVID-19 [286-289]. Erectile dysfunction is also frequently associated with other urological conditions and procedures including LUTS/BPH and surgery for LUTS/BPH [290-292], CPPS and CP [293], bladder pain syndrome/interstitial cystitis [294], PE [295] and urethroplasty surgery for posterior urethral strictures [296].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-3-pathophysiology",
+      "title": "5.3. Pathophysiology",
+      "level": 3,
+      "text": "The pathophysiology of ED may be vasculogenic, neurogenic, anatomical, hormonal, drug-induced and/or psychogenic (Table 5.1) [297]. In most cases, numerous pathophysiological pathways can co-exist and may all negatively impact EF. Table 5.1: Pathophysiology of ED [297] Pathophysiology of ED Vasculogenic Recreational habits (i.e. cigarette smoking) Lack of regular physical exercise Obesity Cardiovascular diseases (e.g. hypertension, coronary artery disease, peripheral vasculopathy) Type 1 and 2 diabetes mellitus; hyperlipidaemia; metabolic syndrome; hyperhomocysteinemia Major pelvic surgery (e.g. radical prostatectomy) or radiotherapy (pelvis or retroperitoneum) Neurogenic Central causes Degenerative disorders (e.g. multiple sclerosis, Parkinson’s disease, multiple atrophy, etc.) Spinal cord trauma or diseases Stroke Central nervous system tumours Peripheral causes Type 1 and 2 diabetes mellitus Chronic renal failure, chronic liver failure Polyneuropathy Surgery (major surgery of pelvis/retroperitoneum) or radiotherapy (pelvis or retroperitoneum) Surgery of the urethra (urethral stricture, open urethroplasty, etc.) Anatomical or structural Hypospadias, epispadias; micropenis Phimosis Peyronie’s disease Penile cancer (other tumours of the external genitalia) Hormonal Diabetes mellitus; Metabolic Syndrome; Hypogonadism (any type) Hyperthyroidism Hyper- and hypocortisolism (Cushing’s disease, etc.) Panhypopituitarism and multiple endocrine disorders Mixed pathophysiological pathways Chronic systemic diseases (e.g. diabetes mellitus, hypertension, metabolic syndrome, chronic kidney disease, chronic liver disorders, hyperhomocysteinemia, hyperuricemia, chronic obstructive pulmonary disease, rheumatic disease) Psoriasis, gouty arthritis, ankylosing spondylitis, non-alcoholic fatty liver disease, chronic periodontitis, open-angle glaucoma, inflammatory bowel disease, chronic fatigue syndrome, allergic rhinitis, obstructive sleep apnoea, depression Iatrogenic causes (e.g. TRUS-guided prostate biopsy) Drug-induced Antihypertensives (i.e. thiazidediuretics, beta-blockers) * Antidepressants (e.g. selective serotonin reuptake inhibitors, tricyclics) Antipsychotics Antiandrogens (GnRH analogues and antagonists; 5-ARIs) Recreational drugs (e.g. heroin, cocaine, marijuana, methadone, synthetic drugs, anabolic steroids, excessive alcohol intake) Psychogenic Generalised type (e.g. lack of arousability and disorders of sexual intimacy) Situational type (e.g. partner-related, performance-related issues or due to distress) Trauma Penile fracture Pelvic fracture GnRH = gonadotropin-releasing hormone; 5-ARIs = 5α-reductase inhibitors; TRUS = transrectal ultrasound. *A symmetry analysis showed that cardiovascular drugs do not strongly affect the risk of subsequently being prescribed as anti-erectogenic drug. The analysis only assessed the short-term risk .",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Pathophysiology of ED"
+            ],
+            [
+              "Vasculogenic"
+            ],
+            [
+              "Recreational habits (i.e. cigarette smoking)"
+            ],
+            [
+              "Lack of regular physical exercise"
+            ],
+            [
+              "Obesity"
+            ],
+            [
+              "Cardiovascular diseases (e.g. hypertension, coronary artery disease, peripheral vasculopathy)"
+            ],
+            [
+              "Type 1 and 2 diabetes mellitus; hyperlipidaemia; metabolic syndrome; hyperhomocysteinemia"
+            ],
+            [
+              "Major pelvic surgery (e.g. radical prostatectomy) or radiotherapy (pelvis or retroperitoneum)"
+            ],
+            [
+              "Neurogenic"
+            ],
+            [
+              "Central causes"
+            ],
+            [
+              "Degenerative disorders (e.g. multiple sclerosis, Parkinson’s disease, multiple atrophy, etc.)"
+            ],
+            [
+              "Spinal cord trauma or diseases"
+            ],
+            [
+              "Stroke"
+            ],
+            [
+              "Central nervous system tumours"
+            ],
+            [
+              "Peripheral causes"
+            ],
+            [
+              "Type 1 and 2 diabetes mellitus"
+            ],
+            [
+              "Chronic renal failure, chronic liver failure"
+            ],
+            [
+              "Polyneuropathy"
+            ],
+            [
+              "Surgery (major surgery of pelvis/retroperitoneum) or radiotherapy (pelvis or retroperitoneum)"
+            ],
+            [
+              "Surgery of the urethra (urethral stricture, open urethroplasty, etc.)"
+            ],
+            [
+              "Anatomical or structural"
+            ],
+            [
+              "Hypospadias, epispadias; micropenis"
+            ],
+            [
+              "Phimosis"
+            ],
+            [
+              "Peyronie’s disease"
+            ],
+            [
+              "Penile cancer (other tumours of the external genitalia)"
+            ],
+            [
+              "Hormonal"
+            ],
+            [
+              "Diabetes mellitus; Metabolic Syndrome;"
+            ],
+            [
+              "Hypogonadism (any type)"
+            ],
+            [
+              "Hyperthyroidism"
+            ],
+            [
+              "Hyper- and hypocortisolism (Cushing’s disease, etc.)"
+            ],
+            [
+              "Panhypopituitarism and multiple endocrine disorders"
+            ],
+            [
+              "Mixed pathophysiological pathways"
+            ],
+            [
+              "Chronic systemic diseases (e.g. diabetes mellitus, hypertension, metabolic syndrome, chronic kidney disease, chronic liver disorders, hyperhomocysteinemia, hyperuricemia, chronic obstructive pulmonary disease, rheumatic disease)"
+            ],
+            [
+              "Psoriasis, gouty arthritis, ankylosing spondylitis, non-alcoholic fatty liver disease, chronic periodontitis, open-angle glaucoma, inflammatory bowel disease, chronic fatigue syndrome, allergic rhinitis, obstructive sleep apnoea, depression"
+            ],
+            [
+              "Iatrogenic causes (e.g. TRUS-guided prostate biopsy)"
+            ],
+            [
+              "Drug-induced"
+            ],
+            [
+              "Antihypertensives (i.e. thiazidediuretics, beta-blockers) *"
+            ],
+            [
+              "Antidepressants (e.g. selective serotonin reuptake inhibitors, tricyclics)"
+            ],
+            [
+              "Antipsychotics"
+            ],
+            [
+              "Antiandrogens (GnRH analogues and antagonists; 5-ARIs)"
+            ],
+            [
+              "Recreational drugs (e.g. heroin, cocaine, marijuana, methadone, synthetic drugs, anabolic steroids, excessive alcohol intake)"
+            ],
+            [
+              "Psychogenic"
+            ],
+            [
+              "Generalised type (e.g. lack of arousability and disorders of sexual intimacy)"
+            ],
+            [
+              "Situational type (e.g. partner-related, performance-related issues or due to distress)"
+            ],
+            [
+              "Trauma"
+            ],
+            [
+              "Penile fracture"
+            ],
+            [
+              "Pelvic fracture"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-3-1-pelvic-surgery-and-prostate-cancer-treatment",
+      "title": "5.3.1. Pelvic surgery and prostate cancer treatment",
+      "level": 4,
+      "text": "Pelvic surgery, especially for oncological disease (e.g. radical prostatectomy [RP] [299], radical cystectomy [300] and colorectal surgery [301]), may have a negative impact on EF and overall sexual health. Surgery resulting in damage of the neurovascular bundles that control the complex mechanism of the cavernous erectile response, may result in ED, although nerve-sparing approaches have been adopted over the last few decades. To date, only the surgical treatment of PCa has enough scientific evidence supporting its potential pathophysiological association with ED [302-304]. However, even non-surgical treatments of PCa (i.e. radiotherapy [RT] or brachytherapy) can be associated with ED [302,304,305]. The ProtecT trial randomised 1,643 patients to active treatment (RP or RT) or active monitoring for localised PCa and assessed sexual function, including EF, using the EPIC-26 instrument [286]. At baseline, 67% of men reported erections firm enough for sexual intercourse. At six-year follow-up assessment this fell to 30% in the active monitoring group, 27%% in the RT group and 17% in the RP group, respectively. In a RCT comparing low- to intermediate-risk PCa patients treated with either surgery or RT (without ADT), the sexual function scores of the Expanded Prostate Index Composite (EPIC-26) were significantly higher for men receiving RT at two years post-treatment [306]. Radical prostatectomy for the treatment of clinically localised intermediate- or high-risk PCa is a widely performed procedure [307]. Research has shown that 25-75% of men experience post-RP ED [287,288,303]. Conversely, the rate of unassisted postoperative EF recovery ranges between 20 and 25% in most studies. These rates have not substantially improved or changed for two decades, despite growing attention to post-surgical rehabilitation protocols and refinement of surgical techniques [288,289,308]. Overall, patient age, baseline EF and surgical volume, with the subsequent ability to preserve the neurovascular bundles, are the main factors in promoting the highest rates of postoperative EF [287,304,309,310]. Regardless of the surgical technique, surgeons’ experience clearly impacts postoperative EF outcome [311]. The potential influence of surgical modality on post-prostatectomy EF remains a subject of considerable debate. Current evidence is inconclusive: while one systematic review reported a statistically significant advantage of robot-assisted RP over open retropubic RP in terms of 12-month potency rates [312], two RCTs demonstrated only marginal improvements in EF following robot-assisted RP or failed to identify any clinically meaningful difference between the two techniques [313,314]. Erectile dysfunction is also a common problem after both external beam radiation therapy (EBRT) and brachytherapy for PCa. A systematic review and meta-analysis including men treated with EBRT (65%), brachytherapy (31%) or both (4%) showed that the post-treatment prevalence of ED was 34% at one year and 57% at 5.5 years, respectively [315,316]. Similar findings have been reported for stereotactic RT, with 26-55% of previously sexually functioning patients reporting ED at five years [317]. Other modalities have emerged as potential therapeutic options in patients with clinically localised PCa, including high-intensity focused US, cryo-therapeutic ablation of the prostate (cryotherapy), focal padeliporfin-based vascular-targeted photodynamic therapy, and focal RT by brachytherapy or CyberKnife ® . All these approaches are reported to have a less-negative impact on EF, with many of the studies reporting a complete recovery at one-year follow-up [318].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-3-2-summary-of-evidence-on-the-epidemiology-aetiology-and-pathophysiology-of-erectile-disfunction",
+      "title": "5.3.2. Summary of evidence on the epidemiology, aetiology and pathophysiology of erectile disfunction",
+      "level": 4,
+      "text": "Summary of evidence LE Erectile dysfunction is common worldwide. 2b Erectile dysfunction shares common risk factors with CVD. 2b Lifestyle modification (regular exercise and decrease in BMI) can improve EF. 1b Erectile dysfunction is a symptom, not a disease. Some patients may not be properly evaluated or receive treatment for an underlying disease or condition that may be causing ED. 4 Erectile dysfunction is common after RP, irrespective of the surgical technique used. 2b Erectile dysfunction is common after external RT and brachytherapy. 2b Erectile dysfunction is less common after cryotherapy and high-intensity focused US. 2b",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Erectile dysfunction is common worldwide.",
+              "2b"
+            ],
+            [
+              "Erectile dysfunction shares common risk factors with CVD.",
+              "2b"
+            ],
+            [
+              "Lifestyle modification (regular exercise and decrease in BMI) can improve EF.",
+              "1b"
+            ],
+            [
+              "Erectile dysfunction is a symptom, not a disease. Some patients may not be properly evaluated or receive treatment for an underlying disease or condition that may be causing ED.",
+              "4"
+            ],
+            [
+              "Erectile dysfunction is common after RP, irrespective of the surgical technique used.",
+              "2b"
+            ],
+            [
+              "Erectile dysfunction is common after external RT and brachytherapy.",
+              "2b"
+            ],
+            [
+              "Erectile dysfunction is less common after cryotherapy and high-intensity focused US.",
+              "2b"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-4-diagnostic-evaluation-basic-work-up",
+      "title": "5.4. Diagnostic evaluation (basic work-up)",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#5-4-1-medical-and-sexual-history",
+      "title": "5.4.1. Medical and sexual history",
+      "level": 4,
+      "text": "The first step in evaluating ED is always a detailed medical and sexual history of patients and, when available, their partners [319]. Figure 5.1 lists the minimal diagnostic evaluation (basic work-up) in patients with ED. A detailed description should be made of the rigidity and duration of both sexually stimulated and morning erections and of problems with sexual desire, arousal, ejaculation and orgasm [320-322]. Validated questionnaires, such as the IIEF [323] or its short version (i.e. Sexual Health Inventory for Men [SHIM]) [324], help to assess the different sexual function domains (i.e. sexual desire, EF, orgasmic function, intercourse satisfaction, and overall satisfaction), as well as the potential impact of a specific treatment modality. Similarly, structured interviews allow the identification and quantification of the different underlying factors affecting EF [325]. Psychometric analyses also support the use of the Erectile Hardness Score (EHS) for the assessment of penile rigidity in practice and in clinical trials research [326]. Patients should always be screened for symptoms of possible hypogonadism, including decreased libido and energy, and fatigue (see Table 3.3: Specific symptoms associated with LOH).",
+      "tables": []
+    },
+    {
+      "anchor": "#5-4-2-physical-examination",
+      "title": "5.4.2. Physical examination",
+      "level": 4,
+      "text": "Every patient must be given a physical examination focused on the genitourinary, endocrine, vascular and neurological systems [327,328]. A physical examination may reveal unsuspected diagnoses, such as Peyronie’s disease (PD), pre-malignant or malignant genital lesions, prostatic enlargement or irregularity/nodularity, or signs and symptoms suggestive of hypogonadism (see Table 3.3: Specific symptoms associated with LOH). Blood pressure and heart rate should be measured if they have not been assessed in the previous three to six months. Likewise, either BMI calculation or waist circumference measurement should be undertaken to assess patients for comorbid conditions (e.g. MetS).",
+      "tables": []
+    },
+    {
+      "anchor": "#5-4-3-laboratory-testing",
+      "title": "5.4.3. Laboratory testing",
+      "level": 4,
+      "text": "Patients should undergo a fasting blood glucose or haemoglobin A1c and lipid profile measurement if they have not been assessed in the previous 12 months. Hormonal tests should include early morning total testosterone in a fasting state. The bio-available or calculated free testosterone values may sometimes be needed to corroborate total testosterone measurements (see Sections 3.2.1 and 3.4.1) [329]. Additional laboratory tests may be considered in selected patients with specific signs and associated symptoms (e.g. total PSA [330], PRL and LH [331]). Although physical examination and laboratory evaluation of most men with ED may not reveal the exact diagnosis, clinical and biochemical evaluation presents an opportunity to identify comorbid conditions [328]. Figure 5.1: Minimal diagnostic evaluation (basic work-up) in patients with ED ED = erectile dysfunction; IIEF = International Index of Erectile Function.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-4-4-cardiovascular-system-and-sexual-activity-the-patient-at-risk",
+      "title": "5.4.4. Cardiovascular system and sexual activity: the patient at risk",
+      "level": 4,
+      "text": "Patients who seek treatment for sexual dysfunction have a high prevalence of CVDs. Erectile dysfunction significantly increases the risk of CVD, coronary heart disease, stroke, atrial fibrillation, CV and all-cause mortality [332]. Longitudinal data from an observational population-based study of 965 men without CVD showed that younger men (especially those < 50 years) with transient and persistent ED have an increased Framingham CVD risk [333]. Therefore, ED should be considered a precursor of CVD, and more severe and longer standing ED yields greater risk. Erectile dysfunction can improve the sensitivity of screening for asymptomatic CVD in men with or without diabetes [334-336]. Over time, the Princeton Consensus (Expert Panel) Conferences were dedicated to optimising sexual function and preserving CV health [337-341]. These EAU Guidelines on the diagnosis and treatment of men with ED have been adapted from the recommendations from the Princeton Consensus Conferences on sexual dysfunction and cardiac risk published in 2024 [342]. The Princeton Consensus Conference IV aimed to critically evaluate the current evidence for the relationship between ED and CV health, to update the CV work-up in the ED patient, to reassess when and how to treat ED patients with known CVD, and to reassess the accuracy and relevance of previous Princeton management algorithms [342,343]. Accordingly, the Princeton Consensus Conference IV recommended the use of the 2019 American College of Cardiology/American Heart Association atherosclerotic CVD (ASCVD) risk score for all men undergoing evaluation for predominantly vasculogenic ED [344]. As a whole, the ASCVD risk assessment score utilises the Pooled Cohort Equations (PCE), which is based on age, sex, ethnicity, total cholesterol and HDL-cholesterol concentrations, systolic blood pressure, and whether the patient is receiving treatment for hypertension, has diabetes, or smokes [344]. The ASCVD provides an estimate of the patient’s risk of a major CV event within the next ten years categorised as follows: low risk < 5%; borderline risk 5% to < 7.5%; intermediate risk ≥ 7.5% to < 20%; and high risk ≥ 20% [342,345]. In this context, since men aged 40 to 60 years can have their cardiac risk significantly underestimated with this tool alone, the Expert Panel Consensus from the Princeton Conference IV recommended to use the widely available non-contrast-enhanced cardiac computed tomography to measure coronary artery calcium (CAC) scores for all men in the borderline to intermediate ASCVD risk category as the most sensitive and specific marker of subclinical coronary artery disease [342]. Therefore, the Princeton Consensus Conference IV ended using the CAC score as the single strongest predictor of CVD-risk and the concept of it being ideal to guide clinical recommendations. Accordingly, the proposed CV work-up for patients presenting with ED now relies on a flowchart which largely considers the ten-year ASCVD risk calculation (Figure 5.2). Moreover, a specific flowchart is also dedicated to ED patients with overt CV symptoms and/or CVD (Figure 5.3). This algorithm aims to estimate the CV risk associated with sexual activity in patients with ED and known CVD (i.e. the full range of CV disorders, including but not limited to ischemic disorders, arrhythmias, and cardiac output pathology). The goal is to identify the risks related to the likelihood of mortal or morbid events during or shortly after sex. The updated recommendations from the Princeton Consensus Conference IV also address the appropriateness of treatment with PDE5Is among low-risk patients currently using or who have easy access to nitrates [342].The flowcharts proposed by the Princeton Consensus Panel IV, including CAC scoring, should be applied with consideration of local expertise, test availability and cost-effectiveness. Furthermore, these algorithms require contextual adaptation to the European setting and must be individualised to reflect the heterogeneity of patients’ clinical profiles. Figure 5.2: Cardiovascular risk assessment of ED patient with no overt disease or cardiac symptoms (based on IV Princeton Consensus) [342] Reproduced with permission from Kloner et al., 2024 ASCVD = atherosclerotic cardiovascular disease; CAC = coronary artery calcium; CVD = cardiovascular disease; ED = erectile dysfunction; LDD = low-density protein. Figure 5.3: Management of ED in men with overt CV symptoms and/or CVD (based on IV Princeton Consensus) [342] Reproduced with permission from Kloner et al., 2024 *Low-risk patients: Patients for whom sexual activity does not represent significant cardiac risk. These patients can generally perform exercise of modest intensity without symptoms and include successfully revascularised individuals, patients with asymptomatic controlled hypertension, those with mild valvular disease, and patients with left ventricular dysfunction/heart failure (NYHA classes I and II) who achieved 5 METs without",
+      "tables": []
+    },
+    {
+      "anchor": "#5-5-diagnostic-evaluation-advanced-work-up",
+      "title": "5.5. Diagnostic Evaluation (advanced work-up)",
+      "level": 3,
+      "text": "Most patients with ED can be managed based on their medical and sexual history; conversely, some patients may need specific diagnostic tests (Table 5.2).",
+      "tables": []
+    },
+    {
+      "anchor": "#5-5-1-nocturnal-penile-tumescence-and-rigidity-test",
+      "title": "5.5.1. Nocturnal penile tumescence and rigidity test",
+      "level": 4,
+      "text": "The nocturnal penile tumescence and rigidity (NPTR) test applies nocturnal monitoring devices that measure the number of erectile episodes, tumescence (circumference change by strain gauges), maximal penile rigidity, and duration of nocturnal erections. The NPTR assessment should be performed on at least two separate nights. A functional erectile mechanism is indicated by an erectile event of at least 60% rigidity recorded on the tip of the penis that lasts for ≥ ten minutes [346]. Nocturnal penile tumescence and rigidity monitoring is an approach for objectively differentiating between organic and psychogenic ED (patients with psychogenic ED usually have normal findings in the NPTR test). However, there are still limitations to NPTR, namely, the true correlation between NPTR and a sex-related erection, the definition used to establish ED and the many potential confounding factors (e.g. situational, age, depression, sleep-related content). This may limit its routine use for diagnostic purposes [346,347].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-5-2-intracavernous-injection-test",
+      "title": "5.5.2. Intracavernous injection test",
+      "level": 4,
+      "text": "The intracavernous injection test gives limited information about vascular status. A positive test is a rigid erectile response (unable to bend the penis) that appears within ten minutes after the intracavernous injection and lasts for 30 minutes [348]. Overall, the test per se is inconclusive as a diagnostic procedure and a duplex Doppler study of the penis should be requested, if clinically warranted.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-5-3-dynamic-duplex-ultrasound-of-the-penis",
+      "title": "5.5.3. Dynamic duplex ultrasound of the penis",
+      "level": 4,
+      "text": "Dynamic duplex US of the penis is a second-level diagnostic test that specifically studies the haemodynamic pathophysiology of EF. In clinical practice, it is usually applied when a potential vasculogenic aetiology of ED (e.g. diabetes mellitus, multiple concomitant CV risk factors and/or overt peripheral vascular disease, renal transplantation and poor responders to oral therapy) is suspected. Peak systolic blood flow > 30cm/s, end-diastolic velocity < 3cm/s and resistance index > 0.8 are usually considered normal [349,350]. Data suggest that duplex scanning as a haemodynamic study may be better at tailoring therapy for ED, such as for low-intensity shock wave treatment (LI-SWT) in men with vasculogenic ED [351]. Further vascular investigation is unnecessary if a duplex US examination is normal. However, it has limitations with regards to the standardised metrics for the haemodynamic parameters utilised, its diagnostic accuracy is challenged by false positive diagnosis due to confounding factors (e.g. anxiety, low vasoactive agent dosage) and its added value to the intracavernous injection test is still unclear [352-355]. Measures such as audiovisual sexual stimulation, high-dosage alprostadil or combination of vasoactive and/or oral agents can help improve its accuracy [356-358].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-5-4-arteriography-and-dynamic-infusion-cavernosometry-or-cavernosography",
+      "title": "5.5.4. Arteriography and dynamic infusion cavernosometry or cavernosography",
+      "level": 4,
+      "text": "Pudendal arteriography should be performed only in patients who are being considered for penile revascularisation [359]. Currently, dynamic infusion cavernosometry or cavernosography are infrequently used diagnostic modalities for the assessment of venogenic ED and the concept of venogenic ED has been questioned. Computed tomography cavernosography is an emerging diagnostic modality providing detailed anatomical information that may aid in diagnosing and planning treatment for ED [360].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-5-5-psychopathological-and-psychosocial-assessment",
+      "title": "5.5.5. Psychopathological and psychosocial assessment",
+      "level": 4,
+      "text": "Mental health issues and psychological distress are frequently comorbid with ED [361]. This is most evident for depression and anxiety related disorders, but may also include transitory states of altered mood (i.e. dysfunctional affective states resulting from a specific life stressor or crisis) [278,362,363]. Relationship factors, including lack of satisfaction with the partner, poor sexual relationships, length of the relationship, or feeling emotionally disconnected from the partner during sex, have been related to erectile difficulties and ED [362,364,365]. In contrast, intimacy was found to be a protective factor in ED [267,366]. Additionally, the cognitive factors underpinning organic and non-organic ED (i.e. all dysfunctional thinking styles and expectations about sexuality, poor self-esteem and cognitive distraction from erotic cues) must also be assessed. Psychosexual assessment in ED cases include a clinical interview considering all the previous topics [367]. Also, self-reported measures are frequently used within the psychosocial context [368]. A growing amount of data suggest that men who have sex with men (MSM) present specific psychological risks associated with erectile capability regarding anal sex [369]. Professionals must tailor their assessment in the context of sexual minorities. Figure 5.4: Psychopathological and psychosocial assessment Table 5.2: Indications for specific diagnostic tests for ED and the specific diagnostic tests Indications for specific diagnostic tests for erectile dysfunction (ED) Primary ED (not caused by acquired organic disease or psychogenic disorder). Young patients with a history of pelvic or perineal trauma, who could benefit from potentially curative revascularisation surgery or angioplasty. Patients with penile deformities that might require surgical correction (e.g. Peyronie’s disease and congenital penile curvature). Patients with complex psychiatric or psychosexual disorders. Patients with complex endocrine disorders. Specific tests may be indicated at the request of the patient or their partner. Medico-legal reasons (e.g. implantation of penile prosthesis to document end-stage ED, and sexual abuse). Specific diagnostic tests for ED Nocturnal Penile Tumescence and Rigidity (NTPR) using Rigiscan ® . Vascular studies, Intracavernous vasoactive drug injection, Penile dynamic duplex ultrasonography, Penile dynamic infusion cavernosometry and cavernosography, Internal pudendal arteriography. Specialised endocrinological studies. Specialised psycho-diagnostic evaluation.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Indications for specific diagnostic tests for erectile dysfunction (ED)"
+            ],
+            [
+              "Primary ED (not caused by acquired organic disease or psychogenic disorder)."
+            ],
+            [
+              "Young patients with a history of pelvic or perineal trauma, who could benefit from potentially curative revascularisation surgery or angioplasty."
+            ],
+            [
+              "Patients with penile deformities that might require surgical correction (e.g. Peyronie’s disease and congenital penile curvature)."
+            ],
+            [
+              "Patients with complex psychiatric or psychosexual disorders."
+            ],
+            [
+              "Patients with complex endocrine disorders."
+            ],
+            [
+              "Specific tests may be indicated at the request of the patient or their partner."
+            ],
+            [
+              "Medico-legal reasons (e.g. implantation of penile prosthesis to document end-stage ED, and sexual abuse)."
+            ],
+            [
+              "Specific diagnostic tests for ED"
+            ],
+            [
+              "Nocturnal Penile Tumescence and Rigidity (NTPR) using Rigiscan®."
+            ],
+            [
+              "Vascular studies,Intracavernous vasoactive drug injection,Penile dynamic duplex ultrasonography,Penile dynamic infusion cavernosometry and cavernosography,Internal pudendal arteriography."
+            ],
+            [
+              "Specialised endocrinological studies."
+            ],
+            [
+              "Specialised psycho-diagnostic evaluation."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-5-6-summary-of-evidence-and-recommendations-for-diagnostic-evaluation-of-erectile-dysfunction",
+      "title": "5.5.6. Summary of evidence and recommendations for diagnostic evaluation of erectile dysfunction",
+      "level": 4,
+      "text": "Summary of evidence LE Medical and sexual history, physical examination and laboratory testing, including metabolic and hormonal profile, may identify risk factors for ED and may help in defining the ED aetiology. 3 Validated psychometric questionnaires (e.g. IIEF, EHS) are reliable tools to assess ED severity. 3 Specific diagnostic tests could help discern between vasculogenic, hormonal or psychogenic causes of ED. 3 Recommendations Strength rating Take a comprehensive medical and sexual history in every patient presenting with erectile dysfunction (ED). Consider psychosexual development, including life stressors, cultural aspects, and cognitive factors regarding patient sexual performance. Strong Use a validated questionnaire related to ED to assess all sexual function domains (e.g. International Index of Erectile Function) and the effect of a specific treatment modality. Strong Include a focused physical examination in the initial assessment of men with ED to identify underlying medical conditions and comorbid genital disorders that may be associated with ED. Strong Evaluate laboratory tests, including glucose and lipid profile and total testosterone, to identify and treat any reversible risk factors and lifestyle factors that can be modified. Strong Include specific diagnostic tests in the initial evaluation of ED in the presence of the conditions presented in Table 5.2. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Medical and sexual history, physical examination and laboratory testing, including metabolic and hormonal profile, may identify risk factors for ED and may help in defining the ED aetiology.",
+              "3"
+            ],
+            [
+              "Validated psychometric questionnaires (e.g. IIEF, EHS) are reliable tools to assess ED severity.",
+              "3"
+            ],
+            [
+              "Specific diagnostic tests could help discern between vasculogenic, hormonal or psychogenic causesof ED.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Take a comprehensive medical and sexual history in every patient presenting with erectile dysfunction (ED). Consider psychosexual development, including life stressors, cultural aspects, and cognitive factors regarding patient sexual performance.",
+              "Strong"
+            ],
+            [
+              "Use a validated questionnaire related to ED to assess all sexual function domains (e.g. International Index of Erectile Function) and the effect of a specific treatment modality.",
+              "Strong"
+            ],
+            [
+              "Include a focused physical examination in the initial assessment of men with ED to identify underlying medical conditions and comorbid genital disorders that may be associated with ED.",
+              "Strong"
+            ],
+            [
+              "Evaluate laboratory tests, including glucose and lipid profile and total testosterone, to identify and treat any reversible risk factors and lifestyle factors that can be modified.",
+              "Strong"
+            ],
+            [
+              "Include specific diagnostic tests in the initial evaluation of ED in the presence of the conditions presented in Table 5.2.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-6-treatment-of-erectile-dysfunction",
+      "title": "5.6. Treatment of erectile dysfunction",
+      "level": 3,
+      "text": "The Guidelines Panel have developed a comprehensive therapeutic and decision-making algorithm (Figure 5.5) for treating ED. The treatment algorithm was developed as an alternative to the traditional three-tier concept to support personalised treatment tailored to individual patients according to invasiveness, tolerability and effectiveness of the different therapeutic options and patients’ expectations. In this context, patients should be fully counselled with respect to all available treatment modalities. Most men with ED are not treated with cause-specific therapeutic options. This results in a tailored treatment strategy that depends on invasiveness, efficacy, safety, costs and patient preference [370]. Physician-patient dialogue is essential throughout the management of ED. A systematic review has shown a consistent discontinuation rate for all available ED treatment options [371]. This highlights the importance of clinicians understanding patient’s beliefs about ED treatment, therapeutic ineffectiveness, adverse effects, quality of intimate relationships and treatment costs, all of which were shown to be the most prevalent barriers to treatment use [371]. Figure 5.5: Management algorithm for erectile dysfunction ED = erectile dysfunction; PDE5Is = phosphodiesterase type 5 inhibitors; Li-SWT = low-intensity shockwave therapy.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-6-1-patient-education",
+      "title": "5.6.1. Patient education",
+      "level": 4,
+      "text": "Educational intervention is often the first approach to sexual complaints and consists of informing patients about the psychological and physiological processes involved in the individual’s sexual response in ways the patient can understand. This baseline approach has been shown to favour sexual satisfaction in men with ED [372]. Accordingly, consultation should include a discussion of the expectations and needs of the patient and their sexual partner. It should also review the patient’s and partner’s understanding of ED and the results of diagnostic tests, and provide a rationale for the selected treatment [370].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-6-2-modifiable-risk-factors",
+      "title": "5.6.2. Modifiable risk factors",
+      "level": 4,
+      "text": "Erectile dysfunction may be associated with modifiable or reversible risk factors, including lifestyle or drug-related factors [373]. These factors may be modified either before, or at the same time as, specific therapies are used. Likewise, ED may be associated with concomitant and underlying conditions (e.g. endocrine and metabolic disorders, such as diabetes, and some CV problems, such as hypertension) which should always be well-controlled as the first step of any ED treatment [374]. Overall, several studies have shown that lifestyle modifications, including physical activity (particularly aerobic exercise), weight loss (including bariatric surgery), and treatment of CVD risk factors, may improve sexual function in men with ED [271,373,375-379]. Regarding the use of statins, previous meta-analyses have demonstrated an improvement in EF [380,381].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-6-3-phosphodiesterase-type-5-inhibitors",
+      "title": "5.6.3. Phosphodiesterase type 5 inhibitors",
+      "level": 4,
+      "text": "Four potent selective PDE5Is have been approved by the EMA for treatment of ED [382]. The efficacy of all four PD5EIs in almost every subgroup of patients with ED has been successfully established [382-385]. Efficacy is defined as an erection, with rigidity, sufficient for satisfactory intercourse [374]. Adverse events for the four PDE5Is are generally mild and self-limiting [386-390]. The pharmacokinetic data for all four PDE5Is and their associated adverse events are presented in Tables 5.3 and 5.4, respectively. Choice of PDE5I depends on frequency of intercourse and the patient’s personal experience. Two meta-analyses demonstrated that ED patients who prioritise high efficacy should use sildenafil 50mg whereas those who optimise tolerability should initially use tadalafil 10mg [383,391]. A meta-analysis investigating the placebo responses in patients treated with PDE5Is showed a significant improvement in ED, especially among men with ED-related post-traumatic stress disorder [392]. 5.6.3.a. Sildenafil Sildenafil is administered in doses of 25, 50 and 100mg. The recommended starting dose is 50mg and should be adapted according to the patient’s response and adverse effects [393]. The window of effectiveness ranges from 30-60 minutes after administration [393] up to 12 hours [394]. In a 24-week dose-response study, improved erections were reported by 56%, 77% and 84% of general ED patients taking 25, 50 and 100mg sildenafil, respectively, compared to 25% of men taking placebo [395]. Sildenafil also significantly improved patient scores for IIEF, Sexual Encounter Profile (SEP) question 2 (SEP2), SEP question 3 (SEP3), General Assessment Questionnaire (GAQ), and treatment satisfaction [395]. An orally disintegrating tablet (ODT) of sildenafil citrate at the dose of 25, 50, 75 and 100mg has been developed, mainly for patients who have difficulty swallowing solid dosage forms [396]. Sildenafil oral suspension treatment has been developed, with clinically relevant results [397,398]. 5.6.3.b. Tadalafil Tadalafil is administered in on-demand doses of 10 and 20mg or a daily dose of 5mg. The recommended on-demand starting dose is 10mg and should be adapted according to the patient’s response and adverse effects [399,400]. The window of effectiveness ranges from 30 minutes after administration (peak efficacy after approximately two hours) up to 36 hours [399]. In a 12-week dose-response study improved erections were reported by 67% and 81% of men with ED taking 10 and 20mg tadalafil, respectively, compared to 35% of men taking placebo [399]. Tadalafil has also shown a net clinical benefit in the short-term on ejaculatory and orgasmic functions in ED patients [401]. Data have also shown that 40% of men aged > 45 years were combined responders for ED and LUTS/BPH when treated with tadalafil 5mg once daily, with symptom improvement after 12 weeks [402]. Therefore, its use may be considered in patients with ED only, as well as in those with concomitant LUTS who wish to benefit from a single therapy [403]. 5.6.3.c. Vardenafil Vardenafil is administered in on-demand doses of 5, 10 and 20mg. The recommended starting dose is 10mg and should be adapted according to the patient’s response and adverse effects [388]. Vardenafil is effective from 30 minutes after administration [404], with one out of three patients achieving satisfactory erections within 15 minutes of ingestion [405]. In a 12-week dose-response study, improved erections were reported by 66%, 76% and 80% of men with ED taking 5, 10 and 20mg vardenafil, respectively, compared with 30% of men taking placebo [388,406]. Vardenafil significantly improved patient scores for IIEF, SEP2, SEP3, GAQ, and treatment satisfaction. An ODT formulation of vardenafil has been released [406]. The efficacy of vardenafil ODT has been demonstrated in several RCTs and did not seem to differ from the regular formulation [407-409]. 5.6.3.d. Avanafil Avanafil is administered in on-demand doses of 50, 100 and 200mg [389]. The recommended starting dose is 100mg taken as needed 15-30 minutes before sexual activity and the dose may be adapted according to efficacy and tolerability [389,390,410]. In a general ED population the mean percentage of successful sexual attempts resulting in intercourse were 47%, 58% and 59% for the 50, 100 and 200mg groups, respectively, as compared with 28% for the placebo group [389,390]. A meta-analysis confirmed that avanafil had comparable efficacy with sildenafil, vardenafil and tadalafil [411]. 5.6.3.e. Continuous use of PDE5Is According to the EMA, a once-daily regimen with tadalafil 2.5 or 5mg may be considered suitable, based on patients’ choice and physicians’ judgement. In these patients, the recommended dose is 5mg, taken once daily at approximately the same time each day. Tadalafil, 5mg once daily, provides an alternative to on-demand tadalafil for couples who prefer spontaneous rather than scheduled sexual activities or who anticipate frequent sexua",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Parameter",
+              "Sildenafil, 100mg",
+              "Tadalafil, 20mg",
+              "Vardenafil, 20mg",
+              "Avanafil, 200mg"
+            ],
+            [
+              "Cmax",
+              "560μg/L",
+              "378μg/L",
+              "18.7μg/L",
+              "5.2μg/L"
+            ],
+            [
+              "Tmax (median)",
+              "0.8-1 hours",
+              "2 hours",
+              "0.9 hours",
+              "0.5-0.75 hours"
+            ],
+            [
+              "T1/2",
+              "2.6-3.7 hours",
+              "17.5 hours",
+              "3.9 hours",
+              "6-17 hours"
+            ],
+            [
+              "AUC",
+              "1,685μg.h/L",
+              "8,066μg.h/L",
+              "56.8μg.h/L",
+              "11.6μg.h/L"
+            ],
+            [
+              "Protein binding",
+              "96%",
+              "94%",
+              "94%",
+              "99%"
+            ],
+            [
+              "Bioavailability",
+              "41%",
+              "NA",
+              "15%",
+              "8-10%"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Adverse event",
+              "Sildenafil",
+              "Tadalafil",
+              "Vardenafil",
+              "Avanafil, 200mg"
+            ],
+            [
+              "Headache",
+              "12.8%",
+              "14.5%",
+              "16%",
+              "9.3%"
+            ],
+            [
+              "Flushing",
+              "10.4%",
+              "4.1%",
+              "12%",
+              "3.7%"
+            ],
+            [
+              "Dyspepsia",
+              "4.6%",
+              "12.3%",
+              "4%",
+              "uncommon"
+            ],
+            [
+              "Nasal congestion",
+              "1.1%",
+              "4.3%",
+              "10%",
+              "1.9%"
+            ],
+            [
+              "Dizziness",
+              "1.2%",
+              "2.3%",
+              "2%",
+              "0.6%"
+            ],
+            [
+              "Abnormal vision",
+              "1.9%",
+              " ",
+              "< 2%",
+              "None"
+            ],
+            [
+              "Back pain",
+              " ",
+              "6.5%",
+              " ",
+              "< 2%"
+            ],
+            [
+              "Myalgia",
+              " ",
+              "5.7%",
+              " ",
+              "< 2%"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-6-4-psychosocial-intervention-and-therapy",
+      "title": "5.6.4. Psychosocial intervention and therapy",
+      "level": 4,
+      "text": "Psychosocial interventions, including different modalities (e.g. sexual skills training, marital therapy, psychosexual education) [372], and cognitive and behavioural therapy (CBT) - group or couple format - even if conducted online, are recommended [367,451]. By modifying maladaptive cognitive and behavioural patterns that contribute to ED, CBT enhances psychological adjustment throughout the course of the disorder. The integration of CBT with pharmacological treatment for ED has demonstrated empirical efficacy and is regarded as a best-practice approach [452].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-6-5-hormonal-treatment",
+      "title": "5.6.5. Hormonal treatment",
+      "level": 4,
+      "text": "When clinically indicated, testosterone therapy (intramuscular, transdermal or oral) can be considered for men with low or low-normal testosterone levels and concomitant problems with sexual desire, EF and dissatisfaction derived from intercourse and overall sex life (see Section 3.4 for a comprehensive discussion on testosterone therapy) [453,454], even in patients with a history of CVD [455].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-6-6-vacuum-erection-devices",
+      "title": "5.6.6. Vacuum erection devices",
+      "level": 4,
+      "text": "Published data report that efficacy, in terms of erections satisfactory for intercourse, is as high as 90%, regardless of the cause of ED, and satisfaction rates range between 27% and 94% [456,457]. Long-term use of VEDs decreases to 50-64% after two years [458]. The most common adverse events include pain, inability to ejaculate, petechiae, bruising and numbness [457]. Serious adverse events (skin necrosis) can be avoided if patients remove the constriction ring within 30 minutes. In patients with bleeding disorders or on anticoagulant therapy, VEDs are contraindicated [459,460]. For well-informed older patients with infrequent sexual intercourse and comorbidity who require non-invasive, drug-free management of ED, VEDs may be the treatment of choice [456,457,461].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-6-7-intracavernous-injections-therapy",
+      "title": "5.6.7. Intracavernous injections therapy",
+      "level": 4,
+      "text": "Intracavernous administration of vasoactive drugs was the first medical treatment introduced for ED [434,462]. Patients may be offered intracavernous injections at every stage of a tailored treatment work-up. 5.6.7.a. Alprostadil Alprostadil (CaverjectTM, Edex/ViridalTM) was the first and only drug approved for intracavernous treatment of ED [434,463]. Intracavernous alprostadil is most efficacious as a monotherapy at a dose of 5-40μg (40μg may be offered off label in some European countries). The erection appears after 5-15 minutes and lasts according to the dose injected, but with significant heterogeneity among patients. An in-office training programme is required for patients to learn the injection technique. Efficacy rates for intracavernous alprostadil of > 70% have been found in the general ED population, as well as in patient subgroups (e.g. men with diabetes or CVD), with reported satisfaction rates of 87-93.5% in patients and 86-90.3% in partners after the injections [434,462]. Complications of intracavernous alprostadil include penile pain (50% of patients reported pain only after 11% of total injections), excessively prolonged and undesired erections (5%), priapism (1%), and fibrosis (2%) [434,462,464]. Pain is usually self-limited after prolonged use and it can be alleviated with the addition of sodium bicarbonate or local anaesthesia [434,462,465]. Cavernosal fibrosis usually clears within a few months after temporary discontinuation of the injection programme. However, tunical fibrosis suggests early onset of PD and may indicate the need to discontinue intracavernous injections indefinitely. Systemic adverse effects are uncommon. The most common is mild hypotension, especially when using higher doses. In a large population study including 16,548 men with a history of ischemic CVD, those treated with alprostadil had higher risk of a further CV event as compared to those receiving PDE5Is [416]. Contraindications include men with a history of hypersensitivity to alprostadil, men at risk of priapism, and men with bleeding disorders. Despite these favourable data, drop-out rates of 41-68% have been reported for intracavernous pharmacotherapy [434,462,466,467], with most discontinuations occurring within the first two to three months. Careful counselling of patients during the office-training phase as well as close follow-up are important in addressing patient withdrawal from an intracavernous injection programme [468-470]. 5.6.7.b. Other vasoactive intracavernous treatments Table 5.5 details the available intracavernous injection therapies (compounds and characteristics). Combination therapy enables a patient to take advantage of the different modes of action of the drugs being used, as well as alleviating adverse effects by using lower doses of each drug. Papaverine (20-80mg) was the first oral drug used for intracavernous injections. It is most commonly used in combination therapy because of its high incidence of adverse effects as monotherapy. Papaverine is currently not licensed for treatment of ED. Phentolamine has been used in combination therapy to increase efficacy. As monotherapy, it produces a poor erectile response. Phentolamine is currently not licensed for treatment of ED. Limited data support the use of other drugs, such as vasoactive intestinal peptide, nitric oxide donors (linsidomine), forskolin, potassium channel openers, moxisylyte or calcitonin gene-related peptide, usually combined with the main drugs [471,472]. Most combinations are not standardised, and some drugs have limited availability worldwide. Bimix, (papaverine 7.5-45mg plus phentolamine 0.25-1.5mg) and Trimix (papaverine 8-16mg plus phentolamine 0.2-0.4mg plus alprostadil 10-20μg), have been widely used with improved efficacy rates, although they have never been licensed for ED [473,474]. Trimix has the highest efficacy rates, reaching 92%; this combination has similar adverse effects as alprostadil monotherapy, but a lower incidence of penile pain due to lower doses of alprostadil. However, fibrosis is more common (5-10%) when papaverine is used (depending on total dose). InvicorpTM: Vasoactive intestinal peptide (25μg) plus phentolamine mesylate (1-2mg Invicorp), is a combination of two active components with complementary modes of action. Clinical studies have shown that the combination is effective for intracavernous injections in > 80% of men with ED, including those who have failed to respond to other therapies and, unlike existing intracavernous therapies, is associated with a low incidence of penile pain and a virtually negligible risk of priapism [475]. Overall, despite high efficacy rates, 5-10% of patients do not respond to combination intracavernous injections. Table 5.5: Intracavernous injection therapy - compounds and characteristics Name Substance Dosage Efficacy Adverse Events Comment Caverject™ or Edex/Viridal™ Alprostadil 5-40µg/mL ~ 70% Penile pain, priapism, fibrosis Easily available Papaverine P",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Name",
+              "Substance",
+              "Dosage",
+              "Efficacy",
+              "Adverse Events",
+              "Comment"
+            ],
+            [
+              "Caverject™ or Edex/Viridal™",
+              "Alprostadil",
+              "5-40µg/mL",
+              "~ 70%",
+              "Penile pain, priapism, fibrosis",
+              "Easily available"
+            ],
+            [
+              "Papaverine",
+              "Papaverine",
+              "20-80mg",
+              "< 55%",
+              "Elevation of liver enzymes, priapism, fibrosis",
+              "Abandoned as monotherapy"
+            ],
+            [
+              "Phentolamine",
+              "Phentolamine",
+              "0.5mg/mL",
+              "Poor efficacy as monotherapy",
+              "Systemic hypotension, reflex tachycardia, nasal congestion, and gastrointestinal upset",
+              "Abandoned as monotherapy"
+            ],
+            [
+              "Bimix",
+              "Papaverine + Phentolamine",
+              "30mg/mL +0.5mg/mL",
+              "~ 90%",
+              "Similar to Alprostadil (less pain)",
+              "Not licensed for the treatment of ED"
+            ],
+            [
+              "Trimix",
+              "Papaverine + Phentolamine + Alprostadil",
+              "30mg/mL +1mg/mL +10µg/mL",
+              "~ 92%",
+              "Similar to Alprostadil (less pain)",
+              "Not licensed for the treatment of ED"
+            ],
+            [
+              "Invicorp™",
+              "Vasoactive intestinal peptide+ Phentolamine",
+              "25µg + 1-2mg",
+              "~ 80%",
+              "Similar as Alprostadil without pain",
+              "Easily available"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-6-8-innovative-treatment-modalities",
+      "title": "5.6.8. Innovative treatment modalities",
+      "level": 4,
+      "text": "There are currently several potential novel treatment modalities for ED. Most of these therapeutic approaches require further investigation in large-scale, blinded, placebo-controlled randomised studies to achieve adequate evidence-based and clinically reliable recommendation grades [476-481]. 5.6.8.a. Regenerative medicine therapies 5.6.8.a.1. Shockwave therapy The use of LI-SWT has been increasingly proposed as a treatment for vasculogenic ED over the last decade, and it’s the only currently marketed treatment that might offer a cure, which is the most desired outcome for most men suffering from ED [351,482-489]. Several single-arm trials have shown a beneficial effect of LI-SWT on patient-reported EF. However, there are significant differences in reported outcome measures due to the heterogeneity among shockwave generators, type of shockwaves delivered (focal vs. radical), set-up parameters and treatment protocols [490,491]. In a trial trying to assess the best treatment parameters, no significant differences were observed between various energy flux density levels; although, a 0.10mJ/mm 2 seems to perform slightly better than lower energies [492]. Most trials have been conducted with generators delivering focal shockwaves [351,490,491]. A RCT using radial wave therapy showed no difference in IIEF-EF and EHS score between treatment and placebo groups [493]. Despite this, most studies have suggested that LI-SWT can significantly increase IIEF and EHS scores in patients with mild vasculogenic ED, although this improvement appears modest and the rates of patients reporting a satisfactory improvement range between 40-80% [351,490]. Few studies have shown an improvement in penile haemodynamic parameters after LI-SWT, but the clinical meaning of this improvement remains unclear [490,494]. Likewise, data suggest that LI-SWT could ameliorate erection quality even in patients with severe ED who are either PDE5Is non-responders [487,495,496] or inadequate responders [497], thus reducing the immediate need for more invasive treatments. Treatment effect appears to be clinically evident starting from one to three months after treatment completion, with a subsequent progressive decrease of the achieved EF benefit over time, although some effects could be still detected up to five years after treatment [490,492,498]. Data from RCTs suggest that even better results could be achieved by combining LI-SWT with other treatments such as a VED in men with T2DM [441] or daily tadalafil [499,500]. Findings from a meta-analysis showed that LI-ESWT has a positive effect on early recovery of EF in the context of penile rehabilitation of ED after RP. However, the level of evidence was low and careful interpretation of the results is required [501-503]. 5.6.8.a.2. Platelet-rich plasma Intracavernous injection of platelet-rich plasma (PRP) has been investigated in several prospective and retrospective trials [504-510]. The regenerative effect of PRP is deemed to be exerted through the high concentrations of platelets containing several growth factors including VEGF, EGF, IGF-1, PDGF and FGF [511]. These factors may be responsible for angiogenesis stimulation and stem cell recruitment [511]. An RCT investigated the effect of intracavernous injection of PRP for ED. Sixty patients with mild to moderate vasculogenic ED were randomised to receive two injections of 10mL PRP (n = 30) or placebo (n = 30) [510]. At one, three and six-month follow-up, the rate of patients reporting minimal clinically important difference (MCID) in the IIEF-EF score was significantly higher in the treatment group, with 69% achieving MCID six months after PRP versus 27% in the placebo group (p < 0.001). The IIEF-EF scores improved by a mean of 2.7 points at one-month and 3.9 points at six-month assessment after treatment. Regarding safety, no haemorrhagic events or other side effects were reported [510]. A prospective randomised, double-blind, placebo-controlled study was carried out on 109 patients, aged 45-65 years, with mild to moderate ED, following cessation of any ED treatment [512]. At one, three and six months after PRP injections, patients in the PRP group had a significant improvement compared to placebo in terms of IIEF-EF, SEP2 and SEP3 scores. Moreover, at six-month post-treatment follow-up, 70% of patients achieved a MCID in the PRP group compared to 16% in the placebo group [512]. A 2023 prospective, randomised, double-blind, placebo control study on a relatively small cohort of mild to moderate ED patients treated with two PRP injections separated by one month, showed that the treatment is safe, but no difference in efficacy between PRP and placebo was found [513]. Of clinical relevance, patients were allowed to continue PDE5Is during the study [513]. A meta-analysis of the above mentioned RCTs reported a mean improvement in IIEF-EF score with PRP versus placebo of 3.21 (95% CI: 1.82; 4.60) six months after treatment [514]. Despite promising resu",
+      "tables": []
+    },
+    {
+      "anchor": "#5-6-9-herbal-medicine-and-natural-supplements",
+      "title": "5.6.9. Herbal medicine and natural supplements",
+      "level": 4,
+      "text": "There has been an exponential growth in the market of medicinal herbs and natural supplements for the treatment of ED, but with very little available evidence of robust scientific data to support their efficacy and safety. A Cochrane review showed that ginseng may only have trivial effects on EF or satisfaction with intercourse compared to placebo when assessed using validated tools [523]. A meta-analysis including 18 trials comparing the effect of antioxidants alone or in combination with PDE5Is versus placebo or PDE5Is alone showed a small but significant positive effect of L-arginine with a mean increase in IIEF-EF score of 2.74 (95% CI: 1.67; 3.81) compared to placebo, but no difference in terms of sexual satisfaction score [524]. Similar results were reported for antioxidants alone including folic acid, myoinositol, vitamin E, L-carnitine, nicotinic acid, pine bark extract, transresveratrol, L-citrulline and ginseng. This small improvement may not be perceived as significant by patients. In another meta-analysis, the combination of PDE5Is plus antioxidants (including: propionyl-L-carnitine, acetyl-L-carnitine, L-arginine, folic acid and trans-resveratrol) was associated with better EF improvement compared to PDE5Is alone [439]. Overall, these data suggest that antioxidant supplements and herbal compounds alone or in combination with PDE5Is may have a small positive effect on EF, although further studies are needed to assess the clinical significance of these findings.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-6-10-erectile-dysfunction-after-radical-prostatectomy",
+      "title": "5.6.10. Erectile dysfunction after radical prostatectomy",
+      "level": 4,
+      "text": "Urologists should have enhanced awareness of how to approach patients directly about their ED and sexual dysfunction following RP and actively offer treatment options [525]. Use of pro-erectile drugs following RP is important in achieving postoperative EF and to allow patients to resume sexual activity. Several trials have shown improvements in EF after RP in patients receiving drugs (any therapeutic or prophylactic) for ED. Early, compared with delayed, EF treatment affects the natural recovery time for EF [526], although there is limited data to support any specific regimen, which is either optimal for penile rehabilitation or may result in the achievement of spontaneous, non-pharmacologically assisted erections [304,527,528]. Data from a small pilot RCT showed that perioperative rehabilitation with PDE5Is may lead to better EF recovery compared to postoperative rehabilitation [529]. There is no evidence that penile rehabilitation itself increases the chances of spontaneous EF recovery in men following nerve-sparing RP [528]. The currently available therapeutic armamentarium follows the treatment algorithm for ED, which is shown in Figure 5.2. In this context, PDE5Is have been considered as the first-line therapy in patients who have undergone nerve-sparing surgery, regardless of the surgical technique used [304,309]. Several clinical parameters have been identified as potential predictors of PDE5Is outcomes in men undergoing RP. Patient age, baseline EF and quality of nerve-sparing technique are key factors in preserving post-RP EF [309,312,530]. A Cochrane review analysing data from eight RCTs showed that scheduled PDE5Is may have little or no effect on short-term (up to 12 months) self-reported potency when compared to placebo or no treatment [531]. In this study, a daily PDE5I made little to no difference in short- and long-term EF. It was concluded that penile rehabilitation strategies using PDE5I following RP do not increase self-reported EF compared to on-demand use. Conversely, an updated meta-analysis including 22 trials comparing 16 different rehabilitation protocols, showed that daily administration of sildenafil 100mg was the most effective strategy to recover EF after RP [532]. Intracavernous injections and penile implants had been suggested as second- and third-line treatments, respectively, when oral PDE5Is are not adequately effective or not suitable for postoperative patients [304,533]. A meta-analysis showed that the early use of VED has an excellent therapeutic effect on post-RP patients and no serious adverse effects; therefore, it should be considered as a therapeutic alternative [534]. Findings from two network meta-analyses showed that combination therapy with VED and PDE5Is offers clear advantages over monotherapy, even in post-RP patients. This combined approach should be considered in the clinical management of ED after RP [535]. A novel penile traction device yielded positive results compared to no treatment in preserving penile length after RP [536]. Findings from a systematic review had suggested that pelvic floor muscle training combined with bio-feedback is a promising alternative to pharmacological treatments, although there is a need for future well-powered, rigorously designed RCTs to draw strong conclusions [537].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-6-11-surgical-management",
+      "title": "5.6.11. Surgical management",
+      "level": 4,
+      "text": "5.6.11.a. Surgery for post-traumatic arteriogenic ED In young patients with pelvic or perineal trauma, surgical penile revascularisation has a 60-70% long-term success rate [460,538]. The stenosis must be confirmed by penile pharmaco-arteriography. Corporeal veno-occlusive dysfunction is a contraindication to revascularisation and must be excluded by dynamic infusion cavernosometry or cavernosography. 5.6.11.b. Venous ligation surgery Venous ligation surgery for veno-occlusive dysfunction is no longer recommended because of poor long-term results [538]. 5.6.11.c. Penile prostheses The surgical implantation of a penile prosthesis may be considered in patients who i) are not suitable for different pharmacotherapies or prefer a definitive therapy; and, ii) do not respond to other treatment modalities [539]. The two currently available classes of penile implants include inflatable (two- and three-piece) and semi-rigid devices (malleable, mechanical and soft flexible) [309,540-543]. There are currently no head-to-head studies comparing the different manufacturers’ implants or demonstrating superiority of one implant type over another [544]. Patients may prefer the three-piece inflatable devices due to the more “natural” erections obtained, although no prospective RCTs have compared satisfaction rates with both types of implants. The two-piece inflatable prosthesis can be a viable option for patients who are deemed at high-risk of complications with reservoir placements (e.g. previous abdominal surgery). Semi-rigid prostheses result in a firm penis, which may be manually placed in an erect or flaccid state and offer the advantage of a simple implant technique, as well as easy use for the patient [309,540-542]. Conversely, they can have the disadvantage of unnatural persistent erection and reduced concealability [542,545]. They may also be an option in men with limited manual dexterity. There are two main surgical approaches for penile prosthesis implantation (PPI): peno-scrotal and infrapubic [541,542,545,546]. A systematic review comparing the satisfaction and complication rates of the different surgical approaches has shown that there is no specific advantage between the two, but rather it is recommended that surgeons have knowledge of both techniques and are capable of tailoring the incision strategy for complex cases [547]. Regardless of the indication, prosthesis implantation has one of the highest satisfaction rates (92-100% in patients and 91-95% in partners) among the treatment options for ED, with appropriate counselling [309,540,541,548-556]. Focused psychosexual counselling may improve sexuality and sexual well-being in both patients and their partners after penile implant surgery [557]. There is sufficient evidence to recommend this approach in patients who do not respond to less-invasive treatments due to its high efficacy, safety and satisfaction rate [558]. The two main complications of PPI are mechanical failure and infection. Several technical modifications of the most commonly used three-piece prostheses (e.g. AMS 700CX/CXRTM and Titan Zero degree™) resulted in mechanical failure rates of < 5% after five years of follow-up [540,559,560]. A meta-analysis showed implant durability or survival rates of 93.3% at one year, 91.0% at three years, 87.2% at five years, 76.8% at ten years, 63.7% at 15 years, and 52.9% at 20 years [561]. Careful surgical techniques with appropriate antibiotic prophylaxis against Gram-positive and negative bacteria reduced infection rates to 2-3% with primary implantation in low-risk patients and in high-volume centres [562-565]. The infection rate may be further reduced to 1-2% by implanting an antibiotic-impregnated prosthesis (AMS Inhibizone™) or hydrophilic-coated prosthesis (Coloplast Titan™) [540,562,566-569]. Methods that appear to decrease infection rates include using coated prostheses and strictly adhering to surgical techniques and protocols that avoid prolonged wound exposure and minimise skin contact (i.e. no-touch technique). Techniques that might prevent penile prostheses infection but lack definitive evidence include the use of prolonged postoperative antibiotics (> 24 hours), shaving with clippers, and preparation with chlorhexidine-alcohol [570,571]. Identification and pre-treatment of patients who are colonised with nasal Staphylococcus aureus with mupirocin and chlorhexidine prior to surgery has been shown to reduce the incidence of postoperative surgical site infection from 4.4% to 0.9% [572]. A large database-study has shown that diabetes mellitus is a risk factor for penile prostheses infection, highlighting the need for optimal patient selection [573]. There are no RCTs determining the ideal and/or correct threshold of glycated haemoglobin that is acceptable prior to implant surgery in diabetic patients [574]. A large-cohort, multicentre, retrospective analysis in men with diabetes who received a Coloplast Titan™ implant demonstrated that vancomycin ",
+      "tables": []
+    },
+    {
+      "anchor": "#5-6-12-summary-of-evidence-and-recommendations-for-treatment-of-ed",
+      "title": "5.6.12. Summary of evidence and recommendations for treatment of ED",
+      "level": 4,
+      "text": "Summary of evidence LE Lifestyle changes can lead to ED improvement in specific populations. 1a PDE5Is are associated with significant improvement of EF with a good overall safety profile. 1a There are no demonstrated differences among different PDE5Is in terms of treatment efficacy. 1a Topical/intraurethral alprostadil is effective in improving EF but data are still limited. 1b Vacuum therapy can improve EF with a wide range of treatment satisfaction rate. 2b Intracavernous injection with alprostadil is an effective treatment of ED; however, it has relatively high treatment drop-out rates. 1a Low-intensity shockwave therapy can induce a mild improvement in EF among patients with vasculogenic ED. 1a Intracavernous injections of PRP have led to a mild improvement of EF among patients with organic ED, but the available evidence remains insufficient to provide a recommendation regarding its use. 1b BoNT-A has been shown to improve response rate to medical treatment for ED in patients who were non-responsive to oral or injective therapies, but data are still limited. 1b Penile rehabilitation with PDE5Is after RP does not increase the chance of spontaneous EF recovery. 1a There is no difference in terms of efficacy and safety among different penile implants available or surgical approach used. 3 Recommendations Strength rating Initiate lifestyle changes and risk factor modification prior to, or at the same time as, initiating erectile dysfunction (ED) treatments. Strong Use phosphodiesterase type 5 inhibitors (PDE5Is) as first-line therapy for the treatment of ED. Strong Use intracavernous injections as an alternative first-line therapy in well-informed patients or as second-line therapy. Strong Use topical/intra-urethral alprostadil as an alternative first-line therapy in well-informed patients who: do not wish to have or are not suitable for oral vasoactive therapy; do not wish to have intracavernous injections; prefer a less-invasive therapy. Weak Use vacuum erection devices in well-informed patients requesting non-invasive, drug-free management of ED. Weak Use low intensity shockwave treatment with/without PDE5Is in patients: with mild vasculogenic ED; as an alternative therapy in well-informed patients who do not wish to have or are not suitable for oral vasoactive therapy; who are vasculogenic ED patients that are poor responders to PDE5Is. Weak Use supplements with L-arginine or ginseng daily in men with mild ED who refuse pharmacological treatment after counselling them that the improvement of EF could be mild. Weak Direct the patient to cognitive behaviour therapy as a psychological approach (include the partner), when indicated, combined with medical treatment to maximise treatment outcomes. Strong Fully inform patients of the mechanism of action and the ways in which PDE5Is should be taken, as incorrect use/inadequate information is the main causes of a lack of response to PDE5Is. Weak Implant a penile prosthesis if other treatments fail or depending upon patient preference. Patients should be fully informed of the benefits and harms associated with the procedure. Strong Discuss with patients undergoing active treatment for prostate cancer (PCa) about the risk of sexual changes other than ED, including sexual desire reduction, changes in orgasm, anejaculation, Peyronie’s-like disease and penile size changes. Strong Inform patients that available data are inadequate to support any specific regimen for penile rehabilitation. Weak Start pro-erectile treatments at the earliest opportunity after radical prostatectomy/pelvic surgery and other curative treatments for PCa. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Lifestyle changes can lead to ED improvement in specific populations.",
+              "1a"
+            ],
+            [
+              "PDE5Is are associated with significant improvement of EF with a good overall safety profile.",
+              "1a"
+            ],
+            [
+              "There are no demonstrated differences among different PDE5Is in terms of treatment efficacy.",
+              "1a"
+            ],
+            [
+              "Topical/intraurethral alprostadil is effective in improving EF but data are still limited.",
+              "1b"
+            ],
+            [
+              "Vacuum therapy can improve EF with a wide range of treatment satisfaction rate.",
+              "2b"
+            ],
+            [
+              "Intracavernous injection with alprostadil is an effective treatment of ED; however, it has relatively high treatment drop-out rates.",
+              "1a"
+            ],
+            [
+              "Low-intensity shockwave therapy can induce a mild improvement in EF among patients with vasculogenic ED.",
+              "1a"
+            ],
+            [
+              "Intracavernous injections of PRP have led to a mild improvement of EF among patients with organic ED, but the available evidence remains insufficient to provide a recommendation regarding its use.",
+              "1b"
+            ],
+            [
+              "BoNT-A has been shown to improve response rate to medical treatment for ED in patients who were non-responsive to oral or injective therapies, but data are still limited.",
+              "1b"
+            ],
+            [
+              "Penile rehabilitation with PDE5Is after RP does not increase the chance of spontaneous EF recovery.",
+              "1a"
+            ],
+            [
+              "There is no difference in terms of efficacy and safety among different penile implants available or surgical approach used.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Initiate lifestyle changes and risk factor modification prior to, or at the same time as, initiating erectile dysfunction (ED) treatments.",
+              "Strong"
+            ],
+            [
+              "Use phosphodiesterase type 5 inhibitors (PDE5Is) as first-line therapy for the treatment of ED.",
+              "Strong"
+            ],
+            [
+              "Use intracavernous injections as an alternative first-line therapy in well-informed patients or as second-line therapy.",
+              "Strong"
+            ],
+            [
+              "Use topical/intra-urethral alprostadil as an alternative first-line therapy in well-informed patients who:do not wish to have or are not suitable for oral vasoactive therapy;do not wish to have intracavernous injections;prefer a less-invasive therapy.",
+              "Weak"
+            ],
+            [
+              "Use vacuum erection devices in well-informed patients requesting non-invasive, drug-free management of ED.",
+              "Weak"
+            ],
+            [
+              "Use low intensity shockwave treatment with/without PDE5Is in patients:with mild vasculogenic ED;as an alternative therapy in well-informed patients who do not wish to have or are not suitable for oral vasoactive therapy;who are vasculogenic ED patients that are poor responders to PDE5Is.",
+              "Weak"
+            ],
+            [
+              "Use supplements with L-arginine or ginseng daily in men with mild ED who refuse pharmacological treatment after counselling them that the improvement of EF could be mild.",
+              "Weak"
+            ],
+            [
+              "Direct the patient to cognitive behaviour therapy as a psychological approach (include the partner), when indicated, combined with medical treatment to maximise treatment outcomes.",
+              "Strong"
+            ],
+            [
+              "Fully inform patients of the mechanism of action and the ways in which PDE5Is should be taken, as incorrect use/inadequate information is the main causes of a lack of response to PDE5Is.",
+              "Weak"
+            ],
+            [
+              "Implant a penile prosthesis if other treatments fail or depending upon patient preference. Patients should be fully informed of the benefits and harms associated with the procedure.",
+              "Strong"
+            ],
+            [
+              "Discuss with patients undergoing active treatment for prostate cancer (PCa) about the risk of sexual changes other than ED, including sexual desire reduction, changes in orgasm, anejaculation, Peyronie’s-like disease and penile size changes.",
+              "Strong"
+            ],
+            [
+              "Inform patients that available data are inadequate to support any specific regimen for penile rehabilitation.",
+              "Weak"
+            ],
+            [
+              "Start pro-erectile treatments at the earliest opportunity after radical prostatectomy/pelvic surgery and other curative treatments for PCa.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-7-follow-up",
+      "title": "5.7. Follow-up",
+      "level": 3,
+      "text": "Follow-up is important to assess efficacy and safety of the treatment provided. It is also essential to assess patient satisfaction, as successful treatment for ED goes beyond efficacy and safety. Physicians must recognise that no single treatment is suitable for all patients or clinical situations, as detailed in the previous sections.",
+      "tables": []
+    }
+  ],
+  "tables_count": 10
+}

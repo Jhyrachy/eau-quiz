@@ -1,0 +1,1531 @@
+{
+  "guideline": "renal-transplantation",
+  "chapter": "the-guideline",
+  "url": "https://uroweb.org/guidelines/renal-transplantation/chapter/the-guideline",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel Composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Introduction",
+      "anchor": "#2-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review and future goals",
+      "anchor": "#2-2-review-and-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. THE GUIDELINE",
+      "anchor": "#3-the-guideline"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Organ retrieval and transplantation surgery",
+      "anchor": "#3-1-organ-retrieval-and-transplantation-surgery"
+    },
+    {
+      "level": 4,
+      "text": "3.1.1. Living-donor nephrectomy",
+      "anchor": "#3-1-1-living-donor-nephrectomy"
+    },
+    {
+      "level": 4,
+      "text": "3.1.2. Organ preservation",
+      "anchor": "#3-1-2-organ-preservation"
+    },
+    {
+      "level": 4,
+      "text": "3.1.3. Donor Kidney biopsies",
+      "anchor": "#3-1-3-donor-kidney-biopsies"
+    },
+    {
+      "level": 4,
+      "text": "3.1.4. Living and deceased donor implantation surgery",
+      "anchor": "#3-1-4-living-and-deceased-donor-implantation-surgery"
+    },
+    {
+      "level": 4,
+      "text": "3.1.5. Surgical approaches for first, second, third and further transplants",
+      "anchor": "#3-1-5-surgical-approaches-for-first-second-third-and-further-transplants"
+    },
+    {
+      "level": 4,
+      "text": "3.1.6. Donor complications",
+      "anchor": "#3-1-6-donor-complications"
+    },
+    {
+      "level": 4,
+      "text": "3.1.7. Recipient complications",
+      "anchor": "#3-1-7-recipient-complications"
+    },
+    {
+      "level": 4,
+      "text": "3.1.8. Urological malignancy and renal transplantation",
+      "anchor": "#3-1-8-urological-malignancy-and-renal-transplantation"
+    },
+    {
+      "level": 4,
+      "text": "3.1.9. Matching of donors and recipients",
+      "anchor": "#3-1-9-matching-of-donors-and-recipients"
+    },
+    {
+      "level": 4,
+      "text": "3.1.10. Immunosuppression after kidney transplantation",
+      "anchor": "#3-1-10-immunosuppression-after-kidney-transplantation"
+    },
+    {
+      "level": 4,
+      "text": "3.1.11. Immunological complications",
+      "anchor": "#3-1-11-immunological-complications"
+    },
+    {
+      "level": 4,
+      "text": "3.1.12. Follow-up after transplantation",
+      "anchor": "#3-1-12-follow-up-after-transplantation"
+    },
+    {
+      "level": 2,
+      "text": "4. REFERENCES",
+      "anchor": "#4-references"
+    },
+    {
+      "level": 2,
+      "text": "5. CONFLICT OF INTEREST",
+      "anchor": "#5-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "6. CITATION INFORMATION",
+      "anchor": "#6-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "7. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#7-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#renal-transplantation",
+      "title": "Renal Transplantation",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 3. The Guideline Introduction Methods The Guideline References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#3-the-guideline",
+      "title": "3. THE GUIDELINE",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-1-organ-retrieval-and-transplantation-surgery",
+      "title": "3.1. Organ retrieval and transplantation surgery",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-1-1-living-donor-nephrectomy",
+      "title": "3.1.1. Living-donor nephrectomy",
+      "level": 4,
+      "text": "The endoscopic (laparoscopic) approach is the preferred technique for living-donor nephrectomy in established kidney transplant programmes [3]. Nevertheless, open surgery, preferably by a mini-incision approach, can still be considered a valid option, despite increased pain in the postoperative period [4]. Endoscopic living-donor nephrectomy (ELDN) includes: Pure or hand-assisted transperitoneal laparoscopy; Pure or hand-assisted retroperitoneal approach; Laparo-Endoscopic Single Site Surgery (LESS); Natural Orifice Transluminal Endoscopic Surgery-assisted (NOTES); Laparo-Endoscopic Single Site Surgery and robotic-assisted transperitoneal or retroperitoneal approach. Strong evidence exists in support of laparoscopic living-donor nephrectomy (LLDN), including several systematic reviews and meta-analysis, which have compared the safety and efficacy of LLDN to open-donor nephrectomy. Laparoscopic living-donor nephrectomy is associated with similar rates of graft function and rejection, urological complications and patient and graft survival. However, measures related to analgesic requirements, pain, hospital stay and time to return to work are significantly better for laparoscopic procedures [5-8]. Standard LLDN is usually performed through 5 and 12mm ports, but has also been performed with 3 or 3.5mm ports [9]. According to a recent meta-analysis, hand-assisted LLDN is associated with shorter operative time and warm ischaemia, but equivalent safety and overall results [10]. Laparoscopic living-donor nephrectomy can also be performed with robotic assistance, with equivalent results according to a systematic review [11]. However, the numbers are still low and recent studies, including a meta-analysis, have reported higher complication rates for this approach [12, 13]. Laparoendoscopic single-site surgery nephrectomy enables the surgeon to work through a single incision - usually the umbilicus - with a multi-entry port. The same or a separate incision is then used for kidney withdrawal. Several retrospective and at least three prospective randomised trials demonstrated equivalent safety and results, with a trend towards less pain and better cosmetic results [14, 15]. However, LESS is considered a more technically demanding procedure when compared with classic LLDN and its role is yet to be defined. Natural orifice transluminal endoscopic surgery-assisted transvaginal nephrectomy avoids the abdominal incision required for kidney extraction, aimed at minimising scarring and pain. Initial reports suggest that this approach is safe, however, experience with this technique is still highly limited [16]. Right LLDN has been considered more difficult, yielding inferior results. However, both left and right LLDN can be performed with equivalent safety and efficacy, according to large retrospective studies, systematic reviews and meta-analysis [17, 18]. Laparoscopic living-donor nephrectomy has brought attention to potential failures of various devices, such as endoscopic staplers and locking and non-locking clips, which are used to secure the renal hilum [17]. No scientific evidence is available showing that one device is safer than another for securing the renal artery [19-21]. However, the U.S. Food and Drug Administration (FDA) and the manufacturers of locking clips have issued a contraindication against their use in securing the artery during LLDN. Summary of evidence LE Laparoscopic living-donor nephrectomy is associated with similar rates of graft function and rejection, urological complications and patient and graft survival to open nephrectomy. 1a Measures related to analgesic requirements, pain, hospital stay and time to return to work are significantly better for laparoscopic procedures. 1a Recommendations Strength rating Offer pure or hand-assisted laparoscopic/retroperitoneoscopic surgery as the preferential technique for living-donor nephrectomy. Strong Perform open living-donor nephrectomy in centres where endoscopic tech-niques are not implemented. Strong Perform laparo-endoscopic single site surgery, robotic and natural orifice transluminal endoscopic surgery-assisted living-donor nephrectomy in highly specialised centres only. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Laparoscopic living-donor nephrectomy is associated with similar rates of graft function and rejection, urological complications and patient and graft survival to open nephrectomy.",
+              "1a"
+            ],
+            [
+              "Measures related to analgesic requirements, pain, hospital stay and time to return to work are significantly better for laparoscopic procedures.",
+              "1a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer pure or hand-assisted laparoscopic/retroperitoneoscopic surgery as the preferential technique for living-donor nephrectomy.",
+              "Strong"
+            ],
+            [
+              "Perform open living-donor nephrectomy in centres where endoscopic tech-niques are not implemented.",
+              "Strong"
+            ],
+            [
+              "Perform laparo-endoscopic single site surgery, robotic and natural orifice transluminal endoscopic surgery-assisted living-donor nephrectomy in highly specialised centres only.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-1-2-organ-preservation",
+      "title": "3.1.2. Organ preservation",
+      "level": 4,
+      "text": "In kidneys donated after cardiac death (DCD), evidence suggests that warm ischemia contributes to worse graft outcome. Donor haemodynamic parameters (systolic blood pressure, oxygen saturation and shock index, which is the heart rate divided by systolic blood pressure) may be predictors of delayed graft function (DGF) and graft failure. However, further studies are required to validate this [22]. The duration of asystolic warm ischaemia during procurement in DCD donors is associated with increased risk of graft failure. Overall, five-year graft failure (including primary graft non-function) was associated with longer asystolic warm ischaemia times [23]. Extraction time (beginning with aortic cross-clamp and ending with placement of the kidneys on ice) is a crucial factor for DGF. Incidents of DGF were 27.8% and 60% at up to 60 minutes and 120 minutes extraction time, respectively [24]. A retrospective study of 64,024 living donor kidney transplants found that CIT, human leukocyte antigen (HLA) mismatch, donor age, panel reactive antibody, recipient diabetes, donor and recipient body mass index (BMI), recipient race and gender, right nephrectomy, open nephrectomy, dialysis status, ABO incompatibility, and previous transplants were independent predictors of DGF in living donor kidney transplants [25]. Five-year graft survival among living-donor kidney transplant recipients with DGF was significantly lower than in those without DGF. Delayed graft function increased the risk of graft failure by more than two-fold [25]. 3.1.2.a. Kidney storage solutions and cold storage There are two main sources for kidney graft injury: ischaemia (warm and cold), and reperfusion injury. The aims of modern kidney storage solutions include: control of cell-swelling during hypothermic ischaemia; maintenance of intra- and extra-cellular electrolyte gradient during ischaemia; buffering of acidosis; provision of energy reserve; and minimisation of oxidative reperfusion injury. There is no agreement on which of the mechanisms is most important for post-ischaemic renal graft function [26]. No storage solution appears to combine all mechanisms. Euro-Collins was widely used previously but is no longer recommended. Presently, the University of Wisconsin (UW) and histidine-tryptophan-ketoglutarate (HTK) solutions are equally effective and are standard for multi-organ or single-kidney harvesting procedures. HTK is characterised by low viscosity, low potassium concentration and low cost. The University of Wisconsin solution has been the standard static cold preservation solution for the procurement of liver, kidney, pancreas and intestine [27]. The University of Wisconsin, HTK and Celsior solutions have provided similar allograft outcomes in most clinical trials, however, some differences have become apparent in recent studies and registry reports [28,29]. Marshall’s hypertonic-citrate solution (MHCS) is also suitable for use in the preservation of human kidneys before transplantation [30]. In experimental studies of kidney preservation, HTK and UW retained a greater capacity to preserve endothelial structure and pH buffering function during warm ischaemia in comparison to MHCS and Celsior, particularly in uncontrolled DCD donors [31]. In the absence of a cost-utility analysis, the results of the meta-analysis from the randomised controlled trials (RCTs) comparing UW with Celsior and MHSC in standard cadaver donors indicate that these cold storage solutions are equivalent [32]. For living donors in whom immediate kidney transplantation is planned, perfusion with crystalloid solution is sufficient. Kidneys coming from DCD donors, especially uncontrolled donors, are high-risk marginal organs due to prolonged warm ischaemia periods, and require specific measures to diminish the rate of non-function or DGF. More than 60% of kidney grafts currently come from Expanded Criteria Donors (ECDs) (which refers to any donor aged > 65 years and/or donor aged > 55 years with any of the following: acute renal dysfunction, stroke or arterial hypertension) [33]. Summary of evidence LE University of Wisconsin and HTK solutions are equally effective and are standard for multi-organ or single-kidney harvesting procedures. 1b A meta-analysis of RCTs indicated that UW and Celsior solutions are equivalent in standard cadaver donors. 1a Recommendations Strength rating Use either University of Wisconsin or histidine tryptophane ketoglutarate preservation solutions for cold storage. Strong Use Celsior or Marshall’s solutions for cold storage if University of Wisconsin or histidine-tryptophane-ketoglutarate solutions are not available. Strong 3.1.2.b. Duration of organ preservation Cold ischaemia time must be as short as possible. Kidneys from ECDs after brain death (DBD) and DCD donors are more sensitive to ischaemia than standard-criteria donors. Kidneys from DBD donors should ideally be transplanted within an 18 to 21 hour period. There is no significant influence o",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "University of Wisconsin and HTK solutions are equally effective and are standard for multi-organ or single-kidney harvesting procedures.",
+              "1b"
+            ],
+            [
+              "A meta-analysis of RCTs indicated that UW and Celsior solutions are equivalent in standard cadaver donors.",
+              "1a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use either University of Wisconsin or histidine tryptophane ketoglutarate preservation solutions for cold storage.",
+              "Strong"
+            ],
+            [
+              "Use Celsior or Marshall’s solutions for cold storage if University of Wisconsin or histidine-tryptophane-ketoglutarate solutions are not available.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "A meta-analysis of RCTs comparing CS with HMP of deceased donor kidneys showed a reduced risk of DGF for HMP.",
+              "1a"
+            ],
+            [
+              "Hypothermic dynamic preservation should be controlled by pressure and not flow, using low pressures to avoid pressure-related injury.",
+              "2a"
+            ],
+            [
+              "Perfusion parameters (renal flow and renal vascular resistance) have low predictive values and should not be used as the sole criterion to assess viability of kidney grafts.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Minimise ischaemia times.",
+              "Strong"
+            ],
+            [
+              "Use hypothermic machine perfusion (where available) in deceased donor kidneys to reduce delayed graft function.",
+              "Strong"
+            ],
+            [
+              "Hypothermic machine perfusion may be used in standard criteria deceased donor kidneys.",
+              "Strong"
+            ],
+            [
+              "Use low pressure values in hypothermic machine perfusion preservation.",
+              "Strong"
+            ],
+            [
+              "Hypothermic machine perfusion must be continuous and controlled by pressure and not flow.",
+              "Strong"
+            ],
+            [
+              "Do not discard grafts based only on increased vascular resistance and high perfusate injury marker concentrations during hypothermic machine perfusion preservation.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-1-3-donor-kidney-biopsies",
+      "title": "3.1.3. Donor Kidney biopsies",
+      "level": 4,
+      "text": "Donor kidney biopsies can serve various purposes, including: histological assessment of organ quality prior to transplantation (often referred to as procurement or harvest biopsies); histological analysis of focal lesions, particularly in case of suspicion of neoplasia; and detection of donor-derived lesions as reference for subsequent post-transplant biopsies (often referred to as baseline, zero-time or implantation biopsies). 3.1.3.a. Procurement Biopsies 3.1.3.a.1. Background and prognostic value Procurement biopsies are used to detect tissue injury to aid in the decision of whether a deceased donor kidney is suitable for transplantation. These biopsies are most commonly performed in donors with clinical suspicion of chronic kidney injury (ECDs) [58]. Kidney discard in Europe is rarely based on histology findings [59], as procurement biopsies are not regularly performed for graft allocation in the Eurotransplant region [58]. However, because biopsy findings are the most common cause for discarding donor organs in the United States [60-63], their prognostic value has been analysed in numerous studies. A recently published systematic review of studies on donor kidney biopsies revealed a lack of prospective studies and marked heterogeneity regarding the type of lesions being assessed, their scoring, the definitions of post-transplant outcomes and the statistical methods employed [64]. Therefore, the published evidence suggests that the use of procurement biopsies for deciding on suitability for transplantation of donor kidneys may have some important limitations including the following [58, 64, 65]: There is no consistent association between histological lesions observed in donor kidney biopsies and post-transplant outcomes The concept of procurement biopsies in elderly donors was introduced by a 1995 study. This study observed significantly worse outcomes in recipients of kidneys with > 20% globally sclerotic glomeruli [66]. However, subsequent studies yielded highly variable results, and it cannot be concluded that glomerulosclerosis is independently associated with graft outcomes [64]. A similar variability was also observed for other potentially relevant lesions such as arterial injury, interstitial fibrosis and tubular atrophy, with each showing predictive value in some studies, but not in others [64]. There is no agreement on prognostically relevant lesions and how they should be scored Specific grading systems for donor kidney biopsies have not yet been developed. Lesion scoring in pre-transplant biopsies is mostly based on the Banff consensus for post-transplant renal allograft pathology, which is supported by the 2007 Banff Conference report [67]. Many attempts have been made to use composite semiquantitative scoring systems to express the global extent of tissue injury in donor kidney biopsies. These scoring systems are based mostly on simple addition of the Banff scores for individual lesions - most commonly glomerulosclerosis, arteriolar hyalinosis, arterial intimal fibrosis, interstitial fibrosis and tubular atrophy - and rarely include clinical parameters such as donor age [68], serum creatinine values and donor hypertension [69]. A limited number of histological scoring systems are based on modelling analysis [68-72]. Only the Maryland Aggregate Pathology Index (MAPI) [72] scoring system and the Leuven donor risk score [68], use graft failure as their endpoint and have been independently validated in a second cohort. Other studies used surrogate clinical endpoints such as DGF [70] and estimated glomerular filtration rate (eGFR) at three months [71] to calculate histological models. In addition, these models were not validated in independent cohorts. The variation in how the components are weighted to achieve the composite score and the various endpoints used can explain the conflicting conclusions in the literature [58,64,65]. Due to the time constraints of organ allocation procurement, biopsies are mostly read on frozen sections by on-call pathologists, which might affect the diagnostic reliability of reported findings This can have a substantial impact on the diagnostic reliability of the procedure, because frozen sections are prone to morphological artefacts that can impair the detection and scoring of potentially important lesions, such as arteriolar hyalinosis and interstitial fibrosis [73,74]. Strong evidence is available showing that dedicated renal pathologists should examine formalin-fixed paraffin-embedded core-needle biopsies. Paraffin histology employing special stains is technically superior to frozen sections because morphological details are better preserved on paraffin sections than on frozen sections and potentially confounding artefacts can be avoided. Rapid processing of tissue for paraffin histology is technically feasible, but the respective protocols are not universally implemented and are not available on a 24/7 basis in most departments. Another source of variability i",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Individual histologic lesions such as glomerulosclerosis, arterial luminal narrowing or tubulointerstitial injury observed in donor kidney biopsies have limited prognostic value for long-term allograft survival.",
+              "3"
+            ],
+            [
+              "Composite histological scoring systems provide a more comprehensive measure of overall organ damage. However, published scoring systems still lack independent validation and robust thresholds.",
+              "3"
+            ],
+            [
+              "Size of the biopsy is of critical importance for its diagnostic value. An adequate biopsy reaches beyond the immediate subcapsular area (≥ 5 mm) and contains ≥ 25 glomeruli and ≥ one artery. Needle biopsies, wedge biopsies or specimens obtained with a skin punch biopsy device will result in equally adequate biopsies if sampling is performed properly. Obtaining adequate biopsies with 18 G needles is difficult and requires multiple cores.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Do not base decisions on the acceptance of a donor organ on histological findings alone, since this might lead to an unnecessarily high rate of discarded grafts. Interpret histology in context with clinical parameters of donor and recipient, including perfusion parameters where available.",
+              "Strong"
+            ],
+            [
+              "Use paraffin histology for histomorphology as it is superior to frozen sections; however, its diagnostic value has to be balanced against a potential delay of transplantation.",
+              "Strong"
+            ],
+            [
+              "Submit 14 or 16 G needle core biopsies, wedge biopsies or skin punch biopsies for histopathology.",
+              "Weak"
+            ],
+            [
+              "Procurement biopsies should be read by a renal pathologist or a general pathologist with specific training in kidney pathology.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-1-4-living-and-deceased-donor-implantation-surgery",
+      "title": "3.1.4. Living and deceased donor implantation surgery",
+      "level": 4,
+      "text": "3.1.4.a. Anaesthetic and peri-operative aspects Good communication between nephrologists, anaesthetists and surgeons is required for optimal anaesthetic and perioperative care of the renal transplant patient. Anaesthetic care of the living kidney donor [85] and renal transplant recipient [86] have been reviewed and recent guidelines from the European Renal Association-European Dialysis and Transplantation Association (ERA-EDTA) [87] are cross-referenced. 3.1.4.b. Immediate pre-op haemodialysis Routine use of haemodialysis immediately prior to renal transplantation is not indicated [87]. Hyperkalaemia is the most common indication for haemodialysis preoperatively. The risks of haemodialysis compared with medical therapy must be considered along with the risks of intraoperative fluid overload, electrolyte and acid-base disturbances, particularly where a deceased donor kidney is transplanted with a significant risk of DGF. Preoperative haemodialysis may initiate a pro-inflammatory state, delay surgery, increase the CIT and increase the risk of DGF [88]. Summary of evidence LE Preoperative haemodialysis has the potential to delay transplantation, increase CIT and increase the risk of DGF. 2 Recommendation Strength rating Use dialysis or conservative measures to manage fluid and electrolyte imbalance prior to transplant surgery, taking into consideration the likelihood of immediate graft function. Weak 3.1.4.c. Operating on patients taking anti-platelet and anti-coagulation agents Many patients active on the transplant waiting list have vascular disease and/or a prothrombotic condition that should be risk-assessed prior to transplantation. Dual antiplatelet therapy is commonly given to patients with coronary artery stents for six to twelve months. Perioperative management plans for these patients should be discussed with a cardiologist so that the risks of withdrawal of the antiplatelet agent can be fully considered. Options for reversal of anticoagulation and postoperative anticoagulation should be discussed with a haematologist prior to patient listing. Some patients will be active on a transplant waiting list whilst continuing to take antiplatelet and/or anticoagulation agents. The indication for antiplatelet or anticoagulation agents should be clearly documented for each individual. Potential increased risk of perioperative bleeding must be weighed against potential harm from arterial or venous thrombosis. In accordance with the American College of Chest Physicians and the European Society of Cardiology guidelines [89,90], the literature suggests that continuing antiplatelet therapy with aspirin, ticlopidine or clopidogrel does not confer a significantly greater risk of peri/postoperative complications [91], however, the number of patients studied was low. If required, the effect of antiplatelet agents can be reduced with intraoperative platelet infusions. Summary of evidence LE A retrospective single-centre case-control study in patients undergoing kidney transplantation concluded that continuing antiplatelet therapy with aspirin, ticlopidine or clopidogrel does not confer a significantly greater risk of peri/postoperative complications. 3 Recommendations Strength rating Consider continuing antiplatelet therapy in patients on the transplant waiting list. Weak Discuss patients who take antiplatelet and anticoagulation agents prior to transplant surgery with relevant cardiologist/haematologist/nephrologist. Weak 3.1.4.d. What measures should be taken to prevent venous thrombosis including deep vein thrombosis during and after renal transplant? Perioperative administration of short-acting anticoagulation agents reduces perioperative risk of venous thrombosis (including in ileofemoral and renal veins). However, due to associated increased blood loss, administration requires knowledge of individual patient risk factors. None of the current major thrombosis prevention guidelines directly address thromboprophylaxis in the renal transplant perioperative period. A small RCT [92] showed no difference in early postoperative graft loss or thromboembolic complications with or without prophylactic anticoagulation. Those administered prophylactic anticoagulation had significantly lower haemoglobin, whilst those administered prophylactic unfractionated heparin had prolonged lymph drainage. Based on this study, routine pharmacological prophylaxis is not recommended in low-risk living donor recipients. Mechanical measures to decrease ileofemoral deep vein thrombosis (DVT) can be used where there is no contraindication due to peripheral vascular disease, particularly where there are concerns regarding bleeding risks with pharmacological prophylaxis. Summary of evidence LE A small RCT (n = 75) showed no difference in early postoperative graft loss or thromboembolic complications with or without prophylactic anticoagulation. 1b Recommendation Strength rating Do not routinely give postoperative prophylactic unfractionated or low",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Preoperative haemodialysis has the potential to delay transplantation, increase CIT and increase the risk of DGF.",
+              "2"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Use dialysis or conservative measures to manage fluid and electrolyte imbalance prior to transplant surgery, taking into consideration the likelihood of immediate graft function.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "A retrospective single-centre case-control study in patients undergoing kidney transplantation concluded that continuing antiplatelet therapy with aspirin, ticlopidine or clopidogrel does not confer a significantly greater risk of peri/postoperative complications.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Consider continuing antiplatelet therapy in patients on the transplant waiting list.",
+              "Weak"
+            ],
+            [
+              "Discuss patients who take antiplatelet and anticoagulation agents prior to transplant surgery with relevant cardiologist/haematologist/nephrologist.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "A small RCT (n = 75) showed no difference in early postoperative graft loss or thromboembolic complications with or without prophylactic anticoagulation.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Do not routinely give postoperative prophylactic unfractionated or low-molecular-weight heparin to low-risk living donor transplant recipients.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "A multicentre prospective RCT showed that the incidents of surgical site infection and urinary tract infection were similar in those receiving a single dose broad spectrum antibiotic at induction of anaesthesia and those receiving antibiotic 12 hourly for 3-5 days.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Use single-dose rather than multi-dose perioperative prophylactic antibiotics in routine renal transplant recipients.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "A small (n = 51) prospective RCT found that use of Ringer’s lactate solution was associated with less hyperkalaemia and acidosis compared with normal saline in patients undergoing kidney transplantation.",
+              "1b"
+            ],
+            [
+              "A small (n = 40) prospective RCT comparing constant infusion versus CVP found that CVP produced a more stable haemodynamic profile, better diuresis and early graft function.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Optimise pre-, peri- and post-operative hydration to improve renal graft function.",
+              "Strong"
+            ],
+            [
+              "Use balanced crystalloid solutions for intra-operative intravenous fluid therapy.",
+              "Weak"
+            ],
+            [
+              "Use target-directed intra-operative hydration to decrease delayed graft function rates and optimise early graft function.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "A retrospective comparative study of LDD treated versus non-treated renal transplantation patients concluded that LDD administration did not improve kidney function in the first 12 hours post renal transplantation, but did result in increased heart rates, longer intensive therapy unit stay and highersix-month mortality in those receiving LDD.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Do not routinely use low-dose dopaminergic agents in the early post-operative period.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-1-5-surgical-approaches-for-first-second-third-and-further-transplants",
+      "title": "3.1.5. Surgical approaches for first, second, third and further transplants",
+      "level": 4,
+      "text": "Transplant (bench/back-table) preparation is a crucial step in the transplantation process. The kidney must be inspected whilst on a sterile ice slush, removing perinephric fat, when possible, to permit inspection of the quality of the organ and to exclude exophytic renal tumours. Biopsy of the kidney on the back table can be performed to help in the multifactorial decision-making process regarding the quality and usage of the kidney for both single and/or dual transplantation. Suspicious parenchymal lesions also require biopsy. Section 3.1.3 discusses techniques for intraoperative kidney biopsy . The number, quality and integrity of renal vessels and ureter(s) should be established and lymphatics at the renal hilum ligated. The quality of the intima of the donor renal artery should be evaluated. Branches of the renal artery not going to the kidney or ureter(s) should be tied. In deceased donor kidney transplantation, the quality of the aortic patch should be determined. If severe atheroma of the patch, ostium or distal renal artery is seen, the aortic patch and/or distal renal artery can be removed to provide a better-quality donor renal artery for implantation. Section 3.1.5.1 discusses back-table reconstruction of multiple donor arteries. The length of the renal vein should be evaluated. Renal vein branches should be secured/tied. For a deceased donor right kidney, lengthening the renal vein on the back table can be performed if required using donor inferior vena cava [100]. Techniques for lengthening a short living donor right renal vein from donor gonadal vein or recipient saphenous vein require pre-operative planning and specific consent (as discussed in Section 3.1.5.1). The length, quality and number of the ureter(s) should be established. The peri-pelvic and proximal peri-ureteral tissue in the ‘golden triangle’ should be preserved. Recommendation Strength rating Assess the utility (including inspection) of the kidney for transplantation before commencement of immunosuppression and induction of anaesthesia for deceased donor kidney transplantation. Strong 3.1.5.a. Single kidney transplant - living and deceased donors The standard surgical approach for first or second single kidney transplant (SKT) operations remains open kidney transplant (OKT). Emerging surgical technologies using minimal access surgical approaches have been developed and the various surgical approaches (minimally invasive open, laparoscopic and robot-assisted) were compared in a systematic review [101]. In most first or second single kidney transplant (SKT) operations, an extraperitoneal approach to either iliac fossa should be used as the operative approach. No evidence is available to prefer placement of a left or right kidney into either iliac fossa [102]. Peri-iliac vessel lymphatics should be ligated to try and prevent postoperative lymphocele. Appropriate segments of iliac artery and vein should be mobilised to facilitate appropriate tension-free vascular anastomoses and the final positioning of the transplanted kidney. No evidence is available supporting the benefits of cooling the kidney surface during implantation [103]. Recommendations Strength rating Choose either iliac fossa for placement of a first or second single-kidney transplant. Weak Ligate peri-iliac vessel lymphatics (lymphostasis) to reduce postoperative lymphocele. Weak A variety of techniques have been described to help with the anastomosis of a short renal vein, which is most common with a right kidney, particularly from a living donor. To achieve equivalent outcomes with right kidneys, appropriate surgical technical manoeuvres may be required to optimise right kidney implantation. Several studies suggest marginally worse outcomes with use of the right compared to left kidney. Two large registry studies demonstrate a slightly higher risk of early graft failure using right compared to left kidneys from living donors [104-106]. A registry study of 2,450 paired kidneys, donated after cardiac death, observed with right kidneys: more early surgical complications; an increased risk in DGF (Odds Ratio [OD] 1.46); and inferior one year graft survival (OD 1.62), but not at subsequent time points [105]. However, surgical techniques used to compensate for a right kidney, anastomosis time and surgeon experience were not recorded. A recent registry study of 87,112 deceased-donor kidney recipient pairs reported a modest increase in DGF (adjusted OD 1.15) and all-cause graft failure (adjusted hazard ratio 1.07), within the first six months, associated with use of the right kidney, but there was no association with recipient mortality [107]. Furthermore, data from cohort studies [101, 103] and one registry study [104] suggest equivalent outcomes with either left or right deceased donor kidneys. Meta-analysis of data from one RCT and fourteen cohort studies suggested equivalent graft outcomes [108]. Overall, these findings do not support declining an organ for kidney trans",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Assess the utility (including inspection) of the kidney for transplantation before commencement of immunosuppression and induction of anaesthesia for deceased donor kidney transplantation.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Choose either iliac fossa for placement of a first or second single-kidney transplant.",
+              "Weak"
+            ],
+            [
+              "Ligate peri-iliac vessel lymphatics (lymphostasis) to reduce postoperative lymphocele.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Prospective cohort studies demonstrated that:transposition of the recipient iliac vein is an appropriate technical solution to compensate for the short length of the renal vein in right kidney LDN (n = 43);the living donor right kidney renal vein can be successfully lengthened using donor gonadal vein (n = 17) or recipient saphenous vein (n = 19).",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Assess the length of the donor renal vein and if it is short consider one of a variety of surgical techniques to optimise the venous anastomosis.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "A small RCT (n = 38) comparing end-to-end anastomosis to the internal iliac artery versus end-to-side anastomosis to the external iliac artery found that both techniques showed similar results in the postoperative period and at three-years follow-up.",
+              "1b"
+            ],
+            [
+              "Cohort studies have demonstrated that third or further transplants are a valid therapeutic option with reasonable short- and long-term patient and graft survival.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use the external or common iliac arteries for an end-to-side arterial anastomosis to donor renal artery.",
+              "Weak"
+            ],
+            [
+              "Use an end-to-end anastomosis to the internal iliac artery as an alternative to external or common iliac arteries.",
+              "Weak"
+            ],
+            [
+              "Check the intima of the donor and recipient arteries prior to commencing the arterial anastomosis to ensure that there is no intimal rupture/flap. If this is found, it must be repaired prior to/as part of the arterial anastomosis.",
+              "Strong"
+            ],
+            [
+              "Preoperatively plan the surgical approach in third or further transplants to ensure that appropriate arterial inflow and venous outflow exists with adequate space to implant the new kidney.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "A meta-analysis of two RCTs and 24 observational studies favoured the extravesical Lich-Gregoir technique for reduced overall complications.",
+              "1a"
+            ],
+            [
+              "A multicentre prospective comparison study found the incidence of overall complications was similar for pyelo- and uretero-ureteral anastomosis and that for both procedures no graft was lost due to urological complications.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform Lich-Gregoir-like extravesical ureteric anastomosis technique to minimise urinary tract complications in renal transplant recipients with normal urological anatomy.",
+              "Strong"
+            ],
+            [
+              "Pyelo/uretero-ureteral anastomosis is an alternative especially for a very short or poorly vascularised transplant ureter.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Use transplant ureteric stents prophylactically to prevent major urinary complications.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Use the same surgical principals for single ureters to manage duplex ureters and anastomose them either separately or combined.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-1-6-donor-complications",
+      "title": "3.1.6. Donor complications",
+      "level": 4,
+      "text": "Living-donor nephrectomy, like any other intervention, is potentially associated with complications and mortality. However, the fact that the operation is performed on a healthy individual amplifies the relevance of any complications. Potential complications should be included in the process of informed consent. Reported surgical mortality is 0.01% to 0.03% with no apparent alteration due to changes in surgical techniques or donor selection in recent years [151, 152]. According to a systematic review (190 studies) and meta-analysis (41 studies) on complications in minimally invasive LDN, reporting on a total of 32,308 LDNs, intraoperative complications occur in 2.2% (the most common being bleeding in 1.5% and injury to other organs in 0.8%) and postoperative complications occur in 7% (infectious complications in 2.6% and bleeding in 1%) [151]. Conversion to open surgery was reported in 1.1%, half due to bleeding and half due to injury to other organs. Surgical re-interventions occurred in 0.6%; the majority due to bleeding or to evacuate a haematoma [151]. A low trigger for conversion or re-operation should be observed to minimise the risk of serious complications. A review looked for complications in 14,964 LDNs performed in the United States from 2008 to 2012 and found an overall perioperative complication rate of 16.8%, gastrointestinal (4.4%), bleeding (3.0%), respiratory (2.5%), surgical/anaesthesia-related injuries (2.4%), and ‘other’ complications (6.6%). Among the sample, 2.4% required intensive care and in-hospital mortality was 0.007% [12]. Major Clavien Classification of Surgical Complications grade IV or higher affected 2.5% of donors. Risk factors for Clavien grade IV or higher events included obesity (adjusted odds ratio [aOR] 1.55, p = 0.0005), pre-donation haematologic (aOR 2.78, p = 0.0002), psychiatric conditions (aOR 1.45, p = 0.04) and robotic nephrectomy (aOR 2.07, p = 0.002). An annual centre volume > 50 (aOR 0.55, p < 0.0001) was associated with lower risk [12]. 3.1.6.a. Long-term complications Long-term complications are mostly related to the single-kidney condition. Renal function in living donors decreases after donation before improving for many years. However, in the long run, it shows signs of slight deterioration [153-155]. There is a steady increase in the incidence of proteinuria; hypertension post-transplant having been shown as the main cause of increased albumin excretion [156]. A meta-analysis found that obesity (BMI > 30) is associated with a significantly lower eGFR and higher blood pressure and proteinuria one year after donation [157]. A study looking at the Norwegian Living Kidney Donor Registry found an increased long-term risk of ischaemic heart disease in live kidney donors when compared with a healthy control group eligible to be donors [158]. The overall incidence of end-stage renal disease (ESRD) (0.4-1.1%) does not differ from the general population [153, 154, 159, 160]. According to a recent large retrospective study, the majority of ESRD developing after living kidney donation is due to new-onset disease that would have affected both kidneys [161]. However, there are some identified risk factors for deterioration of renal function after donation. According to a study that evaluated 119,769 live kidney donors in the United States, obese (BMI > 30) living kidney donors have a 1.9-fold higher risk for ESRD compared to their non-obese counterparts [162]. Long-term risk of death is no higher than for an age- and comorbidity-matched population [152, 159]. Health related quality of life (HRQoL), including mental condition, remains on average better than the general population after donation [159, 160, 163]. However, some donors experience significant deterioration in their perceived QoL [163]. While global HRQoL is comparable or superior to population normative data, some factors identifiable around time of donation including longer recovery, financial stressors, younger age, higher BMI, lower education, smoking and higher expectations prior to donation, may identify donors more likely to develop poor HRQoL, providing an opportunity for intervention [159,160,163]. It is of paramount importance that a careful risk-benefit assessment be carried out and that proper information be given to the prospective donor. This should also include recommendations on health-promoting behaviour post-donation [164]. Long-term complications are mostly related to the single-kidney condition. Renal function in living donors decreases after donation before improving for many years. However, in the long run, it shows signs of slight deterioration [153-155]. There is a steady increase in the incidence of proteinuria; hypertension post-transplant having been shown as the main cause of increased albumin excretion [156]. A recent meta-analysis found that obesity (BMI > 30) is associated with a significantly lower eGFR and higher blood pressure and proteinuria one year after donation [157]. A",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "A systematic review and meta-analysis of complications in minimally invasive LDN concluded that the techniques used for minimally invasive LDN are safe and associated with low complication rates.",
+              "1a"
+            ],
+            [
+              "Survival rates and risk of end-stage renal disease are similar to those in the general population, whilst donor HRQoL remains on average better than the general population.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Restrict living-donor nephrectomy to specialised centres.",
+              "Strong"
+            ],
+            [
+              "Offer long-term follow-up to all living kidney donors.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-1-7-recipient-complications",
+      "title": "3.1.7. Recipient complications",
+      "level": 4,
+      "text": "3.1.7.a. General complications Surgical complications during and after kidney transplantation may expose the recipient to an increased risk of morbidity and mortality. The incidence and management of such complications is therefore of primary importance [137, 144, 165-177]. In this section, we describe in detail the most common surgical complications in renal transplantation. 3.1.7.b. Haemorrhage Haematomas are usually a minor complication in renal transplantation. Their incidence is reported to be between 0.2-25% [178, 179]. Small and asymptomatic haematomas do not usually require any intervention. In case of larger haematomas, clinical signs and symptoms due to external pressure with graft dysfunction and/or thrombotic graft vessel complications can be present. These cases can be treated with percutaneous drainage under computed tomography (CT) or ultrasound (US) guidance or may require surgical treatment [178]. 3.1.7.c. Arterial thrombosis Transplant renal artery thrombosis is a rare complication with a prevalence ranging of 0.5-3.5% [180]. Usually, it is a consequence of a technical error during the anastomosis although other causes may be related to both the donor and recipient’s artery condition (i.e. atherosclerosis), intimal rupture during kidney harvesting, acute rejection episodes, external compression by haematoma or lymphocele, hypercoagulative state, severe hypotension, and toxicity of immunosuppressive agents (cyclosporine or sirolimus) [181]. The clinical manifestations are acute reduction of urine output and the elevation of renal function tests, often resulting in graft loss [178]. The diagnosis is obtained with eco-colour-doppler [178]. Surgical exploration is usually recommended to evaluate the status of the graft. In the rare event the graft appears salvageable, a thrombectomy must be performed. In this situation, the iliac artery is clamped and an arteriotomy versus a dissection of the vascular anastomosis must be performed to remove the clot. The graft can be flushed in situ and re-vascularised [178]. Unfortunately, in the majority of the situations, the graft is not perfused and therefore an allograft nephrectomy must be performed [178, 182]. Alternatively, thrombolytic agent administration through a catheter directly into the transplant renal artery can be an efficient treatment, after the first ten to fourteen post-transplantation days [178]. Summary of evidence LE The diagnosis of renal artery thrombosis depends on eco-colour-Doppler followed by surgical exploration to assess the status of the graft. 2b Thrombectomy in case of a viable graft and allograft nephrectomy in case of a non-viable graft are the treatment options for renal artery thrombosis. 2b Recommendations Strength rating Perform ultrasound-colour-Doppler in case of suspected graft thrombosis. Strong Perform surgical exploration in case of ultrasound finding of poor graft perfusion. Strong Perform a surgical thrombectomy in case of a salvageable graft if arterial thrombosis is confirmed intraoperatively. Weak Perform an allograft nephrectomy in case of a non-viable graft. Strong 3.1.7.d. Venous thrombosis Transplant renal vein thrombosis is an early complication (prevalence 0.5-4%) and one of the most important causes of graft loss during the first postoperative month [183]. The aetiology includes technical errors and/or difficulties during surgery [178] and the hypercoagulative state of the recipient [184, 185]. Colour flow Doppler ultrasonography shows absence of venous flow with an abnormal arterial signal (usually a plateau-like reversed diastolic flow). Moreover, it is common to see an enlargement of the graft due to venous congestion [186]. Surgical exploration is usually recommended despite the fact that the majority of cases will result in graft loss. In those cases in which the venous thrombosis has not resulted in kidney loss at surgical exploration, a venotomy can be performed with surgical thrombectomy after clamping the iliac vein. Alternatively, an explantation and subsequent reimplantation can be considered [178]. Thrombolytic agents can also be used, however, their results have not been satisfactory [178, 187, 188]. Summary of evidence LE The diagnosis of renal vein thrombosis depends on colour flow Doppler ultrasonography followed by surgical exploration to assess the status of the graft. 2b Thrombectomy in case of a viable graft and allograft nephrectomy in case a non-viable graft are the treatment options for renal vein thrombosis. 2b Recommendations Strength rating Perform ultrasound-colour-Doppler in case of suspected graft thrombosis. Strong Perform surgical exploration in case of ultrasound finding of poor graft perfusion. Weak If venous thrombosis is confirmed intraoperatively, perform a surgical thrombectomy in case of a salvageable graft or an allograft nephrectomy in case of a non-viable graft. Weak Do not routinely use pharmacologic prophylaxis to prevent transplant renal vein thrombosis. St",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "The diagnosis of renal artery thrombosis depends on eco-colour-Doppler followed by surgical exploration to assess the status of the graft.",
+              "2b"
+            ],
+            [
+              "Thrombectomy in case of a viable graft and allograft nephrectomy in case of a non-viable graft are the treatment options for renal artery thrombosis.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform ultrasound-colour-Doppler in case of suspected graft thrombosis.",
+              "Strong"
+            ],
+            [
+              "Perform surgical exploration in case of ultrasound finding of poor graft perfusion.",
+              "Strong"
+            ],
+            [
+              "Perform a surgical thrombectomy in case of a salvageable graft if arterial thrombosis is confirmed intraoperatively.",
+              "Weak"
+            ],
+            [
+              "Perform an allograft nephrectomy in case of a non-viable graft.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "The diagnosis of renal vein thrombosis depends on colour flow Doppler ultrasonography followed by surgical exploration to assess the status of the graft.",
+              "2b"
+            ],
+            [
+              "Thrombectomy in case of a viable graft and allograft nephrectomy in case a non-viable graft are the treatment options for renal vein thrombosis.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform ultrasound-colour-Doppler in case of suspected graft thrombosis.",
+              "Strong"
+            ],
+            [
+              "Perform surgical exploration in case of ultrasound finding of poor graft perfusion.",
+              "Weak"
+            ],
+            [
+              "If venous thrombosis is confirmed intraoperatively, perform a surgical thrombectomy in case of a salvageable graft or an allograft nephrectomy in case of a non-viable graft.",
+              "Weak"
+            ],
+            [
+              "Do not routinely use pharmacologic prophylaxis to prevent transplant renal vein thrombosis.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Suspect transplant renal artery stenosis in case of refractory arterial hypertension and/or increasing serum creatinine without hydronephrosis/infections.",
+              "3"
+            ],
+            [
+              "The diagnosis for transplant renal artery stenosis is by colour Doppler ultrasound, showing a peak systolic velocity (PSV) of > 200 cm/s in the graft renal artery.",
+              "2a"
+            ],
+            [
+              "Interventional radiology is the first-line treatment option for transplant renal artery stenosis. However, in patients considered unsuitable for radiological angioplasty, surgical treatment can be considered.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform ultrasound-colour-Doppler to diagnose an arterial stenosis, in case of undetermined results on ultrasound consider a magnetic resonance or computed tomography angiogram.",
+              "Strong"
+            ],
+            [
+              "Perform percutaneous transluminal angioplasty/stent, if feasible, as first-line treatment for an arterial stenosis.",
+              "Strong"
+            ],
+            [
+              "Offer surgical treatment in case of recent transplant, multiple, long and narrow stenosis, or after failure of angioplasty.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform a ultrasound-colour-Doppler if a arteriovenous fistulae or pseudoaneurysm is suspected.",
+              "Strong"
+            ],
+            [
+              "Perform angiographic embolisation as first-line treatment in symptomatic cases of arteriovenous fistulae or pseudoaneurysm.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform percutaneous drainage placement as the first treatment for large and symptomatic lymphocele.",
+              "Strong"
+            ],
+            [
+              "Perform fenestration when percutaneous treatments fail.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Suspect urinary leakage based on the urine output and the creatinine level in the drain fluid.",
+              "3"
+            ],
+            [
+              "For early and low-volume urine leaks, conservative management can be considered.",
+              "3"
+            ],
+            [
+              "Surgical repair should be undertaken when conservative management fails, or massive urine leak occurs.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Manage urine leak by JJ stent and bladder catheter and/or percutaneous nephrostomy tube.",
+              "Strong"
+            ],
+            [
+              "Perform surgical repair in cases of failure of conservative management.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Clinically significant ureteral stricture should be considered when persistent hydro-nephrosis on ultrasound occurs in association with impaired renal function.",
+              "3"
+            ],
+            [
+              "The first approach in the management of a stricture is the placement of a percutaneous nephrostomy tube with an antegrade pyelogram.",
+              "2b"
+            ],
+            [
+              "Strictures < 3cm in length can be treated endoscopically.",
+              "3"
+            ],
+            [
+              "For strictures > 3cm in length, or those that have reoccurred following a primary endourological approach surgical reconstruction should be performed.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "In case of ureteral stricture, place a nephrostomy tube for both kidney decompression and stricture diagnosis via an antegrade pyelogram.",
+              "Strong"
+            ],
+            [
+              "Manage strictures < 3cm in length either with surgical reconstruction or endoscopically (percutaneous balloon dilation or antegrade flexible ureteroscopy and holmium laser incision).",
+              "Strong"
+            ],
+            [
+              "Treat late stricture recurrence and/or stricture > 3cm in length with surgical reconstruction in appropriate recipients.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Use an endoscopic approach as first-line treatment for symptomatic reflux.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Extracorporeal shockwave lithotripsy should be considered as the first-line treatment option for stones < 15mm.",
+              "2b"
+            ],
+            [
+              "Antegrade/retrograde ureteroscopy and percutaneous nephrolithotomy may be considered as treatment options, as they provide high stone-free rates.",
+              "2b"
+            ],
+            [
+              "For larger stones (> 20mm), PNL can be offered with a high overall effective stone-free rate.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Evaluate the causes of urolithiasis in the recipient.",
+              "Strong"
+            ],
+            [
+              "Treat ureteral obstruction due to a stone with a percutaneous nephrostomy tube or JJ stent placement.",
+              "Strong"
+            ],
+            [
+              "Perform shockwave lithotripsy or antegrade/retrograde ureteroscopy for stones < 15mm.",
+              "Strong"
+            ],
+            [
+              "Perform percutaneous nephrolithotomy for stones > 20mm.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-1-8-urological-malignancy-and-renal-transplantation",
+      "title": "3.1.8. Urological malignancy and renal transplantation",
+      "level": 4,
+      "text": "3.1.8.a. Malignancy prior to renal transplantation in the recipient Standard procedure for transplant candidates includes systematic screening for the presence of any active/latent cancer or a history of cancer. In candidates with a history of urological cancer, it can be challenging to decide if patients are suitable for transplantation, and if so, how long the waiting period prior to transplantation should be. To date, the waiting period has been primarily based on the Cincinnati Registry, which takes into account the type of tumour and the time between its treatment and kidney transplantation. However, the Cincinnati Registry has potential drawbacks, as it does not consider the epidemiology of tumours or that diagnostic and therapeutic procedures/tests have changed over time and that prognostic tools have improved. Additionally, treatment and the staging of the disease are not defined. According to a systematic review the risk of tumour recurrence was similar between transplantation (n = 786) and dialysis (n = 1,733) populations for renal cell carcinoma (RCC) and prostate cancer (PCa). This was especially true for low grade/stage PCa, for which the risk of recurrence was low and consistent with nomograms [227]. For low stage/grade RCC, the recurrence rate was significant for both dialysis and renal transplantation. However, recurrences were actually contralateral RCC with no impact on patient or graft survival [227]. Testicular cancer had a low risk of recurrence, but case reports highlighted the possibility of late recurrence even for stage I tumours [227]. For urothelial carcinoma, studies were mainly related to upper urinary tract carcinomas in the context of aristolochic acid nephropathy, for which the rate of synchronous bilateral tumour was 10-16% and the rate of contralateral recurrence was 31-39% [227]. These findings imply that a kidney transplant candidate with a history of appropriately treated low stage/grade PCa (PSA ≤ 10, Gleason score ≤ 6 and T1/T2a) or low-grade T1 RCC could be listed for renal transplantation without any additional delay compared to a cancer-free patient. However, as the level of evidence was low, more studies are needed to standardise waiting periods before renal transplantation. Summary of evidence LE Renal Cell Carcinoma The recurrence rates for transplanted vs. dialysed patients at < 1, 1-5, and > 5 years were 0-8% vs. 0%, 0-27% vs. 0-9% and 0-41% vs. 0-48%, respectively. 2b Overall five-year survival rates for transplantation vs dialysed patients were 80-100% vs. 76-100%, respectively. Prostate Cancer The recurrence rates for transplantation patients at < 1 and > 5 years were 0-9% and 4-20%, respectively. 2b Overall, 1 to 5-year survival rates for transplantation patients ranged from 62% to 100%. Recommendation Strength rating List for renal transplantation patients with a history of appropriately treated low stage/grade renal cell carcinoma or prostate cancer without additional delay. Weak 3.1.8.b. Malignancy prior to renal transplantation in the potential donor kidney In the general population, RCC constitutes 3% of all malignancies, with the incidence being highest in patients aged > 60 years. The current increasing age of donors may lead to a higher number of incidental RCCs found in donor kidneys and could theoretically decrease the number of kidneys suitable for transplantation. The main surgical approach to these kidneys is ex vivo tumour excision on the back-table with an oncological margin, frozen section biopsy, bench surgery renorraphy and, finally, transplantation in the conventional fashion [228]. A systematic review assessed the effectiveness and harms of using kidneys with small renal tumours, from deceased or living donors, as a source for renal transplantation and it reported that five year overall and graft survival rates were 92% and 95.6%, respectively [228]. Tumour excision was performed ex-vivo in all cases except for two (107/109 patients), and the vast majority of excised tumours were RCCs (88/109 patients) with clear-cell subtype - the most common form [228]. This systematic review, although with low-level evidence, suggested that kidneys with small renal masses are an acceptable source for renal transplantation and do not compromise oncological outcomes with similar functional outcomes to other donor kidneys. Summary of evidence LE Tumour excision was performed ex-vivo in all cases except for two (107/109 patients). 2b Overall survival rates at one, three and five years were 97.7%, 95.4% and 92%, respectively. Mean graft survival rates at one, three and five years were 99.2%, 95% and 95.6%, respectively. Recommendation Strength rating Do not discard a kidney for potential transplantation on the basis of a small renal mass alone. Weak 3.1.8.c. Malignancy after renal transplantation Cancer development after kidney transplant has become a major problem, as it is one of the main causes of death in this population. Urological cancers have an inc",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Renal Cell Carcinoma"
+            ],
+            [
+              "The recurrence rates for transplanted vs. dialysed patients at < 1, 1-5, and > 5 years were 0-8% vs. 0%, 0-27% vs. 0-9% and 0-41% vs. 0-48%, respectively.",
+              "2b"
+            ],
+            [
+              "Overall five-year survival rates for transplantation vs dialysed patients were 80-100% vs. 76-100%, respectively."
+            ],
+            [
+              "Prostate Cancer"
+            ],
+            [
+              "The recurrence rates for transplantation patients at < 1 and > 5 years were 0-9% and 4-20%, respectively.",
+              "2b"
+            ],
+            [
+              "Overall, 1 to 5-year survival rates for transplantation patients ranged from 62% to 100%."
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "List for renal transplantation patients with a history of appropriately treated low stage/grade renal cell carcinoma or prostate cancer without additional delay.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Tumour excision was performed ex-vivo in all cases except for two (107/109 patients).",
+              "2b"
+            ],
+            [
+              "Overall survival rates at one, three and five years were 97.7%, 95.4% and 92%, respectively."
+            ],
+            [
+              "Mean graft survival rates at one, three and five years were 99.2%, 95% and 95.6%, respectively."
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Do not discard a kidney for potential transplantation on the basis of a small renal mass alone.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Surgery (radical prostatectomy) was the most frequently performed treatment for localised PCa after kidney transplant.",
+              "2b"
+            ],
+            [
+              "Overall oncological outcomes following PCa treatment in kidney transplant recipients were comparable to the non-transplanted population.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Be aware of the presence of a kidney transplant in the pelvis and the possibility of subsequent transplants when planning treatment for prostate cancer.",
+              "Strong"
+            ],
+            [
+              "Refer kidney transplant patients with prostate cancer to an integrated transplant urology centre.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-1-9-matching-of-donors-and-recipients",
+      "title": "3.1.9. Matching of donors and recipients",
+      "level": 4,
+      "text": "Histocompatibility antigens show remarkable polymorphism and human leukocyte antigen (HLA) matching is still very important in kidney transplantation, as transplant outcome correlates with the number of HLA mismatches [231-234]. Human leukocyte antigen incompatibility can result in proliferation and activation of the recipient’s CD4+ and CD8+ T-cells with concomitant activation of B-cell alloantibody production. This may lead to cellular and humoral graft rejection. Matching should concentrate on HLA antigens, which impact outcome. Human leukocyte antigens A, B and C, as well as DR must be determined in all potential recipients and donors according to current guidelines and national allocation rules [231-236]. Additionally, it is recommended to determine the HLA-DQ antigens of donor and recipient. Furthermore, HLA-DP antigen characterisation may be performed, particularly for sensitised recipients [231-236]. All patients registered for renal transplantation must have their serum screened for anti-HLA anti-bodies, which are particularly common after pregnancy, previous transplant, transplant rejection and blood transfusions [231-236]. Thorough pre-transplant testing for HLA antibodies must be per-formed according to current recommendations [231-236]. Sera from potential organ recipients should be screened for HLA-specific antibodies every three months, or as stipulated by the national and/or international organ-exchange organisations [231-236]. In addition, screening for HLA-specific antibodies should be carried out at two and four weeks after every immunising event, e.g. blood transfusion, transplantation, pregnancy and graft explantation [231-236]. Highly sensitised patients should have prioritised access to special allocation programmes [233, 234, 236], such as the Euro-transplant acceptable mismatch (AM) programme [237]. A careful analysis of HLA antibody specificities must be carried out to avoid unacceptable HLA antigens and to determine acceptable HLA anti-gens in potential donors, who are expected to give a negative cross-matching result. The definition of unacceptable HLA antigens should be implemented according to local allocation rules and inter-national recommendations [231-235, 238]. The information on unacceptable HLA antigens should be highlighted with the patient’s details in the database of the national kidney-sharing programme, preventing the unnecessary transport of kidneys to recipients with high antibody sensitivity. To avoid hyperacute rejection (HAR), adequate (e.g. CDC, virtual) cross-matching tests must be per-formed before each kidney and combined kidney/pancreas transplantation in accordance with national and international recommendations [231-234, 236]. Laboratories that provide HLA-testing, HLA antibody testing and cross-matching for transplant centres must have valid accreditation to ensure accuracy and reliability [225, 226, 231-233]. They must follow the standards of national and international organisations, such as the European Federation for Immunogenetics [236]. Previously, compatibility for ABO blood group antigens and HLA antigens was of critical importance in kidney transplantation. This may change in the future, e.g. in the United States allocation system A2 and A2B donors are transplanted into B recipients [234]. To avoid an increasing imbalance be-tween supply and demand in deceased donor kidney transplantation in O recipients, ABO identity is demanded by several organ allocation organisations with a few exceptions, e.g. as in zero HLA-A+B+DR-mismatch kidneys [234, 235]. With the introduction of antibody elimination methods, potent immunosuppression and novel agents (e.g. anti B-cell drugs), successful ABO-incompatible living donor transplantations with good long-term outcomes are possible [239, 240]. However, higher costs and infection rates have been described. Even the barrier of a positive cross-match due to preformed HLA antibodies is under discussion with newer ‘desensitisation’ techniques available in cases with available living donors [241, 242]. Success rates are lower, antibody-mediated rejections are frequent, but survival may be better com-pared to waiting list survival on dialysis. While this is a rapidly evolving field, further research is needed to define standard protocols. Until then, such ‘desensitisation’ protocols are experimental and patients undergoing desensitisation should be treated in specialised centres, where outcomes are documented. Patients should be informed adequately of the risks and limitations and alternative strategies (e.g. acceptable mismatch programmes, cross-over transplantation and donor chains) should be discussed. Summary of evidence LE Human leukocyte antigen matching is very important in kidney transplantation as transplant outcome correlates with the number of HLA mismatches. Matching should concentrate on HLA antigens, which impact outcome. 3 In accordance with national and international recommendations adequate (e.g. CDC",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Human leukocyte antigen matching is very important in kidney transplantation as transplant outcome correlates with the number of HLA mismatches. Matching should concentrate on HLA antigens, which impact outcome.",
+              "3"
+            ],
+            [
+              "In accordance with national and international recommendations adequate (e.g. CDC, virtual) cross-match tests must be performed before each kidney and combined kidney/pancreas transplantation to avoid hyperacute rejection.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Determine the ABO blood group and the human leukocyte antigen A, B, C and DR phenotypes for all candidates awaiting kidney transplantation.",
+              "Strong"
+            ],
+            [
+              "Test both the donor and recipient for human leukocyte antigen DQ. Human leukocyte antigen DP testing may be performed for sensitised patients.",
+              "Strong"
+            ],
+            [
+              "Perform thorough testing for HLA antibodies before transplantation.",
+              "Strong"
+            ],
+            [
+              "Perform adequate cross-match tests to avoid hyperacute rejection, before each kidney and combined kidney/pancreas transplantation.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-1-10-immunosuppression-after-kidney-transplantation",
+      "title": "3.1.10. Immunosuppression after kidney transplantation",
+      "level": 4,
+      "text": "The principle underlying successful immunosuppression is ‘the balance of survival’. Practitioners must prescribe a dosage of drug high enough to suppress rejection without endangering the recipient’s health. Increased understanding of immune rejection has led to the development of safe modern immunosuppression agents [243, 244], which suppress sensitised lymphocyte activity against a transplant. Immunosuppression is particularly important during the initial post-transplant period when there is a high incidence of early post-transplant rejection. In later postoperative stages, ‘graft adaptation‘ occurs, resulting in the very low rejection rates seen in maintenance patients. Rejection prophylaxis should therefore be reduced over time by steroid tapering and gradual lowering of calcineurin inhibitor (CNI) [243-245]. Non-specific side effects of immunosuppression include a higher risk of malignancy and infection, particularly opportunistic infections [243-245]. All immunosuppressants also have specific dose-dependent side effects. Current immunosuppressive protocols aim to reduce drug-specific side effects using a synergistic regimen. A truly synergistic regimen allows profound dose reductions of immunosuppressive drugs, thus reducing side effects whilst still maintaining efficacy due to the synergistic effects of the immunosuppressants. The currently recommended standard initial immunosuppression regime provides excellent efficacy with good tolerability [243-246]. Most patients receive this initial immunosuppression region, which consists of: calcineurin inhibitors: preferably tacrolimus, alternatively cyclosporine; mycophenolate: MMF or enteric-coated mycophenolate sodium [EC-MPS]; steroids: prednisolone or methylprednisolone; and induction therapy: preferably basiliximab in low- and standard-risk patients and anti-thymocyte globulin (ATG) in high-risk patients). This multidrug regimen reflects the current standard of care for the majority of transplant recipients worldwide [243-245] and may be modified according to local needs and immunological risk. This standard regimen is likely to change as new immunosuppressive drugs and new treatment regimens are developed [243-245]. In addition, any initial drug regimen will need to be tailored to the individual needs of a patient, as suggested by the appearance of side effects, lack of efficacy or protocol-driven requirements. Recommendation Strength rating Perform initial rejection prophylaxis with a combination therapy of a calcineurin inhibitor (preferably tacrolimus), mycophenolate, steroids and an induction agent (either basiliximab or anti-thymocyte globulin). Strong 3.1.10.a. Calcineurin inhibitors Both cyclosporine and tacrolimus have significant side effects that are hazardous to the graft and patient [243-250]. Most importantly, both are nephrotoxic [251, 252], and long-term use is an important cause of chronic allograft dysfunction [253], eventually leading to graft loss or severe chronic kidney disease in recipients of non-renal organs. Both CNIs are considered to be ‘critical dose‘ drugs, so that any deviations from exposure can lead to severe toxicity or failure of efficacy. Due to the narrow therapeutic window and the potential for drug-to-drug interaction, CNIs should be monitored using trough levels, which provide a reasonable estimate for exposure [250]. Meta-analysis of tacrolimus and cyclosporine has demonstrated similar outcomes with respect to overall patient and graft survival [243-249, 254-256]. Tacrolimus provided better rejection prophylaxis and was associated with better graft survival, when censored for death in some analyses. Renal function was favourable for tacrolimus-treated patients in numerous trials [254, 257-261]. Therefore, both CNIs can be used for the effective prevention of acute rejection, but due to higher efficacy tacrolimus is recommended by current guidelines as first-line CNI [244]. Several different formulations are available for both CNIs [250, 262-270]. Tacrolimus once-daily dosing seems to be preferred by patients and is associated with better adherence and lower pharmacokinetic variability [250, 271,272]. Precautions (e.g. close surveillance and determination of drug levels) should be instituted after conversion from one formulation to another [270, 273-277]. In case of specific side effects of a CNI (e.g. hirsutism, alopecia, gingival hyperplasia, diabetes and polyoma nephropathy) conversion to another CNI can be a successful strategy to reduce side effects [243-245, 278]. Due to differences in the efficacy and safety profile, the choice of CNI should include the individual risks and benefits for each patient. Despite their side effects, CNIs have been a cornerstone of modern immunosuppressive regimens for more than thirty years as they have resulted in an exemplary improvement in kidney graft survival [243,244]. Future protocols aim to minimise or even eliminate CNIs [245, 248, 250, 279-282]. However, until such st",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Perform initial rejection prophylaxis with a combination therapy of a calcineurin inhibitor (preferably tacrolimus), mycophenolate, steroids and an induction agent (either basiliximab or anti-thymocyte globulin).",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Meta-analysis of tacrolimus and cyclosporine has demonstrated similar outcomes with respect to overall patient and graft survival, however, tacrolimus provided better rejection prophylaxis and renal function.",
+              "1a"
+            ],
+            [
+              "Due to differences in the efficacy and safety profile, the choice of CNI should take into account the immunological risk, characteristics, concomitant immunosuppression and socioeconomic factors of the recipient.",
+              "1"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use calcineurin inhibitors for rejection prophylaxis as they represent current best practice pending publication of long-term results using newer agents.",
+              "Strong"
+            ],
+            [
+              "Use tacrolimus as first-line calcineurin inhibitor due to its higher efficacy.",
+              "Strong"
+            ],
+            [
+              "Monitor blood-levels of both cyclosporine and tacrolimus to allow appropriate dose adjustment of calcineurin inhibitors.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "The co-administration of MPA with prednisolone and CNI has resulted in a profound reduction of biopsy-proven rejections.",
+              "1"
+            ],
+            [
+              "Both MPA formulations, MMF and EC-MPS, are equally effective with a nearly identical safety profile.",
+              "1"
+            ],
+            [
+              "Due to a higher incidence of CMV disease with MPA, either CMV prophylaxis or a pre-emptive strategy with regular screening for CMV viraemia should be instituted.",
+              "1"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Administer mycophenolate as part of the initial immunosuppressive regimen.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Azathioprine may be used in a low-risk population as an immunosuppressive drug, especially for those intolerant to mycophenolate formulations.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Initial steroid therapy should be part of immunosuppression in the perioperative and early post-transplant period.",
+              "Strong"
+            ],
+            [
+              "Consider steroid withdrawal in standard immunological risk patients on combination therapy with calcineurin inhibitors and mycophenolic acid after the early post-transplant period.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Combination therapy with CNIs aggravates CNI-induced nephrotoxicity. Therefore, CNI dosage should be substantially reduced in combination therapy with m-TOR inhibitors, which seems to have no impact on efficacy, due to the highly synergistic potential of this combination therapy.",
+              "1"
+            ],
+            [
+              "Take into consideration impaired wound healing and prophylactic surgical measures when m-TOR inhibitors are used as part of the initial immunosuppressive regimen or when patients treated with m-TOR inhibitors undergo major surgery.",
+              "1"
+            ],
+            [
+              "When combined with CNIs, antimicrobial prophylaxis for P. jirovecii pneumonia should be administered for one year following transplantation.",
+              "1"
+            ],
+            [
+              "Conversion from CNIs is not advisable in patients with proteinuria > 800mg/day, and a cautious and individual approach should be followed in patients with GFR < 30 mL/min.",
+              "1"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "The m-TOR inhibitors may be used to prevent rejection in patients who are intolerant to standard therapy.",
+              "Weak"
+            ],
+            [
+              "Significantly reduce calcineurin inhibitor dosage in a combination regimen with m-THOR inhibitors to prevent aggravated nephrotoxicity.",
+              "Strong"
+            ],
+            [
+              "Do not convert patients with proteinuria and poor renal function to m-TOR inhibitors.",
+              "Strong"
+            ],
+            [
+              "Monitor blood-levels of both sirolimus and everolimus to allow for appropriate dose adjustment.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Use interleukin-2 receptor antibodies for induction in patients with normal immunological risk in order to reduce incidence of acute rejection.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "T-cell-depleting antibodies may be used for induction therapy in immunologically high-risk patients.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Belatacept may be used for immunosuppressive therapy in immunologically low-risk patients who have a positive Epstein-Barr virus serology.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-1-11-immunological-complications",
+      "title": "3.1.11. Immunological complications",
+      "level": 4,
+      "text": "Immunological rejection is a common cause of early and late transplant dysfunction [244, 360-364]. There is great variation in the timing and severity of rejection episodes and how they respond to treatment. Today, two main types of immunological reactions are distinguished: T-cell-mediated rejections (TCMRs) and antibody-mediated rejections (ABMRs) [244, 360-362, 365]. Antibody-mediated rejection and TCMR may be diagnosed together; a situation known as mixed acute rejection. Antibody-mediated rejection may occur as hyperacute rejection (HAR), active rejection or chronic rejection. Chronic ABMR is considered one of the leading causes of late graft loss. The ultimate standard for the diagnosis of rejection is transplant biopsy [244], because it is impossible to differentiate acute rejection based solely on clinical indicators from other causes of renal dysfunction (e.g. acute tubular necrosis, infection, disease recurrence or CNI nephrotoxicity). Therefore, all rejections should be verified by means of renal biopsy and biopsies should be classified according to the most recent Banff criteria [366], which are the basis for prognosis and treatment [242, 360, 363]. Renal transplant biopsy should be conducted preferably under US control, using an automated needle biopsy system (e.g. Tru-Cut biopsy gun) [244, 360] with a 16 G needle to assure specimen adequacy. The biopsy procedure is considered safe, but complications such as bleeding and AV fistulas may occur [244, 367, 368]. The reported risk of major complications (including substantial bleeding, macroscopic haematuria with ureteric obstruction, peritonitis or graft loss) is approximately 1%. The most important contraindications are anticoagulant therapy including antiplatelet agents and uncontrolled hypertension. Summary of evidence LE There must be routine access to US-guided biopsy of the transplant and sufficient expertise in the hospital pathology department to allow a rapid and clear-cut diagnosis of rejection or other type of allograft dysfunction. 2 Steroid treatment for rejection may start before the renal biopsy is performed. 2 Recommendations Strength rating Monitor transplant recipients for signs of acute rejection, particularly during the first six months post-transplant. Strong Take regular blood samples in addition to regular monitoring of urine output and ultrasound examinations in order to detect graft dysfunction during hospitalisation. Strong Immediately rule out other potential causes of graft dysfunction in cases of suspected acute rejection. An ultrasound of the kidney transplant should be performed. Strong Perform a renal biopsy, graded according to the most recent Banff criteria, in patients with suspected acute rejection episodes. Strong Only if contraindications to renal biopsy are present, can ‘blind’ steroid bolus therapy be given. Strong Test patients who suffer acute rejection as soon as possible for anti-HLA antibodies against the graft. Strong Reassess the immunosuppressive therapy of all patients with rejection, including patient adherence to the medication, which is of particular importance in late rejections. Strong 3.1.11.a. Hyperacute rejection Hyperacute rejection is the most dramatic and destructive immunological attack on the graft [231, 244, 360, 361]. This type of rejection results from circulating, complement-fixing IgG antibodies, specifically reactive against incompatible donor antigen, which engages with and destroys the vascular endothelium within minutes or hours after vascularisation. Hyperacute rejection occurs in ABO-incompatible grafts due to the presence of high titres of pre-existing isoantibodies against blood group antigens. In ABO-matched grafts, HAR is mediated by anti-donor HLA IgG antibodies. With the development of the cross-matching test before transplantation, HAR has become an extremely rare complication [231]. Imaging and histology reveal generalised infarction of the graft, which must be treated using graft nephrectomy. Therefore, prevention is crucial, either by avoidance of high isoantibodies against incompatible blood group antigens in case of an ABO-incompatible renal transplant and/or by performing regular cross-match before transplantation (see Section 3.1.8). Recommendation Strength rating Prevent hyper-acute rejection by adequate ABO blood group and HLA matching of donor and recipients. Strong 3.1.11.b. Treatment of T-cell-mediated acute rejection As only a few randomised trials have investigated various treatment options for this clinical problem, therapy is mainly based on empirical experience rather than on clinical evidence [244, 345, 360, 369]. Parenteral methylprednisolone (500mg to 1g) should be given intravenously as one pulse per day for three days. Anuria or a steep rise in the serum creatinine may indicate steroid-refractory rejection and the need for another three-day course of pulsed methylprednisolone therapy [244,360]. In addition, baseline immunosuppression should be opt",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "There must be routine access to US-guided biopsy of the transplant and sufficient expertise in the hospital pathology department to allow a rapid and clear-cut diagnosis of rejection or other type of allograft dysfunction.",
+              "2"
+            ],
+            [
+              "Steroid treatment for rejection may start before the renal biopsy is performed.",
+              "2"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Monitor transplant recipients for signs of acute rejection, particularly during the first six months post-transplant.",
+              "Strong"
+            ],
+            [
+              "Take regular blood samples in addition to regular monitoring of urine output and ultrasound examinations in order to detect graft dysfunction during hospitalisation.",
+              "Strong"
+            ],
+            [
+              "Immediately rule out other potential causes of graft dysfunction in cases of suspected acute rejection. An ultrasound of the kidney transplant should be performed.",
+              "Strong"
+            ],
+            [
+              "Perform a renal biopsy, graded according to the most recent Banff criteria, in patients with suspected acute rejection episodes.",
+              "Strong"
+            ],
+            [
+              "Only if contraindications to renal biopsy are present, can ‘blind’ steroid bolus therapy be given.",
+              "Strong"
+            ],
+            [
+              "Test patients who suffer acute rejection as soon as possible for anti-HLA antibodies against the graft.",
+              "Strong"
+            ],
+            [
+              "Reassess the immunosuppressive therapy of all patients with rejection, including patient adherence to the medication, which is of particular importance in late rejections.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Prevent hyper-acute rejection by adequate ABO blood group and HLA matching of donor and recipients.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use steroid bolus therapy as first-line treatment for T-cell-mediated rejection in addition to ensuring adequate baseline immunosuppression.",
+              "Strong"
+            ],
+            [
+              "In severe or steroid-resistant rejection, use intensified immunosuppression, high-dose steroid treatment, and eventually T-cell depleting agents.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Treatment of antibody-mediated rejection should include antibody elimination.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-1-12-follow-up-after-transplantation",
+      "title": "3.1.12. Follow-up after transplantation",
+      "level": 4,
+      "text": "Long-term graft function is of critical importance for the success of a transplant [244, 245]. Therefore, regular long-term follow-up by experienced transplant physicians is essential to detect complications or graft dysfunction early and reassure adherence to the immunosuppressive regimen. Complications of immunosuppression occur frequently, including specific complications of the various drugs, as well as overimmunosuppression (namely opportunistic infections and malignancy) [244, 245]. The risk of cancer and cardiac disease is several-fold higher in transplanted patients than in the general population. Cancer is a cause of significant morbidity and mortality in the transplanted population [244, 379, 380]. Cardiovascular disease is the most frequent cause of death in renal allograft recipients [244, 381, 382]. Other important long-term problems are non-adherence [383], the development of anti-HLA antibodies, recurrence of the original disease and CNI-associated nephrotoxicity [244, 245]. 3.1.12.a. Chronic allograft dysfunction/interstitial fibrosis and tubular atrophy Many patients lose their grafts due to chronic allograft dysfunction [244, 245, 384]. Histology will usually reveal a chronic process of interstitial fibrosis and tubular atrophy (IF/TA) [385]. Some patients will have immunological chronic ABMR [386], as discussed in Section 3.1.11.3. Interstitial fibrosis and tubular atrophy take months or years to develop and are heralded by proteinuria and hypertension, with a simultaneous or delayed rise in serum creatinine level over months [244, 384, 385]. It is likely that IF/TA is more common in patients who have had early attacks of acute rejection or infection. The main differential diagnosis is chronic nephrotoxicity [387], which is common in patients receiving CNIs, and pre-existing and/or aggravated chronic kidney damage from a marginal donor kidney [244, 384, 385]. Diagnosis is by renal biopsy [244, 384]. In patients diagnosed early - particularly if there is evidence for CNI toxicity- disease progression may be slowed by conversion to a CNI-free regimen [201-203, 263, 264]. Conversion to m-TOR inhibitors is an option for patients without significant proteinuria (< 800mg/day), but moderate renal function [243-245]. Alternatively, successful conversion to a mycophenolate-based regimen has been described, especially in patients beyond the first three years post-transplant [243, 245, 280]. In case of intolerance to m-TOR inhibitors or MPA, conversion to belatacept or an azathioprine-based regimen may be successful, although the higher risk of rejection warrants close surveillance [359]. If the risk of rejection seems too high, another option is substantial reduction of CNI under the protection of MPA [245, 280]. In patients with proteinuria, intervention with an angiotensin-converting enzyme inhibitor or angiotensin II receptor blocker [244, 384] together with tight blood pressure control may slow down renal progression. Other supportive measures include the treatment of hypertension, hyperlipidaemia, diabetes, anaemia, acidosis and bone disease [244]. However, ultimately, the patient will require another transplant (if fit enough to go on the transplant waiting list) or dialysis therapy. Summary of evidence LE Regular long-term follow-up by experienced transplant physicians is essential to detect complications or graft dysfunction early and reassure adherence to the immunosuppressive regimen. 4 Annual screening should include a dermatological examination, cardiovascular history and exam, tumour screening (including a nodal examination, faecal occult screening, chest X-ray, gynaecological and urological examination) and an abdominal US, including US of the native and transplanted kidney. If appropriate, further diagnostic tests should be prompted to treat or slow down the progression of any identified complication. 4 In patients diagnosed early with IF/TA, particularly if there is evidence of CNI toxicity, disease progression may be slowed by conversion to a CNI-free regimen. If the risk of rejection seems too high, another option is substantial reduction of CNI under the protection of MPA. 1 Supportive measures should aim to adequately treat the consequences of chronic kidney disease (e.g. anaemia, acidosis or bone disease). 4 Recommendations Strength rating Provide lifelong regular post-transplant follow-up by an experienced and trained transplant specialist at least every six to twelve months. Strong Advise patients on appropriate lifestyle changes, potential complications and the importance of adherence to their immunosuppressive regimen. Strong Regularly monitor (approximately every four to eight weeks) serum creatinine, estimated glomerular filtration rate, blood pressure, urinary protein excretion, immunosuppression and complications after renal transplantation. Changes in these parameters over time should trigger further diagnostic workup, including renal biopsy, a search for infectious ca",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Regular long-term follow-up by experienced transplant physicians is essential to detect complications or graft dysfunction early and reassure adherence to the immunosuppressive regimen.",
+              "4"
+            ],
+            [
+              "Annual screening should include a dermatological examination, cardiovascular history and exam, tumour screening (including a nodal examination, faecal occult screening, chest X-ray, gynaecological and urological examination) and an abdominal US, including US of the native and transplanted kidney. If appropriate, further diagnostic tests should be prompted to treat or slow down the progression of any identified complication.",
+              "4"
+            ],
+            [
+              "In patients diagnosed early with IF/TA, particularly if there is evidence of CNI toxicity, disease progression may be slowed by conversion to a CNI-free regimen. If the risk of rejection seems too high, another option is substantial reduction of CNI under the protection of MPA.",
+              "1"
+            ],
+            [
+              "Supportive measures should aim to adequately treat the consequences of chronic kidney disease (e.g. anaemia, acidosis or bone disease).",
+              "4"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Provide lifelong regular post-transplant follow-up by an experienced and trained transplant specialist at least every six to twelve months.",
+              "Strong"
+            ],
+            [
+              "Advise patients on appropriate lifestyle changes, potential complications and the importance of adherence to their immunosuppressive regimen.",
+              "Strong"
+            ],
+            [
+              "Regularly monitor (approximately every four to eight weeks) serum creatinine, estimated glomerular filtration rate, blood pressure, urinary protein excretion, immunosuppression and complications after renal transplantation. Changes in these parameters over time should trigger further diagnostic workup, including renal biopsy, a search for infectious causes and anti-HLA antibodies.",
+              "Strong"
+            ],
+            [
+              "Perform an ultrasound of the graft, in case of graft dysfunction, to rule out obstruction and renal artery stenosis.",
+              "Strong"
+            ],
+            [
+              "In patients with interstitial fibrosis and tubular atrophy undergoing calcineurin inhibitor (CNI) therapy and/or with histological signs suggestive for CNI toxicity (e.g. arteriolar hyalinosis or striped fibrosis), consider CNI re-duction or withdrawal.",
+              "Strong"
+            ],
+            [
+              "Initiate appropriate medical treatment, e.g. tight control of hypertension, diabetes, proteinuria, cardiac risk factors, infections and other complications according to current guidelines.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 74
+}

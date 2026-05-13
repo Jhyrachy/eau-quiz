@@ -1,0 +1,39 @@
+{
+  "name": "EAU Guidelines Quiz",
+  "repo": "jhyrachy/eau-quiz",
+  "status": "in_progress",
+  "created": "2026-05-13",
+  "last_updated": "2026-05-13",
+  "pilot_guideline": "prostate-cancer",
+  "all_guidelines_count": 19,
+  "completed": [
+    "Architecture designed",
+    "Anchor URL pattern reverse-engineered",
+    "MiniMax API verified working",
+    "minimax-lm skill patched and verified",
+    "eau-quiz skill created",
+    "scripts/scrape_guideline_index.py written",
+    "scripts/scrape_chapter_text.py written",
+    "scripts/generate_quiz_json.py written",
+    "CI workflow .github/workflows/build-data.yml written",
+    "web/ scaffold (index.html, css, js/ four files)"
+  ],
+  "pending": [
+    "Create GitHub repo (jhyrachy/eau-quiz)",
+    "Run scripts locally to test scraping",
+    "Pilot: scrape prostate-cancer chapters",
+    "Pilot: generate first MCQ JSON via MiniMax",
+    "Test quiz UI locally",
+    "Test Anki export",
+    "Push to GitHub + enable Pages",
+    "CI: first scrape run",
+    "Generate all 19 guidelines MCQs",
+    "Add per-guideline index.json for UI"
+  ],
+  "notes": [
+    "API key stays LOCAL — never in CI",
+    "CI only scrapes HTML and commits JSON (no LLM)",
+    "LLM generation done manually with export MINIMAX_API_KEY=...; python scripts/generate_quiz_json.py --all",
+    "All 19 EAU guideline slugs: chronic-pelvic-pain, management-of-non-neurogenic-male-luts, muscle-invasive-and-metastatic-bladder-cancer, neuro-urology, non-muscle-invasive-bladder-cancer, non-neurogenic-female-luts, paediatric-urology, penile-cancer, primary-urethral-carcinoma, prostate-cancer (PILOT), renal-cell-carcinoma, renal-transplantation, sexual-and-reproductive-health, testicular-cancer, upper-urinary-tract-urothelial-cell-carcinoma, urethral-strictures, urolithiasis, urological-infections, urological-trauma"
+  ]
+}

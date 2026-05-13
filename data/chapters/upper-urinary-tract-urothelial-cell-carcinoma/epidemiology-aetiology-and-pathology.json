@@ -1,0 +1,469 @@
+{
+  "guideline": "upper-urinary-tract-urothelial-cell-carcinoma",
+  "chapter": "epidemiology-aetiology-and-pathology",
+  "url": "https://uroweb.org/guidelines/upper-urinary-tract-urothelial-cell-carcinoma/chapter/epidemiology-aetiology-and-pathology",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and scope",
+      "anchor": "#1-1-aim-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Summary of changes",
+      "anchor": "#1-4-1-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY, AETIOLOGY AND PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology",
+      "anchor": "#3-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Risk factors",
+      "anchor": "#3-2-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Environmental risk factors",
+      "anchor": "#3-2-1-environmental-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.2.2. Genetic risk factors",
+      "anchor": "#3-2-2-genetic-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.2.3. History of bladder cancer",
+      "anchor": "#3-2-3-history-of-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Histology and classification",
+      "anchor": "#3-3-histology-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Histological types",
+      "anchor": "#3-3-1-histological-types"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Molecular background of upper urinary tract urothelial carcinoma",
+      "anchor": "#3-4-molecular-background-of-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Summary of evidence and recommendations for epidemiology, aetiology and histology",
+      "anchor": "#3-5-summary-of-evidence-and-recommendations-for-epidemiology-aetiology-and-histology"
+    },
+    {
+      "level": 2,
+      "text": "4. STAGING AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-staging-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Classification",
+      "anchor": "#4-1-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Tumour, Node, Metastasis classification",
+      "anchor": "#4-2-tumour-node-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Tumour grade",
+      "anchor": "#4-3-tumour-grade"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSIS",
+      "anchor": "#5-diagnosis"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Symptoms",
+      "anchor": "#5-1-symptoms"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Imaging",
+      "anchor": "#5-2-imaging"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Computed tomography",
+      "anchor": "#5-2-1-computed-tomography"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Magnetic resonance urography",
+      "anchor": "#5-2-2-magnetic-resonance-urography"
+    },
+    {
+      "level": 4,
+      "text": "5.2.3.",
+      "anchor": "#5-2-3"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Cystoscopy",
+      "anchor": "#5-3-cystoscopy"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Cytology and urinary markers",
+      "anchor": "#5-4-cytology-and-urinary-markers"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Diagnostic ureteroscopy",
+      "anchor": "#5-5-diagnostic-ureteroscopy"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Molecular testing",
+      "anchor": "#5-6-molecular-testing"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Summary of evidence and recommendations for the diagnosis of upper urinary tract urothelial carcinoma",
+      "anchor": "#5-7-summary-of-evidence-and-recommendations-for-the-diagnosis-of-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 2,
+      "text": "6. RISK STRATIFICATION",
+      "anchor": "#6-risk-stratification"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Factors for clinical decision-making",
+      "anchor": "#6-1-factors-for-clinical-decision-making"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Pathological grade",
+      "anchor": "#6-1-1-pathological-grade"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Histological subtypes",
+      "anchor": "#6-1-2-histological-subtypes"
+    },
+    {
+      "level": 4,
+      "text": "6.1.3. Local invasion on computed tomography",
+      "anchor": "#6-1-3-local-invasion-on-computed-tomography"
+    },
+    {
+      "level": 4,
+      "text": "6.1.4. Multifocality",
+      "anchor": "#6-1-4-multifocality"
+    },
+    {
+      "level": 4,
+      "text": "6.1.5. Hydroureteronephrosis",
+      "anchor": "#6-1-5-hydroureteronephrosis"
+    },
+    {
+      "level": 4,
+      "text": "6.1.6. Tumour size",
+      "anchor": "#6-1-6-tumour-size"
+    },
+    {
+      "level": 4,
+      "text": "6.1.7. Risk stratification for clinical decision-making",
+      "anchor": "#6-1-7-risk-stratification-for-clinical-decision-making"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Bladder recurrence",
+      "anchor": "#6-2-bladder-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Summary of evidence and recommendation for the prognosis of upper urinary tract urothelial carcinoma",
+      "anchor": "#6-3-summary-of-evidence-and-recommendation-for-the-prognosis-of-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT",
+      "anchor": "#7-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Low-risk disease",
+      "anchor": "#7-1-low-risk-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.1.1. General considerations on kidney-sparing surgery",
+      "anchor": "#7-1-1-general-considerations-on-kidney-sparing-surgery"
+    },
+    {
+      "level": 4,
+      "text": "7.1.2. Endoscopic ablation with ureteroscopy",
+      "anchor": "#7-1-2-endoscopic-ablation-with-ureteroscopy"
+    },
+    {
+      "level": 4,
+      "text": "7.1.3. Percutaneous antegrade access",
+      "anchor": "#7-1-3-percutaneous-antegrade-access"
+    },
+    {
+      "level": 4,
+      "text": "7.1.4. Ureteral resection",
+      "anchor": "#7-1-4-ureteral-resection"
+    },
+    {
+      "level": 4,
+      "text": "7.1.5. Chemoablation",
+      "anchor": "#7-1-5-chemoablation"
+    },
+    {
+      "level": 4,
+      "text": "7.1.6. Adjuvant instillations",
+      "anchor": "#7-1-6-adjuvant-instillations"
+    },
+    {
+      "level": 4,
+      "text": "7.1.7. Recommendations for kidney-sparing management of localised low-risk upper urinary tract urothelial carcinoma",
+      "anchor": "#7-1-7-recommendations-for-kidney-sparing-management-of-localised-low-risk-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Localised high-risk disease",
+      "anchor": "#7-2-localised-high-risk-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. Local treatments",
+      "anchor": "#7-2-1-local-treatments"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Perioperative treatments",
+      "anchor": "#7-2-2-perioperative-treatments"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Summary of evidence and recommendations for the management of high-risk non-metastatic upper urinary tract urothelial carcinoma",
+      "anchor": "#7-2-3-summary-of-evidence-and-recommendations-for-the-management-of-high-risk-non-metastatic-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Metastatic disease",
+      "anchor": "#7-3-metastatic-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Clinical locoregional lymph node metastases",
+      "anchor": "#7-3-1-clinical-locoregional-lymph-node-metastases"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Distant metastases",
+      "anchor": "#7-3-2-distant-metastases"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. Summary of evidence and recommendations for the treatment of metastatic upper urinary tract urothelial carcinoma",
+      "anchor": "#7-3-3-summary-of-evidence-and-recommendations-for-the-treatment-of-metastatic-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 2,
+      "text": "8. FOLLOW-UP",
+      "anchor": "#8-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Summary of evidence and recommendations for the follow-up of upper urinary tract urothelial carcinoma",
+      "anchor": "#8-1-summary-of-evidence-and-recommendations-for-the-follow-up-of-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 2,
+      "text": "9. QUALITY INDICATORS FOR THE MANAGEMENT OF UTUC",
+      "anchor": "#9-quality-indicators-for-the-management-of-utuc"
+    },
+    {
+      "level": 2,
+      "text": "10. REFERENCES",
+      "anchor": "#10-references"
+    },
+    {
+      "level": 2,
+      "text": "11. CONFLICT OF INTEREST",
+      "anchor": "#11-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "12. CITATION INFORMATION",
+      "anchor": "#12-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "13. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#13-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#upper-urinary-tract-urothelial-cell-carcinoma",
+      "title": "Upper Urinary Tract Urothelial Cell Carcinoma",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 3. Epidemiology, Aetiology And Pathology Introduction Methods Epidemiology, Aetiology And Pathology Staging And Classification Systems Diagnosis Risk Stratification Disease Management Follow-up Quality Indicators For The Management Of Utuc References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#3-epidemiology-aetiology-and-pathology",
+      "title": "3. EPIDEMIOLOGY, AETIOLOGY AND PATHOLOGY",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-1-epidemiology",
+      "title": "3.1. Epidemiology",
+      "level": 3,
+      "text": "Urothelial carcinoma is the second most common urological malignancy in developed countries [7]. It can be localised in the lower (bladder and urethra) and/or the upper (pyelocaliceal cavities and ureter) urinary tract. Bladder cancer (BC) accounts for 90-95% of UCs, whilst UTUC accounts for only 5-10% of UCs with an estimated annual incidence in Western countries of nearly two cases per 100,000 inhabitants [1]. This rate has risen in the past few decades, likely as a result of improved detection and the aging population [8,9]. The peak incidence is in individuals aged 70-90 years, and UTUC is twice as common in males [10]. A retrospective international registry including data from 2,380 patients diagnosed between 2014 and 2019 (101 centres from 29 countries) confirmed that UTUC patients were predominantly male (70.5%) and 53.3% were former or current smokers. The majority of patients (53%) were diagnosed after they presented with symptoms, mainly visible haematuria [11]. A meta-analysis pooling 44 studies showed a pooled UTUC incidence rate of 0.75% in patients with visible haematuria and 0.17% for those with non-visible haematuria [12]. In addition, approximately two-thirds of patients who present with UTUCs have muscle-invasive disease at diagnosis compared to 15-25% of patients diagnosed with de novo BC [13]. The higher incidence of muscle-invasive disease in UTUC versus BC has been confirmed in population-based studies from Germany and England, suggesting that muscle-invasive UTUC represents approximately half of incident cases [14,15]. Approximately 9% of patients present with metastases [8,16-18]. Pyelocaliceal tumours are approximately twice as common as ureteral tumours, and multifocal tumours are found in approximately 10-20% of cases [19]. The presence of concomitant carcinoma in situ (CIS) of the upper tract is between 11% and 36% [20], with an increased incidence of higher tumour stage and ureteral tumour location found in a population-based series [8,21]. Concurrent BC is present in 17% of UTUC cases [22], whilst a prior history of BC is found in 41% of American males but in only 4% of Chinese patients [23]. In high-risk NMIBC patients treated with intravesical bacillus Calmette-Guérin (BCG), the prevalence of UTUC ranged from 7.5% to 25% [24-26] and from 3% to 5% in those with MIBC treated with radical cystectomy (RC) [27,28]. Concomitant BC when diagnosed with UTUC is associated with more advanced disease, both in the upper tract and bladder [29], and corresponds to worse cancer-specific survival (CSS) [30,31]. Metachronous BC on the other hand, does not seem to have an impact on CSS [31]. Following treatment for UTUC, recurrence in the bladder occurs in approximately 30% of UTUC patients, depending on patient-, tumour- and treatment-specific characteristics [32], compared to a 2-5% recurrence rate in the contralateral upper tract [33]. Upper tract UC and BC exhibit significant differences in the prevalence of common genomic alterations. In individual patients with a history of both tumours, BC and UTUC are often clonally related. Genomic characterisation of UTUC provides information regarding the risk of bladder recurrence and can identify tumours associated with Lynch syndrome [34].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-2-risk-factors",
+      "title": "3.2. Risk factors",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-2-1-environmental-risk-factors",
+      "title": "3.2.1. Environmental risk factors",
+      "level": 4,
+      "text": "A number of environmental risk factors have been implicated in the development of UTUC [19,35]. With the exception of smoking and aristolochic acid, no strong evidence supports the causative role for these factors. Tobacco exposure increases the relative risk of developing UTUC by 2.5 to 7.0 times [36-38]. Aristolochic acid, a nitrophenanthrene carboxylic acid produced by aristolochia plants, exerts negative effects on the urinary system by irreversibly injuring renal proximal tubules, resulting in chronic tubulointerstitial disease, while the mutagenic properties of this carcinogen can lead to UTUC [39-41]. However, it is estimated that fewer than 10% of individuals exposed to aristolochic acid develop UTUC [41]. Aristolochic acid has also been linked to BC, renal cell carcinoma, hepatocellular carcinoma and intrahepatic cholangiocarcinoma [42]. Following bioactivation, aristolochic acid reacts with genomic deoxyribonucleic acid (DNA) to form aristolactam-deoxyadenosine adducts [43]. These lesions persist for decades in target tissues, serving as robust biomarkers of exposure [44]. These adducts generate a unique mutational spectrum, characterised by A > T transversions located predominately on the non-transcribed strand of DNA [42,45]. Two routes of exposure to aristolochic acid are known: (i) environmental contamination of agricultural products by aristolochia plants, as reported for Balkan endemic nephropathy [46]; and (ii) ingestion of aristolochia-based herbal remedies [47,48]. Aristolochic acid-associated UTUC is more common in females [49,50], but females with aristolochic acid UTUC have a better prognosis than their male counterparts. Other environmental risk factors may include the presence of arsenic in drinking water, which has been tentatively linked to UTUC, especially in Taiwan and Chile [51,52]. Arsenic mitigation from drinking water in Taiwan has also been shown to reduce the incidence of UTUC in a large population-based study [53]. Consumption of arsenic in drinking water and aristolochia-based herbal remedies together appears to have an additive carcinogenic effect [54]. In addition, alcohol consumption may be associated with the development of UTUC. A large case-control study (1,569 cases and 506,797 controls) has shown a significantly higher risk of UTUC in drinkers compared to never drinkers (odds ratio [OR]: 1.23; 95% confidence interval [CI]: 1.08-1.40). Compared to never drinkers, the risk threshold for UTUC was > 15g of alcohol/day. A dose-response has been observed [55].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-2-2-genetic-risk-factors",
+      "title": "3.2.2. Genetic risk factors",
+      "level": 4,
+      "text": "Lynch syndrome is characterised by a predisposition to early onset colorectal cancer and several extra-colonic malignancies related to pathogenic germline mutations in one allele of the mismatch repair (MMR) genes MSH2 , MSH6 , MLH1 or PMS2 . After colorectal and endometrial cancers, UTUC is the third most common malignancy in the Lynch syndrome spectrum [56]. Identifying Lynch syndrome’s related UTUC has important clinical implications for both the patient and their relatives given the high risk of developing subsequent multiple different malignancies in the carrier and the strong hereditary predisposition of this condition. Germline mutations in MMR genes are found in up to 9% of patients with UTUC compared to 1% of patients with BC [57]. From a genetic perspective, the majority of tumours develop in MSH2 and MSH6 mutation carriers [58]. The carcinogenesis is related to the somatic mutation of the second allele of the germline-mutated MMR gene. This will result in a deficient MMR (dMMR) system related to the loss of the expression of the corresponding protein MSH2, MSH6, MLH1 or PMS2 in immunochemistry, which can be responsible for a microsatellite instability identified using the polymerase chain reaction (PCR) method. From a clinical perspective, although the PREMM5 model has been developed to estimate the cumulative probability of an individual carrying a germline mutation related to Lynch syndrome [59], the Amsterdam II criteria remains predominantly used to identify families that are at increased risk of Lynch syndrome [60]. The latter includes: at least three relatives with a Lynch-associated cancer (colorectal, endometrium, small bowel or UTUC); a first degree relative to the other two; at least two successive affected generations; at least one relative diagnosed before the age 50; exclusion of familial adenomatous polyposis in the colorectal cancer cases; and pathological confirmation of the diagnosis. A study of 115 consecutive UTUC patients reported that 13.9% screened positive for potential Lynch syndrome using the Amsterdam II criteria and 5.2% had confirmed Lynch syndrome [61]. Another UTUC-specific study has suggested that an age < 60 at initial diagnosis and a personal history of any other Lynch-related malignancy could both be associated with an increased risk of Lynch syndrome in these patients [62]. A simplified screening tool for UTUC patients has been proposed that incorporates the aforementioned two factors together with two additional criteria derived from the Amsterdam II criteria, being one first-degree relative with a Lynch-related cancer diagnosed before the age of 50, and two first-degree relatives with Lynch-related cancer regardless of age [63]. Using this simplified screening tool, the proportion of UTUC patients with a suspicion of Lynch-related disease could be more than 20% [63]. Importantly, patients with UTUC who are identified as being at high risk for Lynch syndrome based on clinical criteria should undergo germline DNA sequencing and family counselling [64,65] (Figure 3.1). Nonetheless, given the limited diagnostic performance of clinical criteria, UTUC patients without suspicion for genetic predisposing factors could be tested for microsatellite instability (MSI) or dMMR using PCR or immunochemistry on tumour specimens, respectively [57,66-70]. Figure 3.1: Selection of patients with upper urinary tract urothelial carcinoma for Lynch syndrome screening during the first medical interview *These patients may benefit from MMR deficiency screening using PCR or IHC. A positive result should prompt subsequent testing for germline DNA sequencing mutations. DNA = deoxyribonucleic acid; IHC = immunohistochemistry; MMR = mismatch repair; Mismatch repair genes = MSH2, MSH6, MLH1 and PMS2; PCR = polymerase chain reaction; UTUC = upper urinary tract urothelial carcinoma. Differences in exposure and susceptibility to carcinogens such as smoking may explain why patients with similar predisposing genetic mutations vary in their progression to overt disease. Some genetic polymorphisms are associated with an increased risk of cancer or more rapid disease progression that introduces variability in the inter-individual susceptibility to the risk factors mentioned previously. So far, two UTUC-specific polymorphisms have been reported [71]. Upper urinary tract UCs may also share some molecular pathways with BC [34]. However, in a large population-based case control study, familial clustering independent of smoking-related behaviours was only observed in BC patients, not in UTUC patients [72].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-2-3-history-of-bladder-cancer",
+      "title": "3.2.3. History of bladder cancer",
+      "level": 4,
+      "text": "A history of BC is associated with a higher risk of developing UTUC (see section 3.1). Patients requiring ureteral stenting at the time of transurethral resection of the bladder, including prior to RC, have been shown to have a higher risk for upper tract recurrence [73,74].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-histology-and-classification",
+      "title": "3.3. Histology and classification",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-1-histological-types",
+      "title": "3.3.1. Histological types",
+      "level": 4,
+      "text": "Upper urinary tract tumours are almost always UCs, with pure non-urothelial histology being rare [75,76]. However, histological subtypes or divergent differentiation are present in approximately 14% of UTUCs treated with radical nephroureterectomy (RNU) [77]. Pure squamous cell carcinoma of the urinary tract is often assumed to be associated with chronic inflammatory diseases and infections arising from urolithiasis [78,79]. Urothelial carcinoma with divergent squamous differentiation (i.e. squamous subtype) is the most prevalent subtype. Squamous subtype was observed in 63% of all individuals with histological subtypes or divergent differentiation, and this subtype presents in approximately 13% of high-grade cases [77,78]. Upper urinary tract UCs with different subtypes are high-grade and have a worse prognosis compared to pure UC [80-82]. Other subtypes are rare; inverted growths can be observed and can be difficult for staging [82-84]. Collecting duct carcinomas, which may seem to share similar characteristics with UCs, display a unique transcriptomic signature similar to renal cancer, with a putative cell of origin in the distal convoluted tubules. Therefore, collecting duct carcinomas are considered as renal tumours [85].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-4-molecular-background-of-upper-urinary-tract-urothelial-carcinoma",
+      "title": "3.4. Molecular background of upper urinary tract urothelial carcinoma",
+      "level": 3,
+      "text": "A number of studies focussing on molecular classification have been able to demonstrate genetically distinct groups of UTUC by evaluating DNA, ribonucleic acid (RNA) and protein expression. The most common genomic alterations included FGFR 3, chromatin remodelling genes (i.e. KMT2D and KDM6A ), TP53/MDM2 and other typical tumour suppressors/oncogenes, such as CDKN2A or RAS [86-89]. It has also been shown that UTUC has a T-cell depleted immune contexture and activated FGFR 3 signalling [90]. Different mutational molecular variants with different gene expression, tumour location and outcome have been identified [89,91]. Currently, testing for FGFR 3 alterations in the metastatic setting is the only relevant molecular background predicting response to erdafitinib treatment. Evidence suggests that FGFR 3 expression in UTUC provides prognostic value. High FGFR 3 expression is linked to an immune cold phenotype and may be linked to favourable prognosis and differential response to immunotherapy [90,92].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-5-summary-of-evidence-and-recommendations-for-epidemiology-aetiology-and-histology",
+      "title": "3.5. Summary of evidence and recommendations for epidemiology, aetiology and histology",
+      "level": 3,
+      "text": "Summary of evidence LE Aristolochic acid and smoking exposure increases the risk for UTUC. 2a Patients with Lynch syndrome are at risk for UTUC. 2a Recommendations Strength rating Evaluate patient and family history to screen patients for Lynch syndrome using modified Amsterdam II criteria. Strong Perform germline deoxyribonucleic acid sequencing in patients with clinical suspicion of hereditary upper urinary tract urothelial carcinomas (UTUC). Strong Offer testing for mismatch repair proteins or microsatellite instability in patients without clinical suspicion of hereditary UTUC. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Aristolochic acid and smoking exposure increases the risk for UTUC.",
+              "2a"
+            ],
+            [
+              "Patients with Lynch syndrome are at risk for UTUC.",
+              "2a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Evaluate patient and family history to screen patients for Lynch syndrome using modified Amsterdam II criteria.",
+              "Strong"
+            ],
+            [
+              "Perform germline deoxyribonucleic acid sequencing in patients with clinical suspicion of hereditary upper urinary tract urothelial carcinomas (UTUC).",
+              "Strong"
+            ],
+            [
+              "Offer testing for mismatch repair proteins or microsatellite instability in patients without clinical suspicion of hereditary UTUC.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 2
+}

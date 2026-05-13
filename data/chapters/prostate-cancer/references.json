@@ -1,0 +1,834 @@
+{
+  "guideline": "prostate-cancer",
+  "chapter": "references",
+  "url": "https://uroweb.org/guidelines/prostate-cancer/chapter/references",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Future goals",
+      "anchor": "#2-3-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AND AETIOLOGY",
+      "anchor": "#3-epidemiology-and-aetiology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology",
+      "anchor": "#3-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Aetiology and risk factors for prostate cancer",
+      "anchor": "#3-2-aetiology-and-risk-factors-for-prostate-cancer"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Hereditary risk factors for PCa",
+      "anchor": "#3-2-1-hereditary-risk-factors-for-pca"
+    },
+    {
+      "level": 4,
+      "text": "3.2.2. Non-hereditary risk factors for PCa",
+      "anchor": "#3-2-2-non-hereditary-risk-factors-for-pca"
+    },
+    {
+      "level": 4,
+      "text": "3.2.3. Summary of evidence for epidemiology and aetiology",
+      "anchor": "#3-2-3-summary-of-evidence-for-epidemiology-and-aetiology"
+    },
+    {
+      "level": 2,
+      "text": "4. CLASSIFICATION AND STAGING SYSTEMS",
+      "anchor": "#4-classification-and-staging-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Classification",
+      "anchor": "#4-1-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Gleason score and International Society of Urological Pathology 2019 grade",
+      "anchor": "#4-2-gleason-score-and-international-society-of-urological-pathology-2019-grade"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Clinically significant prostate cancer",
+      "anchor": "#4-3-clinically-significant-prostate-cancer"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Prognostic relevance of stratification",
+      "anchor": "#4-4-prognostic-relevance-of-stratification"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Recommendations for classification and staging systems",
+      "anchor": "#4-5-recommendations-for-classification-and-staging-systems"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION",
+      "anchor": "#5-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Individual early detection and screening",
+      "anchor": "#5-1-individual-early-detection-and-screening"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Prostate-specific antigen (PSA)",
+      "anchor": "#5-1-1-prostate-specific-antigen-psa"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Clinical symptoms",
+      "anchor": "#5-1-2-clinical-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "5.1.3. Individual early detection",
+      "anchor": "#5-1-3-individual-early-detection"
+    },
+    {
+      "level": 4,
+      "text": "5.1.4. Population-based screening",
+      "anchor": "#5-1-4-population-based-screening"
+    },
+    {
+      "level": 4,
+      "text": "5.1.5. Screening in patients with BRCA mutations",
+      "anchor": "#5-1-5-screening-in-patients-with-brca-mutations"
+    },
+    {
+      "level": 4,
+      "text": "5.1.6. Genetic testing for inherited prostate cancer",
+      "anchor": "#5-1-6-genetic-testing-for-inherited-prostate-cancer"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Diagnostic tools",
+      "anchor": "#5-2-diagnostic-tools"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Digital rectal examination",
+      "anchor": "#5-2-1-digital-rectal-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Prostate-specific antigen",
+      "anchor": "#5-2-2-prostate-specific-antigen"
+    },
+    {
+      "level": 4,
+      "text": "5.2.3. Prostate-specific antigen density",
+      "anchor": "#5-2-3-prostate-specific-antigen-density"
+    },
+    {
+      "level": 4,
+      "text": "5.2.4. Magnetic resonance imaging",
+      "anchor": "#5-2-4-magnetic-resonance-imaging"
+    },
+    {
+      "level": 4,
+      "text": "5.2.5. Ultrasound-based techniques",
+      "anchor": "#5-2-5-ultrasound-based-techniques"
+    },
+    {
+      "level": 4,
+      "text": "5.2.7. Blood and urine biomarkers",
+      "anchor": "#5-2-7-blood-and-urine-biomarkers"
+    },
+    {
+      "level": 4,
+      "text": "5.2.8. Recommendations for individual early detection and germline testing*",
+      "anchor": "#5-2-8-recommendations-for-individual-early-detection-and-germline-testing"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Pathology of prostate needle biopsies",
+      "anchor": "#5-3-pathology-of-prostate-needle-biopsies"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Processing",
+      "anchor": "#5-3-1-processing"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Microscopy and reporting",
+      "anchor": "#5-3-2-microscopy-and-reporting"
+    },
+    {
+      "level": 4,
+      "text": "5.3.3. Tissue-based prognostic biomarker testing",
+      "anchor": "#5-3-3-tissue-based-prognostic-biomarker-testing"
+    },
+    {
+      "level": 4,
+      "text": "5.3.4. Tissue samples for homologous recombination repair (HRR) testing",
+      "anchor": "#5-3-4-tissue-samples-for-homologous-recombination-repair-hrr-testing"
+    },
+    {
+      "level": 4,
+      "text": "5.3.5. Histopathology of radical prostatectomy specimens",
+      "anchor": "#5-3-5-histopathology-of-radical-prostatectomy-specimens"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Biopsy indication",
+      "anchor": "#5-4-biopsy-indication"
+    },
+    {
+      "level": 4,
+      "text": "5.4.1. Risk assessment before MRI and biopsy",
+      "anchor": "#5-4-1-risk-assessment-before-mri-and-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.4.2. MRI-based indication for biopsy",
+      "anchor": "#5-4-2-mri-based-indication-for-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.4.3. Micro-US-based indication for biopsy",
+      "anchor": "#5-4-3-micro-us-based-indication-for-biopsy"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Biopsy strategy",
+      "anchor": "#5-5-biopsy-strategy"
+    },
+    {
+      "level": 4,
+      "text": "5.5.1. Systematic biopsy strategy",
+      "anchor": "#5-5-1-systematic-biopsy-strategy"
+    },
+    {
+      "level": 4,
+      "text": "5.5.2. Targeted biopsy strategy",
+      "anchor": "#5-5-2-targeted-biopsy-strategy"
+    },
+    {
+      "level": 4,
+      "text": "5.5.3. Targeted biopsy versus systematic biopsy",
+      "anchor": "#5-5-3-targeted-biopsy-versus-systematic-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.5.4. Perilesional biopsy",
+      "anchor": "#5-5-4-perilesional-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.5.5. MRI-targeted biopsy reproducibility",
+      "anchor": "#5-5-5-mri-targeted-biopsy-reproducibility"
+    },
+    {
+      "level": 4,
+      "text": "5.5.6. MRI-targeted biopsy in younger men (45-55 years)",
+      "anchor": "#5-5-6-mri-targeted-biopsy-in-younger-men-45-55-years"
+    },
+    {
+      "level": 4,
+      "text": "5.5.7. Cancer grade shift",
+      "anchor": "#5-5-7-cancer-grade-shift"
+    },
+    {
+      "level": 4,
+      "text": "5.5.8. Recommendations for MRI imaging in biopsy indication and strategy",
+      "anchor": "#5-5-8-recommendations-for-mri-imaging-in-biopsy-indication-and-strategy"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Biopsy approach",
+      "anchor": "#5-6-biopsy-approach"
+    },
+    {
+      "level": 4,
+      "text": "5.6.1. MRI-directed transrectal vs transperineal US-guided biopsy",
+      "anchor": "#5-6-1-mri-directed-transrectal-vs-transperineal-us-guided-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.6.2. Local anaesthesia prior to biopsy",
+      "anchor": "#5-6-2-local-anaesthesia-prior-to-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.6.3. Infection rate after transperineal and transrectal prostate biopsy",
+      "anchor": "#5-6-3-infection-rate-after-transperineal-and-transrectal-prostate-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.6.4. Summary of evidence and recommendations for performing prostate biopsy(in line with the EAU Urological Infections Guidelines Panel)",
+      "anchor": "#5-6-4-summary-of-evidence-and-recommendations-for-performing-prostate-biopsyin-line-with-the-eau-urological-infections-guidelines-panel"
+    },
+    {
+      "level": 4,
+      "text": "5.6.5. Complications",
+      "anchor": "#5-6-5-complications"
+    },
+    {
+      "level": 3,
+      "text": "5.7. What diagnostic pathway in clinical practice?",
+      "anchor": "#5-7-what-diagnostic-pathway-in-clinical-practice"
+    },
+    {
+      "level": 4,
+      "text": "5.7.1. Repeat biopsy after negative biopsy",
+      "anchor": "#5-7-1-repeat-biopsy-after-negative-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.7.2. Saturation biopsy",
+      "anchor": "#5-7-2-saturation-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.7.3. Seminal vesicle biopsy",
+      "anchor": "#5-7-3-seminal-vesicle-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.7.4. Transition zone biopsy",
+      "anchor": "#5-7-4-transition-zone-biopsy"
+    },
+    {
+      "level": 3,
+      "text": "5.8. Diagnosis - Clinical Staging",
+      "anchor": "#5-8-diagnosis---clinical-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.8.1. T-staging",
+      "anchor": "#5-8-1-t-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.8.2. N staging",
+      "anchor": "#5-8-2-n-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.8.3. M staging",
+      "anchor": "#5-8-3-m-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.8.5. Recommendations for staging of prostate cancer",
+      "anchor": "#5-8-5-recommendations-for-staging-of-prostate-cancer"
+    },
+    {
+      "level": 2,
+      "text": "6. TREATMENT",
+      "anchor": "#6-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Estimating life expectancy and health status",
+      "anchor": "#6-1-estimating-life-expectancy-and-health-status"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Introduction",
+      "anchor": "#6-1-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Life expectancy",
+      "anchor": "#6-1-2-life-expectancy"
+    },
+    {
+      "level": 4,
+      "text": "6.1.3. Health status screening",
+      "anchor": "#6-1-3-health-status-screening"
+    },
+    {
+      "level": 4,
+      "text": "6.1.4. Conclusion",
+      "anchor": "#6-1-4-conclusion"
+    },
+    {
+      "level": 4,
+      "text": "6.1.5. Recommendations for evaluating health status and life expectancy",
+      "anchor": "#6-1-5-recommendations-for-evaluating-health-status-and-life-expectancy"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Treatment modalities",
+      "anchor": "#6-2-treatment-modalities"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Expectant management strategies",
+      "anchor": "#6-2-1-expectant-management-strategies"
+    },
+    {
+      "level": 4,
+      "text": "6.2.2. Radical prostatectomy",
+      "anchor": "#6-2-2-radical-prostatectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.2.3. Radiotherapy",
+      "anchor": "#6-2-3-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.2.4. Investigational therapies",
+      "anchor": "#6-2-4-investigational-therapies"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Management by disease stages",
+      "anchor": "#6-3-management-by-disease-stages"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. Management of low-risk disease",
+      "anchor": "#6-3-1-management-of-low-risk-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Management of intermediate-risk disease",
+      "anchor": "#6-3-2-management-of-intermediate-risk-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.3.3. Management of high-risk localised disease",
+      "anchor": "#6-3-3-management-of-high-risk-localised-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.3.4. Management of locally advanced PCa",
+      "anchor": "#6-3-4-management-of-locally-advanced-pca"
+    },
+    {
+      "level": 4,
+      "text": "6.3.5. Adjuvant treatment after radical prostatectomy",
+      "anchor": "#6-3-5-adjuvant-treatment-after-radical-prostatectomy"
+    },
+    {
+      "level": 4,
+      "text": "6.3.6. Persistent PSA after radical prostatectomy",
+      "anchor": "#6-3-6-persistent-psa-after-radical-prostatectomy"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Management of PSA-only recurrence after treatment with curative intent",
+      "anchor": "#6-4-management-of-psa-only-recurrence-after-treatment-with-curative-intent"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Background",
+      "anchor": "#6-4-1-background"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Controversies in the definitions of clinically relevant PSA relapse",
+      "anchor": "#6-4-2-controversies-in-the-definitions-of-clinically-relevant-psa-relapse"
+    },
+    {
+      "level": 4,
+      "text": "6.4.3. Natural history of biochemical recurrence",
+      "anchor": "#6-4-3-natural-history-of-biochemical-recurrence"
+    },
+    {
+      "level": 4,
+      "text": "6.4.4. The role of imaging in PSA-only recurrence",
+      "anchor": "#6-4-4-the-role-of-imaging-in-psa-only-recurrence"
+    },
+    {
+      "level": 4,
+      "text": "6.4.5. Treatment of PSA-only recurrences",
+      "anchor": "#6-4-5-treatment-of-psa-only-recurrences"
+    },
+    {
+      "level": 4,
+      "text": "6.4.6. Hormonal therapy for relapsing patients",
+      "anchor": "#6-4-6-hormonal-therapy-for-relapsing-patients"
+    },
+    {
+      "level": 4,
+      "text": "6.4.7. Recommendations for second-line therapy after treatment with curative intent",
+      "anchor": "#6-4-7-recommendations-for-second-line-therapy-after-treatment-with-curative-intent"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Systemic treatments for prostate cancer",
+      "anchor": "#6-5-systemic-treatments-for-prostate-cancer"
+    },
+    {
+      "level": 4,
+      "text": "6.5.1. Hormonal therapy",
+      "anchor": "#6-5-1-hormonal-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.5.2. Cytotoxic drug treatment",
+      "anchor": "#6-5-2-cytotoxic-drug-treatment"
+    },
+    {
+      "level": 4,
+      "text": "6.5.3. Nonhormonal noncytotoxic drug treatments",
+      "anchor": "#6-5-3-nonhormonal-noncytotoxic-drug-treatments"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Management of metastatic prostate cancer",
+      "anchor": "#6-6-management-of-metastatic-prostate-cancer"
+    },
+    {
+      "level": 4,
+      "text": "6.6.1. Introduction",
+      "anchor": "#6-6-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "6.6.2. Molecular testing",
+      "anchor": "#6-6-2-molecular-testing"
+    },
+    {
+      "level": 4,
+      "text": "6.6.3. Prognostic and predictive factors",
+      "anchor": "#6-6-3-prognostic-and-predictive-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.6.4. First-line hormonal treatment",
+      "anchor": "#6-6-4-first-line-hormonal-treatment"
+    },
+    {
+      "level": 4,
+      "text": "6.6.5. Combination therapies",
+      "anchor": "#6-6-5-combination-therapies"
+    },
+    {
+      "level": 4,
+      "text": "6.6.6. Treatment selection and patient selection",
+      "anchor": "#6-6-6-treatment-selection-and-patient-selection"
+    },
+    {
+      "level": 4,
+      "text": "6.6.7. Treatment of the primary tumour in newly diagnosed metastatic disease",
+      "anchor": "#6-6-7-treatment-of-the-primary-tumour-in-newly-diagnosed-metastatic-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.6.8. Metastasis-directed therapy in M1 patients",
+      "anchor": "#6-6-8-metastasis-directed-therapy-in-m1-patients"
+    },
+    {
+      "level": 3,
+      "text": "6.7. Treatment: Castration-resistant PCa (CRPC)",
+      "anchor": "#6-7-treatment-castration-resistant-pca-crpc"
+    },
+    {
+      "level": 4,
+      "text": "6.7.1. Definition of CRPC",
+      "anchor": "#6-7-1-definition-of-crpc"
+    },
+    {
+      "level": 4,
+      "text": "6.7.2. Management of mCRPC - general aspects",
+      "anchor": "#6-7-2-management-of-mcrpc---general-aspects"
+    },
+    {
+      "level": 4,
+      "text": "6.7.3. Treatment decisions and sequence of available options",
+      "anchor": "#6-7-3-treatment-decisions-and-sequence-of-available-options"
+    },
+    {
+      "level": 4,
+      "text": "6.7.4. Non-metastatic CRPC",
+      "anchor": "#6-7-4-non-metastatic-crpc"
+    },
+    {
+      "level": 4,
+      "text": "6.7.5. Metastatic CRPC",
+      "anchor": "#6-7-5-metastatic-crpc"
+    },
+    {
+      "level": 4,
+      "text": "6.7.6. First-line treatment of metastatic CRPC",
+      "anchor": "#6-7-6-first-line-treatment-of-metastatic-crpc"
+    },
+    {
+      "level": 4,
+      "text": "6.7.7. Second-line treatment for mCRPC",
+      "anchor": "#6-7-7-second-line-treatment-for-mcrpc"
+    },
+    {
+      "level": 4,
+      "text": "6.7.8. Treatment after docetaxel and one line of ARPI for mCRPC",
+      "anchor": "#6-7-8-treatment-after-docetaxel-and-one-line-of-arpi-for-mcrpc"
+    },
+    {
+      "level": 4,
+      "text": "6.7.9. Treatment emergent neuroendocrine PCa and neuroendocrine subtype",
+      "anchor": "#6-7-9-treatment-emergent-neuroendocrine-pca-and-neuroendocrine-subtype"
+    },
+    {
+      "level": 4,
+      "text": "6.7.10. Monitoring of treatment",
+      "anchor": "#6-7-10-monitoring-of-treatment"
+    },
+    {
+      "level": 4,
+      "text": "6.7.11. When to change treatment",
+      "anchor": "#6-7-11-when-to-change-treatment"
+    },
+    {
+      "level": 4,
+      "text": "6.7.12. Symptomatic management in metastatic castration-resistant prostate cancer",
+      "anchor": "#6-7-12-symptomatic-management-in-metastatic-castration-resistant-prostate-cancer"
+    },
+    {
+      "level": 4,
+      "text": "6.7.13. Summary of evidence and recommendations for life-prolonging treatments of castrate-resistant disease",
+      "anchor": "#6-7-13-summary-of-evidence-and-recommendations-for-life-prolonging-treatments-of-castrate-resistant-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.7.14. Recommendations for systemic treatments of castrate-resistant disease",
+      "anchor": "#6-7-14-recommendations-for-systemic-treatments-of-castrate-resistant-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.7.15. Recommendation for non-metastatic castrate-resistant disease",
+      "anchor": "#6-7-15-recommendation-for-non-metastatic-castrate-resistant-disease"
+    },
+    {
+      "level": 2,
+      "text": "7. FOLLOW UP",
+      "anchor": "#7-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Watchful waiting",
+      "anchor": "#7-1-watchful-waiting"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Active surveillance strategy",
+      "anchor": "#7-2-active-surveillance-strategy"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Follow-up: After local treatment with curative intent",
+      "anchor": "#7-3-follow-up-after-local-treatment-with-curative-intent"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Definition",
+      "anchor": "#7-3-1-definition"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Why follow-up?",
+      "anchor": "#7-3-2-why-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. How to follow up?",
+      "anchor": "#7-3-3-how-to-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "7.3.4. How long to follow-up?",
+      "anchor": "#7-3-4-how-long-to-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "7.3.5. Summary of evidence and recommendations for follow-up after treatment with curative intent",
+      "anchor": "#7-3-5-summary-of-evidence-and-recommendations-for-follow-up-after-treatment-with-curative-intent"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Follow-up: During first line hormonal treatment (androgen sensitive period)",
+      "anchor": "#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period"
+    },
+    {
+      "level": 4,
+      "text": "7.4.1. Introduction",
+      "anchor": "#7-4-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Purpose of follow-up",
+      "anchor": "#7-4-2-purpose-of-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "7.4.3. General follow-up of men on hormonal therapy",
+      "anchor": "#7-4-3-general-follow-up-of-men-on-hormonal-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.4.4. Follow-up of patients on ADT (non-metastatic mHSPCa)",
+      "anchor": "#7-4-4-follow-up-of-patients-on-adt-non-metastatic-mhspca"
+    },
+    {
+      "level": 4,
+      "text": "7.4.5. Methods for follow-up in men under ADT for hormone-sensitive metastatic PCa",
+      "anchor": "#7-4-5-methods-for-follow-up-in-men-under-adt-for-hormone-sensitive-metastatic-pca"
+    },
+    {
+      "level": 4,
+      "text": "7.4.6. Recommendations for follow-up during hormonal treatment",
+      "anchor": "#7-4-6-recommendations-for-follow-up-during-hormonal-treatment"
+    },
+    {
+      "level": 2,
+      "text": "8. QUALITY OF LIFE OUTCOMES IN PROSTATE CANCER",
+      "anchor": "#8-quality-of-life-outcomes-in-prostate-cancer"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Introduction",
+      "anchor": "#8-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Adverse effects of PCa therapies",
+      "anchor": "#8-2-adverse-effects-of-pca-therapies"
+    },
+    {
+      "level": 4,
+      "text": "8.2.1. Active surveillance",
+      "anchor": "#8-2-1-active-surveillance"
+    },
+    {
+      "level": 4,
+      "text": "8.2.2. Surgery",
+      "anchor": "#8-2-2-surgery"
+    },
+    {
+      "level": 4,
+      "text": "8.2.3. Radiotherapy",
+      "anchor": "#8-2-3-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "8.2.4. Local primary whole-gland treatments other than surgery or radiotherapy",
+      "anchor": "#8-2-4-local-primary-whole-gland-treatments-other-than-surgery-or-radiotherapy"
+    },
+    {
+      "level": 4,
+      "text": "8.2.5. Androgen-deprivation therapy",
+      "anchor": "#8-2-5-androgen-deprivation-therapy"
+    },
+    {
+      "level": 4,
+      "text": "8.2.6. Osteonecrosis during bisphosphonates or denosumab",
+      "anchor": "#8-2-6-osteonecrosis-during-bisphosphonates-or-denosumab"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Overall quality of life in men with PCa",
+      "anchor": "#8-3-overall-quality-of-life-in-men-with-pca"
+    },
+    {
+      "level": 4,
+      "text": "8.3.1. Long-term (> twelve months) quality of life outcomes in men with localised disease",
+      "anchor": "#8-3-1-long-term--twelve-months-quality-of-life-outcomes-in-men-with-localised-disease"
+    },
+    {
+      "level": 4,
+      "text": "8.3.2. Improving quality of life in men who have been diagnosed with PCa",
+      "anchor": "#8-3-2-improving-quality-of-life-in-men-who-have-been-diagnosed-with-pca"
+    },
+    {
+      "level": 2,
+      "text": "9. REFERENCES",
+      "anchor": "#9-references"
+    },
+    {
+      "level": 2,
+      "text": "10. CONFLICT OF INTEREST",
+      "anchor": "#10-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "11. CITATION INFORMATION",
+      "anchor": "#11-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "12. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#12-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#prostate-cancer",
+      "title": "Prostate Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 9. References Introduction Methods Epidemiology And Aetiology Classification And Staging Systems Diagnostic Evaluation Treatment Follow Up Quality Of Life Outcomes In Prostate Cancer References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#9-references",
+      "title": "9. REFERENCES",
+      "level": 2,
+      "text": "1.Phillips, B. Oxford Centre for Evidence-based Medicine Levels of Evidence. Updated by Jeremy Howick March 2009. 1998.  https://www.cebm.net/wp-content/uploads/2014/06/CEBM-Levels-of-Evidence.pdf 2.Guyatt, G.H., et al. Going from evidence to recommendations. BMJ, 2008. 336: 1049.  https://www.ncbi.nlm.nih.gov/pubmed/18467413 3.Culp, M.B., et al. Recent Global Patterns in Prostate Cancer Incidence and Mortality Rates. Eur Urol, 2020. 77: 38.  https://www.ncbi.nlm.nih.gov/pubmed/31493960 4.Bray, F., et al. Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin, 2024. 74: 229.  https://www.ncbi.nlm.nih.gov/pubmed/38572751 5.Bergengren, O., et al. 2022 Update on Prostate Cancer Epidemiology and Risk Factors-A Systematic Review. Eur Urol, 2023. 84: 191.  https://www.ncbi.nlm.nih.gov/pubmed/37202314 6.Union, E. Prostate cancer burden in EU-27. 2021.  https://ecis.jrc.ec.europa.eu 7.Bell, K.J., et al. Prevalence of incidental prostate cancer: A systematic review of autopsy studies. Int J Cancer, 2015. 137: 1749.  https://www.ncbi.nlm.nih.gov/pubmed/25821151 8.Haas, G.P., et al. The worldwide epidemiology of prostate cancer: perspectives from autopsy studies. Can J Urol, 2008. 15: 3866.  https://www.ncbi.nlm.nih.gov/pubmed/18304396 9.Fleshner, K., et al. The effect of the USPSTF PSA screening recommendation on prostate cancer incidence patterns in the USA. Nat Rev Urol, 2017. 14: 26.  https://www.ncbi.nlm.nih.gov/pubmed/27995937 10.Kimura, T., et al. Global Trends of Latent Prostate Cancer in Autopsy Studies. Cancers (Basel), 2021. 13.  https://www.ncbi.nlm.nih.gov/pubmed/33478075 11.James, N.D., et al. The Lancet Commission on prostate cancer: planning for the surge in cases. Lancet, 2024. 403: 1683.  https://www.ncbi.nlm.nih.gov/pubmed/38583453 12.Organization., I.A.f.R.o.C.I.W.H. Data visualization tools for exploring the global cancer burden in 2020. 2020. 2021.  https://gco.iarc.fr/today/home 13.Leitzmann, M.F., et al. Risk factors for the onset of prostatic cancer: age, location, and behavioral correlates. Clin Epidemiol, 2012. 4: 1.  https://www.ncbi.nlm.nih.gov/pubmed/22291478 14.Cook, L.S., et al. Incidence of adenocarcinoma of the prostate in Asian immigrants to the United States and their descendants. J Urol, 1999. 161: 152.  https://www.ncbi.nlm.nih.gov/pubmed/10037388 15.Nyame, Y.A., et al. Deconstructing, Addressing, and Eliminating Racial and Ethnic Inequities in Prostate Cancer Care. Eur Urol, 2022. 82: 341.  https://www.ncbi.nlm.nih.gov/pubmed/35367082 16.Karami, S., et al. Earlier age at diagnosis: another dimension in cancer disparity? Cancer Detect Prev, 2007. 31: 29.  https://www.ncbi.nlm.nih.gov/pubmed/17303347 17.Sanchez-Ortiz, R.F., et al. African-American men with nonpalpable prostate cancer exhibit greater tumor volume than matched white men. Cancer, 2006. 107: 75.  https://www.ncbi.nlm.nih.gov/pubmed/16736511 18.Chen, F., et al. Evidence of Novel Susceptibility Variants for Prostate Cancer and a Multiancestry Polygenic Risk Score Associated with Aggressive Disease in Men of African Ancestry. Eur Urol, 2023. 84: 13.  https://www.ncbi.nlm.nih.gov/pubmed/36872133 19.Freedland, S.J., et al. The impact of race on survival in metastatic prostate cancer: a systematic literature review. Prostate Cancer Prostatic Dis, 2023. 26: 461.  https://www.ncbi.nlm.nih.gov/pubmed/37592001 20.Patki, S., et al. A Systematic Review of Patient Race, Ethnicity, Socioeconomic Status, and Educational Attainment in Prostate Cancer Treatment Randomised Trials-Is the Evidence Base Applicable to the General Patient Population? Eur Urol Open Sci, 2023. 54: 56.  https://www.ncbi.nlm.nih.gov/pubmed/37545851 21.Mahal, B.A., et al. Prostate Cancer Racial Disparities: A Systematic Review by the Prostate Cancer Foundation Panel. Eur Urol Oncol, 2022. 5: 18.  https://www.ncbi.nlm.nih.gov/pubmed/34446369 22.Ma, T.M., et al. Race-dependent association of clinical trial participation with improved outcomes for high-risk prostate cancer patients treated in the modern era. Prostate Cancer Prostatic Dis, 2023. 26: 625.  https://www.ncbi.nlm.nih.gov/pubmed/36966268 23.Barlow, M., et al. Ethnic differences in prostate-specific antigen levels in men without prostate cancer: a systematic review. Prostate Cancer Prostatic Dis, 2023. 26: 249.  https://www.ncbi.nlm.nih.gov/pubmed/36456698 24.Bratt, O., et al. Family History and Probability of Prostate Cancer, Differentiated by Risk Category: A Nationwide Population-Based Study. J Natl Cancer Inst, 2016. 108.  https://www.ncbi.nlm.nih.gov/pubmed/27400876 25.Beebe-Dimmer, J.L., et al. Risk of Prostate Cancer Associated With Familial and Hereditary Cancer Syndromes. J Clin Oncol, 2020. 38: 1807.  https://www.ncbi.nlm.nih.gov/pubmed/32208047 26.Brook, M.N., et al. Family History of Prostate Cancer and Survival Outcomes in the UK Genetic Prostate Cancer Study. Eur Urol, 2023. 83: 257.  https://www.ncbi.nlm.nih.go",
+      "tables": []
+    }
+  ],
+  "tables_count": 0
+}

@@ -1,0 +1,2009 @@
+{
+  "guideline": "paediatric-urology",
+  "chapter": "urinary-stone-disease",
+  "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/urinary-stone-disease",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim",
+      "anchor": "#1-1-aim"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Summary of changes",
+      "anchor": "#1-5-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Introduction",
+      "anchor": "#2-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 2,
+      "text": "3. PHIMOSIS AND OTHER ABNORMALITIES OF THE PENILE SKIN",
+      "anchor": "#3-phimosis-and-other-abnormalities-of-the-penile-skin"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Terminology, epidemiology and pathophysiology",
+      "anchor": "#3-1-terminology-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Classification and diagnostic evaluation",
+      "anchor": "#3-2-classification-and-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Management",
+      "anchor": "#3-3-management"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Complications",
+      "anchor": "#3-4-complications"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Follow-up",
+      "anchor": "#3-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "3.6. Summary of evidence and recommendations for the management of phimosis",
+      "anchor": "#3-6-summary-of-evidence-and-recommendations-for-the-management-of-phimosis"
+    },
+    {
+      "level": 2,
+      "text": "4. MANAGEMENT OF UNDESCENDED TESTES",
+      "anchor": "#4-management-of-undescended-testes"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Background",
+      "anchor": "#4-1-background"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Classification",
+      "anchor": "#4-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. Palpable testes",
+      "anchor": "#4-2-1-palpable-testes"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. Nonpalpable testes",
+      "anchor": "#4-2-2-nonpalpable-testes"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Diagnostic evaluation",
+      "anchor": "#4-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. History",
+      "anchor": "#4-3-1-history"
+    },
+    {
+      "level": 4,
+      "text": "4.3.2. Physical examination",
+      "anchor": "#4-3-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "4.3.3. Imaging studies",
+      "anchor": "#4-3-3-imaging-studies"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Management",
+      "anchor": "#4-4-management"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Medical therapy",
+      "anchor": "#4-4-1-medical-therapy"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Surgical therapy",
+      "anchor": "#4-4-2-surgical-therapy"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Undescended testes and fertility",
+      "anchor": "#4-5-undescended-testes-and-fertility"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Undescended testes and malignancy",
+      "anchor": "#4-6-undescended-testes-and-malignancy"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Summary of evidence and recommendations for the management of undescended testes",
+      "anchor": "#4-7-summary-of-evidence-and-recommendations-for-the-management-of-undescended-testes"
+    },
+    {
+      "level": 2,
+      "text": "5. TESTICULAR TUMOURS IN PREPUBERTAL BOYS",
+      "anchor": "#5-testicular-tumours-in-prepubertal-boys"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Epidemiology and pathophysiology",
+      "anchor": "#5-1-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Clinical presentation",
+      "anchor": "#5-2-clinical-presentation"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Evaluation",
+      "anchor": "#5-3-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Tumour entities in prepubertal boys",
+      "anchor": "#5-5-tumour-entities-in-prepubertal-boys"
+    },
+    {
+      "level": 4,
+      "text": "5.5.1. Germ cell tumours",
+      "anchor": "#5-5-1-germ-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "5.5.2. Gonadal stromal tumours",
+      "anchor": "#5-5-2-gonadal-stromal-tumours"
+    },
+    {
+      "level": 4,
+      "text": "5.5.3. Other tumours",
+      "anchor": "#5-5-3-other-tumours"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Follow-up",
+      "anchor": "#5-6-follow-up"
+    },
+    {
+      "level": 2,
+      "text": "6. FERTILITY PRESERVATION IN CHILDREN AND ADOLESCENTS",
+      "anchor": "#6-fertility-preservation-in-children-and-adolescents"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Ovarian tissue cryopreservation in prepubertal and adolescent girls",
+      "anchor": "#6-1-ovarian-tissue-cryopreservation-in-prepubertal-and-adolescent-girls"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Cryopreservation in prepubertal and adolescent boys",
+      "anchor": "#6-2-cryopreservation-in-prepubertal-and-adolescent-boys"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Summary of evidence and recommendations fertility preservation in children and adolescents",
+      "anchor": "#6-3-summary-of-evidence-and-recommendations-fertility-preservation-in-children-and-adolescents"
+    },
+    {
+      "level": 2,
+      "text": "7. HYDROCELE",
+      "anchor": "#7-hydrocele"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#7-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Diagnostic evaluation",
+      "anchor": "#7-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Management",
+      "anchor": "#7-3-management"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Summary of evidence and recommendations for the management of hydrocele",
+      "anchor": "#7-4-summary-of-evidence-and-recommendations-for-the-management-of-hydrocele"
+    },
+    {
+      "level": 2,
+      "text": "8. ACUTE SCROTUM",
+      "anchor": "#8-acute-scrotum"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#8-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Diagnostic evaluation",
+      "anchor": "#8-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Management",
+      "anchor": "#8-3-management"
+    },
+    {
+      "level": 4,
+      "text": "8.3.1. Epididymitis",
+      "anchor": "#8-3-1-epididymitis"
+    },
+    {
+      "level": 4,
+      "text": "8.3.2. Testicular torsion",
+      "anchor": "#8-3-2-testicular-torsion"
+    },
+    {
+      "level": 4,
+      "text": "8.3.3. Surgical treatment",
+      "anchor": "#8-3-3-surgical-treatment"
+    },
+    {
+      "level": 3,
+      "text": "8.4. Follow-up",
+      "anchor": "#8-4-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "8.4.1. Fertility",
+      "anchor": "#8-4-1-fertility"
+    },
+    {
+      "level": 4,
+      "text": "8.4.2. Subfertility",
+      "anchor": "#8-4-2-subfertility"
+    },
+    {
+      "level": 4,
+      "text": "8.4.3. Androgen levels",
+      "anchor": "#8-4-3-androgen-levels"
+    },
+    {
+      "level": 2,
+      "text": "9. HYPOSPADIAS",
+      "anchor": "#9-hypospadias"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Epidemiology, aetiology, and pathophysiology",
+      "anchor": "#9-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "9.1.1. Epidemiology",
+      "anchor": "#9-1-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Risk factors",
+      "anchor": "#9-2-risk-factors"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Classification systems",
+      "anchor": "#9-3-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "9.4. Diagnostic evaluation",
+      "anchor": "#9-4-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "9.5. Management",
+      "anchor": "#9-5-management"
+    },
+    {
+      "level": 4,
+      "text": "9.5.1. Indication for reconstruction and therapeutic objectives",
+      "anchor": "#9-5-1-indication-for-reconstruction-and-therapeutic-objectives"
+    },
+    {
+      "level": 4,
+      "text": "9.5.2. Preoperative hormonal treatment",
+      "anchor": "#9-5-2-preoperative-hormonal-treatment"
+    },
+    {
+      "level": 4,
+      "text": "9.5.3. Age at surgery",
+      "anchor": "#9-5-3-age-at-surgery"
+    },
+    {
+      "level": 4,
+      "text": "9.5.4. Penile curvature",
+      "anchor": "#9-5-4-penile-curvature"
+    },
+    {
+      "level": 4,
+      "text": "9.5.5. Urethral reconstruction",
+      "anchor": "#9-5-5-urethral-reconstruction"
+    },
+    {
+      "level": 4,
+      "text": "9.5.6. Redo hypospadias repairs",
+      "anchor": "#9-5-6-redo-hypospadias-repairs"
+    },
+    {
+      "level": 4,
+      "text": "9.5.7. Penile reconstruction following formation of the neo-urethra",
+      "anchor": "#9-5-7-penile-reconstruction-following-formation-of-the-neo-urethra"
+    },
+    {
+      "level": 4,
+      "text": "9.5.8. Urine drainage and wound dressing",
+      "anchor": "#9-5-8-urine-drainage-and-wound-dressing"
+    },
+    {
+      "level": 4,
+      "text": "9.5.9. Analgesia (regional blocks)",
+      "anchor": "#9-5-9-analgesia-regional-blocks"
+    },
+    {
+      "level": 3,
+      "text": "9.6. Outcomes and complications",
+      "anchor": "#9-6-outcomes-and-complications"
+    },
+    {
+      "level": 4,
+      "text": "9.6.1. Factors influencing outcomes",
+      "anchor": "#9-6-1-factors-influencing-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "9.6.2. Complications",
+      "anchor": "#9-6-2-complications"
+    },
+    {
+      "level": 3,
+      "text": "9.7. Long-term follow-up and transition",
+      "anchor": "#9-7-long-term-follow-up-and-transition"
+    },
+    {
+      "level": 4,
+      "text": "9.7.1. Voiding",
+      "anchor": "#9-7-1-voiding"
+    },
+    {
+      "level": 4,
+      "text": "9.7.2. Penile appearance",
+      "anchor": "#9-7-2-penile-appearance"
+    },
+    {
+      "level": 4,
+      "text": "9.7.3. Sexual function and fertility",
+      "anchor": "#9-7-3-sexual-function-and-fertility"
+    },
+    {
+      "level": 4,
+      "text": "9.7.4. Health-related quality of life",
+      "anchor": "#9-7-4-health-related-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "9.7.5. Transition",
+      "anchor": "#9-7-5-transition"
+    },
+    {
+      "level": 3,
+      "text": "9.8. Summary of evidence and recommendations for the management of hypospadias",
+      "anchor": "#9-8-summary-of-evidence-and-recommendations-for-the-management-of-hypospadias"
+    },
+    {
+      "level": 2,
+      "text": "10. CONGENITAL PENILE CURVATURE",
+      "anchor": "#10-congenital-penile-curvature"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#10-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Diagnostic evaluation",
+      "anchor": "#10-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Management",
+      "anchor": "#10-3-management"
+    },
+    {
+      "level": 3,
+      "text": "10.4. Summary of evidence and recommendations for the management of congenital penile curvature",
+      "anchor": "#10-4-summary-of-evidence-and-recommendations-for-the-management-of-congenital-penile-curvature"
+    },
+    {
+      "level": 2,
+      "text": "11. VARICOCELE IN CHILDREN AND ADOLESCENTS",
+      "anchor": "#11-varicocele-in-children-and-adolescents"
+    },
+    {
+      "level": 3,
+      "text": "11.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#11-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "11.2. Classification systems",
+      "anchor": "#11-2-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "11.3. Diagnostic evaluation",
+      "anchor": "#11-3-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "11.4. Management",
+      "anchor": "#11-4-management"
+    },
+    {
+      "level": 4,
+      "text": "11.4.1. Surgical management",
+      "anchor": "#11-4-1-surgical-management"
+    },
+    {
+      "level": 4,
+      "text": "11.4.2. Radiological management",
+      "anchor": "#11-4-2-radiological-management"
+    },
+    {
+      "level": 3,
+      "text": "11.5. Summary of evidence and recommendations for the management of varicocele",
+      "anchor": "#11-5-summary-of-evidence-and-recommendations-for-the-management-of-varicocele"
+    },
+    {
+      "level": 2,
+      "text": "12. URINARY TRACT INFECTIONS IN CHILDREN",
+      "anchor": "#12-urinary-tract-infections-in-children"
+    },
+    {
+      "level": 3,
+      "text": "12.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#12-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "12.2. Presentation symptoms",
+      "anchor": "#12-2-presentation-symptoms"
+    },
+    {
+      "level": 3,
+      "text": "12.3. Classification systems",
+      "anchor": "#12-3-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "12.3.1. Classification according to clinical presentation",
+      "anchor": "#12-3-1-classification-according-to-clinical-presentation"
+    },
+    {
+      "level": 4,
+      "text": "12.3.2. Classification according to episode: first, recurrent, breakthrough",
+      "anchor": "#12-3-2-classification-according-to-episode-first-recurrent-breakthrough"
+    },
+    {
+      "level": 4,
+      "text": "12.3.3. Classification according to age and toilet-training status",
+      "anchor": "#12-3-3-classification-according-to-age-and-toilet-training-status"
+    },
+    {
+      "level": 4,
+      "text": "12.3.4. Classification according to the clinical course",
+      "anchor": "#12-3-4-classification-according-to-the-clinical-course"
+    },
+    {
+      "level": 4,
+      "text": "12.3.5. Classification according to urinary tract abnormalities",
+      "anchor": "#12-3-5-classification-according-to-urinary-tract-abnormalities"
+    },
+    {
+      "level": 3,
+      "text": "12.4. Diagnostic evaluation",
+      "anchor": "#12-4-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "12.4.1. Medical history",
+      "anchor": "#12-4-1-medical-history"
+    },
+    {
+      "level": 4,
+      "text": "12.4.2. Physical examination",
+      "anchor": "#12-4-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "12.4.3. Urine sampling, analysis and culture",
+      "anchor": "#12-4-3-urine-sampling-analysis-and-culture"
+    },
+    {
+      "level": 4,
+      "text": "12.4.4. Blood tests",
+      "anchor": "#12-4-4-blood-tests"
+    },
+    {
+      "level": 3,
+      "text": "12.5. Additional workup",
+      "anchor": "#12-5-additional-workup"
+    },
+    {
+      "level": 4,
+      "text": "12.5.1. Ultrasound (US)",
+      "anchor": "#12-5-1-ultrasound-us"
+    },
+    {
+      "level": 3,
+      "text": "12.6. Management",
+      "anchor": "#12-6-management"
+    },
+    {
+      "level": 4,
+      "text": "12.6.1. Administration route of antibacterial therapy",
+      "anchor": "#12-6-1-administration-route-of-antibacterial-therapy"
+    },
+    {
+      "level": 4,
+      "text": "12.6.2. Adjustment of antimicrobial agents",
+      "anchor": "#12-6-2-adjustment-of-antimicrobial-agents"
+    },
+    {
+      "level": 4,
+      "text": "12.6.3. Duration of therapy",
+      "anchor": "#12-6-3-duration-of-therapy"
+    },
+    {
+      "level": 4,
+      "text": "12.6.4. Adjunct steroid treatment",
+      "anchor": "#12-6-4-adjunct-steroid-treatment"
+    },
+    {
+      "level": 4,
+      "text": "12.6.5. Temporary urinary diversion",
+      "anchor": "#12-6-5-temporary-urinary-diversion"
+    },
+    {
+      "level": 4,
+      "text": "12.6.6. Monitoring",
+      "anchor": "#12-6-6-monitoring"
+    },
+    {
+      "level": 3,
+      "text": "12.7. Measures to prevent UTI recurrences",
+      "anchor": "#12-7-measures-to-prevent-uti-recurrences"
+    },
+    {
+      "level": 4,
+      "text": "12.7.1. Chemoprophylaxis",
+      "anchor": "#12-7-1-chemoprophylaxis"
+    },
+    {
+      "level": 4,
+      "text": "12.7.2. Nonantibiotic prophylaxis",
+      "anchor": "#12-7-2-nonantibiotic-prophylaxis"
+    },
+    {
+      "level": 4,
+      "text": "12.7.3. Phimosis",
+      "anchor": "#12-7-3-phimosis"
+    },
+    {
+      "level": 4,
+      "text": "12.7.4. Bladder and bowel dysfunction and lower urinary tract disorders",
+      "anchor": "#12-7-4-bladder-and-bowel-dysfunction-and-lower-urinary-tract-disorders"
+    },
+    {
+      "level": 3,
+      "text": "12.8. Summary of evidence and recommendations for the management of UTI in children",
+      "anchor": "#12-8-summary-of-evidence-and-recommendations-for-the-management-of-uti-in-children"
+    },
+    {
+      "level": 2,
+      "text": "13. DAYTIME LOWER URINARY TRACT CONDITIONS",
+      "anchor": "#13-daytime-lower-urinary-tract-conditions"
+    },
+    {
+      "level": 3,
+      "text": "13.1. Terminology, classification, epidemiology and pathophysiology",
+      "anchor": "#13-1-terminology-classification-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "13.1.1. Filling-phase (storage) dysfunctions",
+      "anchor": "#13-1-1-filling-phase-storage-dysfunctions"
+    },
+    {
+      "level": 4,
+      "text": "13.1.2. Voiding-phase (emptying) dysfunctions",
+      "anchor": "#13-1-2-voiding-phase-emptying-dysfunctions"
+    },
+    {
+      "level": 3,
+      "text": "13.2. Diagnostic evaluation",
+      "anchor": "#13-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "13.2.1. History and physical examination",
+      "anchor": "#13-2-1-history-and-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "13.2.2. Ultrasound and urinalysis",
+      "anchor": "#13-2-2-ultrasound-and-urinalysis"
+    },
+    {
+      "level": 4,
+      "text": "13.2.3. Urodynamics",
+      "anchor": "#13-2-3-urodynamics"
+    },
+    {
+      "level": 3,
+      "text": "13.3. Management",
+      "anchor": "#13-3-management"
+    },
+    {
+      "level": 4,
+      "text": "13.3.1. Urotherapy and specific add-on interventions",
+      "anchor": "#13-3-1-urotherapy-and-specific-add-on-interventions"
+    },
+    {
+      "level": 4,
+      "text": "13.3.2. Medication",
+      "anchor": "#13-3-2-medication"
+    },
+    {
+      "level": 4,
+      "text": "13.3.3. Neuromodulation",
+      "anchor": "#13-3-3-neuromodulation"
+    },
+    {
+      "level": 4,
+      "text": "13.3.4. Surgery",
+      "anchor": "#13-3-4-surgery"
+    },
+    {
+      "level": 3,
+      "text": "13.4. Quality of life",
+      "anchor": "#13-4-quality-of-life"
+    },
+    {
+      "level": 3,
+      "text": "13.5. Follow-up",
+      "anchor": "#13-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "13.6. Summary of evidence and recommendations for the management of daytime lower urinary tract conditions",
+      "anchor": "#13-6-summary-of-evidence-and-recommendations-for-the-management-of-daytime-lower-urinary-tract-conditions"
+    },
+    {
+      "level": 2,
+      "text": "14. MONOSYMPTOMATIC NOCTURNAL ENURESIS - BEDWETTING",
+      "anchor": "#14-monosymptomatic-nocturnal-enuresis---bedwetting"
+    },
+    {
+      "level": 3,
+      "text": "14.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#14-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "14.2. Diagnostic evaluation",
+      "anchor": "#14-2-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "14.3. Management",
+      "anchor": "#14-3-management"
+    },
+    {
+      "level": 4,
+      "text": "14.3.1. Supportive treatment measures",
+      "anchor": "#14-3-1-supportive-treatment-measures"
+    },
+    {
+      "level": 4,
+      "text": "14.3.2. Wetting alarm treatment",
+      "anchor": "#14-3-2-wetting-alarm-treatment"
+    },
+    {
+      "level": 4,
+      "text": "14.3.3. Medical treatment",
+      "anchor": "#14-3-3-medical-treatment"
+    },
+    {
+      "level": 4,
+      "text": "14.3.4. Electrical neuromodulation",
+      "anchor": "#14-3-4-electrical-neuromodulation"
+    },
+    {
+      "level": 4,
+      "text": "14.3.5. Complementary treatments:",
+      "anchor": "#14-3-5-complementary-treatments"
+    },
+    {
+      "level": 4,
+      "text": "14.3.6. Conservative ‘wait-and-see’ approach",
+      "anchor": "#14-3-6-conservative-wait-and-see-approach"
+    },
+    {
+      "level": 3,
+      "text": "14.4. Summary of evidence and recommendations for the management of monosymptomatic enuresis",
+      "anchor": "#14-4-summary-of-evidence-and-recommendations-for-the-management-of-monosymptomatic-enuresis"
+    },
+    {
+      "level": 2,
+      "text": "15. SPINAL DYSRAPHISM IN CHILDREN AND ADOLESCENTS (FORMALLY NEUROGENIC BLADDER)",
+      "anchor": "#15-spinal-dysraphism-in-children-and-adolescents-formally-neurogenic-bladder"
+    },
+    {
+      "level": 2,
+      "text": "16. DILATATION OF THE UPPER URINARY TRACT (PUJ OBSTRUCTION)",
+      "anchor": "#16-dilatation-of-the-upper-urinary-tract-puj-obstruction"
+    },
+    {
+      "level": 3,
+      "text": "16.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#16-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "16.2. Diagnostic evaluation",
+      "anchor": "#16-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "16.2.1. Antenatal ultrasound",
+      "anchor": "#16-2-1-antenatal-ultrasound"
+    },
+    {
+      "level": 4,
+      "text": "16.2.2. Postnatal ultrasound",
+      "anchor": "#16-2-2-postnatal-ultrasound"
+    },
+    {
+      "level": 4,
+      "text": "16.2.3. Voiding cystourethrogram",
+      "anchor": "#16-2-3-voiding-cystourethrogram"
+    },
+    {
+      "level": 4,
+      "text": "16.2.4. Diuretic renography",
+      "anchor": "#16-2-4-diuretic-renography"
+    },
+    {
+      "level": 4,
+      "text": "16.2.5. Severity classification and risk stratification",
+      "anchor": "#16-2-5-severity-classification-and-risk-stratification"
+    },
+    {
+      "level": 4,
+      "text": "16.2.6. Biomarkers",
+      "anchor": "#16-2-6-biomarkers"
+    },
+    {
+      "level": 3,
+      "text": "16.3. Management",
+      "anchor": "#16-3-management"
+    },
+    {
+      "level": 4,
+      "text": "16.3.1. Prenatal management",
+      "anchor": "#16-3-1-prenatal-management"
+    },
+    {
+      "level": 4,
+      "text": "16.3.2. PUJ obstruction",
+      "anchor": "#16-3-2-puj-obstruction"
+    },
+    {
+      "level": 3,
+      "text": "16.4. Summary of evidence and recommendations for the management of PUJ obstruction",
+      "anchor": "#16-4-summary-of-evidence-and-recommendations-for-the-management-of-puj-obstruction"
+    },
+    {
+      "level": 2,
+      "text": "17. VESICOURETERIC REFLUX",
+      "anchor": "#17-vesicoureteric-reflux"
+    },
+    {
+      "level": 3,
+      "text": "17.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#17-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "17.2. Diagnostic evaluation",
+      "anchor": "#17-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "17.2.1. Recommendation for diagnosis of VUR",
+      "anchor": "#17-2-1-recommendation-for-diagnosis-of-vur"
+    },
+    {
+      "level": 4,
+      "text": "17.2.2. Infants presenting with prenatally diagnosed hydronephrosis",
+      "anchor": "#17-2-2-infants-presenting-with-prenatally-diagnosed-hydronephrosis"
+    },
+    {
+      "level": 4,
+      "text": "17.2.3. Siblings and offspring of reflux patients",
+      "anchor": "#17-2-3-siblings-and-offspring-of-reflux-patients"
+    },
+    {
+      "level": 4,
+      "text": "17.2.4. Recommendation for paediatric screening of VUR",
+      "anchor": "#17-2-4-recommendation-for-paediatric-screening-of-vur"
+    },
+    {
+      "level": 4,
+      "text": "17.2.5. Children with febrile urinary tract infections",
+      "anchor": "#17-2-5-children-with-febrile-urinary-tract-infections"
+    },
+    {
+      "level": 4,
+      "text": "17.2.6. Children with lower urinary tract symptoms and vesicoureteric reflux",
+      "anchor": "#17-2-6-children-with-lower-urinary-tract-symptoms-and-vesicoureteric-reflux"
+    },
+    {
+      "level": 3,
+      "text": "17.3. Disease management",
+      "anchor": "#17-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "17.3.1. Nonsurgical therapy",
+      "anchor": "#17-3-1-nonsurgical-therapy"
+    },
+    {
+      "level": 4,
+      "text": "17.3.2. Surgical treatment",
+      "anchor": "#17-3-2-surgical-treatment"
+    },
+    {
+      "level": 3,
+      "text": "17.4. Summary of evidence and recommendations for the management of vesicoureteric reflux in childhood",
+      "anchor": "#17-4-summary-of-evidence-and-recommendations-for-the-management-of-vesicoureteric-reflux-in-childhood"
+    },
+    {
+      "level": 2,
+      "text": "18. URINARY STONE DISEASE",
+      "anchor": "#18-urinary-stone-disease"
+    },
+    {
+      "level": 3,
+      "text": "18.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#18-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "18.2. Classification systems",
+      "anchor": "#18-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "18.2.1. Calcium stones",
+      "anchor": "#18-2-1-calcium-stones"
+    },
+    {
+      "level": 4,
+      "text": "18.2.2. Uric acid stones",
+      "anchor": "#18-2-2-uric-acid-stones"
+    },
+    {
+      "level": 4,
+      "text": "18.2.3. Cystine stones",
+      "anchor": "#18-2-3-cystine-stones"
+    },
+    {
+      "level": 4,
+      "text": "18.2.4. Infection stones (struvite stones)",
+      "anchor": "#18-2-4-infection-stones-struvite-stones"
+    },
+    {
+      "level": 3,
+      "text": "18.3. Diagnostic evaluation",
+      "anchor": "#18-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "18.3.1. Imaging",
+      "anchor": "#18-3-1-imaging"
+    },
+    {
+      "level": 4,
+      "text": "18.3.2. Metabolic evaluation",
+      "anchor": "#18-3-2-metabolic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "18.3.3. Urolithiasis in infants",
+      "anchor": "#18-3-3-urolithiasis-in-infants"
+    },
+    {
+      "level": 3,
+      "text": "18.4. Management",
+      "anchor": "#18-4-management"
+    },
+    {
+      "level": 4,
+      "text": "18.4.1. Extracorporeal shockwave lithotripsy",
+      "anchor": "#18-4-1-extracorporeal-shockwave-lithotripsy"
+    },
+    {
+      "level": 4,
+      "text": "18.4.2. Percutaneous nephrolithotomy",
+      "anchor": "#18-4-2-percutaneous-nephrolithotomy"
+    },
+    {
+      "level": 4,
+      "text": "18.4.3. Ureterorenoscopy",
+      "anchor": "#18-4-3-ureterorenoscopy"
+    },
+    {
+      "level": 4,
+      "text": "18.4.4. Open or laparoscopic stone surgery",
+      "anchor": "#18-4-4-open-or-laparoscopic-stone-surgery"
+    },
+    {
+      "level": 3,
+      "text": "18.5. Summary of evidence and recommendations for the management of urinary stones",
+      "anchor": "#18-5-summary-of-evidence-and-recommendations-for-the-management-of-urinary-stones"
+    },
+    {
+      "level": 2,
+      "text": "19. URETEROCELE AND ECTOPIC URETER",
+      "anchor": "#19-ureterocele-and-ectopic-ureter"
+    },
+    {
+      "level": 3,
+      "text": "19.1. Ureterocele",
+      "anchor": "#19-1-ureterocele"
+    },
+    {
+      "level": 4,
+      "text": "19.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#19-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "19.1.2. Classification systems",
+      "anchor": "#19-1-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "19.1.3. Diagnostic evaluation",
+      "anchor": "#19-1-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "19.1.4. Management",
+      "anchor": "#19-1-4-management"
+    },
+    {
+      "level": 3,
+      "text": "19.2. Ectopic ureter",
+      "anchor": "#19-2-ectopic-ureter"
+    },
+    {
+      "level": 4,
+      "text": "19.2.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#19-2-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "19.2.2. Classification",
+      "anchor": "#19-2-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "19.2.3. Clinical presentation and diagnostic evaluation",
+      "anchor": "#19-2-3-clinical-presentation-and-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "19.2.4. Management",
+      "anchor": "#19-2-4-management"
+    },
+    {
+      "level": 3,
+      "text": "19.3. Summary of evidence and recommendations for the management of obstructive pathology of renal duplication: ureterocele and ectopic ureter",
+      "anchor": "#19-3-summary-of-evidence-and-recommendations-for-the-management-of-obstructive-pathology-of-renal-duplication-ureterocele-and-ectopic-ureter"
+    },
+    {
+      "level": 3,
+      "text": "20.1. Introduction",
+      "anchor": "#20-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "20.2. International consensus statements on DSD management",
+      "anchor": "#20-2-international-consensus-statements-on-dsd-management"
+    },
+    {
+      "level": 3,
+      "text": "20.3. Current classification of DSD conditions",
+      "anchor": "#20-3-current-classification-of-dsd-conditions"
+    },
+    {
+      "level": 3,
+      "text": "20.4. Diagnostic evaluation",
+      "anchor": "#20-4-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "20.4.1. The neonatal emergency",
+      "anchor": "#20-4-1-the-neonatal-emergency"
+    },
+    {
+      "level": 4,
+      "text": "20.4.2. Family history and clinical examination",
+      "anchor": "#20-4-2-family-history-and-clinical-examination"
+    },
+    {
+      "level": 3,
+      "text": "20.5. Gender assignment",
+      "anchor": "#20-5-gender-assignment"
+    },
+    {
+      "level": 3,
+      "text": "20.6. Risk of tumour development",
+      "anchor": "#20-6-risk-of-tumour-development"
+    },
+    {
+      "level": 3,
+      "text": "20.7. Quality of life",
+      "anchor": "#20-7-quality-of-life"
+    },
+    {
+      "level": 2,
+      "text": "21. CONGENITAL LOWER URINARY TRACT OBSTRUCTION",
+      "anchor": "#21-congenital-lower-urinary-tract-obstruction"
+    },
+    {
+      "level": 3,
+      "text": "21.1. Epidemiology and pathophysiology",
+      "anchor": "#21-1-epidemiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "21.2. Classification systems of the urethral valves",
+      "anchor": "#21-2-classification-systems-of-the-urethral-valves"
+    },
+    {
+      "level": 3,
+      "text": "21.3. Diagnostic evaluation",
+      "anchor": "#21-3-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "21.4. Management",
+      "anchor": "#21-4-management"
+    },
+    {
+      "level": 4,
+      "text": "21.4.1. Prenatal treatment",
+      "anchor": "#21-4-1-prenatal-treatment"
+    },
+    {
+      "level": 4,
+      "text": "21.4.2. Postnatal treatment",
+      "anchor": "#21-4-2-postnatal-treatment"
+    },
+    {
+      "level": 3,
+      "text": "21.5. Follow-up",
+      "anchor": "#21-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "21.6. Summary of evidence and recommendations for the management of posterior urethral valves",
+      "anchor": "#21-6-summary-of-evidence-and-recommendations-for-the-management-of-posterior-urethral-valves"
+    },
+    {
+      "level": 2,
+      "text": "22. RARE CONDITIONS IN CHILDHOOD",
+      "anchor": "#22-rare-conditions-in-childhood"
+    },
+    {
+      "level": 3,
+      "text": "22.1. Urachal remnants",
+      "anchor": "#22-1-urachal-remnants"
+    },
+    {
+      "level": 4,
+      "text": "22.1.1. Introduction",
+      "anchor": "#22-1-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "22.1.2. Epidemiology",
+      "anchor": "#22-1-2-epidemiology"
+    },
+    {
+      "level": 4,
+      "text": "22.1.3. Symptoms",
+      "anchor": "#22-1-3-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "22.1.4. Diagnosis",
+      "anchor": "#22-1-4-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "22.1.5. Treatment",
+      "anchor": "#22-1-5-treatment"
+    },
+    {
+      "level": 4,
+      "text": "22.1.6. Pathology of removed remnants",
+      "anchor": "#22-1-6-pathology-of-removed-remnants"
+    },
+    {
+      "level": 4,
+      "text": "22.1.7. Urachal cancer",
+      "anchor": "#22-1-7-urachal-cancer"
+    },
+    {
+      "level": 4,
+      "text": "22.1.8. Summary of evidence and recommendation for management of urachal remnants",
+      "anchor": "#22-1-8-summary-of-evidence-and-recommendation-for-management-of-urachal-remnants"
+    },
+    {
+      "level": 3,
+      "text": "22.2. Papillary tumours of the bladder in children and adolescents (Papillary urothelial neoplasm of low malignant potential)",
+      "anchor": "#22-2-papillary-tumours-of-the-bladder-in-children-and-adolescents-papillary-urothelial-neoplasm-of-low-malignant-potential"
+    },
+    {
+      "level": 4,
+      "text": "22.2.1. Incidence",
+      "anchor": "#22-2-1-incidence"
+    },
+    {
+      "level": 4,
+      "text": "22.2.2. Differences and similarities of papillary tumours of the bladder in children and adults",
+      "anchor": "#22-2-2-differences-and-similarities-of-papillary-tumours-of-the-bladder-in-children-and-adults"
+    },
+    {
+      "level": 4,
+      "text": "22.2.3. Risk factors",
+      "anchor": "#22-2-3-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "22.2.4. Presentation",
+      "anchor": "#22-2-4-presentation"
+    },
+    {
+      "level": 4,
+      "text": "22.2.5. Investigations and treatment",
+      "anchor": "#22-2-5-investigations-and-treatment"
+    },
+    {
+      "level": 4,
+      "text": "22.2.6. Histology",
+      "anchor": "#22-2-6-histology"
+    },
+    {
+      "level": 4,
+      "text": "22.2.7. Additional treatment",
+      "anchor": "#22-2-7-additional-treatment"
+    },
+    {
+      "level": 4,
+      "text": "22.2.8. Prognosis, recurrence and surveillance",
+      "anchor": "#22-2-8-prognosis-recurrence-and-surveillance"
+    },
+    {
+      "level": 4,
+      "text": "22.2.9. Summary of evidence and recommendations for papillary tumours of the bladder in children",
+      "anchor": "#22-2-9-summary-of-evidence-and-recommendations-for-papillary-tumours-of-the-bladder-in-children"
+    },
+    {
+      "level": 3,
+      "text": "22.3. Penile rare conditions",
+      "anchor": "#22-3-penile-rare-conditions"
+    },
+    {
+      "level": 4,
+      "text": "22.3.1. Cystic lesions",
+      "anchor": "#22-3-1-cystic-lesions"
+    },
+    {
+      "level": 4,
+      "text": "22.3.2. Vascular malformations",
+      "anchor": "#22-3-2-vascular-malformations"
+    },
+    {
+      "level": 4,
+      "text": "22.3.3. Neurogenic lesions",
+      "anchor": "#22-3-3-neurogenic-lesions"
+    },
+    {
+      "level": 4,
+      "text": "22.3.4. Soft tissue tumours of penis",
+      "anchor": "#22-3-4-soft-tissue-tumours-of-penis"
+    },
+    {
+      "level": 4,
+      "text": "22.3.5. Penile lymphedema",
+      "anchor": "#22-3-5-penile-lymphedema"
+    },
+    {
+      "level": 2,
+      "text": "23. EMERGENCIES IN PAEDIATRIC UROLOGY",
+      "anchor": "#23-emergencies-in-paediatric-urology"
+    },
+    {
+      "level": 3,
+      "text": "23.1. Acute scrotum",
+      "anchor": "#23-1-acute-scrotum"
+    },
+    {
+      "level": 3,
+      "text": "23.2. Paraphimosis",
+      "anchor": "#23-2-paraphimosis"
+    },
+    {
+      "level": 3,
+      "text": "23.3. Priapism",
+      "anchor": "#23-3-priapism"
+    },
+    {
+      "level": 4,
+      "text": "23.3.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#23-3-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "23.3.2. Classification",
+      "anchor": "#23-3-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "23.3.3. Diagnostic evaluation",
+      "anchor": "#23-3-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "23.3.4. Disease management",
+      "anchor": "#23-3-4-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "23.4. Summary of evidence and recommendations for the diagnosis and management of priapism",
+      "anchor": "#23-4-summary-of-evidence-and-recommendations-for-the-diagnosis-and-management-of-priapism"
+    },
+    {
+      "level": 2,
+      "text": "24. PAEDIATRIC UROLOGICAL TRAUMA",
+      "anchor": "#24-paediatric-urological-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.1. Paediatric renal trauma",
+      "anchor": "#24-1-paediatric-renal-trauma"
+    },
+    {
+      "level": 4,
+      "text": "24.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#24-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "24.1.2. Classification systems",
+      "anchor": "#24-1-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "24.1.3. Diagnostic evaluation",
+      "anchor": "#24-1-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.1.4. Disease management",
+      "anchor": "#24-1-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "24.1.5. Recommendations for the diagnosis and management of paediatric renal trauma",
+      "anchor": "#24-1-5-recommendations-for-the-diagnosis-and-management-of-paediatric-renal-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.2. Paediatric ureteral trauma",
+      "anchor": "#24-2-paediatric-ureteral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "24.2.1. Diagnostic evaluation",
+      "anchor": "#24-2-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.2.2. Management",
+      "anchor": "#24-2-2-management"
+    },
+    {
+      "level": 4,
+      "text": "24.2.3. Recommendations for the diagnosis and management of paediatric ureteral trauma",
+      "anchor": "#24-2-3-recommendations-for-the-diagnosis-and-management-of-paediatric-ureteral-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.3. Paediatric bladder injuries",
+      "anchor": "#24-3-paediatric-bladder-injuries"
+    },
+    {
+      "level": 4,
+      "text": "24.3.1. Diagnostic evaluation",
+      "anchor": "#24-3-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.3.2. Management",
+      "anchor": "#24-3-2-management"
+    },
+    {
+      "level": 4,
+      "text": "24.3.3. Recommendations for the diagnosis and management of paediatric bladder injuries",
+      "anchor": "#24-3-3-recommendations-for-the-diagnosis-and-management-of-paediatric-bladder-injuries"
+    },
+    {
+      "level": 3,
+      "text": "24.4. Paediatric urethral injuries",
+      "anchor": "#24-4-paediatric-urethral-injuries"
+    },
+    {
+      "level": 4,
+      "text": "24.4.1. Diagnostic evaluation",
+      "anchor": "#24-4-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "24.4.2. Disease management",
+      "anchor": "#24-4-2-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "24.4.3. Recommendations for the diagnosis and management of paediatric trauma",
+      "anchor": "#24-4-3-recommendations-for-the-diagnosis-and-management-of-paediatric-trauma"
+    },
+    {
+      "level": 3,
+      "text": "24.5. Urosepsis",
+      "anchor": "#24-5-urosepsis"
+    },
+    {
+      "level": 2,
+      "text": "25. PERIOPERATIVE MANAGEMENT",
+      "anchor": "#25-perioperative-management"
+    },
+    {
+      "level": 3,
+      "text": "25.1. Preoperative fasting, intraoperative fluid therapy, postoperative feeding, fasting and fluid management",
+      "anchor": "#25-1-preoperative-fasting-intraoperative-fluid-therapy-postoperative-feeding-fasting-and-fluid-management"
+    },
+    {
+      "level": 4,
+      "text": "25.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#25-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "25.1.2. Disease management",
+      "anchor": "#25-1-2-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "25.1.3. Summary of evidence and recommendations for the management of perioperative fluid management",
+      "anchor": "#25-1-3-summary-of-evidence-and-recommendations-for-the-management-of-perioperative-fluid-management"
+    },
+    {
+      "level": 3,
+      "text": "25.2. Postoperative pain management: general information",
+      "anchor": "#25-2-postoperative-pain-management-general-information"
+    },
+    {
+      "level": 4,
+      "text": "25.2.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#25-2-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "25.2.2. Diagnostic evaluation",
+      "anchor": "#25-2-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "25.2.3. Disease management",
+      "anchor": "#25-2-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "25.2.4. Summary of evidence and recommendations for the management of post-operative pain",
+      "anchor": "#25-2-4-summary-of-evidence-and-recommendations-for-the-management-of-post-operative-pain"
+    },
+    {
+      "level": 3,
+      "text": "25.3. Antibiotics management: general information",
+      "anchor": "#25-3-antibiotics-management-general-information"
+    },
+    {
+      "level": 3,
+      "text": "25.4. Thromboprophylaxis management: general information",
+      "anchor": "#25-4-thromboprophylaxis-management-general-information"
+    },
+    {
+      "level": 4,
+      "text": "25.4.1. Epidemiology, aetiology, pathophysiology",
+      "anchor": "#25-4-1-epidemiology-aetiology-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "25.4.2. Diagnostic evaluation",
+      "anchor": "#25-4-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "25.4.3. Disease management",
+      "anchor": "#25-4-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "25.4.4. Pharmacological treatment for thromboprophylaxis",
+      "anchor": "#25-4-4-pharmacological-treatment-for-thromboprophylaxis"
+    },
+    {
+      "level": 4,
+      "text": "25.4.5. Prevention of CVL-related VTE",
+      "anchor": "#25-4-5-prevention-of-cvl-related-vte"
+    },
+    {
+      "level": 4,
+      "text": "25.4.6. Summary of evidence and recommendations for the management of thromboprophylaxis management",
+      "anchor": "#25-4-6-summary-of-evidence-and-recommendations-for-the-management-of-thromboprophylaxis-management"
+    },
+    {
+      "level": 3,
+      "text": "25.5. Premedication management: general information",
+      "anchor": "#25-5-premedication-management-general-information"
+    },
+    {
+      "level": 4,
+      "text": "25.5.1. Recommendations for premedication management: general recommendations",
+      "anchor": "#25-5-1-recommendations-for-premedication-management-general-recommendations"
+    },
+    {
+      "level": 2,
+      "text": "26. BASIC PRINCIPLES OF LAPAROSCOPIC SURGERY IN CHILDREN",
+      "anchor": "#26-basic-principles-of-laparoscopic-surgery-in-children"
+    },
+    {
+      "level": 3,
+      "text": "26.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#26-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "26.2. Technical considerations and physiological consequences",
+      "anchor": "#26-2-technical-considerations-and-physiological-consequences"
+    },
+    {
+      "level": 4,
+      "text": "26.2.1. Preoperative evaluation",
+      "anchor": "#26-2-1-preoperative-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "26.2.2. Abdominal insufflation",
+      "anchor": "#26-2-2-abdominal-insufflation"
+    },
+    {
+      "level": 4,
+      "text": "26.2.3. Pulmonary effects",
+      "anchor": "#26-2-3-pulmonary-effects"
+    },
+    {
+      "level": 4,
+      "text": "26.2.4. Cardiovascular effects",
+      "anchor": "#26-2-4-cardiovascular-effects"
+    },
+    {
+      "level": 4,
+      "text": "26.2.5. Effects on renal function",
+      "anchor": "#26-2-5-effects-on-renal-function"
+    },
+    {
+      "level": 4,
+      "text": "26.2.6. Effects on neurological system",
+      "anchor": "#26-2-6-effects-on-neurological-system"
+    },
+    {
+      "level": 4,
+      "text": "26.2.7. Comparison of robot-assisted laparoscopic surgery versus laparoscopic surgery",
+      "anchor": "#26-2-7-comparison-of-robot-assisted-laparoscopic-surgery-versus-laparoscopic-surgery"
+    },
+    {
+      "level": 3,
+      "text": "26.3. Summary of evidence and recommendations for laparoscopy in children",
+      "anchor": "#26-3-summary-of-evidence-and-recommendations-for-laparoscopy-in-children"
+    },
+    {
+      "level": 2,
+      "text": "27. TRANSITIONAL UROLOGY",
+      "anchor": "#27-transitional-urology"
+    },
+    {
+      "level": 3,
+      "text": "27.1. Introduction",
+      "anchor": "#27-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "27.2. Barriers in transition",
+      "anchor": "#27-2-barriers-in-transition"
+    },
+    {
+      "level": 3,
+      "text": "27.3. The transition process",
+      "anchor": "#27-3-the-transition-process"
+    },
+    {
+      "level": 3,
+      "text": "27.4. Specific genitourinary conditions",
+      "anchor": "#27-4-specific-genitourinary-conditions"
+    },
+    {
+      "level": 4,
+      "text": "27.4.1. Neurogenic bladder",
+      "anchor": "#27-4-1-neurogenic-bladder"
+    },
+    {
+      "level": 4,
+      "text": "27.4.2. Posterior urethral valves",
+      "anchor": "#27-4-2-posterior-urethral-valves"
+    },
+    {
+      "level": 4,
+      "text": "27.4.3. Hypospadias",
+      "anchor": "#27-4-3-hypospadias"
+    },
+    {
+      "level": 4,
+      "text": "27.4.4. Bladder-exstrophy-epispadias complex",
+      "anchor": "#27-4-4-bladder-exstrophy-epispadias-complex"
+    },
+    {
+      "level": 4,
+      "text": "27.4.5. Differences of sex development",
+      "anchor": "#27-4-5-differences-of-sex-development"
+    },
+    {
+      "level": 3,
+      "text": "27.5. Summary of evidence and recommendations for transitional urology",
+      "anchor": "#27-5-summary-of-evidence-and-recommendations-for-transitional-urology"
+    },
+    {
+      "level": 2,
+      "text": "28. FOETAL UROLOGY",
+      "anchor": "#28-foetal-urology"
+    },
+    {
+      "level": 3,
+      "text": "28.1. Normal renal development",
+      "anchor": "#28-1-normal-renal-development"
+    },
+    {
+      "level": 4,
+      "text": "28.1.1. Introduction",
+      "anchor": "#28-1-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "28.1.2. Renal and bladder development",
+      "anchor": "#28-1-2-renal-and-bladder-development"
+    },
+    {
+      "level": 3,
+      "text": "28.2. Antenatal hydronephrosis",
+      "anchor": "#28-2-antenatal-hydronephrosis"
+    },
+    {
+      "level": 4,
+      "text": "28.2.1. Definitions and follow-up during pregnancy",
+      "anchor": "#28-2-1-definitions-and-follow-up-during-pregnancy"
+    },
+    {
+      "level": 4,
+      "text": "28.2.2. Aetiology",
+      "anchor": "#28-2-2-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "28.2.3. Classification systems for postnatal outcomes",
+      "anchor": "#28-2-3-classification-systems-for-postnatal-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "28.2.4. Postnatal outcomes",
+      "anchor": "#28-2-4-postnatal-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "28.2.5. Long-term outcomes",
+      "anchor": "#28-2-5-long-term-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "28.2.6. Prophylactic measures against UTIs",
+      "anchor": "#28-2-6-prophylactic-measures-against-utis"
+    },
+    {
+      "level": 3,
+      "text": "28.3. Congenital lower urinary tract obstruction",
+      "anchor": "#28-3-congenital-lower-urinary-tract-obstruction"
+    },
+    {
+      "level": 4,
+      "text": "28.3.1. Introduction",
+      "anchor": "#28-3-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "28.3.2. Diagnosis",
+      "anchor": "#28-3-2-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "28.3.3. Management",
+      "anchor": "#28-3-3-management"
+    },
+    {
+      "level": 4,
+      "text": "28.3.4. Foetal cystoscopy",
+      "anchor": "#28-3-4-foetal-cystoscopy"
+    },
+    {
+      "level": 4,
+      "text": "28.3.5. Serial amniotic infusions",
+      "anchor": "#28-3-5-serial-amniotic-infusions"
+    },
+    {
+      "level": 4,
+      "text": "28.3.6. Outcomes postnatally",
+      "anchor": "#28-3-6-outcomes-postnatally"
+    },
+    {
+      "level": 4,
+      "text": "28.3.7. Postnatal management",
+      "anchor": "#28-3-7-postnatal-management"
+    },
+    {
+      "level": 4,
+      "text": "28.3.8. Complex urogenital pathologies - prenatal management and considerations",
+      "anchor": "#28-3-8-complex-urogenital-pathologies---prenatal-management-and-considerations"
+    },
+    {
+      "level": 4,
+      "text": "28.3.9. Summary of evidence and recommendations for foetal urology",
+      "anchor": "#28-3-9-summary-of-evidence-and-recommendations-for-foetal-urology"
+    },
+    {
+      "level": 2,
+      "text": "29. REFERENCES",
+      "anchor": "#29-references"
+    },
+    {
+      "level": 2,
+      "text": "30. CONFLICT OF INTEREST",
+      "anchor": "#30-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "31. CITATION INFORMATION",
+      "anchor": "#31-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "32. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#32-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#paediatric-urology",
+      "title": "Paediatric Urology",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 18. Urinary Stone Disease Introduction Methods Phimosis And Other Abnormalities Of The Penile Skin Management Of Undescended Testes Testicular Tumours In Prepubertal Boys Fertility Preservation In Children And Adolescents Hydrocele Acute Scrotum Hypospadias Congenital Penile Curvature Varicocele In Children And Adolescents Urinary Tract Infections In Children Daytime Lower Urinary Tract Conditions Monosymptomatic Nocturnal Enuresis Bedwetting Spinal Dysraphism In Children And Adolescents Formally Neurogenic Bladder Dilatation Of The Upper Urinary Tract Puj Obstruction Vesicoureteric Reflux Urinary Stone Disease Ureterocele And Ectopic Ureter Disorders/differences Of Sex Development Congenital Lower Urinary Tract Obstruction Rare Conditions In Childhood Emergencies In Paediatric Urology Paediatric Urological Trauma Perioperative Management Basic Principles Of Laparoscopic Surgery In Children Transitional Urology Foetal Urology References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#18-urinary-stone-disease",
+      "title": "18. URINARY STONE DISEASE",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#18-1-epidemiology-aetiology-and-pathophysiology",
+      "title": "18.1. Epidemiology, aetiology and pathophysiology",
+      "level": 3,
+      "text": "Paediatric stone disease is an important clinical problem in paediatric urology practice. Due to its recurrent nature, every effort should be made to discover the underlying metabolic abnormality so that it can be treated appropriately. The main goal is to maintain a stone-free state with close follow-up, although it may not be possible in some circumstances (e.g. oxalosis or nephrocalcinosis). Bladder stones are still common in underdeveloped areas of the world and are usually ammonium acid urate and uric acid stones, strongly implicating dietary factors [969,970]. Hypocitraturia is the most common metabolic abnormality, followed by hypercalciuria [971]. Patients with augmented bladder constitute another important group with a risk of up to 15% [972]. The incidence and characteristics of stones show a wide geographical variation in children. Although urinary stone disease is generally considered to be a relatively rare disease, it is quite common in some parts of the world. Paediatric stone disease is endemic in Turkey, Pakistan and in some South Asian, African and South American countries. However, recent epidemiological studies have shown that the incidence of paediatric stone disease is also increasing in the Western world [973-975], particularly in girls, those with Caucasian ethnicity, African Americans and older children [976]. More than 70% of stones in children contain calcium oxalate, while infectious stones are found more frequently in younger children [977]. The risk for stone recurrence among childhood stone formers has been reported to be 35-50%. No sex differences could be found regarding the stone recurrence risk [978,979].",
+      "tables": []
+    },
+    {
+      "anchor": "#18-2-classification-systems",
+      "title": "18.2. Classification systems",
+      "level": 3,
+      "text": "Urinary stone formation is the result of a complex process involving genetic, dietary, metabolic, anatomical factors and presence of infection.",
+      "tables": []
+    },
+    {
+      "anchor": "#18-2-1-calcium-stones",
+      "title": "18.2.1. Calcium stones",
+      "level": 4,
+      "text": "Calcium stones are usually formed of calcium oxalate or calcium phosphate. Supersaturation of calcium (hypercalciuria) and oxalate (hyperoxaluria) or decreased concentration of inhibitors, such as citrate (hypocitraturia) or magnesium (hypomagnesemia), play a major role in the formation of calcium oxalate stones. Higher supersaturations of calcium oxalate were shown to be associated with multiple stone disease [980]. Hypercalciuria This is defined by a 24-hour urinary calcium excretion of more than 4mg/kg/day (0.1mmol/kg/day) in a child weighing < 60kg. In infants younger than three months, 5mg/kg/day (0.125mmol/kg/day) is considered the upper limit for normal calcium excretion [981]. Hypercalciuria can be classified as either idiopathic or secondary. Idiopathic hypercalciuria is diagnosed when clinical, laboratory and radiographic investigations fail to delineate an underlying cause leading to hypercalcaemia. Urinary calcium may increase in patients with high sodium chloride intake. Secondary hypercalciuria occurs when a known process produces excessive urinary calcium. In secondary hypercalcaemic hypercalciuria, a high serum calcium level may be due to increased bone resorption (hyperparathyroidism, hyperthyroidism, immobilisation, acidosis, metastatic disease) or gastrointestinal hyperabsorption (hypervitaminosis D) [982]. A good screening test for hypercalciuria compares the ratio of urinary calcium to creatinine. The normal calcium-to-creatinine ratio in children is less than 0.2. If the calculated ratio is higher than 0.2, repeat-testing is indicated. Neonates and infants have a higher calcium excretion and lower creatinine excretion than older children [981,982]. If the follow-up ratios are normal, then no additional testing for hypercalciuria is needed. However, if the ratio remains elevated, a timed 24-hour urine collection should be obtained and the calcium excretion calculated. The 24-hour calcium excretion test is the standard criterion for the diagnosis of hypercalciuria. If calcium excretion is higher than 4mg/kg/day (0.1 mmol/kg/day), the diagnosis of hypercalciuria is confirmed and further evaluation is warranted: levels of serum bicarbonate, creatinine, alkaline phosphatase, calcium, phosphorus, magnesium, pH and parathyroid hormone. Freshly voided urine should be measured for pH [981-983]. In addition to calcium, the 24-hour urine analysis should also include phosphorus, sodium, magnesium, uric acid, citrate and oxalate. Initial management is always to increase fluid intake and urinary flow. Dietary modification is a mandatory part of effective therapy. The child should be referred to a dietician to accurately assess the daily intake of calcium, animal protein and sodium. Dietary sodium restriction is recommended, as well as maintenance of calcium intake consistent with the daily needs of the child [984]. A brief trial of a low-calcium diet can be carried out to determine if exogenous calcium intake and/or calcium hyperabsorption is contributing to high urinary calcium. Any recommendation to restrict calcium intake below the daily needs of the child should be avoided. Moreover, low calcium intake is a risk factor for stone formation [985] (LE: 3). Hydrochlorothiazide and other thiazide-type diuretics may be used to treat idiopathic hypercalciuria, especially with calcium renal leak, at a starting dosage of 0.5-1mg/kg/day [986-989] (LE: 3). In long-term use of thiazide-type diuretics, a decrease in hypocalciuric effect may be seen after the third month and may cause hypokalemia, hypocitraturia, hyperuricaemia and hypomagnesaemia. Therefore, control of blood and serum values should be performed at regular intervals. Citrate therapy is also useful if citrate levels are low or if hypercalciuria persists, despite other therapies [986,990] (LE: 4). Hyperoxaluria Only 10-15% of oxalate is dietary. The average child excretes less than 50mg (0.57mmol)/1.73m2/day [991-993], while infants excrete four times as much. Hyperoxaluria may result from increased dietary intake, enteric hyperabsorption (as in short bowel syndrome) or an inborn error of metabolism. In rare primary hyperoxaluria, one of the two liver enzymes that play a role in the metabolism of oxalate may be deficient. With increased deposition of calcium oxalate in the kidneys, renal failure may ensue, resulting in deposition of calcium oxalate in other tissues (oxalosis). The diagnosis is made based upon laboratory findings of severe hyperoxaluria and clinical symptoms. The definitive diagnosis requires a liver biopsy to assay the enzyme activity. Patients with primary hyperoxaluria exhibit a substantial clinical burden such as renal stones, UTIs and pain, requiring frequent healthcare resource use [994]. As mentioned previously, other forms of hyperoxaluria may be due to hyperabsorption of oxalate in inflammatory bowel syndrome, pancreatitis and short bowel syndrome. Nevertheless, the majority of children have ‘mild’ (idiopathic) hyperoxa",
+      "tables": []
+    },
+    {
+      "anchor": "#18-2-2-uric-acid-stones",
+      "title": "18.2.2. Uric acid stones",
+      "level": 4,
+      "text": "Uric acid stones are responsible for urinary calculi in 4-8% of children. Uric acid is the end product of purine metabolism. Hyperuricosuria is the main cause of uric acid stone formation in children. A daily output of uric acid of more than 10mg/kg/day (0.6mmol/kg/day) is considered to be hyperuricosuria [986]. The formation of uric acid stones is mainly dependent on the presence of an acidic urinary composition. Uric acid dissociation and solubility is strongly reduced at a pH of < 5.8. As the pH becomes more alkaline, uric acid crystals become more soluble and the risk of uric acid stone formation is reduced. In the familial or idiopathic form of hyperuricosuria, children usually have normal serum uric acid levels. In other children, this condition can be caused by uric acid overproduction secondary to inborn errors of metabolism, myeloproliferative disorders or other causes of cell breakdown. Hyperuricosuria is also caused by high purine and protein intake. Although hyperuricosuria is a risk factor for calcium oxalate stone formation in adults, this does not appear to be a significant risk factor in children. Uric acid stones are nonopaque stones. Plain X-rays are insufficient to show uric acid stones, and renal sonography and spiral CT are used for diagnosis. Alkalinisation of urine is the mainstay of therapy and prevention for uric acid stones. Citrate preparations are useful as alkalinising agents. Maintaining a urine pH of 6-6.5 is sufficient to prevent uric acid stones [986]. In patients who failed conservative measures with sustaining hyperuricosuria and hyperuricemia, stone recurrences or myeloproliferative diseases, allopurinol (10mg/kg) can be used. This medication may cause several drug reactions (rash, diarrhoea, eosinophilia) and should be cautiously used in chronic renal failure patients.",
+      "tables": []
+    },
+    {
+      "anchor": "#18-2-3-cystine-stones",
+      "title": "18.2.3. Cystine stones",
+      "level": 4,
+      "text": "Cystinuria is the cause of cystine stone formation and accounts for 2-6% of all urinary stones in children. Cystinuria is an incompletely recessive autosomal disorder characterised by failure of renal tubules to reabsorb four basic amino acids: cystine, ornithine, lysine and arginine. Of these four amino acids, only cystine has poor solubility in urine, so that only cystine stones may form in the case of excessive excretion in urine. Cystine solubility is pH-dependent, with cysteine precipitation beginning at pH levels < 7.0. Other metabolic conditions, such as hypercalciuria, hypocitraturia and hyperuricosuria, may accompany cystinuria, thus leading to the formation of mixed-composition stones. Cystine stones are faintly radiopaque and may be difficult to visualise on regular radiograph studies. These stones are also hard in texture and more difficult to disintegrate using extracorporeal shockwave lithotripsy (SWL). Cystinuric patients present with larger stones at the time of diagnosis, higher new stone formation rates, and are at higher risk of surgery [1001]. The medical treatment for cystine stones aims to reduce cystine saturation in urine and increase its solubility. The initial treatment consists of maintaining a high urine flow and the use of alkalinising agents, such as potassium citrate to maintain urine pH at above 7.0 (better above 7.5). If this treatment fails, the use of α-mercaptopropionyl glycine or D-penicillamine may increase cystine solubility and reduce cystine levels in urine and prevent stone formation. Side effects of these drugs are mostly mild and include gastrointestinal complaints (alterations in taste and odour), fever and rash. However, they can be associated with severe side effects, such as bone marrow depression, nephrotic syndrome and epidermolysis [1002].",
+      "tables": []
+    },
+    {
+      "anchor": "#18-2-4-infection-stones-struvite-stones",
+      "title": "18.2.4. Infection stones (struvite stones)",
+      "level": 4,
+      "text": "Infection-related stones constitute nearly 5% of urinary stones in children, though incidence increases over 10% in younger ages [1003] and in nonendemic regions [977,1004]. Bacteria capable of producing urease enzyme ( Proteus, Klebsiella, Pseudomonas ) are responsible for the formation of such stones. Urease converts urea into ammonia and bicarbonate, alkalinising the urine and further converting bicarbonate into carbonate. In the alkaline environment, triple phosphates form, eventually resulting in a supersaturated environment of magnesium ammonium phosphate and carbonate apatite, which in turn leads to stone formation. In addition to bacterial elimination, stone elimination is essential for the treatment, as stones will harbour infection and antibiotic treatment will not be effective. Consideration should be given to investigating any congenital problem that causes stasis and infection. Genitourinary tract anomalies predispose to the formation of such stones.",
+      "tables": []
+    },
+    {
+      "anchor": "#18-3-diagnostic-evaluation",
+      "title": "18.3. Diagnostic evaluation",
+      "level": 3,
+      "text": "Presentation tends to be age-dependent, with symptoms such as flank pain and haematuria being more common in older children. Non-specific symptoms (e.g. irritability, vomiting) are common in very young children. Haematuria - usually visible, occurring with or without pain - is less common in children. However, nonvisible haematuria may be the sole indicator and is more common in children. In some cases, urinary infection may be the only finding leading to radiological imaging in which a stone is identified [1005,1006].",
+      "tables": []
+    },
+    {
+      "anchor": "#18-3-1-imaging",
+      "title": "18.3.1. Imaging",
+      "level": 4,
+      "text": "Generally, US should be used as a first approach. Renal US is very effective for identifying stones in the kidney. Many radiopaque stones can be identified with a simple abdominal flat-plate examination. The most sensitive test for identifying stones in the urinary system (especially for ureteric stones) is non-contrast helical CT scanning. It is safe and rapid, with 97% sensitivity and 96% specificity [1007-1009]. Despite its high diagnostic accuracy, because of the potential radiation hazards, its use should be reserved for cases with noninformative US and/or plain abdominal radiograph. Low dose protocols have also been developed with the goal of reducing radiation dose with adequate image quality [1010]. Intravenous pyelography is rarely used in children but may be needed to delineate the caliceal anatomy prior to percutaneous or open surgery.",
+      "tables": []
+    },
+    {
+      "anchor": "#18-3-2-metabolic-evaluation",
+      "title": "18.3.2. Metabolic evaluation",
+      "level": 4,
+      "text": "Due to the high incidence of predisposing factors for urolithiasis in children and high stone recurrence rates, every child with a urinary stone should be given a complete metabolic evaluation [969,1002,1011-1013]. A limited urinary metabolic evaluation (24h calcium, 24h citrate and 24h oxalate and low urinary volume) is able to detect the vast majority of clinically significant metabolic abnormalities [1014]. However, most of the time collections are inadequate and must be repeated [1015]. Metabolic evaluation includes: family and patient history of metabolic problems and dietary habits; analysis of stone composition (following stone analysis, metabolic evaluation can be modified according to the specific stone type); electrolytes, blood/urea/nitrogen (BUN), creatinine, calcium, phosphorus, alkaline phosphatase, uric acid, total protein, carbonate, albumin, and parathyroid hormone (if there is hypercalcaemia); spot urinalysis and urine culture, including ratio of calcium to creatinine; urine tests, including a 24-hour urine collection for calcium, phosphorus, magnesium, oxalate, uric acid citrate, protein, and creatinine clearance; and 24-hour cystine analysis if cystinuria is suspected (positive sodium nitroprusside test, cystine stone, cystine hexagonal crystals in urine). Figure 11 provides an algorithm on how to perform metabolic investigations in urinary stone disease in children and how to plan medical treatment accordingly. Figure 11: Algorithm for metabolic investigations in urinary stone disease in children Ca = calcium; HCTZ = hydrochlorothiazide; Mg = magnesium; Ox = oxalate; PTH = parathyroid hormone; RTA = renal tubular acidosis; SWL = extracorporeal shockwave lithotripsy; Uric A = uric acid.",
+      "tables": []
+    },
+    {
+      "anchor": "#18-3-3-urolithiasis-in-infants",
+      "title": "18.3.3. Urolithiasis in infants",
+      "level": 4,
+      "text": "Approximately 9-23% of paediatric urolithiasis patients are under one year old. Infantile urolithiasis appears to be a separate entity since the aetiology and the clinical course of the disease is different than in other age groups. A study on 2,513 children with urolithiasis demonstrated that microlithiasis (< 3mm) in infants should be differentiated from other age groups since the majority of them (85%) resolve spontaneously after one year of follow-up. It has also been shown that underlying metabolic abnormality is different than in older children. In this specific age group, calcium oxalate stones are not as common as in older age groups, whereas ammonium acid urate stones are more common [970,1016]. However, if the stone size increases or the patient becomes symptomatic during follow-up, the stones should be treated appropriately. Another study found that only 15% of infantile urolithiasis required intervention after one-year follow-up, and the only predictor for intervention was the size of the stone [1017]. Two other studies concluded that stone size larger than 4.5mm and 5mm in infants are more likely to require intervention [1018,1019]. Therefore, observation should be the primary option for the majority of the infantile urolithiasis. If the patient becomes symptomatic or there is an increase in size, intervention can be discussed. If an intervention is planned, SWL, retrograde intrarenal surgery (RIRS) or percutaneous nephrolithotomy (PCNL) can be offered, depending on the characteristics of the stone and the patient. All treatment modalities were found to be feasible with high success rates in infants [1020-1022].",
+      "tables": []
+    },
+    {
+      "anchor": "#18-4-management",
+      "title": "18.4. Management",
+      "level": 3,
+      "text": "Adequate fluid intake and restricting the use of salt within daily allowance range are the general recommendations besides the specific medical treatment against the detected metabolic abnormalities. With the advance of technology, stone management has changed from open surgical approaches to endoscopic techniques that are less invasive. Deciding on the type of treatment depends on the number, size, location, stone composition and the anatomy of the urinary tract [1012,1023,1024]. Expectant management is the initial approach in children with asymptomatic small size stones (< 4-5mm) with a possibility of spontaneous clearance. A study in a paediatric population showed that stone size > 6.7mm and haematuria were negative predictors for spontaneous stone passage [1025]. There is no consensus on the size of stones for different ages eligible for clearance and the duration of conservative follow-up. Adult literature reveals the benefits of medical expulsive therapy (MET) using α-blockers. Although experience in children is limited showing various results [1026], a meta-analysis of three randomised and two retrospective studies demonstrate that treatment with MET results in increased odds of spontaneous ureteral stone passage and a low rate of adverse events [1013,1027]. Stone size and ureteral wall thickness were found to be highly predictive for MET success. Patient age, BMI, stone density and degree of hydronephrosis had no predictive value in this aspect [1028]. Another RCT in the age group of six to fourteen years comparing the effectivity of silodosin, tamsulosin and placebo as MET for distal ureteric stones less than 1cm revealed higher stone expulsion rate for Silodosin (89.3%), compared to tamsulosin (74.5%) and placebo (51.8%) in children [1029]. A Cochrane review including 125 children from one to eighteen years of age with Ca-containing idiopathic nephrolithiasis showed that oral potassium citrate may reduce recurrence after SWL. However, a substantial number of children stopped medication due to adverse events [1030]. Currently, most paediatric stones can easily be managed by SWL, RIRS or PCNL. Only a small portion of children with anatomical abnormalities may require other types of surgical intervention (open, robotic, laparoscopic). All attempts must be made to completely remove all stones since post-operative residual fragments pass spontaneously in only 20-25% of cases [1031,1032]. A congenital obstructive uropathy should be managed together with stone removal therapy to prevent recurrence.",
+      "tables": []
+    },
+    {
+      "anchor": "#18-4-1-extracorporeal-shockwave-lithotripsy",
+      "title": "18.4.1. Extracorporeal shockwave lithotripsy",
+      "level": 4,
+      "text": "Many reports confirm that SWL can be performed in children with no suspicion of long-term morbidity of the kidney [1033-1040]. The mean number of shockwaves for each treatment is approximately 1,800 and 2,000 (up to 4,000 if needed), and the mean power settings vary between 14kV and 21kV. Recently, two separate RCTs compared the outcomes of low versus intermediate frequency during SWL and found no significant difference [1041,1042]. The use of US and digital fluoroscopy has significantly decreased the radiation exposure, and it has been shown that children are exposed to significantly lower doses of radiation compared to adults [1023,1043,1044]. Concerns regarding anaesthesia no longer present a problem thanks to advances in technique and medication, even in the infant age group. The type of anaesthesia should be general or dissociative for children under ten years of age, whereas conventional intravenous sedation or patient-controlled analgesia is an option for older children who are able to cooperate [1045] (LE: 2b). The general perception of paediatric SWL requiring anaesthesia has been challenged by a study showing that SWL without anaesthesia can be performed safely with comparable success rates in cooperative children > 9 years of age [1046]. Stone-free rates are significantly affected by various factors. Regardless of the location, as the stone size increases, the stone-free rates decrease and retreatment rate increases. The stone-free rates for < 1cm, 1-2cm, > 2cm and overall, were reported as nearly 90%, 80%, 60% and 80%, respectively. As the stone size increases, the need for additional sessions increases [1023,1043,1044,1047-1051]. Previous history of open surgery also decreases the success of SWL [1052]. Localisation of the calculi has been described as a significant factor affecting the success rates in various studies. Stones in the renal pelvis and upper ureter appear to respond better to SWL. For these locations, the stone clearance rates are nearly 90%. However, SWL was found to be less effective for caliceal stones, particularly the lower caliceal stones. Several studies reported stone-free rates for isolated lower caliceal stones varying between 50 and 62% [1051,1053,1054]. Shockwave lithotripsy can also be used to treat ureteral calculi. However, this is a more specific issue and controversial. The success rates with SWL are less for distal ureteric stones. There may also be technical problems with localisation and focusing of ureteric stones in children [1051,1054-1056]. The type of machine used significantly influences success rates and complications. First-generation machines can deliver more energy to a larger focal zone, resulting in higher fragmentation rates in a single therapy. However, general anaesthesia is usually required due to the intolerable discomfort associated with a first-generation machine. Later-generation machines have a smaller focal zone, deliver less energy and have a lower risk of pulmonary trauma. However, additional treatments may be needed. The success rate is higher in younger children [1049]. Although stenting does not affect stone clearance, overall complication rates are higher and hospital stay is longer in the unstented patient with larger stones [1049,1051]. Stenting is essential in solitary kidneys undergoing SWL treatment. Children with a large stone burden have a high risk of developing Steinstrasse and urinary obstruction and should be followed more closely for the risk of prolonged urinary tract obstruction after SWL. Post-SWL stent or nephrostomy tube placement may be needed in cases of prolonged obstruction [1002,1048]. The Hounsfield Unit (HU) of stone on non-contrast tomography has also been shown to be a predictive factor for success in children, and SWL was found to be more successful in stones with HU of less than 600 [1032] and 1,000 [1057]. Two nomogram studies revealed male gender, younger age, smaller stone size, single stone, non-lower-pole localisation and negative history for previous intervention to be favourable factors for stone clearance in paediatric SWL [1058,1059]. A comparative study reported that these two nomograms are independent predictors of stone-free rate following SWL in paediatric patients [1060]. A systematic review confirmed that those two nomograms have equal value in predicting outcomes of SWL in children [1061]. Although, the invention of miniaturised endoscopic instruments seems to reduce the importance and popularity of SWL, it has the advantage of not carrying the risk of certain complications related to endoscopic surgeries and with fewer postoperative emergency visits and anaesthetic sessions and less pain [1062,1063]. Complications arising from SWL in children are usually self-limiting and transient. The most common are: renal colic; transient hydronephrosis; dermal ecchymosis; UTI; formation of Steinstrasse; sepsis; and hamoptysis (rare). In children with sterile preoperative urine cultures, antibiotic pr",
+      "tables": []
+    },
+    {
+      "anchor": "#18-4-2-percutaneous-nephrolithotomy",
+      "title": "18.4.2. Percutaneous nephrolithotomy",
+      "level": 4,
+      "text": "Shockwave lithotripsy is the first choice for treating most renal paediatric stones. However, percutaneous renal surgery should be used for larger and complex stones. Preoperative evaluation, indication and surgical technique are similar in children and adults. In most cases, PCNL is used as monotherapy, but is also used as an adjunctive procedure to other therapies. The use of adult-sized instruments, in association with an increased number of tracts and sheath size, seems to increase blood loss. However, the development of small-calibre instruments (mini PCNL, ultra-mini PCNL, super-mini PCNL and microperc) means that PCNL can be used in children. Miniaturised PCNL has several advantages compared to standard PCNL, such as a smaller skin incision, single-step dilation and sheath placement, good working access for paediatric instruments, variable length and lower cost [1064-1066]. As monotherapy, PCNL is considerably effective and safe. The reported stone-free rates in the recent literature are between 86.9% and 98.5% after a single session. These rates increase with adjunctive measures, such as second-look PCNL, SWL and URS. Even in complete staghorn cases, a clearance rate of 89% has been achieved following a single session [1067-1072]. The mean postoperative hospital stay is between one and four days and is much shorter than open surgery [1073]. The less-invasive nature of this technique has made it superior to open surgery for treating renal stones in children [1074-1081]. The most frequently reported complications of PCNL in children are bleeding, postoperative fever or infection, and persistent urinary leakage. Bleeding requiring transfusion is reported in less than 10% of patients [1077,1080,1082-1085] and is closely associated with stone burden, operative time, sheath size and the number of tracts [1077,1078,1086]. In recent studies, postoperative infectious complications, such as fever with or without documented UTI, are reported in fewer than 15% of cases [1077,1080,1082,1083,1085,1087] and the origin of fever is not always found to be the infection. Due to the smaller size of the probes, laser energy is easier to use in smaller instruments and is more useful for paediatric cases [1067,1088-1090]. Using high-power laser (> 40W) during PCNL is feasible and may be helpful in the treatment of staghorn stones [1091], but it should be kept in mind that increased temperatures inside the smaller paediatric kidney might lead to tissue damage, as has been shown in simulation models [1092]. With the availability of smaller-size instruments, miniaturised PCNL (‘minipark’) through a 13F or 14F sheath [1066,1087,1093], as well as ultra-mini PCNL (UMP) through 12F sheaths [1094] have become possible, with decreased transfusion rates [1087]. The mini- and super-mini PCNL (SMP) were shown to have higher efficacy with low complication rates Clavien grade < 3b, which some authors deemed to be a safe alternative to SWL [1074,1095]. In this study, 108 children under twelve years old with a single stone (10-20mm) in the renal pelvis or calyces were randomised into two groups: mini PCNL or SWL. The stone-free rate after a single session was significantly higher for PCNL (88.9%) compared to SWL (55.6%) [1074]. After second and third sessions, SWL success increased to 88.8% [1096]. The complication rates were 22.2% in PCNL and 14.8% in SWL without statistical significance. The SMP was shown to be advantageous over mini-PCNL in terms of complications with similar stone-free rates [1096,1097]. This miniaturisation has been further developed into the technique of ‘microperc’ using a 4.85F ‘all-seeing needle.’ This technique enables the stone to be fragmented by a laser in situ and left for spontaneous passage [1098]. A study revealed that microperc provides a similar SFR with similar complication rates and a lower additional treatment rate compared with SWL in the treatment of kidney stone disease in children [1099]. For stones 10-20mm, micro-PCNL was shown to have comparable results with less bleeding compared to mini-PCNL [1075] and similar outcomes with less anaesthetic sessions compared to RIRS [1081]. As experience has accumulated in adult cases, new approaches have started to be applied in children, including tubeless PCNL. This technique has been used in uncomplicated surgery for stones < 2cm, with patients left either with an indwelling catheter or double-J stent in the ureter [1084,1100] or totally tubeless [1101]. Moreover, the use of US for establishment of access is gaining popularity [1076,1079,1102]. Traditionally, PCNL in children is performed in prone position. Another trend in the literature is the performance of PCNL in flank-free modified supine position in children [1102,1103]. The proposed advantages are shorter operative time and enabling a simultaneous ureteroscopic procedure without changing the position of the patient. In a recent study, 55 paediatric patients with kidney stones who underwent UMP we",
+      "tables": []
+    },
+    {
+      "anchor": "#18-4-3-ureterorenoscopy",
+      "title": "18.4.3. Ureterorenoscopy",
+      "level": 4,
+      "text": "The increasing availability of smaller size endourological equipment has made it possible to manage paediatric ureteral stones using endoscopic techniques. The technique used in children is similar to the one used in adults. Guidewires are strongly recommended, and the procedure should be performed using direct vision. Routine balloon dilation of the ureterovesical junction and ureteral stenting are controversial. In general, ureteric dilatation is performed only in selected cases. There is a tendency to use hydrodilatation more because it is similarly effective [1067,1107,1108]. Various lithotripsy techniques, including ultrasonic, pneumatic and laser lithotripsy, have all been shown to be safe and effective. Due to the smaller size of the probes, laser energy is easier to use in smaller instruments and is more useful for paediatric cases [1109]. All studies reporting the use of endoscopy for ureteric stones in children have clearly demonstrated that there is no significant risk of ureteric strictures or reflux with this mode of therapy. The risk of postoperative hydronephrosis depends on the presence of impacted stone and ureteral injury during operation [1110]. A multi-institutional study on the use of semirigid ureteroscopy for ureteral calculi in children showed that the procedure is effective with a 90% SFR and efficacy quotient. The study also focused on the factors affecting the complication rates. The authors found that, although operating time, age, institutional experience, orifice dilation, stenting and stone burden were significant on univariate analysis, multivariate analysis revealed that operating time was the only significant parameter affecting the complication rate [1107]. However, for proximal ureteral stones, semi-rigid ureteroscopy is not a good first option because of higher complication and failure rates [1111]. A literature review contains a growing number of case series on the use of flexible ureterorenoscopic interventions in children. Both intrarenal and ureteric stones can be treated using this approach [1112-1117]. In these series, the authors generally did not use active orifice dilation but attempted to use a ureteral sheath where possible. However, a significant problem was the inability to obtain retrograde access to the ureter in approximately half of the cases [1113,1115]. This problem can be overcome by stenting and leaving the stent indwelling for passive dilation of the orifice and performing the procedure in a second session. The success rates varied between 60 and 100%, with a negligible number of complications [1112,1114-1116,1118]. The need for additional procedures was related to stone size [1116]. Radiation exposure during URS can be minimised by using Flat Panel Detector c-Arms while simultaneously improving image quality [1119]. One RCT and four other comparative studies showed that RIRS had similar stone-free rates compared to SWL after three months, with fewer sessions [1062,1120-1123]. However, for stones larger than 20mm, RIRS monotherapy has lower stone-free rates than mini-PCNL, with the advantages of decreased radiation exposure, fewer complications and shorter hospital stay [1124]. In contrast, for stones between 10 and 20mm, RIRS has similar success and complication rates, shorter hospital stay and lower radiation exposure when compared to micro-PCNL [1125]. A recent systematic review revealed that, compared with the other two treatments, PCNL had a longer operative time, fluoroscopy time and hospital stay. Shockwave lithotripsy had a shorter hospital stay and higher retreatment rate and auxiliary rate in comparison with the other two treatments. It was also shown that PCNL presented a higher efficacy quotient than the other two treatments, and RIRS had a lower efficiency than SWL and PCNL. In the subgroup analysis of paediatric patients with stone ≤ 20mm, the comparative results were similar to those described above, except for the higher complication rate of PCNL than SWL [1126].",
+      "tables": []
+    },
+    {
+      "anchor": "#18-4-4-open-or-laparoscopic-stone-surgery",
+      "title": "18.4.4. Open or laparoscopic stone surgery",
+      "level": 4,
+      "text": "Most stones in children can be managed by SWL and endoscopic techniques. However, in some situations, open surgery is inevitable. Good candidates for open stone surgery include very young children with large stones and/or a congenitally obstructed system, which also requires surgical correction. Open surgery is also necessary in children with severe orthopaedic deformities that limit positioning for endoscopic procedures. In centres with well-established experience, a laparoscopic approach may be a good alternative for some cases as a last resort before open surgery. Suitable candidates include patients who have a history of previously failed endoscopic procedures, complex renal anatomy (ectopic or retrorenal colon), concomitant UPJ obstruction or caliceal diverticula, megaureter or large impacted stones. Laparoscopic stone surgery by means of conventional or a robot-assisted transperitoneal or retroperitoneal approach can be attempted. However, there is limited experience with these techniques, and they are not routine therapeutic modalities [1127-1130]. Bladder stones in children can usually be managed using endoscopic techniques. A recent randomised trial compared transurethral cystolithotripsy versus percutaneous cystolithotripsy for bladder stones smaller than 30mm and found similar success and complication rates, with success rates of more than 95% [1131]. Open surgery may also be used for very large bladder stones or for bladder stones caused by an anatomical problem. In addition to the advantages and disadvantages of each treatment modality for the specific size and location of the stone, consideration must be given to the availability of the instruments and the experience with each treatment modality before the choice of technique is made. Table 4 lists recommendations for interventional management. Table 4: Recommendations for management in paediatric stones Stone size and localisation* Primary treatment option Alternative treatment options Comment Infant microlithiasis (< 3mm, any location) Observation Intervention and/or medical treatment Individualised decision according to size progression, symptoms and metabolic factors. Staghorn stones PCNL Open/SWL Multiple sessions and accesses with PCNL may be needed. Combination with SWL may be useful. Pelvis < 10mm SWL RIRS/PCNL   Pelvis 10-20mm SWL/PCNL/RIRS Multiple sessions with SWL may be needed. PCNL and RIRS have a similar recommendation grade. Pelvis > 20mm PCNL SWL/RIRS Multiple sessions with SWL may be needed. Lower pole calyx < 10mm Observation or SWL PCNL/RIRS Stone clearance after SWL is lower than other locations. Lower pole calyx > 10mm PCNL RIRS/SWL Anatomical variations are important for complete clearance after SWL. Upper ureteric stones SWL URS Flexible scopes may be needed in case of retropulsion. Lower ureteric stones URS SWL   Bladder stones Endoscopic (transurethral or percutaneous) SWL/Open Open is easier and with less operative time with large stones. * Cystine and uric acid stones excluded. PCNL = percutaneous nephrolithotomy; RIRS = retrograde intrarenal surgery; SWL = shockwave lithotripsy; URS = ureteroscopy.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Stone size and localisation*",
+              "Primary treatment option",
+              "Alternative treatment options",
+              "Comment"
+            ],
+            [
+              "Infant microlithiasis(< 3mm, any location)",
+              "Observation",
+              "Intervention and/or medical treatment",
+              "Individualised decision according to size progression, symptoms and metabolic factors."
+            ],
+            [
+              "Staghorn stones",
+              "PCNL",
+              "Open/SWL",
+              "Multiple sessions and accesses with PCNL may be needed. Combination with SWL may be useful."
+            ],
+            [
+              "Pelvis < 10mm",
+              "SWL",
+              "RIRS/PCNL",
+              " "
+            ],
+            [
+              "Pelvis 10-20mm",
+              "SWL/PCNL/RIRS",
+              "Multiple sessions with SWL may be needed. PCNL and RIRS have a similar recommendation grade."
+            ],
+            [
+              "Pelvis > 20mm",
+              "PCNL",
+              "SWL/RIRS",
+              "Multiple sessions with SWL may be needed."
+            ],
+            [
+              "Lower pole calyx < 10mm",
+              "Observation or SWL",
+              "PCNL/RIRS",
+              "Stone clearance after SWL is lower than other locations."
+            ],
+            [
+              "Lower pole calyx > 10mm",
+              "PCNL",
+              "RIRS/SWL",
+              "Anatomical variations are important for complete clearance after SWL."
+            ],
+            [
+              "Upper ureteric stones",
+              "SWL",
+              "URS",
+              "Flexible scopes may be needed in case of retropulsion."
+            ],
+            [
+              "Lower ureteric stones",
+              "URS",
+              "SWL",
+              " "
+            ],
+            [
+              "Bladder stones",
+              "Endoscopic (transurethral or percutaneous)",
+              "SWL/Open",
+              "Open is easier and with less operative time with large stones."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#18-5-summary-of-evidence-and-recommendations-for-the-management-of-urinary-stones",
+      "title": "18.5. Summary of evidence and recommendations for the management of urinary stones",
+      "level": 3,
+      "text": "Summary of evidence The incidence of stone disease in children is increasing. Contemporary surgical treatment is based on minimally invasive modalities. Open surgery is very rarely indicated. The term ‘clinically insignificant residual fragments’ is not appropriate for children since most of them become symptomatic and require intervention. The majority of kidney stones < 3mm in infants resolve spontaneously. Recommendations Strength rating Use plain abdominal X-ray and ultrasound as the primary imaging techniques for the diagnosis and follow-up of stones. Strong Use low-dose, non-contrast computed tomography in cases with a doubtful diagnosis, particularly of ureteral stones or complex cases requiring surgery. Strong Perform a metabolic evaluation in any child with urinary stone disease. Any kind of interventional treatment should be supported with medical treatment for the underlying metabolic abnormality, if detected. Strong Limit open surgery under circumstances in which the child is very young with large stones, in association with congenital problems requiring surgical correction and/or with severe orthopaedic deformities that limit positioning for endoscopic procedures. Strong Observe infant microlithiasis unless symptoms occur or size increases significantly. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence"
+            ],
+            [
+              "The incidence of stone disease in children is increasing."
+            ],
+            [
+              "Contemporary surgical treatment is based on minimally invasive modalities. Open surgery is very rarely indicated."
+            ],
+            [
+              "The term ‘clinically insignificant residual fragments’ is not appropriate for children since most of them become symptomatic and require intervention."
+            ],
+            [
+              "The majority of kidney stones < 3mm in infants resolve spontaneously."
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use plain abdominal X-ray and ultrasound as the primary imaging techniques for the diagnosis and follow-up of stones.",
+              "Strong"
+            ],
+            [
+              "Use low-dose, non-contrast computed tomography in cases with a doubtful diagnosis, particularly of ureteral stones or complex cases requiring surgery.",
+              "Strong"
+            ],
+            [
+              "Perform a metabolic evaluation in any child with urinary stone disease. Any kind of interventional treatment should be supported with medical treatment for the underlying metabolic abnormality, if detected.",
+              "Strong"
+            ],
+            [
+              "Limit open surgery under circumstances in which the child is very young with large stones, in association with congenital problems requiring surgical correction and/or with severe orthopaedic deformities that limit positioning for endoscopic procedures.",
+              "Strong"
+            ],
+            [
+              "Observe infant microlithiasis unless symptoms occur or size increases significantly.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 3
+}

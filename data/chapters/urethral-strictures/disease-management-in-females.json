@@ -1,0 +1,640 @@
+{
+  "guideline": "urethral-strictures",
+  "chapter": "disease-management-in-females",
+  "url": "https://uroweb.org/guidelines/urethral-strictures/chapter/disease-management-in-females",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Summary of changes",
+      "anchor": "#1-5-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODOLOGY",
+      "anchor": "#2-methodology"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Methods",
+      "anchor": "#2-1-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. DEFINITION EPIDEMIOLOGY AETIOLOGY AND PREVENTION",
+      "anchor": "#3-definition-epidemiology-aetiology-and-prevention"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definitions",
+      "anchor": "#3-1-definitions"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Aetiology and prevention",
+      "anchor": "#3-3-aetiology-and-prevention"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Aetiology and prevention in males",
+      "anchor": "#3-3-1-aetiology-and-prevention-in-males"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Aetiology in females",
+      "anchor": "#3-3-2-aetiology-in-females"
+    },
+    {
+      "level": 2,
+      "text": "4. CLASSIFICATIONS",
+      "anchor": "#4-classifications"
+    },
+    {
+      "level": 3,
+      "text": "4.1. According to stricture location",
+      "anchor": "#4-1-according-to-stricture-location"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. In males",
+      "anchor": "#4-1-1-in-males"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. In females",
+      "anchor": "#4-1-2-in-females"
+    },
+    {
+      "level": 3,
+      "text": "4.2. According to stricture tightness",
+      "anchor": "#4-2-according-to-stricture-tightness"
+    },
+    {
+      "level": 3,
+      "text": "4.3. According to stricture severity",
+      "anchor": "#4-3-according-to-stricture-severity"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Strictures in transgender men and woman",
+      "anchor": "#4-4-strictures-in-transgender-men-and-woman"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Trans women",
+      "anchor": "#4-4-1-trans-women"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Trans men",
+      "anchor": "#4-4-2-trans-men"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION",
+      "anchor": "#5-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Patient history",
+      "anchor": "#5-1-patient-history"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Physical examination",
+      "anchor": "#5-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Further diagnostic evaluation",
+      "anchor": "#5-2-1-further-diagnostic-evaluation"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT IN MALES",
+      "anchor": "#6-disease-management-in-males"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Conservative options",
+      "anchor": "#6-1-conservative-options"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Observation",
+      "anchor": "#6-1-1-observation"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Suprapubic catheter",
+      "anchor": "#6-1-2-suprapubic-catheter"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Endoluminal treatment of anterior urethral strictures in males",
+      "anchor": "#6-2-endoluminal-treatment-of-anterior-urethral-strictures-in-males"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Direct vision internal urethrotomy",
+      "anchor": "#6-2-1-direct-vision-internal-urethrotomy"
+    },
+    {
+      "level": 4,
+      "text": "6.2.2. Single dilatation",
+      "anchor": "#6-2-2-single-dilatation"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Open repairs (urethroplasty): site and aetiology (clinical scenario) treatment options",
+      "anchor": "#6-3-open-repairs-urethroplasty-site-and-aetiology-clinical-scenario-treatment-options"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. The role of urethroplasty in the management of penile urethral strictures",
+      "anchor": "#6-3-1-the-role-of-urethroplasty-in-the-management-of-penile-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Urethroplasty for bulbar strictures",
+      "anchor": "#6-3-2-urethroplasty-for-bulbar-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.3. Urethroplasty for penobulbar or panurethral strictures",
+      "anchor": "#6-3-3-urethroplasty-for-penobulbar-or-panurethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.4. Perineal urethrostomy",
+      "anchor": "#6-3-4-perineal-urethrostomy"
+    },
+    {
+      "level": 4,
+      "text": "6.3.5. Posterior urethra",
+      "anchor": "#6-3-5-posterior-urethra"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT IN FEMALES",
+      "anchor": "#7-disease-management-in-females"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Signs and symptoms of female urethral strictures",
+      "anchor": "#7-1-signs-and-symptoms-of-female-urethral-strictures"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Diagnosis of female urethral strictures",
+      "anchor": "#7-2-diagnosis-of-female-urethral-strictures"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Treatment of female urethral strictures",
+      "anchor": "#7-3-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Minimally invasive techniques for treatment of female urethral strictures",
+      "anchor": "#7-3-1-minimally-invasive-techniques-for-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Urethroplasty for treatment of female urethral strictures",
+      "anchor": "#7-3-2-urethroplasty-for-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 2,
+      "text": "8. DISEASE MANAGEMENT IN TRANSGENDER PATIENTS",
+      "anchor": "#8-disease-management-in-transgender-patients"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Treatment of strictures in trans men",
+      "anchor": "#8-1-treatment-of-strictures-in-trans-men"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Management of strictures early after neophallic reconstruction",
+      "anchor": "#8-1-1-management-of-strictures-early-after-neophallic-reconstruction"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Treatment of meatal stenosis in trans men",
+      "anchor": "#8-1-2-treatment-of-meatal-stenosis-in-trans-men"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Treatment of strictures at the neophallic urethra",
+      "anchor": "#8-1-3-treatment-of-strictures-at-the-neophallic-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.4. Treatment of strictures at the anastomosis neophallic urethra-fixed part of the urethra",
+      "anchor": "#8-1-4-treatment-of-strictures-at-the-anastomosis-neophallic-urethra-fixed-part-of-the-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.5. Treatment of strictures at the fixed part of the urethra",
+      "anchor": "#8-1-5-treatment-of-strictures-at-the-fixed-part-of-the-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.6. Definitive perineostomy in trans men",
+      "anchor": "#8-1-6-definitive-perineostomy-in-trans-men"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Perioperative care after treatment of strictures in trans men",
+      "anchor": "#8-2-perioperative-care-after-treatment-of-strictures-in-trans-men"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Strictures in trans women",
+      "anchor": "#8-3-strictures-in-trans-women"
+    },
+    {
+      "level": 2,
+      "text": "9. TISSUE TRANSFER",
+      "anchor": "#9-tissue-transfer"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Comparison of grafts with flaps",
+      "anchor": "#9-1-comparison-of-grafts-with-flaps"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Comparison of different types of flaps",
+      "anchor": "#9-2-comparison-of-different-types-of-flaps"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Comparison of different types of grafts",
+      "anchor": "#9-3-comparison-of-different-types-of-grafts"
+    },
+    {
+      "level": 3,
+      "text": "9.4. Tissue engineered grafts",
+      "anchor": "#9-4-tissue-engineered-grafts"
+    },
+    {
+      "level": 4,
+      "text": "9.4.1. Cell-free tissue engineered grafts",
+      "anchor": "#9-4-1-cell-free-tissue-engineered-grafts"
+    },
+    {
+      "level": 4,
+      "text": "9.4.2. Autologous tissue engineered oral mucosa grafts",
+      "anchor": "#9-4-2-autologous-tissue-engineered-oral-mucosa-grafts"
+    },
+    {
+      "level": 3,
+      "text": "9.5. Management of oral cavity after buccal mucosa harvesting",
+      "anchor": "#9-5-management-of-oral-cavity-after-buccal-mucosa-harvesting"
+    },
+    {
+      "level": 2,
+      "text": "10. PERIOPERATIVE CARE OF URETHRAL SURGERY",
+      "anchor": "#10-perioperative-care-of-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Urethral rest",
+      "anchor": "#10-1-urethral-rest"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Antibiotics",
+      "anchor": "#10-2-antibiotics"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Catheter management",
+      "anchor": "#10-3-catheter-management"
+    },
+    {
+      "level": 2,
+      "text": "11. FOLLOW UP",
+      "anchor": "#11-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "11.1. Rationale for follow-up after urethral surgery",
+      "anchor": "#11-1-rationale-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.2. Definition of success after urethroplasty surgery",
+      "anchor": "#11-2-definition-of-success-after-urethroplasty-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.3. Follow-up tools after urethral surgery",
+      "anchor": "#11-3-follow-up-tools-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.1. Diagnostic tools for follow-up after urethral surgery",
+      "anchor": "#11-3-1-diagnostic-tools-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.2. Screening tools for follow-up after urethral surgery",
+      "anchor": "#11-3-2-screening-tools-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.3. Quality of life assessment, including disease specific questionnaires during follow-up after urethral surgery",
+      "anchor": "#11-3-3-quality-of-life-assessment-including-disease-specific-questionnaires-during-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.4. Ideal follow-up interval after urethral surgery",
+      "anchor": "#11-4-ideal-follow-up-interval-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.5. Length of follow-up after urethral surgery",
+      "anchor": "#11-5-length-of-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.6. Risk-stratified proposals during follow-up after urethral surgery",
+      "anchor": "#11-6-risk-stratified-proposals-during-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.7. Follow-up protocol proposal after urethroplasty",
+      "anchor": "#11-7-follow-up-protocol-proposal-after-urethroplasty"
+    },
+    {
+      "level": 4,
+      "text": "11.7.1. Surgeries with low risk of recurrence",
+      "anchor": "#11-7-1-surgeries-with-low-risk-of-recurrence"
+    },
+    {
+      "level": 4,
+      "text": "11.7.2. Surgical management options with standard risk of recurrence",
+      "anchor": "#11-7-2-surgical-management-options-with-standard-risk-of-recurrence"
+    },
+    {
+      "level": 2,
+      "text": "12. REFERENCES",
+      "anchor": "#12-references"
+    },
+    {
+      "level": 2,
+      "text": "13. CONFLICT OF INTEREST",
+      "anchor": "#13-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "14. CITATION INFORMATION",
+      "anchor": "#14-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "15. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#15-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#urethral-strictures",
+      "title": "Urethral Strictures",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 7. Disease Management In Females Introduction Methodology Definition Epidemiology Aetiology And Prevention Classifications Diagnostic Evaluation Disease Management In Males Disease Management In Females Disease Management In Transgender Patients Tissue Transfer Perioperative Care Of Urethral Surgery Follow Up References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#7-disease-management-in-females",
+      "title": "7. DISEASE MANAGEMENT IN FEMALES",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#7-1-signs-and-symptoms-of-female-urethral-strictures",
+      "title": "7.1. Signs and symptoms of female urethral strictures",
+      "level": 3,
+      "text": "The symptoms of female urethral strictures (FUS) are non-specific and therefore generally non-diagnostic. Female urethral stricture presents with mixed filling and voiding symptoms with frequency in 63%, urgency in 55%, incomplete emptying in 36%, poor flow in 32%, urinary incontinence in 31% (stress, urge or mixed), strain void in 21.5%, UTI in 20.5%, nocturia in 20.5%, and dysuria in 20%. It very rarely presents with urethral pain (2.7%), terminal dribble (2%), haematuria (1.6%) or renal failure (0.5%) (see supplementary Table S7.1). There is often a significant delay in diagnosis of FUS from time of development of symptoms with mean delays of 4.3–12 years described (range 1–30 years) [141].",
+      "tables": []
+    },
+    {
+      "anchor": "#7-2-diagnosis-of-female-urethral-strictures",
+      "title": "7.2. Diagnosis of female urethral strictures",
+      "level": 3,
+      "text": "Twenty-four studies detail investigations leading to a diagnosis of FUS (see supplementary Table S7.2). In all cases, a full history was taken, and a detailed pelvic examination was performed to assess for prolapse, masses, scars and vulval dermatological disorders such as LS, lichen planus or vulvovaginal atrophy. The use of validated questionnaires can help to assess the patient’s LUTS and measure the impact of therapeutic interventions [493]. Flow rate and US PVR assessment was evaluated in 19 (75%) and 18 (71%) studies, respectively. Lateral VCUG was performed routinely in 16 studies (63%) and as required in one study (4%). Cystourethroscopy was performed routinely in 14 studies (54%) and as required in two studies (8%). Urodynamics (UDS) were performed routinely in four studies (17%) and as required in seven studies (30%), whilst videourodynamics (VUDS) were performed routinely in three studies (13%), and urethral calibration was performed in four studies (13%). Pelvic MRI was performed as required in four series (17%), whilst transrectal US (TRUS) and renal US were each performed routinely in two series (8%), and intravenous urography (IVU) in ten (4%). Flow rate and PVR assessment make inherent sense as initial non-invasive screening tools and allow for simple monitoring of effect of treatment. Voiding cystourethrography and/or VUDS will permit diagnosis of BOO [15,494], visualisation of ballooning above the proximal end of the FUS [139], and delineation of alternate or co-existent diagnoses such as detrusor overactivity (DO) and SUI [132], although VCUG, VUDS and UDS require the ability to insert a 6Fr catheter and may not be possible without preliminary urethral dilatation in all cases of FUS [495]. Likewise, passage of a cystourethroscopy will require a preliminary dilation in the majority of cases, even when a paediatric ureterorenoscope is utilised [130]. Cystourethroscopy will allow for formal identification of the distal end of the FUS and will also allow for exclusion of a functional cause of BOO [139]. Magnetic resonance imaging is performed mainly to exclude alternate pathology such as urethral diverticulum and urethral carcinoma and also allows assessment of the degree of urethral fibrosis associated with FUS [495]. Proponents of TRUS utilise it in lieu of MRI and also for visualisation of the dilated urethra above the proximal end of the FUS. In a study of 60 patients with outflow obstruction diagnosed during urodynamic evaluation, gel-infused translabial ultrasound was performed. The technique proved to be non-invasive and accurate, except in cases involving short distal or meatal strictures [496].",
+      "tables": []
+    },
+    {
+      "anchor": "#7-3-treatment-of-female-urethral-strictures",
+      "title": "7.3. Treatment of female urethral strictures",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#7-3-1-minimally-invasive-techniques-for-treatment-of-female-urethral-strictures",
+      "title": "7.3.1. Minimally invasive techniques for treatment of female urethral strictures",
+      "level": 4,
+      "text": "Several minimally invasive treatments have been reported. These include urethrotomy, dilatation, meatotomy and meatoplasty. Meatotomy and meatoplasty are essentially the same procedure in the female urethra, and therefore the term ‘meatoplasty’ will be used, in the context of female urethral strictures, throughout this document. 7.3.1.a. Urethrotomy for treatment of female urethral strictures No papers were found detailing the use and outcomes of urethrotomy specifically for the management of FUS. Internal urethrotomy or dilation was used by Massey and Abrams [497] to treat a variety of pathologies, including FUS, causing symptoms of obstructed voiding, and resulted in symptomatic improvement in 80% of patients. As this study included women with a variety of complaints and did not assess urodynamic parameters, the results in the patient subset with true urethral stricture are unclear. If utilised, urethrotomy in the female urethra involves incisions at three, nine and occasionally 12 o’clock [497]. 7.3.1.b. Urethral dilatation for treatment of female urethral strictures With this treatment, the urethra is dilated to between 24Fr and 41Fr. Some patients will continue with ISD. Romman et al. 2012 [498] and Popat & Zimmern [495] also described suture plication of bleeding areas of the meatus if required post-urethral dilatation. Four studies described the results after 12 to 59 months follow-up of, in total, 183 patients having dilatation only. Patency rates ranges from 7.5 to 51% (see Table 7.1) [132, 133, 495, 498]. In another four studies that included, in total, 31 patients that continued to perform ISD, stabilisation of the stricture with 'patency' was obtained in 37.3–100% of cases at 12 to 21 months of follow-up (see Table 7.1) [6, 137, 140, 499]. New onset SUI (1.4%) and other complications are very rare after dilation (see supplementary Table S7.3). Due to the low complication rate, the minimally invasive nature of the technique and the reasonable success rate, it is acceptable to start with urethral dilation as a first-line treatment for an uncomplicated FUS. If the stricture recurs, repeat urethral dilatation is unlikely to be curative. 7.3.1.c. Meatoplasty for treatment of female urethral strictures Meatal stenosis is extremely rare, with only 2/58 (3%) of females evaluated for voiding dysfunction found to have true meatal stenosis [500]. Only one meatoplasty paper contains more than five patients and has been included for analysis (see supplementary Table S7.4) The patency rate of meatoplasty in girls in this paper is excellent, with 96% of the 50 girls in Heising’s series having a successful outcome with no reported side effects at 12 months. Forty-eight of 50 patients experienced resolution of their recurrent UTIs and improved voiding symptoms one year after meatoplasty [501]. There was no incontinence or other acute complications reported. For short meatal strictures, meatoplasty is the first-line treatment option.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-3-2-urethroplasty-for-treatment-of-female-urethral-strictures",
+      "title": "7.3.2. Urethroplasty for treatment of female urethral strictures",
+      "level": 4,
+      "text": "Twenty-nine papers reported the outcomes of urethroplasty for FUS disease in 917 patients after the scope search of the Panel. The Panel have analysed the outcomes of these urethroplasties according to flap or graft type and listed them as: vaginal graft, vaginal flap, labial/vestibular graft, labial/vestibular flap and buccal or lingual graft. In female urethroplasty, a dorsal approach is via a stricturotomy at 12 o’clock, a ventral approach is via a stricturotomy at six o’clock, and a circumferential approach is a full circumference reconstruction. 7.3.2.a. Vaginal graft augmentation urethroplasty for treatment of female urethral strictures There were five studies reporting vaginal graft urethroplasty containing 75 patients. All 75 vaginal graft urethroplasties were performed via a dorsal approach in women with a mean/median age of 38–60.6 years. At a mean/median follow-up time of 8.5–24.65 months following vaginal graft urethroplasty, 64 (85.3%, range 73–94%) patients had no recurrent stricture. No complications and no new onset urinary incontinence were reported. Mean/median flow rate improved from 4–8.23mls/s to 16.64–27.6ml/s, whilst mean/median PVR reduced from mean/median from 113.2–204mls (44-420) to mean/median 20–90.31mls. See supplementary Table S7.5 for further information. 7.3.2.b. Vaginal flap augmentation urethroplasty for treatment of female urethral strictures Vaginal flap urethroplasty was reported in 161 women and was always via a ventral approach, utilising an inverted U vaginal flap inlay in seven studies (n = 96) [131, 132, 135, 502-505], a lateral C vaginal flap in two studies (n = 47) [129, 137, 141, 505] an onlay vaginal flap in 17 patients in one study [506] and one vaginal island flap urethroplasty in one patient [135]. At a mean/median follow-up time of 10–80.7 months, patency rates of 81.4% (range 67–100%) were reported (Table 7.1). Eight (5%) patients had a simultaneous pubovaginal sling (PVS), six (3.7%) had a simultaneous Martius fat pad flap interposition, and one (0.6%) had a simultaneous excision of urethral diverticulum. Fifteen (9.3%) patients developed new onset UI, and 14 (8.7%) developed other acute complications including UTI and intravaginal direction of the urinary stream. See supplementary Table S7.6 for further information, 7.3.2.c. Labial/vestibular graft augmentation urethroplasty for treatment of female urethral strictures There were four papers detailing the outcomes of 57 patients having labial or vestibular graft urethroplasty (see supplementary Table S7.7): thirty had ventral labial minora graft [136, 145, 507], 13 had dorsal labia minora graft [140], and 14 had dorsal labia majora graft. At a mean follow-up of 15–24 months, patency rates of 93% (75–100%): 75–95% for ventral grafting and 100% with dorsal grafting (Table 7.1). Eight (26.7%) ventral labial graft patients developed urgency urinary incontinence immediately post-surgery, which settled completely without intervention within six months. There were no other complications. Post-void residual volume reduced from 141.9 +/- 44.2mL to 24.5 +/- 2-.9mL post-dorsal onlay labial minora graft urethroplasty. 7.3.2.d. Labial/vestibular flap urethroplasty for treatment of female urethral strictures There were two papers detailing the outcomes of 29 patients having labial/vestibular flap urethroplasty: 17 had a dorsal vestibular flap [508], whilst 12 had a dorsal labia minora flap [509]. At a mean/median follow-up of 6–15 months, the 12 ventral flap patients (100%) remained stricture-free, whilst 15 (88%) of the dorsal flap patients remained stricture-free at a mean of twelve months follow-up (Table 7.1 and supplementary Table S7.8). There were no adverse short- or long-term effects reported in either group. 7.3.2.e. Buccal and lingual mucosal graft augmentation urethroplasty for treatment of female urethral strictures There were 11 papers detailing the outcomes of 319 patients having dorsal onlay oral mucosal graft urethroplasty (DOOMG) all of whom had BMG except for those in the series of Sharma et al. , where lingual mucosa graft (LMG) was used in 15 patients [130-132, 135, 138, 494, 510-512]. Six papers detailed the outcomes of 247 patients having ventral onlay oral mucosal graft urethroplasty (VOOMG); 177 onlay BMG (VOBMG) [131, 139, 513, 514] and 70 inlay [515-517]. The outcomes of circumferential BMG urethroplast were only detailed in one paper about two patients [131]. At a mean/median follow-up of six to 33 months, 83% (69-95%) of DOOMG urethroplasty patients were stricture-free, whilst 90.7% (86-98%) of VOOMG patients were stricture-free at a mean/median of six to 38.1 months follow-up. Both circumferential BMG patients were stricture-free at a mean of 21 months follow-up (Table 7.1). Twenty-nine (9.1%) of DOOMG patients suffered a low-grade short-term adverse event; seven (2.2%) developed new onset stress urinary incontinence (SUI), and 22 (6.4%) suffered a low-grade self-limiting complication, whic",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Treatment",
+              "No. of studies",
+              "No. of patients",
+              "Patency rate (range %)",
+              "New onset UI (%)",
+              "Mean/Median FU (months)",
+              "Refs"
+            ],
+            [
+              "Urethral dilatation",
+              "6",
+              "257",
+              "40.1 (7.5–51)",
+              "1.4",
+              "12–59",
+              "[132, 133, 495, 498]"
+            ],
+            [
+              "Urethral dilatation + ISD/planned repeat dilatation",
+              "4",
+              "109",
+              "97(57–100)**",
+              "0",
+              "6-21",
+              "[6, 137, 140, 499]"
+            ],
+            [
+              "Dorsal vaginal graft urethroplasty",
+              "5",
+              "75",
+              "85.3(73–100)",
+              "0",
+              "85.3–24.65",
+              "[144, 512, 520-524]"
+            ],
+            [
+              "Ventral vaginal flap urethroplasty",
+              "9",
+              "161",
+              "81.4(67–100)",
+              "9.3",
+              "12–80.7",
+              "[129, 131, 132, 135, 137, 141, 502-506]"
+            ],
+            [
+              "Ventral labial/vestibular graft urethroplasty",
+              "2",
+              "30",
+              "93 (75–90.3)",
+              "26.7",
+              "24–37",
+              "[136, 145, 507, 525]"
+            ],
+            [
+              "Dorsal labial/vestibular graft urethroplasty",
+              "2",
+              "27",
+              "100",
+              "3.7",
+              "12–19",
+              "[140, 526, 527]"
+            ],
+            [
+              "Dorsal labial/ vestibular flap urethroplasty",
+              "2",
+              "29",
+              "93 (88–100)",
+              "0",
+              "6–15",
+              "[140, 508]"
+            ],
+            [
+              "Dorsal BMG urethroplasty",
+              "11",
+              "319",
+              "83 (69–95)",
+              "2.2",
+              "6–33",
+              "[130-132, 135, 138, 494, 505, 508, 510-512, 518, 523, 528, 529]"
+            ],
+            [
+              "Ventral BMG urethroplasty",
+              "6",
+              "247",
+              "90.7 (86–98)",
+              "3.2",
+              "6–38.1",
+              "[131, 139, 506, 513-518]"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Female urethral stricture symptoms are long-standing and non-specific, the most commonly reported are frequency, urgency, poor flow, incomplete emptying and urinary incontinence. It is important to exclude FUS in female patients with LUTS.",
+              "3"
+            ],
+            [
+              "Urethral dilatation alone to 24–41Fr provides low stricture-free rates of mean 40.1% at mean follow-up of 36 (12–59) months.",
+              "3"
+            ],
+            [
+              "Isolated repeat dilatation yields patency rates of 26.6%. However, urethral dilatation followed by ISD or regular planned dilatation, as palliation, provides patency rates of 97% at mean FU 6–21 months.",
+              "3"
+            ],
+            [
+              "Urethroplasty provides patency rates of 67–100%. Ventral-onlay BMG and DOBMG reported patency rates are 86–98% and 69–95%, respectively.",
+              "3"
+            ],
+            [
+              "Meatotomy/meatoplasty for short meatal strictures has a success rate of 98% at 12-months follow- up.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform flow rate, post-void residual and voiding cystourethrogram or videourodynamics in all women with refractory lower urinary tract symptoms.",
+              "Strong"
+            ],
+            [
+              "Perform urethral dilatation to 24–41Fr as initial treatment of female urethral stricture (FUS).",
+              "Weak"
+            ],
+            [
+              "Perform repeat urethral dilatation and start planned weekly intermittent self-dilatation (ISD) with a 16–18Fr catheter for the first recurrence of FUS or plan repeat dilatation.",
+              "Weak"
+            ],
+            [
+              "Perform urethroplasty in women with a second recurrence of FUS and who cannot perform ISD or wish definitive treatment. The technique for urethroplasty should be determined by the surgeon’s experience, availability and quality of graft/flap material and quality of the ventral versus dorsal urethra.",
+              "Strong"
+            ],
+            [
+              "Treat meatal strictures by meatotomy/meatoplasty.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 3
+}

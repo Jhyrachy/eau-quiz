@@ -1,0 +1,315 @@
+{
+  "url": "https://uroweb.org/guidelines/prostate-cancer/chapter/classification-and-staging-systems",
+  "slug": "prostate-cancer",
+  "chapter_slug": "classification-and-staging-systems",
+  "title": "classification-and-staging-systems",
+  "guideline": "prostate-cancer",
+  "year": "2024",
+  "sections": [
+    {
+      "anchor": "#4-classification-and-staging-systems",
+      "nav_anchor": "#4-classification-and-staging-systems",
+      "title": "4. CLASSIFICATION AND STAGING SYSTEMS",
+      "text": "EAU Guidelines on Prostate Cancer - CLASSIFICATION AND STAGING SYSTEMS Science &amp; Publications About Become member Guidelines Prostate Cancer Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... Introduction Methods Epidemiology And Aetiology Classification And Staging Systems Diagnostic Evaluation Treatment Follow Up Quality Of Life Outcomes In Prostate Cancer References Conflict Of Interest Citation Information Copyright And Terms Of Use 4. Classification And Staging Systems Introduction Methods Epidemiology And Aetiology Classification And Staging Systems Diagnostic Evaluation Treatment Follow Up Quality Of Life Outcomes In Prostate Cancer References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": [],
+      "level": 2
+    },
+    {
+      "anchor": "#4.1-classification",
+      "nav_anchor": "#4-1-classification",
+      "title": "4.1. Classification",
+      "text": "",
+      "tables": [],
+      "level": 3
+    },
+    {
+      "anchor": "#4.2-gleason-score-and-international-society-of-urological-pathology-2019-grade",
+      "nav_anchor": "#4-2-gleason-score-and-international-society-of-urological-pathology-2019-grade",
+      "title": "4.2. Gleason score and International Society of Urological Pathology 2019 grade",
+      "text": "The objective of a tumour classification system is to combine patients with a similar clinical outcome. This enables the following: discussion regarding prognosis and treatment with patients; design of clinical trials on relatively homogeneous populations; comparison of diagnostic and treatment outcomes from different hospitals across the world; development of recommendations for the treatment of these patient populations. Throughout these Guidelines, the following are used: the Union for International Cancer Control (UICC) 8th edition (2017); the Tumour, Node, Metastasis (TNM) classification for staging of PCa (Table 4.1) [109]; and the EAU risk group classification [110]. The EAU risk classification is based on the D’Amico risk classification grouping patients with a similar risk of biochemical recurrence (BCR) after radical prostatectomy (RP) or external beam radiotherapy (EBRT). Increasing granularity, such as in NCCN and Cambridge Prognostic Groups, improves model performance for predicting PCSM compared to the EAU risk classification [111,112]. Although the optimal risk stratification system remains to be defined, separation of the EAU intermediate-risk group into favourable and unfavourable intermediate-risk based on PSA and ISUP GG is recommended. Changes in the diagnostic pathway, such as imaging (e.g. MRI, Prostate-Specific Membrane Antigen [PSMA] Positron Emission Tomography Computed Tomography [PET/CT] scan) and biopsy (e.g. increasing number of systematic biopsy cores, targeted biopsy) may cause stage and grade shift, altering the risk profile of any specific classification systems [113]. This stage and grade shift should be taken into account in disease management decisions. Although the 2017 American Joint Committee on Cancer (AJCC) staging 8th edition specifically states that clinical staging should be based on digital rectal examination (DRE) only, the UICC does not make such an explicit statement. Since clinical stage, as assessed by DRE only, is included in the EAU risk group classification, cT stage should be based on DRE findings and not on imaging. Additional staging information based on imaging should be reported separately. A nonpalpable PCa with bilateral positive biopsies and extraprostatic extension (EPE) on MRI would therefore be categorised as cT1c with a separate report of MRI findings. Table 4.1: Clinical Tumour Node Metastasis (TNM) classification of PCa [109] Clinical Tumour Node Metastasis (TNM) classification of PCa &nbsp; T - Primary Tumour (stage based on digital rectal examination [DRE] only) TX Primary tumour cannot be assessed T0 No evidence of primary tumour T1 Clinically inapparent tumour that is not palpable &nbsp; T1a Tumour incidental histological finding in 5% or less of tissue resected &nbsp; T1b Tumour incidental histological finding in more than 5% of tissue resected &nbsp; T1c Tumour identified by needle biopsy (e.g. because of elevated prostate-specific antigen [PSA]) T2 Tumour that is palpable and confined within the prostate &nbsp; T2a Tumour involves one half of one lobe or less &nbsp; T2b Tumour involves more than half of one lobe, but not both lobes &nbsp; T2c Tumour involves both lobes T3 Tumour extends palpably through the prostatic capsule &nbsp; T3a Extracapsular extension (unilateral or bilateral) &nbsp; T3b Tumour invades seminal vesicle(s) T4 Tumour is fixed or invades adjacent structures other than seminal vesicles: external sphincter, rectum, levator muscles, and/or pelvic wall N - Regional (pelvic) Lymph Nodes 1 NX Regional lymph nodes cannot be assessed N0 No regional lymph node metastasis N1 Regional lymph node metastasis M - Distant Metastasis 2 M0 No distant metastasis M1 Distant metastasis &nbsp; M1a Non-regional lymph node(s) &nbsp; M1b Bone(s) &nbsp; M1c Other site(s) 1 Nodal metastasis no larger than 0.2cm can be designated pNmi.&nbsp; 2 When more than one site of metastasis is present, the most advanced category is used. (p)M1c is the most advanced category. Pathological staging (pTNM) is based on pathological tissue assessment and largely parallels the clinical TNM, except for clinical T1 and T2 substages. Pathological stages pT1a/b/c do not exist and histopathologically confirmed organ-confined PCas after RP are pathological stage pT2. The current UICC no longer recognises pT2 substages [109]. Of note, the EANM proposed a molecular imaging TNM (miTNM) classification, taking into account PSMA PET/CT findings [114]. The prognosis of the miT, miN and miM substages is likely to be better than their T, N and M counterparts due to the ‘Will Rogers phenomenon’ - the extent of this prognosis shift, as well as its practical interest and impact, remains to be assessed [115]. This reclassification is not endorsed by the UICC or the AJCC.",
+      "tables": [
+        [
+          [
+            "Clinical Tumour Node Metastasis (TNM) classification of PCa",
+            "&nbsp;"
+          ],
+          [
+            "T - Primary Tumour (stage based on digital rectal examination [DRE] only)"
+          ],
+          [
+            "TX",
+            "Primary tumour cannot be assessed"
+          ],
+          [
+            "T0",
+            "No evidence of primary tumour"
+          ],
+          [
+            "T1",
+            "Clinically inapparent tumour that is not palpable"
+          ],
+          [
+            "&nbsp;",
+            "T1a",
+            "Tumour incidental histological finding in 5% or less of tissue resected"
+          ],
+          [
+            "&nbsp;",
+            "T1b",
+            "Tumour incidental histological finding in more than 5% of tissue resected"
+          ],
+          [
+            "&nbsp;",
+            "T1c",
+            "Tumour identified by needle biopsy (e.g. because of elevated prostate-specific antigen [PSA])"
+          ],
+          [
+            "T2",
+            "Tumour that is palpable and confined within the prostate"
+          ],
+          [
+            "&nbsp;",
+            "T2a",
+            "Tumour involves one half of one lobe or less"
+          ],
+          [
+            "&nbsp;",
+            "T2b",
+            "Tumour involves more than half of one lobe, but not both lobes"
+          ],
+          [
+            "&nbsp;",
+            "T2c",
+            "Tumour involves both lobes"
+          ],
+          [
+            "T3",
+            "Tumour extends palpably through the prostatic capsule"
+          ],
+          [
+            "&nbsp;",
+            "T3a",
+            "Extracapsular extension (unilateral or bilateral)"
+          ],
+          [
+            "&nbsp;",
+            "T3b",
+            "Tumour invades seminal vesicle(s)"
+          ],
+          [
+            "T4",
+            "Tumour is fixed or invades adjacent structures other than seminal vesicles: external sphincter, rectum, levator muscles, and/or pelvic wall"
+          ],
+          [
+            "N - Regional (pelvic) Lymph Nodes1"
+          ],
+          [
+            "NX",
+            "Regional lymph nodes cannot be assessed"
+          ],
+          [
+            "N0",
+            "No regional lymph node metastasis"
+          ],
+          [
+            "N1",
+            "Regional lymph node metastasis"
+          ],
+          [
+            "M - Distant Metastasis2"
+          ],
+          [
+            "M0",
+            "No distant metastasis"
+          ],
+          [
+            "M1",
+            "Distant metastasis"
+          ],
+          [
+            "&nbsp;",
+            "M1a Non-regional lymph node(s)"
+          ],
+          [
+            "&nbsp;",
+            "M1b Bone(s)"
+          ],
+          [
+            "&nbsp;",
+            "M1c Other site(s)"
+          ]
+        ]
+      ],
+      "level": 3
+    },
+    {
+      "anchor": "#4.3-clinically-significant-prostate-cancer",
+      "nav_anchor": "#4-3-clinically-significant-prostate-cancer",
+      "title": "4.3. Clinically significant prostate cancer",
+      "text": "In the original Gleason grading system, five Gleason grades (ranging from 1 to 5) were distinguished based on histological tumour architecture, but in the 2005 and subsequent 2014 ISUP consensus meetings, Gleason grades 1 and 2 were eliminated [116,117]. The 2005 ISUP-modified Gleason score (GS) of biopsy-detected PCa comprises the Gleason grade of the most extensive (primary) pattern, plus the second most common (secondary) pattern, if two are present. If only one pattern is present, this pattern must be doubled to yield the GS. For three grades, the biopsy GS comprises the most common grade plus the highest grade, irrespective of its extent. If cribriform growth and intraductal carcinoma (IDC) is present intermixed with invasive PCa, this should be incorporated into the GS based on its underlying architectural pattern [118]. In addition to reporting of the carcinoma features for each biopsy site, providing an overall (or global) GS based on all carcinoma-positive biopsies is optional. The global GS takes into account the cumulative extent of each grade from all prostate biopsies. The ISUP endorsed grading system limits the number of PCa grades from 1 to 5 (Table 4.2) [117,119]. Table 4.2: International Society of Urological Pathology 2014 grade group system Gleason score ISUP grade group 2-6 1 7 (3+4) 2 7 (4+3) 3 8 (4+4 or 3+5 or 5+3) 4 9-10 (4+5 or 5+4 or 5+5) 5",
+      "tables": [
+        [
+          [
+            "Gleason score",
+            "ISUP grade group"
+          ],
+          [
+            "2-6",
+            "1"
+          ],
+          [
+            "7 (3+4)",
+            "2"
+          ],
+          [
+            "7 (4+3)",
+            "3"
+          ],
+          [
+            "8 (4+4 or 3+5 or 5+3)",
+            "4"
+          ],
+          [
+            "9-10 (4+5 or 5+4 or 5+5)",
+            "5"
+          ]
+        ]
+      ],
+      "level": 3
+    },
+    {
+      "anchor": "#4.4-prognostic-relevance-of-stratification",
+      "nav_anchor": "#4-4-prognostic-relevance-of-stratification",
+      "title": "4.4. Prognostic relevance of stratification",
+      "text": "The descriptor ‘clinically significant’ is widely used to differentiate PCa that may cause morbidity or death in a specific patient from types of PCa that rarely do. This distinction is particularly important as insignificant PCa is common [7]. Unless this distinction is made, such cancers are at high risk of being overtreated, with the treatment itself risking harmful side effects to patients. The overtreatment of insignificant PCas has also been criticised as a major drawback of population-based screening and individual early detection [120]. Although pathological factors are often used to delineate insignificant PCa, the definition of significant versus insignificant is a balance between tumour and patient factors. High-risk PCa is significant in almost all men, except when life expectancy is limited. Low-risk PCa is insignificant in almost all men. From a pathological perspective, in large studies of RP specimens with only ISUP GG 1 disease, EPE (0.3%) [121] and biochemical recurrence (3.5%) were rare, and seminal vesicle (SV) invasion or lymph node (LN) metastasis did not occur at all [122,123]. International Society of Urological Pathology GG 1 disease at RP itself can therefore be considered clinically insignificant and does not need oncological follow-up. Whilst ISUP GG 1 bears the hallmarks of cancer histologically, ISUP GG 1 at RP itself does not behave in a clinically malignant fashion [124]. It is important to note that the studies showing absence of metastasis in ISUP GG 1 were all conducted on RP specimens. Men with biopsy ISUP GG 1 who undergo operations for their disease have a low risk of postoperative BCR, metastasis and disease-specific death, particularly in case of high tumour biopsy volume and PSA levels due to under sampling of a higher-grade component [125]. In a contemporary retrospective study of men with cT1-T2 cN0 ISUP GG 1 PCa at mpMRI-targeted biopsy, 72% had ISUP GG&nbsp;≥&nbsp;2, 9% had ISUP GG&nbsp;≥&nbsp;3, 25% had pT3a and 4% had pT3b at subsequent RP [126]. In a Danish population-based registry study including men with localised biopsy ISUP GG 1 PCa diagnosed after 2006, 15-year PCSM was 1-4% for those initially treated by RP or RT, 5.5% for those on AS, and 14% for those commenced on WW [127]. Finally, modifications in PCa grading have led to a grade shift during the past twenty years. For example, the introduction of the ISUP grading modification in 2005 led to 20% of pre-ISUP 2005 GS 6 tumours being upgraded to GS 7 or higher, which must be taken into account when interpreting older studies [128]. The current practice of MRI-targeted and perilesional biopsies has improved diagnostic accuracy [129], however, sampling error may still occur such that higher grade cancer could be missed. In particular, this should be considered in case of high PSA density, high pathological biopsy tumour volume, and a visible lesion at MRI, but only ISUP GG 1 at biopsy [130,131]. Another complexity in defining insignificant cancer is that ISUP GG 1 may progress to higher grades over time, at a rate of approximately 1% per year [132] and becoming clinically significant at a later biopsy [133]. Therefore, although ISUP GG 1 itself can be described as clinically insignificant, it is important to take into account other tumour-related factors, such as PSA, stage, imaging prior to biopsy and adequate sampling core number [125]. When combined with low-risk clinical factors (Table 4.3), ISUP GG 1 represents low-risk PCa and recommended management options are active surveillance (AS) or watchful waiting (WW) (see Sections 6.2.1.a and 6.2.1.b). Epidemiological and autopsy data suggest that many ISUP GG 1 but also ISUP GG 2 PCas would remain undetectable during a man’s life [134] and therefore may be overtreated. There is insufficient data to relate modern histological grading, obtained often after MRI, to hard clinical endpoints but the assumption that if ISUP GG 1 is insignificant so everything else must be clinically significant is not supported. Interestingly, papers have commonly defined clinically significant cancer, using ISUP GG 2 and above but without a clear rationale [135,136]. Some groups have suggested ISUP GG 3 and above, or provide more than one definition within a single study [137,138]. Since there is a lack of consensus it is imperative that authors define and state in their own studies what they believe csPCa is and why, including exactly how the disease was diagnosed. Table 4.3: EAU risk groups for localised and locally advanced PCa Definition Low risk Intermediate risk High risk &nbsp; Favourable Unfavourable &nbsp; ISUP GG 1 and PSA&nbsp;&lt;&nbsp;10ng/mL and cT1-2* ISUP GG 2 and PSA&nbsp;&lt;&nbsp;10ng/mL and cT1-2* Or ISUP GG 1 and PSA 10-20ng/ml and cT1-2* ISUP GG 2 and PSA 10-20ng/mL and cT1-2* Or ISUP GG 3 and cT1-2* ISUP GG 4/5* Or PSA&nbsp;&gt;&nbsp;20ng/mL cT3-4* and/or cN+** any ISUP GG* any PSA Localised Locally advanced ISUP&nbsp;=&nbsp;International Society of Urological Pathology; PSA&nbsp;=&nbsp;prostate-specific antigen; GG = Grade group. * Based on digital rectal examination. ** Based on CT/bone scan.",
+      "tables": [
+        [
+          [
+            "Definition"
+          ],
+          [
+            "Low risk",
+            "Intermediate risk",
+            "High risk"
+          ],
+          [
+            "&nbsp;",
+            "Favourable",
+            "Unfavourable",
+            "&nbsp;"
+          ],
+          [
+            "ISUP GG 1 andPSA&nbsp;&lt;&nbsp;10ng/mL and cT1-2*",
+            "ISUP GG 2 and PSA&nbsp;&lt;&nbsp;10ng/mLand cT1-2*OrISUP GG 1 and PSA 10-20ng/ml and cT1-2*",
+            "ISUP GG 2 and PSA 10-20ng/mLand cT1-2*OrISUP GG 3and cT1-2*",
+            "ISUP GG 4/5*OrPSA&nbsp;&gt;&nbsp;20ng/mL",
+            "cT3-4* and/or cN+**any ISUP GG*any PSA"
+          ],
+          [
+            "Localised",
+            "Locally advanced"
+          ]
+        ]
+      ],
+      "level": 3
+    },
+    {
+      "anchor": "#4.5-recommendations-for-classification-and-staging-systems",
+      "nav_anchor": "#4-5-recommendations-for-classification-and-staging-systems",
+      "title": "4.5. Recommendations for classification and staging systems",
+      "text": "Tumour, Node, Metastasis (TNM) staging is a schematic representation of anatomic tumour extent and pathological grade is reflective of intrinsic features of tumour aggressiveness. The EAU risk group classification combines clinical information on tumour extent, PSA, and pathology from biopsy (Table 4.3). A more precise stratification of the clinically heterogeneous subset of intermediate-risk group patients could provide a better framework for their management [139,140]. The Cambridge Prognostic Groups five-tier model based on ISUP GG, PSA and cT stage were shown to have significantly better discriminative performance than the current three-tier EAU risk groups for PCSM [141]. This model separates both EAU intermediate- and high-risk groups in clinically relevant subgroups and has been validated in several cohorts [141-143]. The current EAU classification of low-, favourable- and unfavourable-intermediate risk is essentially similar to the Cambridge Prognostic Groups subgroups. More recently, risk stratifications incorporating the 17-gene Genomic Prostate Score (GPS) [144-146], invasive cribriform and/or intraductal carcinoma (CR/IDC) [147,148], and mpMRI [149], findings have shown better performance in predicting post-treatment BCR than the (former) three-tier EAU, NCCN and CAPRA models. Although incorporation of routinely available CR/IDC status and modern imaging findings are likely able to improve current risk stratification, validation in different PCa populations is required.",
+      "tables": [],
+      "level": 3
+    },
+    {
+      "anchor": "#about-eau",
+      "nav_anchor": "#about-eau",
+      "title": "About EAU",
+      "text": "Recommendations Strength rating Use the Tumour, Node, Metastasis (TNM) classification for PCa staging. Strong Clinical stage should be based on digital rectal examination only; additional staging information based on imaging or pathology should be reported separately. Strong Use the International Society of Urological Pathology (ISUP) 2019 system for grading PCa. Strong Ask Guidelines Bot",
+      "tables": [
+        [
+          [
+            "Recommendations",
+            "Strength rating"
+          ],
+          [
+            "Use the Tumour, Node, Metastasis (TNM) classification for PCa staging.",
+            "Strong"
+          ],
+          [
+            "Clinical stage should be based on digital rectal examination only; additional staging information based on imaging or pathology should be reported separately.",
+            "Strong"
+          ],
+          [
+            "Use the International Society of Urological Pathology (ISUP) 2019 system for grading PCa.",
+            "Strong"
+          ]
+        ]
+      ],
+      "level": 5
+    },
+    {
+      "anchor": "#services",
+      "nav_anchor": "#services",
+      "title": "Services",
+      "text": "Who we are How we work Become a member",
+      "tables": [],
+      "level": 5
+    },
+    {
+      "anchor": "#media",
+      "nav_anchor": "#media",
+      "title": "Media",
+      "text": "MyEAU Congress registrations Abstract submission",
+      "tables": [],
+      "level": 5
+    },
+    {
+      "anchor": "#contact",
+      "nav_anchor": "#contact",
+      "title": "Contact",
+      "text": "EAU News EAU Newsletter EAU Press Releases",
+      "tables": [],
+      "level": 5
+    }
+  ],
+  "heading_ids": [
+    {
+      "id": "4-classification-and-staging-systems",
+      "tag": "H2",
+      "level": 2,
+      "text": "4. CLASSIFICATION AND STAGING SYSTEMS"
+    },
+    {
+      "id": "4-1-classification",
+      "tag": "H3",
+      "level": 3,
+      "text": "4.1. Classification"
+    },
+    {
+      "id": "4-2-gleason-score-and-international-society-of-urological-pathology-2019-grade",
+      "tag": "H3",
+      "level": 3,
+      "text": "4.2. Gleason score and International Society of Urological Pathology 2019 grade"
+    },
+    {
+      "id": "4-3-clinically-significant-prostate-cancer",
+      "tag": "H3",
+      "level": 3,
+      "text": "4.3. Clinically significant prostate cancer"
+    },
+    {
+      "id": "4-4-prognostic-relevance-of-stratification",
+      "tag": "H3",
+      "level": 3,
+      "text": "4.4. Prognostic relevance of stratification"
+    },
+    {
+      "id": "4-5-recommendations-for-classification-and-staging-systems",
+      "tag": "H3",
+      "level": 3,
+      "text": "4.5. Recommendations for classification and staging systems"
+    }
+  ],
+  "scraped_at": "2026-05-13T18:37:53Z"
+}

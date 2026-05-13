@@ -1,0 +1,369 @@
+{
+  "guideline": "upper-urinary-tract-urothelial-cell-carcinoma",
+  "chapter": "references",
+  "url": "https://uroweb.org/guidelines/upper-urinary-tract-urothelial-cell-carcinoma/chapter/references",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and scope",
+      "anchor": "#1-1-aim-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Summary of changes",
+      "anchor": "#1-4-1-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY, AETIOLOGY AND PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology",
+      "anchor": "#3-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Risk factors",
+      "anchor": "#3-2-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Environmental risk factors",
+      "anchor": "#3-2-1-environmental-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.2.2. Genetic risk factors",
+      "anchor": "#3-2-2-genetic-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.2.3. History of bladder cancer",
+      "anchor": "#3-2-3-history-of-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Histology and classification",
+      "anchor": "#3-3-histology-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Histological types",
+      "anchor": "#3-3-1-histological-types"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Molecular background of upper urinary tract urothelial carcinoma",
+      "anchor": "#3-4-molecular-background-of-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Summary of evidence and recommendations for epidemiology, aetiology and histology",
+      "anchor": "#3-5-summary-of-evidence-and-recommendations-for-epidemiology-aetiology-and-histology"
+    },
+    {
+      "level": 2,
+      "text": "4. STAGING AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-staging-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Classification",
+      "anchor": "#4-1-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Tumour, Node, Metastasis classification",
+      "anchor": "#4-2-tumour-node-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Tumour grade",
+      "anchor": "#4-3-tumour-grade"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSIS",
+      "anchor": "#5-diagnosis"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Symptoms",
+      "anchor": "#5-1-symptoms"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Imaging",
+      "anchor": "#5-2-imaging"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Computed tomography",
+      "anchor": "#5-2-1-computed-tomography"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Magnetic resonance urography",
+      "anchor": "#5-2-2-magnetic-resonance-urography"
+    },
+    {
+      "level": 4,
+      "text": "5.2.3.",
+      "anchor": "#5-2-3"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Cystoscopy",
+      "anchor": "#5-3-cystoscopy"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Cytology and urinary markers",
+      "anchor": "#5-4-cytology-and-urinary-markers"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Diagnostic ureteroscopy",
+      "anchor": "#5-5-diagnostic-ureteroscopy"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Molecular testing",
+      "anchor": "#5-6-molecular-testing"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Summary of evidence and recommendations for the diagnosis of upper urinary tract urothelial carcinoma",
+      "anchor": "#5-7-summary-of-evidence-and-recommendations-for-the-diagnosis-of-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 2,
+      "text": "6. RISK STRATIFICATION",
+      "anchor": "#6-risk-stratification"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Factors for clinical decision-making",
+      "anchor": "#6-1-factors-for-clinical-decision-making"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Pathological grade",
+      "anchor": "#6-1-1-pathological-grade"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Histological subtypes",
+      "anchor": "#6-1-2-histological-subtypes"
+    },
+    {
+      "level": 4,
+      "text": "6.1.3. Local invasion on computed tomography",
+      "anchor": "#6-1-3-local-invasion-on-computed-tomography"
+    },
+    {
+      "level": 4,
+      "text": "6.1.4. Multifocality",
+      "anchor": "#6-1-4-multifocality"
+    },
+    {
+      "level": 4,
+      "text": "6.1.5. Hydroureteronephrosis",
+      "anchor": "#6-1-5-hydroureteronephrosis"
+    },
+    {
+      "level": 4,
+      "text": "6.1.6. Tumour size",
+      "anchor": "#6-1-6-tumour-size"
+    },
+    {
+      "level": 4,
+      "text": "6.1.7. Risk stratification for clinical decision-making",
+      "anchor": "#6-1-7-risk-stratification-for-clinical-decision-making"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Bladder recurrence",
+      "anchor": "#6-2-bladder-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Summary of evidence and recommendation for the prognosis of upper urinary tract urothelial carcinoma",
+      "anchor": "#6-3-summary-of-evidence-and-recommendation-for-the-prognosis-of-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT",
+      "anchor": "#7-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Low-risk disease",
+      "anchor": "#7-1-low-risk-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.1.1. General considerations on kidney-sparing surgery",
+      "anchor": "#7-1-1-general-considerations-on-kidney-sparing-surgery"
+    },
+    {
+      "level": 4,
+      "text": "7.1.2. Endoscopic ablation with ureteroscopy",
+      "anchor": "#7-1-2-endoscopic-ablation-with-ureteroscopy"
+    },
+    {
+      "level": 4,
+      "text": "7.1.3. Percutaneous antegrade access",
+      "anchor": "#7-1-3-percutaneous-antegrade-access"
+    },
+    {
+      "level": 4,
+      "text": "7.1.4. Ureteral resection",
+      "anchor": "#7-1-4-ureteral-resection"
+    },
+    {
+      "level": 4,
+      "text": "7.1.5. Chemoablation",
+      "anchor": "#7-1-5-chemoablation"
+    },
+    {
+      "level": 4,
+      "text": "7.1.6. Adjuvant instillations",
+      "anchor": "#7-1-6-adjuvant-instillations"
+    },
+    {
+      "level": 4,
+      "text": "7.1.7. Recommendations for kidney-sparing management of localised low-risk upper urinary tract urothelial carcinoma",
+      "anchor": "#7-1-7-recommendations-for-kidney-sparing-management-of-localised-low-risk-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Localised high-risk disease",
+      "anchor": "#7-2-localised-high-risk-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. Local treatments",
+      "anchor": "#7-2-1-local-treatments"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Perioperative treatments",
+      "anchor": "#7-2-2-perioperative-treatments"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Summary of evidence and recommendations for the management of high-risk non-metastatic upper urinary tract urothelial carcinoma",
+      "anchor": "#7-2-3-summary-of-evidence-and-recommendations-for-the-management-of-high-risk-non-metastatic-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Metastatic disease",
+      "anchor": "#7-3-metastatic-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Clinical locoregional lymph node metastases",
+      "anchor": "#7-3-1-clinical-locoregional-lymph-node-metastases"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Distant metastases",
+      "anchor": "#7-3-2-distant-metastases"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. Summary of evidence and recommendations for the treatment of metastatic upper urinary tract urothelial carcinoma",
+      "anchor": "#7-3-3-summary-of-evidence-and-recommendations-for-the-treatment-of-metastatic-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 2,
+      "text": "8. FOLLOW-UP",
+      "anchor": "#8-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Summary of evidence and recommendations for the follow-up of upper urinary tract urothelial carcinoma",
+      "anchor": "#8-1-summary-of-evidence-and-recommendations-for-the-follow-up-of-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 2,
+      "text": "9. QUALITY INDICATORS FOR THE MANAGEMENT OF UTUC",
+      "anchor": "#9-quality-indicators-for-the-management-of-utuc"
+    },
+    {
+      "level": 2,
+      "text": "10. REFERENCES",
+      "anchor": "#10-references"
+    },
+    {
+      "level": 2,
+      "text": "11. CONFLICT OF INTEREST",
+      "anchor": "#11-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "12. CITATION INFORMATION",
+      "anchor": "#12-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "13. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#13-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#upper-urinary-tract-urothelial-cell-carcinoma",
+      "title": "Upper Urinary Tract Urothelial Cell Carcinoma",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 10. References Introduction Methods Epidemiology, Aetiology And Pathology Staging And Classification Systems Diagnosis Risk Stratification Disease Management Follow-up Quality Indicators For The Management Of Utuc References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#10-references",
+      "title": "10. REFERENCES",
+      "level": 2,
+      "text": "1.Gontero, P., et al., EAU Guidelines on Non-muscle-invasive Bladder Cancer (T1, T1 and CIS), in EAU Guidelines, Edn. presented at the 41st EAU Annual Congress London. 2026, EAU Guidelines Office  https://uroweb.org/guidelines/non-muscle-invasive-bladder-cancer 2.van der Heijden, A.G., et al., EAU Guidelines on Muscle-invasive and Metastatic Bladder Cancer in EAU Guidelines, Edn. presentat at the 41st EAU Annual Congress London. 2026, EAU Guidelines Office  https://uroweb.org/guidelines/muscle-invasive-and-metastatic-bladder-cancer 3.Neuzillet, Y., et al., EAU Guidelines on Primary Urethral Carcinoma, in EAU Guidelines, Edn. presented at the 41st EAU Annual Congress London. 2026, EAU Guidelines Office  https://uroweb.org/guidelines/primary-urethral-carcinoma 4.Masson-Lecomte, A., et al. European Association of Urology Guidelines on Upper Urinary Tract Urothelial Carcinoma: Summary of the 2025 Update. Eur Urol, 2025. 87: 697.  https://www.ncbi.nlm.nih.gov/pubmed/40118741 5.Bob Phillips, C.B., Dave Sackett, Doug Badenoch, Sharon Straus, Brian Haynes, Martin Dawes since November 1998. Updated by Jeremy Howick March 2009. Oxford Centre for Evidence-based Medicine Levels of Evidence (May 2009. 2009.  https://www.cebm.ox.ac.uk/resources/levels-of-evidence/oxford-centre-for-evidence-based-medicine-levels-of-evidence-march-2009 6.Guyatt, G.H., et al. Going from evidence to recommendations. BMJ, 2008. 336: 1049.  https://www.ncbi.nlm.nih.gov/pubmed/18467413 7.Siegel, R.L., et al. Cancer statistics, 2023. CA Cancer J Clin, 2023. 73: 17.  https://www.ncbi.nlm.nih.gov/pubmed/36633525 8.Soria, F., et al. Epidemiology, diagnosis, preoperative evaluation and prognostic assessment of upper-tract urothelial carcinoma (UTUC). World J Urol, 2017. 35: 379.  https://www.ncbi.nlm.nih.gov/pubmed/27604375 9.Almas, B., et al. Higher than expected and significantly increasing incidence of upper tract urothelial carcinoma. A population based study. World J Urol, 2021. 39: 3385.  https://www.ncbi.nlm.nih.gov/pubmed/33420812 10.Shariat, S.F., et al. Gender differences in radical nephroureterectomy for upper tract urothelial carcinoma. World J Urol, 2011. 29: 481.  https://www.ncbi.nlm.nih.gov/pubmed/20886219 11.Baard, J., et al. Contemporary patterns of presentation, diagnostics and management of upper tract urothelial cancer in 101 centres: the Clinical Research Office of the Endourological Society Global upper tract urothelial carcinoma registry. Curr Opin Urol, 2021. 31: 354.  https://www.ncbi.nlm.nih.gov/pubmed/34009177 12.Rai, B.P., et al. Systematic Review of the Incidence of and Risk Factors for Urothelial Cancers and Renal Cell Carcinoma Among Patients with Haematuria. Eur Urol, 2022. 82: 182.  https://www.ncbi.nlm.nih.gov/pubmed/35393159 13.Margulis, V., et al. Outcomes of radical nephroureterectomy: a series from the Upper Tract Urothelial Carcinoma Collaboration. Cancer, 2009. 115: 1224.  https://www.ncbi.nlm.nih.gov/pubmed/19156917 14.Catto, J.W.F., et al. Diagnosis, treatment and survival from bladder, upper urinary tract, and urethral cancers: real-world findings from NHS England between 2013 and 2019. BJU Int, 2023. 131: 734.  https://www.ncbi.nlm.nih.gov/pubmed/36680312 15.Herout, R., et al. Upper tract urothelial carcinoma in Germany: epidemiological data and surgical treatment trends in a total population analysis from 2006 to 2019. World J Urol, 2023. 41: 127.  https://www.ncbi.nlm.nih.gov/pubmed/36445373 16.Aziz, A., et al. Stage Migration for Upper Tract Urothelial Cell Carcinoma. Clin Genitourin Cancer, 2021. 19: e184.  https://www.ncbi.nlm.nih.gov/pubmed/33153919 17.Browne, B.M., et al. An Analysis of Staging and Treatment Trends for Upper Tract Urothelial Carcinoma in the National Cancer Database. Clin Genitourin Cancer, 2018. 16: e743.  https://www.ncbi.nlm.nih.gov/pubmed/29506950 18.van Doeveren, T., et al. Rising incidence rates and unaltered survival rates for primary upper urinary tract urothelial carcinoma: a Dutch population-based study from 1993 to 2017. BJU Int, 2021. 128: 343.  https://www.ncbi.nlm.nih.gov/pubmed/33690922 19.Green, D.A., et al. Urothelial carcinoma of the bladder and the upper tract: disparate twins. J Urol, 2013. 189: 1214.  https://www.ncbi.nlm.nih.gov/pubmed/23023150 20.Otto, W., et al. Concomitant carcinoma in situ as an independent prognostic parameter for recurrence and survival in upper tract urothelial carcinoma: a multicenter analysis of 772 patients. World J Urol, 2011. 29: 487.  https://www.ncbi.nlm.nih.gov/pubmed/21249372 21.Liedberg, F., et al. Diagnostic pathways and treatment strategies in upper tract urothelial carcinoma in Sweden between 2015 and 2021: a population-based survey. Scand J Urol, 2024. 59: 19.  https://www.ncbi.nlm.nih.gov/pubmed/38226846 22.Cosentino, M., et al. Upper urinary tract urothelial cell carcinoma: location as a predictive factor for concomitant bladder carcinoma. World J Urol, 2013. 31: 141.  https://www.ncbi.nlm.nih.gov/pubmed/22552732 23.Sing",
+      "tables": []
+    }
+  ],
+  "tables_count": 0
+}

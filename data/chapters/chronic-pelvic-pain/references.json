@@ -1,0 +1,464 @@
+{
+  "guideline": "chronic-pelvic-pain",
+  "chapter": "references",
+  "url": "https://uroweb.org/guidelines/chronic-pelvic-pain/chapter/references",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim",
+      "anchor": "#1-1-aim"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Structure and scope",
+      "anchor": "#1-2-structure-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Publication history",
+      "anchor": "#1-3-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Available publications",
+      "anchor": "#1-4-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Panel composition",
+      "anchor": "#1-5-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.6. Terminology",
+      "anchor": "#1-6-terminology"
+    },
+    {
+      "level": 4,
+      "text": "IASP definitions",
+      "anchor": "#iasp-definitions"
+    },
+    {
+      "level": 4,
+      "text": "ICD classification: purpose and uses",
+      "anchor": "#icd-classification-purpose-and-uses"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODOLOGY",
+      "anchor": "#2-methodology"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY, AETIOLOGY AND PATHOPHYSIOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Chronic visceral pain",
+      "anchor": "#3-1-chronic-visceral-pain"
+    },
+    {
+      "level": 4,
+      "text": "3.1.1. Incidence",
+      "anchor": "#3-1-1-incidence"
+    },
+    {
+      "level": 4,
+      "text": "3.1.2. Prevalence",
+      "anchor": "#3-1-2-prevalence"
+    },
+    {
+      "level": 4,
+      "text": "3.1.3. Influence on Quality of Life",
+      "anchor": "#3-1-3-influence-on-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "3.1.4. Costs",
+      "anchor": "#3-1-4-costs"
+    },
+    {
+      "level": 4,
+      "text": "3.1.5. Risk factors and underlying causes",
+      "anchor": "#3-1-5-risk-factors-and-underlying-causes"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Pelvic pain",
+      "anchor": "#3-2-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Incidence",
+      "anchor": "#3-2-1-incidence"
+    },
+    {
+      "level": 4,
+      "text": "3.2.2. Prevalence",
+      "anchor": "#3-2-2-prevalence"
+    },
+    {
+      "level": 4,
+      "text": "3.2.3. Influence on Quality of Life",
+      "anchor": "#3-2-3-influence-on-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "3.2.4. Costs",
+      "anchor": "#3-2-4-costs"
+    },
+    {
+      "level": 4,
+      "text": "3.2.5. Risk factors and underlying causes",
+      "anchor": "#3-2-5-risk-factors-and-underlying-causes"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Abdominal aspects of pelvic pain",
+      "anchor": "#3-3-abdominal-aspects-of-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Incidence",
+      "anchor": "#3-3-1-incidence"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Prevalence",
+      "anchor": "#3-3-2-prevalence"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Influence on health-related Quality of Life",
+      "anchor": "#3-3-3-influence-on-health-related-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Costs",
+      "anchor": "#3-3-4-costs"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. Risk factors & underlying causes",
+      "anchor": "#3-3-5-risk-factors--underlying-causes"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Summary of evidence and recommendations for chronic primary pelvic pain syndrome and pain mechanisms",
+      "anchor": "#3-4-summary-of-evidence-and-recommendations-for-chronic-primary-pelvic-pain-syndrome-and-pain-mechanisms"
+    },
+    {
+      "level": 2,
+      "text": "4. DIAGNOSTIC EVALUATION",
+      "anchor": "#4-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "4.1. General evaluation",
+      "anchor": "#4-1-general-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. History",
+      "anchor": "#4-1-1-history"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. Physical evaluation",
+      "anchor": "#4-1-2-physical-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Supplemental evaluation",
+      "anchor": "#4-2-supplemental-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. Assessing pelvic pain and related symptoms",
+      "anchor": "#4-2-1-assessing-pelvic-pain-and-related-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. Focused myofascial evaluation",
+      "anchor": "#4-2-2-focused-myofascial-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.2.3. Neurological",
+      "anchor": "#4-2-3-neurological"
+    },
+    {
+      "level": 4,
+      "text": "4.2.4. Imaging",
+      "anchor": "#4-2-4-imaging"
+    },
+    {
+      "level": 4,
+      "text": "4.2.5. Laboratory tests",
+      "anchor": "#4-2-5-laboratory-tests"
+    },
+    {
+      "level": 4,
+      "text": "4.2.6. Invasive tests",
+      "anchor": "#4-2-6-invasive-tests"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Diagnostic algorithm",
+      "anchor": "#4-3-diagnostic-algorithm"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Other painful conditions without a urological cause",
+      "anchor": "#4-4-other-painful-conditions-without-a-urological-cause"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Summary of evidence and recommendations for diagnostic evaluation",
+      "anchor": "#4-5-summary-of-evidence-and-recommendations-for-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Diagnostic evaluation - general",
+      "anchor": "#4-5-1-diagnostic-evaluation---general"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Diagnostic evaluation of primary prostate pain syndrome",
+      "anchor": "#4-5-2-diagnostic-evaluation-of-primary-prostate-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Diagnostic evaluation of primary bladder pain syndrome",
+      "anchor": "#4-5-3-diagnostic-evaluation-of-primary-bladder-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.4. Diagnostic evaluation of scrotal pain syndrome",
+      "anchor": "#4-5-4-diagnostic-evaluation-of-scrotal-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.5. Diagnostic evaluation of urethral pain syndrome",
+      "anchor": "#4-5-5-diagnostic-evaluation-of-urethral-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.6. Diagnostic evaluation of gynaecological aspects chronic pelvic pain",
+      "anchor": "#4-5-6-diagnostic-evaluation-of-gynaecological-aspects-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "4.5.7. Diagnostic evaluation of anorectal pain syndrome",
+      "anchor": "#4-5-7-diagnostic-evaluation-of-anorectal-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.8. Diagnostic evaluation of nerves to the pelvis",
+      "anchor": "#4-5-8-diagnostic-evaluation-of-nerves-to-the-pelvis"
+    },
+    {
+      "level": 4,
+      "text": "4.5.9. Diagnostic evaluation of sexological aspects in chronic pelvic pain",
+      "anchor": "#4-5-9-diagnostic-evaluation-of-sexological-aspects-in-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "4.5.10. Diagnostic evaluation of psychological aspects of chronic pelvic pain",
+      "anchor": "#4-5-10-diagnostic-evaluation-of-psychological-aspects-of-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "4.5.11. Diagnostic evaluation of pelvic floor function",
+      "anchor": "#4-5-11-diagnostic-evaluation-of-pelvic-floor-function"
+    },
+    {
+      "level": 2,
+      "text": "5. MANAGEMENT",
+      "anchor": "#5-management"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Conservative management",
+      "anchor": "#5-1-conservative-management"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Physical therapy",
+      "anchor": "#5-1-1-physical-therapy"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Psychological therapy",
+      "anchor": "#5-1-2-psychological-therapy"
+    },
+    {
+      "level": 4,
+      "text": "5.1.3. Dietary treatment",
+      "anchor": "#5-1-3-dietary-treatment"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Pharmacological management",
+      "anchor": "#5-2-pharmacological-management"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Drugs for chronic primary pelvic pain syndrome",
+      "anchor": "#5-2-1-drugs-for-chronic-primary-pelvic-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Analgesics",
+      "anchor": "#5-2-2-analgesics"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Further management",
+      "anchor": "#5-3-further-management"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Nerve blocks",
+      "anchor": "#5-3-1-nerve-blocks"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Neuromodulation",
+      "anchor": "#5-3-2-neuromodulation"
+    },
+    {
+      "level": 4,
+      "text": "5.3.3. Surgery",
+      "anchor": "#5-3-3-surgery"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Summary of evidence and recommendations: management",
+      "anchor": "#5-4-summary-of-evidence-and-recommendations-management"
+    },
+    {
+      "level": 4,
+      "text": "5.4.1. Management of primary prostate pain syndrome",
+      "anchor": "#5-4-1-management-of-primary-prostate-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.2. Management of primary bladder pain syndrome",
+      "anchor": "#5-4-2-management-of-primary-bladder-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.3. Management of scrotal pain syndrome",
+      "anchor": "#5-4-3-management-of-scrotal-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.4. Management of primary urethral pain syndrome",
+      "anchor": "#5-4-4-management-of-primary-urethral-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.5. Management of gynaecological aspects of chronic pelvic pain",
+      "anchor": "#5-4-5-management-of-gynaecological-aspects-of-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "5.4.6. Management of primary anorectal pain syndrome",
+      "anchor": "#5-4-6-management-of-primary-anorectal-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.7. Management of pudendal neuralgia",
+      "anchor": "#5-4-7-management-of-pudendal-neuralgia"
+    },
+    {
+      "level": 4,
+      "text": "5.4.8. Management of sexological aspects in chronic pelvic pain",
+      "anchor": "#5-4-8-management-of-sexological-aspects-in-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "5.4.9. Management of psychological aspects in chronic pelvic pain",
+      "anchor": "#5-4-9-management-of-psychological-aspects-in-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "5.4.10. Management of pelvic floor dysfunction",
+      "anchor": "#5-4-10-management-of-pelvic-floor-dysfunction"
+    },
+    {
+      "level": 2,
+      "text": "6. EVALUATION OF TREATMENT RESULTS",
+      "anchor": "#6-evaluation-of-treatment-results"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Evaluation of treatment",
+      "anchor": "#6-1-evaluation-of-treatment"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Treatment has not been effective",
+      "anchor": "#6-1-1-treatment-has-not-been-effective"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Treatment has been effective",
+      "anchor": "#6-1-2-treatment-has-been-effective"
+    },
+    {
+      "level": 2,
+      "text": "7. REFERENCES",
+      "anchor": "#7-references"
+    },
+    {
+      "level": 2,
+      "text": "8. CONFLICT OF INTEREST",
+      "anchor": "#8-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "9. CITATION INFORMATION",
+      "anchor": "#9-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "10. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#10-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#chronic-pelvic-pain",
+      "title": "Chronic Pelvic Pain",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 7. References Introduction Methodology Epidemiology, Aetiology And Pathophysiology Diagnostic Evaluation Management Evaluation Of Treatment Results References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#7-references",
+      "title": "7. REFERENCES",
+      "level": 2,
+      "text": "1.Fall, M., et al. EAU guidelines on chronic pelvic pain. Eur Urol, 2004. 46: 681.  https://www.ncbi.nlm.nih.gov/pubmed/15548433 2.Fall, M., et al. EAU guidelines on chronic pelvic pain. Eur Urol, 2010. 57: 35.  https://www.ncbi.nlm.nih.gov/pubmed/19733958 3.Engeler, D.S., et al. The 2013 EAU guidelines on chronic pelvic pain: is management of chronic pelvic pain a habit, a philosophy, or a science? 10 years of development. Eur Urol, 2013. 64: 431.  https://www.ncbi.nlm.nih.gov/pubmed/23684447 4.McMahon, S.B., et al. Visceral pain. Br J Anaesth, 1995. 75: 132.  https://www.ncbi.nlm.nih.gov/pubmed/7577247 5.Shoskes, D.A., et al. Clinical phenotyping of patients with chronic prostatitis/chronic pelvic pain syndrome and correlation with symptom severity. Urology, 2009. 73: 538.  https://www.ncbi.nlm.nih.gov/pubmed/19118880 6.Magri, V., et al. Use of the UPOINT chronic prostatitis/chronic pelvic pain syndrome classification in European patient cohorts: sexual function domain improves correlations. J Urol, 2010. 184: 2339.  https://www.ncbi.nlm.nih.gov/pubmed/20952019 7.World Health Organization. International Classification of Diseases (11th Revision). 2018.  https://icd.who.int/en 8.Aziz, Q., et al. The IASP classification of chronic pain for ICD-11: chronic secondary visceral pain. Pain, 2019. 160: 69.  https://www.ncbi.nlm.nih.gov/pubmed/30586073 9.Hauser, W., et al. Taxonomies for chronic visceral pain. Pain, 2020. 161: 1129.  https://www.ncbi.nlm.nih.gov/pubmed/32032194 10.Merskey, H., et al., Classification of Chronic Pain. 2nd Edition ed. 1994.  https://www.iasp-pain.org/publications/free-ebooks/classification-of-chronic-pain-second-edition-revised/ 11.Afari, N., et al. A MAPP Network Case-control Study of Urological Chronic Pelvic Pain Compared With Nonurological Pain Conditions. Clin J Pain, 2020. 36: 8.  https://www.ncbi.nlm.nih.gov/pubmed/31794439 12.Krieger, J.N., et al. NIH consensus definition and classification of prostatitis. JAMA, 1999. 282: 236.  https://www.ncbi.nlm.nih.gov/pubmed/10422990 13.van de Merwe, J.P., et al. Diagnostic criteria, classification, and nomenclature for painful bladder syndrome/interstitial cystitis: an ESSIC proposal. Eur Urol, 2008. 53: 60.  https://www.ncbi.nlm.nih.gov/pubmed/17900797 14.Mearin, F., et al. Bowel Disorders. Gastroenterology, 2016.  https://www.ncbi.nlm.nih.gov/pubmed/27144627 15.Phillips, B., et al. Oxford Centre for Evidence-based Medicine Levels of Evidence. Updated by Jeremy Howick March 2009. 2009.  https://www.cebm.ox.ac.uk/resources/levels-of-evidence/oxford-centre-for-evidence-based-medicine-levels-of-evidence-march-2009 16.Guyatt, G.H., et al. Going from evidence to recommendations. BMJ, 2008. 336: 1049.  https://www.ncbi.nlm.nih.gov/pubmed/18467413 17.Raja, S.N., et al. The revised International Association for the Study of Pain definition of pain: concepts, challenges, and compromises. Pain, 2020. 161: 1976.  https://www.ncbi.nlm.nih.gov/pubmed/32694387 18.Global Burden of Disease Study Collaborators. Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990-2013: a systematic analysis for the Global Burden of Disease Study 2013. Lancet, 2015. 386: 743.  https://www.ncbi.nlm.nih.gov/pubmed/26063472 19.Ayorinde, A.A., et al. Chronic pelvic pain in women of reproductive and post-reproductive age: a population-based study. Eur J Pain, 2017. 21: 445.  https://www.ncbi.nlm.nih.gov/pubmed/27634190 20.Zondervan, K.T., et al. The community prevalence of chronic pelvic pain in women and associated illness behaviour. Br J Gen Pract, 2001. 51: 541.  https://www.ncbi.nlm.nih.gov/pubmed/11462313 21.Baranowski, A.P. Chronic pelvic pain. Best Pract Res Clin Gastroenterol, 2009. 23: 593.  https://www.ncbi.nlm.nih.gov/pubmed/19647692 22.Chuang, Y.C., et al. Increased risks of healthcare-seeking behaviors of anxiety, depression and insomnia among patients with bladder pain syndrome/interstitial cystitis: a nationwide population-based study. Int Urol Nephrol, 2015. 47: 275.  https://www.ncbi.nlm.nih.gov/pubmed/25577231 23.Kano, M., et al. Altered brain and gut responses to corticotropin-releasing hormone (CRH) in patients with irritable bowel syndrome. Sci Rep, 2017. 7: 12425.  https://www.ncbi.nlm.nih.gov/pubmed/28963545 24.Yueh, H.Z., et al. Risk of Autoimmune Diseases in Patients With Interstitial Cystitis/Bladder Pain Syndrome: A Nationwide Population-Based Study in Taiwan. Front Med (Lausanne), 2021. 8: 747098.  https://www.ncbi.nlm.nih.gov/pubmed/34616760 25.Laden, B.F., et al. Comorbidities in a Nationwide, Heterogenous Population of Veterans with Interstitial Cystitis/Bladder Pain Syndrome. Urology, 2021. 156: 37.  https://www.ncbi.nlm.nih.gov/pubmed/33901534 26.Hellman, K.M., et al. Circulating sex steroids and bladder pain sensitivity in dysmenorrhea. Mol Pain, 2021. 17: 17448069211035217.  https://www.ncbi.nlm.nih.gov/pubmed/34689649 27.Savidge, C.J., ",
+      "tables": []
+    }
+  ],
+  "tables_count": 0
+}

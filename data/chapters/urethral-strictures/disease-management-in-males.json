@@ -1,0 +1,2601 @@
+{
+  "guideline": "urethral-strictures",
+  "chapter": "disease-management-in-males",
+  "url": "https://uroweb.org/guidelines/urethral-strictures/chapter/disease-management-in-males",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Summary of changes",
+      "anchor": "#1-5-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODOLOGY",
+      "anchor": "#2-methodology"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Methods",
+      "anchor": "#2-1-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. DEFINITION EPIDEMIOLOGY AETIOLOGY AND PREVENTION",
+      "anchor": "#3-definition-epidemiology-aetiology-and-prevention"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definitions",
+      "anchor": "#3-1-definitions"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Aetiology and prevention",
+      "anchor": "#3-3-aetiology-and-prevention"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Aetiology and prevention in males",
+      "anchor": "#3-3-1-aetiology-and-prevention-in-males"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Aetiology in females",
+      "anchor": "#3-3-2-aetiology-in-females"
+    },
+    {
+      "level": 2,
+      "text": "4. CLASSIFICATIONS",
+      "anchor": "#4-classifications"
+    },
+    {
+      "level": 3,
+      "text": "4.1. According to stricture location",
+      "anchor": "#4-1-according-to-stricture-location"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. In males",
+      "anchor": "#4-1-1-in-males"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. In females",
+      "anchor": "#4-1-2-in-females"
+    },
+    {
+      "level": 3,
+      "text": "4.2. According to stricture tightness",
+      "anchor": "#4-2-according-to-stricture-tightness"
+    },
+    {
+      "level": 3,
+      "text": "4.3. According to stricture severity",
+      "anchor": "#4-3-according-to-stricture-severity"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Strictures in transgender men and woman",
+      "anchor": "#4-4-strictures-in-transgender-men-and-woman"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Trans women",
+      "anchor": "#4-4-1-trans-women"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Trans men",
+      "anchor": "#4-4-2-trans-men"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION",
+      "anchor": "#5-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Patient history",
+      "anchor": "#5-1-patient-history"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Physical examination",
+      "anchor": "#5-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Further diagnostic evaluation",
+      "anchor": "#5-2-1-further-diagnostic-evaluation"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT IN MALES",
+      "anchor": "#6-disease-management-in-males"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Conservative options",
+      "anchor": "#6-1-conservative-options"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Observation",
+      "anchor": "#6-1-1-observation"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Suprapubic catheter",
+      "anchor": "#6-1-2-suprapubic-catheter"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Endoluminal treatment of anterior urethral strictures in males",
+      "anchor": "#6-2-endoluminal-treatment-of-anterior-urethral-strictures-in-males"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Direct vision internal urethrotomy",
+      "anchor": "#6-2-1-direct-vision-internal-urethrotomy"
+    },
+    {
+      "level": 4,
+      "text": "6.2.2. Single dilatation",
+      "anchor": "#6-2-2-single-dilatation"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Open repairs (urethroplasty): site and aetiology (clinical scenario) treatment options",
+      "anchor": "#6-3-open-repairs-urethroplasty-site-and-aetiology-clinical-scenario-treatment-options"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. The role of urethroplasty in the management of penile urethral strictures",
+      "anchor": "#6-3-1-the-role-of-urethroplasty-in-the-management-of-penile-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Urethroplasty for bulbar strictures",
+      "anchor": "#6-3-2-urethroplasty-for-bulbar-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.3. Urethroplasty for penobulbar or panurethral strictures",
+      "anchor": "#6-3-3-urethroplasty-for-penobulbar-or-panurethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.4. Perineal urethrostomy",
+      "anchor": "#6-3-4-perineal-urethrostomy"
+    },
+    {
+      "level": 4,
+      "text": "6.3.5. Posterior urethra",
+      "anchor": "#6-3-5-posterior-urethra"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT IN FEMALES",
+      "anchor": "#7-disease-management-in-females"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Signs and symptoms of female urethral strictures",
+      "anchor": "#7-1-signs-and-symptoms-of-female-urethral-strictures"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Diagnosis of female urethral strictures",
+      "anchor": "#7-2-diagnosis-of-female-urethral-strictures"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Treatment of female urethral strictures",
+      "anchor": "#7-3-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Minimally invasive techniques for treatment of female urethral strictures",
+      "anchor": "#7-3-1-minimally-invasive-techniques-for-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Urethroplasty for treatment of female urethral strictures",
+      "anchor": "#7-3-2-urethroplasty-for-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 2,
+      "text": "8. DISEASE MANAGEMENT IN TRANSGENDER PATIENTS",
+      "anchor": "#8-disease-management-in-transgender-patients"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Treatment of strictures in trans men",
+      "anchor": "#8-1-treatment-of-strictures-in-trans-men"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Management of strictures early after neophallic reconstruction",
+      "anchor": "#8-1-1-management-of-strictures-early-after-neophallic-reconstruction"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Treatment of meatal stenosis in trans men",
+      "anchor": "#8-1-2-treatment-of-meatal-stenosis-in-trans-men"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Treatment of strictures at the neophallic urethra",
+      "anchor": "#8-1-3-treatment-of-strictures-at-the-neophallic-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.4. Treatment of strictures at the anastomosis neophallic urethra-fixed part of the urethra",
+      "anchor": "#8-1-4-treatment-of-strictures-at-the-anastomosis-neophallic-urethra-fixed-part-of-the-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.5. Treatment of strictures at the fixed part of the urethra",
+      "anchor": "#8-1-5-treatment-of-strictures-at-the-fixed-part-of-the-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.6. Definitive perineostomy in trans men",
+      "anchor": "#8-1-6-definitive-perineostomy-in-trans-men"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Perioperative care after treatment of strictures in trans men",
+      "anchor": "#8-2-perioperative-care-after-treatment-of-strictures-in-trans-men"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Strictures in trans women",
+      "anchor": "#8-3-strictures-in-trans-women"
+    },
+    {
+      "level": 2,
+      "text": "9. TISSUE TRANSFER",
+      "anchor": "#9-tissue-transfer"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Comparison of grafts with flaps",
+      "anchor": "#9-1-comparison-of-grafts-with-flaps"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Comparison of different types of flaps",
+      "anchor": "#9-2-comparison-of-different-types-of-flaps"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Comparison of different types of grafts",
+      "anchor": "#9-3-comparison-of-different-types-of-grafts"
+    },
+    {
+      "level": 3,
+      "text": "9.4. Tissue engineered grafts",
+      "anchor": "#9-4-tissue-engineered-grafts"
+    },
+    {
+      "level": 4,
+      "text": "9.4.1. Cell-free tissue engineered grafts",
+      "anchor": "#9-4-1-cell-free-tissue-engineered-grafts"
+    },
+    {
+      "level": 4,
+      "text": "9.4.2. Autologous tissue engineered oral mucosa grafts",
+      "anchor": "#9-4-2-autologous-tissue-engineered-oral-mucosa-grafts"
+    },
+    {
+      "level": 3,
+      "text": "9.5. Management of oral cavity after buccal mucosa harvesting",
+      "anchor": "#9-5-management-of-oral-cavity-after-buccal-mucosa-harvesting"
+    },
+    {
+      "level": 2,
+      "text": "10. PERIOPERATIVE CARE OF URETHRAL SURGERY",
+      "anchor": "#10-perioperative-care-of-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Urethral rest",
+      "anchor": "#10-1-urethral-rest"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Antibiotics",
+      "anchor": "#10-2-antibiotics"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Catheter management",
+      "anchor": "#10-3-catheter-management"
+    },
+    {
+      "level": 2,
+      "text": "11. FOLLOW UP",
+      "anchor": "#11-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "11.1. Rationale for follow-up after urethral surgery",
+      "anchor": "#11-1-rationale-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.2. Definition of success after urethroplasty surgery",
+      "anchor": "#11-2-definition-of-success-after-urethroplasty-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.3. Follow-up tools after urethral surgery",
+      "anchor": "#11-3-follow-up-tools-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.1. Diagnostic tools for follow-up after urethral surgery",
+      "anchor": "#11-3-1-diagnostic-tools-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.2. Screening tools for follow-up after urethral surgery",
+      "anchor": "#11-3-2-screening-tools-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.3. Quality of life assessment, including disease specific questionnaires during follow-up after urethral surgery",
+      "anchor": "#11-3-3-quality-of-life-assessment-including-disease-specific-questionnaires-during-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.4. Ideal follow-up interval after urethral surgery",
+      "anchor": "#11-4-ideal-follow-up-interval-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.5. Length of follow-up after urethral surgery",
+      "anchor": "#11-5-length-of-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.6. Risk-stratified proposals during follow-up after urethral surgery",
+      "anchor": "#11-6-risk-stratified-proposals-during-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.7. Follow-up protocol proposal after urethroplasty",
+      "anchor": "#11-7-follow-up-protocol-proposal-after-urethroplasty"
+    },
+    {
+      "level": 4,
+      "text": "11.7.1. Surgeries with low risk of recurrence",
+      "anchor": "#11-7-1-surgeries-with-low-risk-of-recurrence"
+    },
+    {
+      "level": 4,
+      "text": "11.7.2. Surgical management options with standard risk of recurrence",
+      "anchor": "#11-7-2-surgical-management-options-with-standard-risk-of-recurrence"
+    },
+    {
+      "level": 2,
+      "text": "12. REFERENCES",
+      "anchor": "#12-references"
+    },
+    {
+      "level": 2,
+      "text": "13. CONFLICT OF INTEREST",
+      "anchor": "#13-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "14. CITATION INFORMATION",
+      "anchor": "#14-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "15. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#15-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#urethral-strictures",
+      "title": "Urethral Strictures",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 6. Disease Management In Males Introduction Methodology Definition Epidemiology Aetiology And Prevention Classifications Diagnostic Evaluation Disease Management In Males Disease Management In Females Disease Management In Transgender Patients Tissue Transfer Perioperative Care Of Urethral Surgery Follow Up References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#6-disease-management-in-males",
+      "title": "6. DISEASE MANAGEMENT IN MALES",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-conservative-options",
+      "title": "6.1. Conservative options",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-1-observation",
+      "title": "6.1.1. Observation",
+      "level": 4,
+      "text": "A stricture will usually result in diminution in flow once the calibre of the urethral lumen is < 10Fr [150]. In other strictures (> 10Fr), the diagnosis is often made by coincidence in asymptomatic patients because of a urologic examination for other reasons (e.g. cystoscopy, need for urethral catheterisation) [150]. Purohit et al. performed observation and repeated cystoscopic evaluation of 42 subclinical, incidentally encountered strictures (> 16 Fr). After a median follow-up of 23 months, only five (12%) strictures progressed to a low-grade stricture (11-15 Fr). No patient developed symptoms and none of them needed surgical intervention [150]. These patients are candidates for observation although no evidence exist on the long-term evolution of these strictures. A stricture will usually result in diminution in flow once the calibre of the urethral lumen is < 10Fr [150]. In other strictures (> 10Fr), the diagnosis is often made by coincidence in asymptomatic patients because of a urologic examination for other reasons (e.g. cystoscopy, need for urethral catheterisation) [150]. Purohit et al. performed observation and repeated cystoscopic evaluation of 42 subclinical, incidentally encountered strictures (> 16 Fr). After a median follow-up of 23 months, only five (12%) strictures progressed to a low-grade stricture (11-15 Fr). No patient developed symptoms and none of them needed surgical intervention [150]. These patients are candidates for observation although no evidence exist on the long-term evolution of these strictures. In a series of anatomic stricture recurrence (< 16Fr) after urethroplasty, only 65% of patients were symptomatic [151]. Some asymptomatic patients refused further intervention because they had experienced substantial improvement after their primary urethroplasty. These patients were considered as functional 'successes' [151]. A multicentric study of the Trauma and Urologic Reconstructive Network of Surgeons observed an important discrepancy between cystoscopic recurrence and need for further intervention [149]. Patients with a large calibre (> 16Fr) recurrence had a one and two-year need for intervention rate of 4% and 12%, respectively. Of note, patients with small-calibre (< 16Fr) recurrence had a one- and two-year need for intervention rate of only 41% and 49%. Patients who needed intervention had poorer PROMs, suggesting clinical symptoms and bother. There is no information on long-term complications in patients with recurrences who did not undergo intervention. In cases of an asymptomatic stricture recurrence, it might be an option not to intervene but to perform regular follow-up. Care must be taken about the term 'asymptomatic' stricture (recurrence) as patients might conceal their bother and symptoms by different means (not drinking, social avoidance) and might only search for medical help once concealment is no longer tenable [204].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-2-suprapubic-catheter",
+      "title": "6.1.2. Suprapubic catheter",
+      "level": 4,
+      "text": "Radiation-induced urethral strictures are a difficult to treat population, as stricture-free rates for urethral reconstruction are lower compared to those in nonirradiated patients [205]. Fuchs et al. evaluated 75 patients who were initially treated by suprapubic diversion for radiation-induced isolated BMS [206]. Only 51% eventually decided to undergo urethroplasty after a mean follow-up period of 25 months. Although there was no significant difference in overall performance status between patients with a chronic suprapubic catheter versus those undergoing urethroplasty, all patients with a poor performance score remained with a suprapubic catheter. Patients with concomitant stress urinary incontinence (SUI) opted more often to keep their suprapubic catheter, as the SUI improved in 61% of cases. On the other hand, patients who kept their suprapubic catheter suffered from catheter-related complications in 27% of cases. Urinary diversion by ileal conduit was performed in 30% of patients who remained with a suprapubic catheter, while this was only the case in 8% who underwent urethroplasty. A suprapubic catheter is also an option in frail patients not able to undergo surgery or in patients who do not want (further) urethral surgery and are willing to accept the complications of a suprapubic catheter [207]. Summary of evidence LE Patients with asymptomatic incidental (> 16Fr) strictures have a low risk of progression and to develop symptoms. 3 Only half of the patients initially treated with a suprapubic catheter for radiation-induced bulbomembranous strictures will proceed with urethroplasty. 3 Recommendations Strength rating Do not intervene in patients with asymptomatic incidental (> 16Fr) strictures. Weak Consider long-term suprapubic catheter in patients with radiation-induced bulbomembranous strictures and/or poor performance status. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Patients with asymptomatic incidental (> 16Fr) strictures have a low risk of progression and to develop symptoms.",
+              "3"
+            ],
+            [
+              "Only half of the patients initially treated with a suprapubic catheter for radiation-induced bulbomembranous strictures will proceed with urethroplasty.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Do not intervene in patients with asymptomatic incidental (> 16Fr) strictures.",
+              "Weak"
+            ],
+            [
+              "Consider long-term suprapubic catheter in patients with radiation-induced bulbomembranous strictures and/or poor performance status.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-2-endoluminal-treatment-of-anterior-urethral-strictures-in-males",
+      "title": "6.2. Endoluminal treatment of anterior urethral strictures in males",
+      "level": 3,
+      "text": "The ability to treat the majority of strictures by less-invasive and time-consuming means offers obvious benefits, particularly when specialist surgical services are not available, or if patients simply prefer a more pragmatic, immediately available solution.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-2-1-direct-vision-internal-urethrotomy",
+      "title": "6.2.1. Direct vision internal urethrotomy",
+      "level": 4,
+      "text": "In contemporary practice, direct vision internal urethrotomy (DVIU) is commonly performed as a first-line treatment of urethral strictures [208]. It is usually performed under general or spinal anaesthesia in well-resourced countries, but is shown to be well-tolerated under local anaesthesia, with or without sedation [209]. 6.2.1.a. Indications of ‘cold knife’ direct vision internal urethrotomy 6.2.1.a.1. Direct vision internal urethrotomy for primary stricture treatment In the only high-level evidence study, Steenkamp et al. randomised 210 patients with seemingly comparable nonobliterative strictures at all locations of the urethra to either filiform dilatation versus DVIU with local anaesthesia on an outpatient basis [210]. They collected objective data with RUG performed at seven follow-up visits (3, 6, 9, 12, 24, 36 and 48 months). This unique study showed that urethral dilatation is equally effective as DVIU, but both procedure modalities become less effective with increasing stricture length (see Section 6.2.1.a.3.a). A retrospective cohort series on the primary treatment of patients with iatrogenic urethral strictures reported a significantly poorer patency rate for DVIU compared to urethroplasty techniques (32.2 vs. 82.4–83.5%) [211]. Furthermore, in a nonrandomised prospective study comparing DVIU with nontransecting urethroplasty techniques, patient-reported outcome measures related to lower urinary tract and sexual function domains demonstrated a clear advantage for the urethroplasty group across both domains. At 12 months, the nontransecting bulbar urethroplasty maintained significantly better patency than DVIU, with mean Q max 26.7 +/- 4.08mL/s versus 15.3 +/- 5.16mL/s (p < 0.001), respectively [212]. Patency rates vary considerably between 8% and 77% after DVIU (predominantly without prior urethroplasty) in retrospective cohort studies with minimum follow-up of one year [64, 213-219] (Table 6.1). Median time to recurrence was less than 12 months in most series [64,213-219]. This large variation in patency rate can be in part explained by the heterogeneous nature of the strictures and various definitions of patency used by the authors in these series. Indication to perform DVIU is dependent on various stricture characteristics that are prognostic for a successful outcome. Table 6.1: Results of DVIU in series with minimum follow-up > 12 months Study N Age (years) Follow-up (months) Location Length (cm) Previous interventions TTR (months) Patency rate (%) Al Taweel et al. [215] 301 37 (range: 17–82) 36 Bulbar: 227 (75%) 1.3 (0.4–4.2) Primary: 47% 10 8.3 Penile: 50 (17%) Recurrent: 53% - - Penobulbar: 24 (8%) Barbagli et al. [214] 136 37 (IQR: 25–48) 55 (range: 36–92) Bulbar: 100% 1–2cm: 45% Primary: 100% 25 57 2–3cm: 40% 3–4cm: 15% Kluth et al. [213] 128 64 (SD: 16) 16 (IQR: 6-43) Penile: 15 (12) NR Primary: 66% 8 52 Bulbar: 112 (88) Recurrent: 34% - - Unknown: 1 (1%) Pal et al. [216] 186 39 (SD:15) 1 st DVIU: 58 (SD: 15) Bulbar: 100% NR Primary: 69% 8.5 1 st   DVIU: 30 2 nd DVIU: 56 (SD: 15) Repeat: 31% - 2 nd   DVIU: 23 3 rd DVIU: 45 (SD: 15) 3 rd DVIU: 13 Launonen et al. [217] 34 6 (range: 0-16) 79 (range: 7–209) Bulbar: 74% < 2cm: 85% Primary: 100% 4 26% Penile: 21% > 2cm: 15% Penobubar: 6% - Redon-Galvez et al. [218] 67 57 (range: 15-91) 40 (range: 12-120) Penile:9% < 1cm: 82% Primary: 90% < 24 63% Bulbar: 64% > 1cm: 18% Repeat: 10% - - VUA: 21% Membranous: 6% Güler Y. [211] 234 57 (range: 22–74) 47 (range: 24–56) Penile: 34% 2.5 (0.4-5) Primary: 100% - 34% Bulbar: 59% 30% Membranous: 6% 33% Harraz et al. [219] 430 50 (SD: 15) 29 (range: 3–132) Bulbar: 100% < 2cm NR, prior urethroplasty excluded NR 58% Yürük et al. [64] 193 65 (SD: 13) 36 (SD: 12) Bulbar: 100% < 1cm: 140 (73%) 0% 87% of recurrence < 3 77% 1–2cm:  21 (11%) - 100% of recurrence  < 6 - 2–3cm:  32 (17%) DVIU = Direct vision internal urethrotomy; IQR = interquartile range; N = number of patients; NR = not reported; SD = standard deviation; TTR = time to recurrence. 6.2.1.a.2. Direct vision internal urethrotomy for recurrent strictures and as salvage treatment after failed urethroplasty In the OPEN trial, a recurrent stricture was defined as at least one previous failed intervention (endoscopic urethrotomy, urethral dilatation, urethroplasty) [220]. The previous intervention was predominantly DVIU. Despite poor recruitment, 108 and 112 patients were randomised to urethroplasty and DVIU respectively in a 24-month study protocol. Both groups had a similar improvement in voiding score symptoms after intervention. However, patients undergoing urethroplasty had 2.6 higher odds of experiencing an improvement of > 10ml/s in their maximum urinary flow compared to those undergoing urethrotomy (p = 0.001) [220]. Need for reintervention was observed in 13.8% versus 25.9% of cases respectively allocated to urethroplasty and DVIU resulting in a 48% lower risk for reintervention with urethroplasty (HR: 0.52; 95% CI: 0.31–0.89; p = 0.017) [220].",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Study",
+              "N",
+              "Age (years)",
+              "Follow-up (months)",
+              "Location",
+              "Length (cm)",
+              "Previous interventions",
+              "TTR (months)",
+              "Patency rate (%)"
+            ],
+            [
+              "Al Taweel et al. [215]",
+              "301",
+              "37 (range: 17–82)",
+              "36",
+              "Bulbar: 227 (75%)",
+              "1.3(0.4–4.2)",
+              "Primary: 47%",
+              "10",
+              "8.3"
+            ],
+            [
+              "Penile: 50 (17%)"
+            ],
+            [
+              "Recurrent: 53%",
+              "-",
+              "-"
+            ],
+            [
+              "Penobulbar: 24 (8%)"
+            ],
+            [
+              "Barbagli et al. [214]",
+              "136",
+              "37 (IQR: 25–48)",
+              "55 (range: 36–92)",
+              "Bulbar: 100%",
+              "1–2cm: 45%",
+              "Primary: 100%",
+              "25",
+              "57"
+            ],
+            [
+              "2–3cm: 40%"
+            ],
+            [
+              "3–4cm: 15%"
+            ],
+            [
+              "Kluth et al. [213]",
+              "128",
+              "64 (SD: 16)",
+              "16 (IQR: 6-43)",
+              "Penile: 15 (12)",
+              "NR",
+              "Primary: 66%",
+              "8",
+              "52"
+            ],
+            [
+              "Bulbar: 112 (88)"
+            ],
+            [
+              "Recurrent: 34%",
+              "-",
+              "-"
+            ],
+            [
+              "Unknown: 1 (1%)"
+            ],
+            [
+              "Pal et al. [216]",
+              "186",
+              "39 (SD:15)",
+              "1st DVIU: 58 (SD: 15)",
+              "Bulbar: 100%",
+              "NR",
+              "Primary: 69%",
+              "8.5",
+              "1st DVIU: 30"
+            ],
+            [
+              "2nd DVIU: 56 (SD: 15)"
+            ],
+            [
+              "Repeat: 31%",
+              "-",
+              "2nd DVIU: 23"
+            ],
+            [
+              "3rd DVIU: 45 (SD: 15)"
+            ],
+            [
+              "3rdDVIU: 13"
+            ],
+            [
+              "Launonen et al. [217]",
+              "34",
+              "6 (range: 0-16)",
+              "79 (range: 7–209)",
+              "Bulbar: 74%",
+              "< 2cm: 85%",
+              "Primary: 100%",
+              "4",
+              "26%"
+            ],
+            [
+              "Penile: 21%",
+              "> 2cm: 15%"
+            ],
+            [
+              "Penobubar: 6%",
+              "-"
+            ],
+            [
+              "Redon-Galvezet al. [218]",
+              "67",
+              "57 (range: 15-91)",
+              "40 (range: 12-120)",
+              "Penile:9%",
+              "< 1cm: 82%",
+              "Primary: 90%",
+              "< 24",
+              "63%"
+            ],
+            [
+              "Bulbar: 64%",
+              "> 1cm: 18%",
+              "Repeat: 10%",
+              "-",
+              "-"
+            ],
+            [
+              "VUA: 21%"
+            ],
+            [
+              "Membranous: 6%"
+            ],
+            [
+              "Güler Y. [211]",
+              "234",
+              "57 (range: 22–74)",
+              "47 (range: 24–56)",
+              "Penile: 34%",
+              "2.5 (0.4-5)",
+              "Primary: 100%",
+              "-",
+              "34%"
+            ],
+            [
+              "Bulbar: 59%",
+              "30%"
+            ],
+            [
+              "Membranous: 6%",
+              "33%"
+            ],
+            [
+              "Harrazet al. [219]",
+              "430",
+              "50 (SD: 15)",
+              "29 (range: 3–132)",
+              "Bulbar: 100%",
+              "< 2cm",
+              "NR, prior urethroplasty excluded",
+              "NR",
+              "58%"
+            ],
+            [
+              "Yürüket al. [64]",
+              "193",
+              "65 (SD: 13)",
+              "36 (SD: 12)",
+              "Bulbar: 100%",
+              "< 1cm: 140 (73%)",
+              "0%",
+              "87% of recurrence < 3",
+              "77%"
+            ],
+            [
+              "1–2cm: 21 (11%)",
+              "-",
+              "100% of recurrence < 6",
+              "-"
+            ],
+            [
+              "2–3cm: 32 (17%)"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Author",
+              "Location",
+              "Length",
+              "Calibre",
+              "Multiplicity",
+              "Prior DVIU"
+            ],
+            [
+              "Steenkamp et al. [210]/Heyns [225]",
+              "RR for recurrence penile vs. bulbar: 1.85 (95% CI: 0.94 to 3.67, p = 0.077)",
+              "< 2cm: 60%(@12 months)",
+              "NR",
+              "NR",
+              "None: 50–60%(@48 months)"
+            ],
+            [
+              "-",
+              "2–4cm: 50% (@12m)",
+              "-",
+              "-",
+              "1: 0–40% (@48 months)"
+            ],
+            [
+              "-",
+              "> 4 m: 20%(@12 months)",
+              "-",
+              "-",
+              "2: 0% (@24 months)"
+            ],
+            [
+              "Al Taweel et al. [215]",
+              "Bulbar: 11%",
+              "< 1cm: 27%",
+              "NR",
+              "NR",
+              "0: 12.1%"
+            ],
+            [
+              "Penile: 0%",
+              "1–2cm: 0%",
+              "-",
+              "-",
+              "1: 7.9%"
+            ],
+            [
+              "Penobulbar: 0%",
+              "> 2cm: 0%",
+              "-",
+              "-",
+              "> 1: 0%"
+            ],
+            [
+              "Barbagli et al. [214]",
+              "NA",
+              "1–2cm: 71% (@60 months)",
+              "pQmax< 5ml/s: 31%",
+              "NA",
+              "0: 62%"
+            ],
+            [
+              "-",
+              "2–3cm: 51%(@60 months)",
+              "pQmax5-8ml/s: 53%",
+              "-",
+              "1: 37%"
+            ],
+            [
+              "-",
+              "3-4cm: 39%(@60 months)",
+              "pQmax> 8ml/s: 83%",
+              "-",
+              "-"
+            ],
+            [
+              "Kluth et al. [213]",
+              "Location no predictor",
+              "NR",
+              "pQmax no predictor",
+              "NR",
+              "0: 60%"
+            ],
+            [
+              "-",
+              "-",
+              "-",
+              "-",
+              "> 1: 39%"
+            ],
+            [
+              "Pal et al. [216]",
+              "NA",
+              "< 1cm: 45%",
+              "NR",
+              "Single: 35%",
+              "0: 30%"
+            ],
+            [
+              "-",
+              "1–1.5cm: 0%",
+              "-",
+              "Multiple: 0%",
+              "1: 23%"
+            ],
+            [
+              "-",
+              "> 1.5cm: 0%",
+              "-",
+              "-",
+              "2: 13%"
+            ],
+            [
+              "Launonen [217]",
+              "Bulbar: 76%*",
+              "< 2cm: 83%*",
+              "NR",
+              "NR",
+              "0: 26%"
+            ],
+            [
+              "Penile: 71%*",
+              "> 2cm: 0%*",
+              "-",
+              "-",
+              "1: 33%"
+            ],
+            [
+              "-",
+              "-",
+              "-",
+              "-",
+              "2: 26%"
+            ],
+            [
+              "-",
+              "-",
+              "-",
+              "-",
+              "3: 11%"
+            ],
+            [
+              "-",
+              "-",
+              "-",
+              "-",
+              "4: 0%"
+            ],
+            [
+              "Redon-Galvez [218]",
+              "NR",
+              "< 1cm: 71%",
+              "NR",
+              "NR",
+              "NR"
+            ],
+            [
+              "-",
+              "> 1cm: 25%",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "Güler Y [211]",
+              "Bulbar: 30%",
+              "< 1.85cm: OR: 0.86 (95% CI: 0.74–0.99; p = 0.042)",
+              "NR",
+              "NR",
+              "NR"
+            ],
+            [
+              "Penile: 34%"
+            ],
+            [
+              "Membranous: 33%"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Study/Complication",
+              "‘Cold knife’ DVIU (%)",
+              "Laser DVIU (%)",
+              "p-value"
+            ],
+            [
+              "Jin et al. [227]"
+            ],
+            [
+              "Urinary extravasation",
+              "2.9",
+              "3.1",
+              "0.938"
+            ],
+            [
+              "Urinary incontinence",
+              "4.1",
+              "2.1",
+              "0.259"
+            ],
+            [
+              "Urinary tract infection",
+              "2.1",
+              "2.7",
+              "0.653"
+            ],
+            [
+              "Urinary retention",
+              "0.4",
+              "9",
+              "< 0.0001"
+            ],
+            [
+              "Haematuria",
+              "2",
+              "5.2",
+              "0.034"
+            ],
+            [
+              "Epididymitis",
+              "0.5",
+              "NR",
+              "NA"
+            ],
+            [
+              "Fever",
+              "2.3",
+              "NR",
+              "NA"
+            ],
+            [
+              "Scrotal abscess",
+              "0.3",
+              "NR",
+              "NA"
+            ],
+            [
+              "Erectile dysfunction",
+              "5.3",
+              "NR",
+              "NA"
+            ],
+            [
+              "Urinary tract irritation",
+              "NR",
+              "11.4",
+              "NA"
+            ],
+            [
+              "Urinary fistula",
+              "NR",
+              "1.5",
+              "NA"
+            ],
+            [
+              "Dysuria",
+              "NR",
+              "5.1",
+              "NA"
+            ],
+            [
+              "Yenice et al. [229]"
+            ],
+            [
+              "Urinary extravasation",
+              "0",
+              "2.9",
+              "0.6"
+            ],
+            [
+              "Haematuria",
+              "10",
+              "0"
+            ],
+            [
+              "Chen et al. [228]"
+            ],
+            [
+              "Urinary extravasation",
+              "9.1",
+              "4.2",
+              "0.5"
+            ],
+            [
+              "Urinary incontinence",
+              "4.5",
+              "4.2",
+              " "
+            ],
+            [
+              "Ali et al. [231]"
+            ],
+            [
+              "Urinary retention",
+              "15.2",
+              "3",
+              "0.021"
+            ],
+            [
+              "Haematuria",
+              "12.1",
+              "6.1",
+              "0.037"
+            ],
+            [
+              "Urethral bleeding",
+              "6.1",
+              "0",
+              "0.014"
+            ],
+            [
+              "Akdemir et al. [232]"
+            ],
+            [
+              "Urethral bleeding",
+              "10",
+              "3.3",
+              "> 0.05"
+            ],
+            [
+              "Urinary tract infection",
+              "6.7",
+              "3.3",
+              "> 0.05"
+            ],
+            [
+              "Erectile dysfunction",
+              "6.7",
+              "3.3",
+              "> 0.05"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Direct vision internal urethrotomy performs poorly in penile strictures. Direct vision internal urethrotomy at the penile urethra might provoke venous leakage from the corpora cavernosa, with subsequent risk of erectile dysfunction.",
+              "1b"
+            ],
+            [
+              "Increased stricture length is associated with higher risk of failure of direct vision internal urethrotomy (DVIU).",
+              "1b"
+            ],
+            [
+              "In selected patients with a primary, single, short (< 2cm) and nonobliterative bulbar stricture, a five-year stricture-free rate of up to 77% can be expected.",
+              "3"
+            ],
+            [
+              "Direct vision internal urethrotomy has a stricture-free rate of 51% if performed for a short, veil-like recurrent stricture after prior bulbar urethroplasty.",
+              "3"
+            ],
+            [
+              "There is conflicting evidence that 'hot knife' (laser, plasmakinetic) DVIU would be superior compared to 'cold knife' DVIU after more than one year of follow-up.",
+              "1a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Do not use direct vision internal urethrotomy (DVIU) for penile strictures.",
+              "Strong"
+            ],
+            [
+              "Do not use DVIU/dilatation as solitary treatment for long (> 2cm) segment strictures.",
+              "Strong"
+            ],
+            [
+              "Perform DVIU/dilatation for a primary, single, short (< 2cm) and nonobliterative stricture at the bulbar urethra.",
+              "Weak"
+            ],
+            [
+              "Perform DVIU/dilatation for a short, veil-like recurrent stricture after prior bulbar urethroplasty.",
+              "Weak"
+            ],
+            [
+              "Use either 'hot' or 'cold knife' techniques to perform DVIU, depending on operator experience and resources.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-2-2-single-dilatation",
+      "title": "6.2.2. Single dilatation",
+      "level": 4,
+      "text": "6.2.2.a. Modalities of dilatation and results Dilatation can be done in the office, under local anaesthesia and without complex resources [241, 242]. With dilatation, the urethral mucosa at the stricture site is stretched and the scarring is disrupted. This is opposed to DVIU, in which the stricture is incised. However, both treatment modalities use the same principle to achieve urethral patency: a breach of the urethral mucosa at the site of the stricture in which re-epithelialisation should occur faster than wound contraction [238]. When dilators are used to dilate bulbar urethral strictures, considerable experience is required to avoid accidental perforation of the urethra at the level of the stricture. To reduce the risks (particularly false passage, spongiosal perforation, urethral bleeding) of 'classic' blind dilatation with rigid sounds [242], other strategies have been developed and evaluated in which the dilatation is visually controlled after a guidewire has been inserted (supplementary Table S6.20). Although no direct comparative studies of blind versus visually controlled dilatation are available, several studies have reported a low complication rate with visually controlled modifications of dilatation. The recurrence rate largely varies between 23.5 and 64.5% [243] (supplementary Table S6.20). 6.2.2.b. Effectiveness of dilatation compared with direct vision internal urethrotomy A systematic review identified only one prospective RCT comparing dilatation with DVIU and failed to detect any differences [210, 238]. In a small (n = 56) retrospective cohort study, the three-year estimated stricture recurrence-free survival was 35.5% and 28% for balloon dilatation and DVIU, respectively (p = 0.21) [239]. At present, there is a lack of evidence to support the claim that dilatation is superior to DVIU (or vice versa), and therefore, the indications for single dilatation are the same as for DVIU. Repetitive dilatation/DVIU with curative intent (see also Section 6.2.1.a.3.f) should be avoided, as no long-term freedom of recurrence can be expected [241] and because of the significant risk of increasing stricture length and complexity and prolonging the time to urethroplasty (which has better patency rates) [240]. Summary of evidence LE Visually controlled dilatation after endoscopic or fluoroscopic guidewire placement has a low complication rate. 3 Repetitive dilatations/direct vision internal urethrotomy have no long-term freedom of recurrence and increase stricture complexity. 1b Recommendations Strength rating Use visually controlled dilatation in preference to blind dilatation. Weak Do not perform repetitive (> 2) direct vision internal urethrotomy/dilatations if urethroplasty is a viable option. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Visually controlled dilatation after endoscopic or fluoroscopic guidewire placement has a low complication rate.",
+              "3"
+            ],
+            [
+              "Repetitive dilatations/direct vision internal urethrotomy have no long-term freedom of recurrence and increase stricture complexity.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use visually controlled dilatation in preference to blind dilatation.",
+              "Weak"
+            ],
+            [
+              "Do not perform repetitive (> 2) direct vision internal urethrotomy/dilatations if urethroplasty is a viable option.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-2-3-postdilatationdirect-vision-internal-urethrotomy-strategies",
+      "title": "6.2.3. Postdilatation/direct vision internal urethrotomy strategies",
+      "level": 4,
+      "text": "Several strategies have been developed and evaluated to prevent wound contraction and improve the stricture-free rate and time to stricture recurrence after dilatation or DVIU. It is noteworthy that these strategies tend to stabilise the stricture rather than keep the patient stricture-free, and the reported outcomes should be understood in this respect. 6.2.3.a. Intermittent selfdilatation 6.2.3.a.1. Results A systematic review identified six randomised and quasi-randomised trials comparing intermittent self-dilatation (ISD) with no ISD with a follow-up between eight and 24 months [244]. Stricture recurrence was reduced in men performing ISD (85/197, 43%) versus those who did not (128/207, 62%) (RR: 0.70; 95% CI: 0.48–1.00; p=0.05). There was significant heterogeneity, and the quality of included studies were very low, which led the authors to conclude there is uncertainty regarding the estimate [244]. This review found no significant difference in adverse events between ISD and no ISD (RR: 0.60; 95% CI: 0.11–3.26; p = 0.56) [244]. One trial involving 48 patients found no significant difference in six versus 12-months duration of ISD (RR: 0.67; 95% CI: 0.12–3.64) and another trial (n = 59) found no significant difference from using a low-friction hydrophylic versus a polyvinyl chloride catheter (RR: 0.32; 95% CI: 0.07–1.40) [244]. Other studies have been published after this systematic review of 2014. Chhabra et al. reported that patients complying with ISD after dilatation had a lower need for reintervention than those who did not: 12.3% versus 20.5%, respectively (p = 0.2) [245]. After a mean follow-up of 25 months, Greenwell et al. found a need for subsequent intervention in 13/31 (42%) males performing ISD versus 47/95 (49%) who did not (p = 0.46). The number of reoperations in patients with need for subsequent intervention was lower in the group performing ISD versus those who did not (2.6 vs. 3.4). No major complications were reported in both groups [246]. 6.2.3.a.2. Complications The potential benefit of ISD in stabilising the stricture must be balanced against the drawbacks. A multicentric prospective study (n = 85) reported that 35% and 26% of patients had moderate to severe difficulties in catheterisation, respectively, and 32% and 17% of patients suffered moderate to severe pain while performing ISD, respectively. This had a serious impact on QoL, which was rated moderate and poor in 32% and 55% of patients, respectively [28]. Younger age was identified as a predictor of poor QoL, and QoL was more impaired in proximal stricture location (posterior and bulbar) [28]. The majority of these patients performed ISD at least on a daily basis. Conversely, Scheipner et al. reported an improvement in QoL, however, with only weekly ISD after DVIU with a 3.3% complication rate per six months ISD interval [247]. Recently, self-dilatation using a hydraulic urethral catheter (balloon self-dilatation) was proposed [248] for recurrent bulbar strictures. During follow-up, significantly less UTI frequency and need for subsequent surgical intervention were described compared with regular Nelaton self-dilatation. As mentioned above, repetitive dilatation (including ISD) increases stricture complexity and delays time to urethroplasty [240, 249]. 6.2.3.a.3. Intermittent self-dilatation combined with intraurethral corticosteroids To delay wound contraction at the stricture site, intraurethral corticosteroids (as a catheter lubricant) have been used to improve the results of ISD. In 2023, a systematic review was performed by this panel that identified five prospective RCTs comparing ISD and local steroid (triamcinolone) ointment versus ISD without local steroid ointment [250]. Maximum duration of ISD allowed for inclusion in this systematic review was six months. These five studies included a total of 124 and 126 patients randomised to local steroid or not, with a follow-up ranging between 6 and 36 months. Successful stabilisation of the stricture was reported in 77 and 64% of patients in the group with or without corticosteroids, respectively (OR: 0.67; 95% CI: 0.45–0.99; p = 0.04). Three studies reported specifically that there were no extra complications related to the addition of steroids to ISD. In a small (n = 28) cohort with LS-related strictures, an intraurethral steroid regimen was successful (no need for subsequent escalation of therapy) in 25 (89%) patients after a mean follow-up of 25 months [165]. This regimen consisted of applying clobetasol cream 0.05% as lubricant on a calibration device (10–16Fr catheter or dilator) twice a day during a minimum of two months. As most of these patients further continued with instillation of steroids on a calibration device, this high 'success' rate must be viewed with caution and should be considered as a stabilisation of the stricture rather than a cure. Eventually, 12 (42.8%) patients could reduce the interval of instillation/dilatation, and three (10.7%) of them could",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Stricture recurrence was reduced in males performing ISD vs. those who did not.",
+              "1a"
+            ],
+            [
+              "Successful stabilisation of the stricture was reported in 77 and 64% of patients in the group with or without intraurethral corticosteroids in addition to ISD, respectively.",
+              "1a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform intermittent self-dilatation (ISD) to stabilise the stricture after dilatation/direct vision internal urethrotomy, if urethroplasty is not a viable option.",
+              "Weak"
+            ],
+            [
+              "Use intraurethral corticosteroids in addition to ISD to stabilise the urethral stricture.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Intralesional injections after direct vision internal urethrotomy (DVIU) might improve stricture-free rates in the short-term compared to DVIU alone. Experience is limited and the use of these drugs are off-label. Significant uncertainty exists about drug, dose, volume and technique.",
+              "1a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Use intralesional injections only in the confines of a clinical trial.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Drug (paclitaxel)-coated balloon dilatation is associated with higher anatomic patency rates (at six months) and lower risk of retreatment (at 1–2 years) as compared to standard dilatation/DVIU in patients with short (< 3cm), bulbar strictures that underwent at least two prior failed endoscopic treatments.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Offer drug (paclitaxel)-coated balloon dilatation for a short (< 3cm) bulbar stricture recurring after at least two prior endoscopic treatments in patients not fit for, or unwilling to undergo, urethroplasty.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Permanent urethral stents have a high complications and failure rate and make subsequent urethroplasty more challenging if they fail.",
+              "3"
+            ],
+            [
+              "Stents have a higher failure rate in the penile urethra.",
+              "3"
+            ],
+            [
+              "Temporary stents after DVIU (direct vision internal urethrotomy)/dilatation at the bulbar urethra prolong time to next recurrence compared to DVIU/dilatation alone.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Do not use permanent urethral stents.",
+              "Strong"
+            ],
+            [
+              "Do not use urethral stents for penile strictures.",
+              "Strong"
+            ],
+            [
+              "Use a temporary stent for recurrent bulbar strictures after direct vision internal urethrotomy to prolong time to next recurrence only if urethroplasty is not a viable option.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-3-open-repairs-urethroplasty-site-and-aetiology-clinical-scenario-treatment-options",
+      "title": "6.3. Open repairs (urethroplasty): site and aetiology (clinical scenario) treatment options",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-3-1-the-role-of-urethroplasty-in-the-management-of-penile-urethral-strictures",
+      "title": "6.3.1. The role of urethroplasty in the management of penile urethral strictures",
+      "level": 4,
+      "text": "Due to the specific aetiology and the associated problems, strictures related to failed hypospadias repair and LS will be discussed separately. However, many series reporting on the outcome of penile strictures have a mixed aetiology, including failed hypospadias repair and/or LS [274,275]. Due to their specific location, distal penile strictures will be discussed separately. 6.3.1.a. Staged augmentation urethroplasty Classically called 'two-stage' urethroplasty, this approach may become a multistage urethroplasty as revision (usually due to graft contracture) after the first stage has been reported in 0–20% of cases [275-278]. Therefore, the term 'staged' should be used instead [279]. In general, reconstructive urologists tend to follow this approach in men with more complex urethral stricture disease (multiple interventions in the past, unfavourable clinical findings such as significant spongiofibrosis or scarring that requires excision, poor quality of the urethral plate). An interval of at least four to six months has been proposed before proceeding to the tubularisation of the urethra, provided that the graft has healed uneventfully [280-282]. A systematic review by Mangera et al. has shown an average patency rate of 90.5% with the use of all types of grafts for staged penile urethroplasties with an average follow-up of 22.2 months [283]. Patency rates of staged oral mucosa graft (OMG) urethroplasty in specific locations vary between 73.3 and 100% [274, 275, 277, 278, 284, 285]. Postoperative urethrocutaneous fistula (UCF) rates were 17.2% and 2.6% in the studies of Ekerhult et al. and Joshi et al., respectively, and either not reported or unclear in the remaining studies [274, 275]. 6.3.1.b. Single-stage augmentation urethroplasty Single-stage urethroplasty offers the option for reconstruction of the stricture without the need for multiple operations, the associated periprocedural risks and the cosmetic and functional implications that, by definition, follow the first part of staged urethroplasties [286-288]. There is some evidence to suggest a considerable number of patients (50% or more in some studies) who were offered first stage urethroplasty never returned for the second stage because they were either satisfied with their functional status after the first stage (this particularly applied to older men or patients with multiple failed procedures in the past) or they were disappointed with the need for another operation [286, 287]. In the systematic review of Mangera et al., overall patency rate for all types of single-staged graft urethroplasties is 75.7%, with an average follow-up of 32.8 months [283]. No high-level evidence exists to state that one technique is superior to another, but it seems that the dorsal graft location is more commonly used compared to the ventral one. Mangera et al. reported that the patency rate was better with OMG compared to other grafts (mainly penile skin) [283]. Jiang et al. showed that combined (dorsal + ventral) BMG onlay had significantly better stricture-free rates for penoscrotal strictures (patency rate 88.9% vs. 60.9% with single-onlay approach); however, follow-up was significantly shorter in the double-onlay group [289]. Few studies have reported dedicated results on sexual function parameters that do not appear to be significantly impaired postoperatively [277, 290]. A critical factor with respect to single-staged procedures is the careful selection of patients, as males with long and complex strictures might not be good candidates for single-stage reconstruction and attempts to offer single-staged operations in these patients might lead to higher recurrence rates. Sometimes, this selection can only be done based on intraoperative findings. Therefore, any scheduled single-staged procedure might be converted into a staged one [286,291]. Palminteri et al. highlighted the fact that single-stage augmentation urethroplasties in men with LS-related strictures enlarge rather than remove the diseased segment of the urethra; therefore, there is always a risk of recurrence in the future [292]. The role of previous interventions (especially multiple urethrotomies or history of previous urethroplasties) remains unclear as several studies on single-staged operations do not provide information on previous procedures, or excluded patients with operations in the past [290,293]. Although favourable outcomes in patients with previous history of urethrotomies/urethroplasties were reported by Barbagli and Kulkarni, in the study by Pfalzgraf et al. all recurrences post-previous urethroplasty took place in the single-stage group while Ekerhult et al. identified prior history of urethral operations as a risk factor for recurrence in the group of single-stage procedures [274, 277, 278, 294]. In addition to previous urethral surgery, high BMI has also been identified as a poor prognostic factor after single-stage penile urethroplasty [274]. 6.3.1.c. Anastomotic urethroplasty in me",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Stricture-free rates vary widely after different single-stage and staged penile augmentation urethroplasty techniques, presumably because of the differences in patient, stricture and local tissue characteristics.",
+              "2b"
+            ],
+            [
+              "In staged urethroplasties, an interval of at least four to six months has been proposed before proceeding to the tubularisation of the urethra, provided that the graft has healed uneventfully.",
+              "4"
+            ],
+            [
+              "The use of anastomotic urethroplasty in the management of urethral stricture disease has been discouraged due to the risk of chordee postoperatively. Anastomotic urethroplasty can be offered in selected cases of very short (< 1cm), injury-associated penile strictures.",
+              "3"
+            ],
+            [
+              "In case of adverse intraoperative findings, a single-stage approach might not be feasible and must be converted into a staged approach.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer males with penile urethral stricture disease augmentation urethroplasty by either a single-stage or staged approach, taking into consideration previous interventions and stricture characteristics.",
+              "Strong"
+            ],
+            [
+              "Offer an interval of at least four to six months before proceeding to the second stage of the procedure, provided that outcome of the first stage is satisfactory.",
+              "Weak"
+            ],
+            [
+              "Do not offer anastomotic urethroplasty to patients with penile strictures > 1cm due to the risk of penile chordee postoperatively.",
+              "Strong"
+            ],
+            [
+              "Counsel patients with penile strictures that single-stage procedures might be converted to staged ones in the face of adverse intraoperative findings.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Males with FHR have history of multiple interventions and poor-quality tissues and might require complex procedures for a satisfactory functional and cosmetic outcome.",
+              "4"
+            ],
+            [
+              "Males with FHR may have low self-esteem due to urinary and sexual dysfunction and unsatisfactory cosmesis.",
+              "2b"
+            ],
+            [
+              "Males with FHR can have scarred penile skin or concurrent lichen sclerosus and outcomes with skin grafts or flaps can be unsatisfactory.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Males with failed hypospadias repair (FHR) should be considered complex patients and referred to specialist centres for further management.",
+              "Weak"
+            ],
+            [
+              "Propose psychological and/or psychosexual counselling to men with unsatisfactory cosmesis and sexual or urinary dysfunction related to FHR.",
+              "Weak"
+            ],
+            [
+              "Do not use penile skin grafts or flaps in failed FHR patients with lichen sclerosus or scarred skin.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Lichen sclerosus is a skin condition that can lead to scarring, and recurrence rates after skin graft/flap augmentation urethroplasties have been reported to be high (50–100%).",
+              "4"
+            ],
+            [
+              "Single-stage OMG urethroplasty provides patency rates between 65 and 100% and is not inferior to staged OMG urethroplasty.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Do not use genital skin in augmentation penile urethroplasty in males with lichen sclerosus (LS)-related strictures.",
+              "Strong"
+            ],
+            [
+              "Perform single-stage oral mucosa graft urethroplasty in the absence of adverse local conditions in males with LS related strictures.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Post-meatoplasty/urethroplasty patency rates in men with meatal stenosis or fossa navicularis/distal urethral strictures range between 57 and 100%, depending on the type of surgical intervention, with high patient satisfaction and minimal complications.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Offer open meatoplasty or distal urethroplasty to patients with meatal stenosis or fossa navicularis/distal urethral strictures.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-3-2-urethroplasty-for-bulbar-strictures",
+      "title": "6.3.2. Urethroplasty for bulbar strictures",
+      "level": 4,
+      "text": "6.3.2.a. 'Short' bulbar strictures The length of a 'short' bulbar stricture is poorly defined. In general, 'short bulbar strictures' are those amenable to stricture excision and subsequent tension-free anastomotic repair. The limit is usually around 2cm [332]. In fit patients, the choice of urethroplasty is between EPA (transecting or non-transecting) and FGU. 6.3.2.b. Excision and primary anastomosis 6.3.2.b.1. Excision and primary anastomosis with transection of corpus spongiosum (transecting EPA) Transecting EPA (tEPA) is based on the full thickness resection of the segment of the bulbar urethra, where the stricture and surrounding spongiofibrosis is located. Reconstruction is performed by a tension-free spatulated anastomosis. 6.3.2.b.1.a. Patency rates The International Consultation on Urological Diseases (ICUD) performed an extensive review of the literature and reported a composite patency rate of 93.8% for tEPA [333]. Based on this, they endorsed tEPA as treatment of choice for short bulbar strictures if other techniques have an expected patency rate below 90%. However, penile complications were not taken into account for this advice, and as discussed below, these are a concern with tEPA. Prospective data report a patency rate of 88% at 12-months follow-up [332]. In most cases, no further intervention is required, suggesting urethral patency. In the few studies using an anatomic definition for failure (an inability to pass a 16Fr endoscope) tEPA urethroplasty achieves a similar patency rate, ranging between 85.5 and 97% [151, 334-336] (see supplementary Table S6.5). The median time for recurrence after tEPA is between 3.5 and 13 months [151, 337, 338]. Several authors suggested that tEPA is the technique of choice for short post-traumatic bulbar strictures with complete obliteration of the urethral lumen and full thickness spongiofibrosis [335, 339]. These strictures are a specific entity and usually the result of a straddle injury with complete or nearly complete rupture of the bulbar urethra. These obliterations are predominantly short and can be treated with tEPA, yielding a patency rate of 98.5% as reported in the series of Horiguchi et al. [340]. They also reported an improvement in erectile function after urethroplasty measured one year postoperatively. Straddle injury (and perineal trauma) are a common aetiology in papers published about tEPA. However, separate data on the outcomes for this specific aetiology is usually lacking. 6.3.2.b.1.b. Complications Nilsen et al. conducted an RCT comparing tEPA with FGU for short (< 2cm) bulbar strictures [332]. Compared to FGU, penile complications were more frequent with tEPA. After three months, worse ejaculation (26%), reduced glans filling (26%), penile shortening (16%) and penile chordee (10%) were reported significantly more often with tEPA. After 12 months, reduced glans filling (19%) and penile shortening (26%) remained significantly more reported with tEPA. A scrotal perineal hematoma was significantly more frequent with tEPA compared to FGU (24 vs. 4%, respectively). Despite these complications, IIEF-5 did not differ significantly between the two groups at three and 12 months. Two systematic reviews support the findings of Nilsen regarding the benefits for non-transecting on penile complications [341, 342]. These latter complications (as well as ED) might be attributed to complete transection of the corpus spongiosum at the level of the stricture, thereby disrupting the antegrade blood flow of the urethra and corpus spongiosum. To spare this, non-transecting EPA (ntEPA) has been described [343] and later modified [344]. 6.3.2.c. Non-transecting excision and primary anastomosis 6.3.2.c.1. Patency rates With the exception of straddle injuries that are usually associated with complete obliteration of the lumen and full thickness scarring of the corpus spongiosum [335, 345], ntEPA is a good alternative for short bulbar strictures of all other aetiologies. With median follow-ups ranging between 17.6 and 37.1 months, the patency rates reported are 93.2–99%; with the lack of further intervention considered a criteria of success [339, 346, 347]. Even with the anatomic criteria (16Fr cystoscopy passage) the success rate achieved was 97.9% at 12 months [335] (see supplementary Table S6.7). A systematic review of comparative studies showed a comparative patency rate for ntEPA and tEPA [342]. 6.3.2.c.2. Complications Complication rates with tEPA and ntEPA were similar based on the systematic review of Zhao et al. However, ED was lower after ntEPA compared to tEPA (OR: 0.27; 95% CI: 0.11 to 0.66; p = 0.004) [342]. 6.3.2.d. Free graft urethroplasty Despite the very high patency rates of EPA, FGU has been performed for short bulbar strictures as well. This is mainly driven by reports of ED after EPA. A meta-analysis of ten papers [348] comparing tEPA with BMG FGU for short strictures found that tEPA is better than BMG FGU in terms of patency rates (91.5% vs",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "For short post-traumatic strictures, tEPA has good patency rates.",
+              "3"
+            ],
+            [
+              "For short bulbar strictures not related to straddle injury, tEPA, ntEPA and FGU have the same patency rates, but ntEPA and FGU have fewer erectile dysfunction or penile complications than tEPA.",
+              "1b-3*"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use transecting excision and primary anastomosis (tEPA) for short post-traumatic bulbar strictures with (nearly) complete obliteration of the lumen and full thickness spongiofibrosis.",
+              "Strong"
+            ],
+            [
+              "Use non-transecting excision and primary anastomosis or free graft urethroplasty instead of tEPA for short bulbar strictures not related to straddle injury.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "For strictures not amenable to EPA, FGU provides an 88–91% patency rate at short to medium follow-up.",
+              "1b"
+            ],
+            [
+              "Augmented non-transecting anastomotic repairs proved successful outcomes associated with high patient satisfaction rates in long bulbar strictures (> 2cm) with a short (< 1cm) critical area.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use free graft urethroplasty for bulbar strictures not amendable to excision and primary anastomosis (EPA).",
+              "Strong"
+            ],
+            [
+              "Perform augmented non-transecting anastomotic repair during bulbar free graft urethroplasty in short, nearly obliterative segments.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Location of the graft has no impact on patency rates.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Use dorsal, dorsal-lateral or ventral approach according to surgical practice, expertise and intraoperative findings.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Staged urethroplasty for bulbar strictures and for strictures involving the bulbar urethra yields patency rates of 33.3–90%, depending upon patient and stricture characteristics and patient satisfaction is high with all types of staged urethroplasty.",
+              "3"
+            ],
+            [
+              "Lichen sclerosus is a relative contraindication for staged urethroplasty in the literature with lower long-term urethral patency rates of 52.2% compared to urethral patency rates of 64.3% in non-lichen sclerosis patients.",
+              "3"
+            ],
+            [
+              "Up to 45.5% of men elect not to proceed to second stage re-tubularisation after successful first stage.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer staged urethroplasty to males with complex anterior urethral stricture disease not suitable for single stage urethroplasty and who are fit for reconstruction.",
+              "Weak"
+            ],
+            [
+              "Do not perform staged bulbar urethroplasty for lichen sclerosis if single stage urethroplasty is possible.",
+              "Weak"
+            ],
+            [
+              "Consider staged procedure in patients unsure about perineal urethrostomy versus urethral reconstruction.",
+              "Weak"
+            ],
+            [
+              "Warn males that staged urethroplasty may comprise more than two stages.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Study",
+              "N",
+              "Population",
+              "ComorbidityHR (95% CI)",
+              "LengthHR (95% CI)",
+              "AetiologyHR (95% CI)",
+              "Prior stricture therapyHR (95% CI)"
+            ],
+            [
+              "Chapman et al. 2017 [334]",
+              "596",
+              "Isolated bulbar strictures",
+              "Overall comorbidity: 2.4 (1.1–5.3) Obesity: 2.9 (1.3–6.5)",
+              "1.2 (1.1–1.3)",
+              "Infectious: 3.7(1.3–10.6)",
+              "NS"
+            ],
+            [
+              "Verlaet al.2020 [372]",
+              "474",
+              "Anterior strictures",
+              "NS",
+              "NS",
+              "NS",
+              "NS"
+            ],
+            [
+              "Bandiniet al. [366]",
+              "575",
+              "Ventral BMG urethroplasties for bulbar strictures",
+              "NS",
+              "≥ 5cm: 3.56 (1.5–7.94)",
+              "NS",
+              "NS"
+            ],
+            [
+              "Calvoet al. [373]",
+              "733",
+              "Mixed urethroplasty (anterior-posterior)",
+              "NS",
+              "1.1(1.05-1.15)",
+              "LS: 4.46(2.25–9.53)Radiation 4.25 (1.65–10.9),Infectious strictures 5.27 (2.03–13.7).Hypospadias 2.28 (1.03–5.01)Iatrogenic 2.33 (1.01–5.36)",
+              "NS"
+            ],
+            [
+              "Guler et al.[374]",
+              "51",
+              "Dorsal BMG urethroplasty",
+              "Smoking 5.6(1.73–8.69)DM NS",
+              "2.2 (0.9–12.1)",
+              "NR",
+              "Number of prior DVIU 4.5 (1.5–7.01)"
+            ],
+            [
+              "Palminteri et al. [361]",
+              "216",
+              "Double graft (dorsal + ventral) bulbar urethroplasty",
+              "Age NS",
+              "< 1.5cm 0.55 (0.29–0.99)",
+              "NS",
+              "4.52(1.28–15-84)"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Buccal mucosa free graft urethroplasty after failed urethroplasty achieves the same patency rates as primary cases.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Use oral mucosa free graft urethroplasty for ReDo urethroplasty in case the of a long stricture.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-3-3-urethroplasty-for-penobulbar-or-panurethral-strictures",
+      "title": "6.3.3. Urethroplasty for penobulbar or panurethral strictures",
+      "level": 4,
+      "text": "The possibilities for reconstruction are various and often include combinations of different techniques or grafts other than OMG. The patency rates are usually lower than in shorter reconstructions (Table 6.5). Hussein et al. [378] performed an RCT comparing skin grafts versus skin flaps in strictures of mean length 15cm and found no difference in patency rates (72% vs. 79%) or complications. Warner et al. [318] performed a multi-institutional review in 2015 including 466 patients with stricture length > 8cm and found an overall patency rate of 77.5%. As discussed previously, Kozinn et al. [276] reported on the outcome of staged urethroplasty in a cohort of which 54.9% had panurethral strictures (Table 6.5). Kulkarni et al. [379] proposed a one-stage completely perineal approach with invagination of the penis and one-sided urethral dissection. After 59 months, the overall patency rate was 83.7% in 117 men with a mean stricture length of 14cm. Another option in patients refusing or unfit for complex reconstructive surgery is PU (see Section 6.3.4). Table 6.7: Study characteristics and patency rates of series on penobulbar strictures Author Study Length in cm (min., mean, range) Technique N FU months (mean, range) Patency Hussein et al. 2011 [378] RCT NR, 15, 9–21 Skin graft vs. flap 37 36, 12–60 72 vs. 79% Hussein et al. 2016 [380] Prospective NR, 8, NR BM vs. skin dorsal onlay 69 56, NR 90 vs. 84% Warner et al. 2015 [318] Retrospective review > 8, 12.5, 8–24 BM/staged/skin 466 20, 12–344 77.5% El Dahshoury et al. 2009 [381] Retrospective NR, 18, 15–20 Skin flap 30 24, NR 87% Mathur et al. 2010 [382] Retrospective NR, 12, 8–16.5 Tunica albuginea graft 86 36, NR 89% Kulkarni et al. 2012 [379] Retrospective NR, 14 BM dorsal onlay 117 59, NR 83.7% Manjunath et al. 2022 [383] Retrospective > 8, NR, NR BM dorsal onlay 56 NR, 60–120 95% Tabassi et al. 2014 [384] Retrospective NR, 14.4, NR BM dorsal onlay 117 (37) 19, NR 84% Xu et al. 2017 [314] Retrospective > 8, 12, 8–20 BM/LM/combination 81 >12, 41, 15–86 83% Singh et al. 2023 [385] Retrospective NR, NR, 6–8 BM onlay vs. skin flap 60 12, NR 89 vs. 76% Kozinn et al. 2013 [276] Retrospective NR, 9.6, 4–17 Staged urethroplasty 91 15, 12-69 90.1% BM = buccal mucosa; LM = lingual mucosa; FU = follow-up; N = number of patients; NR = not reported; RCT = randomised controlled trial. Summary of evidence LE Publications about panurethral urethroplasties generally come from high volume centres. 4 Different materials and techniques might be needed for reconstruction. 3 Recommendations Strength rating Offer panurethral urethroplasties in specialised centres, because different techniques and materials might be needed. Weak Combine techniques to treat panurethral strictures if one technique is not able to treat the full extent of the stricture. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Author",
+              "Study",
+              "Length in cm (min., mean, range)",
+              "Technique",
+              "N",
+              "FU months (mean, range)",
+              "Patency"
+            ],
+            [
+              "Hussein et al. 2011 [378]",
+              "RCT",
+              "NR, 15, 9–21",
+              "Skin graft vs. flap",
+              "37",
+              "36, 12–60",
+              "72 vs. 79%"
+            ],
+            [
+              "Hussein et al. 2016 [380]",
+              "Prospective",
+              "NR, 8, NR",
+              "BM vs. skin dorsal onlay",
+              "69",
+              "56, NR",
+              "90 vs. 84%"
+            ],
+            [
+              "Warner et al. 2015 [318]",
+              "Retrospective review",
+              "> 8, 12.5, 8–24",
+              "BM/staged/skin",
+              "466",
+              "20, 12–344",
+              "77.5%"
+            ],
+            [
+              "El Dahshoury et al. 2009 [381]",
+              "Retrospective",
+              "NR, 18, 15–20",
+              "Skin flap",
+              "30",
+              "24, NR",
+              "87%"
+            ],
+            [
+              "Mathur et al. 2010 [382]",
+              "Retrospective",
+              "NR, 12, 8–16.5",
+              "Tunica albuginea graft",
+              "86",
+              "36, NR",
+              "89%"
+            ],
+            [
+              "Kulkarni et al. 2012 [379]",
+              "Retrospective",
+              "NR, 14",
+              "BM dorsal onlay",
+              "117",
+              "59, NR",
+              "83.7%"
+            ],
+            [
+              "Manjunath et al. 2022 [383]",
+              "Retrospective",
+              "> 8, NR, NR",
+              "BM dorsal onlay",
+              "56",
+              "NR, 60–120",
+              "95%"
+            ],
+            [
+              "Tabassi et al. 2014 [384]",
+              "Retrospective",
+              "NR, 14.4, NR",
+              "BM dorsal onlay",
+              "117 (37)",
+              "19, NR",
+              "84%"
+            ],
+            [
+              "Xu et al. 2017 [314]",
+              "Retrospective",
+              "> 8, 12, 8–20",
+              "BM/LM/combination",
+              "81",
+              ">12, 41, 15–86",
+              "83%"
+            ],
+            [
+              "Singh et al. 2023 [385]",
+              "Retrospective",
+              "NR, NR, 6–8",
+              "BM onlay vs. skin flap",
+              "60",
+              "12, NR",
+              "89 vs. 76%"
+            ],
+            [
+              "Kozinn et al. 2013 [276]",
+              "Retrospective",
+              "NR, 9.6, 4–17",
+              "Staged urethroplasty",
+              "91",
+              "15, 12-69",
+              "90.1%"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Publications about panurethral urethroplasties generally come from high volume centres.",
+              "4"
+            ],
+            [
+              "Different materials and techniques might be needed for reconstruction.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer panurethral urethroplasties in specialised centres, because different techniques and materials might be needed.",
+              "Weak"
+            ],
+            [
+              "Combine techniques to treat panurethral strictures if one technique is not able to treat the full extent of the stricture.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-3-4-perineal-urethrostomy",
+      "title": "6.3.4. Perineal urethrostomy",
+      "level": 4,
+      "text": "6.3.4.a. Indications Perineal urethrostomy offers a permanent or temporary solution for restoration of voiding in men with complex urethral stricture disease in whom: there are no further options to restore urethral patency either due to multiple previous failed urethroplasties [318, 362] or multiple comorbidities precluding a more expansive surgical undertaking after failed endoscopic management [386]; there is a lack of certainty on behalf of the surgeon regarding the most appropriate form of urethroplasty for the patient; and following urethrectomy and/or penectomy for cancer [387]. 6.3.4.b. Types of perineal urethrostomy Johanson described an inverted anterior scrotal funnel PU in 1953. This was later modified by Gil-Vernet and Blandy to utilise a posteriorly based scrotal flap. Both these techniques utilise an inverted U or lambda incision. The Gil-Vernet-Blandy PU has been further modified with the addition of dorsal and/or ventral free OMG augment to allow use of PU in men with strictures consequent to radiotherapy [388] or LS [278] and/or in men with PU stenosis or stricture extending into the proximal bulbar or membranous urethra ('augmented Blandy') [386]. More recently, the ‘7 flap’ PU, utilising a unilateral posteriorly based scrotal flap, has been developed for use in the very obese, or in men of all BMI with stricture extension into the proximal bulbar or membranous urethra [389]. Initially this was performed with transection of the distal bulbar urethra, but latterly, the technique has been modified to a non-transection technique with loop mobilisation of the bulbar urethra ('loop PU') [390]. The '7-flap' utilises a midline incision – which has been shown to have a significantly reduced side-effect profile in terms of superficial wound infection (1.9% c.f. 18.6%) and superficial wound dehiscence (11.9% c.f. 23.3%) than the inverted U or lambda incision [391, 392] and may be associated with improved urethroplasty (and by inference PU) outcomes, at least in the short term (0% failure c.f. 6.2% failure at six months) [391]. Operative time is similar for all types of PU with mean operative time varying between 36 and 112 minutes [387, 393, 394]. The utilisation of PU is increasing [395] – constituting 4.5% of 403 procedures for complex urethral stricture disease in a tertiary centre in 2008 and 38.7% in 2017 [396]. Perineal urethrostomy patients are generally older than those having urethroplasty with a median of 62.6 years of age for men having PU in Fuchs et al. 2018 series compared with a median of 53.2 years for men having anterior urethroplasty [396]. Between 18.7% and 73.4% of men having staged urethroplasty for complex anterior urethral stricture decline to proceed to second stage retubularisation after a successful 1 st stage and remain voiding from the PU of their first stage urethroplasty [276, 362, 363]. 6.3.4.c. Outcomes 6.3.4.c.1. Patency rates Patency rates of 51.5–100% at mean/median follow-up of 13–62 months have been described [318, 362, 370, 386-389], with lower patency rates in the series with longer follow-up [397]. A series by Klemm et al. detailed a 90% two-year, 83% five-year, and 71% ten-year patency rate [393]. All reports are retrospective case series – all of which are heterogenous in terms of indications and patients. There is consequently little data available to determine which is the best technique for PU. McKibben et al. reported a patency rate of 92.9% in 42 patients for '7-flap' PU at median follow-up of 53.6 months, whilst they had a 100% patency rate with loop PU in twenty patients at a median follow-up of 13 months [390]. In 2015, Lumen et al. reported a 74.3% patency rate for Johanson PU compared with an 87.5% patency rate for Gil-Vernet-Blandy PU (p=0.248), but with a significantly longer follow-up after Johanson PU (median 36 vs. nine months) [387]. Barbagli et al. published the largest series of PU patients to date – including 173 men (all of whom had been planned to have a staged urethroplasty for their complex anterior urethral stricture disease and 127 [73.4%] of whom declined to proceed with second stage retubularisation). The median follow-up in this series was 62 months and the patency rate was 70% – confirming that patency rates for PU (and indeed for all urethroplasty [367,398]) reduce with time [362]. See supplementary Table S6.11 for further information. 6.3.4.c.2. Complications Perineal urethrostomy complications occur in 2.5–11.4% of patients and include superficial wound dehiscence, scrotal abscess, UTI and urosepsis, bleeding, and transient scrotal pain and numbness [318, 387, 399]. The majority of complications are Clavien-Dindo grades 1 (2.9–18.8%) and 2 (0–2.9%). Grade 3 complications are rare and only occur in 5.7–6.2%. In the medium-term, 22.2–30.8% of men with PU report post-micturition dribble [387]. 6.3.4.c.3. Patient reported outcomes Barbagli et al. reported that 168/173 (97.1%) of men were satisfied or very satisfied with the outco",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Perineal urethrostomy provides very good short- and long-term outcomes for men with complex urethral stricture disease.",
+              "1a"
+            ],
+            [
+              "Perineal urethrostomy (PU) provides very good short- and long-term outcomes for men who are unable to have complex reconstruction due to comorbidities.",
+              "2b"
+            ],
+            [
+              "All types of PU yield equivalent very good outcomes.",
+              "4"
+            ],
+            [
+              "Augmented Gil-Vernet-Blandy or '7-flap' PU yield very good outcomes in men with extension of their urethral stricture disease into the proximal bulbar or membranous urethra.",
+              "2"
+            ],
+            [
+              "‘7-flap’ PU yields very good results in obese men.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer perineal urethrostomy (PU) as a management option to men with complex anterior urethral stricture disease.",
+              "Strong"
+            ],
+            [
+              "Offer PU for males with anterior urethral stricture disease who are not fit or not willing to undergo formal reconstruction.",
+              "Weak"
+            ],
+            [
+              "Choose type of PU based on personal experience and patient characteristics.",
+              "Weak"
+            ],
+            [
+              "Consider augmented Gil-Vernet-Blandy perineal urethrostomy or '7-flap' PU in males with proximal bulbar or membranous urethral stricture disease.",
+              "Weak"
+            ],
+            [
+              "Consider ‘7-flap’ urethroplasty in males with obesity.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-3-5-posterior-urethra",
+      "title": "6.3.5. Posterior urethra",
+      "level": 4,
+      "text": "6.3.5.a. Non-traumatic posterior urethral stenosis 6.3.5.a.1. Treatment of non-traumatic posterior urethral stenosis Several treatment modalities, including conservative management (see Section 6.1), endoluminal, open or minimally invasive surgical procedures are currently available, depending on patient’s goals and health status. 6.3.5.a.2. Endoluminal management of non-traumatic posterior urethral stenosis 6.3.5.a.2.a. Dilatation of non-traumatic posterior urethral stenosis This can be done under locoregional anaesthesia [401-405]. Dilatation is used for VUAS [401-406] or radiation-induced BMS, [407] and in the majority of reported cases, patients were not previously treated for their stricture (see supplementary Table S6.12). Patency rates vary widely between 0 and 89% [120, 401-407]. The risk of de novo UI was low (0–11%) and no other complications were reported. Of note, most series report on visually controlled dilatation [401-405] in VUAS without complete obliteration. 6.3.5.a.2.b. Endoscopic incision/resection of non-traumatic posterior urethral stenosis (Table 6.6) Incisions can be performed at multiple locations according to surgeon’s preference [408]. However, aggressive incisions at the six and 12 o’clock positions should be avoided, due to the risk of rectal injury and urosymphyseal fistulation, respectively [203, 409-411]. The risk of urosymphyseal fistulation is of particular concern after previous radiotherapy [412]. Result of bladder neck incision for VUAS are poorer after radiotherapy [413]. Direct vision internal urethrotomy is mainly performed in patients with primary or recalcitrant VUAS, although one series performed it in a mix of patients with VUAS and BNS [414], and two series reported it for radiation-induced BMS [120, 407]. Direct vision internal urethrotomy/dilatation for nonirradiated BMS are usually included in series reporting on anterior strictures (see Section 6.2). Patency after a first 'cold/hot knife' DVIU ranges between 25 and 80% [401, 404, 406, 408, 414-419]. Laser incision yields a 69–100% patency rate [404, 406, 420, 421]. In a retrospective and unbalanced series, La Bossiere et al. found better patency rates for laser incision as compared to dilatation, 'cold knife' DVIU and transurethral resection (TUR) [404]. Redshaw et al. reported inferior patency rates for 'cold knife' incision vs. 'hot knife' incision followed by MMC for BNS (50 vs. 63%; p = 0.03) [422] (see supplementary Table S6.13). Urinary incontinence largely varies between 0 and 53%, but some series have not assessed urinary continence before DVIU [415, 417]. In series in which pre-DVIU continence data were available, de novo urinary continence after DVIU ranges between 0% and 10% [401, 406, 416, 418, 420]. Worth noting is that, of 21 patients that were incontinent pre-DVIU in the series of Giannarini et al., 11 (52%) patients became continent and eight (38%) patients experienced improvement after DVIU [416]. As most recurrences will occur early [416, 417], it is advised to wait for three to four months after DVIU [408, 417, 423] to proceed with incontinence surgery, if necessary, although others wait for 12 months [424]. The presence of recurrence must be ruled out by cystoscopy prior to incontinence surgery [408, 417, 423, 424]. Another option is to resect the stenosis. Popken et al. reported a 47% patency rate with TUR for untreated VUAS and no patient suffered de novo SUI [418]. Kranz et al. compared the results of TUR in 87 and 60 patients with VUAS after RP and BNS after TURP, respectively. After a median follow-up of 27 (range: 1-98) months, patency rate was 40.2% for VUAS and 58.3% for BNS (p = 0.031). The rate of de novo incontinence was significantly higher in patients treated for VUAS compared to BNS (13.8 vs. 1.7%; p = 0.011) [425]. There is conflicting evidence as to whether resection is associated with higher incontinence rate compared to incision [405,426]. Brodak et al. compared TUR by bipolar resection (n = 22) with holmium laser incision and vaporisation (n = 17). After a mean follow-up of 42 months, two (9.1%) and four (23.5%) patients suffered a recurrence with bipolar and laser resection, respectively (p = 0.37). After six months, patients treated with bipolar resection had a significant better Q max compared to laser treatment (13 vs. 6.1ml/s; p < 0.001) [421]. Bipolar plasma vaporisation produced an 82% patency rate at a mean 24-month follow-up in 28 patients with VUAS who previously failed endoscopic treatment [427]. Cut-to-the-light technique for a complete obliterative stricture is not advised, due to the very-low likelihood of durable patency and for the risk of false passage towards the rectum [423, 428, 429]. Repeat DVIU was often able to stabilise the stricture [120, 401, 404, 407, 414-416, 425], but ultimately 6–10% required urinary diversion [417] or chronic suprapubic cystostomy [407, 414]. Transurethral resection can be performed for prostatic obstruction due to sloughin",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Study",
+              "Modality",
+              "Type",
+              "N",
+              "Previous treatment (%)",
+              "FU (months)",
+              "Patency (%)",
+              "Urinary incontinence (%)",
+              "Complications(%)"
+            ],
+            [
+              "Merricket al. [407]",
+              "Dilatation/ ‘Cold knife’ DVIU",
+              "Radiation-induced BMS",
+              "29",
+              "0",
+              "NR",
+              "69",
+              "NR",
+              "NR"
+            ],
+            [
+              "Sullivanet al. [120]",
+              "Dilatation (n = 15)/’Cold knife’ DVIU (n = 20)",
+              "Radiation-induced BMS",
+              "39",
+              "0",
+              "16 (2–48)",
+              "51",
+              "11",
+              "NR"
+            ],
+            [
+              "Bredeet al. [417]",
+              "‘Cold knife’ DVIU",
+              "VUAS",
+              "63",
+              "Dilation: 33Incision: 38Both: 29",
+              "11 (1–144)",
+              "73",
+              "52*",
+              "NR"
+            ],
+            [
+              "Yurkaninet al. [415]",
+              "‘Cold knife’ DVIU",
+              "VUAS",
+              "61",
+              "Dilatation: 100",
+              "31 (1–77)",
+              "87",
+              "12**",
+              "NR"
+            ],
+            [
+              "Giannariniet al. [416]",
+              "‘Cold knife’ DVIU",
+              "VUAS",
+              "43",
+              "0",
+              "48 (23–80)",
+              "74",
+              "0",
+              "NR"
+            ],
+            [
+              "Ramirezet al. [414]",
+              "‘Hot knife’ DVIU",
+              "VUAS: 74%BNS: 26%",
+              "50",
+              "None: 22",
+              "16",
+              "72",
+              "9",
+              "NR"
+            ],
+            [
+              "Banget al. [408]",
+              "‘Hot knife’ DVIU",
+              "VUAS",
+              "37",
+              "NR",
+              "13 (2–33)",
+              "65",
+              "100***",
+              "NR"
+            ],
+            [
+              "Kranzet al. [425]",
+              "TUR",
+              "VUAS",
+              "87",
+              "NR",
+              "27 (1–98)",
+              "40.2",
+              "13.8",
+              "NR"
+            ],
+            [
+              "TUR",
+              "VUAS",
+              "60",
+              "NR",
+              "58.3",
+              "1.7",
+              "NR"
+            ],
+            [
+              "Brodaket al. [421]",
+              "TUR (bipolar)",
+              "BNS",
+              "22",
+              "DVIU: 45",
+              "42 (14–72)",
+              "91",
+              "NR",
+              "NR"
+            ],
+            [
+              "Holmium laser DVIU",
+              "VUAS",
+              "17",
+              "DVIU: 12",
+              "76",
+              "NR",
+              "NR"
+            ],
+            [
+              "Ozturket al. [427]",
+              "TUR (bipolar)",
+              "VUAS",
+              "28",
+              "Dilatation: 75DVIU: 25",
+              "24 (6–66)",
+              "82",
+              "0",
+              "0"
+            ],
+            [
+              "LaBossiereet al. [404]",
+              "Holmium laser DVIU",
+              "VUAS",
+              "70",
+              "NR",
+              "10",
+              "69",
+              "NR",
+              "NR"
+            ],
+            [
+              "‘Cold knife’ DVIU",
+              "VUAS",
+              "8",
+              "NR",
+              "25",
+              "NR",
+              "NR"
+            ],
+            [
+              "TUR",
+              "VUAS",
+              "36",
+              "NR",
+              "39",
+              "NR",
+              "NR"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "For nonobliterative VUAS and radiation-induced BMS, visually controlled dilatation and DVIU yield a patency rate of 0–89% and 25–100%, respectively, with a low complication rate. It can be performed under locoregional anaesthesia.",
+              "3"
+            ],
+            [
+              "During DVIU, deep incision might provoke both injury to the rectum at the six o’ clock position and urosymphyseal fistulation at the 12 o’clock position.",
+              "3"
+            ],
+            [
+              "For BNS, TUR and ‘hot-knife’ incision yield a patency rate of 58.3 and 72%, respectively, with a low complication rate.",
+              "3"
+            ],
+            [
+              "Repeat endoluminal treatments in nonobliterative VUAS, radiation-induced BMS or BNS can stabilise the posterior stenosis and are easy to perform compared to reconstructive surgery.",
+              "3"
+            ],
+            [
+              "Any form of endoluminal treatment might be associated with de novo UI (up to 25%) or worsening of existing UI (up to 15%).",
+              "3"
+            ],
+            [
+              "Vesicourethral anastomosis stricture, BMS and BNS with complete obliteration are not included in present series and endoluminal treatment is unlikely to be successful.",
+              "3"
+            ],
+            [
+              "Urethral stents at the posterior urethra have a rather low patency rate (47–60%) and incontinence rate (19–82%).",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform visually controlled dilatation or direct vision internal urethrotomy (DVIU) as first-line treatment for a nonobliterative vesico-urethral anastomosis stricture (VUAS) or radiation- induced bulbomembranous strictures (BMS).",
+              "Weak"
+            ],
+            [
+              "Do not perform deep incisions at the six and 12 o’clock position during DVIU for VUAS or radiation-induced BMS.",
+              "Strong"
+            ],
+            [
+              "Perform transurethral resection (TUR) or 'hot-knife' DVIU as first-line treatment for patients with nonobliterative bladder neck stenosis (BNS) after surgery for benign prostatic obstruction.",
+              "Strong"
+            ],
+            [
+              "Perform repeat endoluminal treatments in nonobliterative VUAS or BNS in an attempt to stabilise the stricture.",
+              "Weak"
+            ],
+            [
+              "Warn patients about the risk of de novo urinary incontinence (UI) or exacerbation of existing UI after endoluminal treatment.",
+              "Weak"
+            ],
+            [
+              "Do not perform endoluminal treatment in case of VUAS, BMS and BNS with complete obliteration.",
+              "Strong"
+            ],
+            [
+              "Do not use stents for strictures at the posterior urethra.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Study",
+              "N",
+              "Approach (%)",
+              "Previous RT (%)",
+              "FU (months)",
+              "Length (cm)",
+              "Patency (%)",
+              "Incontinence (%)",
+              "Complications (%)"
+            ],
+            [
+              "Nikolavskyet al. [435]",
+              "12",
+              "Perineal: 25Abdominal: 67Abdominoperineal: 17",
+              "25",
+              "76(14–120)",
+              "2.5 (1-5)",
+              "67",
+              "58",
+              "Persistent extravasation due to anastomotic dehiscence grade 3b: 8.3 (prior RT)"
+            ],
+            [
+              "Mundyet al. [437]",
+              "17",
+              "Transperineal",
+              "0",
+              "NR",
+              "NR",
+              "88",
+              "100",
+              "NR"
+            ],
+            [
+              "6",
+              "100",
+              "NR",
+              "NR",
+              "67",
+              "100",
+              "NR"
+            ],
+            [
+              "Schuettfortet al. [439]",
+              "22",
+              "Transperineal",
+              "0",
+              "45(4–77)",
+              "NR",
+              "91",
+              "100*",
+              "Rectal injury: 4Lower leg paresthesia: 4"
+            ],
+            [
+              "Pfalzgrafet al. [440]",
+              "20",
+              "Retropubic",
+              "NR",
+              "63(15–109)",
+              "NR",
+              "60",
+              "65**",
+              "UTI: 5Fever: 5Renal failure: 5(all grade 2)"
+            ],
+            [
+              "Giudiceet al. [441]",
+              "10",
+              "Perineal: 5Abdominal: 4Combined: 1",
+              "NR",
+              "30(4–106)",
+              "NR",
+              "80",
+              "70",
+              "NR"
+            ],
+            [
+              "Dinermanet al. [438]",
+              "1",
+              "Robot-assisted abdominoperineal",
+              "0",
+              "12",
+              "4.5",
+              "100",
+              "0 ***",
+              "0"
+            ],
+            [
+              "Kirshenbaumet al. [436]",
+              "5",
+              "Robot-assisted abdominal(±VY-plasty)",
+              "0",
+              "14(5–30-)",
+              "NR",
+              "60",
+              "0",
+              "Pubovesical fistula: 20 grade 3b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "ReDo VUA has patency rates of 60–91% in non-irradiated patients and 67% in irradiated patients with obliterative VUAS or VUAS refractory to endoluminal treatment.",
+              "3"
+            ],
+            [
+              "Urinary incontinence is inevitable after transperineal ReDo VUA. Artificial urinary sphincter placement can be offered after three to six months if patency of ReDo VUA is ensured.",
+              "3"
+            ],
+            [
+              "De novo incontinence with retropubic ReDo VUA is 0-58%.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform ReDo vesicourethral anastomosis (VUA) in non-irradiated patients and irradiated patients with adequate bladder function with obliterative vesicourethral anastomosis stricture or vesicourethral anastomosis stricture refractory to endoluminal treatment.",
+              "Weak"
+            ],
+            [
+              "Warn patient that urinary incontinence (UI) is inevitable after transperineal ReDo VUA and that subsequent anti-UI surgery might be needed in a next stage, after at least three to six months.",
+              "Strong"
+            ],
+            [
+              "Offer ReDo VUA by retropubic approach if the patient is pre-operatively continent.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Bladder neck reconstruction with Y-V or T-plasty for treatment refractory BNS has patency rates of 83–100%.",
+              "3"
+            ],
+            [
+              "Incontinence occurs in up to 14% with bladder neck reconstruction and up to 25% after reconstruction of BMS after previous surgery for BPO.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform bladder neck reconstruction with Y-V or T-plasty for treatment refractory bladder neck stenosis (BNS).",
+              "Weak"
+            ],
+            [
+              "Warn patients about de novo urinary incontinence after reconstruction for BNS or bulbomembranous urethral strictures with previous benign prostatic obstruction surgery as aetiology.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Patency rates of urethroplasty for radiation-induced BMS is 80%, with no significant differences between EPA and augmentation urethroplasty.",
+              "3"
+            ],
+            [
+              "Radiation-induced BMS longer than 2–2.5cm are rarely amenable for EPA.",
+              "3"
+            ],
+            [
+              "De novo incontinence and new onset ED after urethral surgery for radiation-induced BMS are reported in respectively 19–26% and 0–35% of cases.",
+              "3"
+            ],
+            [
+              "Salvage prostatectomy can achieve patency in 67% of patients for prostatic strictures after irradiation or high-energy treatments but morbidity is substantial.",
+              "4"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use either excision and primary anastomosis (EPA) or augmentation urethroplasty for short (< 2.5cm) radiation-induced bulbomembranous strictures (BMS) refractory to endoscopic treatment depending on surgeon’s experience.",
+              "Weak"
+            ],
+            [
+              "Perform augmentation urethroplasty for long (> 2.5cm) radiation-induced BMS.",
+              "Weak"
+            ],
+            [
+              "Warn patients about the risk of de novo incontinence and new onset erectile dysfunction after urethroplasty for radiation-induced BMS.",
+              "Strong"
+            ],
+            [
+              "Offer salvage prostatectomy in motivated and fit patients with adequate bladder function in case of a prostatic stricture due to irradiation or high-energy treatment.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Urinary diversion can improve QoL in patients with a devastated lower urinary tract with a high satisfaction rate.",
+              "3"
+            ],
+            [
+              "Cystectomy is able to palliate symptoms of intractable bladder pain, spasms, and haematuria.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform urinary diversion in recurrent or complex cases with loss of bladder capacity and/or incapacitating local symptoms.",
+              "Weak"
+            ],
+            [
+              "Perform cystectomy during urinary diversion in case of intractable bladder pain, spasms and/or haematuria.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Endoluminal treatment of obliterative stenoses is not successful and may create false passages towards bladder or rectum.",
+              "3"
+            ],
+            [
+              "Endoluminal treatment of a short non-obliterative stenosis has a stricture-free rate of 20–96.5%",
+              "3"
+            ],
+            [
+              "Three or more endoscopic incisions are never successful for recurrence after excision and primary anastomosis.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Do not perform endoscopic treatment for an obliterative stenosis.",
+              "Strong"
+            ],
+            [
+              "Perform one attempt at endoluminal treatment for a short, nonobliterative stenosis.",
+              "Weak"
+            ],
+            [
+              "Do not perform more than two direct vision internal urethrotomies and/or dilatations for a short and nonobliterative recurrence after excision and primary anastomosis for a traumatic posterior stenosis if long-term urethral patency is the desired intent.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Study",
+              "Type",
+              "N",
+              "Follow-up (months)",
+              "Patency rate"
+            ],
+            [
+              "Fu et al. [488]",
+              "Progressive perineal EPA",
+              "55",
+              "36 (18–47)",
+              "33 (60%)"
+            ],
+            [
+              "Garg et al. [486]",
+              "Progressive perineal EPA",
+              "40",
+              "31 ± 11",
+              "30 (75%)"
+            ],
+            [
+              "Transpubic EPA",
+              "2",
+              "25",
+              "2 (100%)"
+            ],
+            [
+              "Tubed preputial flap",
+              "1",
+              "25",
+              "1 (100%)"
+            ],
+            [
+              "Staged BMG + local flap",
+              "2",
+              "17",
+              "1 (50%)"
+            ],
+            [
+              "Radial forearm free flap",
+              "1",
+              "15",
+              "1 (100%)"
+            ],
+            [
+              "Sa et al. [485]",
+              "Progressive perineal EPA",
+              "102",
+              "35 (6–63)",
+              "93 (91.2%)"
+            ],
+            [
+              "Kulkarni et al. [142]",
+              "Progressive perineal EPA",
+              "541",
+              "68 (12–240)",
+              "412 (79.1%)"
+            ],
+            [
+              "Tubed preputial flap",
+              "37",
+              "30 (81%)"
+            ],
+            [
+              "Staged BMG flap",
+              "10",
+              "6 (60%)"
+            ],
+            [
+              "Staged BMG + local flap",
+              "15",
+              "13 (86.6%)"
+            ],
+            [
+              "Entero-urethroplasty",
+              "2",
+              "2 (100%)"
+            ],
+            [
+              "Radial forearm free flap",
+              "3",
+              "3 (100%)"
+            ],
+            [
+              "Pedicled anterolateral thigh flap",
+              "1",
+              "1 (100%)"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "The best results are obtained after the first urethroplasty.",
+              "4"
+            ],
+            [
+              "The overall stricture-free rate after EPA is 85.7%. By using the progressive perineal approach, a combined transpubic abdominoperineal approach is usually not needed.",
+              "3"
+            ],
+            [
+              "After failed endoluminal treatment, EPA is the standard treatment for a nonobliterative stenosis.",
+              "3"
+            ],
+            [
+              "Both a midline and inverted U perineal incision equally gain access to the posterior urethra, but a midline incision is associated with less anatomical damage to local vessels and nerves, reduced risk of surgical site infection and hospital stay.",
+              "2b"
+            ],
+            [
+              "Total pubectomy during transpubic abdominoperineal reconstruction has a higher complication rate (bleeding, pelvic instability, dead space) compared to partial (superior or inferior) pubectomy with no gain in surgical exposure.",
+              "4"
+            ],
+            [
+              "By using the progressive perineal approach, a combined transpubic abdominoperineal approach is usually not needed except for very long distraction defects, and in case of complicated situations, which include associated paraurethral bladder base fistula, trauma-related rectourethral fistula, and bladder neck injury.",
+              "3"
+            ],
+            [
+              "If the urethra cannot be anastomosed in a tension-free fashion or in case of ischaemic narrowing/necrosis of the bulbar urethra, options are a tubed preputial island flap, staged buccal mucosa graft urethroplasty with flap, staged buccal mucosa dartos flap, radial forearm free flap urethroplasty or enterourethroplasty.",
+              "3"
+            ],
+            [
+              "In case of excessive dead space after resection of the fibrosis, local flaps have been advised to fill up this space and support the anastomosis. These flaps are also useful to separate the suture lines in case of a concomitant rectourethral fistula.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform open reconstruction for post-traumatic posterior stenosis only in high-volume centres.",
+              "Weak"
+            ],
+            [
+              "Perform progressive perineal excision and primary anastomosis (EPA) for obliterative stenosis.",
+              "Strong"
+            ],
+            [
+              "Perform progressive perineal EPA for nonobliterative stenosis after failed endoluminal treatment.",
+              "Strong"
+            ],
+            [
+              "Perform a midline perineal incision to gain access to the posterior urethra.",
+              "Strong"
+            ],
+            [
+              "Do not perform total pubectomy during abdominoperineal reconstruction.",
+              "Strong"
+            ],
+            [
+              "Reserve abdominoperineal reconstruction for complicated situations, including rectourethral fistula, prostatic injury or bladder neck injury.",
+              "Weak"
+            ],
+            [
+              "Perform another urethroplasty after first failed urethroplasty in motivated patients not willing to accept palliative endoluminal treatments or urinary diversion.",
+              "Weak"
+            ],
+            [
+              "Use a local tissue flap to fill up excessive dead space or after correction of a concomitant rectourethral fistula.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 58
+}

@@ -1,0 +1,313 @@
+{
+  "guideline": "neuro-urology",
+  "chapter": "introduction",
+  "url": "https://uroweb.org/guidelines/neuro-urology/chapter/introduction",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Background",
+      "anchor": "#1-5-background"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Introduction",
+      "anchor": "#2-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. THE GUIDELINE",
+      "anchor": "#3-the-guideline"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#3-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "3.1.1. Introduction",
+      "anchor": "#3-1-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Classification systems",
+      "anchor": "#3-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Introduction",
+      "anchor": "#3-2-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Diagnostic evaluation",
+      "anchor": "#3-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Introduction",
+      "anchor": "#3-3-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Classification systems",
+      "anchor": "#3-3-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Timing of diagnosis and treatment",
+      "anchor": "#3-3-3-timing-of-diagnosis-and-treatment"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Patient history",
+      "anchor": "#3-3-4-patient-history"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. Patient quality of life questionnaires",
+      "anchor": "#3-3-5-patient-quality-of-life-questionnaires"
+    },
+    {
+      "level": 4,
+      "text": "3.3.6. Physical examination and additional tests",
+      "anchor": "#3-3-6-physical-examination-and-additional-tests"
+    },
+    {
+      "level": 4,
+      "text": "3.3.7. Urodynamics",
+      "anchor": "#3-3-7-urodynamics"
+    },
+    {
+      "level": 4,
+      "text": "3.3.8. Renal function",
+      "anchor": "#3-3-8-renal-function"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Disease management",
+      "anchor": "#3-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Introduction",
+      "anchor": "#3-4-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Non-invasive conservative treatment",
+      "anchor": "#3-4-2-non-invasive-conservative-treatment"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Surgical treatment",
+      "anchor": "#3-4-3-surgical-treatment"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Urinary tract infection in neurological patients",
+      "anchor": "#3-5-urinary-tract-infection-in-neurological-patients"
+    },
+    {
+      "level": 4,
+      "text": "3.5.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#3-5-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "3.5.2. Diagnostic evaluation",
+      "anchor": "#3-5-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.5.3. Disease management",
+      "anchor": "#3-5-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "3.5.4. Summary of evidence and recommendations for the treatment of urinary tract infections",
+      "anchor": "#3-5-4-summary-of-evidence-and-recommendations-for-the-treatment-of-urinary-tract-infections"
+    },
+    {
+      "level": 3,
+      "text": "3.6. Sexual function and fertility",
+      "anchor": "#3-6-sexual-function-and-fertility"
+    },
+    {
+      "level": 4,
+      "text": "3.6.1. Erectile dysfunction",
+      "anchor": "#3-6-1-erectile-dysfunction"
+    },
+    {
+      "level": 4,
+      "text": "3.6.2. Male fertility",
+      "anchor": "#3-6-2-male-fertility"
+    },
+    {
+      "level": 4,
+      "text": "3.6.3. Female sexuality",
+      "anchor": "#3-6-3-female-sexuality"
+    },
+    {
+      "level": 4,
+      "text": "3.6.4. Female fertility",
+      "anchor": "#3-6-4-female-fertility"
+    },
+    {
+      "level": 3,
+      "text": "3.7. Follow-up",
+      "anchor": "#3-7-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "3.7.1. Introduction",
+      "anchor": "#3-7-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "3.7.2. Summary of evidence and recommendations for follow-up",
+      "anchor": "#3-7-2-summary-of-evidence-and-recommendations-for-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "3.8. Conclusions",
+      "anchor": "#3-8-conclusions"
+    },
+    {
+      "level": 4,
+      "text": "3.8.1. Neurological Patients perspective on lower urinary tract dysfunction diagnosis and management",
+      "anchor": "#3-8-1-neurological-patients-perspective-on-lower-urinary-tract-dysfunction-diagnosis-and-management"
+    },
+    {
+      "level": 2,
+      "text": "4. REFERENCES",
+      "anchor": "#4-references"
+    },
+    {
+      "level": 2,
+      "text": "5. CONFLICT OF INTEREST",
+      "anchor": "#5-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "6. CITATION INFORMATION",
+      "anchor": "#6-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "7. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#7-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#neuro-urology",
+      "title": "Neuro-urology",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 1. Introduction Introduction Methods The Guideline References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#1-introduction",
+      "title": "1. INTRODUCTION",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#1-1-aim-and-objectives",
+      "title": "1.1. Aim and objectives",
+      "level": 3,
+      "text": "The European Association of Urology (EAU) Neuro-Urology Guidelines aim to provide information for clinical practitioners on the incidence, definitions, diagnosis, therapy and follow-up of neuro-urological disorders. These Guidelines reflect the current opinion of experts in this specific pathology and represent a state-of-the-art reference for all clinicians as of the publication date. The terminology used and the diagnostic procedures advised throughout these Guidelines follow the recommendations for investigations of the lower urinary tract (LUT) as published by the International Continence Society (ICS) [1-3]. Readers are advised to consult other EAU Guidelines that may address various aspects of the topics discussed in this document. It must be emphasised that clinical guidelines present the best evidence available to the experts, but following guideline recommendations will not necessarily result in the best outcome. Guidelines can never replace clinical expertise when making treatment decisions for individual patients but rather help to focus decisions - also taking personal values and preferences/individual circumstances of patients into account. Guidelines are not mandates and do not purport to be a legal standard of care.",
+      "tables": []
+    },
+    {
+      "anchor": "#1-2-panel-composition",
+      "title": "1.2. Panel composition",
+      "level": 3,
+      "text": "The EAU Neuro-Urology Guidelines Panel consists of an international multidisciplinary group of neuro-urological experts. All experts involved in the production of this document have submitted potential conflict of interest statements which can be viewed on the EAU website: http://www.uroweb.org/guideline/neuro-urology/ .",
+      "tables": []
+    },
+    {
+      "anchor": "#1-3-available-publications",
+      "title": "1.3. Available publications",
+      "level": 3,
+      "text": "A quick reference document, the Pocket Guidelines, is available in print and as an app for iOS and Android devices. These are abridged versions which may require consultation with the full text version. A guideline summary has also been published in European Urology [4]. All are available through the EAU website: http://www.uroweb.org/guideline/neurourology/ .",
+      "tables": []
+    },
+    {
+      "anchor": "#1-4-publication-history-and-summary-of-changes",
+      "title": "1.4. Publication history and summary of changes",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#1-4-1-publication-history",
+      "title": "1.4.1. Publication history",
+      "level": 4,
+      "text": "The EAU Guidelines on Neuro-Urology were first published in 2003. Standard procedure for EAU Guidelines includes an annual assessment of newly published literature in the field to guide future updates. This 2026 Neuro-Urology Guidelines present an update of the 2022 publication.",
+      "tables": []
+    },
+    {
+      "anchor": "#1-4-2-summary-of-changes",
+      "title": "1.4.2. Summary of changes",
+      "level": 4,
+      "text": "All chapters of the 2026 Neuro-Urology Guidelines have been updated, based on the 2024 version of the Guidelines. References have been added throughout the document resulting in various text updates and changes in evidence summaries and recommendations including but not limited to: Updates throughout Table 1 and the inclusion of data for Inflammatory radiculitis and updates in Table 4 regarding current personal history. A new paragraph in Section 3.3.3 on the timing of diagnosis and treatment. A new Section 3.3.7.c on pelvic neurophysiology tests and inclusion in the summary of evidence. Two new recommendations in Section 3.4.1 on shared decision-making. New additional paragraphs throughout Section 3.4.2.b on neuro-urological rehabilitation and Section 3.4.2.c on drug treatment, as well as additions to the summary of evidence and recommendations. New additional paragraphs throughout Section 3.4.2.e on minimally invasive treatment, including new summary of evidence and recommendations on catheterisation. Update on the summary of evidence and recommendations in Section 3.4.2.e.6 on Botulinum toxin A injections. Various updates in Section 3.5.4, in the summary of evidence and recommendations for the treatment of UTI. Update in Section 3.7 on follow-up, including new summary of evidence and recommendations. New Section 3.8.1 on the patient’s perspective on lower urinary tract diagnosis and management in neurological patients.",
+      "tables": []
+    },
+    {
+      "anchor": "#1-5-background",
+      "title": "1.5. Background",
+      "level": 3,
+      "text": "The main function served by the LUT is the storage and voiding of urine, which is regulated by the nervous system that coordinates the activity of the urinary bladder and bladder outlet. The part of the nervous system that regulates LUT function is disseminated from the peripheral nerves in the pelvis to highly specialised cortical areas. Any disturbance of the nervous system involved can result in lower urinary tract symptoms in neurological patients. The extent and location of the disturbance determine the type of LUT dysfunction, which can be symptomatic or asymptomatic. Lower urinary tract dysfunction in neurological patients can cause a variety of long-term complications, the most significant being deterioration of renal function. Because symptoms and long-term complications do not correlate [5], it is important to identify neurological patients with LUTS and establish if they have a low or high risk of subsequent complications. The risk of developing upper urinary tract (UUT) damage and renal failure is much lower in patients with slowly progressive non-traumatic neurological disorders than in those with spinal cord injury or spina bifida [6]. In summary, treatment and intensity of follow-up examinations are based on the type of lower urinary tract dysfunction and the underlying neurological cause.",
+      "tables": []
+    }
+  ],
+  "tables_count": 0
+}

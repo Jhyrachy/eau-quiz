@@ -1,0 +1,524 @@
+{
+  "guideline": "renal-cell-carcinoma",
+  "chapter": "copyright-and-terms-of-use",
+  "url": "https://uroweb.org/guidelines/renal-cell-carcinoma/chapter/copyright-and-terms-of-use",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Future goals",
+      "anchor": "#2-3-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AETIOLOGY AND PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology",
+      "anchor": "#3-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Aetiology",
+      "anchor": "#3-2-aetiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Screening",
+      "anchor": "#3-3-screening"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Summary of evidence and recommendations for epidemiology, aetiology and screening",
+      "anchor": "#3-3-1-summary-of-evidence-and-recommendations-for-epidemiology-aetiology-and-screening"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Histological diagnosis",
+      "anchor": "#3-4-histological-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Clear-cell RCC",
+      "anchor": "#3-4-1-clear-cell-rcc"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Papillary RCC",
+      "anchor": "#3-4-2-papillary-rcc"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Chromophobe RCC",
+      "anchor": "#3-4-3-chromophobe-rcc"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Other renal tumours",
+      "anchor": "#3-5-other-renal-tumours"
+    },
+    {
+      "level": 4,
+      "text": "3.5.1. Renal medullary carcinoma (SMARCB1-deficient renal medullary carcinoma)",
+      "anchor": "#3-5-1-renal-medullary-carcinoma-smarcb1-deficient-renal-medullary-carcinoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.2. Carcinoma associated with end-stage renal disease; acquired cystic disease-associated RCC",
+      "anchor": "#3-5-2-carcinoma-associated-with-end-stage-renal-disease-acquired-cystic-disease-associated-rcc"
+    },
+    {
+      "level": 4,
+      "text": "3.5.3. Papillary adenoma",
+      "anchor": "#3-5-3-papillary-adenoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.4. Renal oncocytoma",
+      "anchor": "#3-5-4-renal-oncocytoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.5. Other oncocytic tumours of the kidney",
+      "anchor": "#3-5-5-other-oncocytic-tumours-of-the-kidney"
+    },
+    {
+      "level": 4,
+      "text": "3.5.6. Classical angiomyolipoma",
+      "anchor": "#3-5-6-classical-angiomyolipoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.7. Cystic renal tumours",
+      "anchor": "#3-5-7-cystic-renal-tumours"
+    },
+    {
+      "level": 3,
+      "text": "3.6. Summary of evidence and recommendations for the management of other renal tumours",
+      "anchor": "#3-6-summary-of-evidence-and-recommendations-for-the-management-of-other-renal-tumours"
+    },
+    {
+      "level": 2,
+      "text": "4. STAGING AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-staging-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Staging",
+      "anchor": "#4-1-staging"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Anatomic classification systems",
+      "anchor": "#4-2-anatomic-classification-systems"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION",
+      "anchor": "#5-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Symptoms",
+      "anchor": "#5-1-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Physical examination",
+      "anchor": "#5-1-1-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Laboratory findings",
+      "anchor": "#5-1-2-laboratory-findings"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Imaging investigations",
+      "anchor": "#5-2-imaging-investigations"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Computed tomography",
+      "anchor": "#5-2-1-computed-tomography"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Magnetic resonance imaging",
+      "anchor": "#5-2-2-magnetic-resonance-imaging"
+    },
+    {
+      "level": 4,
+      "text": "5.2.3. Other investigations and emerging technologies",
+      "anchor": "#5-2-3-other-investigations-and-emerging-technologies"
+    },
+    {
+      "level": 4,
+      "text": "5.2.4. Radiographic investigations to evaluate RCC metastases",
+      "anchor": "#5-2-4-radiographic-investigations-to-evaluate-rcc-metastases"
+    },
+    {
+      "level": 4,
+      "text": "5.2.5. Bosniak classification of renal cystic masses",
+      "anchor": "#5-2-5-bosniak-classification-of-renal-cystic-masses"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Renal tumour biopsy",
+      "anchor": "#5-3-renal-tumour-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Indications and rationale",
+      "anchor": "#5-3-1-indications-and-rationale"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Technique",
+      "anchor": "#5-3-2-technique"
+    },
+    {
+      "level": 4,
+      "text": "5.3.3. Diagnostic yield and accuracy",
+      "anchor": "#5-3-3-diagnostic-yield-and-accuracy"
+    },
+    {
+      "level": 4,
+      "text": "5.3.4. Morbidity",
+      "anchor": "#5-3-4-morbidity"
+    },
+    {
+      "level": 4,
+      "text": "5.3.5. Genetic assessment",
+      "anchor": "#5-3-5-genetic-assessment"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Summary of evidence and recommendations for the diagnostic assessment of RCC",
+      "anchor": "#5-4-summary-of-evidence-and-recommendations-for-the-diagnostic-assessment-of-rcc"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Summary of evidence and recommendations for genetic assessment of RCC",
+      "anchor": "#5-5-summary-of-evidence-and-recommendations-for-genetic-assessment-of-rcc"
+    },
+    {
+      "level": 2,
+      "text": "6. PROGNOSTIC FACTORS",
+      "anchor": "#6-prognostic-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Definition and classification",
+      "anchor": "#6-1-definition-and-classification"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Anatomical factors",
+      "anchor": "#6-2-anatomical-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Histological factors",
+      "anchor": "#6-3-histological-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Clinical factors",
+      "anchor": "#6-4-clinical-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Frailty and comprehensive geriatric assessment",
+      "anchor": "#6-4-1-frailty-and-comprehensive-geriatric-assessment"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Nephrological assessment",
+      "anchor": "#6-4-2-nephrological-assessment"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Molecular factors",
+      "anchor": "#6-5-molecular-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Prognostic models",
+      "anchor": "#6-6-prognostic-models"
+    },
+    {
+      "level": 3,
+      "text": "6.7. Summary of evidence and recommendations for prognostic factors",
+      "anchor": "#6-7-summary-of-evidence-and-recommendations-for-prognostic-factors"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT",
+      "anchor": "#7-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Patient involvement in kidney cancer treatment",
+      "anchor": "#7-1-patient-involvement-in-kidney-cancer-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.1.1. Recommendation on patient involvement and shared decision making",
+      "anchor": "#7-1-1-recommendation-on-patient-involvement-and-shared-decision-making"
+    },
+    {
+      "level": 4,
+      "text": "7.1.2. Smoking cessation",
+      "anchor": "#7-1-2-smoking-cessation"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Treatment of localised RCC",
+      "anchor": "#7-2-treatment-of-localised-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. Introduction",
+      "anchor": "#7-2-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Surgical treatment",
+      "anchor": "#7-2-2-surgical-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Radical and partial nephrectomy techniques",
+      "anchor": "#7-2-3-radical-and-partial-nephrectomy-techniques"
+    },
+    {
+      "level": 4,
+      "text": "7.2.4. Therapeutic approaches as alternatives to surgery",
+      "anchor": "#7-2-4-therapeutic-approaches-as-alternatives-to-surgery"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Treatment of locally advanced RCC",
+      "anchor": "#7-3-treatment-of-locally-advanced-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Introduction",
+      "anchor": "#7-3-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Role of lymph node dissection in locally advanced RCC",
+      "anchor": "#7-3-2-role-of-lymph-node-dissection-in-locally-advanced-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. Management of RCC with venous tumour thrombus",
+      "anchor": "#7-3-3-management-of-rcc-with-venous-tumour-thrombus"
+    },
+    {
+      "level": 4,
+      "text": "7.3.4. Management of locally advanced unresectable RCC",
+      "anchor": "#7-3-4-management-of-locally-advanced-unresectable-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.3.5. Neoadjuvant and adjuvant therapy",
+      "anchor": "#7-3-5-neoadjuvant-and-adjuvant-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Therapy of oligometastatic disease",
+      "anchor": "#7-4-2-therapy-of-oligometastatic-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.5.1. Chemotherapy",
+      "anchor": "#7-5-1-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.5.2. Targeted therapies",
+      "anchor": "#7-5-2-targeted-therapies"
+    },
+    {
+      "level": 4,
+      "text": "7.5.3. Immunotherapy",
+      "anchor": "#7-5-3-immunotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.5.4. Therapeutic strategies",
+      "anchor": "#7-5-4-therapeutic-strategies"
+    },
+    {
+      "level": 3,
+      "text": "7.6. Locally recurrent RCC after treatment of localised disease",
+      "anchor": "#7-6-locally-recurrent-rcc-after-treatment-of-localised-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.6.1. Locally recurrent RCC after nephron-sparing approaches",
+      "anchor": "#7-6-1-locally-recurrent-rcc-after-nephron-sparing-approaches"
+    },
+    {
+      "level": 4,
+      "text": "7.6.2. Locally recurrent RCC after radical nephrectomy",
+      "anchor": "#7-6-2-locally-recurrent-rcc-after-radical-nephrectomy"
+    },
+    {
+      "level": 4,
+      "text": "7.6.3. Summary of evidence and recommendation on locally recurrent RCC after treatment of localised disease",
+      "anchor": "#7-6-3-summary-of-evidence-and-recommendation-on-locally-recurrent-rcc-after-treatment-of-localised-disease"
+    },
+    {
+      "level": 2,
+      "text": "8. HEREDITARY AND SYNDROME SPECIFIC RCC",
+      "anchor": "#8-hereditary-and-syndrome-specific-rcc"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Microphthalmia-associated transcription factors (MiTF) associated translocation tumours",
+      "anchor": "#8-1-microphthalmia-associated-transcription-factors-mitf-associated-translocation-tumours"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Management of hereditary and syndrome-specific RCC",
+      "anchor": "#8-2-management-of-hereditary-and-syndrome-specific-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.1. Von Hippel-Lindau-disease-associated RCC",
+      "anchor": "#8-2-1-von-hippel-lindau-disease-associated-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.2. TFE3-rearranged RCC",
+      "anchor": "#8-2-2-tfe3-rearranged-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.3. TFEB-altered RCC",
+      "anchor": "#8-2-3-tfeb-altered-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.4. Combined therapy for TFE3- and TFEB-altered RCCs",
+      "anchor": "#8-2-4-combined-therapy-for-tfe3--and-tfeb-altered-rccs"
+    },
+    {
+      "level": 4,
+      "text": "8.2.5. Summary of evidence and recommendation for hereditary and syndrome-specific RCC",
+      "anchor": "#8-2-5-summary-of-evidence-and-recommendation-for-hereditary-and-syndrome-specific-rcc"
+    },
+    {
+      "level": 2,
+      "text": "9. FOLLOW UP",
+      "anchor": "#9-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Introduction",
+      "anchor": "#9-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Which imaging investigations for which patients, and when?",
+      "anchor": "#9-2-which-imaging-investigations-for-which-patients-and-when"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Summary of evidence and recommendations for surveillance following RN or PN or ablative therapies in RCC",
+      "anchor": "#9-3-summary-of-evidence-and-recommendations-for-surveillance-following-rn-or-pn-or-ablative-therapies-in-rcc"
+    },
+    {
+      "level": 2,
+      "text": "10. REFERENCES",
+      "anchor": "#10-references"
+    },
+    {
+      "level": 2,
+      "text": "11. CONFLICT OF INTEREST",
+      "anchor": "#11-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "12. CITATION INFORMATION",
+      "anchor": "#12-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "13. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#13-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#renal-cell-carcinoma",
+      "title": "Renal Cell Carcinoma",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 13. Copyright And Terms Of Use Introduction Methods Epidemiology Aetiology And Pathology Staging And Classification Systems Diagnostic Evaluation Prognostic Factors Disease Management Hereditary And Syndrome Specific Rcc Follow Up References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#13-copyright-and-terms-of-use",
+      "title": "13. COPYRIGHT AND TERMS OF USE",
+      "level": 2,
+      "text": "The content of the EAU Guidelines and all products derived from them is made available for personal and educational use only. No commercial usage is authorised. No part of the EAU Guidelines or any related products may be translated or reproduced in any form without written permission from the EAU. Furthermore, the EAU prohibits the usage or upload of its Guidelines, and any material derived from these texts (whether in full or in part) on external websites, bots, pages, portals, servers, software or external applications, including those employing artificial intelligence technologies and infrastructure, such as large language models and generative AI, deep learning and machine learning, unless written permission has been granted for such by the EAU. The EAU accepts no responsibility for the content, quality or performance of materials, applications and products derived from the EAU Guidelines and does not endorse or warrant their use. In the event of any discrepancies, the original language version shall be considered authoritative.",
+      "tables": []
+    }
+  ],
+  "tables_count": 0
+}

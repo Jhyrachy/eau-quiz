@@ -1,0 +1,367 @@
+{
+  "guideline": "urological-trauma",
+  "chapter": "introduction",
+  "url": "https://uroweb.org/guidelines/urological-trauma/chapter/introduction",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Evidence sources",
+      "anchor": "#2-1-evidence-sources"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY CLASSIFICATION GENERAL MANAGEMENT PRINCIPALS",
+      "anchor": "#3-epidemiology-classification-general-management-principals"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definition and epidemiology",
+      "anchor": "#3-1-definition-and-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Classification of trauma",
+      "anchor": "#3-2-classification-of-trauma"
+    },
+    {
+      "level": 3,
+      "text": "3.3. General management principals",
+      "anchor": "#3-3-general-management-principals"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Initial evaluation",
+      "anchor": "#3-3-1-initial-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Polytrauma managed in major trauma centres leads to improved survival",
+      "anchor": "#3-3-2-polytrauma-managed-in-major-trauma-centres-leads-to-improved-survival"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Damage control",
+      "anchor": "#3-3-3-damage-control"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Mass casualty events and triage",
+      "anchor": "#3-3-4-mass-casualty-events-and-triage"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. The role of thromboprophylaxis and bed rest",
+      "anchor": "#3-3-5-the-role-of-thromboprophylaxis-and-bed-rest"
+    },
+    {
+      "level": 4,
+      "text": "3.3.6. Antibiotic stewardship",
+      "anchor": "#3-3-6-antibiotic-stewardship"
+    },
+    {
+      "level": 4,
+      "text": "3.3.7. Urinary catheterisation",
+      "anchor": "#3-3-7-urinary-catheterisation"
+    },
+    {
+      "level": 2,
+      "text": "4. UROGENITAL TRAUMA GUIDELINES",
+      "anchor": "#4-urogenital-trauma-guidelines"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Renal trauma",
+      "anchor": "#4-1-renal-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. Epidemiology, aetiology and classification",
+      "anchor": "#4-1-1-epidemiology-aetiology-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. Diagnosis",
+      "anchor": "#4-1-2-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.1.3. Management",
+      "anchor": "#4-1-3-management"
+    },
+    {
+      "level": 4,
+      "text": "4.1.4. Follow-up",
+      "anchor": "#4-1-4-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "4.1.5. Complications",
+      "anchor": "#4-1-5-complications"
+    },
+    {
+      "level": 4,
+      "text": "4.1.6. Iatrogenic renal injuries",
+      "anchor": "#4-1-6-iatrogenic-renal-injuries"
+    },
+    {
+      "level": 4,
+      "text": "4.1.7. Summary of evidence and recommendations for evaluation and management of renal trauma",
+      "anchor": "#4-1-7-summary-of-evidence-and-recommendations-for-evaluation-and-management-of-renal-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.1.8. Treatment algorithms",
+      "anchor": "#4-1-8-treatment-algorithms"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Ureteral trauma",
+      "anchor": "#4-2-ureteral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#4-2-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. Diagnosis",
+      "anchor": "#4-2-2-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.2.3. Prevention of iatrogenic trauma",
+      "anchor": "#4-2-3-prevention-of-iatrogenic-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.2.4. Management",
+      "anchor": "#4-2-4-management"
+    },
+    {
+      "level": 4,
+      "text": "4.2.5. Summary of evidence and recommendations for the management of ureteral trauma",
+      "anchor": "#4-2-5-summary-of-evidence-and-recommendations-for-the-management-of-ureteral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.2.6. Treatment algorithms",
+      "anchor": "#4-2-6-treatment-algorithms"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Bladder trauma",
+      "anchor": "#4-3-bladder-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#4-3-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "4.3.2. Classification",
+      "anchor": "#4-3-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "4.3.3. Diagnosis",
+      "anchor": "#4-3-3-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.3.4. Prevention",
+      "anchor": "#4-3-4-prevention"
+    },
+    {
+      "level": 4,
+      "text": "4.3.5. Management",
+      "anchor": "#4-3-5-management"
+    },
+    {
+      "level": 4,
+      "text": "4.3.6. Follow-up",
+      "anchor": "#4-3-6-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "4.3.7. Summary of evidence and recommendations for bladder injury",
+      "anchor": "#4-3-7-summary-of-evidence-and-recommendations-for-bladder-injury"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Urethral trauma",
+      "anchor": "#4-4-urethral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Introduction",
+      "anchor": "#4-4-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Anterior male urethral injury",
+      "anchor": "#4-4-2-anterior-male-urethral-injury"
+    },
+    {
+      "level": 4,
+      "text": "4.4.3. Posterior male urethral injury",
+      "anchor": "#4-4-3-posterior-male-urethral-injury"
+    },
+    {
+      "level": 4,
+      "text": "4.4.4. Female urethral injuries",
+      "anchor": "#4-4-4-female-urethral-injuries"
+    },
+    {
+      "level": 4,
+      "text": "4.4.5. Summary of evidence and recommendations for the evaluation and management of urethral trauma",
+      "anchor": "#4-4-5-summary-of-evidence-and-recommendations-for-the-evaluation-and-management-of-urethral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.4.6. Treatment algorithms",
+      "anchor": "#4-4-6-treatment-algorithms"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Genital trauma",
+      "anchor": "#4-5-genital-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#4-5-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Categorisation of genital trauma",
+      "anchor": "#4-5-2-categorisation-of-genital-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Diagnosis",
+      "anchor": "#4-5-3-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.5.4. Management",
+      "anchor": "#4-5-4-management"
+    },
+    {
+      "level": 4,
+      "text": "4.5.5. Complications",
+      "anchor": "#4-5-5-complications"
+    },
+    {
+      "level": 4,
+      "text": "4.5.6. Follow-up",
+      "anchor": "#4-5-6-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "4.5.7. Summary of evidence and recommendations for evaluation and management of genital trauma",
+      "anchor": "#4-5-7-summary-of-evidence-and-recommendations-for-evaluation-and-management-of-genital-trauma"
+    },
+    {
+      "level": 2,
+      "text": "5. REFERENCES",
+      "anchor": "#5-references"
+    },
+    {
+      "level": 2,
+      "text": "6. CONFLICT OF INTEREST",
+      "anchor": "#6-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "7. CITATION INFORMATION",
+      "anchor": "#7-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "8. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#8-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#urological-trauma",
+      "title": "Urological Trauma",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 1. Introduction Introduction Methods Epidemiology Classification General Management Principals Urogenital Trauma Guidelines References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#1-introduction",
+      "title": "1. INTRODUCTION",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#1-1-aim-and-objectives",
+      "title": "1.1. Aim and objectives",
+      "level": 3,
+      "text": "The European Association of Urology (EAU) Guidelines Panel for Urological Trauma have prepared these Guidelines to assist medical professionals in the management of urological trauma in adults. Paediatric trauma is addressed in the EAU Paediatric Urology Guidelines [1]. It must be emphasised that clinical guidelines present the best evidence available to the experts. Guidelines can never replace clinical expertise when making treatment decisions for individual patients, but rather help to support decisions, also taking personal values and preferences/individual circumstances of patients into account. Guidelines are not mandates and do not purport to be a legal standard of care.",
+      "tables": []
+    },
+    {
+      "anchor": "#1-2-panel-composition",
+      "title": "1.2. Panel composition",
+      "level": 3,
+      "text": "The EAU Urological Trauma Guidelines Panel consists of an international group of urologists and an interventional radiologist, all with expertise in urological trauma. All experts involved in the production of this document have submitted potential conflict of interest statements, which can be viewed on the EAU Website uroweb: http://uroweb.org/guideline/urological-trauma/?type=panel .",
+      "tables": []
+    },
+    {
+      "anchor": "#1-3-available-publications",
+      "title": "1.3. Available publications",
+      "level": 3,
+      "text": "A quick reference document, the Pocket Guidelines, is available in print and on the EAU website. This is an abridged version which may require consultation together with the full text version. A number of translated versions, alongside several scientific publications in European Urology, the EAU’s scientific journal, are also available [2-6]. All documents can be viewed on the EAU website: http://uroweb.org/guideline/urological-trauma/ .",
+      "tables": []
+    },
+    {
+      "anchor": "#1-4-publication-history",
+      "title": "1.4. Publication history",
+      "level": 3,
+      "text": "The Urological Trauma Guidelines were first published in 2003. The 2026 Urological Trauma Guidelines update is a complete restructure of the 2025 Guidelines text.",
+      "tables": []
+    }
+  ],
+  "tables_count": 0
+}

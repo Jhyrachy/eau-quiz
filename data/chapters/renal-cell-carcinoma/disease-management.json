@@ -1,0 +1,1819 @@
+{
+  "guideline": "renal-cell-carcinoma",
+  "chapter": "disease-management",
+  "url": "https://uroweb.org/guidelines/renal-cell-carcinoma/chapter/disease-management",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Future goals",
+      "anchor": "#2-3-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AETIOLOGY AND PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology",
+      "anchor": "#3-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Aetiology",
+      "anchor": "#3-2-aetiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Screening",
+      "anchor": "#3-3-screening"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Summary of evidence and recommendations for epidemiology, aetiology and screening",
+      "anchor": "#3-3-1-summary-of-evidence-and-recommendations-for-epidemiology-aetiology-and-screening"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Histological diagnosis",
+      "anchor": "#3-4-histological-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Clear-cell RCC",
+      "anchor": "#3-4-1-clear-cell-rcc"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Papillary RCC",
+      "anchor": "#3-4-2-papillary-rcc"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Chromophobe RCC",
+      "anchor": "#3-4-3-chromophobe-rcc"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Other renal tumours",
+      "anchor": "#3-5-other-renal-tumours"
+    },
+    {
+      "level": 4,
+      "text": "3.5.1. Renal medullary carcinoma (SMARCB1-deficient renal medullary carcinoma)",
+      "anchor": "#3-5-1-renal-medullary-carcinoma-smarcb1-deficient-renal-medullary-carcinoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.2. Carcinoma associated with end-stage renal disease; acquired cystic disease-associated RCC",
+      "anchor": "#3-5-2-carcinoma-associated-with-end-stage-renal-disease-acquired-cystic-disease-associated-rcc"
+    },
+    {
+      "level": 4,
+      "text": "3.5.3. Papillary adenoma",
+      "anchor": "#3-5-3-papillary-adenoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.4. Renal oncocytoma",
+      "anchor": "#3-5-4-renal-oncocytoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.5. Other oncocytic tumours of the kidney",
+      "anchor": "#3-5-5-other-oncocytic-tumours-of-the-kidney"
+    },
+    {
+      "level": 4,
+      "text": "3.5.6. Classical angiomyolipoma",
+      "anchor": "#3-5-6-classical-angiomyolipoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.7. Cystic renal tumours",
+      "anchor": "#3-5-7-cystic-renal-tumours"
+    },
+    {
+      "level": 3,
+      "text": "3.6. Summary of evidence and recommendations for the management of other renal tumours",
+      "anchor": "#3-6-summary-of-evidence-and-recommendations-for-the-management-of-other-renal-tumours"
+    },
+    {
+      "level": 2,
+      "text": "4. STAGING AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-staging-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Staging",
+      "anchor": "#4-1-staging"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Anatomic classification systems",
+      "anchor": "#4-2-anatomic-classification-systems"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION",
+      "anchor": "#5-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Symptoms",
+      "anchor": "#5-1-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Physical examination",
+      "anchor": "#5-1-1-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Laboratory findings",
+      "anchor": "#5-1-2-laboratory-findings"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Imaging investigations",
+      "anchor": "#5-2-imaging-investigations"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Computed tomography",
+      "anchor": "#5-2-1-computed-tomography"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Magnetic resonance imaging",
+      "anchor": "#5-2-2-magnetic-resonance-imaging"
+    },
+    {
+      "level": 4,
+      "text": "5.2.3. Other investigations and emerging technologies",
+      "anchor": "#5-2-3-other-investigations-and-emerging-technologies"
+    },
+    {
+      "level": 4,
+      "text": "5.2.4. Radiographic investigations to evaluate RCC metastases",
+      "anchor": "#5-2-4-radiographic-investigations-to-evaluate-rcc-metastases"
+    },
+    {
+      "level": 4,
+      "text": "5.2.5. Bosniak classification of renal cystic masses",
+      "anchor": "#5-2-5-bosniak-classification-of-renal-cystic-masses"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Renal tumour biopsy",
+      "anchor": "#5-3-renal-tumour-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Indications and rationale",
+      "anchor": "#5-3-1-indications-and-rationale"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Technique",
+      "anchor": "#5-3-2-technique"
+    },
+    {
+      "level": 4,
+      "text": "5.3.3. Diagnostic yield and accuracy",
+      "anchor": "#5-3-3-diagnostic-yield-and-accuracy"
+    },
+    {
+      "level": 4,
+      "text": "5.3.4. Morbidity",
+      "anchor": "#5-3-4-morbidity"
+    },
+    {
+      "level": 4,
+      "text": "5.3.5. Genetic assessment",
+      "anchor": "#5-3-5-genetic-assessment"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Summary of evidence and recommendations for the diagnostic assessment of RCC",
+      "anchor": "#5-4-summary-of-evidence-and-recommendations-for-the-diagnostic-assessment-of-rcc"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Summary of evidence and recommendations for genetic assessment of RCC",
+      "anchor": "#5-5-summary-of-evidence-and-recommendations-for-genetic-assessment-of-rcc"
+    },
+    {
+      "level": 2,
+      "text": "6. PROGNOSTIC FACTORS",
+      "anchor": "#6-prognostic-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Definition and classification",
+      "anchor": "#6-1-definition-and-classification"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Anatomical factors",
+      "anchor": "#6-2-anatomical-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Histological factors",
+      "anchor": "#6-3-histological-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Clinical factors",
+      "anchor": "#6-4-clinical-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Frailty and comprehensive geriatric assessment",
+      "anchor": "#6-4-1-frailty-and-comprehensive-geriatric-assessment"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Nephrological assessment",
+      "anchor": "#6-4-2-nephrological-assessment"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Molecular factors",
+      "anchor": "#6-5-molecular-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Prognostic models",
+      "anchor": "#6-6-prognostic-models"
+    },
+    {
+      "level": 3,
+      "text": "6.7. Summary of evidence and recommendations for prognostic factors",
+      "anchor": "#6-7-summary-of-evidence-and-recommendations-for-prognostic-factors"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT",
+      "anchor": "#7-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Patient involvement in kidney cancer treatment",
+      "anchor": "#7-1-patient-involvement-in-kidney-cancer-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.1.1. Recommendation on patient involvement and shared decision making",
+      "anchor": "#7-1-1-recommendation-on-patient-involvement-and-shared-decision-making"
+    },
+    {
+      "level": 4,
+      "text": "7.1.2. Smoking cessation",
+      "anchor": "#7-1-2-smoking-cessation"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Treatment of localised RCC",
+      "anchor": "#7-2-treatment-of-localised-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. Introduction",
+      "anchor": "#7-2-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Surgical treatment",
+      "anchor": "#7-2-2-surgical-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Radical and partial nephrectomy techniques",
+      "anchor": "#7-2-3-radical-and-partial-nephrectomy-techniques"
+    },
+    {
+      "level": 4,
+      "text": "7.2.4. Therapeutic approaches as alternatives to surgery",
+      "anchor": "#7-2-4-therapeutic-approaches-as-alternatives-to-surgery"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Treatment of locally advanced RCC",
+      "anchor": "#7-3-treatment-of-locally-advanced-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Introduction",
+      "anchor": "#7-3-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Role of lymph node dissection in locally advanced RCC",
+      "anchor": "#7-3-2-role-of-lymph-node-dissection-in-locally-advanced-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. Management of RCC with venous tumour thrombus",
+      "anchor": "#7-3-3-management-of-rcc-with-venous-tumour-thrombus"
+    },
+    {
+      "level": 4,
+      "text": "7.3.4. Management of locally advanced unresectable RCC",
+      "anchor": "#7-3-4-management-of-locally-advanced-unresectable-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.3.5. Neoadjuvant and adjuvant therapy",
+      "anchor": "#7-3-5-neoadjuvant-and-adjuvant-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Therapy of oligometastatic disease",
+      "anchor": "#7-4-2-therapy-of-oligometastatic-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.5.1. Chemotherapy",
+      "anchor": "#7-5-1-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.5.2. Targeted therapies",
+      "anchor": "#7-5-2-targeted-therapies"
+    },
+    {
+      "level": 4,
+      "text": "7.5.3. Immunotherapy",
+      "anchor": "#7-5-3-immunotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.5.4. Therapeutic strategies",
+      "anchor": "#7-5-4-therapeutic-strategies"
+    },
+    {
+      "level": 3,
+      "text": "7.6. Locally recurrent RCC after treatment of localised disease",
+      "anchor": "#7-6-locally-recurrent-rcc-after-treatment-of-localised-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.6.1. Locally recurrent RCC after nephron-sparing approaches",
+      "anchor": "#7-6-1-locally-recurrent-rcc-after-nephron-sparing-approaches"
+    },
+    {
+      "level": 4,
+      "text": "7.6.2. Locally recurrent RCC after radical nephrectomy",
+      "anchor": "#7-6-2-locally-recurrent-rcc-after-radical-nephrectomy"
+    },
+    {
+      "level": 4,
+      "text": "7.6.3. Summary of evidence and recommendation on locally recurrent RCC after treatment of localised disease",
+      "anchor": "#7-6-3-summary-of-evidence-and-recommendation-on-locally-recurrent-rcc-after-treatment-of-localised-disease"
+    },
+    {
+      "level": 2,
+      "text": "8. HEREDITARY AND SYNDROME SPECIFIC RCC",
+      "anchor": "#8-hereditary-and-syndrome-specific-rcc"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Microphthalmia-associated transcription factors (MiTF) associated translocation tumours",
+      "anchor": "#8-1-microphthalmia-associated-transcription-factors-mitf-associated-translocation-tumours"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Management of hereditary and syndrome-specific RCC",
+      "anchor": "#8-2-management-of-hereditary-and-syndrome-specific-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.1. Von Hippel-Lindau-disease-associated RCC",
+      "anchor": "#8-2-1-von-hippel-lindau-disease-associated-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.2. TFE3-rearranged RCC",
+      "anchor": "#8-2-2-tfe3-rearranged-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.3. TFEB-altered RCC",
+      "anchor": "#8-2-3-tfeb-altered-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.4. Combined therapy for TFE3- and TFEB-altered RCCs",
+      "anchor": "#8-2-4-combined-therapy-for-tfe3--and-tfeb-altered-rccs"
+    },
+    {
+      "level": 4,
+      "text": "8.2.5. Summary of evidence and recommendation for hereditary and syndrome-specific RCC",
+      "anchor": "#8-2-5-summary-of-evidence-and-recommendation-for-hereditary-and-syndrome-specific-rcc"
+    },
+    {
+      "level": 2,
+      "text": "9. FOLLOW UP",
+      "anchor": "#9-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Introduction",
+      "anchor": "#9-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Which imaging investigations for which patients, and when?",
+      "anchor": "#9-2-which-imaging-investigations-for-which-patients-and-when"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Summary of evidence and recommendations for surveillance following RN or PN or ablative therapies in RCC",
+      "anchor": "#9-3-summary-of-evidence-and-recommendations-for-surveillance-following-rn-or-pn-or-ablative-therapies-in-rcc"
+    },
+    {
+      "level": 2,
+      "text": "10. REFERENCES",
+      "anchor": "#10-references"
+    },
+    {
+      "level": 2,
+      "text": "11. CONFLICT OF INTEREST",
+      "anchor": "#11-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "12. CITATION INFORMATION",
+      "anchor": "#12-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "13. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#13-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#renal-cell-carcinoma",
+      "title": "Renal Cell Carcinoma",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 7. Disease Management Introduction Methods Epidemiology Aetiology And Pathology Staging And Classification Systems Diagnostic Evaluation Prognostic Factors Disease Management Hereditary And Syndrome Specific Rcc Follow Up References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#7-disease-management",
+      "title": "7. DISEASE MANAGEMENT",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#7-1-patient-involvement-in-kidney-cancer-treatment",
+      "title": "7.1. Patient involvement in kidney cancer treatment",
+      "level": 3,
+      "text": "A large-scale global survey of patients with RCC performed by the International Kidney Cancer Coalition (IKCC) identified geographic variations in patient education, experience, awareness, access to care, best practices, quality of life and unmet psychosocial needs [305]. A total of 1,400 patients from 43 countries revealed that, at diagnosis, 43% of all respondents had no understanding of their RCC subtype, 29% reported no involvement in their treatment decision and 96% reported psychosocial impacts, with only 50% disclosing it to their health care team. Moreover, 90% of patients indicated that they would be interested in participating in clinical trials if asked. Furthermore, an effort should be made to increase diversity in clinical trial participants, ensuring representation of the target population. Shared decision-making ensures that patients are supported in making decisions about their care and treatment given their own individual needs, personal circumstances, goals, values and beliefs. It is a collaborative process between patients and healthcare professionals that involves information sharing, collaboration and problem solving given each patient’s prerequisites [306]. Shared decision-making brings together the healthcare providers expertise on treatment options, evidence, risks and benefits, and the patient’s individual preferences. However, to ensure patient participation and build the patient-health care professional relationship, adequate time is needed [307]. Nurse-led patient engagement interventions have shown positive effects on cancer patients’ participation in the decision-making process, health literacy, self-efficacy and quality of life (QoL) [308]. More evidence, specifically regarding patients with RCC, has been called for [309]. One RCT has indicated that patient involvement in reporting their symptoms during management of a variety of metastatic solid tumours can improve clinical outcomes, including OS [310].",
+      "tables": []
+    },
+    {
+      "anchor": "#7-1-1-recommendation-on-patient-involvement-and-shared-decision-making",
+      "title": "7.1.1. Recommendation on patient involvement and shared decision making",
+      "level": 4,
+      "text": "Recommendation Strength rating Employ a shared decision-making approach when deciding on appropriate treatment for RCC. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Employ a shared decision-making approach when deciding on appropriate treatment for RCC.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-1-2-smoking-cessation",
+      "title": "7.1.2. Smoking cessation",
+      "level": 4,
+      "text": "A prospective study on 212 patients with RCC investigated the impact of smoking cessation on the risk of tumour recurrence/progression, RCC-specific and all-cause mortality. Quitting smoking was associated with lower all-cause mortality, lower cancer-specific mortality and a lower risk of recurrence/progression. The beneficial effect of quitting smoking was evident across all RCC stages and all levels of smoking [311] and avoidance of smoking (any form of tobacco or vaping products) and quitting smoking were included in the WHO European Code against Cancer [312]. 7.1.2.a. Recommendation on smoking cessation Recommendation Strength rating Counsel RCC patients to stop smoking. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Counsel RCC patients to stop smoking.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-2-treatment-of-localised-rcc",
+      "title": "7.2. Treatment of localised RCC",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#7-2-1-introduction",
+      "title": "7.2.1. Introduction",
+      "level": 4,
+      "text": "Section 7.2.2 is underpinned by an SR that includes all relevant published literature comparing surgical management of localised RCC (T1-2N0M0). Randomised or quasi-RCTs were included. However, due to the very limited number of RCTs, non-randomised studies, prospective observational studies with controls, retrospective matched-pair studies and comparative studies from the databases of well-defined registries were also included. A SR highlights the heterogeneity of outcome reporting and definitions in studies in localised RCC, supporting the development of a core outcome set to enable robust evaluation of evidence [313]. Surgery has historically been the benchmark for the treatment of localised RCC.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-2-2-surgical-treatment",
+      "title": "7.2.2. Surgical treatment",
+      "level": 4,
+      "text": "7.2.2.a. Nephron-sparing surgery versus radical nephrectomy in localised RCC 7.2.2.a.1. T1 RCC Outcome 1: Cancer-specific survival Most studies comparing the oncological outcomes of PN and RN are retrospective and include cohorts of varied and, overall, limited size [314,315]. Only one (prematurely closed) prospective RCT including patients with organ-confined RCCs of limited size (< 5cm) has been published, showing comparable noninferiority of CSS for PN versus RN (HR: 2.06 [95% CI: 0.62-6.84]) [316]. Outcomes 2 & 3: Overall mortality and renal function Partial nephrectomy preserved kidney function better after surgery, thereby potentially lowering the risk of development of cardiovascular disorders [314,317] and cardiovascular-specific mortality. In the only prospectively randomised (prematurely closed and heavily underpowered) trial, PN appears to be less effective than RN in terms of OS in the intention to treat (ITT) population (HR: 1.50 [95% CI: 1.03-2.16]). However, in the targeted RCC population of the only RCT, the trend in favour of RN was no longer significant [316]. Considering the limitations of the available evidence (most studies are retrospective with a high risk of bias and unmeasured confounding), the OS advantage suggested for PN versus RN remains an unresolved issue. Patients with a normal preoperative renal function and a decreased GFR due to surgical treatment (either RN or PN), generally present with stable long-term renal function [318]. Adverse OS in patients with a pre-existing glomerular filtration rate (GFR) reduction does not appear to result from further renal function impairment following surgery, but rather from other medical comorbidities causing presurgical CKD [319]. However, in particular in patients with pre-existing CKD, PN is the treatment of choice to limit the risk of development of ESRD, which requires haemodialysis. A retrospective cohort study found that 26% of patients with newly diagnosed RCC had an GFR ≤ 60mL/min., even though their baseline serum creatinine levels were in the normal range [121]. Outcomes 4 & 5: Perioperative outcomes and quality of life In terms of the intra- and perioperative morbidity/complications associated with PN versus RN, the European Organisation for Research and Treatment of Cancer (EORTC) randomised trial showed that PN for small, easily resectable, incidentally discovered RCC, in the presence of a normal contralateral kidney, can be performed safely with slightly higher complication rates than after RN [320]. Only a limited number of studies are available addressing QoL following PN vs. RN, irrespective of the surgical approach used (open vs. minimally invasive). Quality of life was ranked higher following PN as compared to RN, but generally speaking patients’ health status deteriorated following both approaches [320,321]. In view of the above, and since the oncological outcomes (CSS and RFS) of PN are comparable to those of RN, PN is the treatment of choice for T1 RCC, because it better preserves kidney function and potentially limits the long-term incidence of cardiovascular disorders and ESRD. In frail patients, treatment decisions should be individualised, weighing the risks and benefits of PN versus RN, the increased risk of perioperative complications with PN and the increased risk of developing or worsening CKD with RN. 7.2.2.a.2. T2 RCC Very limited evidence is available on the comparative effectiveness of PN and RN for patients with radiologically defined cT2 renal masses. Some retrospective comparative studies of PN versus RN for T2 RCC have been published [322]. A trend for lower tumour recurrence and CSM is reported in PN groups. The estimated blood loss is reported to be higher for PN groups, as is the likelihood of postoperative complications [322]. A multicentre study compared the survival outcomes in patients with larger (> 7cm) ccRCC treated with PN versus RN with long-term follow-up (median 102 months). Compared to the RN group, the PN group had a significantly longer median OS (p = 0.014) and median CSS (p = 0.04) [323]. Retrospective comparative studies of cT1 and cT2 RCC patients upstaged to pT3a RCC show contradictory results: some reports suggest similar oncologic outcomes between PN and RN [324], whilst another report suggests that PN of clinical T1 in pathologically upstaged pT3a of cT1 RCC is associated with a significantly shorter RFS than RN [325]. Overall, the level of the evidence is low. These studies including T2 masses all have a high risk of selection bias due to imbalance between the PN and RN groups regarding patient’s age, comorbidities, tumour size, stage and tumour position. These imbalances in covariation factors may have a greater impact on patient outcome than the choice of PN or RN. The Panel’s confidence in the results is limited, and the true effects may be substantially different. In view of the above, the risks and benefits of PN should be discussed with patients with T2 tumours. In th",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "The oncological outcome in terms of OS following PN equals that of RN in patients with c/p T1 RCC.",
+              "1b"
+            ],
+            [
+              "Retrospective studies suggest that oncological outcomes are similar following PN versus RN in patients with larger (≥ 7cm) RCC. Postoperative complication rates are higher in PN patients.",
+              "3b"
+            ],
+            [
+              "Ipsilateral adrenalectomy during RN or PN has no survival advantage in the absence of clinically evident adrenal involvement.",
+              "3"
+            ],
+            [
+              "In patients with localised disease without radiographic evidence of LN metastases, a survival advantage of LND in conjunction with RN is not demonstrated in RCTs.",
+              "1b"
+            ],
+            [
+              "Retrospective studies suggest a clinical benefit associated with LND in high-risk patients.",
+              "2b"
+            ],
+            [
+              "In patients unfit for surgery with massive haematuria or flank pain, embolisation can be a beneficial palliative approach.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer surgery to achieve cure in localised RCC.",
+              "Strong"
+            ],
+            [
+              "Offer partial nephrectomy (PN) to patients with T1 tumours.",
+              "Strong"
+            ],
+            [
+              "Offer PN to patients with T2 tumours and a solitary kidney or chronic kidney disease, if technically feasible.",
+              "Weak"
+            ],
+            [
+              "Do not perform ipsilateral adrenalectomy if there is no clinical evidence of invasion of the adrenal gland.",
+              "Strong"
+            ],
+            [
+              "Do not routinely perform a lymph node dissection to patients with organ-confined disease.",
+              "Weak"
+            ],
+            [
+              "Offer embolisation to patients unfit for surgery presenting with massive haematuria or flank pain.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-2-3-radical-and-partial-nephrectomy-techniques",
+      "title": "7.2.3. Radical and partial nephrectomy techniques",
+      "level": 4,
+      "text": "7.2.3.a. Radical nephrectomy techniques 7.2.3.a.1. Open versus laparoscopic or robotic approach No RCTs have assessed the oncological outcomes of laparoscopic versus open RN. An SR did not demonstrate any survival difference in laparoscopic RN and open RN [348]. Data from one SR [348] and two non-randomised studies [349,350] showed a significantly shorter hospital stay and lower analgesic requirement for the laparoscopic RN group as compared with the open group. Convalescence time was also significantly shorter [350]. Surgical complication rates were low with very wide confidence intervals. There was no difference in complications, but operation time was significantly shorter in the open nephrectomy arm. The QoL and perioperative outcomes were inconsistently defined, measured or reported [314,348] (LE: 2b, based on one low quality SR). 7.2.3.a.2. Laparoscopic versus robotic approach Data from a large retrospective cohort study on robot-assisted laparoscopic versus laparoscopic RN showed that robot-assisted laparoscopic RN was not associated with increased risk of any or major complications but had a longer operating time and higher hospital costs compared with laparoscopic RN [351]. A SR comparing the outcomes of robotic surgery to those of laparoscopic and open surgery in patients undergoing RN for RCC (n =12 studies involving 64,221 patients) found that, compared to laparoscopic RN, robotic RN was associated with longer operative time (weighted mean difference (WMD) 37.44 min.), shorter length of stay (WMD -0.84 days) and higher total costs [352]. Compared to open RN, robotic RN was associated with shorter length of stay, fewer overall complications, lower estimated blood loss and higher total hospital costs. High heterogeneity was observed across all analyses. 7.2.3.a.3. Laparoscopic single port versus laparoscopic multiport approach Similar results were seen in observational cohort studies comparing ‘portless’ and three-port laparoscopic RN, with similar perioperative outcomes [353,354]. Transperitoneal versus retroperitoneal RN A SR and pooled analysis compared the safety and efficacy of transperitoneal (TLRN) versus retroperitoneal laparoscopic RN (RLRN) for the treatment of large-volume (> 7cm) renal masses (including 14 studies, of which five RCTs and nine retrospective studies) [355]. Most studies were limited by the small number of patients included, limited/unreported follow-up and moderate-to-high risk of bias. The merged data showed shorter operating time for RLRN operating time (OT) (MD [mean difference]: -26.57); less estimated blood loss (EBL) (MD: -20.55); and faster postoperative intestinal exhaust (MD: -0.65). The two approaches were comparable regarding LOS, blood transfusion, conversion rate, intra- and postoperative complications, local recurrence rate, positive surgical margins, and distant recurrence rate. 7.2.3.b. Partial nephrectomy techniques 7.2.3.b.1. Open versus laparoscopic approach Two small RCTs have compared the outcomes of open versus laparoscopic PN [356]. Studies comparing laparoscopic and open PN found no difference in PFS [357-360] and OS [359,360] in centres with laparoscopic expertise. The results for GFR decline are debatable. An RCT reported greater three- to 12-month kidney function reduction in the open group [356], whilst in a matched-pair comparison, GFR decline was greater in the laparoscopic PN group in the immediate postoperative period [360], but not after 3.6-years follow-up. In another comparative study, the surgical approach was not an independent predictor for postoperative CKD [361]. Retroperitoneal and transperitoneal laparoscopic PN have similar perioperative outcomes [362]. The feasibility of laparoendoscopic single-site PN has been shown in selected patients, but larger studies are needed to confirm its safety and clinical role [363]. 7.2.3.b.2. Open versus robotic approach The prospective, randomised, open-label, multicentre OpeRa trial (NCT03849820) aimed to determine whether robotic-assisted partial nephrectomy (RAPN) is superior to open partial nephrectomy (OPN) in reducing 30-day postoperative complications during the treatment of intermediate/high-complexity renal tumours (RENAL score ≥7) [364]. The primary endpoint of the 30-day complication rate did not differ between groups (RAPN 37% vs. OPN 46%), but a limitation was that the trial failed to fully accrue (240 of 606) and closed prematurely. The most frequent high-grade complications (CD III-IV) to postoperative day 30 (POD30) were urine leakage [RAPN 4/112 (4%) vs. OPN 2/89 (2%)] and postoperative bleeding [2/117 (2%) versus 1/89 (1%)] [364]. Compared with OPN, RAPN patients had longer operative and warm ischaemia times, shorter hospital stays and reported better recovery, less opioid use, less pain and improved QoL up to POD30 [364]. The single-centre, open-label ROBOCOP II RCT assessed the feasibility of recruitment as a primary endpoint and demonstrated as secondary outcomes that inclu",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Laparoscopic RN has lower morbidity than open RN.",
+              "1b"
+            ],
+            [
+              "Short-term oncological outcomes for T1-T2a tumours are equivalent for laparoscopic and open RN.",
+              "2a"
+            ],
+            [
+              "Partial nephrectomy can be performed, either by open, pure laparoscopic or robot-assisted approach, based on surgeon’s expertise and skills.",
+              "2b"
+            ],
+            [
+              "Robot-assisted and laparoscopic PN are associated with shorter length of hospital stay and lower blood loss compared to open PN.",
+              "2b"
+            ],
+            [
+              "Transperitoneal and retroperitoneal laparoscopic PN do not differ in postoperative surgical and medical complications, PSMs and kidney function.",
+              "2a"
+            ],
+            [
+              "Hospital volume for PN might impact on surgical complications, warm ischaemia time and surgical margins.",
+              "3"
+            ],
+            [
+              "Immediate completion nephrectomy for PSMs can result in overtreatment in many cases.",
+              "3"
+            ],
+            [
+              "Off-clamp partial nephrectomy does not improve renal function outcomes in patients with baseline normal renal function.",
+              "1b"
+            ],
+            [
+              "The evidence on the impact of resection technique on PN outcomes is limited by lack of standardised reporting and by the retrospective design of most available studies.",
+              "3"
+            ],
+            [
+              "The placement or omittance of a drain does not alter the post-surgical course of PN.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer laparoscopic or robotic radical nephrectomy (RN) to patients with T2 tumours and localised masses not treatable by partial nephrectomy (PN).",
+              "Strong"
+            ],
+            [
+              "Do not perform minimally invasive RN in patients with T1 tumours for whom a PN is feasible by any approach, including open.",
+              "Strong"
+            ],
+            [
+              "Do not perform minimally invasive surgery if this approach may compromise oncological-functional- and peri-operative outcomes.",
+              "Strong"
+            ],
+            [
+              "Do not perform re-resection or RN in patients with a microscopic positive surgical margins.",
+              "Weak"
+            ],
+            [
+              "Intensify follow-up in patients with a positive surgical margin, especially in upstaged pT3a patients.",
+              "Weak"
+            ],
+            [
+              "Do not attempt off-clamp PN unless indicated.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-2-4-therapeutic-approaches-as-alternatives-to-surgery",
+      "title": "7.2.4. Therapeutic approaches as alternatives to surgery",
+      "level": 4,
+      "text": "7.2.4.a. Watchful waiting Elderly and comorbid patients with incidental SRMs have a low RCC-specific mortality and significant competing-cause mortality [418,419]. Watchful waiting is employed in cases where RCC is not expected to significantly impact the patient’s remaining life expectancy, and when the focus is on managing symptoms rather than attempting a cure. 7.2.4.b. Active surveillance Active surveillance is defined as the initial monitoring of tumour size by serial abdominal imaging (US, CT, or MRI) with delayed intervention reserved for tumours showing clinical progression during follow-up [420]. The concept of AS differs from the concept of WW. Unless clinically indicated, WW is reserved for patients whose comorbidities contraindicate any subsequent active treatment and who do not require follow-up imaging. Population-based studies compared the oncological outcomes of surgery (RN or PN) and non-surgical management for tumours < 4cm. The analyses showed a significantly lower CSM in patients treated with surgery [421-423]. However, the patients assigned to the surveillance arm were older and likely to be frailer and less suitable for surgery. Other-cause mortality rates in the non-surgical group significantly exceeded that of the surgical group [422]. Analyses of older patients (> 75 years) failed to show the same benefit in CSM for surgical treatment [424-426]. Growth rate and metastasis In the largest reported series of AS, the growth of renal tumours was low and progression to metastatic disease was reported in only a limited number of patients [427,428]. An SR of eighteen AS cohorts comprising 2,066 patients (cT1-2 N0M0) with a pooled mean follow-up of 53 months showed that 2.1% (95% CI: 1.0-3.6) of patients developed metastatic disease during follow-up [429]. For patients with SRMs (nine studies, n = 987), the pooled metastasis rate was 1.8% (95% CI: 0.5-3.7). In 136 biopsy-proven SRMs managed by AS, median follow-up of patients who remained on AS was 5.8 years (interquartile range 3.4-7.5 years). Clear-cell RCC grew faster than papillary type 1 SRMs (0.25 and 0.02 cm/year on average, respectively, p = 0.0003). Overall, 60 (44.1 %) of the malignant SRMs progressed; 49 (82%) by rapid growth (volume doubling), seven (12%) increasing to ≥ 4cm, and four (6.7%) by both criteria. Six patients developed metastases, and all were of ccRCC histology [430]. Overall and cancer-specific survival A single-institutional comparative study evaluating patients aged > 75 years showed decreased OS for those who underwent surveillance and nephrectomy relative to NSS for clinically T1 renal tumours. However, at multivariate analysis, management type was not associated with OS after adjusting for age, comorbidities and other variables [418]. No statistically significant differences in OS and CSS were observed in another study of RN versus PN versus AS for T1a renal masses with a follow-up of 34 months [431]. The prospective non-randomised multi-institutional Delayed Intervention and Surveillance for Small Renal Masses (DISSRM) study enrolled 497 patients with solid renal masses < 4cm who selected either AS or primary active intervention. Patients who selected AS were older, had worse ECOG scores, more comorbidities, smaller tumours and more often had multiple and bilateral lesions. In patients who elected AS in this study, the overall median SRM growth rate was 0.09cm/year with a median follow-up of 1.83 years. The growth rate and variability decreased with longer follow-up. No patients developed metastatic disease or died of RCC [432,433]. Overall survival for primary intervention and AS was 98% and 96% at two years and 92% and 75% at five years (p = 0.06). At five years, CSS was 99% and 100%, respectively (p = 0.3). Active surveillance was not predictive of OS or CSS in regression modelling with relatively short follow-up [432]. In the above-mentioned large SR of 18 AS cohorts, 1.0% (95% CI: 0.3-2.1) died from RCC and 22.6% (95% CI: 15.8-30.2) died from any cause. For patients with SRMs, RCC-specific mortality was 0.6% (95% CI: 0-2.1) and all-cause mortality was 28.5% (95% CI: 17.4-41.4) [429]. A study using data from the DISSRM Registry investigated the outcomes of AS in a cohort of patients aged 60 or younger at diagnosis [434]. Of 224 patients with median follow-up of 4.9 years, 30.4% chose surveillance. There were 20 (29.4%) surveillance progression events, including four elective crossovers, and 13 (19.1%) patients underwent delayed intervention. Among patients with initial tumour size ≤ 2cm, 15.1% crossed over, as compared to 33.3% with initial tumour size 2-4cm. Overall survival was similar in primary intervention and surveillance at seven years (94.0% vs. 90.8%, logrank p = 0.2). The CSS remained at 100% for both groups and RFS at five years was 96.0% and 100% for primary and delayed intervention, respectively (logrank p = 0.6). Overall, both short- and intermediate-term oncological outcomes indicate that, ",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Most population-based analyses show a significantly lower cancer-specific mortality for patients treated with surgery compared to no intervention.",
+              "3"
+            ],
+            [
+              "In AS cohorts, the growth of SRMs is low in most cases and progression to metastatic disease is rare (1-2%).",
+              "3"
+            ],
+            [
+              "Low-quality studies suggest higher disease recurrence rates after RFA of tumours > 3cm and after cryoablation of tumours > 4cm.",
+              "3"
+            ],
+            [
+              "Low quality studies suggest a higher local recurrence rate for TA therapies compared to PN, but quality of data does not allow definitive conclusions.",
+              "3"
+            ],
+            [
+              "Stereotactic ablative radiotherapy in patients with non-metastatic RCC who were unfit for or declined surgery, demonstrated short-term safety and efficacy but long-term and comparative data are lacking.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer watchful waiting to highly frail and comorbid patients with reduced life expectancy.",
+              "Weak"
+            ],
+            [
+              "Offer active surveillance (AS) to cT1a patients with no indication for immediate treatment and where delayed intervention may be appropriate.",
+              "Weak"
+            ],
+            [
+              "Offer tumour ablation (TA) or stereotactic ablative radiotherapy (SABR) in patients with cT1 lesions who have an indication for treatment but are unfit for surgery.",
+              "Weak"
+            ],
+            [
+              "Perform a percutaneous renal mass biopsy prior to, and not concomitantly with, TA.",
+              "Strong"
+            ],
+            [
+              "Discuss the limitations in the clinical evidence, with regards to oncological outcomes and complications when TA or AS is offered.",
+              "Strong"
+            ],
+            [
+              "Do not routinely offer radiofrequency ablation for tumours > 3cm and cryoablation for tumours > 4cm.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-3-treatment-of-locally-advanced-rcc",
+      "title": "7.3. Treatment of locally advanced RCC",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#7-3-1-introduction",
+      "title": "7.3.1. Introduction",
+      "level": 4,
+      "text": "In addition to the summary of evidence and recommendations outlined in Section 7.2 for localised RCC, certain therapeutic strategies arise in specific situations for locally advanced disease.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-3-2-role-of-lymph-node-dissection-in-locally-advanced-rcc",
+      "title": "7.3.2. Role of lymph node dissection in locally advanced RCC",
+      "level": 4,
+      "text": "In locally advanced RCC, the role of LND is still controversial. The only available RCT demonstrated no survival benefit for patients undergoing LND, but this trial mainly included organ-confined disease cases [330]. In the setting of locally advanced disease, several retrospective papers and SRs addressed the topic with contradictory results. An SR and meta-analyses could not confirm any survival benefit in patients at high risk of progression treated with LND [498]. Another SR and meta-analyses showed a survival benefit in patients with locally advanced disease treated with LND [499]. Thirteen studies on patients with LND and non-LND were identified and included in the analyses. In the subgroup of locally advanced RCC (cT3-T4NxM0), LND showed a significantly better OS rate in patients who had undergone LND compared to those without LND (HR: 0.73, 95% CI: 0.60-0.90, p = 0.003), although potential unknown biases could have had an impact on the findings. 7.3.2.a. Management of clinically negative lymph nodes (cN-) in locally advanced RCC In case of cN-, the probability of finding pathologically confirmed LN metastases ranges between 0 and 25%, depending mainly on primary tumour size and the presence of distant metastases [500]. In case of clinically negative LNs (cN-) at imaging, removal of LNs is justified only if visible or palpable during surgery [501], at least for staging, prognosis, adjuvant therapy and follow-up implications, although a benefit in terms of cancer control has not yet been demonstrated [333,498]. 7.3.2.b. Management of clinically positive lymph nodes (cN+) in locally advanced RCC In case of cN+, the probability to identify pathologically confirmed LN metastases ranges between 10.3% (cT1 tumours) and up to 54.5% in case of locally advanced disease. In cN+, removal of visible and palpable nodes during LND is justified [501], at least for staging, prognosis, adjuvant therapy and follow-up implications, although a benefit in terms of cancer control has not yet been demonstrated [333,498]. Whether to extend the LND in case of lymphadenopathy (cN1) remains controversial. Retrospective data showed for resected isolated macroscopical lymph node metastasis (pN1) that the time to systemic progression was a median of 4.2 months [502], suggesting that systemic therapy should always be discussed in the presence of lymph node invasion.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-3-3-management-of-rcc-with-venous-tumour-thrombus",
+      "title": "7.3.3. Management of RCC with venous tumour thrombus",
+      "level": 4,
+      "text": "Tumour thrombus formation in RCC patients accounts for 4-10% of RCC and may involve renal vein (pT3a, 78.3%), subdiaphragmatic inferior vena cava (pT3b, 16.4%) or supradiaphragmatic inferior vena cava (pT3c, 5.3%) [503]. This is a significant adverse prognostic factor with a five-year survival rate of 36% to 57% for patients without metastatic disease to other organs [504-507]. The majority are ccRCC and sarcomatoid differentiation are frequent (58%) [508]. Magnetic resonance imaging has been established as the imaging method of choice to determine the upper extent of the tumour thrombus, the degree of IVC occlusion and to predict IVC wall invasion [133]. However, with the advent of the multidetector CT (MDCT), MRI may one day be replaced. Several classifications have been described to distinguish the level of thrombus, the best known being the Mayo classification (Level 0: Tumour thrombus is limited to the renal vein, Level 1: Tumour thrombus extends into the IVC, < 2cm above the renal vein, Level 2: > 2cm above the renal vein but below the hepatic veins, Level 3: above the hepatic veins but below the diaphragm Level 4: above the diaphragm, including atrial thrombus) [509]. Traditionally, patients with venous tumour thrombus undergo surgery to remove the kidney and tumour thrombus. Aggressive surgical resection is widely accepted as the default management option for patients with venous tumour thrombus, although the associated surgical mortality is 2-10% [503,504,506,507,510-512]. Close collaboration with the anaesthesia team is mandatory, as well as a preoperative multidiciplinary team (MDT) for optimal surgical planning, including, for T3c, thoracic or vascular surgeon to consider the possibility of cardiopulmonary bypass and cardioplegia (requiring preoperative cardiac catheterisation) [513-515,465]. A preoperative imaging within one to two weeks of surgery is recommended given the propensity for tumour thrombus to progress rapidly [513]. Further intraoperative real-time evaluation of the thrombus level using transoesophageal echocardiography may be helpful [515]. Complete surgical excision should always be attempted because positive vascular wall margins increase local recurrence rates [516]. The role of neoadjuvant treatment with targeted agents has also been investigated in downstaging of tumour thrombus within the IVC with limited and controversial results [505,517,518]. Further investigations are needed to better identify which patients with RCC and tumour venous might benefit from neoadjuvant therapy (See also Section 7.3.5). Several scores and tools have been proposed to estimate surgical complexity and the risk of complications, although an external validation is needed [519,520]. In the largest published study, OS was higher in patients with a level of thrombus in the renal vein compared to inferior caval vein [521]. Survival was also associated with tumour size, grade, perinephric fat extension, sarcomatoid features, Eastern Cooperative Oncology Group PS and regional and distant metastases in multivariate analysis [505,521]. Therefore, all patients with nonmetastatic disease and venous tumour thrombus, and an acceptable PS, should be considered for surgical intervention, irrespective of the extent of tumour thrombus at presentation. The presence of tumor thrombus in RCC patients represents a key risk factor for worse perioperative, as well as long-term renal function. Specifically, patients with tumor thrombus harbour a significant and early estimated GFR decrease. However, despite tumor thrombus, patients show a greater estimated GFR decline after surgery - they retain acceptable renal function, which remains stable over time [522]. The surgical technique and approach (open versus laparoscopic versus robotic) for each case should be selected based on patients’ characteristics, surgeon and hospital volumes and the extent of tumour thrombus and the grade of occlusion of the IVC [517,523-525]. An SR and meta-analysis regarding surgical approach included 1,375 patients, of which 329 patients were in single-arm studies and 1,046 patients were in comparative studies [526]. Of the 329 patients who underwent robotic, 14.7% were level I, 60.9% level II, 20.4% level III and 2.5% level IV thrombus. Compared with open thrombectomy, robotic approach was associated with a lower blood transfusion rate and fewer overall complications. Major complication and 30-day mortality rates were similar in both groups. In a propensity-matched retrospective cohort including 324 patients with renal tumour and venous thrombus, robotic approach was associated with a shorter operative time, a lower blood loss and transfusion rate, and a lower complication rate and postoperative hospital stay after matching, while there was no significant difference in survival [527]. In experienced hands with carefully selected patients, robotic thrombectomy can be considered. However, an emphasised selection bias limits definitive inferenc",
+      "tables": []
+    },
+    {
+      "anchor": "#7-3-4-management-of-locally-advanced-unresectable-rcc",
+      "title": "7.3.4. Management of locally advanced unresectable RCC",
+      "level": 4,
+      "text": "The management of locally advanced unresectable RCC should be based around systemic therapy [528]. A multidisciplinary evaluation, including urologists, medical oncologists and radiation therapists is suggested to maximise cancer control, pain control and the best supportive care. In patients with unresectable disease, embolisation can control symptoms, including visible haematuria or flank pain [347,529-531]. Figure 7.1: Treatment of locally advanced RCC CECT = contrast-enhanced computed tomography; IVC = inferior vena cava; LND = lymph node dissection; MDT = multidisciplinary team; MRI = magnetic resonance imaging; TEE = transoesophageal echocardiogram. 7.3.4.a. Summary of evidence and recommendations for lymph node dissection, the management of RCC with venous tumour thrombus and unresectable tumours Summary of evidence LE In patients with locally advanced disease, the survival benefit of LN dissection is unproven, but LN dissection has significant staging, prognosis, adjuvant therapy and follow-up implications. 3 Low-quality data suggest that tumour thrombus excision in nonmetastatic disease may be beneficial. 3 Recommendations Strength rating During nephrectomy, remove clinically enlarged lymph nodes for staging, prognosis and follow-up implications. Weak Remove the renal tumour and thrombus in case of venous involvement in nonmetastatic disease. Strong Discuss treatment options in patients with locally advanced unresectable RCC (biopsy and/or systemic therapy/deferred resection or palliative management) within a multidisciplinary team to determine treatment goal. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "In patients with locally advanced disease, the survival benefit of LN dissection is unproven, but LN dissection has significant staging, prognosis, adjuvant therapy and follow-up implications.",
+              "3"
+            ],
+            [
+              "Low-quality data suggest that tumour thrombus excision in nonmetastatic disease may be beneficial.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "During nephrectomy, remove clinically enlarged lymph nodes for staging, prognosis and follow-up implications.",
+              "Weak"
+            ],
+            [
+              "Remove the renal tumour and thrombus in case of venous involvement in nonmetastatic disease.",
+              "Strong"
+            ],
+            [
+              "Discuss treatment options in patients with locally advanced unresectable RCC (biopsy and/or systemic therapy/deferred resection or palliative management) within a multidisciplinary team to determine treatment goal.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-3-5-neoadjuvant-and-adjuvant-therapy",
+      "title": "7.3.5. Neoadjuvant and adjuvant therapy",
+      "level": 4,
+      "text": "Neoadjuvant therapy is currently under investigation and available in clinical trials. In the presurgical setting, neoadjuvant TKI and immune checkpoint therapy demonstrated varying response rates between 7 and 59% in retrospective series and some phase II trials [517,532,533]. In a presurgical phase II trial in patients with vascular thrombus, treatment with axitinib demonstrated a reduction in the level of tumour thrombus in 35% of patients (7/20) [532]. Another presurgical phase II trial with axitinib showed a median shrinkage of tumour diameter of 1.3cm in complex renal tumours (RENAL Score 10-12) [534] and presurgical nivolumab did not show any primary tumour response in a prospective single arm trial [535]. There is currently no evidence of a prolonged OS by neoadjuvant treatment and at present, the data do not support its use outside clinical trials. There is currently no evidence from an SR (including ten retrospective studies and two RCTs) that adjuvant radiation therapy increases survival [536]. The impact on OS of adjuvant tumour vaccination in selected patients undergoing nephrectomy for T3 renal carcinomas remains unconfirmed [537-541] (LE: 1b). A similar observation was made in an adjuvant trial of girentuximab, a monoclonal antibody against carbonic anhydrase IX (CAIX) (ARISER Study) [542]. At present, no OS data is available supporting the use of adjuvant VEGFR or mTOR inhibitors. Thus far, several RCTs comparing VEGFR-TKI or mTOR versus placebo have been published [543-550]. A sub analysis of EVEREST trial exploring adjuvant everolimus (mTOR) in non-clear cell RCC population did not show oncological benefit [551]. Only S-TRAC, a trial of adjuvant sunitinib versus placebo demonstrated a DFS benefit that was not reproduced in ASSURE, a trial of sunitinib and sorafenib versus placebo. Due to an unfavourable AE profile and no survival advantage, none of these drugs are recommended [550]. 7.3.5.a. PD-1 Inhibition: Keynote-564 The Keynote-564 trial is the first trial to report positive primary endpoint data on DFS [552,553] and OS [554]. Keynote-564 evaluated pembrolizumab (17 cycles of three-weekly therapy) versus placebo as adjuvant therapy in 994 patients with intermediate (pT2, grade 4 or sarcomatoid, N0, M0; or pT3, any grade, N0, M0) or high risk (pT4, any grade, N0, M0; or pT any stage, and grade, or N+, M0), or M1 (no evidence of disease [NED] after primary tumour plus soft tissue metastases completely resected < one year from nephrectomy) disease. The median follow-up, defined as time from randomisation to data cut-off, was 24.1 months. The primary endpoint of DFS per investigator assessment was significantly improved in the pembrolizumab group vs. (at the primary analysis HR: 0.68, 95% CI: 0.53-0.87, p = 0.001). The estimated 48-month DFS rate was 64.9% versus 56.6% for pembrolizumab and placebo, respectively. Benefit occurred across broad subgroups of patients including those with M1/NED disease post-surgery (n = 58 [6%]). Investigator-assessed DFS was considered preferable to DFS by central review, due to its clinical applicability. Overall survival was statistically significant with a benefit in the pembrolizumab arm (HR: 0.62, 95% CI: 0.44-0.87, p = 0.005) and a consistent DFS advantage (HR: 0.72) after median follow-up of 57.2 months [554]. The estimated overall survival 91.2% in the pembrolizumab group versus 86.0% in the placebo group at 48 months. The five-year update (median follow-up 69.5 months) showed consistency in DFS and OS results [555]. Grade III-V all-cause adverse events occurred in 32% versus 18% of patients for pembrolizumab and placebo, respectively. Quality of life assessment by FKSI-DRS and QLQ30 did not show a statistically significant or clinically meaningful deterioration in health-related QoL or symptom scores for either adjuvant pembrolizumab or placebo. 7.3.5.b. PD-L1 inhibition: IMmotion010 The IMmotion010 phase III trial was the first adjuvant ICI trial to be developed in RCC to investigate the effect of a PD-L1 inhibitor on DFS [556]. IMmotion010 evaluated atezolizumab 1200 mg (once every three weeks for sixteen cycles or one year) versus placebo as adjuvant therapy in 778 patients with increased risk of recurrence defined as: pT2, grade 4 or sarcomatoid, N0, M0; pT3, grade 3-4, N0, M0; pT3b/c/T4, any grade, N0, M0; pT any stage and grade, pN1, M0; or M1 no NED after primary tumour plus soft tissue metastases completely resected either synchronous or if metachronous, > 12 months from nephrectomy. The minimum follow-up, defined as time from randomisation to data cut-off, was 38.6 months. The primary endpoint of DFS per investigator assessment was not met in the atezolizumab group versus placebo (HR: 0.93, 95% CI: 0.75-1.15, p = 0.4950) with a median DFS of 57.2 months (95% CI: 44.6, NE) for atezolizumab vs. 49.5 months for placebo (47.4, NE). None of the exploratory subgroups suggested a DFS benefit with atezolizumab, most notably the M1 NED subgroup (n =",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Phase III trial of PD-1 immune checkpoint inhibitors in adjuvant RCC"
+            ],
+            [
+              "Study",
+              "N",
+              "Experimental arm",
+              "Primary endpoint",
+              "Risk groups",
+              "DFS (mo)Median (95% CI) HR",
+              "OS (mo.)Median (95% CI) HR"
+            ],
+            [
+              "Keynote-564NCT03142334Median follow-up of 69.5 mos.[552,554,555]",
+              "994",
+              "PEMBRO 200mg IV Q3W (17 cycles) vs. placebo",
+              "DFS in the ITT by IR",
+              "Intermediate-high: pT2 grade 4 or sarcomatoid; pT3 any gradeHigh: pT4 any grade, pN1M1 NED: cM0 after resection of oligometastatic disease < 12 mo.",
+              "(ITT)PEMBRO: NR (NE)PLACEBO: 68.3 (51.7 - NR)HR: 0.71 (95% CI: 0.59-0.86))P < 0.002DFS at 72 mos.:PEMBRO: 58.5%PLACEBO: 48.7%",
+              "(ITT)PEMBRO: NR (NE)PLACEBO: NR (NE)HR: 0.66 (95% CI: 0.48-0.90)p < 0.005alive at 60 mos.:PEMBRO: 87.7.%PLACEBO: 82.3%"
+            ],
+            [
+              "IMmotion010NCT03024996Median follow-up of 44.7 mos. [556]",
+              "778",
+              "ATEZO 1200mg IV Q3W (16 cycles or 1 yr.) vs. placebo",
+              "DFS in the ITT by IR",
+              "By TNM: pT2 grade 4 or sarcomatoid; pT3 a grade 3-4; pT3b/c/T4 any grade, pN1M1 NED: cM0 after resection of oligometastatic disease (synchronous or >/= 12 mos.)",
+              "(ITT)ATEZO: 57.2(44.6-NE)PLACEBO: 49.5 (47.4-NE)HR: 0.93 (95% CI: 0.75-1.15)p = 0.4950DFS at 24 mos.: NR",
+              "(ITT)ATEZO : NE(59.8-NE)PLACEBO : NE(NE-NE)HR: 0.97 (95% CI: 0.67-1.42)alive at 24 mo.: NR"
+            ],
+            [
+              "CheckMate 914NCT03138512Median follow-up of 37.0 mos.[557]",
+              "816",
+              "NIVO 240 mg IV Q2W (× 12 cycles) + ipilimumab 1 mg/kg IV Q6W (× 4 cycles vs. placebo)",
+              "DFS in the ITT by BICR",
+              "By TNM: pT2a grade 3-4;pT2b/T3/T4 any grade, pN1",
+              "(ITT)NIVO + IPI: NR (NE)PLACEBO: 50.7 (48.1-NE)HR: 0.92 (95% CI: 0.71-1.19)p = 0.5347DFS at 24 mos.:NIVO + IPI: 76.4%PLACEBO: 74.0%",
+              "NR"
+            ],
+            [
+              "Arm B median follow-up of 27 months [558,559]",
+              "825Arm B",
+              "Nivolumab 240 mg IV Q2W (× 12 cycles) + placebo Q6W (× 4 doses)vs.placebo IV Q2W (× 12)+ placebo IV Q6W (× 4)vs.Nivolumab 240 mg IV Q2W (× 12) + ipilimumab 1 mg/kg IV Q6W (× 4)2:1:1",
+              "DFS in the ITT by BICR",
+              "By TNM: pT2a grade 3-4;pT2b/T3/T4 any grade, pN1",
+              "(ITT)NIVO: NR (NE)PLACEBO: NR (NE)HR: 0.87 (95% CI:0.62-1.21)p = 0.3962DFS at 18 monthsNIVO: 78.4%PLACEBO: 75.4%Secondary endpoint:NIVO: NR (NE)NIVO+IPI: (NR (NE)HR: 1.27 (95% CI: 0.92-1.76)DFS at 18 monthsNIVO: 78.4%NIVO+IPI: 72.3%",
+              "NR"
+            ],
+            [
+              "PROSPERNCT03055013Median follow-up: NR [560]",
+              "779",
+              "Neoadjuvant NIVO 240mg IV Q2W (x 2 cycles) followed by adjuvant nivolumab 240mg Q2W for 3 mos. and Q4W for 6 mos. vs. observation",
+              "RFS in the ITT by IR",
+              "By TNM: >/= cT2 (7 cm) or cT any cN1",
+              "(ITT), RFS:NIVO: NR (NE)Observation: NR (NE)HR: 0.94 (95% CI: 0.74-1.21)p = 0.32",
+              "(ITT)NIVO: NR (NE)Observation : NR (NE)HR: 1.28 (95% CI: 0.84-1.95)p = 0.26"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Neoadjuvant systemic therapy can reduce vascular thrombus and tumour size in the presurgical setting.",
+              "2a"
+            ],
+            [
+              "Adjuvant sunitinib, sorafenib, pazopanib, everolimus, girentuximab or axitinib does not improve OS after nephrectomy.",
+              "1b"
+            ],
+            [
+              "Adjuvant PD1 inhibition with pembrolizumab defined by the inclusion criteria of the trial* after nephrectomy improves DFS and OS.",
+              "1b"
+            ],
+            [
+              "Adjuvant PD-L1 inhibition with atezolizumab and PD1 inhibition with nivolumab did not improve DFS or OS.",
+              "1b"
+            ],
+            [
+              "Adjuvant dual PD-1 and CTLA-4 inhibition with nivolumab and ipilimumab did not improve DFS.",
+              "1b"
+            ],
+            [
+              "Perioperative treatment with nivolumab did not improve RFS.",
+              "1b"
+            ],
+            [
+              "There is uncertainty regarding further systemic therapy in patients who receive adjuvant pembrolizumab and develop a recurrence.",
+              "4"
+            ],
+            [
+              "The lack of biomarker data is hindering progress in this field.",
+              "4"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Do not use neoadjuvant therapy outside a clinical trial setting.",
+              "Weak"
+            ],
+            [
+              "Offer adjuvant pembrolizumab to ccRCC patients, preferably within 12-16 weeks post-nephrectomy, following restaging, with a recurrence risk as defined in the Keynote-564 trial:Intermediate-high risk:pT2, grade 4 or sarcomatoid, N0 M0pT3, any grade, N0, M0High risk:pT4, any grade, N0, M0any pT, any grade, N+, M0M1 no evidence of disease (NED):NED after resection of oligometastatic sites within one year from nephrectomy.",
+              "Strong"
+            ],
+            [
+              "If adjuvant therapy is planned:Discuss the contradictory results of the available adjuvant immune checkpoint inhibitor (ICI) trials with the patient to facilitate shared decision making.Inform the patient about the potential risk of overtreatment and immune related side effects if adjuvant therapy is considered.",
+              "Strong"
+            ],
+            [
+              "Do not offer adjuvant sunitinib following surgically resected high-risk clear-cell renal cell carcinoma (ccRCC).",
+              "Weak"
+            ],
+            [
+              "Offer vascular endothelial growth factor receptor - tyrosine kinase inhibitor (VEGFR-TKI) to patients developing a recurrence while receiving pembrolizumab or within the first six months after stopping pembrolizumab given for one year.",
+              "Weak"
+            ],
+            [
+              "Do not offer ICI mono- or combination therapy in patients with recurrence during or within six months after adjuvant pembrolizumab.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-4-advancedmetastatic-rcc",
+      "title": "7.4. Advanced/metastatic RCC",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#7-4-1-local-therapy-of-advancedmetastatic-rcc",
+      "title": "7.4.1. Local therapy of advanced/metastatic RCC",
+      "level": 4,
+      "text": "7.4.1.a. Cytoreductive nephrectomy Tumour resection is potentially curative only if all tumour deposits are excised. This includes patients with the primary tumour in place and single or oligometastatic resectable disease. For most patients with metastatic disease, cytoreductive nephrectomy (CN) is palliative and systemic treatments are necessary. Two RCTs [501,566] and a narrative SR were identified [567]. The narrative SR included both RCTs and ten non-RCTs. CARMENA, a phase III noninferiority RCT investigating immediate CN followed by sunitinib versus sunitinib alone, showed that sunitinib alone was not inferior to CN followed by sunitinib with regard to OS [566]. The trial included 450 patients with metastatic ccRCC of intermediate and MSKCC poor risk, of whom 226 were randomised to immediate CN followed by sunitinib and 224 to sunitinib alone. Patients in both arms had a median of two metastatic sites. Patients in both arms had a tumour burden of a median/mean of 140mL of measurable disease by Response Evaluation Criteria in Solid Tumours (RECIST) 1.1, of which 80mL accounted for the primary tumour. The study did not reach the full accrual of 576 patients, and the Independent Data Monitoring Commission (IDMC) advised the trial steering committee to close the study. In an ITT analysis after a median follow-up of 50.9 months, median OS with CN was 13.9 months versus 18.4 months with sunitinib alone (HR: 0.89, 95% CI: 0.71-1.10). This was found in both risk groups. For MSKCC intermediate-risk patients (n = 256), median OS was 19.0 months with CN and 23.4 months with sunitinib alone (HR: 0.92, 95% CI: 0.60-1.24), and for MSKCC poor risk (n = 193), 10.2 months and 13.3 months, respectively (HR: 0.86, 95% CI: 0.62-1.17). Noninferiority was also found in two per-protocol analyses accounting for patients in the CN arm who either did not undergo surgery (n = 16) or did not receive sunitinib (n = 40), and patients in the sunitinib-only arm who did not receive the study drug (n = 11). Median PFS in the ITT population was 7.2 months with CN and 8.3 months with sunitinib alone (HR: 0.82, 95% CI: 0.67-1.00). The clinical benefit rate, defined as disease control beyond twelve weeks, was 36.6% with CN and 47.9% with sunitinib alone (p = 0.022). Of note, 38 patients in the sunitinib-only arm required secondary CN due to acute symptoms or for complete or near-complete response. The median time from randomisation to secondary CN was 11.1 months. The randomised EORTC SURTIME study revealed that the sequence of CN and sunitinib did not affect PFS (HR: 0.88, 95% CI: 0.59-1.37, p = 0.569). The trial accrued poorly and therefore results are mainly exploratory. However, in secondary endpoint analysis, a strong OS benefit was observed in favour of the deferred CN approach in the ITT population with a median OS of 32.4 (range 14.5-65.3) months in the deferred CN arm versus 15.0 (9.3-29.5) months in the immediate CN arm (HR: 0.57, 95% CI: 0.34-0.95, p = 0.032). The deferred CN approach appears to select patients with inherent resistance to systemic therapy [568]. This confirms previous findings from single-arm phase II studies [567,569]. Moreover, deferred CN and surgery appear safe after sunitinib, which supports the findings, with some caution, of the only available RCT. In patients with poor PS or IMDC poor risk, small primaries, and high metastatic volume and/or a sarcomatoid tumour, CN is not recommended [570]. These data are confirmed by CARMENA [448] and upfront pre-surgical VEGFR-targeted therapy followed by CN seems to be beneficial [562]. Meanwhile first-line therapy recommendations for patients with their primary tumour in place have changed to ICI combination therapy (see Section 7.4.2.4) with sunitinib and other VEGFR-TKI monotherapies reserved for those who cannot tolerate ICI combination or have no access to these drugs. High-level evidence regarding CN is not available for ICI combinations but up to 30% of patients with primary metastatic disease, treated with their tumour in place, were included in the pivotal ICI combination trials (Table 7.2). The subgroup HRs, where available, suggest better outcomes for the ICI combination compared to sunitinib monotherapy. In mRCC patients without a need for immediate drug treatment, an SR evaluating effects of CN demonstrated an OS advantage of CN [567]. These data were supported by a nation-wide registry study showing that patients selected for primary CN had a significant OS advantage across all age groups [571]. Table 7.2: Key trials on immune checkpoint inhibitor combinations for primary metastatic disease Key trials on immune checkpoint inhibitor combinations for primary metastatic disease     Trial Drug combination Number and % of patients treated with primary tumour in place Number of patients treated with the primary tumour in place  (ICI combination vs. sunitinib) Subgroup analyses (HR with 95% CIs)       ICI combination sunitinib PFS OS CheckMate 214 [572] ipilimu",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Key trials on immune checkpoint inhibitor combinations for primary metastatic disease",
+              " ",
+              " "
+            ],
+            [
+              "Trial",
+              "Drug combination",
+              "Number and % of patients treated with primary tumour in place",
+              "Number of patients treated with the primary tumour in place (ICI combination vs. sunitinib)",
+              "Subgroup analyses(HR with 95% CIs)"
+            ],
+            [
+              " ",
+              " ",
+              " ",
+              "ICI combination",
+              "sunitinib",
+              "PFS",
+              "OS"
+            ],
+            [
+              "CheckMate 214 [572]",
+              "ipilimumab + nivolumab",
+              "187/847 (22%)",
+              "84",
+              "103",
+              "NA",
+              "0.63(0.42-0.94)"
+            ],
+            [
+              "CheckMate 9ER [573]",
+              "cabozantinib + nivolumab",
+              "196/651 (30.1%)",
+              "101",
+              "95",
+              "0.63(0.43-0.92)",
+              "0.79(0.48-1.29)"
+            ],
+            [
+              "Javelin 101 [574]",
+              "axitinib + avelumab",
+              "179/886 (20.2%)",
+              "90",
+              "89",
+              "0.75(0.48-1.65)",
+              "NA"
+            ],
+            [
+              "KEYNOTE-426 [575]",
+              "axitinib + pembrolizumab",
+              "143/861 (16.6%)",
+              "73",
+              "70",
+              "0.68(0.45-1.03)",
+              "0.57(0.36-0.89)"
+            ],
+            [
+              "CLEAR[576]",
+              "lenvatinib + pembrolizumab",
+              "179/714 (25.1%)",
+              "97",
+              "82",
+              "0.38(0.31-0.48)",
+              "0.52(0.31-0.86)"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Deferred CN with presurgical sunitinib in intermediate-risk patients with clear cell metastatic RCC(ccm-RCC) shows a survival benefit in secondary endpoint analyses and selects outpatients with inherent resistance to systemic therapy.",
+              "2b"
+            ],
+            [
+              "Sunitinib alone is noninferior compared to immediate CN followed by sunitinib in patients with MSKCC intermediate and poor risk who require systemic therapy with VEGFR-TKI.",
+              "1a"
+            ],
+            [
+              "Cytoreductive nephrectomy in patients with simultaneous complete resection of a single metastasis or oligometastases may improve survival and delay systemic therapy.",
+              "3"
+            ],
+            [
+              "Patients with MSKCC or IMDC poor risk do not benefit from CN.",
+              "1a"
+            ],
+            [
+              "Patients with their primary tumour in place treated with IO-based combination therapy have better PFS and OS in exploratory subgroup analyses compared to treatment with sunitinib.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Do not perform cytoreductive nephrectomy (CN) in IMDC/MSKCC poor-risk patients.",
+              "Strong"
+            ],
+            [
+              "Do not perform immediate CN in intermediate-risk patients who have an asymptomatic synchronous primary tumour and require systemic therapy.",
+              "Weak"
+            ],
+            [
+              "Start systemic therapy without CN in intermediate-risk patients who have an asymptomatic synchronous primary tumour and require systemic therapy.",
+              "Weak"
+            ],
+            [
+              "Discuss delayed CN with patients who derive clinical benefit from systemic therapy.",
+              "Weak"
+            ],
+            [
+              "Perform immediate CN in patients with a good performance status who do not require systemic therapy.",
+              "Weak"
+            ],
+            [
+              "Perform immediate CN in patients with oligometastases when complete local treatment of the metastases can be achieved.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-4-2-therapy-of-oligometastatic-disease",
+      "title": "7.4.2. Therapy of oligometastatic disease",
+      "level": 4,
+      "text": "Therapy of oligometastatic disease (General considerations) In patient with low metastatic tumour burden, there is no generally accepted definition of oligometastatic disease and its various forms of clinical presentation with regard to dynamics, size, numbers and site of metastasis. However, two Delphi consensus approaches defined oligometastatic disease as one to five lesions at one side [581,582]. Metastatic disease is defined as synchronous or metachronous presentation. A metachronous interval of < 1 year for recurrences following surgery with curative intent is a poor prognostic factor by IMDC classification [302,583]. In addition, local treatment may lead to poorer outcomes compared to systemic therapy approaches as a relapse within the first 12 months and presentation with synchronous oligometastatic disease is attributed to the IMDC intermediate risk-group. Data from the TKI era suggest that patients with oligometastatic disease recurrence can be observed for up to a median of 16 months before systemic therapy is required and that this practice is common in real-world settings (30%) [584,585]. However, the general challenge is that a period of surveillance has never been investigated versus active local treatment or systemic therapy. Despite this, various modalities for local treatment of oligometastatic disease have evolved over time. Two SRs of the local treatment of metastases from RCC [586-588], including metastasectomy, various radiotherapy modalities, local ablation [589] and no local treatment, did not change the level of evidence due to the heterogeneity and risk of bias to recommend one over the other. In symptomatic patients, radiotherapy to brain and bone metastases relieved local symptoms. In non-symptomatic patients, different strategies include: 7.4.2.a. Complete versus no/incomplete metastasectomy An SR of eight studies reported a significantly longer median OS or CSS following complete metastasectomy [590-597]. 7.4.2.b. Local therapies for RCC metastases Various retrospective studies using metastasectomy, SBRT or local ablative therapy reported that local tumour control can be achieved. Due to the retrospective nature, cohort size and missing comparator, no definitive conclusion can be made if compared to active surveillance or immediate systemic therapy and with regard to OS. Prospectively, single arm phase II evaluation of metastasis-directed radiotherapy prolonged the time to start systemic therapy [598] by 34 months in oligometastatic disease. Several other RCTs with SBRT in oligometastatic setting are ongoing. 7.4.2.c. Adjuvant treatment in cM0 patients after metastasectomy Patients after metastasectomy and no evidence of disease (cM0) have a high risk of relapse. The results of nine comparative studies of post-metastasectomy adjuvant treatment requirement, summarised in a recent SR, concluded that there is no benefit in terms of OS and DFS [599]. Recent attempts to reduce RFS in randomised prospective phase II trials of sorafenib and pazopanib after metastasectomy did not demonstrate an improvement in RFS [201,202]. KEYNOTE-564 included a small percentage of patients who were treated by nephrectomy and complete metastasectomy within one year after primary diagnosis (6% in the experimental arm and 6% in the placebo arm) [552,553]. Patients with brain and bone metastases where not included [302,583]. Systemic therapy based on immune combinations has higher levels of evidence than surgery in this intermediate/advanced disease setting [600]. In addition, TKI-driven adjuvant trials after metastasectomy have shown no DFS or OS benefit [201,202]. Results for single-agent pembrolizumab post-surgery for metastatic disease are therefore difficult to interpret due to the small subgroup. The DFS HR of 0.40 (95% CI: 0.20-0.81) and OS HR was 0.51 (95% CI: 0.15-1.75) in favour of resection of M1 to NED plus pembrolizumab shows that patients with subclinical, but progressive, disease who were subjected to metastasectomy had a benefit of adjuvant systemic therapy with pembrolizumab. Based on the current data, it cannot be concluded that for patients with oligo-progressive disease, metastasectomy within the first year of initial diagnosis of the primary and subsequent adjuvant pembrolizumab is superior to a period of observation and dual IO-based combination first-line therapy upon progression. The Panel therefore does not encourage metastasectomy and adjuvant pembrolizumab in this population with recurrent disease within one year after primary surgery. A careful reassessment of disease status to rule out rapid progressive disease should be performed. Data from another adjuvant ICI study with the PD-L1 inhibitor atezolizumab (IMmotion010) also included an M1 NED subgroup which showed no DFS advantage [556]. This result underscores the need for caution in the treatment of the M1 NED subgroup. No prospective data is available for adjuvant therapy after local treatment with radiotherapy of ablation",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Retrospective comparative studies point towards a benefit of complete metastasectomy in mRCC patients in terms of OS, CSS and delay of systemic therapy.",
+              "3"
+            ],
+            [
+              "A single-arm prospective and retrospective study support that oligometastases can be observed for up to 16 months before systemic therapy is required due to progression.",
+              "2a"
+            ],
+            [
+              "Radiotherapy to bone and brain metastases from RCC can induce significant relief from local symptoms (e.g. pain).",
+              "3"
+            ],
+            [
+              "Tyrosine kinase inhibitors treatment after metastasectomy in patients with no evidence of disease did not improve RFS when compared to placebo or observation.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "To control local symptoms, offer ablative therapy, including metastasectomy, to patients with metastatic disease and favourable disease factors and in whom complete resection is achievable.",
+              "Weak"
+            ],
+            [
+              "Offer stereotactic radiotherapy for clinically relevant bone- or brain metastases for local control and symptom relief.",
+              "Weak"
+            ],
+            [
+              "Do not offer tyrosine kinase inhibitor treatment to metastatic RCC patients after metastasectomy and no evidence of disease.",
+              "Strong"
+            ],
+            [
+              "Perform a confirmatory axial scan of disease status prior to metastasectomy to rule out rapid progressive metastatic disease which requires systemic treatment.",
+              "Weak"
+            ],
+            [
+              "Before initiating systemic therapy for oligometastases that cannot be resected, discuss with your patient a period of observation until progression is confirmed.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-5-systemic-therapy-for-advancedmetastatic-rcc",
+      "title": "7.5. Systemic therapy for advanced/metastatic RCC",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#7-5-1-chemotherapy",
+      "title": "7.5.1. Chemotherapy",
+      "level": 4,
+      "text": "Chemotherapy has proven to be generally ineffective in the treatment of RCC, but can be offered to patients with collecting duct or medullary carcinoma [203]. 7.5.1.a. Recommendation for systemic therapy in advanced/metastatic RCC Recommendation Strength rating Do not offer chemotherapy to patients with metastatic RCC. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Do not offer chemotherapy to patients with metastatic RCC.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-5-2-targeted-therapies",
+      "title": "7.5.2. Targeted therapies",
+      "level": 4,
+      "text": "In sporadic ccRCC, HIF accumulation due to VHL inactivation results in overexpression of VEGF and platelet-derived growth factor (PDGF), which promote neoangiogenesis [601-603]. This process substantially contributes to the development and progression of RCC. Several targeting drugs for the treatment of mRCC are approved in both the USA and Europe. Most published trials have selected for clear-cell carcinoma subtypes, therefore, no robust evidence-based recommendations can be given for non-ccRCC subtypes. In major trials leading to registration of the approved targeted agents, patients were stratified according to the IMDC risk model (see Section 6.6 on prognostic models) [304]. 7.5.2.a. Tyrosine kinase inhibitors 7.5.2.a.1. Sunitinib Sunitinib is an oral TKI inhibitor and has antitumour and antiangiogenic activity. First-line monotherapy with sunitinib demonstrated significantly longer PFS compared with Interferon-alpha (IFN-α). Overall survival was greater in patients treated with sunitinib (26.4 months) versus IFN-α (21.8 months), despite crossover [604]. In the EFFECT trial, sunitinib 50mg/day (four weeks on, two weeks off) was compared with continuous uninterrupted sunitinib 37.5mg/day in patients with clear cell metastatic renal cell carcinoma (cc-mRCC) [605]. No significant differences in OS were seen (23.1 vs. 23.5 months, p = 0.615). Toxicity was comparable in both arms. Because of the nonsignificant, but numerically longer time to progression with the standard 50mg dosage, the authors recommended using this regimen. Alternate scheduling of sunitinib (two weeks on, one week off) is being used to manage toxicity, but robust data to support its use is lacking [606,607]. 7.5.2.a.2. Pazopanib Pazopanib is an oral angiogenesis inhibitor. In a trial of pazopanib versus placebo in treatment-naive mRCC patients and cytokine-treated patients, a significant improvement in PFS and tumour response was observed [608]. A noninferiority trial comparing pazopanib with sunitinib (COMPARZ) established pazopanib as an alternative to sunitinib. The results of the trial showed that pazopanib was not associated with significantly worse PFS or OS compared to sunitinib. The two drugs had different toxicity profiles, and QoL was better with pazopanib [609]. In another patient-preference study (PISCES), patients preferred pazopanib to sunitinib (70% vs. 22%, p < 0.05) due to symptomatic toxicity [610]. Both studies were limited in that intermittent therapy (sunitinib) was compared with continuous therapy (pazopanib). 7.5.2.a.3. Axitinib Axitinib is an oral selective second-generation inhibitor of VEGFR-1, -2 and -3. Axitinib was first evaluated as second-line treatment. In the AXIS trial, axitinib was compared to sorafenib in patients who had previously failed cytokine treatment or targeted agents (mainly sunitinib) [611]. The overall median PFS was greater for axitinib than sorafenib. Axitinib was associated with a greater PFS than sorafenib (4.8 vs. 3.4 months) after progression on sunitinib. Axitinib showed grade III diarrhoea in 11%, hypertension in 16% and fatigue in 11% of patients. Final analysis of OS showed no significant differences between axitinib or sorafenib [612]. In a randomised phase III trial of axitinib versus sorafenib in first-line treatment-naive cc-mRCC, a significant difference in median PFS between the treatment groups was not demonstrated, although the study was underpowered, raising the possibility of a type II error [613]. As a result of this study, axitinib is not approved for first-line therapy. 7.5.2.a.4. Cabozantinib Cabozantinib is an oral inhibitor of tyrosine kinase, including MET, VEGF and AXL. Cabozantinib was investigated in a phase I study in patients resistant to VEGFR and mTOR inhibitors demonstrating objective responses and disease control [260]. Based on these results an RCT investigated cabozantinib versus everolimus in patients with ccRCC failing one or more VEGF-targeted therapies (METEOR) [614,615]. Cabozantinib delayed PFS compared to everolimus in VEGF-targeted therapy refractory disease (HR: 0.58, 95% CI: 0.45-0.75) [614] (LE: 1b). The median OS was 21.4 months (95% CI: 18.7 to not estimable) with cabozantinib and 16.5 months (95% CI: 14.7-18.8) with everolimus in VEGF-resistant RCC. The HR for death was 0.66 (95% CI: 0.53-0.83, p = 0.0003) [500]. Grade III or IV adverse events were reported in 74% with cabozantinib and 65% with everolimus. Adverse events were managed with dose reductions; doses were reduced in 60% of the patients who received cabozantinib. The Alliance A031203 CABOSUN randomised phase II trial comparing cabozantinib and sunitinib in first line in 157 intermediate- and poor-risk patients favoured cabozantinib for RR and PFS, but not OS [616,617]. Cabozantinib significantly increased median PFS (8.2 vs. 5.6 months, adjusted HR: 0.66, 95% CI: 0.46-0.95; one-sided p = 0.012). Objective response rate was 46% (95% CI: 34-57) for cabozantinib versus 18% (95% CI: 1",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Single-agent VEGF-targeted therapy has been superseded by immune checkpoint-based combination therapy.",
+              "1b"
+            ],
+            [
+              "Intermittent VEGF therapy can be considered in patients on long-term VEGF-targeted therapy.",
+              "2"
+            ],
+            [
+              "Immuno-oncology VEGFR TKI combination established an RR and PFS benefit over single agent VEGFR TKI but no OS benefit in subgroup analysis.",
+              "2b"
+            ],
+            [
+              "Pazopanib is noninferior to sunitinib as first-line management option in mRCC.",
+              "1b"
+            ],
+            [
+              "Cabozantinib in intermediate- and poor-risk treatment-naive ccRCC leads to better response rates and PFS, but not OS when compared to sunitinib.",
+              "2b"
+            ],
+            [
+              "Tivozanib has been approved by the EMA in the first-line setting; however, it was randomised against sorafonib, which is no longer a standard of care in the first-line setting.",
+              "1b"
+            ],
+            [
+              "Single-agent VEGF-targeted therapies are preferentially recommended after first-line PD-L1-based combinations. Rechallenge with treatments already used should be avoided.",
+              "3"
+            ],
+            [
+              "Single-agent cabozantinib or nivolumab are superior to everolimus after one or more lines of VEGF-targeted therapy.",
+              "1b"
+            ],
+            [
+              "Everolimus prolongs PFS after VEGF-targeted therapy when compared to placebo. This is no longer widely recommended before third-line therapy.",
+              "1b"
+            ],
+            [
+              "Belzutifan has a PFS advantage and no OS benefit over everolimus in second and more lines pretreated ccRCC.",
+              "1b"
+            ],
+            [
+              "Lenvatinib in combination with everolimus improved PFS over everolimus alone in VEGF-refractory disease in a phase II trial. Its role after ICIs is uncertain. There is a lack of robust data on this combination, making its recommendation challenging.",
+              "2a"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-5-3-immunotherapy",
+      "title": "7.5.3. Immunotherapy",
+      "level": 4,
+      "text": "7.5.3.a. Immune checkpoint inhibitors 7.5.3.a.1. Immuno-oncology monotherapy Immune checkpoint inhibitor with monoclonal antibodies targets and blocks the inhibitory T-cell receptor PD-1 or cytotoxic T-lymphocyte-associated antigen-4 (CTLA-4)-signalling to restore tumour-specific T-cell immunity [631]. Immune checkpoint inhibitor monotherapy has been investigated as second- and third-line therapy. A phase III trial of nivolumab versus everolimus after one or two lines of VEGF-targeted therapy for mRCC with a clear cell component (CheckMate 025, NCT01668784) reported a longer OS, better QoL and fewer grade III or IV adverse events with nivolumab than with everolimus [632]. Nivolumab has superior OS to everolimus (HR: 0.73, 95% CI: 0.57-0.93, p < 0.002) in VEGF-refractory RCC with a median OS of 25 months for nivolumab and 19.6 months for everolimus with a five-year OS probability of 26% versus 18% [633] (LE: 1b). Patients who had failed multiple lines of VEGF-targeted therapy were included in this trial, making the results broadly applicable. The trial included 15% MSKCC poor-risk patients. There was no PFS advantage with nivolumab despite the OS advantage. Progression-free survival does not appear to be a reliable surrogate of outcome for PD-1 therapy in RCC. Currently PD-L1 biomarkers are not used to select patients for this therapy. There are no RCTs supporting the use of single-agent ICI in treatment-naive patients. Randomised phase II data for atezolizumab versus sunitinib showed an HR of 1.19 (95% CI: 0.82-1.71), which did not justify further assessment of atezolizumab as single agent as first-line treatment option in this group of patients, despite high complete response rates in the biomarker-positive population [634]. Single-arm phase II data for pembrolizumab from the KEYNOTE-427 trial show high response rates of 38% (up to 50% in PD-L1+ patients), but a PFS of 8.7 months (95% CI: 6.7-12.2) [634]. Based on these results and in the absence of randomised phase III data, single-agent checkpoint inhibitor therapy is not recommended as an alternative in a first-line therapy setting. In addition, several trials explored the strategy of nivolumab monotherapy in first-line ccRCC, followed by a salvage strategy with nivolumab plus ipilimumab upon progression or if stable disease was the best response. Trial results do not support such a strategy, which was frequently infeasible and of limited benefit [635,636]. This was confirmed in a pooled analysis of three of these trials [637]. However, recent data suggest that nivolumab monotherapy may yield extensive treatment-free survival in the IMDC favourable risk patient population [638]. 7.5.3.b. Immunotherapy/combination therapy The phase III trial CheckMate 214 (NCT 02231749) showed a superiority of nivolumab and ipilimumab over sunitinib. The primary endpoint population focused on the IMDC intermediate- and poor-risk population, where the combination demonstrated an OS benefit (HR: 0.63, 95% CI: 0.44-0.89), which led to regulatory approval [572] and a paradigm shift in the treatment of mRCC [639]. Results from CheckMate 214 further established that the combination of ipilimumab and nivolumab was associated with higher RR (39% in the ITT population), complete RR (8% in the ITT population [central radiology review]) and duration of response compared to sunitinib. Progression-free survival did not achieve the predefined endpoint. The exploratory analysis of OS data in the PD-L1-positive population was 0.45 (95% CI: 0.29-0.41). An update with median follow-up of more than nine years (111 months) shows ongoing benefits for the immune combination with independently assessed complete response rates of 12% and an HR for OS in the IMDC intermediate- and poor-risk group of 0.69 (0.59-0.81) [640,641]. However, this complete response rate has not been consistent across trials for this combination (the Cosmic313 study showed complete response rates of 4% [642,643]). In CheckMate 214, the 111-month OS probability was 31% for ipilimumab plus nivolumab versus 20% for sunitinib, respectively [641,644]. In this update, the IMDC good-risk group continues to perform better with sunitinib (HR for OS: 0.80 [95% CI: 0.59-1.09]) [641,644]. Nivolumab plus ipilimumab was associated with 46% grade III-IV toxicity and 1.5% treatment-related deaths. Nivolumab plus ipilimumab should therefore be administered in centres with experience with immune combination therapy and appropriate supportive care within the context of a multidisciplinary team (LE: 4). The PD-L1 biomarker is currently not used to select patients for therapy. Subset analysis of the favourable-risk group was not a primary endpoint of the trial. Initial results favoured sunitinb over nivolumab plus ipilimumab for this population, leading to a recommendation restricted to intermediate- and poor-risk disease. In updated results, after a median follow-up of 111 months, ipilimumab-nivolumab was associated with an OS HR: of (HR: ",
+      "tables": [
+        {
+          "rows": [
+            [
+              "First line immune checkpoint inhibitor combination trials for clear-cell RCC"
+            ],
+            [
+              "Study",
+              "N",
+              "Experimental arm",
+              "Primary endpoint",
+              "Risk groups",
+              "PFS (mo)Median (95% CI)HR",
+              "OS (mo)Median (95% CI)HR"
+            ],
+            [
+              "KEYNOTE-426NCT02853331Median follow-up 67 months[575,645-647]",
+              "861",
+              "PEMBRO 200 mg. IV Q3W plus AXI 5mg. PO BIDvs.SUN 50mg POQD 4/2 wks.",
+              "PFS and OS in the ITT by BICR",
+              "IMDCFAV 31%IMD 56%POOR 13%MSKCCNot determined",
+              "(ITT)PEMBRO + AXI:15.7 (13.6-20.2)SUN: 11.1 (8.9-12.5) HR: 0.69 (95% CI: 0.59-0.81)p < 0.0001",
+              "(ITT)PEMBRO + AXI: 47.2. (43.6-54.8)SUN: 40.8 (34.3-47.5)HR: 0.84 (95% CI: 0.71-0.99)p = 0.001"
+            ],
+            [
+              "JAVELIN Renal 101NCT02684006Median follow-up 68 months[574,650,656,657]",
+              "886",
+              "AVE 10mg/kg IV Q2W plus AXI, 5mg PO BIDvs.SUN 50mg PO QD 4/2 wks.",
+              "PFS in the PD-L1+ population and OS in the ITT by BICR",
+              "IMDCFAV 22%IMD 62%POOR 16%MSKCCFAV 23%IMD 66%POOR 12%",
+              "(PD-L1+)AVE + AXI: 13.9 (11.0-17.8)SUN: 8.2 (6.9-9.4)HR: 0.57 (95% CI: 0.47-0.7)p < 0.0001",
+              "(PD-L1+)AVE+AXI: 43.2 (36.5-51.7)SUN: 36.2 (29.8-44.2)HR: 0.86 (95% CI: 0.70-1.06)p = 0.0755"
+            ],
+            [
+              "IMmotion151NCT02420821Median follow-up 24 months [624,651]",
+              "915",
+              "ATEZO 1200mg fixed-dose IV plus BEV 15mg/kg IV on days 1 and 22 of each 42-day cyclevs.SUN 50mgPO QD 4/2 wks.",
+              "PFS in the PD-L1+ population and OS in the ITT by IR",
+              "IMDCNot determinedMSKCCFAV 20%IMD 69%POOR 12%",
+              "(PD-L1+)ATEZO + BEV: 11.2 (8.9-15.0)SUN: 7.7 (6.8-9.7)HR: 0.74 (95% CI: 0.57-0.96)p = 0.0217",
+              "(ITT)ATEZO + BEV: 36.1 (31.5-42.3)SUN: 35.3 (28.6-42.1 NE)HR: 0.91 (95% CI: 0.76-1.08)p = 0.27"
+            ],
+            [
+              "CheckMate214NCT02231749Median follow-up of 111 months [572,644]",
+              "1096",
+              "NIVO 3mg/kg plus ipilimumab 1mg/kg IV Q3W for 4 doses then nivolumab 3mg/kg IV Q2Wvs.SUN 50mg",
+              "PFS and OS in the IMDC intermediate and poor risk populationby BICR",
+              "IMDCFAV 23%IMD 61%POOR 17%MSKCCNot determined",
+              "(IMDC IMD/poor)NIVO + IPI: 12.4 (8.7-16.8)SUN: 8.5 (7-11.1)HR: 0.73 (0.61-0.87)",
+              "(IMDC IMD/poor)NIVO + IPI: 46.7(35-55.1)SUN: 26 (21.8-32.6)HR: 0.69 (0.59-0.81)"
+            ],
+            [
+              "CheckMate9ERNCT03141177Median follow-up of 44 months[573,654]",
+              "651",
+              "NIVO 240mg. fixed dose IV every 2 wks. plus CABO 40mg PO daily vs.SUN 50mg PO QD 4/2 wks.",
+              "PFS in the ITT by BICR",
+              "IMDCFAV 22%IMD 58%POOR 20%MSKCCNot determined",
+              "(ITT)NIVO+CABO: 16.6 (12.5-19.3)SUN: 8.3 (7.0-9.7)HR: 0.58 (95% CI: 0.49-0.70)p < 0.0001",
+              "(ITT)NIVO+CABO: 46.5 (40.5-53.8)SUN: 35.5 (29.2-42.9)HR: 0.79 (98.9% CI: 0.65-0.96)"
+            ],
+            [
+              "CLEARNCT02811861Median follow-up of 49.8 months [576,649,658]",
+              "712",
+              "PEMBRO 200mg IV Q3W plus LEN 20mg PO QDvs.SUN 50mg PO QD 4/2 wks.",
+              "PFS in the ITT by BIRC",
+              "IMDCFAV 31%IMD 59%POOR 9%NE 1%MSKCCFAV 27%IMD 64%POOR 9%",
+              "(ITT)PEMBRO+LEN: 23.9 (20.8-27.7)SUN: 9.2 (6.0-11.0)HR: 0.47 (95% CI: 0.38-0.57) p > 0.001",
+              "(ITT)PEMBRO+LEN: 23.9 (20.8-27.7)SUN: 9.2 (6.0-11.0)HR: 0.47 (95% CI: 0.38-0.57) p < 0.001"
+            ],
+            [
+              "RENOTORCHNCT04394975Median follow-up of 14.6 months [652,653]",
+              "421",
+              "TORI 240mg IV Q3W plus AXI 5mg. PO BIDvs.SUN 50mg POQD 4/2 wks. or QD 2/1wks.",
+              "PFS in the ITT by BIRC",
+              "IMDCIMD 81%POOR 19%",
+              "(ITT)TORI+AXI: 18.0 (15.0-N.E)SUN: 9.8 (8.3-13.8)HR: 0.65 (95% CI: 0.49-0.86) p = 0.0028",
+              "(ITT)TORI+AXI: N.E. (N.E.-N.E.)SUN: 26.8 (24.5-N.E.)HR: 0.61 (95% CI: 0.40-0.92)"
+            ],
+            [
+              "ETER100NCT04523272Median follow-up of 18.7 months [653]",
+              "531",
+              "BENMEL 1200mg IV Q3W plusANLO 12mg PO QD 2/1 wks.vs.SUN 50mg PO QD 4/2 wks.",
+              "PFS in the ITT by BIRC",
+              "IMDCFAV 14%IMD 71%POOR 15%",
+              "(ITT)BENMEL+ANLO: 19.0 (15.3-22.8)SUN: 9.8 (8.4-12.4)HR: 0.53 (95% CI: 0.42-0.67) p < 0.001",
+              "(ITT)BENMEL+ANLO: N.E. (38.2-N.E.)SUN: N.E. (30.5-N.E.)HR: 0.66 (95% CI: 0.48-0.92) p = 0.0673"
+            ],
+            [
+              "COSMIC-313Median follow-up of 20.2 months [642]",
+              "855",
+              "NIVO 3mg/kg plus IPI 1mg/kg IV Q3W for 4 doses then NIVO 3mg/kg IV Q2W + CABO 40mg PO QDvs. NIVO 3mg/kg plus IPI 1mg/kg IV Q3W for 4 doses then NIVO 3mg/kg IV Q2W",
+              "PFS in thePITT population (first 550 pts. randomised)",
+              "IMDCIMD 75%POOR 25%",
+              "(PITT)NIVO+IPI+CABO:NR (14.0-NE)NIVO+IPI: 11.3 (7.7-18.2)HR: 0.73 (95% CI: 0.57-0.94) p = 0.013",
+              "NR"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-5-4-therapeutic-strategies",
+      "title": "7.5.4. Therapeutic strategies",
+      "level": 4,
+      "text": "7.5.4.a. Treatment-naïve patients with clear-cell metastatic RCC The combination of pembrolizumab plus axitinib as well as nivolumab plus cabozantinib and lenvatinib plus pembrolizumab is the standard of care in all IMDC-risk patients and ipilimumab plus nivolumab in IMDC intermediate- and poor-risk patients (see Figure 7.1). Therefore, the role of VEGFR-TKIs alone in front-line mRCC has been superseded in IMDC intermediate and poor risk. In the IMDC favourable group, in the absence of OS benefit, both options are acceptable. Sunitinib, pazopanib, tivozanib and cabozantinib (IMDC intermediate- and poor-risk disease) remain alternative treatment options for patients who cannot receive or tolerate immune checkpoint inhibition in this setting (see Figure 7.1). 7.5.4.a.1. Sequencing systemic therapy in clear-cell metastatic RCC The sequencing of targeted therapies is established in mRCC and maximises outcomes [618,632]. Pembrolizumab plus axitinib, nivolumab plus cabozantinib, lenvatinib plus pembrolizumab and nivolumab plus ipilimumab are the new standard of care in front-line therapy in IMDC intermediate/poor. The impact of front-line immune checkpoint inhibition on subsequent therapies is unclear. Randomised data on patients with disease refractory to either nivolumab plus ipilimumab or TKI plus IO in a first-line setting are limited. Sequencing immune checkpoint inhibition with atezolizumab did not demonstrate objective response rate, PFS or OS benefit over single agent TKI in the CONTACT 03 [564,660]. In addition, in the TiNivo trial, the combination of tivoazanib plus nicvolumab did not improve PFS, OS and objective response rate over single-agent tivozanib [565]. Moreover, prospective data on cabozantinib, tivozanib [661] and axitinib are available for patients progressing on immunotherapy, but these studies do not focus solely on the front-line setting, involve subset analyses and are too small for definitive conclusions [632,662]. The use of mTOR inhibitors can be considered in VEGF-targeted therapy refractory disease but has been outperformed by other VEGF-targeted therapies in mRCC and belzutifan [628,663]. Drug choice in the third-line setting, after immune checkpoint inhibitor combinations and subsequent VEGF-targeted therapy, is unknown. The Panel recommends a subsequent agent that is approved in VEGF-refractory disease, with the exception of rechallenge with immune checkpoint blockade. Cabozantinib is the only agent in VEGF-refractory disease with RCT data showing a survival advantage and should be used preferentially [664]. Axitinib has positive PFS data in VEGF-refractory disease. Other agents have outperformed both sorafenib and everolimus in VEGF-refractory disease and are therefore less attractive [663]. The lenvatinib plus everolimus combination appears superior to everolimus alone and has been granted EMA regulatory approval based on randomised phase II data. This is an alternative despite the availability of phase II data only [618]. As shown in a study which also included patients on ICIs, tivozanib provides PFS superiority over sorafenib in VEGF-refractory disease [665]. 7.5.4.a.2. Summary of evidence and recommendations for immunotherapy in cc-mRCC Summary of evidence LE Treatment-naïve patients PD-L1 expression is not currently used for patient selection. 2b The combination of nivolumab and ipilimumab in treatment-naïve patients with cc-mRCC of IMDC, intermediate and poor risk demonstrated OS and objective response rate benefits compared to sunitinib alone. 1b The updated OS data for IPI/NIVO in IMDC favourable-risk patients demonstrates the long-term benefit for this subgroup of patients. 2b The combination of pembrolizumab plus axitinib, lenvatinib plus pembrolizumab and nivolumab plus cabozantinib in treatment-naïve patients with cc-mRCC demon-strated PFS, OS and objective response rate benefits compared to sunitinib in the ITT population. 1b The combination of pembrolizumab plus axitinib, lenvatinib plus pembrolizumab and nivolumab plus cabozantinib in treatment-naïve patients with cc-mRCC in IMDC-favourable subgroups demonstrated PFS and objective response rate benefits com-pared to sunitinib, without OS improvement. 2b The combination of axitinib plus avelumab did not demonstrate significant OS benefit and axitinib plus toripalimab did not demonstrate significant OS benefit yet, as did benmelstobart plus anlotinib. 1b Triplet CABO-NIVO-IPI demonstrated a PFS benefit over NIVO-IPI. 1b Sequencing systemic therapy Nivolumab leads to superior OS compared to everolimus in disease progression after one or two lines of VEGF-targeted therapy. 1b Axitinib, cabozantinib or lenvatinib can be continued if immune-related adverse events result in cessation of axitinib plus pembrolizumab, cabozantinib plus nivolumab or lenvatinib plus pembrolizumab. Rechallenge with immunotherapy requires expert support. 4 Patients who do not receive the full four doses of ipilimumab due to toxicity should con",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Treatment-naïve patients"
+            ],
+            [
+              "PD-L1 expression is not currently used for patient selection.",
+              "2b"
+            ],
+            [
+              "The combination of nivolumab and ipilimumab in treatment-naïve patients with cc-mRCC of IMDC, intermediate and poor risk demonstrated OS and objective response rate benefits compared to sunitinib alone.",
+              "1b"
+            ],
+            [
+              "The updated OS data for IPI/NIVO in IMDC favourable-risk patients demonstrates the long-term benefit for this subgroup of patients.",
+              "2b"
+            ],
+            [
+              "The combination of pembrolizumab plus axitinib, lenvatinib plus pembrolizumab and nivolumab plus cabozantinib in treatment-naïve patients with cc-mRCC demon-strated PFS, OS and objective response rate benefits compared to sunitinib in the ITT population.",
+              "1b"
+            ],
+            [
+              "The combination of pembrolizumab plus axitinib, lenvatinib plus pembrolizumab and nivolumab plus cabozantinib in treatment-naïve patients with cc-mRCC in IMDC-favourable subgroups demonstrated PFS and objective response rate benefits com-pared to sunitinib, without OS improvement.",
+              "2b"
+            ],
+            [
+              "The combination of axitinib plus avelumab did not demonstrate significant OS benefit and axitinib plus toripalimab did not demonstrate significant OS benefit yet, as did benmelstobart plus anlotinib.",
+              "1b"
+            ],
+            [
+              "Triplet CABO-NIVO-IPI demonstrated a PFS benefit over NIVO-IPI.",
+              "1b"
+            ],
+            [
+              "Sequencing systemic therapy"
+            ],
+            [
+              "Nivolumab leads to superior OS compared to everolimus in disease progression after one or two lines of VEGF-targeted therapy.",
+              "1b"
+            ],
+            [
+              "Axitinib, cabozantinib or lenvatinib can be continued if immune-related adverse events result in cessation of axitinib plus pembrolizumab, cabozantinib plus nivolumab or lenvatinib plus pembrolizumab. Rechallenge with immunotherapy requires expert support.",
+              "4"
+            ],
+            [
+              "Patients who do not receive the full four doses of ipilimumab due to toxicity should continue on single-agent nivolumab, where safe and feasible. Rechallenge with combination therapy requires expert support.",
+              "4"
+            ],
+            [
+              "Treatment past progression can be justified but requires close scrutiny and the support of an expert multidisciplinary team.",
+              "1b"
+            ],
+            [
+              "Nivolumab plus ipilimumab was associated with 46% grade III-IV toxicity and 1.5% treatment-related deaths. Tyrosine kinase inhibitor-based IO combination therapies were associated with grade III-V toxicity ranging between 61-72% and 1% of treatmentrelated deaths.",
+              "1b"
+            ],
+            [
+              "In the CONTACT 3 study atezolizomab plus cabozantinib offered no benefit compared to cabozantinib alone in patients whose cancers have previously progressed on ICI therapy.",
+              "1b"
+            ],
+            [
+              "Cabozantinib as a single agent has the most robust data after first line PD1 based combination therapy.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "First line Treatment for metastatic clear cell RCC patients"
+            ],
+            [
+              "Offer nivolumab plus ipilimumab, pembrolizumab plus axitinib, lenvatinib plus pembrolizumab or nivolumab and cabozantinib to patients with International Metastatic Renal Cell Carcinoma Database Consortium (IMDC) intermediate- or poor-risk disease.",
+              "Strong"
+            ],
+            [
+              "Offer pembrolizumab plus axitinib, lenvatinib plus pembrolizumab or nivolumab and cabozantinib or nivolumab plus ipilimumab or sunitinib or pazopanib for IMDC favourable risk disease.",
+              "Weak"
+            ],
+            [
+              "Offer sunitinib or pazopanib to patients with any IMDC risk who cannot receive or tolerate immune checkpoint inhibition (ICI).",
+              "Strong"
+            ],
+            [
+              "Offer cabozantinib to patients with IMDC intermediate- and poor-risk clear cell metastatic renal carcinoma (cc-mRCC) who cannot receive or tolerate ICI.",
+              "Stronga"
+            ],
+            [
+              "Patients who do not receive the full four doses of ipilimumab due to toxicity should continue on single-agent nivolumab, where safe and feasible. Re-challenge with combination therapy requires expert support after discontinuation for toxicity.",
+              "Weak"
+            ],
+            [
+              "Offer ICI combination therapy for advanced cc-mRCC with sarcomatoid features.",
+              "Strong"
+            ],
+            [
+              "Intermittent single agent vascular endothelial growth factor (VEGF)-tyrosine kinase inhibitors (TKI) can be offered in case of partial response or stable disease for more than six months.",
+              "Weak"
+            ],
+            [
+              "Sequencing systemic therapy for metastatic clear cell RCC"
+            ],
+            [
+              "Do not offer ICI monotherapy or combination therapy to patients with recurrence during or within six months after adjuvant pembrolizumab.",
+              "Weak"
+            ],
+            [
+              "Sequence systemic therapy in treating metastatic RCC.",
+              "Strong"
+            ],
+            [
+              "Offer carbozantinib or other VEGF-TKI as second-line therapy to patients’ refractory to nivolumab plus ipilimumab or axitinib plus pembrolizumab or cabozantinib plus nivolumab or lenvatinib plus pembrolizumab.",
+              "Strong"
+            ],
+            [
+              "Sequencing the agent not used as second-line therapy (nivolumab or cabozantinib) for third-line therapy is recommended.",
+              "Weak"
+            ],
+            [
+              "Offer nivolumab or cabozantinib for those patients who received first line VEGF targeted therapy alone.",
+              "Strong"
+            ],
+            [
+              "Treatment past progression can be justified but requires close scrutiny and the support of an expert multidisciplinary team.",
+              "Weak"
+            ],
+            [
+              "Do not re-challenge patients who stopped ICI due to toxicity without expert guidance and support from a multidisciplinary team.",
+              "Strong"
+            ],
+            [
+              "Do not offer programmed death-ligand 1 (PD-L1) combination therapy after progression after ICI combination.",
+              "Weak"
+            ],
+            [
+              "Offer belzutifan as an alternative to everolimus in patients previously treated with second- to fourth-line therapy for clear cell metastatic RCC.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Study",
+              "N (ITT)",
+              "Therapy",
+              "N (sRCC)",
+              "PFS (mo.)Median (95% CI)HR",
+              "OS (mo.)Median (95% CI)HR",
+              "ORR (%)(95% CI)"
+            ],
+            [
+              "KEYNOTE-426NCT02853331Median follow-up 12.8 months[645]",
+              "861",
+              "PEMBRO + AXISUN",
+              "5154",
+              "NR8.4HR: 0.54 (0.29-1.00)",
+              "NRNRHR: 0.58(0.21-1.59)",
+              "58.831.5"
+            ],
+            [
+              "JAVELIN 101NCT02684006[650,668,669]",
+              "886",
+              "AVE + AXISUN",
+              "4761",
+              "7.0 (5.3-13.8)4.0 (2.7-5.7)HR: 0.57 (0.33-1.00)",
+              "NA",
+              "46.8 (32.1-61.9)21.3 (11.9-33.7)"
+            ],
+            [
+              "IMmotion151NCT02420821Median follow-up 13 to 17 months[670]",
+              "915",
+              "ATEZO + BEVSUN",
+              "6874",
+              "8.3(5.4, 12.9)5.3(3.3, 6.7)HR: 0.52 (0.34-0.79)",
+              "21.7(15.3, NE)15.4(10.4, 19.5)HR: 0.64 (0.41, 1.01)",
+              "49 (36-1)14 (7-23)"
+            ],
+            [
+              "CheckMate214NCT02231749minimum follow-up of 60 months[666]",
+              "1096",
+              "NIVO + IPISUN",
+              "IMDC Intermediate and poor risk7475",
+              "26.5 (7.2-NE)5.5 (4.1-6.9)HR: 0.50 (0.32‒0.80)",
+              "48.6 (25.2‒NE)14.2 (9.3‒22.9)HR: 0.46 (0.29‒0.71)",
+              "60.8 (48.8-72.0)23.1 (13.5-35.2)"
+            ],
+            [
+              "CheckMate 9ERNCT03141177Median follow-up 16 months [671]",
+              "651",
+              "NIVO + CABOSUN",
+              "3441",
+              "10.3 (5.6-19.4)4.2 (2.6-8.3)HR: 0.42 (0.23-0.74)",
+              "NR (22.8-NE)19.7 (8.9-29.5)HR: 0.36 (0.17-0.79)",
+              "55.9(37.9-72.8)22.0(10.6-37.6)"
+            ],
+            [
+              "CLEARNCT02811861Median follow-up 27 months[576,672]",
+              "712",
+              "PEMBRO + LENSUN",
+              "2821",
+              "11.15.5HR: 0.39 (0.18-0.84)",
+              "NENEHR: 0.91 (0.32-2.58)",
+              "60.723.8"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Immune checkpoint inhibitor combination therapy is superior to sunitinib in terms of PFS and OS in trial subset analysis of clear-cell RCC with sarcomatoid features.",
+              "2a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Offer immune checkpoint inhibitor combination therapy for advanced clear cell metastatic RCC with sarcomatoid features.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Cabozantinib improved PFS over sunitinib in patients with advanced pRCC without additional molecular testing.",
+              "2a"
+            ],
+            [
+              "Lenvatinib plus pembrolizumab and cabozantinib plus nivolumab demonstrated response rates of 47-54% with median PFS rates > 12 months.",
+              "2a"
+            ],
+            [
+              "Pembrolizumab resulted in long-term median OS in a single-arm study in the pRCC subgroup.",
+              "2a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer cabozantinib to patients with papillary RCC (pRCC) based on a positive randomised controlled trial.",
+              "Weak"
+            ],
+            [
+              "Offer lenvatinib plus pembrolizumab or nivolumab plus cabozantinib to patients with pRCC based on small single-arm trials.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Both mTOR inhibitors and VEGF-targeted therapies have limited activity in non-cc-mRCC. There is a nonsignificant trend for improved oncological outcomes for sunitinib over everolimus and for cabozantinib over sunitinib.",
+              "2a"
+            ],
+            [
+              "In non-cc-mRCC, sunitinib improved PFS over everolimus in an SR of phase II trials and subgroups of patients.",
+              "1a"
+            ],
+            [
+              "In non-cc-mRCC lenvatinib plus pembrolizumab demonstrated clinical efficacy in various non-ccRCC subgroups.",
+              "2a"
+            ],
+            [
+              "In non-cc-mRCC cabozantinib plus nivolumab demonstrated clinical efficacy in various non-ccRCC subgroups except for chromophobe RCC, which were excluded from the study.",
+              "2a"
+            ],
+            [
+              "OS rate at 12 months was significantly higher with nivolumab plus ipilimumab than with SOC in non-ccRCC patients.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer sunitinib to patients with other non-clear cell renal cell carcinoma (cc-RCC) subtypes than papillary RCC.",
+              "Weak"
+            ],
+            [
+              "Offer lenvatinib plus pembrolizumab to patients with non-ccRCC subtypes.",
+              "Weak"
+            ],
+            [
+              "Offer cabozantinib and nivolumab to patients with non-ccRCC subtypes other than chromophobe RCC.",
+              "weak"
+            ],
+            [
+              "Offer nivolumab plus ipilimumab in patients with non-ccRCC.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-6-locally-recurrent-rcc-after-treatment-of-localised-disease",
+      "title": "7.6. Locally recurrent RCC after treatment of localised disease",
+      "level": 3,
+      "text": "Most studies reporting on local recurrent disease after removal of the kidney have not considered the true definition of local recurrence after RN, PN and thermal ablation, which are: local recurrence in the tumour-bearing kidney, tumour growth exclusively confined to the true renal fossa, recurrences within the renal vein, the ipsilateral adrenal gland or the regional LNs. In the existing literature the topic is weakly investigated and often regarded as local recurrent disease. RECUR is a protocol-based multicentre European registry capturing patient and tumour characteristics, risk of recurrence (RoR), recurrence patterns and survival of those curatively treated for nonmetastatic RCC from 2006 to 2011. Per-protocol resectable disease (RD) recurrence was defined as: (1) solitary metastases, (2) oligometastases, or (3) renal fossa or renal recurrence after radical or partial nephrectomy, respectively. Within the RECUR consortium, the authors assessed the effectiveness of local treatment of resectable recurrent RCC after surgical treatment of the primary kidney tumour [702]. Of 3,039 patients with localised RCC treated with curative intent, 505 presented with recurrence, including 176 with RD. Of these patients, 97 underwent local treatment of recurrence (LTR) and 79 no LTR. The median OS was 70.3 mos. versus 27.4 in the LTR versus no-LTR group (p < 0.001). The LTR effect on survival was consistent across risk groups. OS HR for high, intermediate and low risks were 0.36 (0.2-0.64), 0.27 (0.11-0.65) and 0.26 (0.08-0.8), respectively. Local treatment of recurrence was associated with longer survival across groups with a risk of recurrence [702]",
+      "tables": []
+    },
+    {
+      "anchor": "#7-6-1-locally-recurrent-rcc-after-nephron-sparing-approaches",
+      "title": "7.6.1. Locally recurrent RCC after nephron-sparing approaches",
+      "level": 4,
+      "text": "Locally recurrent disease can affect the tumour-bearing kidney after PN or focal ablative therapy such as RFA and cryotherapy. Local relapse may be due to the incomplete resection of the primary tumour, in a minority of the cases to the local spread of the tumour by microvascular embolisation, or true multifocality [230,703]. The prognosis of recurrent disease not due to multifocality is poor, despite salvage nephrectomy [703]. Recurrent tumour growth in the regional LNs or ipsilateral adrenal gland may reflect metachronous metastatic spread (see Section 7.3). After treatment solely for localised disease, systemic progression is common [704,705]. There are reports that minimally invasive approaches (laparoscopic and robotic) show atypical reoccurrence (e.g. peritoneal, port site, etc.) [706,707]. Therefore, specific manoeuvres to prevent tumour-cell contamination should be implemented. Those include the use of extraction bags, minimising trocar CO 2 leakage, avoiding tumour morcellation, cleansing of instruments before reuse, changing of gloves after tumour extraction, avoiding violation of the tumour’s natural capsule, and cleansing of port sites [706,707]. A retrospective study relying on inverse probability of treatment weighting (IPTW) and comparing percutaneous ablation and surgical resection for an isolated local recurrence (LR) following PN [708]. A total of 81 patients with an isolated LR were included and treated with either ablation (30 RFA and 12 cryoablation) or surgical resection (8 PN and 31 RN). Percutaneous ablation was associated with a significantly lower risk of postoperative complications (5% with PCA vs. 41% with PN; OR: 0.22; p = 0.006) and a smaller change in estimated GFR. There were no significant differences in the risk of disease recurrence (HR: 0.72; p = 0.61), new LR (HR: 1.51; p = 0.59) and distant metastasis (HR: 0.19; p = 0.09) [708]. Following thermal ablation or cryotherapy generally intrarenal, but also perirenal, recurrences have been reported in up to 14% of cases [709]. Whereas repeat ablation is still recommended as the preferred therapeutic option after treatment failure, the most effective salvage procedure as an alternative to complete nephrectomy has not yet been defined.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-6-2-locally-recurrent-rcc-after-radical-nephrectomy",
+      "title": "7.6.2. Locally recurrent RCC after radical nephrectomy",
+      "level": 4,
+      "text": "Isolated local fossa recurrence is rare and occurs in about 1-3% after radical nephrectomy. Recurrence is more common in pT3-4 than pT1-2 and grade III-IV disease. Most patients with local recurrence of RCC are diagnosed by either CT/MRI scans as part of the postoperative follow-up [710]. The median time to recurrence after RN was 19-36 months in isolated local recurrence or 14.5 months in the group, including metastatic cases as well [710-712]. Isolated local recurrence is associated with worse survival [230,713]. Based on retrospective and noncomparative data only, several approaches, such as surgical excision, radiotherapy, systemic treatment and observation, have been suggested for the treatment of isolated local recurrence [714-716]. Among these alternatives, surgical resection with negative margins remains the only therapeutic option shown to be associated with improved survival [713]. Open surgery has been successfully reported in studies [717,718]. One of the largest series including 2,945 patients treated with RN reported on 54 patients with recurrent disease localised in the renal fossa, the ipsilateral adrenal gland or the regional LNs as sole metastatic sites [714]. Another series identified 33 patients with isolated local recurrences and 30 local recurrences with synchronous metastases within a cohort of 2,502 surgically treated patients, confirming the efficacy of locally directed treatment versus conservative approaches (observation, systemic therapy) [719]. The five-year OS with isolated local recurrence was 60% (95% CI: 0.44-0.73) and ten-year OS was 32% (95% CI: 0.15-0.51). Overall survival differed significantly by the time period between primary surgery and occurrence of recurrence (< 2 years vs. > 2 years: ten-year OS rate 31% (95% CI: 10.2-55.0) versus 45% (95% CI: 21.5-65.8; HR: 0.26; p = 0.0034) [710]. Metastatic progression was observed in 60 patients (58.8%) after surgery [711]. Patient survival can be linked to the type of treatment received, as shown in a cohort of 96 patients, 45.8% were metastatic at the time of recurrence; three-year CSS rates after local recurrence were 92.3% ± 7.4%) for those who were treated with surgery and systemic therapy, 63.2% ± 13.2%) for those who only underwent surgery, 22.7% ± 0.9%) for those who only received systemic therapy and 20.5% ± 10.4%) for those who received no treatment (p < 0.001) [712]. A retrospective multicentre study of patients with local retroperitoneal recurrence after RN with or without surgical treatment from 2008 to 2020. Retroperitoneal recurrence of RCC was defined as an ipsilateral recurrence confined to the renal fossa, adrenal gland or retroperitoneal lymph nodes after prior nephrectomy, which was diagnosed by cross-sectional imaging. Treatment with retroperitoneal recurrence surgery resulted in significantly longer CSS than targeted therapy alone (P < 0.001). In multivariable analysis, high Fuhrman grade, size of retroperitoneal recurrence tumour, mixed type of retroperitoneal recurrence, multiple recurrence lesions and the absence of retroperitoneal recurrence surgery were associated with a significantly increased risk of death from RCC, suggesting that an aggressive surgical resection of retroperitoneal recurrence after RN represents a potentially curative treatment for selected RCC patients without synchronous metastases, resulting in significantly longer CSS than targeted therapy alone [720]. Minimally invasive approaches, including standard and hand-assisted laparoscopic and robotic approaches for the resection of isolated RCC recurrences, have been reported. A large surgical cohort published of robotic surgery in this setting (n = 35) providing a standardisation of the nomenclature, describing the surgical technique for each scenario and reporting on complications, renal function and oncologic outcomes [721]. Ablative therapies, including cryoablation, radiofrequency and microwave ablation, may also have a role in managing recurrent RCC patients, but further validation will be needed [722,723]. In summary, the limited available evidence suggests that, in selected patients, surgical removal of locally recurrent disease with negative margins can induce durable tumour control, although with expected high risk of complications. A retrospective review on 51 planned repeat PNs in 47 patients with locally recurrent disease, reporting a total of 40 peri-operative complications, with temporary urinary extravasation being the most prevalent [724]. Since local recurrences develop early, with a median time interval of 10-20 months after treatment of the primary tumour [725], a guideline-adapted follow-up scheme for early detection is recommended (see Chapter 9, ‘Follow-up’), even though benefit in terms of cancer control has not yet been demonstrated [726]. Adverse prognostic parameters are a short time interval since treatment of the primary tumour (< 3-12 months) [727], sarcomatoid differentiation of the recurrent lesion and",
+      "tables": []
+    },
+    {
+      "anchor": "#7-6-3-summary-of-evidence-and-recommendation-on-locally-recurrent-rcc-after-treatment-of-localised-disease",
+      "title": "7.6.3. Summary of evidence and recommendation on locally recurrent RCC after treatment of localised disease",
+      "level": 4,
+      "text": "Summary of evidence LE Isolated recurrence after nephron-sparing procedures or nephrectomy is a rare entity (< 2%). 3 Surgical or percutaneous treatment of local recurrences in absence of systemic progression should be considered, especially in the absence of adverse prognostic parameters and favourable performance status. 3 The most optimal modality of local treatment for locally recurrent RCC after nephron sparing procedures or nephrectomy is not defined. 3 Recommendation Strength rating Offer local treatment of locally-recurrent disease when technically possible and after balancing adverse prognostic features, comorbidities and life expectancy. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Isolated recurrence after nephron-sparing procedures or nephrectomy is a rare entity (< 2%).",
+              "3"
+            ],
+            [
+              "Surgical or percutaneous treatment of local recurrences in absence of systemic progression should be considered, especially in the absence of adverse prognostic parameters and favourable performance status.",
+              "3"
+            ],
+            [
+              "The most optimal modality of local treatment for locally recurrent RCC after nephron sparing procedures or nephrectomy is not defined.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Offer local treatment of locally-recurrent disease when technically possible and after balancing adverse prognostic features, comorbidities and life expectancy.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 32
+}

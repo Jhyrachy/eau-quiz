@@ -1,0 +1,1169 @@
+{
+  "guideline": "penile-cancer",
+  "chapter": "disease-management",
+  "url": "https://uroweb.org/guidelines/penile-cancer/chapter/disease-management",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Preface",
+      "anchor": "#1-5-preface"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review and future goals",
+      "anchor": "#2-2-review-and-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AETIOLOGY AND PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definition of penile cancer",
+      "anchor": "#3-1-definition-of-penile-cancer"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Risk factors, prognosis and prevention",
+      "anchor": "#3-3-risk-factors-prognosis-and-prevention"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Pathology",
+      "anchor": "#3-4-pathology"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Gross handling of pathology specimens",
+      "anchor": "#3-4-1-gross-handling-of-pathology-specimens"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Pathology report",
+      "anchor": "#3-4-2-pathology-report"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Grading",
+      "anchor": "#3-4-3-grading"
+    },
+    {
+      "level": 4,
+      "text": "3.4.4. Pathological prognostic factors",
+      "anchor": "#3-4-4-pathological-prognostic-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.4.5. Penile cancer and HPV",
+      "anchor": "#3-4-5-penile-cancer-and-hpv"
+    },
+    {
+      "level": 4,
+      "text": "3.4.6. Penile biopsy: pathological and technical considerations",
+      "anchor": "#3-4-6-penile-biopsy-pathological-and-technical-considerations"
+    },
+    {
+      "level": 4,
+      "text": "3.4.7. Summary of evidence and guidelines for the pathological assessment of tumour specimens",
+      "anchor": "#3-4-7-summary-of-evidence-and-guidelines-for-the-pathological-assessment-of-tumour-specimens"
+    },
+    {
+      "level": 2,
+      "text": "4. CLASSIFICATION SYSTEMS",
+      "anchor": "#4-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Tumour, node and metastasis classification",
+      "anchor": "#4-1-tumour-node-and-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Cancer stage grouping",
+      "anchor": "#4-2-cancer-stage-grouping"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION AND STAGING",
+      "anchor": "#5-diagnostic-evaluation-and-staging"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Primary lesion",
+      "anchor": "#5-1-primary-lesion"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Physical examination",
+      "anchor": "#5-1-1-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Imaging of the primary tumour",
+      "anchor": "#5-1-2-imaging-of-the-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "5.1.3. Penile biopsy: indications",
+      "anchor": "#5-1-3-penile-biopsy-indications"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Lymph node staging",
+      "anchor": "#5-2-lymph-node-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Physical examination",
+      "anchor": "#5-2-1-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Clinically node-negative (cN0)",
+      "anchor": "#5-2-2-clinically-node-negative-cn0"
+    },
+    {
+      "level": 4,
+      "text": "5.2.3. Clinically node-positive (cN+)",
+      "anchor": "#5-2-3-clinically-node-positive-cn"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Genomic testing",
+      "anchor": "#5-3-genomic-testing"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Summary of evidence and guidelines for the diagnosis and staging of penile cancer",
+      "anchor": "#5-4-summary-of-evidence-and-guidelines-for-the-diagnosis-and-staging-of-penile-cancer"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT",
+      "anchor": "#6-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Treatment of the primary tumour",
+      "anchor": "#6-1-treatment-of-the-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Treatment of superficial non-invasive disease (PeIN, Ta)",
+      "anchor": "#6-1-1-treatment-of-superficial-non-invasive-disease-pein-ta"
+    },
+    {
+      "level": 4,
+      "text": "6.1.3. Locally advanced disease (T3–T4)",
+      "anchor": "#6-1-3-locally-advanced-disease-t3t4"
+    },
+    {
+      "level": 4,
+      "text": "6.1.4. Local recurrence after organ-sparing surgery",
+      "anchor": "#6-1-4-local-recurrence-after-organ-sparing-surgery"
+    },
+    {
+      "level": 4,
+      "text": "6.1.5. Summary of evidence and guidelines for local treatment of penile carcinoma",
+      "anchor": "#6-1-5-summary-of-evidence-and-guidelines-for-local-treatment-of-penile-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Regional lymph node management: clinically evident disease (cN1–cN3)",
+      "anchor": "#6-2-regional-lymph-node-management-clinically-evident-disease-cn1cn3"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Introduction",
+      "anchor": "#6-2-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "6.2.2.c N1–N2 disease: radical inguinal lymph node dissection",
+      "anchor": "#6-2-2-c-n1n2-disease-radical-inguinal-lymph-node-dissection"
+    },
+    {
+      "level": 4,
+      "text": "6.2.3. Prophylactic pelvic lymph node dissection",
+      "anchor": "#6-2-3-prophylactic-pelvic-lymph-node-dissection"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Clinical N3 disease (cN3)",
+      "anchor": "#6-3-clinical-n3-disease-cn3"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. Diagnostic evaluation",
+      "anchor": "#6-3-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Management strategy",
+      "anchor": "#6-3-2-management-strategy"
+    },
+    {
+      "level": 4,
+      "text": "6.3.4. Surgical technique",
+      "anchor": "#6-3-4-surgical-technique"
+    },
+    {
+      "level": 4,
+      "text": "6.3.5. Summary of evidence and guidelines for the surgical management of cN3 disease",
+      "anchor": "#6-3-5-summary-of-evidence-and-guidelines-for-the-surgical-management-of-cn3-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Systemic therapy",
+      "anchor": "#6-4-1-systemic-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Radiotherapy",
+      "anchor": "#6-4-2-radiotherapy"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Systemic and palliative therapies for advanced disease",
+      "anchor": "#6-5-systemic-and-palliative-therapies-for-advanced-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.5.1. Introduction",
+      "anchor": "#6-5-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "6.5.2. Chemotherapy",
+      "anchor": "#6-5-2-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.5.3. Role of radiotherapy in palliation",
+      "anchor": "#6-5-3-role-of-radiotherapy-in-palliation"
+    },
+    {
+      "level": 4,
+      "text": "6.5.4. Summary of evidence and guidelines for systemic and palliative therapies for advanced penile cancer",
+      "anchor": "#6-5-4-summary-of-evidence-and-guidelines-for-systemic-and-palliative-therapies-for-advanced-penile-cancer"
+    },
+    {
+      "level": 2,
+      "text": "7. FOLLOW-UP AND QUALITY OF LIFE",
+      "anchor": "#7-follow-up-and-quality-of-life"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Unmet needs",
+      "anchor": "#7-1-unmet-needs"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Rationale for follow-up",
+      "anchor": "#7-2-rationale-for-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. When and how to follow-up",
+      "anchor": "#7-2-1-when-and-how-to-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Recurrence of the primary tumour",
+      "anchor": "#7-2-2-recurrence-of-the-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Regional recurrence",
+      "anchor": "#7-2-3-regional-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Patient support services",
+      "anchor": "#7-3-patient-support-services"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Psychological support",
+      "anchor": "#7-3-1-psychological-support"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Quality of life",
+      "anchor": "#7-3-2-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. Urinary function",
+      "anchor": "#7-3-3-urinary-function"
+    },
+    {
+      "level": 4,
+      "text": "7.3.4. Sexual function",
+      "anchor": "#7-3-4-sexual-function"
+    },
+    {
+      "level": 4,
+      "text": "7.3.5. Lymphoedema",
+      "anchor": "#7-3-5-lymphoedema"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Centralisation of penile cancer services",
+      "anchor": "#7-4-centralisation-of-penile-cancer-services"
+    },
+    {
+      "level": 4,
+      "text": "7.4.1. Advantages of centralised care",
+      "anchor": "#7-4-1-advantages-of-centralised-care"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Guideline adherence",
+      "anchor": "#7-4-2-guideline-adherence"
+    },
+    {
+      "level": 4,
+      "text": "7.4.3. Survival",
+      "anchor": "#7-4-3-survival"
+    },
+    {
+      "level": 4,
+      "text": "7.4.4. Disadvantages of centralised care",
+      "anchor": "#7-4-4-disadvantages-of-centralised-care"
+    },
+    {
+      "level": 3,
+      "text": "7.5. Summary of evidence and guidelines for follow-up and quality of life",
+      "anchor": "#7-5-summary-of-evidence-and-guidelines-for-follow-up-and-quality-of-life"
+    },
+    {
+      "level": 2,
+      "text": "8. REFERENCES",
+      "anchor": "#8-references"
+    },
+    {
+      "level": 2,
+      "text": "9. CONFLICT OF INTEREST",
+      "anchor": "#9-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "10. CITATION INFORMATION",
+      "anchor": "#10-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "11. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#11-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#penile-cancer",
+      "title": "Penile Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 6. Disease Management Introduction Methods Epidemiology Aetiology And Pathology Classification Systems Diagnostic Evaluation And Staging Disease Management Follow-up And Quality Of Life References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#6-disease-management",
+      "title": "6. DISEASE MANAGEMENT",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-treatment-of-the-primary-tumour",
+      "title": "6.1. Treatment of the primary tumour",
+      "level": 3,
+      "text": "Along with its role in sexual functioning and urination, a fully functional penis is central to a patient’s sense of wholeness, desirability and masculinity. For that reason, the aims of the treatment of the primary tumour are complete tumour removal with as much organ preservation as possible, without compromising oncological control. There are no RCTs or observational comparative studies for any of the treatment options for localised penile cancer. Penile preservation appears to be superior in functional and cosmetic outcomes as compared to partial or total penectomy and is considered to be the primary treatment method for localised penile cancer, based on retrospective studies. Histological diagnosis and local staging must be obtained before non-surgical treatments can be considered. For small tumours, excisional biopsy can equal treatment, while for larger lesions which necessitate more complex or mutilating surgery, an incisional biopsy is advised (see Section 3.4.6). Histology provides confirmation of the diagnosis before treatment and informs on the risk group of the primary tumour which has important consequences for invasive staging of the groins. With surgical treatment, negative surgical margins for invasive carcinoma must be obtained. Treatment of the primary tumour and of the regional nodes can either be simultaneous or staged. Local treatment modalities for small and localised penile cancer include topical therapy, laser ablation, excisional surgery, external beam radiotherapy (EBRT) and brachytherapy. The systematic review of this Panel revealed a complete absence of both RCTs and prospective trials assessing and comparing the effectiveness of interventions for managing the primary tumour [152]. Treatment recommendations can therefore only be based on retrospective data and expert opinion. In the absence of comparative evidence supporting treatment modalities, patients should be informed of all appropriate treatment options for their specific tumour and situation, together with the potential advantages and disadvantages for each technique. These are discussed per disease stage in the following sections.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-1-treatment-of-superficial-non-invasive-disease-pein-ta",
+      "title": "6.1.1. Treatment of superficial non-invasive disease (PeIN, Ta)",
+      "level": 4,
+      "text": "Despite treatment, PeIN can progress to invasive lesions in 2.6–13% of patients. Therefore, definitive eradication and diligent follow-up monitoring are important [153-155]. Most PeIN lesions are located on the mucosal surfaces of the glans or prepuce, whilst lichen sclerosus also affects the prepuce [154]. Therefore, circumcision should be the primary surgical option [155]. Following circumcision, the glans mucosa keratinises over a period of three to six months and any residual PeIN or lichen sclerosus may resolve. Close monitoring before starting additional therapy has been advocated, but to date, data supporting this concept are limited [155]. Considering a median time to progression to malignancy of 13 months [154], this approach seems reasonable to test in future clinical trials. 6.1.1.a. Topical therapies Topical therapy with imiquimod (IQ) or 5-fluorouracil (5-FU) are effective non-invasive first-line treatment options whose use is increasingly reported [156]. 5-Fluorouracil exerts its effects through inhibition of the enzyme thymidylate synthase. Although no standard protocol exists, leaving the 5-FU ointment on for 12 hours every 48 hours during a four to six week treatment course is often recommended in reported series of PeIN therapy [157]. Imiquimod acts through several pathways, including activation of immune cells via toll-like receptor 7, creating an inflammatory response, and is commonly used three times per week for 12 weeks. There is no consensus or comparative data on the optimal treatment schedules for these therapies, and the evidence for these treatments is heterogenous as it only relies on retrospective studies. A systematic review based on the aforementioned low-quality data illustrated that topical agents showed response and recurrence rates of 40–100% and 20% for IQ, versus 48–74% and 11% for 5-FU, respectively [158]. Because the use of 5-FU typically results in marked erythema, erosions and crust lasting for a month or longer, decreased patient compliance with treatment regimens may result in diminished effectiveness. Similarly, IQ use is complicated by the resultant tissue effects, including erythema, oedema, erosions, ulceration and crust, that are not consistent from one individual to the next [159]. Discontinuation of topical agents due to side effects was observed in 12% of cases [158]. It is advised that treatment effects must be clinically assessed, and in cases of doubt, evaluated by biopsy; long-term surveillance is warranted. Insufficient responses and recurrences may signify underlying invasive disease. Therefore, if topical treatment fails, it should not be repeated. 6.1.1.b. Laser ablation Laser ablation is an alternative treatment option. Energy-based therapies discussed in the literature include neodymium: yttrium-aluminium-garnet (Nd:YAG, penetration 4–6mm, wavelength 1064nm) or carbon dioxide (CO 2 , penetration < 1mm, wavelength 10600nm) lasers and photodynamic therapy [160]. Laser treatment has shown total response rates of 52–100%, with recurrence reported in 7–48% of patients [158]. Altered penile sensitivity following laser treatment has been described, including increased sensitivity in 50% and decreased sensitivity in 15% of patients. Reports show relatively high rates of local recurrence, possibly owing to inadequate penetration, difficulties in assessing borders of affected areas and missing lesions that have invaded the subepithelial tissue [9,161,162]. Repeat laser treatment for recurrence has been described in some series without compromising long-term oncological outcomes, which is likely a result of the low risk of the lesions treated in those series [163,164]. For cryotherapy, with or without topical therapy, and photodynamic therapy, which induces photo-selective cell death, only limited data are available for the treatment of PeIN. 6.1.1.c. Surgery Extensive PeIN – residual PeIN in resection margins or recurrent disease after ablative or topical therapy – can be treated by surgical excision. Glans resurfacing consists of full thickness removal of the glandular epithelium, followed by reconstruction with a graft (split skin [165] or buccal mucosa for urethral reconstruction [166]). Grafts tend to have excellent engraftment rates on this well-vascularised wound bed [167]. Recurrences are reported to be low (0–20%), and cosmesis is acceptable [165,167,168]. If feasible, preservation of the coronal ridge helps maintain sexual function and provides excellent cosmetic outcomes, as shown by a small retrospective report [169]. Resection, as opposed to ablative or topical treatments, provides the advantage of complete histopathological local staging and detection of areas of invasion. In one study in cases of glans resurfacing for presumed PeIN, up to 20% of patients were found to have invasive disease on histopathological examination [165]. Surgeons and pathologists are urged to discuss appropriate specimen handling (e.g. pinning down the skin as resecte",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-2-treatment-of-invasive-disease-confined-to-the-glans-ct1t2",
+      "title": "6.1.2. Treatment of invasive disease confined to the glans (cT1/T2)",
+      "level": 4,
+      "text": "When feasible, small and localised invasive lesions should receive organ-sparing treatment. Resection of the primary lesion not only eradicates all disease in localised invasive tumours, but also provides definitive pathological staging without the risk of understaging or of missing intratumour heterogeneity encountered with incisional or punch biopsy [9]. Foreskin tumours are treated by ‘radical’ circumcision. For glandular and coronal lesions, wide local excision, partial glansectomy or total glansectomy with reconstruction are surgical options, while additional circumcision is advised in glandular tumours. External beam radiotherapy and brachytherapy are radiotherapeutic options for these patients. Laser therapy of small lesions has been reported, but the risk of invasive disease must be recognised, and the recurrence risk is high, possibly due to the limited tissue penetration depth of laser ablation. Further research is needed to better establish the comparative safety and effectiveness of surgical and non-surgical therapies for penile cancer. Treatment choice depends on tumour size, histology, stage and grade, localisation and patient preference. Over the recent decades, a shift towards organ-sparing surgery has been observed, based on the assumption that local recurrence has little influence on long-term survival. Over recent decades, organ-sparing surgery has become increasingly adopted, based on the assumption that local recurrence has limited impact on long-term survival. Preservation of large areas of epithelium, however, carries a risk of metachronous recurrence in the residual, predisposed tissue. In a multi-institutional series by Elst et al. , including a cohort enriched for lower-risk tumours (80% T1, 20% G3), local recurrence rates were high (30%), but did not adversely affect survival [171]. Conversely, in a large series looking at higher-risk (26% T1, 41% G3) tumours treated with glansectomy [172] or partial penectomy by resection of only the corporeal tips [173], it was observed that fewer patients experienced local recurrence, yet had poorer survival, including in multivariate analysis correcting for poor prognosticators. This, however, does not indicate that these patients may have fared better with more radical excision, as local recurrence in those cases may be a display of a more aggressive disease biology in general. On the other hand, large series are available showing lower local recurrence rates after amputative surgery despite more aggressive tumours, supporting a wider resection [174]. The systematic review by this Panel found a cumulative five-year recurrence-free rate (RFR) of 82% in case series and 76.7% in non-RCTs for organ-sparing surgery. Similarly, the cumulative five-year RFR of amputative surgery was reported 83.9% in case series and 93.3% in controlled studies. These variations reflect the differences of study designs, as well as the various cohorts analysed at each instance. A larger proportion of patients treated with amputative surgery typically present with advanced disease (> T3: 29.4% vs. < T3: 7.8%). The higher RFRs observed after amputative surgery must be weighed against the impact on sexual function and QoL. Hence, the limits of organ-sparing surgery are not completely clear, and the higher risks of local recurrence should be discussed with the patient when making a treatment plan. 6.1.2.a. Width of negative surgical margins The concept of organ-preserving surgery is based on observations of how the distance between tumour and resection margin affects local recurrence. A study found that most lesions do not spread > 5mm beyond the macroscopic margin and, in line with this finding, subsequent reports show that an excision margin of between 5mm and 10mm results in acceptably low recurrence rates [175-177]. Another study from a supraregional referral centre found that local recurrence rates only increased considerably when the distance from tumour to margin was < 1mm [178]. However, comparative evidence is lacking for this topic and there is no clear evidence as to what constitutes an oncologically safe width of macroscopic negative surgical margins. Based on the observation that in lower-risk tumours (1) a local recurrence does not impact survival and (2) minimal section margins > 1mm do not result in a higher risk for local recurrence, macroscopic margins can indeed be minimal, specifically in smaller and less-aggressive lesions. Hence, to ensure complete removal with histologically negative margins, standard excision must include a margin of clinically normal-appearing skin around the tumour and surrounding erythema. However, for bulky or higher-grade lesions where local recurrence may have an impact on survival, adoption of a wider margin or partial penectomy may be prudent and should be discussed with the patient [172,177]. The presence of PeIN at the surgical margin after organ-sparing surgery represents a challenging clinical situation. Current evidenc",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-3-locally-advanced-disease-t3t4",
+      "title": "6.1.3. Locally advanced disease (T3–T4)",
+      "level": 4,
+      "text": "6.1.3.a. Resectable disease In cT2 disease in which there is doubt of corporeal or tunica albuginea invasion, rather than continuing the dissection over Buck’s fascia to perform glansectomy combined with distal corporectomy, dissection superficial to the tunica albuginea can be adopted after dividing the neurovascular bundle. In these instances, frozen sections of the corporeal tips and urethra may be helpful in assessing the radicality of the procedure perioperatively. Preoperative MRI or US can assist in surgical planning, as discussed in Chapter 5. For cT3 patients with obvious involvement of the corpora cavernosa, partial amputation is standard. Patients can be offered reconstructive options such as urethral centralisation and/or neoglans formation with the use of a graft. Two studies in higher-risk patients treated with radical glansectomy or partial penectomy show that local recurrence in these instances is associated with poor survival. Patients should be informed that a wider resection (i.e. partial or radical penectomy) provides a lower risk of local recurrence at the cost of functionality of the penis [172,206]. Radical amputation and diversion of urination with a perineal urethrostomy is reserved for those patients in whom a resection with a safe margin would result in the inability to void standing upright or without wetting the scrotum. Radiotherapy for locally advanced penile lesions should be undertaken with concurrent chemotherapy. As with disease in the LNs, traditional radiotherapy dosing recommendations are being reconsidered [150]. Complex treatment planning will be necessary in most cases of T3–T4 primary lesions, with patient-unique immobilisation to spare testes and scrotum. A total phallic reconstruction may be offered to patients undergoing total/subtotal amputation. Extensive partial amputation with wide margins or total penectomy with perineal urethrostomy is the standard advisable treatment. In case of locally advanced and ulcerated cases which are resectable, composite myocutaneous flaps or advancement flaps may be needed to cover the surgical defect [207]. 6.1.3.b. Nonresectable disease In nonresectable disease, induction chemotherapy offers the ability to downstage disease and thereby enable surgical resection among responders, even among men with advanced penile cancer. Several retrospective and prospective series have evaluated the effects of combination regimens using paclitaxel or docetaxel with cisplatin and ifosfamide or 5-FU. The combination of irinotecan and cisplatinum, with vinflunine as monotherapy, have also been investigated. Although there is considerable heterogeneity in the regimens and cohorts combining advanced nodal disease and unresectable primary tumours, objective responses are observed in 29–60% of patients [206,208-214]. In two recent systematic reviews, pooled objective response rate (ORR) were 53–57% [215]; with pooled ORR of 57% (95% CI: 46–67%) for taxane-platinum combinations and 54% (95% CI: 31–76%) for non-taxane platinum combinations [216], and pathological complete responses in 4–10% [216], at the cost of considerable toxicity. This approach is discussed in more detail in Section 6.4.1.a. In case of not obtaining a response sufficient for resection, palliative chemoradiotherapy is an option. Accumulated evidence in anal and vulvar cancer supports the notion that definitive chemoradiotherapy is an effective treatment for anogenital SCC [217]. In a single study in six node-positive SCC penile cancer patients, four of the six patients were recurrence-free and two had developed recurrence, one of whom died [217]. In an observational cohort study in 40 locoregionally advanced penile cancer patients fit for chemoradiotherapy and treated with curative intent, Ottenhof et al. observed that the response rate was 73%, with complete response seen in 39% [218]. Among the cohort, 52% had subsequent surgery: 27% for residual disease and 25% for later salvage. One- and two-year PFS was 34% and 31%, with a 33% grade 3 toxicity rate but no grade 4 or 5 [219]. Their regimen consisted of integrated boost intensity modulated radiotherapy with a dose of 59.5Gy to the primary tumour in fractions of 1.8Gy with mitomycin C on day one and capecitabin on radiation days. In comparison to perioperative chemotherapy studies, the omission of surgery is a potential advantage of chemoradiotherapy. As this strategy has only been evaluated in a single observational study, no recommendation can be made supporting this approach in patients suitable for other options.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-4-local-recurrence-after-organ-sparing-surgery",
+      "title": "6.1.4. Local recurrence after organ-sparing surgery",
+      "level": 4,
+      "text": "A second organ-sparing procedure can be performed if there is no corpus cavernosum invasion [162,176,220-222]. For large or high-stage recurrence, partial or total amputation is required, unless unresectable or concurrent with nodal or distant metastatic recurrence (see respective Sections).",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-5-summary-of-evidence-and-guidelines-for-local-treatment-of-penile-carcinoma",
+      "title": "6.1.5. Summary of evidence and guidelines for local treatment of penile carcinoma",
+      "level": 4,
+      "text": "Summary of evidence LE Penile intraepithelial neoplasia progresses to invasive lesions in 2.6–13% despite treatment. 3 Response and recurrence rates of topical therapies for PeIN are 40–100% and 20% for IQ, and 48–74% and 11% for 5-FU, respetively. For laser therapy, response rates are 52–100% and recurrence rates 7–48%. For glans resurfacing, recurrence rates are as low as 4%. 3 A systematic review including retrospective studies on organ-sparing surgical treatment of the primary lesion shows that cumulative mean five-year RFRs are 82% in case series and 76.7% in non-RCTs. For (partial) amputative surgery, cumulative mean five-year RFRs are 83.9% in case series and 93.3% in non-controlled studies. The cumulative mean five-year RFR was 69.4% for patients treated with laser therapy for invasive disease. 3 Current literature on frozen section analysis in organ-sparing surgery is heterogeneous and conflicting. 3 Tumour distance to the resection margin < 1mm resulted in higher local recurrence rates in a recent large retrospective case series from a tertiary referral centre. 3 In lower-risk tumours (predominantly T1, few G3), organ-sparing surgery results in high local recurrence rates of approximately 30%, but without impact on survival in available series. 3 In higher-risk cohorts (more frequent ≥ T2 or G3) treated with organ-sparing surgery, local recurrence after organ-sparing surgery is associated with poorer survival. 3 The cumulative mean five-year RFRs are 78.6% after brachytherapy and 55.2% after EBRT. 3 For neoadjuvant chemotherapy, pooled ORR was 53% (95% CI: 42–64%) and the pathological complete response rate in prospective studies was 4–10% (95% CI: 5–30%) in a recent systematic review and meta-analysis. 2a Recommendations Strength rating Offer a balanced and individualised discussion on benefits and harms of possible treatments options with the goal of shared decision-making. Strong Inform patients that organ-sparing procedures and glanulopreputial epithelium-preserving techniques are associated with a higher risk of local recurrence compared to amputative surgery. Strong Topical therapy Offer topical therapy with 5-fluorouracil or imiquimod to patients with biopsy-confirmed penile intraepithelial neoplasia (PeIN). Weak Clinically assess treatment effects after a treatment-free interval, and in cases of doubt, perform a biopsy. If topical treatment fails, it should not be repeated. Weak Laser ablation Offer laser ablation using carbon dioxide or Neodymium:Yttrium-Aluminium-Garnet laser to patients with biopsy-confirmed PeIN, Ta or T1 lesions. Weak Organ-sparing treatment: surgery (circumcision, wide local excision, glansectomy and glans resurfacing) Offer organ-sparing surgery and reconstructive techniques to patients with lesions confined to the glans and prepuce (PeIN, Ta, T1–T2) and who are willing to comply with strict follow-up. Strong Perform intraoperative frozen section analysis of resection margins in cases of doubt on the completeness of resection. Weak Offer salvage organ-sparing surgery to patients with small recurrences not involving the corpora cavernosa. Weak Organ-sparing treatment: radiotherapy (external beam radiotherapy and brachytherapy) Offer radiotherapy to selected patients with biopsy-confirmed T1 or T2 lesions. Strong Amputative surgery (partial and total penectomy) Offer partial penectomy – with or without reconstruction – to patients with invasion of the corpora cavernosa (T3) and those not willing to undergo organ-sparing surgery or not willing to comply with strict follow-up. Strong Offer total penectomy with perineal urethrostomy to patients with large invasive tumours not amenable to partial amputation. Strong Offer amputative surgery to patients with large local recurrences or corpora cavernosa involvement. Weak Multimodal therapy Offer induction chemotherapy followed by surgery to responders, or chemoradiotherapy to patients with nonresectable advanced primary lesions, or to patients with locally advanced-disease who refuse surgical management. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Penile intraepithelial neoplasia progresses to invasive lesions in 2.6–13% despite treatment.",
+              "3"
+            ],
+            [
+              "Response and recurrence rates of topical therapies for PeIN are 40–100% and 20% for IQ, and 48–74% and 11% for 5-FU, respetively. For laser therapy, response rates are 52–100% and recurrence rates 7–48%. For glans resurfacing, recurrence rates are as low as 4%.",
+              "3"
+            ],
+            [
+              "A systematic review including retrospective studies on organ-sparing surgical treatment of the primary lesion shows that cumulative mean five-year RFRs are 82% in case series and 76.7% in non-RCTs. For (partial) amputative surgery, cumulative mean five-year RFRs are 83.9% in case series and 93.3% in non-controlled studies. The cumulative mean five-year RFR was 69.4% for patients treated with laser therapy for invasive disease.",
+              "3"
+            ],
+            [
+              "Current literature on frozen section analysis in organ-sparing surgery is heterogeneous and conflicting.",
+              "3"
+            ],
+            [
+              "Tumour distance to the resection margin < 1mm resulted in higher local recurrence rates in a recent large retrospective case series from a tertiary referral centre.",
+              "3"
+            ],
+            [
+              "In lower-risk tumours (predominantly T1, few G3), organ-sparing surgery results in high local recurrence rates of approximately 30%, but without impact on survival in available series.",
+              "3"
+            ],
+            [
+              "In higher-risk cohorts (more frequent ≥ T2 or G3) treated with organ-sparing surgery, local recurrence after organ-sparing surgery is associated with poorer survival.",
+              "3"
+            ],
+            [
+              "The cumulative mean five-year RFRs are 78.6% after brachytherapy and 55.2% after EBRT.",
+              "3"
+            ],
+            [
+              "For neoadjuvant chemotherapy, pooled ORR was 53% (95% CI: 42–64%) and the pathological complete response rate in prospective studies was 4–10% (95% CI: 5–30%) in a recent systematic review and meta-analysis.",
+              "2a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer a balanced and individualised discussion on benefits and harms of possible treatments options with the goal of shared decision-making.",
+              "Strong"
+            ],
+            [
+              "Inform patients that organ-sparing procedures and glanulopreputial epithelium-preserving techniques are associated with a higher risk of local recurrence compared to amputative surgery.",
+              "Strong"
+            ],
+            [
+              "Topical therapy"
+            ],
+            [
+              "Offer topical therapy with 5-fluorouracil or imiquimod to patients with biopsy-confirmed penile intraepithelial neoplasia (PeIN).",
+              "Weak"
+            ],
+            [
+              "Clinically assess treatment effects after a treatment-free interval, and in cases of doubt, perform a biopsy. If topical treatment fails, it should not be repeated.",
+              "Weak"
+            ],
+            [
+              "Laser ablation"
+            ],
+            [
+              "Offer laser ablation using carbon dioxide or Neodymium:Yttrium-Aluminium-Garnet laser to patients with biopsy-confirmed PeIN, Ta or T1 lesions.",
+              "Weak"
+            ],
+            [
+              "Organ-sparing treatment: surgery (circumcision, wide local excision, glansectomy and glans resurfacing)"
+            ],
+            [
+              "Offer organ-sparing surgery and reconstructive techniques to patients with lesions confined to the glans and prepuce (PeIN, Ta, T1–T2) and who are willing to comply with strict follow-up.",
+              "Strong"
+            ],
+            [
+              "Perform intraoperative frozen section analysis of resection margins in cases of doubt on the completeness of resection.",
+              "Weak"
+            ],
+            [
+              "Offer salvage organ-sparing surgery to patients with small recurrences not involving the corpora cavernosa.",
+              "Weak"
+            ],
+            [
+              "Organ-sparing treatment: radiotherapy (external beam radiotherapy and brachytherapy)"
+            ],
+            [
+              "Offer radiotherapy to selected patients with biopsy-confirmed T1 or T2 lesions.",
+              "Strong"
+            ],
+            [
+              "Amputative surgery (partial and total penectomy)"
+            ],
+            [
+              "Offer partial penectomy – with or without reconstruction – to patients with invasion of the corpora cavernosa (T3) and those not willing to undergo organ-sparing surgery or not willing to comply with strict follow-up.",
+              "Strong"
+            ],
+            [
+              "Offer total penectomy with perineal urethrostomy to patients with large invasive tumours not amenable to partial amputation.",
+              "Strong"
+            ],
+            [
+              "Offer amputative surgery to patients with large local recurrences or corpora cavernosa involvement.",
+              "Weak"
+            ],
+            [
+              "Multimodal therapy"
+            ],
+            [
+              "Offer induction chemotherapy followed by surgery to responders, or chemoradiotherapy to patients with nonresectable advanced primary lesions, or to patients with locally advanced-disease who refuse surgical management.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-2-regional-lymph-node-management-clinically-evident-disease-cn1cn3",
+      "title": "6.2. Regional lymph node management: clinically evident disease (cN1–cN3)",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-2-1-introduction",
+      "title": "6.2.1. Introduction",
+      "level": 4,
+      "text": "The development of lymphatic metastases in penile cancer follows the route of anatomical drainage from the primary tumour to the superficial and then deep inguinal LNs (which can occur on both or either side), followed by the ipsilateral pelvic LNs. The superficial nodes are located under the subcutaneous fascia and above the fascia lata within Scarpa’s triangle. The deep nodes lie within the region of the fossa ovalis, where the superficial saphenous veins anastomose with the femoral vein at the saphenofemoral junction. The Cloquet’s node (or Rosenmuller’s node) is located medial to the femoral vein around the entrance to the femoral canal and marks the transition between inguinal and pelvic regions. Daseler et al., divided the superficial inguinal LNs into five regions centred around the saphenofemoral junction: central, lateral superior, lateral inferior, medial superior and medial inferior [223]. Studies of radical ILND (rILND) as well as SPECT imaging suggest that sentinel inguinal nodes, i.e. those first affected by lymphatic spread, appear to be located in the medial superior zone, followed by the central inguinal zones [223-225]. No solitary lymphatic spread has been observed from the penis to the two inferior groin regions, nor has direct drainage to the pelvic nodes [223-225]. Pelvic nodal disease does not occur without ipsilateral inguinal LN metastasis. In addition, crossover metastatic spread, from one groin to the contralateral pelvis, is rare [226]. Further lymphatic spread from the pelvic nodes to retroperitoneal nodes (para-aortic, paracaval) is classified as systemic metastatic disease [227]. The management of regional LNs is decisive for patient survival. The presence and extent of nodal involvement is singularly the most important prognostic factor in patients with penile cancer. Cure can be achieved in limited LN-disease confined to the regional LNs. Radical LND is the treatment of choice. Multimodal treatment combining surgery, chemotherapy or radiotherapy is often indicated for more advanced disease. In clinically positive LNs (cN1/cN2), more extensive LN metastasis is highly likely and LN surgery with histology is required. Given the very high chance of recurrence, enlarged fixed inguinal LNs (cN3) or clinically evident pelvic metastases require multimodal treatment by induction chemotherapy and consolidative surgery in responding patients. Even if present in only one node, extracapsular extension/ENE, or pelvic LN metastasis found at surgery carries a high risk of progression and is classified as pN3 and requires multimodal treatment. Given the complexities of regional node management, the intent of the Panel in the following sections (Sections 6.2–6.4) is to describe the available evidence-based strategies in the management of clinically evident LN metastases (i.e. cN1–cN3). These strategies include ILND/pelvic LND (PLND), chemotherapy, radiotherapy ± chemotherapy and integrated strategies such as neoadjuvant and adjuvant therapies combined with surgery. The reader is encouraged to review the text sections, summaries of evidence, and recommendation tables collectively to better understand recommendations for single versus multimodal treatment and currently available data utilising various strategies. Figure 6.1: Regional lymph node management: clinically evident disease (cN1–cN3) CAP = chest, abdomen and pelvis; cRXT = chemoradiotherapy; CXT = chemotherapy; CT = computed tomography; DSNB = dynamic sentinel node biopsy; ENE = extranodal extension; FNA = fine-needle aspiration; (r)ILND = (radical) inguinal lymphadenectomy; LNs = lymph nodes; MDT = multidisciplinary team meeting; NAC = neoadjuvant chemotherapy; PET = positron emission tomography; (p)PLND = (prophylactic) pelvic lymph node dissection; RXT = radiotherapy; US = ultrasound. 1 Fascial-sparing ILND dissection or open rILND, sparing the saphenous if possible. 2 Ipsilateral open rILND, sparing the saphenous vein, if possible. 3 Offer minimal-invasive ILND to patients with cN1–2 disease only as part of a clinical trial. 4 Do not offer videoendoscopic ILND. 5 Cisplatin and taxane-based chemotherapy. 6 ILND is an option in cases in which DSNB is not feasible or preferred by the patient. 7 The term ‘bulky’ is generally used to indicate a high suspicion of ENE.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-2-2-c-n1n2-disease-radical-inguinal-lymph-node-dissection",
+      "title": "6.2.2.c N1–N2 disease: radical inguinal lymph node dissection",
+      "level": 4,
+      "text": "6.2.2.a. Indication for radical inguinal lymph node dissection Radical ILND remains the standard of care for patients with cN1–2. In low-volume disease (pN1), rILND is curative with a suggestion of equivalent outcomes in those patients without nodal disease [228-230]. Nevertheless, several studies have demonstrated continuing non-adherence to accepted international guidance [231-234]. Cindolo et al. evaluated adherence of 12 European and American centres to the EAU recommendations [234]. They reported a 26.3% rate of non-adherence in terms of LN management. For those patients managed as per guidance with LND, there was a statistically significant association with OS (adjusted HR: 0.48; 95% CI: 0.24–0.96, p = 0.038) [234]. 6.2.2.b. What is an acceptable definition? Daseler’s original description in 1948 is still considered the classical description of a rILND (see Table 6.1) [223]. Despite this, considerable variation exists across high-volume centres. In an international survey of surgeons’ practice in European high-volume centres, consensus was not found on the definition of the superior and lateral borders of the dissection, and whether the fascia lata and saphenous should be preserved [235]. This variation in practice is likely a reflection of the desire on the part of clinicians and patients to reduce the significant burden of morbidity acknowledged in the literature associated with rILND (see Section 6.2.2.d on complications). A systematic review of the literature by the Panel identified only one other description of a modified template used in clinical N1–2 disease by Yao et al. [236] (see Table 6.1). This retrospective cohort study of 201 fascial-sparing ILNDs (fsILND) with < N2 disease demonstrated comparable oncological outcomes to rILND with three-year DFS of 92.1% (100% for pN0, 91.3% for pN1, 80% for pN2, and 33.3% for pN3 disease, respectively) and a complication rate of 29.3%. In a retrospective multicentre series of 421 patients (660 procedures), Schifano et al. described outcomes from fsILND. This approach achieved a three-year CSS of 86% for pN1 and 83% for pN2 disease with an overall complication rate of 36%, suggesting comparable oncological control to classical rILND with reduced morbidity [237]. To date, however, no direct comparison exists between rILND and fsILND in this group of patients (Table 6.1). Table 6.1: Variations in radical inguinal ymph node dissection Superior Lateral Medial Inferior Base Fascia preserved Saphenous spared Sartorius transposition rILND [223] Superior margin of external ring to the anterior superior iliac spine Anterior superior iliac spine inferiorly 20cm 15cm downwards from the pubic tubercle Apex of femoral triangle Sartorius, femoral vessels, adductor longus No No Yes fsILND [236] Superior margin of external ring to the anterior superior iliac spine Anterior superior iliac spine inferiorly 20cm 15cm downwards from the pubic tubercle Apex of femoral triangle Fascia Yes. Deep inguinal LNs, medial to the femoral vein, dissected just distal to the fossa ovalis Yes No fsILND = fascia-sparing inguinal lymph node dissection; LNs = lymph nodes; rILND = radical inguinal lymph node dissection. 6.2.2.c. Quality metrics To standardise the quality of resections, several studies have attempted to look for surrogate markers to infer complete oncological resection, including LNY, LN density (LNDen) and time to completion of surgery. 6.2.2.c.1. Lymph node yield and density In a systematic review commissioned by the Panel, several studies were identified examining the association between LNY/LNDen and survival as a surrogate marker of adequate dissection in penile cancer [232,238-242]. However, LNY varied from > 8 to > 15–16% and LNDen < 6.7 to < 22%. The variance in accepted values is likely due to different surgical templates, variable pathological assessment and stage migration. Consequently, widespread adoption of LNY and LNDen as a predictor of survival and as quality markers cannot be recommended. 6.2.2.c.2. Timing of surgery Several studies have highlighted the importance of expedient LN management in patients with cN0 disease versus surveillance with LND on presentation of clinical disease. Two non-RCTs have demonstrated a survival benefit in patients who underwent early ILND compared with delayed ILND (within six weeks of primary surgical treatment vs. surgery following identification of positive nodes during surveillance), showing three-year CSS 84% vs. 35% (p = 0.0017) and three-year CSS 71% vs. 50%, respectively [121,243]. The evidence in pN1–2 regarding optimal timing of LN management is limited. Chipollini et al. examined the effects of early versus late ILND (> 3 months following primary surgery) in 84 patients with cN0 and cN+ disease. Overall, those patients undergoing early ILND demonstrated a five-year DSS of 64.1% versus 39.5% for late dissection with an unadjusted HR of 0.66 (0.32–1.37). However, when subanalysis was performed in cN+ patients, the fiv",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Superior",
+              "Lateral",
+              "Medial",
+              "Inferior",
+              "Base",
+              "Fascia preserved",
+              "Saphenous spared",
+              "Sartorius transposition"
+            ],
+            [
+              "rILND[223]",
+              "Superior margin of external ring to the anterior superior iliac spine",
+              "Anterior superior iliac spine inferiorly 20cm",
+              "15cm downwards from the pubic tubercle",
+              "Apex of femoral triangle",
+              "Sartorius, femoral vessels, adductor longus",
+              "No",
+              "No",
+              "Yes"
+            ],
+            [
+              "fsILND[236]",
+              "Superior margin of external ring to the anterior superior iliac spine",
+              "Anterior superior iliac spine inferiorly 20cm",
+              "15cm downwards from the pubic tubercle",
+              "Apex of femoral triangle",
+              "Fascia",
+              "Yes. Deep inguinal LNs, medial to the femoral vein, dissected just distal to the fossa ovalis",
+              "Yes",
+              "No"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Positive impact",
+              "Negative impact",
+              "Uncertain benefit"
+            ],
+            [
+              "Linear transverse incision [257,258]",
+              "S-shaped incision, vertical incision [247,257,259]",
+              "Vacuum dressings [260]"
+            ],
+            [
+              "Saphenous sparing [258,261,262]",
+              "Time-controlled drainage [263]",
+              "Fibrin glue [264]"
+            ],
+            [
+              "Volume-controlled drainage [263]",
+              "Ultrasonic device [265]",
+              "Advanced bipolar device [266]"
+            ],
+            [
+              "Fascial-sparing [207,236]",
+              "Sartorius transposition [219,249]",
+              " "
+            ],
+            [
+              "Minimally invasive techniques [267-269]",
+              "Raised body mass index [249]",
+              " "
+            ],
+            [
+              "Lymphoedema prevention, e.g. massage, skin care, saphenous vein-sparing surgery [258,270]",
+              "Increased disease burden [138]",
+              " "
+            ],
+            [
+              "Deep venous thrombosis prophylaxis [271]",
+              "Sarcopenia [250]",
+              " "
+            ],
+            [
+              "Prevention of surgical site infections, e.g. prophylactic antibiotics, shaving, skin prep [272]",
+              " ",
+              " "
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Open rILND is the standard for cN1–2 disease.",
+              "2a"
+            ],
+            [
+              "Radical rILND carries a significant risk of complications (21–55%).",
+              "2a"
+            ],
+            [
+              "Two studies reported on fsILND, and in cN1–2 disease, it appears to offer similar oncological outcomes and reduced complications.",
+              "2b"
+            ],
+            [
+              "Lymph node yield and LNDen appear related to survival, however, variance in accepted values, pathological assessment and stage migration prevent recommendation of a specific LN count.",
+              "2a"
+            ],
+            [
+              "Delay in nodal management of more than three to six months may affect DFS.",
+              "3"
+            ],
+            [
+              "Minimally invasive approaches for ILND (VEIL/RAVEIL) generally have longer operative times, equivalent LNYs, shorter length of hospital stay and fewer wound complications when compared with open ILND. However, since current evidence is very limited in cN1–2 patients, no recommendation for minimally invasive approaches can be provided.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "In patients with cN1 disease, offer either ipsilateral:fascial-sparing inguinal lymph node dissection (ILND)open radical ILND (rILND), sparing the saphenous vein, if possible.",
+              "Strong"
+            ],
+            [
+              "In patients with cN2 disease, offer ipsilateral open rILND, sparing the saphenous vein, if possible.",
+              "Strong"
+            ],
+            [
+              "Offer minimally invasive ILND to patients with cN1–2 disease only as part of a clinical trial.",
+              "Strong"
+            ],
+            [
+              "Offer neoadjuvant chemotherapy (NAC) as an alternative approach to upfront surgery to selected patients with bulky mobile inguinal nodes or bilateral disease (cN2) who are candidates for cisplatin and taxane-based chemotherapy (see Section 6.4.1).",
+              "Weak"
+            ],
+            [
+              "Complete surgical inguinal and pelvic nodal management within three months of diagnosis (unless the patient has undergone prior NAC).",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-2-3-prophylactic-pelvic-lymph-node-dissection",
+      "title": "6.2.3. Prophylactic pelvic lymph node dissection",
+      "level": 4,
+      "text": "Prophylactic PLND (pPLND) in most cases represents a staging procedure that can thus identify candidates for early adjuvant therapy, although in select patients, this may also provide a therapeutic benefit. 6.2.3.a. Indications for prophylactic pelvic lymph node dissection 6.2.3.a.1. Risk factors for pelvic nodal metastasis To identify patients with pelvic LN metastasis in the absence of radiological evidence for LN involvement, several studies have tried to develop generalised estimating models based on inguinal characteristics using logistic regression and multivariate analysis. Among various predictors, the number of positive inguinal LNs (1–2 vs. 3 or more, with no extracapsular extension) was associated with positive pelvic LNs in 0–6.5% of patients versus 33–67% of patients [282,283]. The presence of extracapsular spread was also consistently significantly associated with positive ipsilateral pelvic LN metastasis in four studies [282-285]. Strong immunoreactivity of p53, LNDen > 30% and primary tumour grade are also reported as predictors of pelvic LN involvement [283]. 6.2.3.b. What is an acceptable dissection? In a study by Yao et al. , the authors prospectively mapped the distribution of positive pelvic LNs at the time of PLND in 128 patients [226]. Most patients underwent bilateral PLND (86.7%). The median number of nodes retrieved per groin was 18 (interquartile range 10–30), with the distribution of positive nodes in the external iliac, obturator, common iliac, internal iliac and presacral packages being 50%, 36.6%, 7%, 6.4% and 0%, respectively. Notably, two patients were observed to have crossover metastasis from one inguinal region to the contralateral pelvic region, defying the accepted understanding of the historical literature. When the extent of dissection was considered in context of OS and RFS, there was no statistically significant difference [226]. Similar data were seen in a study by Zhu et al. , with the external iliac package being more commonly involved than the obturator and common iliac packages [286]. To evaluate the prognostic impact of LNY on survival outcomes for penile SCC, Chipollini et al. examined 198 patients undergoing PLND [238]. In their cohort, they found that an LNY of > 9 was a predictor of RFS (HR: 0.53, p = 0.032). 6.2.3.c. Survival and recurrence The evidence that pPLND has an additional therapeutic effect over surveillance or adjuvant radiotherapy (see Section 6.4.2.b) is limited and significant controversy remains. Djajadiningrat et al. estimated the five-year DSS in all patients treated with pPLND was 51%. Patients with positive pelvic nodes had a significantly worse five-year DSS than those without pelvic involvement (17%, 95% CI: 6–47 vs. 62%, 95% CI: 50–76, p < 0.001) [284]. A retrospective multicentre study compared the outcomes of bilateral pPLND for N2 or N3 disease versus no surgery and reported better five-year OS in the pPLND group (35% vs. 25%) without reaching statistical significance [287,254]. In N2 patients, three-year OS was significantly better in the PLND group as compared to the no-surgery group (83.3% vs. 50.2%, p = 0.03) [287]. This difference was not evident in N3 patients. 6.2.3.d. Complications Limited data are available regarding the reporting of complications from PLND. This is complicated by the fact that most patients will have already undergone an rILND, which carries a significant morbidity risk, as discussed above. A single-centre experience of 89 patients undergoing open PLND for penile cancer reported an overall complication rate of 18%. Nine patients had wound complications including infection, seroma and dehiscence. The remaining five patients had non-wound-related complications such as pneumonia, delirium and ileus [284]. 6.2.3.e. Minimally invasive versus open pelvic lymph node dissection In a systematic review commissioned by the Panel, there were no reported studies that examined the role of minimally invasive pPLND in the setting of penile cancer and PLND. There is, however, a significant body of evidence that exists in other common urological malignancies that demonstrates equivalent oncological outcomes, as well as improved morbidity profile and recovery profile. 6.2.3.f. Summary of evidence and guidelines for prophylactic pelvic lymph node dissection Summary of evidence LE In most cases, pPLND represents a staging procedure that can thus identify candidates for early adjuvant therapy, although in select patients, it may also provide a therapeutic benefit. 3 Three or more positive inguinal nodes or ENE of cancer in inguinal nodes are associated with a significantly higher incidence of pelvic LN metastases. 3 Recommendations Strength rating Offer open or minimally invasive prophylactic ipsilateral pelvic lymphadenectomy to  patients if: three or more inguinal nodes are involved on one side on pathological examination; and extranodal extension is reported on pathological examination. Weak Complete surgical inguinal and ",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "In most cases, pPLND represents a staging procedure that can thus identify candidates for early adjuvant therapy, although in select patients, it may also provide a therapeutic benefit.",
+              "3"
+            ],
+            [
+              "Three or more positive inguinal nodes or ENE of cancer in inguinal nodes are associated with a significantly higher incidence of pelvic LN metastases.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer open or minimally invasive prophylactic ipsilateral pelvic lymphadenectomy to patients if:three or more inguinal nodes are involved on one side on pathological examination; andextranodal extension is reported on pathological examination.",
+              "Weak"
+            ],
+            [
+              "Complete surgical inguinal and pelvic nodal management within three months of diagnosis (unless the patient has undergone neoadjuvant chemotherapy).",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-3-clinical-n3-disease-cn3",
+      "title": "6.3. Clinical N3 disease (cN3)",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-3-1-diagnostic-evaluation",
+      "title": "6.3.1. Diagnostic evaluation",
+      "level": 4,
+      "text": "Patients with clinical N3 disease, as defined by the presence of a fixed inguinal mass (i.e. to skin or underlying structures) or pelvic lymphadenopathy based upon imaging, should undergo a complete staging evaluation, including cross-sectional imaging (i.e. PET/CT or CT, see Section 5.2.3), if not already performed [288]. Biopsy of the inguinal mass in the setting of a patient with a known diagnosis of penile cancer is not required but should be performed in a previously undiagnosed patient, as needed, to establish the diagnosis and facilitate accurate staging.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-3-2-management-strategy",
+      "title": "6.3.2. Management strategy",
+      "level": 4,
+      "text": "Neoadjuvant chemotherapy (NAC) is a reasonable strategy among patients with cN3 disease based on the results of a systematic review, which reported radiological response rates of approximately 53% and pathological complete response in approximately 12.8% of patients [215,289]. This review consisted mostly of retrospective series – complete response rates in the intention-to-treat population were 10% (paclitaxel, ifosfamide and cisplatin [TIP]) and 4% (docetaxel, cisplatin and fluorouracil [TPF]) in prospective trials [206,208]. In responding patients and those with no evidence of disease progression, surgical resection to remove all residual disease utilising rILND and PLND techniques is the preferred strategy. For a detailed examination of perioperative chemotherapy, see Section 6.4.1. Preoperative radiotherapy was used in a single study among a cN3 cohort of 12 patients and reported an objective response in only two patients, with seven of 12 patients subsequently undergoing ILND. Only two patients (17%) survived for five years [290]. It is worth recognising that these data, however, utilise historical radiotherapy techniques precluding meaningful extrapolation to modern practice (see Section 6.4.2 for further details). Surgery as the initial treatment in patients with a fixed inguinal mass or clinically evident pelvic adenopathy (cN3) at presentation or recurrence is discouraged in routine management. While often technically feasible, a ‘surgery-first approach’ often results in large skin/soft tissue defects, the need for myocutaneous flap reconstruction, prolonged hospital stays (mean or median 8.5–23 days) and is associated with high overall complication rates (65–77%) [291,292]. In a single-centre study among 24 patients treated with surgical debulking alone in the advanced disease setting, the median CSS and DFS were only six and three months, respectively [292]. In the same study, 17.5% of patients exhibited rapid progression of disease post-surgery and never received adjuvant therapy [292].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-3-3-patient-selection-for-consolidative-radical-inguinalpelvic-lymph-node-dissection",
+      "title": "6.3.3. Patient selection for consolidative radical inguinal/pelvic lymph node dissection",
+      "level": 4,
+      "text": "According to a systematic review, patients whose tumours respond to NAC and subsequently undergo surgical consolidation represent a favourable subgroup of patients with a mean five-year survival of 56.9% [289]. Among cN3 patients who are not candidates for conventional multi-agent chemotherapy, preoperative chemoradiation/ radiation can be offered in an attempt to downsize tumours to improve resectability. The evidence for this, however, is recognised to be weak but is being prospectively investigated in the InPACT study [293].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-3-4-surgical-technique",
+      "title": "6.3.4. Surgical technique",
+      "level": 4,
+      "text": "6.3.4.a. Inguinal lymph node dissection Surgical resection should proceed five to eight weeks after completion of chemotherapy to provide time for haematologic recovery and to allow other therapy-related symptoms to improve. Preoperative planning to remove all residual disease taking into consideration the size of the mass, involvement of surrounding structures and the anticipated skin and soft tissue defects, as well as plastic surgical consultation (as appropriate), is required for successful outcomes. 6.3.4.b. Lymph node dissection boundaries Surgical boundaries should follow that of a ‘radical inguinal lymph node’ dissection (described in Table 6.1). Wide resection of involved skin is often required with en bloc ILND. Considering the extent of inguinal metastases, along with fixation to adjacent structures, minimally invasive techniques (i.e. robotic and laparoscopic ILND) are considered inappropriate in cN3 inguinal metastases. 6.3.4.c. Pelvic lymph node dissection If pelvic LN metastases were clinically evident at diagnosis, simultaneous PLND should be performed at the time of ILND. Ipsilateral PLND should also be performed in a simultaneous (preferred) or delayed fashion in the setting of advanced bulky inguinal metastases without clinically evident pelvic metastases (i.e. prophylactic). In the latter setting, microscopic pelvic metastases were noted quite frequently (44–100%) in the setting of extracapsular disease and especially when an inguinal mass was present in one series [282]. 6.3.4.d. Surgical complications in cN3 disease Resection of bulky/fixed inguinal masses with or without prior chemotherapy is associated with a variety of complications. Minor complications not requiring hospitalisation or surgical intervention are common and tolerable when cure or significant palliation can be achieved. In several series, major post-surgical complications requiring medical or surgical intervention, or associated with disability or death, included infection/sepsis (1.5–4.5%), lymphocele requiring drainage (0–3.8%), wound dehiscence or necrosis requiring debridement (1.5–5.6%), pneumonia (0–2.9%), deep venous thrombosis/pulmonary embolus (0–8.7%), and death (0–5.6%) [208,291,292]. Overall, in the three selected series of patients treated at experienced centres, the incidence of major complications as described above was less than one in ten patients, with 3/82 (3.9%) patients succumbing to sepsis or other early perioperative complications.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-3-5-summary-of-evidence-and-guidelines-for-the-surgical-management-of-cn3-disease",
+      "title": "6.3.5. Summary of evidence and guidelines for the surgical management of cN3 disease",
+      "level": 4,
+      "text": "Summary of evidence LE Surgery alone will rarely cure patients with cN3 disease. 3 Even when technically feasible, upfront surgery is associated with significant complications that may delay or prevent delivery of adjuvant therapy. 3 Approximately half of the patients with advanced (cN2–cN3) penile cancer respond to combination chemotherapy. Responders that subsequently undergo consolidative ILND/PLND have an OS chance of about 50% at five years. 2a Inguinal LND in cN3 patients often requires resection of overlying skin to effectively remove a fixed bulky nodal mass. 4 The available literature includes virtually no cN3 patients to assess the efficacy or safety of minimally-invasive ILND. 4 Recommendations Strength rating Offer neoadjuvant chemotherapy (NAC) using a cisplatin- and taxane-based combination to chemotherapy-fit patients with pelvic lymph node involvement or those with extensive inguinal involvement (cN3) in preference to upfront surgery. (see Section 6.4.1). Weak Offer surgery to patients responding to NAC in whom resection is feasible. Strong Offer surgery to patients who have not progressed during NAC, but resection is feasible. See also (chemo)radiation. Weak Do not offer videoendoscopic inguinal lymphadenectomy. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Surgery alone will rarely cure patients with cN3 disease.",
+              "3"
+            ],
+            [
+              "Even when technically feasible, upfront surgery is associated with significant complications that may delay or prevent delivery of adjuvant therapy.",
+              "3"
+            ],
+            [
+              "Approximately half of the patients with advanced (cN2–cN3) penile cancer respond to combination chemotherapy. Responders that subsequently undergo consolidative ILND/PLND have an OS chance of about 50% at five years.",
+              "2a"
+            ],
+            [
+              "Inguinal LND in cN3 patients often requires resection of overlying skin to effectively remove a fixed bulky nodal mass.",
+              "4"
+            ],
+            [
+              "The available literature includes virtually no cN3 patients to assess the efficacy or safety of minimally-invasive ILND.",
+              "4"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer neoadjuvant chemotherapy (NAC) using a cisplatin- and taxane-based combination to chemotherapy-fit patients with pelvic lymph node involvement or those with extensive inguinal involvement (cN3) in preference to upfront surgery. (see Section 6.4.1).",
+              "Weak"
+            ],
+            [
+              "Offer surgery to patients responding to NAC in whom resection is feasible.",
+              "Strong"
+            ],
+            [
+              "Offer surgery to patients who have not progressed during NAC, but resection is feasible. See also (chemo)radiation.",
+              "Weak"
+            ],
+            [
+              "Do not offer videoendoscopic inguinal lymphadenectomy.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-4-role-of-multimodal-chemotherapyradiotherapy-in-the-management-of-regional-lymph-nodes",
+      "title": "6.4. Role of multimodal chemotherapy/radiotherapy in the management of (regional) lymph nodes",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-4-1-systemic-therapy",
+      "title": "6.4.1. Systemic therapy",
+      "level": 4,
+      "text": "6.4.1.a. Neoadjuvant chemotherapy Bulky inguinal LN enlargement indicates extensive lymphatic metastatic disease, for which few patients will benefit from surgery alone. Neoadjuvant chemotherapy before inguinal LN surgery allows for early treatment of systemic disease and downsizing of the inguinal LN metastases. In responders, complete surgical treatment is possible with reasonable clinical outcome. Cisplatin/5-FU (PF) chemotherapy achieved response rates of 25–50%, with mostly low-grade toxicity [294,295]. Over a period of 30 years, five different NAC regimens including PF were used in 20 patients, with long-term survival in 37% of responders who underwent radical LN surgery after NAC [296]. In the European Organisation for Research and Treatment of Cancer (EORTC) cancer study 30992, 26 patients with locally advanced or metastatic disease received irinotecan and cisplatin chemotherapy. Although the study did not meet its primary endpoint (response rate), there were three cases of pathologically complete remission (pCRs) [214]. Hypothetical similarities between penile SCC and head and neck SCC led to the evaluation in penile cancer of chemotherapy regimens with an efficacy in head and neck SCC, including taxanes. A phase II trial evaluated treatment with four cycles of neoadjuvant TIP in patients with clinical N2 or N3 LN metastases [208]. An ORR of 50% was reported in 30 patients, including three (10%) pCRs. The estimated median time to progression was 8.1 months and the median OS was 17.1 months. Long-term DFS was observed in 67% of responding patients and 7% of non-responding patients. The combination of PF plus a taxane has been used in neoadjuvant and adjuvant settings [211,212,297,298]. A phase II trial with TPF reported an objective response of 38.5% in 29 locally advanced or metastatic patients, although the study did not meet its primary endpoint and there was significant toxicity [212]. A prospective study testing neoadjuvant TPF in 26 patients with locoregionally advanced penile cancer showed a pathologic complete response in one (4%) patient, with a two-year PFS and DSS probability of 12% and 28%, respectively [206]. Treatment was discontinued in 23% of patients because of toxicity. In a meta-analysis analysing ten studies (n = 182 mostly retrospective), the pooled ORR was 53% (95% CI: 42–64), and the overall mortality was 55% (95% CI: 40–70) [215]. A retrospective study of perioperative chemotherapy regimens (99% doublets) concluded that carboplatin and paclitaxel was the most efficacious regimen (over cisplatin and paclitaxel or PF), but carboplatin was only used in the postoperative setting [299]. In a single-arm, phase II trial (NCT04475016) conducted in China, a neoadjuvant regimen of four cycles of toripalimab (anti-PD-1 antibody), nimotuzumab (anti-EGFR antibody) and triplet chemotherapy (nab TIP), followed by consolidative surgery was evaluated in 29 patients with locally advanced penile SCC. Of 24 patients who underwent consolidative surgery, 14 had a pCR. Two-year OS and PFS were 72.4% and 65.5%, respectively [300]. While these data are encouraging, the contribution of individual therapeutic components is difficult to assess. Overall, these results support the activity of preoperative chemotherapy in patients with clinically involved regional LNs from penile SCC. However, randomised studies are lacking, and substantial concerns remain regarding the selection of patients who are best suited for a systemic therapy approach upfront. A large retrospective study from several international institutions including 743 patients who received an LND, suggested patients with a clinical N3 stage constituted the cohort with the most appreciable benefit from NAC use compared to LND alone [301]. Bilateral inguinal LN involvement emerged as a strong negative predictor of clinical outcome in patients with penile SCC, together with pelvic nodal involvement. In summary, given the poor outcome of upfront surgery, NAC is a potentially suitable approach for fit patients having pelvic LN (cN3) metastases, fixed inguinal LN involvement (cN3), or bulky or bilateral involvement (cN2). The limited available evidence favours a cisplatin- and taxane-based combination (doublet or triplet) as the preferred preoperative approach. In non-responding patients, the potential benefits of surgery should be re-evaluated, as prognosis is poor in these patients (see also Section 6.4). 6.4.1.b. Adjuvant chemotherapy There are known poor prognostic characteristics for a subset of patients with resected high-risk disease (such as involved pelvic LNs), indicating the likely presence of micrometastatic disease. Data exist on response rates for those with metastatic disease, and there is possible benefit for preoperative chemotherapy for those with unresectable locally advanced disease, as described above. With extrapolation from other diseases, it stands to reason that systemic therapy following resection (i.e. adjuvant therapy) m",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Results support the activity of NAC in patients with clinically involved regional LNs from penile SCC. However, randomised studies are lacking and substantial concerns remain regarding the selection of patients who are best suited for a systemic therapy approach upfront.",
+              "2b"
+            ],
+            [
+              "The available evidence favours a cisplatin- and taxane-based combination (doublet or triplet) as the preferred approach.",
+              "2b"
+            ],
+            [
+              "Limited data support the use of adjuvant chemotherapy to improve OS following surgical resection. However, it could be offered to patients with pN3 disease post-LND if NAC has not been received, upon careful consideration of risks and benefits with the patient.",
+              "4"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer neoadjuvant chemotherapy using a cisplatin- and taxane-based combination to chemotherapy-fit patients with pelvic lymph node (LN) involvement or those with extensive inguinal involvement (cN3), in preference to upfront surgery.",
+              "Weak"
+            ],
+            [
+              "Offer chemotherapy as an alternative approach to upfront surgery to selected patients with bulky mobile inguinal nodes or bilateral disease (cN2) who are candidates for cisplatin and taxane-based chemotherapy.",
+              "Weak"
+            ],
+            [
+              "Have a balanced discussion of risks and benefits of adjuvant chemotherapy with high-risk patients with surgically resected disease, in particular with those with pathological pelvic LN involvement (pN3). See also Section on postoperative radiotherapy.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-4-2-radiotherapy",
+      "title": "6.4.2. Radiotherapy",
+      "level": 4,
+      "text": "6.4.2.a. Preoperative radiation therapy The role of preoperative chemoradiotherapy is being investigated in the ongoing InPACT trial [293]. A prospective trial of chemoradiotherapy in 33 patients with (T4 any-N M0 and/or any-T N3 M0) revealed responses in 73% based upon FDG-PET/CT criteria. Ten patients (30%) remained progression- or recurrence-free at follow-up without additional surgery, while approximately 50% of the patient cohort received salvage surgical procedures. The two-year progression-free survival (PFS) and OS was 31 and 46%, respectively, but the toxicity was lower than the NAC + surgery approach. Should a patient who is otherwise unfit for chemotherapy require treatment for LNs while awaiting surgery, radiotherapy alone may be considered using conventional daily fractionation of up to 45–50Gy. Radiotherapy to the groins in penile cancer may benefit from inclusion of the prepubic fat to cover in transit lymphatics [304]. Since surgical therapy of enlarged LNs is of paramount importance, it is unlikely that preoperative radiotherapy alone would provide sufficient benefit. Should a patient who is otherwise unfit for chemotherapy require treatment to LNs while awaiting surgery, radiotherapy alone may be considered using conventional daily fractionation to 45–50Gy [218,304]. 6.4.2.b. Postoperative radiation therapy Adjuvant radiation therapy for node-positive penile cancer remains controversial. Since there is no level 1 evidence to support the benefit of radiation therapy in terms of disease recurrence and survival, it is not recommended by prior Guidelines [305,306]. Radiotherapy is being used in some institutions in the management of regional LNs for penile SCC, based on evidence and experience with other SCC sites (such as head/neck and vulvar carcinomas) [203,307,308]. Jaipuria et al., reported that following ILND and PLND, patients with > two positive LNs but negative pelvic nodes (n = 32) had increased OS with adjuvant radiation therapy compared to adjuvant chemotherapy (48 months vs. 14 months, p < 0.0001) [309]. Although 68% of patients had ENE, there were no in-field failures. The radiation dose was higher than that commonly used under these circumstances, 54Gy for ENE and up to 57–60Gy for gross residual disease. With a lower radiation dose of 50Gy, Johnstone et al. reported a high rate of in-field failures (32/39) [310]. At this dose, adjuvant radiation therapy (either groin: p = 0.016 or inguinal pelvic: p = 0.006) improved RFS only for patients without ENE. Ager et al. reporting on the experience with pN3 disease (either ENE or pelvic LN+) in two tertiary referral centres in the UK also found dose to be critically important [311]. A total of 121 of 146 patients received adjuvant radiotherapy. The five-year RFS was 51%. Twenty-six of 55 recurrences were in-field, but the risk of in-field failure was twice as high for lower doses (< 50Gy). For 92 patients with positive pelvic LN from four international centres, adjuvant radiation was found to prolong DSS by six months and delay the time to recurrence [312]. The data collated in Table 6.3 reveal variable results with conventional radiotherapy delivered in the adjuvant setting, potentially impacted by HPV status and presence/absence of ENE. Also notable in the data is the fact that traditional radiotherapy doses delivered to microscopic disease may be insufficient. Genomic data analyses have modelled that a higher radiation dose may be necessary for management of penile cancer primary lesions and nodal basins [313,314]. Table 6.3: Adjuvant conventional radiotherapy for node-positive penile cancer Author n stage aRT Adj CT RT LR OS Study type Jaipuria 2020 [309] 45 anyT pN2-3 pelvis pN- 25 7 VMAT/IMRT, 45Gy basic, 54Gy ENE, 57–60 macro No InF 47 mo. RT vs. 14 mo. CT Prosp registry Johnstone 2019 [310] 93 anyTpN3 ENE- ENE+     50Gy/25 no details   ↑OS aRT p = 0.037 or aCT p = 0.038 ↑DSS aRT p = 0.04 4 centres Winters 2018 [315] 136 pT1-3 pN1-2     45Gy + boost 45%   ↑OS aRT 5 yr. 64% vs. 53% NCDB Tang 2017 [312] 92 N3 + pelvis 40   63% 50Gy/25, 13% > 50Gy   ↑OS aRT 12.2 vs.8 p = 0.04 ↑DSS 14.4 vs.8 p = 0.02 4 centres Ager 2021 [311] 146 pN3 (ENE or pelvis+) 121   45Gy/20 to 54Gy/25 2X↑LR if < 50 26 inF OS 44% RFS 5-y 51% 2 centres UK Bandini 2021 [39] 507 ILND 86 HPV+ 40 aRT       ↑OS aRT p = 0.015 Also propensity-matched analysis 11 centres aCT = adjuvant chemotherapy; Adj = adjuvant; aRT = adjuvant radiotherapy; CT = chemotherapy; DSS = disease-specific survival; ENE = extra-nodal extension; Gy = gray; HPV = human papillomavirus; ILND = inguinal lymph node dissection; IMRT = intensity1397645928modulated radiotherapy; InF = inguinal failure; LR = local recurrence; mo. = month; n = number of patients; NCDB = National Cancer Database; OS = overall survival; RFS = recurrence free survival; RT = radiotherapy; UK = United Kingdom; VMAT = volumetric modulated arc therapy; vs. = versus; yr. = year. Human papillomavirus status could be a suitable",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Author",
+              "n",
+              "stage",
+              "aRT",
+              "Adj CT",
+              "RT",
+              "LR",
+              "OS",
+              "Study type"
+            ],
+            [
+              "Jaipuria 2020 [309]",
+              "45",
+              "anyT pN2-3pelvis pN-",
+              "25",
+              "7",
+              "VMAT/IMRT,45Gy basic,54Gy ENE,57–60 macro",
+              "No InF",
+              "47 mo. RTvs. 14 mo. CT",
+              "Prospregistry"
+            ],
+            [
+              "Johnstone 2019 [310]",
+              "93",
+              "anyTpN3ENE-ENE+",
+              " ",
+              " ",
+              "50Gy/25 no details",
+              " ",
+              "↑OS aRTp = 0.037or aCTp = 0.038↑DSS aRTp = 0.04",
+              "4 centres"
+            ],
+            [
+              "Winters 2018 [315]",
+              "136",
+              "pT1-3pN1-2",
+              " ",
+              " ",
+              "45Gy + boost 45%",
+              " ",
+              "↑OS aRT5 yr.64% vs. 53%",
+              "NCDB"
+            ],
+            [
+              "Tang 2017 [312]",
+              "92",
+              "N3 + pelvis",
+              "40",
+              " ",
+              "63%50Gy/25,13% > 50Gy",
+              " ",
+              "↑OS aRT12.2 vs.8p = 0.04↑DSS14.4 vs.8p = 0.02",
+              "4 centres"
+            ],
+            [
+              "Ager 2021 [311]",
+              "146",
+              "pN3 (ENE or pelvis+)",
+              "121",
+              " ",
+              "45Gy/20 to 54Gy/252X↑LR if < 50",
+              "26 inF",
+              "OS 44%RFS 5-y 51%",
+              "2 centres UK"
+            ],
+            [
+              "Bandini 2021 [39]",
+              "507",
+              "ILND",
+              "86HPV+40aRT",
+              " ",
+              " ",
+              " ",
+              "↑OS aRTp = 0.015Also propensity-matched analysis",
+              "11 centres"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Adjuvant radiotherapy results in increased OS if greater than two inguinal LN-positive and PLND-dissection negative.",
+              "2b"
+            ],
+            [
+              "Adjuvant conventional radiotherapy doses are often insufficient for durable control. Increased DSS and RFS in penile cancer requires 54Gy for ENE and 57–60Gy for positive margins.",
+              "3"
+            ],
+            [
+              "Perioperative chemoradiotherapy"
+            ],
+            [
+              "Chemoradiotherapy significantly improves LRC over radiotherapy alone for other SCC originating in the anal canal or head and neck, whilst in vulvar cancers, chemoradiotherapy improves OS. The evidence, however, is sparse in penile cancer.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer adjuvant radiotherapy (with or without chemosensitisation) to patients with pN2/N3 disease, including those who received prior neoadjuvant chemotherapy.",
+              "Weak"
+            ],
+            [
+              "Offer definitive radiotherapy (with or without chemosensitisation) to patients unwilling or unable to undergo surgery.",
+              "Weak"
+            ],
+            [
+              "Offer radiotherapy (with or without chemosensitisation) to cN3 patients who are not candidates for multiagent chemotherapy.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-5-systemic-and-palliative-therapies-for-advanced-disease",
+      "title": "6.5. Systemic and palliative therapies for advanced disease",
+      "level": 3,
+      "text": "Figure 6.2: Systemic and palliative therapies for advanced disease P1 = Phase I studies.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-5-1-introduction",
+      "title": "6.5.1. Introduction",
+      "level": 4,
+      "text": "Much of our current standard of care for this rare disease has evolved based upon extrapolated experience with similar cancers. The most common regimens utilised today for advanced disease are similar to those routinely used in the perioperative setting, consisting of platinum-based regimens. Most data come from institutional or retrospective studies, but cooperative groups have occasionally studied this disease via prospective phase II studies.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-5-2-chemotherapy",
+      "title": "6.5.2. Chemotherapy",
+      "level": 4,
+      "text": "Phase II cooperative group studies with bleomycin, methotrexate and cisplatin (BMP) and irinotecan cisplatin yielded response rates of 31–33% [214,318]. The median OS for BMP was 28 weeks. Toxicity was a concern with both regimens, particularly pulmonary toxicity from bleomycin. A retrospective study of PF presented a response rate of 32% and median OS of eight months. Toxicity was manageable for this patient population [319]. Addition of taxanes to cisplatin-based regimens was associated with promising activity, including complete responses. Docetaxel, cisplatin and fluorouracil was prospectively studied in a cohort with distant metastasis (28%) or locally advanced disease (72%). The response rate was 38.5% and median OS of 14 months; 2/26 patients had complete response [212]. The study did not meet its efficacy endpoint and toxicity of TPF was a concern. Another prospective study of TPF in exclusively metastatic (M1) disease showed an objective response rate of 38.5% and median OS of seven months [320]. The latter study did meet its efficacy endpoint, and toxicity was interpreted as acceptable. Paclitaxel, ifosfamide and cisplatin was prospectively studied in patients with metastases confined to LNs (N2–3, M0), having a response rate of 50% in this select population and 3/30 with surgically verified complete responses [208]. Toxicity was manageable in this setting, but limited data are available for TIP in distant metastatic disease. A systematic review of cisplatin-based chemotherapy outcomes with and without taxanes suggested a higher toxicity rate with taxanes, 49% versus 26% [215]. Vinflunine single-agent chemotherapy was prospectively studied in patients with advanced disease who were not eligible for curative surgery or NAC. Patients were required to have ECOG performance status < 2 and estimated glomerular filtration rate (GFR) > 60mL/min. Median age was 70 years, with a 27% response rate and median OS of 8.4 months. Toxicity was manageable. A retrospective study of paclitaxel single-agent chemotherapy as second line reported a response rate of 20% and median OS of 23 weeks [321]. Two studies of various second-line systemic therapy regimens found median OS of 4.5–5.6 months [322,323]. A retrospective study of 101 patients looked at the efficacy of chemotherapy as first-, second- and third-line treatment [322]. The median OS for first-line chemotherapy was 7.2 months, and two months with best supportive care. The second-line regimens in 17 patients included paclitaxel/carboplatin (41%), cisplatin/capecitabine (12%), paclitaxel (12%) or other (36%). There were two objective responses (12%), three stable disease (18%) and 17 with progressive disease (71%) as best response. Paclitaxel/carboplatin was also reported in adjuvant and neoadjuvant case series and was well tolerated [324,325]. These data support the recommendation of platinum-based chemotherapy as the preferred approach to first-line palliative systemic therapy. Choices include triplet regimens (TPF, TIP) and doublets (PF, paclitaxel/carboplatin), where doublets appear to have less toxicity. Both TPF and TIP combine two neurotoxic drugs and are not appropriate for patients with pre-existing neuropathy or low GFR. Other comorbidities and functional status should be carefully considered when selecting a regimen. While data for paclitaxel/carboplatin in advanced penile cancer are limited, it is reasonable to extrapolate from its use as palliative treatment of SCC from other sites. An alternative approach is single-agent chemotherapy with vinflunine or a taxane. Effective second-line palliative chemotherapy regimens are lacking. Second-line chemotherapy in multiple studies was associated with median OS of six months or less. This is an unmet need that also applies to patients with tumour recurrence after adjuvant or neoadjuvant chemotherapy. 6.5.2.a. Immunotherapy Immune-based therapies such as immune-checkpoint blockade (ICB), HPV-directed vaccines and adoptive T-cell therapies have emerged as potential treatment options for advanced penile cancer [326]. Given the relatively high expression of PD-L1 in penile SCC, several studies have retrospectively assessed checkpoint inhibition with or without chemotherapy in advanced disease with mixed results [327-331]. Basket studies testing combination therapies have included patients with penile SCC. In a phase I–II study of nivolumab combined with cabozantinib, with or without ipilimumab, nine patients with penile SCC were included: four with partial response and five with stable disease were reported [332]. In another study testing the combination of ipilimumab and nivolumab, five penile SCC were included reporting two patients having stable disease [333]. Prospective trials have been reported. The PERICLES trial assessed atezolizumab (anti-PD-L1), with or without locoregional radiotherapy, in advanced (stage IV) penile cancer and reported a one-year PFS of 12.5% with several patients having a durable ",
+      "tables": []
+    },
+    {
+      "anchor": "#6-5-3-role-of-radiotherapy-in-palliation",
+      "title": "6.5.3. Role of radiotherapy in palliation",
+      "level": 4,
+      "text": "Radiotherapy is frequently necessary for palliation of penile cancer and should be customised for unique presentations as necessary: for example, ulcerative fixed LNs or dermal lymphatic spread. While standard palliative regimens should be readily employed, providers should be aware that retreatment may be necessary for durable disease control [342]. This radioresistance in some cases has been noted [150].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-5-4-summary-of-evidence-and-guidelines-for-systemic-and-palliative-therapies-for-advanced-penile-cancer",
+      "title": "6.5.4. Summary of evidence and guidelines for systemic and palliative therapies for advanced penile cancer",
+      "level": 4,
+      "text": "Summary of evidence LE Low-level data support the use of platinum-based chemotherapy as first-line systemic therapy in advanced disease. 3 Effective second-line palliative chemotherapy regimens are lacking. Second-line chemotherapy in multiple studies was associated with median OS of six months or less. 3 Initial phase II or basket studies assessed anti-EGFR therapy or checkpoint inhibition, as monotherapy or combination therapy, in advanced disease. Early evidence of promising clinical activity has been reported in patients with penile cancer. 2b Recommendations Strength rating Systemic therapies Offer patients with distant metastatic disease platinum-based chemotherapy as the preferred approach to first-line palliative systemic therapy. Weak Do not offer bleomycin due to the pulmonary toxicity risk. Strong Offer patients with progressive disease under platinum chemotherapy the opportunity to enrol in clinical trials, including experimental therapies within phase I or basket trials. Strong Radiotherapy Offer radiotherapy for symptom control (palliation) in advanced disease. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Low-level data support the use of platinum-based chemotherapy as first-line systemic therapy in advanced disease.",
+              "3"
+            ],
+            [
+              "Effective second-line palliative chemotherapy regimens are lacking. Second-line chemotherapy in multiple studies was associated with median OS of six months or less.",
+              "3"
+            ],
+            [
+              "Initial phase II or basket studies assessed anti-EGFR therapy or checkpoint inhibition, as monotherapy or combination therapy, in advanced disease. Early evidence of promising clinical activity has been reported in patients with penile cancer.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Systemic therapies"
+            ],
+            [
+              "Offer patients with distant metastatic disease platinum-based chemotherapy as the preferred approach to first-line palliative systemic therapy.",
+              "Weak"
+            ],
+            [
+              "Do not offer bleomycin due to the pulmonary toxicity risk.",
+              "Strong"
+            ],
+            [
+              "Offer patients with progressive disease under platinum chemotherapy the opportunity to enrol in clinical trials, including experimental therapies within phase I or basket trials.",
+              "Strong"
+            ],
+            [
+              "Radiotherapy"
+            ],
+            [
+              "Offer radiotherapy for symptom control (palliation) in advanced disease.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 17
+}

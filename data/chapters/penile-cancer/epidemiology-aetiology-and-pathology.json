@@ -1,0 +1,828 @@
+{
+  "guideline": "penile-cancer",
+  "chapter": "epidemiology-aetiology-and-pathology",
+  "url": "https://uroweb.org/guidelines/penile-cancer/chapter/epidemiology-aetiology-and-pathology",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Preface",
+      "anchor": "#1-5-preface"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review and future goals",
+      "anchor": "#2-2-review-and-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AETIOLOGY AND PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definition of penile cancer",
+      "anchor": "#3-1-definition-of-penile-cancer"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Risk factors, prognosis and prevention",
+      "anchor": "#3-3-risk-factors-prognosis-and-prevention"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Pathology",
+      "anchor": "#3-4-pathology"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Gross handling of pathology specimens",
+      "anchor": "#3-4-1-gross-handling-of-pathology-specimens"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Pathology report",
+      "anchor": "#3-4-2-pathology-report"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Grading",
+      "anchor": "#3-4-3-grading"
+    },
+    {
+      "level": 4,
+      "text": "3.4.4. Pathological prognostic factors",
+      "anchor": "#3-4-4-pathological-prognostic-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.4.5. Penile cancer and HPV",
+      "anchor": "#3-4-5-penile-cancer-and-hpv"
+    },
+    {
+      "level": 4,
+      "text": "3.4.6. Penile biopsy: pathological and technical considerations",
+      "anchor": "#3-4-6-penile-biopsy-pathological-and-technical-considerations"
+    },
+    {
+      "level": 4,
+      "text": "3.4.7. Summary of evidence and guidelines for the pathological assessment of tumour specimens",
+      "anchor": "#3-4-7-summary-of-evidence-and-guidelines-for-the-pathological-assessment-of-tumour-specimens"
+    },
+    {
+      "level": 2,
+      "text": "4. CLASSIFICATION SYSTEMS",
+      "anchor": "#4-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Tumour, node and metastasis classification",
+      "anchor": "#4-1-tumour-node-and-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Cancer stage grouping",
+      "anchor": "#4-2-cancer-stage-grouping"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION AND STAGING",
+      "anchor": "#5-diagnostic-evaluation-and-staging"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Primary lesion",
+      "anchor": "#5-1-primary-lesion"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Physical examination",
+      "anchor": "#5-1-1-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Imaging of the primary tumour",
+      "anchor": "#5-1-2-imaging-of-the-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "5.1.3. Penile biopsy: indications",
+      "anchor": "#5-1-3-penile-biopsy-indications"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Lymph node staging",
+      "anchor": "#5-2-lymph-node-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Physical examination",
+      "anchor": "#5-2-1-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Clinically node-negative (cN0)",
+      "anchor": "#5-2-2-clinically-node-negative-cn0"
+    },
+    {
+      "level": 4,
+      "text": "5.2.3. Clinically node-positive (cN+)",
+      "anchor": "#5-2-3-clinically-node-positive-cn"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Genomic testing",
+      "anchor": "#5-3-genomic-testing"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Summary of evidence and guidelines for the diagnosis and staging of penile cancer",
+      "anchor": "#5-4-summary-of-evidence-and-guidelines-for-the-diagnosis-and-staging-of-penile-cancer"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT",
+      "anchor": "#6-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Treatment of the primary tumour",
+      "anchor": "#6-1-treatment-of-the-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Treatment of superficial non-invasive disease (PeIN, Ta)",
+      "anchor": "#6-1-1-treatment-of-superficial-non-invasive-disease-pein-ta"
+    },
+    {
+      "level": 4,
+      "text": "6.1.3. Locally advanced disease (T3–T4)",
+      "anchor": "#6-1-3-locally-advanced-disease-t3t4"
+    },
+    {
+      "level": 4,
+      "text": "6.1.4. Local recurrence after organ-sparing surgery",
+      "anchor": "#6-1-4-local-recurrence-after-organ-sparing-surgery"
+    },
+    {
+      "level": 4,
+      "text": "6.1.5. Summary of evidence and guidelines for local treatment of penile carcinoma",
+      "anchor": "#6-1-5-summary-of-evidence-and-guidelines-for-local-treatment-of-penile-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Regional lymph node management: clinically evident disease (cN1–cN3)",
+      "anchor": "#6-2-regional-lymph-node-management-clinically-evident-disease-cn1cn3"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Introduction",
+      "anchor": "#6-2-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "6.2.2.c N1–N2 disease: radical inguinal lymph node dissection",
+      "anchor": "#6-2-2-c-n1n2-disease-radical-inguinal-lymph-node-dissection"
+    },
+    {
+      "level": 4,
+      "text": "6.2.3. Prophylactic pelvic lymph node dissection",
+      "anchor": "#6-2-3-prophylactic-pelvic-lymph-node-dissection"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Clinical N3 disease (cN3)",
+      "anchor": "#6-3-clinical-n3-disease-cn3"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. Diagnostic evaluation",
+      "anchor": "#6-3-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Management strategy",
+      "anchor": "#6-3-2-management-strategy"
+    },
+    {
+      "level": 4,
+      "text": "6.3.4. Surgical technique",
+      "anchor": "#6-3-4-surgical-technique"
+    },
+    {
+      "level": 4,
+      "text": "6.3.5. Summary of evidence and guidelines for the surgical management of cN3 disease",
+      "anchor": "#6-3-5-summary-of-evidence-and-guidelines-for-the-surgical-management-of-cn3-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Systemic therapy",
+      "anchor": "#6-4-1-systemic-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Radiotherapy",
+      "anchor": "#6-4-2-radiotherapy"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Systemic and palliative therapies for advanced disease",
+      "anchor": "#6-5-systemic-and-palliative-therapies-for-advanced-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.5.1. Introduction",
+      "anchor": "#6-5-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "6.5.2. Chemotherapy",
+      "anchor": "#6-5-2-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.5.3. Role of radiotherapy in palliation",
+      "anchor": "#6-5-3-role-of-radiotherapy-in-palliation"
+    },
+    {
+      "level": 4,
+      "text": "6.5.4. Summary of evidence and guidelines for systemic and palliative therapies for advanced penile cancer",
+      "anchor": "#6-5-4-summary-of-evidence-and-guidelines-for-systemic-and-palliative-therapies-for-advanced-penile-cancer"
+    },
+    {
+      "level": 2,
+      "text": "7. FOLLOW-UP AND QUALITY OF LIFE",
+      "anchor": "#7-follow-up-and-quality-of-life"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Unmet needs",
+      "anchor": "#7-1-unmet-needs"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Rationale for follow-up",
+      "anchor": "#7-2-rationale-for-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. When and how to follow-up",
+      "anchor": "#7-2-1-when-and-how-to-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Recurrence of the primary tumour",
+      "anchor": "#7-2-2-recurrence-of-the-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Regional recurrence",
+      "anchor": "#7-2-3-regional-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Patient support services",
+      "anchor": "#7-3-patient-support-services"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Psychological support",
+      "anchor": "#7-3-1-psychological-support"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Quality of life",
+      "anchor": "#7-3-2-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. Urinary function",
+      "anchor": "#7-3-3-urinary-function"
+    },
+    {
+      "level": 4,
+      "text": "7.3.4. Sexual function",
+      "anchor": "#7-3-4-sexual-function"
+    },
+    {
+      "level": 4,
+      "text": "7.3.5. Lymphoedema",
+      "anchor": "#7-3-5-lymphoedema"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Centralisation of penile cancer services",
+      "anchor": "#7-4-centralisation-of-penile-cancer-services"
+    },
+    {
+      "level": 4,
+      "text": "7.4.1. Advantages of centralised care",
+      "anchor": "#7-4-1-advantages-of-centralised-care"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Guideline adherence",
+      "anchor": "#7-4-2-guideline-adherence"
+    },
+    {
+      "level": 4,
+      "text": "7.4.3. Survival",
+      "anchor": "#7-4-3-survival"
+    },
+    {
+      "level": 4,
+      "text": "7.4.4. Disadvantages of centralised care",
+      "anchor": "#7-4-4-disadvantages-of-centralised-care"
+    },
+    {
+      "level": 3,
+      "text": "7.5. Summary of evidence and guidelines for follow-up and quality of life",
+      "anchor": "#7-5-summary-of-evidence-and-guidelines-for-follow-up-and-quality-of-life"
+    },
+    {
+      "level": 2,
+      "text": "8. REFERENCES",
+      "anchor": "#8-references"
+    },
+    {
+      "level": 2,
+      "text": "9. CONFLICT OF INTEREST",
+      "anchor": "#9-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "10. CITATION INFORMATION",
+      "anchor": "#10-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "11. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#11-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#penile-cancer",
+      "title": "Penile Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 3. Epidemiology Aetiology And Pathology Introduction Methods Epidemiology Aetiology And Pathology Classification Systems Diagnostic Evaluation And Staging Disease Management Follow-up And Quality Of Life References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#3-epidemiology-aetiology-and-pathology",
+      "title": "3. EPIDEMIOLOGY AETIOLOGY AND PATHOLOGY",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-1-definition-of-penile-cancer",
+      "title": "3.1. Definition of penile cancer",
+      "level": 3,
+      "text": "More than 95% of penile cancers are SCCs. There are several recognised subtypes of penile SCC with various clinical features and natural history (see Table 3.1). Penile SCC usually arises from the epithelium of the inner prepuce or the glans. Table 3.1: Histological subtypes of penile carcinomas according to the 2022 WHO Classification [7, 8], frequency and outcomes (modified from [9]) Subtype Frequency (% of cases) Mortality (%) Other features HPV-independent SCC Usual 45–75 20–38 Diagnosis of exclusion. Various degrees of differentiation. Pseudohyperplastic* < 1 0 Well-differentiated, superficially spreading simulating pseudoepitheliomatous hyperplasia. Pseudoglandular* < 1 30 Poorly differentiated carcinoma with acantholytic pseudolumina simulating glands. Verrucous 3–8 0 Extremely well-differentiated, broad-based, and pushing tumour front. No metastasis reported. Cuniculatum** < 1 0 Endophytic labyrinthine growth pattern with broad-based pushing margins. Papillary 2–15 0–6 Papillae covered by well- to moderately differentiated cells without koilocytes. Sarcomatoid 1–7 45–90 Biphasic epithelial and spindle cell neoplasia. Most aggressive and worse prognosis. Mixed 10–19 3–7 Two or more subtypes in the same specimen. Prognosis is related to the subtypes involved. HPV-associated Basaloid 4–10 21–67 Uniform basaloid cells in nests or sheets, with comedonecrosis or abrupt keratinisation. Warty 5–10 0–10 Condylomatous papillae with central fibrovascular cores and koilocytes. Clear cell < 1 20–30 Nests or sheets of cells with ample, clear cytoplasm with central of geographical necrosis. Lymphoepithelioma-like < 1 Unknown Poorly differentiated cells intermixed with dense lymphoplasmacytic and eosinophilic infiltrate. Mixed 4–10 30–50 Mainly warty-basaloid carcinoma according to the WHO 2022. Others SCC NOS Unknown Unknown Keratinising carcinoma. This must be used only when evaluation of p16 is not available. Adenosquamous 1–2 0–14 Squamous tumour nests intermixed with a minor mucinous glandular component. Mucoepidermoid Unknown Unknown Clear separation between adenosquamous and mucoepidermoid is not provided in the WHO classification. Salivary glands criteria can be applied but there is no consensus. HPV = human papillomavirus; NOS = not otherwise specified; SCC = squamous cell carcinoma; WHO = World Health Organization. * WHO 2022 classification consider these subtypes part of usual SCC. ** Cuniculatum carcinoma is considered a variant of verrucous carcinoma by the WHO 2022.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Subtype",
+              "Frequency (% of cases)",
+              "Mortality (%)",
+              "Other features"
+            ],
+            [
+              "HPV-independent SCC"
+            ],
+            [
+              "Usual",
+              "45–75",
+              "20–38",
+              "Diagnosis of exclusion. Various degrees of differentiation."
+            ],
+            [
+              "Pseudohyperplastic*",
+              "< 1",
+              "0",
+              "Well-differentiated, superficially spreading simulating pseudoepitheliomatous hyperplasia."
+            ],
+            [
+              "Pseudoglandular*",
+              "< 1",
+              "30",
+              "Poorly differentiated carcinoma with acantholytic pseudolumina simulating glands."
+            ],
+            [
+              "Verrucous",
+              "3–8",
+              "0",
+              "Extremely well-differentiated, broad-based, and pushing tumour front. No metastasis reported."
+            ],
+            [
+              "Cuniculatum**",
+              "< 1",
+              "0",
+              "Endophytic labyrinthine growth pattern with broad-based pushing margins."
+            ],
+            [
+              "Papillary",
+              "2–15",
+              "0–6",
+              "Papillae covered by well- to moderately differentiated cells without koilocytes."
+            ],
+            [
+              "Sarcomatoid",
+              "1–7",
+              "45–90",
+              "Biphasic epithelial and spindle cell neoplasia. Most aggressive and worse prognosis."
+            ],
+            [
+              "Mixed",
+              "10–19",
+              "3–7",
+              "Two or more subtypes in the same specimen. Prognosis is related to the subtypes involved."
+            ],
+            [
+              "HPV-associated"
+            ],
+            [
+              "Basaloid",
+              "4–10",
+              "21–67",
+              "Uniform basaloid cells in nests or sheets, with comedonecrosis or abrupt keratinisation."
+            ],
+            [
+              "Warty",
+              "5–10",
+              "0–10",
+              "Condylomatous papillae with central fibrovascular cores and koilocytes."
+            ],
+            [
+              "Clear cell",
+              "< 1",
+              "20–30",
+              "Nests or sheets of cells with ample, clear cytoplasm with central of geographical necrosis."
+            ],
+            [
+              "Lymphoepithelioma-like",
+              "< 1",
+              "Unknown",
+              "Poorly differentiated cells intermixed with dense lymphoplasmacytic and eosinophilic infiltrate."
+            ],
+            [
+              "Mixed",
+              "4–10",
+              "30–50",
+              "Mainly warty-basaloid carcinoma according to the WHO 2022."
+            ],
+            [
+              "Others"
+            ],
+            [
+              "SCC NOS",
+              "Unknown",
+              "Unknown",
+              "Keratinising carcinoma. This must be used only when evaluation of p16 is not available."
+            ],
+            [
+              "Adenosquamous",
+              "1–2",
+              "0–14",
+              "Squamous tumour nests intermixed with a minor mucinous glandular component."
+            ],
+            [
+              "Mucoepidermoid",
+              "Unknown",
+              "Unknown",
+              "Clear separation between adenosquamous and mucoepidermoid is not provided in the WHO classification.Salivary glands criteria can be applied but there is no consensus."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-2-epidemiology",
+      "title": "3.2. Epidemiology",
+      "level": 3,
+      "text": "Penile cancer incidence varies across the world (Figure 3.1). In industrialised countries, penile cancer is uncommon, with an overall incidence of approximately 0.94/100,000 males in Europe and 0.5/100,000 in the United States of America (USA) [10,11]. In contrast, in South America, Southeast Asia and parts of Africa, the incidence is much higher and can account for 1–2% of malignant disease in men [11]. The annual age-adjusted incidence is 0.7–3.0 in India and 8.3 in Brazil (per 100,000, respectively), and is higher in parts of Africa, such as Uganda [11,12]. Interestingly, some current data from South Korea demonstrate a decline in age-standardised rates, despite population aging [13]. In Europe, there is considerable variation across countries. Recent registry-based analyses across 27 European countries [14] confirm substantial heterogeneity in incidence and mortality trends. According to incidence, four groups were reported: the highest incidence in Lithuania, Latvia and Ireland; intermediate incidence for Czechia, Belgium, Germany and Estonia; low incidence for Switzerland, the Netherlands, Slovenia, Poland and Finland; and the lowest incidence was recorded for Austria. Data from Norway showed an increase in the age-standardised incidence rates in five-year periods from 2001–2015 compared to the previous periods (0.65/100,000 in 1956–1960 vs. 0.91/100,000 in 2011–2015) with an estimated annual percent change of +0.80% [15]; as well as a significant rise in the proportion of human papillomavirus (HPV)-related penile cancers (from < 30% in the 1970s to nearly 50% in the 2010s) [16]. The NORDCAN initiative, covering Denmark, Finland, Iceland, Norway and Sweden showed an increase in the incidence of penile SCC from 2000 to 2022, while survival remained unchanged [17]. In Germany, registry-based data from Saxony reported a significant rise in incidence from 0.86 in 2000 to 2.67 per 100,000 in 2018, corresponding to an annual percent change of +3.6% [18]. A study from the Netherlands [19], based on data from a nationwide cancer registry, reported an increase in incidence from 0.92 to 1.83 per 100,000 per year between 1990 and 2020. In the United Kingdom (UK), the age-standardised incidence rate increased 28% between 1993 and 2018. This trend was seen in age groups from 50 to 79 years old. Incidence rates remained unchanged for both age extremes (< 50 and > 79 years) [20]. Based on 16 cancer registries in France, incidence rates between 2009 and 2011 were 0.59 per 100,000 men (95% confidence interval [CI]: 0.50–0.68) and these rates have remained stable since 1989 [21]. In the USA, the incidence of penile cancer is affected by race and ethnicity, with the highest incidence in white Hispanics (1.01), followed by Alaskans and Native American Indians (0.77), African Americans (0.62) and white non-Hispanics (0.51) per 100,000 males, respectively. The overall age-adjusted incidence rate decreased between 1973 and 2002 per decade from 0.84 (1973–1982) to 0.69 (1983–1992) and 0.58 (1993–2002) per 100,000 males, respectively [22]. An increasing trend, slightly surpassing the previous incidence rates, was described using the Surveillance, Epidemiology and End Result (SEER) 2000–2016 data [23], showing an estimated annual percent change of +3.5% from 2004 to 2016 [24]. The incidence increases with age [20,25], with a peak in the sixth decade, but does occur in younger men [26]. Penile cancer is common in regions with a high prevalence of HPV, and approximately one-third to half of cancer cases are attributed to HPV-associated carcinogenesis [27,28]. There are no reports linking this cancer to human immunodeficiency virus (HIV) or acquired immune deficiency syndrome (AIDS). Despite the lack of consistent primary epidemiological data on penile cancer worldwide, current evidence suggest an increase in incidence in Western/developed countries, most likely driven by higher infection rates of HPV, which is a trend also observed in oropharynx carcinoma [29]. There is a critical need to improve the reporting and standardisation of penile cancer epidemiological data globally to evaluate the effectiveness of interventions. Figure 3.1: Annual incidence rate (world standardised) by world area [30]",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-risk-factors-prognosis-and-prevention",
+      "title": "3.3. Risk factors, prognosis and prevention",
+      "level": 3,
+      "text": "Several risk factors for penile cancer have been identified, such as phimosis, chronic penile inflammation, lichen sclerosus, smoking, ultraviolet A phototherapy and low socioeconomic status, amongst others [31]. Patient outcome is influenced by clinical and histologic features. United States SEER data from 18 cancer registries indicated an overall five-year relative survival of 67%, with no significant changes when comparing five-year spans between 2000 and 2014. Patients with localised disease showed the best outcome with up to 81% five-year relative survival. Patients with distant metastases have the worst outcomes with only 16% five-year relative survival [32]. Human papillomavirus infection is the main risk factor for penile cancer [33]. Human papillomavirus deoxyribonucleic acid (DNA) has been identified in intraepithelial neoplasia and invasive penile cancer tissue samples. The HPV virus interacts with oncogenes and tumour suppressor genes (p16, P53, Rb genes) [34,35]. The rate of HPV-positivity differs among various histological subtypes of penile SCC. Human papillomavirus is a co-factor in the carcinogenesis of some subtypes of penile SCC, while others are not related to HPV. The risk of penile cancer is increased in patients with condyloma acuminata [36]. A systematic review of 52 studies concluded that the overall HPV prevalence in penile cancer is 50.8% (95% CI: 44.8–56.7). Among HPV-associated carcinomas, basaloid carcinoma showed the highest prevalence (84%), followed by warty-basaloid carcinoma (75.7%) and warty carcinomas (58.7%). In histologically HPV-independent carcinomas, HPV prevalence was 19.4%. The most frequent HPV genotypes were HPV16 (68.3%, 95% CI: 58.9–77.1), followed by the low-risk HPV6 genotype (8.1%, 95% CI: 4.0–13.7) [28]. In early studies, HPV has shown an inconsistent association with prognosis. In one study, a significantly better five-year disease-specific survival (DSS) was reported for HPV-positive versus HPV-negative cases (93% vs. 78%) [37], while no difference in lymph node (LN) metastases and ten-year survival was reported in another study [38]. This variable relationship with outcome remains unexplained, but some studies suggested that it can be related to specific treatment [39] and linked to various histologic subtypes [40]. A meta-analysis published in 2018 [41] reported a pooled hazard ratio (HR) of 0.61 for penile cancer HPV-positive cases, which is in line with head, neck [42] and anal cancers [43], with an HR of 0.34 and 0.54, respectively. Positivity for p16 immunohistochemistry (IHC), a surrogate for HPV activity (see Section 3.4.5), has emerged as an independent prognostic marker for penile SCC (DSS HR: 0.45) based on two meta-analyses [41,44]. It positively outperforms HPV status in predicting DSS, with five-year DSS approaching 88% in p16-positive versus 58% in negative tumours [45]. One study from Norway showed better prognosis for HPV-positive cases in patients with positive LNs [16]. Similar trends were reported in vulvar and anal cancers [43,46]. There is no significant association between the incidence of penile and cervical cancer, although half of penile cancer and virtually all cervical cancer cases are linked to HPV [47]. Female sexual partners of patients with penile cancer have not been found to have an increased incidence of cervical cancer [48]. Aberrant p53 immunostaining, as a surrogate for TP53 mutation, independently predicts worse overall survival (OS) and cancer-specific survival (CSS) [49,50]. TP53 alterations may be more common in HPV-negative tumours and emerging datasets have described the genomic landscape of penile carcinoma, some of which may have prognostic implications [49-60]. High expression of Ki67 – another immunohistochemical marker used in penile SCC – was associated with marginal decrease in CSS [50]. At present, except in a limited number of countries, there is no general recommendation for HPV vaccination in males, due to the various HPV-associated risk patterns in penile and cervical cancer. A meta-analysis showed that the incidence of anal (risk ratio [RR]: 0.42), oral (RR: 0.16) and cervical HPV infections (RR: 0.22) were reduced in vaccinated groups when compared against control groups, indicating that HPV vaccination leads to the prevention of HPV infection [61]. Human papillomavirus vaccination in males showed more than 50% efficacy against anal intraepithelial lesions, but no meaningful estimates were obtained for penile, anal and head and neck-invasive carcinomas [62]. An annual increase from 1.8% to 2.7% in HPV-associated cancers at other anatomical sites in males have been reported [63]. This trend is expected to continue over the coming decades, due to the late peak in incidence and the recent adoption of gender-neutral HPV vaccination programmes. Since up to 50% of invasive penile carcinomas and 80% of preneoplastic lesions are HPV-associated, HPV vaccination for this at-risk population is encouraged [64",
+      "tables": []
+    },
+    {
+      "anchor": "#3-4-pathology",
+      "title": "3.4. Pathology",
+      "level": 3,
+      "text": "Squamous cell carcinoma accounts for over 95% of penile malignancies. It is not known how often SCC is preceded by premalignant lesions [69-72]. Recent multi-institutional data from North America showed that isolated PeIN, while highly recurrent (±30–48% after excision), rarely progresses to invasive carcinoma (±2%), even with frequent positive margins, supporting an indolent natural history in many cases [73]. Penile intraepithelial neoplasia is considered the precursor lesion of penile SCC; PeINs are classified into HPV-independent, known as differentiated PeIN, and HPV-associated, following the same scheme as the invasive counterparts, in line with WHO 2022 and the recent ISUP consensus [74] (see Table 3.2). Clinical terms such as ‘Erythroplasia of Queyrat, Bowenoid papulosis and Bowen’s disease’ are discouraged, based on the 2022 WHO classification [7,75]. Different histological types of penile SCC with different growth patterns, clinical aggressiveness and HPV associations have been identified (see Table 3.1). Numerous mixed forms exist, such as the warty-basaloid form, the most common mixed form (50–60%), the usual-verrucous (hybrid), usual-warty, usual-basaloid and the usual-papillary, as well as other rarer combinations. Other malignant lesions of the penis – all much less common than penile SCC – are melanocytic lesions, mesenchymal tumours, lymphomas and metastases. Penile metastases are frequently of prostatic, urinary bladder or colorectal origin [76]. Various types of penile sarcoma have been reported [7]. Table 3.2: Classification of penile intraepithelial neoplasia [7] Classification of penile intraepithelial neoplasia • HPV-independent • Differentiated PeIN • HPV-associated PeIN • Common patterns: basaloid (undifferentiated), warty (condylomatous) and mixed • Other (less frequent) patterns: pagetoid, clear cell and spindle cell histology",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Classification of penile intraepithelial neoplasia"
+            ],
+            [
+              "• HPV-independent"
+            ],
+            [
+              "• Differentiated PeIN"
+            ],
+            [
+              "• HPV-associated PeIN"
+            ],
+            [
+              "• Common patterns: basaloid (undifferentiated), warty (condylomatous) and mixed"
+            ],
+            [
+              "• Other (less frequent) patterns: pagetoid, clear cell and spindle cell histology"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-1-gross-handling-of-pathology-specimens",
+      "title": "3.4.1. Gross handling of pathology specimens",
+      "level": 4,
+      "text": "Tissue sections determine the accuracy of histological diagnosis. Small lesions should be fully included – larger lesions should have at least 3–4 blocks of tumour with the anatomical landmarks. Specimens should be properly oriented by the surgeons and, in case of circumcision or glans resurfacing, properly pinned to allow clear evaluation of the resection margins. Penectomy specimens must be canalised through the urethra and cut longitudinally in two halves for the evaluation of invasion of the penile structures. In larger tumours, identification of distal urethra on gross (as also microscopy) may be difficult. Whole-mount inclusion and sections are recommended, as they provide a better background for the appropriate identification of anatomical structures that can improve accurate staging with a minimal increase in cost [77]. Sentinel LN should be evaluated according to a standardised IHC protocol [78] for detection of micrometastases. Lymphadenectomy/lymph node dissection (LND) specimens should be inked and the LNs evaluated properly, since extracapsular extension profoundly influences nodal staging and treatment decisions. Second-opinion pathology review is highly desirable for this rare tumour entity [79], as is setting up comprehensive referral centres for penile cancer management on a national level [79,80].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-4-2-pathology-report",
+      "title": "3.4.2. Pathology report",
+      "level": 4,
+      "text": "For standardisation and data collection purposes, the dataset template from the International Collaboration on Cancer Reporting (ICCR) should be used when possible. The pathology report must include the anatomical site of the primary tumour, the histological type of SCC, grade, perineural invasion, depth of invasion, vascular invasion (venous/lymphatic), pattern of invasion, urethral invasion, invasion of corpus spongiosum/corpora cavernosa, surgical margins and p16 IHC results [81-84] (Table 3.3). The confirmation of the presence of HPV in the specimen (e.g. polymerase chain reaction, in situ hybridisation [ISH] for viral DNA/ribonucleic acid [RNA]) is desirable, but currently only carried out in research settings. Table 3.3: Information to include in pathology reports for penile carcinomas Type of information* Recommended Required Clinical information Prior treatments (topic, radiotherapy, chemotherapy) x   Surgical procedure   x Tumour localisation Anatomic structures involved externally (e.g. foreskin, glans, etc.) and in depth (e.g. dartos, corpus spongiosum, etc.)   x Macroscopic tumour dimension Size of tumour Maximum thickness   x Photographic documentation x   Block identification with description of the localisation of the samples   x Histological tumour type   x Histological grade   x Microscopic maximum dimensions Depth of invasion (i.e. millimetres from basement membrane to deepest point of invasion) Combination of gross and microscopic if large tumours   x Extent of invasion (microscopic confirmation of all the involved anatomic structures)   x Tumour invasion front (Broadly-based pushing, destructive but well-delineated, destructive irregular/finger-like invasion/tumour budding) [85-87] x   Lymphovascular invasion [88,89]   x Perineural invasion   x Margin status in mm (margins as per specimen)   x Lymph node status Size of largest nodal tumour deposit (not LN size), total number of LNs, number of positive LNs, extra-capsular spread, inguinal  or pelvic, to be reported in every site separately   x pTNM Stage   x HPV assessment (at least p16 IHC based)   x * See also ICCR dataset: https://www.iccr-cancer.org/datasets/published-datasets/urinary-male-genital/penis/.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Type of information*",
+              "Recommended",
+              "Required"
+            ],
+            [
+              "Clinical informationPrior treatments (topic, radiotherapy, chemotherapy)",
+              "x",
+              " "
+            ],
+            [
+              "Surgical procedure",
+              " ",
+              "x"
+            ],
+            [
+              "Tumour localisationAnatomic structures involved externally (e.g. foreskin, glans, etc.) and in depth (e.g. dartos, corpus spongiosum, etc.)",
+              " ",
+              "x"
+            ],
+            [
+              "Macroscopic tumour dimensionSize of tumourMaximum thickness",
+              " ",
+              "x"
+            ],
+            [
+              "Photographic documentation",
+              "x",
+              " "
+            ],
+            [
+              "Block identification with description of the localisation of the samples",
+              " ",
+              "x"
+            ],
+            [
+              "Histological tumour type",
+              " ",
+              "x"
+            ],
+            [
+              "Histological grade",
+              " ",
+              "x"
+            ],
+            [
+              "Microscopic maximum dimensionsDepth of invasion (i.e. millimetres from basement membrane to deepest point of invasion)Combination of gross and microscopic if large tumours",
+              " ",
+              "x"
+            ],
+            [
+              "Extent of invasion (microscopic confirmation of all the involved anatomic structures)",
+              " ",
+              "x"
+            ],
+            [
+              "Tumour invasion front (Broadly-based pushing, destructive but well-delineated, destructive irregular/finger-like invasion/tumour budding) [85-87]",
+              "x",
+              " "
+            ],
+            [
+              "Lymphovascular invasion [88,89]",
+              " ",
+              "x"
+            ],
+            [
+              "Perineural invasion",
+              " ",
+              "x"
+            ],
+            [
+              "Margin status in mm (margins as per specimen)",
+              " ",
+              "x"
+            ],
+            [
+              "Lymph node statusSize of largest nodal tumour deposit (not LN size), total number of LNs, number of positive LNs, extra-capsular spread, inguinal  or pelvic, to be reported in every site separately",
+              " ",
+              "x"
+            ],
+            [
+              "pTNM Stage",
+              " ",
+              "x"
+            ],
+            [
+              "HPV assessment (at least p16 IHC based)",
+              " ",
+              "x"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-3-grading",
+      "title": "3.4.3. Grading",
+      "level": 4,
+      "text": "The tumour, node, metastasis (TNM) classification for penile cancer includes tumour grade, based on its prognostic relevance. Tumour grading in penile cancer has been shown to be highly observer-dependent and can be problematic, especially in large tumours, which may be heterogeneous. This may have implications on the clinical management, because there may be discordance between biopsy and resection grading [69]. Interobserver agreement varies according to the experience and specialisation of the pathologist. In general, interobserver agreement is poor to moderate (Fleiss’ kappa 0.07–0.55) [90]. Alternatives or complementary approaches for grading, such as the tumour infiltration pattern [86,91], have been suggested. A population-based Swedish study proposed a new histological risk grading system based on objective parameters – worst pattern of invasion, lymphocytic host response, lymphovascular invasion and perineural invasion. This model, which excludes subjective grading, identified a large cohort of patients as low risk (98.2% node-negative), suggesting many could safely avoid LN surgery [92]. Although some registries and studies have proposed grading PeIN into low and high-grade, the International Society of Urological Pathology (ISUP) 2025 consensus advises that PeIN should not be graded in routine practice [74]. Nevertheless, until a new methodology to grade penile SCC is developed, grading based on the WHO/ISUP classification is recommended (see Table 3.4), with grade 3 and sarcomatoid being considered to be poorly differentiated. Table 3.4: Grading recommendations for penile squamous cell carcinoma Feature Grade 1 Grade 2 Grade 3 Sarcomatoid Cytological atypia Mild Moderate Anaplasia Sarcomatoid Keratinisation Usually abundant Less prominent May be present Absent Intercellular bridges Prominent Occasional Few Absent Mitotic activity Rare Increased Abundant Abundant Tumour margin Pushing/well-defined Infiltrative/ill-defined Infiltrative/ill-defined Infiltrative/ill-defined",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Feature",
+              "Grade 1",
+              "Grade 2",
+              "Grade 3",
+              "Sarcomatoid"
+            ],
+            [
+              "Cytological atypia",
+              "Mild",
+              "Moderate",
+              "Anaplasia",
+              "Sarcomatoid"
+            ],
+            [
+              "Keratinisation",
+              "Usually abundant",
+              "Less prominent",
+              "May be present",
+              "Absent"
+            ],
+            [
+              "Intercellular bridges",
+              "Prominent",
+              "Occasional",
+              "Few",
+              "Absent"
+            ],
+            [
+              "Mitotic activity",
+              "Rare",
+              "Increased",
+              "Abundant",
+              "Abundant"
+            ],
+            [
+              "Tumour margin",
+              "Pushing/well-defined",
+              "Infiltrative/ill-defined",
+              "Infiltrative/ill-defined",
+              "Infiltrative/ill-defined"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-4-pathological-prognostic-factors",
+      "title": "3.4.4. Pathological prognostic factors",
+      "level": 4,
+      "text": "Pathological subtype, perineural invasion, lymphovascular invasion [88], depth of invasion and grade in the primary tumour are strong predictors of poor prognosis and high cancer-specific mortality [93]. Higher grade and lymphovascular invasion are predictors of metastatic spread. Lymphovascular space involvement/invasion is often seen in advanced stages but may also be seen in early invasive tumours of high grade and some histologic subtypes [94,95]. The extent of LN metastasis and extracapsular spread are also strong predictors of prognosis. Urethral invasion is not considered a prognostic factor (Union for International Cancer Control [UICC], 9 th Edn.) [96]. Nevertheless, invasion of the more proximal urethra can signify a highly aggressive SCC with a poor prognosis, probably due to the invasion of subjacent erectile corpora (see Table 4.1). A systematic review found that invasion of the corpus spongiosum (pT2) showed better CSS, but no OS benefit compared to invasion of the corpora cavernosa [97]. A modified pT2/T3 has been proposed, taking into consideration high-grade, lymphovascular and perineural invasion features in response to this inconsistency [98]. Extracapsular extension in even one single LN carries a poor prognosis and is denoted as pN3 [99-101]. Chaux et al. suggested a prognostic index which incorporates grade, anatomical level of infiltration and perineural invasion to predict the likelihood of inguinal LN metastases and five-year survival [79,102]. Sali et al. proposed a histopathological risk scoring incorporating grade and anatomical level of involvement, but replaced perineural invasion with pattern of infiltration [87]. Other clinical, pathological and radiological scores, as well as nomograms, have been described, but none of these have been comparatively validated, which precludes making a recommendation.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-4-5-penile-cancer-and-hpv",
+      "title": "3.4.5. Penile cancer and HPV",
+      "level": 4,
+      "text": "In the 2022 WHO classification, the presence of HPV is a key determinant for the broad classification of penile SCC [7]. However, in most clinical settings, standard molecular assessment of HPV status is not available. The p16 IHC is used as a surrogate for high-risk HPV genotype presence and as a marker of oncogenic activity. In the absence of more-advanced techniques, it is helpful in assigning penile SCC to HPV-associated subtypes. The p16 IHC overall positivity in penile cancer was 41.6% [28]. Higher positivity was seen in morphological HPV-associated SCCs (85.8%) as compared with HPV-independent SCCs (17.1%) [28]. Compared with RNA ISH, p16 IHC showed a sensitivity of 100% and a specificity of 71%, the latter improved to 89% when considering a high intensity for p16 IHC positivity [103]. These data indicate that sensitivity, specificity and predictive values for HPV positivity can be improved using the stringent p16 IHC cut-off suggested by Cubilla et al. [104] (Figure 3.2). The ISUP reported that 80% of their respondents during a consultation conference on molecular pathology of urogenital cancers used p16 IHC to separate HPV-associated from HPV-independent PeIN and SCCs and made recommendations on the use of p16 IHC [105]. Figure 3.2: Patterns of p16 expression - (A) no staining; (B) mosaic staining pattern; (C) en-bloc staining pattern. Only (C) is considered positive for p16",
+      "tables": []
+    },
+    {
+      "anchor": "#3-4-6-penile-biopsy-pathological-and-technical-considerations",
+      "title": "3.4.6. Penile biopsy: pathological and technical considerations",
+      "level": 4,
+      "text": "The quality of biopsy is important [69]. In most cases, acquiring a punch biopsy (e.g. 2–3mm) under local anaesthesia is sufficient to confirm the diagnosis. In biopsies with an average size of 1mm, it was difficult to evaluate the depth of invasion in 91% of cases [69]. Moreover, vascular and lymphatic tumour emboli were detected in only 9–11% of cases [69]. Therefore, in cases in which assessment of depth of invasion is necessary, an incisional biopsy that is deep enough to properly assess the degree of invasion and stage is preferable.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-4-7-summary-of-evidence-and-guidelines-for-the-pathological-assessment-of-tumour-specimens",
+      "title": "3.4.7. Summary of evidence and guidelines for the pathological assessment of tumour specimens",
+      "level": 4,
+      "text": "Summary of evidence LE Incidence of penile cancer varies according to geographical location, race and ethnicity. 2a Western-developed countries have seen an increase in incidence, which may be caused by higher HPV infection rates. 2a In analogy to other HPV-associated cancers, HPV status may influence DSS of penile cancer, but more data are needed, underlining the importance of routine assessment of HPV status in all patients with penile cancer. 2b Recommendations Strength rating The pathological evaluation of penile carcinoma specimens must include the pTNM (see Chapter 4) stage and an assessment of tumour grade. Strong The pathological evaluation of penile carcinoma specimens must include an assessment of p16 by immunohistochemistry. Strong The pathological evaluation of penile carcinoma specimens should follow the ICCR dataset synoptic report. Strong ICCR = International Collaboration on Cancer Reporting; TNM = Tumour, Node, Metastasis.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Incidence of penile cancer varies according to geographical location, race and ethnicity.",
+              "2a"
+            ],
+            [
+              "Western-developed countries have seen an increase in incidence, which may be caused by higher HPV infection rates.",
+              "2a"
+            ],
+            [
+              "In analogy to other HPV-associated cancers, HPV status may influence DSS of penile cancer, but more data are needed, underlining the importance of routine assessment of HPV status in all patients with penile cancer.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "The pathological evaluation of penile carcinoma specimens must include the pTNM (see Chapter 4) stage and an assessment of tumour grade.",
+              "Strong"
+            ],
+            [
+              "The pathological evaluation of penile carcinoma specimens must include an assessment of p16 by immunohistochemistry.",
+              "Strong"
+            ],
+            [
+              "The pathological evaluation of penile carcinoma specimens should follow the ICCR dataset synoptic report.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 6
+}

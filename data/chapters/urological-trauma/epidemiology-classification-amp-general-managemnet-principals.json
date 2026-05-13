@@ -1,0 +1,409 @@
+{
+  "guideline": "urological-trauma",
+  "chapter": "epidemiology-classification-amp-general-managemnet-principals",
+  "url": "https://uroweb.org/guidelines/urological-trauma/chapter/epidemiology-classification-amp-general-managemnet-principals",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Evidence sources",
+      "anchor": "#2-1-evidence-sources"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY CLASSIFICATION GENERAL MANAGEMENT PRINCIPALS",
+      "anchor": "#3-epidemiology-classification-general-management-principals"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definition and epidemiology",
+      "anchor": "#3-1-definition-and-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Classification of trauma",
+      "anchor": "#3-2-classification-of-trauma"
+    },
+    {
+      "level": 3,
+      "text": "3.3. General management principals",
+      "anchor": "#3-3-general-management-principals"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Initial evaluation",
+      "anchor": "#3-3-1-initial-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Polytrauma managed in major trauma centres leads to improved survival",
+      "anchor": "#3-3-2-polytrauma-managed-in-major-trauma-centres-leads-to-improved-survival"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Damage control",
+      "anchor": "#3-3-3-damage-control"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Mass casualty events and triage",
+      "anchor": "#3-3-4-mass-casualty-events-and-triage"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. The role of thromboprophylaxis and bed rest",
+      "anchor": "#3-3-5-the-role-of-thromboprophylaxis-and-bed-rest"
+    },
+    {
+      "level": 4,
+      "text": "3.3.6. Antibiotic stewardship",
+      "anchor": "#3-3-6-antibiotic-stewardship"
+    },
+    {
+      "level": 4,
+      "text": "3.3.7. Urinary catheterisation",
+      "anchor": "#3-3-7-urinary-catheterisation"
+    },
+    {
+      "level": 2,
+      "text": "4. UROGENITAL TRAUMA GUIDELINES",
+      "anchor": "#4-urogenital-trauma-guidelines"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Renal trauma",
+      "anchor": "#4-1-renal-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. Epidemiology, aetiology and classification",
+      "anchor": "#4-1-1-epidemiology-aetiology-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. Diagnosis",
+      "anchor": "#4-1-2-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.1.3. Management",
+      "anchor": "#4-1-3-management"
+    },
+    {
+      "level": 4,
+      "text": "4.1.4. Follow-up",
+      "anchor": "#4-1-4-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "4.1.5. Complications",
+      "anchor": "#4-1-5-complications"
+    },
+    {
+      "level": 4,
+      "text": "4.1.6. Iatrogenic renal injuries",
+      "anchor": "#4-1-6-iatrogenic-renal-injuries"
+    },
+    {
+      "level": 4,
+      "text": "4.1.7. Summary of evidence and recommendations for evaluation and management of renal trauma",
+      "anchor": "#4-1-7-summary-of-evidence-and-recommendations-for-evaluation-and-management-of-renal-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.1.8. Treatment algorithms",
+      "anchor": "#4-1-8-treatment-algorithms"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Ureteral trauma",
+      "anchor": "#4-2-ureteral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#4-2-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. Diagnosis",
+      "anchor": "#4-2-2-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.2.3. Prevention of iatrogenic trauma",
+      "anchor": "#4-2-3-prevention-of-iatrogenic-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.2.4. Management",
+      "anchor": "#4-2-4-management"
+    },
+    {
+      "level": 4,
+      "text": "4.2.5. Summary of evidence and recommendations for the management of ureteral trauma",
+      "anchor": "#4-2-5-summary-of-evidence-and-recommendations-for-the-management-of-ureteral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.2.6. Treatment algorithms",
+      "anchor": "#4-2-6-treatment-algorithms"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Bladder trauma",
+      "anchor": "#4-3-bladder-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#4-3-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "4.3.2. Classification",
+      "anchor": "#4-3-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "4.3.3. Diagnosis",
+      "anchor": "#4-3-3-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.3.4. Prevention",
+      "anchor": "#4-3-4-prevention"
+    },
+    {
+      "level": 4,
+      "text": "4.3.5. Management",
+      "anchor": "#4-3-5-management"
+    },
+    {
+      "level": 4,
+      "text": "4.3.6. Follow-up",
+      "anchor": "#4-3-6-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "4.3.7. Summary of evidence and recommendations for bladder injury",
+      "anchor": "#4-3-7-summary-of-evidence-and-recommendations-for-bladder-injury"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Urethral trauma",
+      "anchor": "#4-4-urethral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Introduction",
+      "anchor": "#4-4-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Anterior male urethral injury",
+      "anchor": "#4-4-2-anterior-male-urethral-injury"
+    },
+    {
+      "level": 4,
+      "text": "4.4.3. Posterior male urethral injury",
+      "anchor": "#4-4-3-posterior-male-urethral-injury"
+    },
+    {
+      "level": 4,
+      "text": "4.4.4. Female urethral injuries",
+      "anchor": "#4-4-4-female-urethral-injuries"
+    },
+    {
+      "level": 4,
+      "text": "4.4.5. Summary of evidence and recommendations for the evaluation and management of urethral trauma",
+      "anchor": "#4-4-5-summary-of-evidence-and-recommendations-for-the-evaluation-and-management-of-urethral-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.4.6. Treatment algorithms",
+      "anchor": "#4-4-6-treatment-algorithms"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Genital trauma",
+      "anchor": "#4-5-genital-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#4-5-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Categorisation of genital trauma",
+      "anchor": "#4-5-2-categorisation-of-genital-trauma"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Diagnosis",
+      "anchor": "#4-5-3-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.5.4. Management",
+      "anchor": "#4-5-4-management"
+    },
+    {
+      "level": 4,
+      "text": "4.5.5. Complications",
+      "anchor": "#4-5-5-complications"
+    },
+    {
+      "level": 4,
+      "text": "4.5.6. Follow-up",
+      "anchor": "#4-5-6-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "4.5.7. Summary of evidence and recommendations for evaluation and management of genital trauma",
+      "anchor": "#4-5-7-summary-of-evidence-and-recommendations-for-evaluation-and-management-of-genital-trauma"
+    },
+    {
+      "level": 2,
+      "text": "5. REFERENCES",
+      "anchor": "#5-references"
+    },
+    {
+      "level": 2,
+      "text": "6. CONFLICT OF INTEREST",
+      "anchor": "#6-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "7. CITATION INFORMATION",
+      "anchor": "#7-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "8. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#8-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#urological-trauma",
+      "title": "Urological Trauma",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 3. Epidemiology Classification General Management Principals Introduction Methods Epidemiology Classification General Management Principals Urogenital Trauma Guidelines References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#3-epidemiology-classification-general-management-principals",
+      "title": "3. EPIDEMIOLOGY CLASSIFICATION GENERAL MANAGEMENT PRINCIPALS",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-1-definition-and-epidemiology",
+      "title": "3.1. Definition and epidemiology",
+      "level": 3,
+      "text": "As defined by the World Health Organization (WHO), injuries (trauma) are one of the three largest categories, along with communicable and noncommunicable disease, to cause death and disability globally and can result from road traffic accidents, falls, drowning, burns, poisoning, self-harm and/or interpersonal violence, among other causes. In 2019, both unintentional and intentional (violence-related) injuries accounted for just under 4.5 million deaths; approximately 8% of all deaths globally [9]. Death from injury is twice as common in males, particularly in relation to road traffic accidents, drowning, self-harm and interpersonal violence, and represents the seventh leading cause of death globally in males. Approximately 1.9 million deaths occur annually among those aged 15–49 years, and just under 1 million deaths are seen in those over 70 years of age, with these fatalities evenly distributed between males and females. Significant variation also exists in the causes and the effects of traumatic injuries among geographical areas and among low, middle and high-income countries. For example, road-traffic injury is one of the top-ten leading causes of death in low- and middle-income countries, but not in high-income countries [10]. Trauma is therefore a serious public health problem, with significant social and economic costs, and it is estimated that trauma is responsible for an estimated 10% of all years lived with disability [11, 12].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-2-classification-of-trauma",
+      "title": "3.2. Classification of trauma",
+      "level": 3,
+      "text": "The WHO classifies traumatic injuries into intentional (either interpersonal violence-related, war-related or self-inflicted injuries) and unintentional injuries (mainly road traffic accidents/injuries, falls and other domestic accidents). Intentional trauma accounts for just over a quarter of the trauma-related deaths worldwide [9]. A specific type of unintentional injury is iatrogenic injury, which occurs during therapeutic or diagnostic procedures by healthcare personnel. Traumatic insults are classified according to the basic mechanism of the injury into penetrating (when an object pierces the skin) and blunt injuries. Penetrating trauma is further classified according to the velocity of the projectile into: high-velocity projectiles (e.g. rifle bullets: 800–1000m/sec); medium-velocity projectiles (e.g. handgun bullets: 200–300m/sec); and low-velocity items (e.g. knife stabs). High-velocity weapons inflict greater damage due to a temporary expansive cavitation that causes destruction in a much larger area than the projectile tract itself. In lower velocity injuries, the damage is usually confined to the projectile tract. Blast injury is a complex cause of trauma, which includes blunt and penetrating trauma and burns. The most commonly used classification grading system is the American Association for the Surgery of Trauma (AAST) injury scoring scale [13, 14]. This scale is useful for managing renal trauma, but for the other urological organs, the injuries are commonly described by their anatomical site and severity (partial/complete).",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-general-management-principals",
+      "title": "3.3. General management principals",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-1-initial-evaluation",
+      "title": "3.3.1. Initial evaluation",
+      "level": 4,
+      "text": "The initial emergency assessment of a trauma patient is beyond the focus of these Guidelines. This assessment is usually carried out by emergency surgical and trauma-specialised personnel following advanced trauma life support (ATLS) principles. Detailed further assessment involves cross-sectional imaging, laboratory analysis and specialist surgical input. The management of individual organ injury will follow in the subsequent sections. Tetanus vaccine status should be assessed for all penetrating injuries.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-2-polytrauma-managed-in-major-trauma-centres-leads-to-improved-survival",
+      "title": "3.3.2. Polytrauma managed in major trauma centres leads to improved survival",
+      "level": 4,
+      "text": "Urological trauma is often associated with significant injuries in the polytraumatised patient [15]. Lessons from civilian trauma networks, military conflict and mass casualty events have led to many advances in trauma care [16-18]. These advances include the widespread acceptance of damage-control principles and trauma centralisation to major trauma centres staffed by dedicated trauma teams. The reorganisation of care to these centres has been shown to reduce mortality by 25% and length of stay by four days [16].  Urologists providing expertise in the management of urological trauma as part of the multidisciplinary trauma team is crucial to improving survivability and decreasing morbidity in the context of polytrauma patients.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-3-damage-control",
+      "title": "3.3.3. Damage control",
+      "level": 4,
+      "text": "Damage control is a life-saving strategy for severely injured patients that recognises the consequences of the lethal triad of trauma: hypothermia, coagulopathy and acidosis [19-21]. The first of a three-phased approach consists of rapid control of haemorrhage and wound contamination. The second phase involves resuscitation, with the goal of restoring normal temperature, coagulation and tissue oxygenation. The final stage involves definitive surgery, when more time-consuming reconstructive procedures are performed in the stabilised patient [22]. Urological intervention must be mindful of the phase of management. Temporarily abbreviated measures followed by later definitive surgery are required. Complex reconstructive procedures, including organ preservation, are not undertaken. The decision to enter damage control mode is taken by the lead trauma clinician following team discussion. Urological examples include haemodynamically unstable patients due to suspected renal haemorrhage or pelvic fracture with associated urethral or bladder injury. The options of temporary urinary drainage, for example, by means of nephrostomy, suprapubic and/or urethral catheterisation, are valuable adjuncts to care [23].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-4-mass-casualty-events-and-triage",
+      "title": "3.3.4. Mass casualty events and triage",
+      "level": 4,
+      "text": "A mass casualty event is one in which the number of injured people and the severity of their injuries exceed the capacity of the facility and staff [24]. Triage, communication and preparedness are important components for a successful response. Triage after mass casualty events involves difficult moral and ethical considerations. Disaster triage requires differentiation of the few critically injured individuals who can be saved by immediate intervention from the many others with non-life-threatening injuries for whom treatment can be delayed and from those whose injuries are so severe that survival is unlikely in the circumstances [25, 26].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-5-the-role-of-thromboprophylaxis-and-bed-rest",
+      "title": "3.3.5. The role of thromboprophylaxis and bed rest",
+      "level": 4,
+      "text": "Trauma patients are at high risk of deep venous thrombosis (DVT). Concerns about secondary haemorrhage result in prolonged post-injury bed rest, which effectively compounds the DVT risk. Established prophylaxis measures reduce thrombosis and are recommended following a systematic review (SR) [27]. However, the strength of evidence is not high and there is no evidence to suggest that established prophylaxis measures reduce the risk of mortality or pulmonary embolism [28]. Compression stockings and low molecular weight heparins are favoured. The risk of secondary haemorrhage in isolated renal trauma is low and the practice of strict bed rest has waned in patients who are able to mobilise [29].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-6-antibiotic-stewardship",
+      "title": "3.3.6. Antibiotic stewardship",
+      "level": 4,
+      "text": "Prophylactic antibiotic administration is common in trauma. The indication for continuing antibiotics is governed by injury grade, associated injuries and the need for intervention. Patients with urinary extravasation tend to be kept on antibiotics. However, there is no evidence base for this and the use of antibiotics should be guided by local antimicrobial policies.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-7-urinary-catheterisation",
+      "title": "3.3.7. Urinary catheterisation",
+      "level": 4,
+      "text": "Prolonged catheterisation is required in all forms of bladder and urethral injury. Catheterisation is not necessary in stable patients with low-grade renal injury. Renal trauma patients with heavy haematuria, who require monitoring or ureteric stenting, benefit from catheterisation. The catheter can be removed once the haematuria lightens and there is an improvement in the clinical situation. The shortest possible period of catheterisation is advised.",
+      "tables": []
+    }
+  ],
+  "tables_count": 0
+}

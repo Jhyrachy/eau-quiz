@@ -1,0 +1,1004 @@
+{
+  "guideline": "testicular-cancer",
+  "chapter": "disease-management",
+  "url": "https://uroweb.org/guidelines/testicular-cancer/chapter/disease-management",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 2,
+      "text": "2.1 Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Future goals",
+      "anchor": "#2-3-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AETIOLOGY PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology and Aetiology",
+      "anchor": "#3-1-epidemiology-and-aetiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Histological classification",
+      "anchor": "#3-2-histological-classification"
+    },
+    {
+      "level": 2,
+      "text": "4. STAGING & PROGNOSIS",
+      "anchor": "#4-staging--prognosis"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Staging",
+      "anchor": "#4-1-staging"
+    },
+    {
+      "level": 3,
+      "text": "4.2. The Union for International Cancer Control prognostic groups",
+      "anchor": "#4-2-the-union-for-international-cancer-control-prognostic-groups"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Risk factors for relapse in clinical stage I germ cell tumours",
+      "anchor": "#4-3-risk-factors-for-relapse-in-clinical-stage-i-germ-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. SGCT",
+      "anchor": "#4-3-1-sgct"
+    },
+    {
+      "level": 4,
+      "text": "4.3.2. NSGCT",
+      "anchor": "#4-3-2-nsgct"
+    },
+    {
+      "level": 3,
+      "text": "4.4. The International Germ Cell Cancer Collaborative Group (IGCCCG) classification for the prognostic risk groups of metastatic germ cell cancer",
+      "anchor": "#4-4-the-international-germ-cell-cancer-collaborative-group-igcccg-classification-for-the-prognostic-risk-groups-of-metastatic-germ-cell-cancer"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION",
+      "anchor": "#5-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Physical examination",
+      "anchor": "#5-1-physical-examination"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Imaging",
+      "anchor": "#5-2-imaging"
+    },
+    {
+      "level": 3,
+      "text": "5.2.1. Primary tumour",
+      "anchor": "#5-2-1-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Staging",
+      "anchor": "#5-2-2-staging"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Serum tumour markers",
+      "anchor": "#5-3-serum-tumour-markers"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Preoperative serum tumour markers",
+      "anchor": "#5-3-1-preoperative-serum-tumour-markers"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Serum tumour markers after orchidectomy",
+      "anchor": "#5-3-2-serum-tumour-markers-after-orchidectomy"
+    },
+    {
+      "level": 4,
+      "text": "5.3.3. Other tumour markers",
+      "anchor": "#5-3-3-other-tumour-markers"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Inguinal exploration and initial management",
+      "anchor": "#5-4-inguinal-exploration-and-initial-management"
+    },
+    {
+      "level": 4,
+      "text": "5.4.1. Orchidectomy",
+      "anchor": "#5-4-1-orchidectomy"
+    },
+    {
+      "level": 4,
+      "text": "5.4.2. Testis-sparing surgery",
+      "anchor": "#5-4-2-testis-sparing-surgery"
+    },
+    {
+      "level": 4,
+      "text": "5.4.3. Insertion of testicular prosthesis",
+      "anchor": "#5-4-3-insertion-of-testicular-prosthesis"
+    },
+    {
+      "level": 4,
+      "text": "5.4.4. Contralateral biopsy",
+      "anchor": "#5-4-4-contralateral-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.4.5. Germ cell neoplasia ‘in situ’ (GCNIS)",
+      "anchor": "#5-4-5-germ-cell-neoplasia-in-situ-gcnis"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Pathological examination of the testis",
+      "anchor": "#5-5-pathological-examination-of-the-testis"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Screening",
+      "anchor": "#5-6-screening"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Summary of evidence and recommendations for the diagnosis and staging of testicular cancer",
+      "anchor": "#5-7-summary-of-evidence-and-recommendations-for-the-diagnosis-and-staging-of-testicular-cancer"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT",
+      "anchor": "#6-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Stage I germ cell tumours",
+      "anchor": "#6-1-stage-i-germ-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Seminoma germ cell tumour clinical stage I",
+      "anchor": "#6-1-1-seminoma-germ-cell-tumour-clinical-stage-i"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Nonseminomatous germ cell tumours clinical stage I",
+      "anchor": "#6-1-2-nonseminomatous-germ-cell-tumours-clinical-stage-i"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Metastatic germ cell tumours",
+      "anchor": "#6-2-metastatic-germ-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Clinical stage I with (persistently) elevated serum tumour markers",
+      "anchor": "#6-2-1-clinical-stage-i-with-persistently-elevated-serum-tumour-markers"
+    },
+    {
+      "level": 4,
+      "text": "6.2.3. Metastatic disease (stage II C and III)",
+      "anchor": "#6-2-3-metastatic-disease-stage-ii-c-and-iii"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Treatment evaluation and further treatment",
+      "anchor": "#6-3-treatment-evaluation-and-further-treatment"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. Treatment evaluation",
+      "anchor": "#6-3-1-treatment-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Residual tumour resection",
+      "anchor": "#6-3-2-residual-tumour-resection"
+    },
+    {
+      "level": 4,
+      "text": "6.3.3. Sequencing of surgery in the case of multiple sites",
+      "anchor": "#6-3-3-sequencing-of-surgery-in-the-case-of-multiple-sites"
+    },
+    {
+      "level": 4,
+      "text": "6.3.4. Systemic salvage treatment for relapse or refractory disease",
+      "anchor": "#6-3-4-systemic-salvage-treatment-for-relapse-or-refractory-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.3.5. Second relapse",
+      "anchor": "#6-3-5-second-relapse"
+    },
+    {
+      "level": 4,
+      "text": "6.3.6. Treatment of brain metastases",
+      "anchor": "#6-3-6-treatment-of-brain-metastases"
+    },
+    {
+      "level": 4,
+      "text": "6.3.7. Treatment of bone metastases",
+      "anchor": "#6-3-7-treatment-of-bone-metastases"
+    },
+    {
+      "level": 4,
+      "text": "6.3.8. Summary of evidence and recommendations for the treatment of metastatic testicular germ cell tumours",
+      "anchor": "#6-3-8-summary-of-evidence-and-recommendations-for-the-treatment-of-metastatic-testicular-germ-cell-tumours"
+    },
+    {
+      "level": 2,
+      "text": "7. FOLLOW UP AFTER CURATIVE THERAPY",
+      "anchor": "#7-follow-up-after-curative-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Minimal recommendations for follow-up",
+      "anchor": "#7-1-minimal-recommendations-for-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Quality of life and long-term toxicities after cure of testicular cancer",
+      "anchor": "#7-2-quality-of-life-and-long-term-toxicities-after-cure-of-testicular-cancer"
+    },
+    {
+      "level": 2,
+      "text": "8. RARE ADULT PARA AND TESTICULAR TUMOURS",
+      "anchor": "#8-rare-adult-para-and-testicular-tumours"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Classification",
+      "anchor": "#8-1-classification"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Spermatocytic tumours",
+      "anchor": "#8-2-spermatocytic-tumours"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Sex cord-stromal tumours",
+      "anchor": "#8-3-sex-cord-stromal-tumours"
+    },
+    {
+      "level": 4,
+      "text": "8.3.1. Leydig cell tumours",
+      "anchor": "#8-3-1-leydig-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "8.3.2. Sertoli cell tumours",
+      "anchor": "#8-3-2-sertoli-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "8.3.3. Granulosa cell tumour",
+      "anchor": "#8-3-3-granulosa-cell-tumour"
+    },
+    {
+      "level": 4,
+      "text": "8.3.5. Paratesticular tumours of the epididymis or spermatic cord",
+      "anchor": "#8-3-5-paratesticular-tumours-of-the-epididymis-or-spermatic-cord"
+    },
+    {
+      "level": 3,
+      "text": "8.4. Mesothelioma of the tunica vaginalis testis",
+      "anchor": "#8-4-mesothelioma-of-the-tunica-vaginalis-testis"
+    },
+    {
+      "level": 3,
+      "text": "8.5. Follow-up of rare adult para- and testicular cancers",
+      "anchor": "#8-5-follow-up-of-rare-adult-para--and-testicular-cancers"
+    },
+    {
+      "level": 2,
+      "text": "9. REFERENCES",
+      "anchor": "#9-references"
+    },
+    {
+      "level": 2,
+      "text": "10. CONFLICT OF INTEREST",
+      "anchor": "#10-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "11. CITATION INFORMATION",
+      "anchor": "#11-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "12. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#12-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#testicular-cancer",
+      "title": "Testicular Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 6. Disease Management Introduction Methods Epidemiology Aetiology Pathology Staging & Prognosis Diagnostic Evaluation Disease Management Follow Up After Curative Therapy Rare Adult Para And Testicular Tumours References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#6-disease-management",
+      "title": "6. DISEASE MANAGEMENT",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-stage-i-germ-cell-tumours",
+      "title": "6.1. Stage I germ cell tumours",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-1-seminoma-germ-cell-tumour-clinical-stage-i",
+      "title": "6.1.1. Seminoma germ cell tumour clinical stage I",
+      "level": 4,
+      "text": "Management options for CS I SGCTs include surveillance and adjuvant chemotherapy. Retroperitoneal radiotherapy has an extremely limited role. Individual relapse risk can range from 5 to 60%, depending on a combination of risk factors. Adjuvant treatment decisions should be based on thorough discussions with the patient, incorporating potential risks and benefits, as well as individual patient circumstances. Considering that the majority of patients are cured with orchiectomy alone and that survival rates in CS I are close to 100% regardless of treatment strategy, active surveillance is thus the preferred option for the majority of patients. Higher risk patients may wish to consider the option of adjuvant treatment on individual biases. 6.1.1.a. Active surveillance Active surveillance requires a defined protocol of repeated cross-sectional imaging, monitoring of serum tumour markers and clinical assessment for the early identification of patients experiencing relapse who must receive salvage treatment (See Table 9). Several prospective, non-randomised surveillance studies have been conducted over the past decade. These studies have shown an overall risk of relapse in unselected CS I patients of 12-20% at five years with 17% in the largest series of over 1,500 patients [99]. Most occur in the retroperitoneum during the first two years [100,101]. As outlined in Section 4.3.1, approximately 15% of patients relapse after orchiectomy alone [37,39]. According to a systematic review, active surveillance offers almost identical overall survival as adjuvant management strategies, approaching 100% [102]. The cancer-specific survival (CSS) rate on ‘active surveillance’ for CS I seminoma is over 99% [99,101,103]. This is dependent on compliance with surveillance and treatment of relapse if this occurs. Active surveillance is the preferred approach as adjuvant treatment represents an overtreatment for approximately 80% of patients [104]. 6.1.1.b. Adjuvant chemotherapy An RCT comparing one cycle of carboplatin reaching area under curve of 7mg/mL/min (AUC 7) to adjuvant radiotherapy (RT) showed no difference in relapse-free rates (95% and 96%), time to recurrence and survival after a median follow-up of four years [105]. Adjuvant carboplatin (AUC 7) is, therefore, an alternative to surveillance in CS I SGCT with the presence of significant risk factors [105]. Time to relapse after Carboplatin may be longer than with active surveillance, with retrospective data reporting a median time to relapse of nineteen months, with 15% of relapses occurring beyond three years. The majority of patients relapsed in the retroperitoneum indicating that the follow-up strategies after one cycle of carboplatin will not differ from patients undergoing active surveillance [106]. Most patients relapsing after adjuvant carboplatin can be successfully treated by standard, stage-adapted cisplatin-based chemotherapy [38,107]. Potential long-term toxicities of one cycle of adjuvant carboplatin are still unknown. In a series of 199 CS I SGCT patients with a median follow-up of nine years, there was no increase in overall mortality, mortality from cardiovascular events and no excess of haematological or non-testicular solid malignancies compared to the general population in the UK [108]. 6.1.1.c. Adjuvant radiotherapy Radiotherapy to the ipsilateral retroperitoneal and common iliac field with a cumulative dose of 20Gy should be reserved for a highly selected group of patients, who are unsuitable for systemic chemotherapy in general, including adjuvant carboplatin or cisplatin-based combinations for relapsed disease. Importantly, RT carries a long-term risk of non-germ cell malignancies within the radiation field [109-112]. Generally, adjuvant RT should be avoided, particularly in young patients with a long life expectancy. 6.1.1.d. Risk-adapted treatment Prospective trials based on tumour size > 4cm and stromal rete testis infiltration have demonstrated the feasibility of a risk-adapted approach [106,113-116]. A trial of 897 patients offered active surveillance to patients with no or one of these two risk factors, whilst patients with both risk factors were offered one dose of carboplatin, AUC 7 [113]. After a median follow-up of 5.6 years, relapse rates for patients without risk factors were 4% under active surveillance compared to 2% after adjuvant carboplatin. With one or both risk factors, 15.5% of surveillance patients relapsed versus 9% of those receiving adjuvant carboplatin. Thirty-three per cent of relapses after adjuvant carboplatin occurred more than three years after orchidectomy with 3% occurring after five years [113]. 6.1.1.e. Summary of evidence and recommendations for the treatment of clinical stage I seminoma germ cell tumour of the testis Summary of evidence LE Patients with CS I SGCT have, in general, a low risk of recurrence 2a A combination of categorical tumour size, invasion of the testicular hilum, LVI and elevated preorchiecto",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Patients with CS I SGCT have, in general, a low risk of recurrence",
+              "2a"
+            ],
+            [
+              "A combination of categorical tumour size, invasion of the testicular hilum, LVI and elevated preorchiectomy levels of hCG and LDH correlate with the risk of relapse at five years.",
+              "2a"
+            ],
+            [
+              "Evidence and ease of use are limited for a routine use in guiding adjuvant treatment decisions upon risk factors.",
+              "2a"
+            ],
+            [
+              "Active surveillance is a feasible approach with conditional relapse risk in unselected series of between 12 and 20%. Disease-free survival approaches 100% independently of treatment.",
+              "2a"
+            ],
+            [
+              "In patients without conventional risk factors (tumour size < 4cm and no rete testis invasion), the five-year relapse rate under surveillance is up to 6-8%, respectively, whereas in the presence of one or two risk factors, five-year relapse rate in contemporary surveillance series is 15-20%.",
+              "2b"
+            ],
+            [
+              "In non-randomised prospective series, five-year relapse rates with adjuvant carboplatin are 2% in patients without conventional risk factors and 9% in patients with one or both risk factors.",
+              "2b"
+            ],
+            [
+              "Adjuvant chemotherapy with one course carboplatin AUC 7 is not inferior to adjuvant radiotherapy when pathological risk factors are considered. Relapse rates with both adjuvant treatments are around 5%.",
+              "1b"
+            ],
+            [
+              "Adjuvant radiotherapy is associated with an increased risk of developing secondary non-germ cell malignancies.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Inform patients about all available management options, including surveillance or adjuvant therapy after orchidectomy, as well as treatment-specific recurrence rates and acute and long-term side effects.",
+              "Strong"
+            ],
+            [
+              "Offer surveillance as the preferred management option if resources are available and the patient is compliant.",
+              "Strong"
+            ],
+            [
+              "Offer one dose of carboplatin at area under curve 7 if adjuvant chemotherapy is considered.",
+              "Strong"
+            ],
+            [
+              "Do not perform adjuvant treatment in patients at very low risk of recurrence (no risk factors).",
+              "Strong"
+            ],
+            [
+              "Do not routinely perform adjuvant radiotherapy.",
+              "Strong"
+            ],
+            [
+              "Adjuvant radiotherapy should be reserved only for highly selected patients.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-1-2-nonseminomatous-germ-cell-tumours-clinical-stage-i",
+      "title": "6.1.2. Nonseminomatous germ cell tumours clinical stage I",
+      "level": 4,
+      "text": "Management options for CS I NSGCTs include surveillance and adjuvant chemotherapy. Retroperitoneal lymph node dissection has a limited role. Overall, approximately 70% of CS I NSGCTs are cured with orchiectomy alone. In those with the high-risk feature of LVI, historical figures reported relapse in 50% compared to 15% in those without LVI. A thorough discussion should be undertaken with the patient outlining the potential advantages and disadvantages of treatment options, as well as individual comorbidities, disease features, risk factors, specific circumstances and personal preferences, to guide their treatment decision. Risk factors beyond the presence of LVI can be considered in the individual decision-making process [39]. 6.1.2.a. Surveillance Surveillance for CS I NSGCT entails a strict protocol of repeated cross-sectional imaging, monitoring of serum tumour markers and clinical assessment for the early identification of patients experiencing relapse who must receive salvage treatment (see Table 9). The largest reports of surveillance indicate a cumulative relapse risk in about 30% of CS I NSGCT (five-year conditional risk of relapse 42% and 17% for high- and low-risk CS I-NSGCT, respectively) [99,117]. Of these, 92% present within the first two years [99,117-120]. 6.1.2.b. Retroperitoneal lymph node dissection (RPLND) Since the introduction of cisplatin-based chemotherapy the role of adjuvant primary retroperitoneal lymph node dissection (RPLND) in men with CS I NSGCTs has decreased. According to data from high-volume and expert centres, primary RPLND is associated with a risk of relapse < 15% [121]. More data report a relapse rate of 10% in case of negative nodes (pathologic stage (PS) - I) and < 30% in case of nodal metastases (PS II) [121-123], possibly due to selection or stage migration. The few indications in CS I disease include men with teratoma with somatic malignant component, or patients who are not willing or suitable to undergo chemotherapy in case of recurrence, in particular in those when vascular invasion is present. In addition, patients with pure teratoma and/or intratesticular risk factors (LVI, invasion of testicular hilum, tumour size and embryonal carcinoma presence [39]) might be candidates for primary nerve sparing RPLND considering a relapse rate of 15% and a higher frequency of second relapses [124]. Publications support the safety of surveillance alone in PS II disease following RPLND, as 75-80% are relapse free at two and five years [122,123,125]. Those with relapse can be rescued with standard chemotherapy [126,127]. With PS II, both adjuvant chemotherapy comprising two cycles of BEP (except for cases of postpubertal teratoma [PPT] only) and active surveillance are standard options to be discussed with each individual. Strategies to reduce the morbidity of primary RPLND include nerve-sparing and minimally invasive approaches. In a multi-centre setting, higher rates of in-field recurrences and complications have been reported with nerve-sparing RPLND [128,129]. This suggests that primary RPLND, when indicated and chosen, should be performed by an experienced surgeon in a specialist centre. Minimally invasive (laparoscopic or robot-assisted) primary RPLND appears feasible and safe (e.g. low-complication rate) in experienced hands. This must only be performed in high-volume RPLND centres with appropriate minimally invasive surgery expertise [130-137]. Even with the most recent publications, there is the limitation of small patient numbers and a short median follow-up [138]. There is limited data on mid-term follow-up. Despite some advantages, including good efficacy, a less-demanding and costly follow-up due to the reduced need for cross-sectional imaging [139], the role of RPLND for CS I NSGCT has diminished its role in view of the high CSS rates of surveillance, the low relapse rates with adjuvant chemotherapy, and the lower reproducibility of primary RPLND on a large scale. 6.1.2.c. Adjuvant chemotherapy Adjuvant chemotherapy has been evaluated with both one and two cycles of BEP (cisplatin, etoposide, bleomycin) in CS I NSGCT. A prospective trial from 1996, as well as subsequent studies, used two cycles of BEP in high-risk patients (LVI present) [140-142]. In these series, including 200 patients, some with a median follow-up of nearly 7.9 years [140], a relapse rate of only 2.7% was reported, with minimal long-term toxicity. Two cycles of cisplatin-based adjuvant chemotherapy did not appear to adversely affect fertility or sexual activity [143]. Other studies have shown one cycle of adjuvant BEP results in similar very low recurrence rates (2-3%) [144,145]. Reduction from two to one cycle of BEP improves the risk-benefit ratio of adjuvant chemotherapy considerably. A randomised phase III trial has also compared two-year recurrence-free survival with adjuvant BEP x 1 to RPLND. Results favoured chemotherapy with recurrence free survival of 99.5% versus 91% [129]. No clinica",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Lymphovascular invasion increases the risk of relapse.",
+              "2a"
+            ],
+            [
+              "The relapse rate with active surveillance is up to 50%, when LVI is present.",
+              "2a"
+            ],
+            [
+              "The relapse rate in patients who receive adjuvant chemotherapy with BEP single-cycle is up to 3%.",
+              "2a"
+            ],
+            [
+              "Adjuvant chemotherapy with BEP single-cycle is superior to adjuvant RPLND in terms of the risk of relapse when the two strategies are not centralised in expert centres.",
+              "1b"
+            ],
+            [
+              "A risk-adapted approach based on LVI invasion is feasible.",
+              "2b"
+            ],
+            [
+              "The acute toxicity of one cycle adjuvant BEP is low.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Inform patients about all management options after orchidectomy: surveillance, adjuvant chemotherapy and retroperitoneal lymph node dissection, including treatment-specific recurrence rates, as well as acute and long-term side effects.",
+              "Strong"
+            ],
+            [
+              "Offer surveillance or risk-adapted treatment based on lymphovascular invasion (see below).",
+              "Strong"
+            ],
+            [
+              "Discuss one course of cisplatin, etoposide, bleomycin as an adjuvant treatment alternative in patients with stage I non-seminomatous germ cell tumour if patients are not willing to undergo or comply with surveillance.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Stage IA (pT1, no vascular invasion): low risk"
+            ],
+            [
+              "Offer surveillance if the patient is willing and able to comply.",
+              "Strong"
+            ],
+            [
+              "Offer adjuvant chemotherapy with one course of cisplatin, etoposide, bleomycin (BEP) in low-risk patients not willing (or unsuitable) to undergo surveillance.",
+              "Strong"
+            ],
+            [
+              "Vascular invasion present: high risk"
+            ],
+            [
+              "Offer adjuvant chemotherapy with one course of BEP, or surveillance and discuss the advantages and disadvantages.",
+              "Strong"
+            ],
+            [
+              "Offer surveillance to patients not willing to undergo adjuvant chemotherapy.",
+              "Strong"
+            ],
+            [
+              "Offer nerve-sparing retroperitoneal lymph node dissection to highly selected patients only; those with contraindication to adjuvant chemotherapy and unwilling to accept surveillance.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-2-metastatic-germ-cell-tumours",
+      "title": "6.2. Metastatic germ cell tumours",
+      "level": 3,
+      "text": "The first-line treatment of metastatic GCTs depends on: I. the histology of the primary tumour; II. prognostic groups as defined by the IGCCCG (Table 3) [43]; III. serum tumour marker decline at the end of the first cycle of chemotherapy in poorprognosis patients. In relapsed patients, a prognostic score has been developed including response to first-line therapy which can be used to estimate patient outcome following salvage chemotherapy [153].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-2-1-clinical-stage-i-with-persistently-elevated-serum-tumour-markers",
+      "title": "6.2.1. Clinical stage I with (persistently) elevated serum tumour markers",
+      "level": 4,
+      "text": "With elevated markers and CS I, weekly measurement of markers is recommended. If AFP or hCG increase or fail to normalise following orchidectomy, US examination of the contralateral testicle must be performed. If a contralateral tumour is excluded, unequivocal elevated tumour markers indicate micrometastatic disease, and treatment for metastatic GCT per IGCCCG prognostic group should be given. Some patients may have stable but slightly elevated AFP or hCG and can be initially monitored. Treatment should be commenced if markers rise or when follow-up imaging demonstrates metastatic disease.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-2-2-metastatic-disease-stage-iiab",
+      "title": "6.2.2. Metastatic disease (stage IIA/B)",
+      "level": 4,
+      "text": "6.2.2.a. Stage IIA/B seminoma Patients with enlarged retroperitoneal lymph nodes < 2cm in greatest diameter and normal markers should be observed for six to eight weeks with repeat-staging imaging, as these may be nonmetastatic on average in 10% of cases. Treatment should only be initiated if metastatic disease is unequivocal, based on biopsy, increasing nodal size/number, or subsequent marker rise [44,154]. Primary RPLND within a trial or institutional study remains an option for equivocal stage I disease. Historically, radiotherapy has been the primary treatment for stage II A/B seminoma, showing relapse rates between 5-11% [155,156]. Recommended radiation doses for stage IIA and IIB are 30Gy and 36Gy, respectively. Chemotherapy is a standard option for stage IIA/B seminoma, with relapse rates of 0-8% for stage IIA disease and 8-14% for stage IIB disease, and an excellent overall survival of 99% [157]. The standard regimen in stage II seminoma is BEP x 3 (see Appendix 3.1.2) or EP x 4 if there are concerns with the use of bleomycin [158]. There are no randomised studies comparing radiotherapy and chemotherapy. A meta-analysis of thirteen high-quality studies comparing efficacy and toxicity of radiotherapy and chemotherapy showed that these appeared similarly effective in both stage IIA/IIB patients although with a non-significant trend towards greater efficacy for chemotherapy (HR: 2.17) in stage IIB seminoma [159]. A systematic review also reached the same conclusions [160]. Acute toxicity was more pronounced following chemotherapy [159]. Several series have shown an increased risk of developing a second solid cancer following radiotherapy or cisplatin-based combination chemotherapy [161]. Long term complications of chemotherapy including cardiovascular morbidity, neurotoxicity and nephrotoxicity are also of concern [161,162]. 6.2.2.a.1. Retroperitoneal lymph node dissection In an attempt to de-escalate treatment intensity while maintaining oncological efficacy, six institutions have explored the potential role of primary retroperitoneal lymph node dissection (RPLND) for 296 patients in four prospective and two retrospective clinical studies [163-168]. All patients underwent RPLND for marker negative seminomas with CS IIA or small volume CS IIB and only 34/296 (11.5%) patients received adjuvant chemotherapy, which consisted of one cycle BEP in the majority of cases. The surgical approach was open trans- or extraperitoneal laparotomy and robotic assisted surgery for 238 (80%) and 58 (20%) patients. Median follow-up is 23 to 58 months for prospective and 18 to 22 months for retrospective trials. Frequency of surgery-related Clavien-Dindo complications ≥ 3a was low in all trials with 5% to 12% and antegrade ejaculation could be preserved in 90% to 97%. In resected specimens 84% to 98% of patients did harbour lymph node metastases. Interestingly, up to 5% of patients exhibited nonseminomatous histology in the resected specimens. With regard to oncological outcome, 48 (16%) patients relapsed with more than 90% of the recurrences developing within the first two years of follow-up. All patients could be saved by salvage chemotherapy. Only 10 (3.4%) patients demonstrated in-field relapses which, in general, underlines the high surgical quality performed by high volume surgeons of high-volume testis cancer centres. Relapse rates were 0-7.5% and 14-30% for patients undergoing surgery with or without adjuvant chemotherapy. Nerve sparing RPLND for marker-negative clinical stage IIA/B seminoma is associated with a low rate of treatment-associated morbidity, a chemotherapy-free survival of 80 to 85% if performed in expert hands and can be recommended as a primary treatment option in patients with low-volume metastatic lymph nodes ≤ 3cm in diameter. Open questions for primary RPLND concern the following: a) the optimal RPLND template; b) the optimal patient selection (size / number of nodes); c) the necessity / indication for adjuvant chemotherapy following RPLND. 6.2.2.a.2. De-escalating approaches Several trials attempted to de-escalate chemotherapy and radiotherapy, aiming at maintaining the traditional excellent oncologic result, while minimising treatment burden and toxicity. Such an approach was evaluated in the phase II SEMITEP trial, assessing chemotherapy de-escalation in patients guided by metabolic response on FDG-PET/CT after two initial cycles of etoposide, cisplatin (EP) chemotherapy [169]. Patients with complete metabolic response after EP x 2 received de-escalated treatment with one subsequent cycle of carboplatin AUC7, whilst patients with residual metabolic activity completed the initial schedule of EP x 4. The study showed comparable three-year PFS rate of 90% and 91% for the EP and carboplatin groups respectively, and a two-year OS of 100% for both groups. Despite the apparently maintained oncological efficacy, larger studies and longer follow-up is needed. For these reasons, and owing to the absenc",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "At this stage all de-escalation strategies, including RPLND should only be considered in high volume specialised centres.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "All de-escalation strategies, including retroperitoneal lymph node dissection should only be considered in high volume specialised centres.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-2-3-metastatic-disease-stage-ii-c-and-iii",
+      "title": "6.2.3. Metastatic disease (stage II C and III)",
+      "level": 4,
+      "text": "6.2.3.a. Primary chemotherapy 6.2.3.a.1. Good-prognosis risk group - seminomatous germ cell tumour For metastatic seminoma, a cisplatin-based regimen should be used. A cisplatin-based combination chemotherapy has shown superior efficacy over carboplatin-based regimens [175]. The standard regimen in good-risk seminoma is three cycles of BEP (Table 4). Alternatively, EP x 4 may be considered, particularly when bleomycin is contraindicated [176]. This achieves similar response rates but may have a slightly higher risk of relapse. The above-mentioned SEMITEP trial [169] included only a few patients with stage IIC / III seminoma, therefore, this PET-based de-escalation approach cannot be safely recommended. Post-chemotherapy masses should be managed as described in Section 6.5.2. 6.2.3.a.2. Intermediate-prognosis risk group - seminomatous germ cell tumour For patients with intermediate-risk seminoma, BEP x 4 is the standard regimen. If bleomycin is contraindicated, the combination of etoposide, cisplatin, ifosfamide (VIP) should be given. No RCT has focused specifically on this rare group of patients (see Table 3). Particular attention should be reserved to those patients within this category who have a high level of LDH (> 2.5 times the upper normal limit). Given that these patients, corresponding to approximately 20% of good prognosis metastatic SGCT [40] have a worse prognosis compared to low-LDH tumours, there is a rationale in treating these patients as per intermediate prognosis, especially in high-volume centres [177]. However, prospective randomised data to support routine clinical recommendation on this strategy are currently lacking. 6.2.3.a.3. Good-prognosis risk group - non-seminomatous germ cell tumour The standard regimen in good-risk non-seminoma is BEP x 3 (Table 4) [176]. An RCT supports the equivalence of three or five-day regimes with three or four cycles of BEP for projected two-years PFS. Three-day regimes are associated with increased toxicity [178,179]. Based on these data, the BEP x 3 as a five-day regimen is strongly recommended in the good-prognosis risk group. Two RCTs support the superiority of BEP x 3 over other regimes or schedule intensities [158,180]. A further RCT has suggested that when EP is used, the mortality rate is twice that of with BEP, although the difference did not reach statistical significance [158]. Patients with a clear contraindication to bleomycin may receive EP x 4 [178]. In all other cases omission of bleomycin is not recommended. For more information regarding chemotherapy protocols, please visit the EAU guidelines website: https://uroweb.org/guidelines/testicular-cancer/publications-appendices 6.2.3.a.4. Intermediate-prognosis risk group - nonseminomatous germ cell tumour The standard regimen is BEP x 4 [181]. Four cycles of VIP has similar efficacy but is more myelotoxic [182]. Four cycles of VIP including primary G-CSF prophylaxis should be applied in patients with contraindications to bleomycin. 6.2.3.a.5. Poor-prognosis risk group - non-seminomatous germ cell tumour The standard regimen is four cycles of BEP. Four cycles of VIP have similar efficacy but is more myelotoxic [182]. Four cycles of VIP including primary granulocyte colony stimulating factor (G-CSF) prophylaxis should be applied in patients with contraindications to bleomycin [183,184]. Serum tumour marker decline is the only prospectively confirmed predictor for response to cisplatin chemotherapy in metastatic germ cell tumour patients. Patients with inadequate tumour marker decline after the first or second cycle of BEP represent a prognostically inferior subgroup [184,185]. There are several ways to calculate tumour marker decline kinetics with an example available at: https://www.gustaveroussy.fr/calculation-tumor/NSGCT.html . An RCT demonstrated improved PFS when intensifying treatment with dose-dense chemotherapy in patients with an early unfavourable tumour marker decline [186]. The trial was not powered to estimate OS differences. Based on the results from this trial, patients with an unfavourable tumour marker decline after BEP x 1 can be switched to a more intensive (dose-dense) chemotherapy regimen [186]. Additional patient groups with an unfavourable prognosis on standard treatment are primary mediastinal nonseminoma and patients with brain metastases at initial diagnosis [187,188]. These may also be candidates for upfront intensified treatment, preferably in a prospective study. In RCTs, primary high-dose chemotherapy (HDCT) with subsequent autologous stem cell transplantation has not shown an OS benefit in the overall poor-prognosis patient population in RCTs [183,184]. Selected patients, such as primary mediastinal nonseminoma, do have poor survival following standard dose chemotherapy [189]. They may derive a benefit from primary HDCT [190], preferably within a prospective protocol. Better outcomes are reported for intermediate and poor prognosis patients treated at high-volume ",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Prognostic group IGCCCG",
+              "Treatment",
+              "LE"
+            ],
+            [
+              "Good (SGCT and NSGCT)",
+              "BEP x 3 or EP x 4",
+              "1b"
+            ],
+            [
+              "Intermediate (SGCT and NSGCT)",
+              "BEP x 4 or VIP x 4",
+              "1b"
+            ],
+            [
+              "Poor (NSGCT)",
+              "BEP x 4 or VIP x 4 if favourable marker decline",
+              "1b"
+            ],
+            [
+              "Dose escalation in selected cases with inadequate serum tumour marker decline",
+              "1b"
+            ],
+            [
+              " ",
+              "Patients should be treated at high volume centres",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Thromboembolic events occur more frequently in male patients with GCTs receiving chemotherapy than in young males under chemotherapy for other cancers.",
+              "2b"
+            ],
+            [
+              "Retrospective studies have identified multiple risk factors for the development of thromboembolic events including increasing stage, size of retroperitoneal lymph nodes at different cut-offs, Khorana score > 3 and indwelling vascular access device (only modifiable risk factor).",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Balance the individual patients’ potential benefits and risks of thromboprophylaxis during first-line chemotherapy in men with metastatic germ cell tumours.",
+              "Weak"
+            ],
+            [
+              "Avoid use of central venous-access devices during first-line chemotherapy whenever possible.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-3-treatment-evaluation-and-further-treatment",
+      "title": "6.3. Treatment evaluation and further treatment",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-3-1-treatment-evaluation",
+      "title": "6.3.1. Treatment evaluation",
+      "level": 4,
+      "text": "Response to treatment should be assessed after the initial induction cycle by repeat imagining and/or re-evaluation of tumour markers. With marker decline and/or radiologically regressing or stable tumour features, the planned chemotherapy should be completed [200,202]. If markers decline, but metastases progress on imaging, induction therapy must be completed [203]. If markers have normalised and masses with features of post-pubertal teratoma progress early surgical resection should be considered. Slow marker-decline in poor prognosis non-seminoma with the initial one to two cycles of chemotherapy warrants consideration for dose intensification (see Section 7.2.3.a.5, Calculation of tumour marker decline). Following completion of treatment, cases with a low-level hCG plateau should be observed to determine whether complete normalisation subsequently occurs. In patients with a low plateau serum AFP level after chemotherapy, removal of residual masses should be undertaken, with subsequent AFP monitoring. Preoperative AFP levels of > 30 μg/l and viable cancer found in the histological examination of the resected specimen have been described as predictors of relapse after first line chemotherapy [204]. Salvage chemotherapy is therefore only indicated for documented marker progression [203,205].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-3-2-residual-tumour-resection",
+      "title": "6.3.2. Residual tumour resection",
+      "level": 4,
+      "text": "6.3.2.a. Seminoma A residual mass of seminoma should initially be monitored with imaging and tumour markers [206-208]. As FDG-PET has a high NPV, in patients with residual masses > 3cm in largest diameter, this should be considered to provide more information on disease viability [209-211]. It should not be performed until at least two months after completion of chemotherapy, as inflammation and the desmoplastic reaction induced by chemotherapy may result in a false positive result [212]. The NPV for active disease is > 90% which can be reassuring [209,210]. In contrast PPV ranges from 23-69%. A single positive PET-CT alone should not guide additional treatment decisions [213]. When a post-chemotherapy mass remains positive at reclassification with FDG-PET with no volume increase, repeat FDG-PET should be performed six weeks later. A recent publication shows a low PPV for vital tumours in residual lesions (generally > 3cm) after chemotherapy in metastatic seminoma (11-38% depending on sub-group). Therefore, caution is recommended with FDG-PET as a single parameter to drive clinical decisions in a persistent mass [213]. In patients with progressive disease on radiological criteria (i.e. a growing mass which enhances with CECT or is FDG-PET avid), salvage therapy is indicated [214-216]. Patients with progressing hCG elevation after first-line chemotherapy should proceed to salvage chemotherapy. Progressing residual masses without hCG progression should undergo histological verification (e.g. by percutaneous or surgical biopsy) before salvage chemotherapy is given. Retroperitoneal lymph node dissection should not be based on PET/CT findings alone. The risk for viable disease is only 40% and the only parameter associated with viable was a progression of the residual mass on conventional images. RPLND should be performed if there is no or a minimal risk for additional adjunctive surgery, whereas second-line chemotherapy represents the treatment of choice for patients with complex residual masses [215]. 6.3.2.b. Nonseminom Following first-line BEP it has be reported that about 7% of residual masses contain active cancer, 33% postpubertal teratoma, and 40% necrotic-fibrotic tissue only [217]. The remainder comprise rarer entities including malignant transformation of teratoma. Restaging patients following chemotherapy with FDG-PET is not indicated [49,50,212]. With complete radiological remission, RPLND is not indicated [218,219]. The usual timing for restaging is three to four weeks after the beginning of the previous cycle. No diagnostic or risk calculator can accurately predict histology of the residual masses. Thus, resection is mandatory in all patients with a residual mass > 1cm in transaxial long axis at cross-sectional CECT imaging until novel predictive models are externally validated [220-223]. Surgery should be performed within six to eight weeks after the previous chemotherapy cycle. The role of surgery for residual retroperitoneal lesions < 1cm is uncertain. It is difficult to distinguish between a true residual node below 10mm and a complete remission, and many authors consider these situations to be equivalent. Residuals containing cancer or teratoma are possible, but the vast majority of patients have fibro-necrotic tissue only [219]. Whilst post-chemotherapy RPLND for residuals < 10mm in transaxial long axis or complete remission is an option [224], the alternative option is close surveillance with recurrence risk of 6-9%, depending on the follow-up duration [217-219,225]. In the series with the longest follow-up of 15.5 years, twelve (9%) of 141 patients relapsed despite a complete response following primary treatment [219,225]. Eight of the twelve relapsing patients were cured with subsequent treatment. These cases should be discussed on individual basis considering the orientation and expectations of the patient. Residual masses after salvage chemotherapy or HDCT in first or subsequent salvage settings have a greater risk of harbouring active disease [226]. Surgery is therefore indicated even for residual masses < 1cm [218,219]. When resection is indicated, bilateral nerve-sparing RPLND is the standard option. Ipsilateral template resection avoids contralateral nerve dissection and may be considered for residuals with a diameter < 5 cm [227], as well as unilateral lymph node metastases on pre- and post-chemotherapy CT scans. Left-sided tumours only require para-aortic resection whereas right-side tumours need paracaval and inter-aortocaval resection down to the iliac arteries [228,229]. Mapping studies indicate the potential risk of contralateral disease with this approach is low at around 1-3% [228,230]. The mere resection of the residual tumour (so called lumpectomy) should not be performed [219,223,226,227,229,231,232]. Laparoscopic or robotic RPLND may yield comparable outcomes to open procedures in selected cases, with low-volume residual disease and when undertaken by very experienced sur",
+      "tables": []
+    },
+    {
+      "anchor": "#6-3-3-sequencing-of-surgery-in-the-case-of-multiple-sites",
+      "title": "6.3.3. Sequencing of surgery in the case of multiple sites",
+      "level": 4,
+      "text": "In general, surgery should commence at the site with the highest volume of residual disease. The histology of the mass diverges in different organ sites [220]. In cases of residual retroperitoneal and lung masses, the presence of fibro-necrotic tissue in the retroperitoneum is associated with a probability as high as 90%, that lung masses contain the same histology [237]. When pathologic examination of the lesions from the initial side shows complete necrosis, observation may be considered when there are multiple contralateral tumours for which resection may be challenging. Discordant histology between lung sites, however, may occur in up to 20% of cases and thus, patients in this situation should be closely monitored with reconsideration of surgery or biopsy if radiological features change [238,239]. 6.3.3.a. Quality and intensity of surgery Resection of visceral structures and/or major vessels, requiring vascular reconstruction/replacement may be required to achieve radical resection and patients undergoing adjunctive complex surgery have a greater risk of complications [240,241]. In patients with intermediate- or poor-risk and residual disease > 5cm, the probability of vascular procedures is as high as 20% [242]. These cases must therefore be referred to specialised centres capable of interdisciplinary surgery (gastroenteric and vascular surgery, spinal neurosurgery, thoracic surgery). Even with centralisation of treatment, the median number of RPLNDs performed per surgeon/year in the U.K. is six [243]. Nevertheless, patients treated within such centres benefit from a significant reduction in peri-operative mortality from 6% to 0.8% [244]. In addition, specialised urologic surgeons are capable of reducing the local recurrence rate from 16% to 3% with a higher rate of complete resections [245]. 6.3.3.b. Salvage and desperation surgery Surgery of resectable disease after salvage treatment remains a potentially curative option in patients with any residual mass following salvage chemotherapy. Survival after surgery and first salvage chemotherapy improved by 70% at ten years, following taxane-containing regimens [246]. Even with extensive salvage chemotherapy, surgery remains a fundamental tool to achieve durable complete remissions in up to 20% of patients [247,248]. Desperation surgery refers to resection of non-responsive or progressive (e.g. rising markers) disease following salvage chemotherapy. When the disease is resectable, a significant proportion of these patients can be rendered disease-free in the long term [249]. 6.3.3.c. Consolidation chemotherapy after secondary surgery After resection of necrosis or postpubertal teratoma, no further treatment is required. With incomplete resection of viable cancer, two adjuvant cycles of conventionally dosed cisplatin-based chemotherapy may be given in certain subgroups (e.g. poor-prognosis patients) [232]. Caution is required with cumulative doses of bleomycin, which should not exceed 12 in total. With complete resection of active disease, comprising < 10% of the total volume of the mass, particularly in patients who initially had a good-prognosis based on IGCCCG criteria, the relapse rate is very low and adjuvant chemotherapy is not beneficial in preventing further relapse [250]. The prognosis is worse if malignant disease is present in masses resected after second- and third-line chemotherapy, although further chemotherapy is not indicated [251].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-3-4-systemic-salvage-treatment-for-relapse-or-refractory-disease",
+      "title": "6.3.4. Systemic salvage treatment for relapse or refractory disease",
+      "level": 4,
+      "text": "Cisplatin combination salvage chemotherapy will result in long-term remissions in approximately 50% of patients who relapse after first-line chemotherapy. These results are highly dependent on several prognostic factors [252]. The regimens of choice are four cycles of a three-agent regimen including cisplatin and ifosfamide plus a third drug: etoposide (VIP), paclitaxel (TIP), or potentially gemcitabine (GIP) (Table 5) [253,254]. No RCT has compared these regimens. Due to their potential risk of lethal haematological toxicity, these regimens should be used with G-CSF support and by well-trained oncologists. Table 5: Standard VIP, TIP and GIP salvage chemotherapy (interval 21 days) Regimen Chemotherapy agents Dosage Duration of cycles VIP Cisplatin* Etoposide Ifosfamide* 20mg/m 2 75‑100mg/m 2 1.2g/m 2 Days 1-5 Days 1-5 Days 1-5 TIP Paclitaxel Ifosfamide* Cisplatin* 250mg/m 2 xx 1.5g/m 2 25mg/m 2 24-hour continuous infusion day 1 Days 2-5 Days 2-5 Alternative schedule Paclitaxel Ifosfamide Cisplatin* 175mg/m 2 1.2g/m 2 20mg/m 2 Day 1, 3-hour infusion Days 1-5 Days 1-5 GIP Gemcitabine Ifosfamide Cisplatin 1000mg/m 2 1200 mg/m 2 20mg/m 2 Day 1 + 5 Days 1-5 Days 1-5 xx An MRC schedule uses paclitaxel at 175 mg/m2 in a 3-hour infusion [254]. * Please refer to appendix 3 - Chemotherapeutic protocols https://uroweb.org/guidelines/testicular-cancer/publications-appendices for more detailed information. A retrospective analysis by the International Prognostic Factors Study Group (IPFSG) evaluated the risk of relapse in patients in whom this occurred after at least three cisplatin cycles and subsequent cisplatin conventional-dose or carboplatin-based high-dose salvage chemotherapy [153]. Seven variables: histology, primary tumour location, response, progression-free interval after first-line treatment and level of AFP, hCG and the presence of liver, bone or brain metastasis at salvage treatment, were identified as independent prognostic variables of relapse after initial cisplatin chemotherapy [153]. Using these factors, five risk-groups: very low-risk = -1 points; low-risk = 0 points; intermediate-risk = 1-2 points; high-risk = 3-4 points; and very high-risk > 5 points were identified with significant differences in PFS and OS. Table 7 illustrates these five risk groups and the corresponding two-year PFS and three-year OS rates [153]. Several recent trials have validated this scoring system [255-258]. As in first-line therapy, the prognostic impact of tumour marker decline applies in the salvage setting [259]. While progression to induction chemotherapy was negative for OS, prior use of paclitaxel was not significantly associated with a negative outcome [260]. A secondary analysis of the IPFSG cohort (n = 1,600 patients) showed a 10-15% improvement in OS in all prognostic subgroups when treated with high-dose salvage therapy compared to standard dose therapy. This is being prospectively evaluated in an RCT of HDCT verses conventional dose chemotherapy in patients with relapse after first-line treatment (A031102/EORTC1407 TIGER Tiger trial, recruitment completed, results awaited). When HDCT is used as a salvage treatment, sequential treatment cycles of high-dose carboplatin and etoposide (HD-CE) should be preferred to a single high-dose regimen as the former is associated with less toxicity-related deaths [255]. A systematic review confirmed the superiority of using at least two high-dose cycles in the salvage setting over a single high-dose cycle [261]. It is clearly of the utmost importance that these rare patients with relapse are treated within clinical trials and at specialised centres. Table 6: The International Prognostic Factors Study Group Score for seminoma and non-seminoma that relapse after cisplatin-based first-line chemotherapy [200] Points -1 0 1 2 3 Variable Histology Seminoma Non-seminoma       Primary site   Gonadal Retroperitoneal   Mediastinal Response   CR/PRm- PRm+/SD PD   PFI   > 3 months < 3 months     AFP salvage   Normal < 1000 1000   hCG salvage   < 1000 1000     LBB   No Yes     AFP = alpha-fetoprotein; CR = complete remission; PRm- = partial remission, negative markers; PRm+ = partial remission, positive markers; hCG = human chorionic gonadotrophin; LBB = liver, bone, brain metastases; PD = progressive disease; PFI = progression-free interval; SD = stable disease. Table 7: PFS and OS estimates for all patients according to IGCCCG prognostic score for seminoma and non-seminoma that relapse after cisplatin-based first-line chemotherapy [190] Score (n = 1,435) N % HR 2-years PFS (%) 3-year OS (%) Very Low 76 5.30 1 75.1 77.0 Low 257 17.9 2.07 52.6 69.0 Intermediate 646 45.0 2.88 42.8 57.3 High 351 24.5 4.81 26.4 31.7 Very High 105 7.3 8.95 11.5 14.7 Missing 159 - - - - HR = hazard ratio; PFS = progression-free survival; n = number of patients; OS = overall survival.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Regimen",
+              "Chemotherapy agents",
+              "Dosage",
+              "Duration of cycles"
+            ],
+            [
+              "VIP",
+              "Cisplatin*EtoposideIfosfamide*",
+              "20mg/m275‑100mg/m21.2g/m2",
+              "Days 1-5Days 1-5Days 1-5"
+            ],
+            [
+              "TIP",
+              "PaclitaxelIfosfamide*Cisplatin*",
+              "250mg/m2 xx1.5g/m225mg/m2",
+              "24-hour continuous infusion day 1Days 2-5Days 2-5"
+            ],
+            [
+              "Alternative schedule"
+            ],
+            [
+              "PaclitaxelIfosfamideCisplatin*",
+              "175mg/m21.2g/m220mg/m2",
+              "Day 1, 3-hour infusionDays 1-5Days 1-5"
+            ],
+            [
+              "GIP",
+              "GemcitabineIfosfamideCisplatin",
+              "1000mg/m21200 mg/m220mg/m2",
+              "Day 1 + 5Days 1-5Days 1-5"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Points",
+              "-1",
+              "0",
+              "1",
+              "2",
+              "3"
+            ],
+            [
+              "Variable"
+            ],
+            [
+              "Histology",
+              "Seminoma",
+              "Non-seminoma",
+              " ",
+              " ",
+              " "
+            ],
+            [
+              "Primary site",
+              " ",
+              "Gonadal",
+              "Retroperitoneal",
+              " ",
+              "Mediastinal"
+            ],
+            [
+              "Response",
+              " ",
+              "CR/PRm-",
+              "PRm+/SD",
+              "PD",
+              " "
+            ],
+            [
+              "PFI",
+              " ",
+              "> 3 months",
+              "< 3 months",
+              " ",
+              " "
+            ],
+            [
+              "AFP salvage",
+              " ",
+              "Normal",
+              "< 1000",
+              "1000",
+              " "
+            ],
+            [
+              "hCG salvage",
+              " ",
+              "< 1000",
+              "1000",
+              " ",
+              " "
+            ],
+            [
+              "LBB",
+              " ",
+              "No",
+              "Yes",
+              " ",
+              " "
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Score (n = 1,435)",
+              "N",
+              "%",
+              "HR",
+              "2-years PFS (%)",
+              "3-year OS (%)"
+            ],
+            [
+              "Very Low",
+              "76",
+              "5.30",
+              "1",
+              "75.1",
+              "77.0"
+            ],
+            [
+              "Low",
+              "257",
+              "17.9",
+              "2.07",
+              "52.6",
+              "69.0"
+            ],
+            [
+              "Intermediate",
+              "646",
+              "45.0",
+              "2.88",
+              "42.8",
+              "57.3"
+            ],
+            [
+              "High",
+              "351",
+              "24.5",
+              "4.81",
+              "26.4",
+              "31.7"
+            ],
+            [
+              "Very High",
+              "105",
+              "7.3",
+              "8.95",
+              "11.5",
+              "14.7"
+            ],
+            [
+              "Missing",
+              "159",
+              "-",
+              "-",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#6-3-5-second-relapse",
+      "title": "6.3.5. Second relapse",
+      "level": 4,
+      "text": "No RCTs have been reported for patients with second relapse and conventional therapy appears to have limited effect. For patients who have received two series of conventionally dosed therapy (first line and first-salvage), HDCT with autologous stem cell support should be used although the prospect of cure is < 25% [256]. Retrospective data from Indiana University suggest that patients who completed HDCT may derive additional benefit from daily maintenance therapy with oral etoposide for three months post HDCT [262]. Prospective evaluation of this in a randomised phase II trial is ongoing. Patients relapsing within four to eight weeks after platinum-based therapy, or who are progressing despite platinum-based therapy, as well as those relapsing shortly after HDCT, are considered as cisplatin refractory. Combinations of gemcitabine and oxaliplatin or the triple combination of gemcitabine, oxaliplatin and paclitaxel have resulted in response rates of 25-45% in this setting. Cisplatin re-challenge in association with gemcitabine and paclitaxel may be considered in patients with adequate renal function [263]. For patients with a second relapse not responding to the combination of oxaliplatin and gemcitabine or the triple combination, inclusion in clinical trials is encouraged. Patients with a good response undergoing subsequent resection of residual tumour lesions may still have a 15-20% chance of long-term cure [247,264]. Various targeted agents have generally failed in refractory disease, including immune checkpoint inhibitors [255-261,265]. Trials combining PD1/PDL-1 and CTLA4 inhibitors are ongoing; however, even for those combinations early results are not encouraging. 6.3.5.a. Late relapse (more than two years after end of first-line treatment) Late relapse is defined as recurrence more than two years after completion of successful primary treatment of metastatic TC [211,266]. According to a pooled analysis, this occurs in 1.4% and 3.2% of seminoma and non-seminoma patients, respectively [267]. Based on a population-based study all late-relapsing seminoma patients have viable GCT [268]. These can be treated with chemotherapy and radiotherapy [269]. In contrast, patients with late-relapsing NSGCT should undergo surgical resection when feasible, alone or in combination with chemotherapy. Some patients, including those with rapidly rising hCG, may benefit from induction salvage chemotherapy with subsequent reconsideration of surgery for resection of persisting residual masses [270]. In general, however, surgery represents the mainstay of treatment and it should be performed in most patients when feasible irrespective of the level of their tumour markers, in order to completely resect all viable GCT post-pubertal teratoma [269-273]. Survival strongly relates to the histology of the recurrent lesions rather than that of the initial disease. If not completely resectable, biopsies should be obtained for histological evaluation to direct salvage chemotherapy based on the tumour phenotype. Review by an experienced pathologist is critical to avoid misinterpretation of the therapeutic morphological changes that occur with the treatment of GCT [274]. If the patient responds to salvage chemotherapy, secondary surgery should then be undertaken if feasible. With unresectable, but localised refractory disease, stereotactic or conventional radiotherapy may be considered. To avoid excess mortality, late relapses should be treated only at centres experienced in managing such patients [275].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-3-6-treatment-of-brain-metastases",
+      "title": "6.3.6. Treatment of brain metastases",
+      "level": 4,
+      "text": "Brain metastases occur in the context of initial metastatic disease, systemic relapse and rarely as an isolated site of relapse. Long-term survival of patients presenting with brain metastases at diagnosis is poor (30-50%) and even poorer when a site of recurrent disease (five-year survival-rate is 2-5%) [276,277]. A large international database comprising 523 patients reported 48% three-year OS rates in patients with brain metastases at initial diagnosis and 27% three-year OS rates for patients with brain metastases at relapse [54]. Chemotherapy as initial treatment proved effective in a first-line setting (potentially even as dose-intensified therapy upfront) with data also supporting the use of multimodal treatment particularly in relapsed disease [54]. Consolidation RT, even with total response after chemotherapy, should therefore be used in patients with brain metastases at relapse, but must be carefully discussed in a first-line setting [278]. Of note is that the existing analyses on the role of RT are based on patients who received whole-brain RT. Nowadays, stereotactic treatments offer superior outcomes both in terms of efficacy and side-effect profile [279]. Surgery may be considered in cases with a persistent solitary metastasis, depending on the systemic disease status, histology of the primary tumour and the location of the metastasis.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-3-7-treatment-of-bone-metastases",
+      "title": "6.3.7. Treatment of bone metastases",
+      "level": 4,
+      "text": "Bone metastases sometimes occur in the context of initial metastatic disease (2%) [280], systemic relapse (7%) and rarely as an isolated site of relapse [281]. The presence of bone metastases is an independent predictor of poor outcomes according to the IGCCCG classification [282]. Bone metastases at diagnosis are more common in non-seminomas than seminomas, and associated with primary mediastinal disease, yolk sac tumour histology and the presence of liver metastases [283]. Outcomes of patients with primary bone metastatic disease are poor (two-year OS 45%) and even worse when bone is a site of recurrent disease [281]. Seminoma patients with bone metastases achieve better outcomes than patients with non-seminomatous disease in the presence of bone metastases (two-year OS at 75% and 36%, respectively) [281,284]. Conventional cisplatin-based combination chemotherapy is the first-line standard of care as for all patients with IGCCCG poor prognosis disease. Evidence to support additional multimodal treatments is limited to small retrospective studies: Data regarding the use of upfront high-dose chemotherapy over conventional dose chemotherapy are conflicting [283,284]. Post-chemotherapy resection of bone lesions may be beneficial, while additional bone lesion radiotherapy can be considered but is of uncertain benefit [241,284]. In patients with relapsed disease including the bones, sequential high-dose chemotherapy may achieve better outcomes and should therefore be considered [281].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-3-8-summary-of-evidence-and-recommendations-for-the-treatment-of-metastatic-testicular-germ-cell-tumours",
+      "title": "6.3.8. Summary of evidence and recommendations for the treatment of metastatic testicular germ cell tumours",
+      "level": 4,
+      "text": "Summary of evidence LE In the NSGCT good-prognosis-risk group (IGCCG), BEP x 3 is superior to other chemotherapy regimens. Toxicity is lower when treatment is delivered in five-day regimes rather than three-day regimes. 1b In the NSGCT intermediate-prognosis-risk group (IGCCCG) BEP x 4 is the standard treatment of choice with a five-year survival of 89% in contemporary series. 1b In pathological stage II NSGCT disease, RPLND performed in specialised centres without adjuvant chemotherapy results in 73-81% of long-lasting remissions. 2b In patients with a poor-prognosis metastatic NSGCT (defined by IGCCCG), treatment with BEP x 4, results in a five-year PFS of 67%. There is no advantage in OS for high-dose chemotherapy. 1b Patients with a poor-prognosis metastatic NSGCT and early unfavourable tumour marker decline may benefit from intensification of treatment with dose-dense chemotherapy, with improvement of PFS despite no benefit being observed for OS. 1b Following first-line BEP chemotherapy, 6-10% of NSGCT residual masses contain active cancer, 50% have post-pubertal teratoma and 40% comprise of necrotic-fibrotic tissue only. Figures regarding persistence of residual active are slightly lower in post chemotherapy residual masses < 1cm. Currently, there is no accurate prognostication method of histology. 2b In CS IIA/B seminoma radiotherapy and chemotherapy treatment show similar effectiveness, with a non-significant trend towards greater efficacy of chemotherapy in CS IIB. However, risk of second malignancies and cardiovascular events is higher after radiotherapy. 2a In metastatic seminoma stage > IIC, primary chemotherapy with BEP, tailored to the IGCCCG risk group, has proven superior to Carboplatin based chemotherapy. 1b Fluorodeoxyglucose-positron emission tomography has a high NPV in patients with post-chemotherapy seminoma residual masses (> 3cm) when performed more than two months after chemotherapy. 2b Recommendations Strength rating Treat low-volume non-seminomatous germ cell tumour (NSGCT) stage IIA/B with elevated markers like metastatic good- or intermediate-prognosis risk group IGCCCG with three or four cycles of cisplatin, etoposide, bleomycin (BEP). Strong Nerve-sparing retroperitoneal lymph node dissection when performed by an experienced surgeon in a specialised centre is the recommended initial treatment in clinical stage (CS) IIA NSGCT disease without elevated tumour markers. Weak Repeat staging after six weeks in patients with small-volume (CS IIA < 2cm) markernegative NSGCT before making a final decision on further management. Weak Treat metastatic NSGCT (stage > IIC) with an intermediate prognosis with four cycles of standard BEP. Strong Treat metastatic NSGCT with a poor prognosis and favourable marker decline with four cycles of BEP. Strong Assess tumour marker decline after one cycle of standard chemotherapy in metastatic NSGCT with a poor-prognosis. With unfavourable decline, consider chemotherapy intensification. Weak Perform surgical resection of visible (> 1cm in longest diameter) residual masses after chemotherapy for NSGCT when serum levels of tumour markers are normal or normalising. Strong Offer cisplatin chemotherapy according to IGCCCG prognosis groups, or alternatively radiotherapy to seminoma patients with stage II A/B and, inform the patient of potential long-term side effects of both treatment options. Weak Treat seminoma stage IIC and higher, with primary chemotherapy according to IGCCCG classification (BEP x 3 in good-prognosis and BEP x 4 in intermediate prognosis). Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "In the NSGCT good-prognosis-risk group (IGCCG), BEP x 3 is superior to other chemotherapy regimens. Toxicity is lower when treatment is delivered in five-day regimes rather than three-day regimes.",
+              "1b"
+            ],
+            [
+              "In the NSGCT intermediate-prognosis-risk group (IGCCCG) BEP x 4 is the standard treatment of choice with a five-year survival of 89% in contemporary series.",
+              "1b"
+            ],
+            [
+              "In pathological stage II NSGCT disease, RPLND performed in specialised centres without adjuvant chemotherapy results in 73-81% of long-lasting remissions.",
+              "2b"
+            ],
+            [
+              "In patients with a poor-prognosis metastatic NSGCT (defined by IGCCCG), treatment with BEP x 4, results in a five-year PFS of 67%. There is no advantage in OS for high-dose chemotherapy.",
+              "1b"
+            ],
+            [
+              "Patients with a poor-prognosis metastatic NSGCT and early unfavourable tumour marker decline may benefit from intensification of treatment with dose-dense chemotherapy, with improvement of PFS despite no benefit being observed for OS.",
+              "1b"
+            ],
+            [
+              "Following first-line BEP chemotherapy, 6-10% of NSGCT residual masses contain active cancer, 50% have post-pubertal teratoma and 40% comprise of necrotic-fibrotic tissue only. Figures regarding persistence of residual active are slightly lower in post chemotherapy residual masses < 1cm. Currently, there is no accurate prognostication method of histology.",
+              "2b"
+            ],
+            [
+              "In CS IIA/B seminoma radiotherapy and chemotherapy treatment show similar effectiveness, with a non-significant trend towards greater efficacy of chemotherapy in CS IIB. However, risk of second malignancies and cardiovascular events is higher after radiotherapy.",
+              "2a"
+            ],
+            [
+              "In metastatic seminoma stage > IIC, primary chemotherapy with BEP, tailored to the IGCCCG risk group, has proven superior to Carboplatin based chemotherapy.",
+              "1b"
+            ],
+            [
+              "Fluorodeoxyglucose-positron emission tomography has a high NPV in patients with post-chemotherapy seminoma residual masses (> 3cm) when performed more than two months after chemotherapy.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Treat low-volume non-seminomatous germ cell tumour (NSGCT) stage IIA/B with elevated markers like metastatic good- or intermediate-prognosis risk group IGCCCG with three or four cycles of cisplatin, etoposide, bleomycin (BEP).",
+              "Strong"
+            ],
+            [
+              "Nerve-sparing retroperitoneal lymph node dissection when performed by an experienced surgeon in a specialised centre is the recommended initial treatment in clinical stage (CS) IIA NSGCT disease without elevated tumour markers.",
+              "Weak"
+            ],
+            [
+              "Repeat staging after six weeks in patients with small-volume (CS IIA < 2cm) markernegative NSGCT before making a final decision on further management.",
+              "Weak"
+            ],
+            [
+              "Treat metastatic NSGCT (stage > IIC) with an intermediate prognosis with four cycles of standard BEP.",
+              "Strong"
+            ],
+            [
+              "Treat metastatic NSGCT with a poor prognosis and favourable marker decline with four cycles of BEP.",
+              "Strong"
+            ],
+            [
+              "Assess tumour marker decline after one cycle of standard chemotherapy in metastatic NSGCT with a poor-prognosis. With unfavourable decline, consider chemotherapy intensification.",
+              "Weak"
+            ],
+            [
+              "Perform surgical resection of visible (> 1cm in longest diameter) residual masses after chemotherapy for NSGCT when serum levels of tumour markers are normal or normalising.",
+              "Strong"
+            ],
+            [
+              "Offer cisplatin chemotherapy according to IGCCCG prognosis groups, or alternatively radiotherapy to seminoma patients with stage II A/B and, inform the patient of potential long-term side effects of both treatment options.",
+              "Weak"
+            ],
+            [
+              "Treat seminoma stage IIC and higher, with primary chemotherapy according to IGCCCG classification (BEP x 3 in good-prognosis and BEP x 4 in intermediate prognosis).",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 15
+}

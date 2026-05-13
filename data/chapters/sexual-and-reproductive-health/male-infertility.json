@@ -1,0 +1,2264 @@
+{
+  "guideline": "sexual-and-reproductive-health",
+  "chapter": "male-infertility",
+  "url": "https://uroweb.org/guidelines/sexual-and-reproductive-health/chapter/male-infertility",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and Objectives",
+      "anchor": "#1-1-aims-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel Composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Summary of changes",
+      "anchor": "#1-5-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODOLOGY",
+      "anchor": "#2-methodology"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Methods",
+      "anchor": "#2-1-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. MALE HYPOGONADISM",
+      "anchor": "#3-male-hypogonadism"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definition, epidemiology and classification of male hypogonadism",
+      "anchor": "#3-1-definition-epidemiology-and-classification-of-male-hypogonadism"
+    },
+    {
+      "level": 4,
+      "text": "3.1.1. Definition",
+      "anchor": "#3-1-1-definition"
+    },
+    {
+      "level": 4,
+      "text": "3.1.2. Epidemiology",
+      "anchor": "#3-1-2-epidemiology"
+    },
+    {
+      "level": 4,
+      "text": "3.1.3. Classification",
+      "anchor": "#3-1-3-classification"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Comorbidities associated with male hypogonadism",
+      "anchor": "#3-2-comorbidities-associated-with-male-hypogonadism"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Obesity",
+      "anchor": "#3-2-1-obesity"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Late-onset hypogonadism",
+      "anchor": "#3-3-late-onset-hypogonadism"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Clinical diagnosis and evaluation",
+      "anchor": "#3-3-1-clinical-diagnosis-and-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. History taking",
+      "anchor": "#3-3-2-history-taking"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Physical examination",
+      "anchor": "#3-3-3-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Laboratory diagnostics",
+      "anchor": "#3-3-4-laboratory-diagnostics"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. Summary of evidence and recommendations for the diagnostic evaluation and screening oflate-onset hypogonadism",
+      "anchor": "#3-3-5-summary-of-evidence-and-recommendations-for-the-diagnostic-evaluation-and-screening-oflate-onset-hypogonadism"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Treatment of classical and late-onset hypogonadism",
+      "anchor": "#3-4-treatment-of-classical-and-late-onset-hypogonadism"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Indications and contraindications for treatment of hypogonadism",
+      "anchor": "#3-4-1-indications-and-contraindications-for-treatment-of-hypogonadism"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Testosterone therapy outcomes",
+      "anchor": "#3-4-2-testosterone-therapy-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Choice of treatment",
+      "anchor": "#3-4-3-choice-of-treatment"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Safety and follow-up in hypogonadism management",
+      "anchor": "#3-5-safety-and-follow-up-in-hypogonadism-management"
+    },
+    {
+      "level": 4,
+      "text": "3.5.1. Hypogonadism and fertility issues",
+      "anchor": "#3-5-1-hypogonadism-and-fertility-issues"
+    },
+    {
+      "level": 4,
+      "text": "3.5.2. Male breast cancer",
+      "anchor": "#3-5-2-male-breast-cancer"
+    },
+    {
+      "level": 4,
+      "text": "3.5.4. Prostate cancer (PCa)",
+      "anchor": "#3-5-4-prostate-cancer-pca"
+    },
+    {
+      "level": 4,
+      "text": "3.5.5. Cardiovascular disease",
+      "anchor": "#3-5-5-cardiovascular-disease"
+    },
+    {
+      "level": 4,
+      "text": "3.5.6. Erythrocytosis",
+      "anchor": "#3-5-6-erythrocytosis"
+    },
+    {
+      "level": 4,
+      "text": "3.5.7. Obstructive sleep apnoea",
+      "anchor": "#3-5-7-obstructive-sleep-apnoea"
+    },
+    {
+      "level": 4,
+      "text": "3.5.8. Follow-up",
+      "anchor": "#3-5-8-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "3.5.9. Summary of evidence and recommendations on safety and monitoring in testosterone therapy",
+      "anchor": "#3-5-9-summary-of-evidence-and-recommendations-on-safety-and-monitoring-in-testosterone-therapy"
+    },
+    {
+      "level": 2,
+      "text": "4. EPIDEMIOLOGY AND PREVALENCE OF SEXUAL DYSFUNCTION AND DISORDERS OF MALE REPRODUCTIVE HEALTH",
+      "anchor": "#4-epidemiology-and-prevalence-of-sexual-dysfunction-and-disorders-of-male-reproductive-health"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Erectile dysfunction",
+      "anchor": "#4-1-erectile-dysfunction"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Premature ejaculation",
+      "anchor": "#4-2-premature-ejaculation"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Other ejaculatory disorders",
+      "anchor": "#4-3-other-ejaculatory-disorders"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. Delayed ejaculation",
+      "anchor": "#4-3-1-delayed-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "4.3.2. Anejaculation and anorgasmia",
+      "anchor": "#4-3-2-anejaculation-and-anorgasmia"
+    },
+    {
+      "level": 4,
+      "text": "4.3.3. Retrograde ejaculation",
+      "anchor": "#4-3-3-retrograde-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "4.3.4. Painful ejaculation",
+      "anchor": "#4-3-4-painful-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "4.3.5. Haemospermia",
+      "anchor": "#4-3-5-haemospermia"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Low sexual desire",
+      "anchor": "#4-4-low-sexual-desire"
+    },
+    {
+      "level": 2,
+      "text": "5. MANAGEMENT OF ERECTILE DYSFUNCTION",
+      "anchor": "#5-management-of-erectile-dysfunction"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Definition and classification",
+      "anchor": "#5-1-definition-and-classification"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Risk factors",
+      "anchor": "#5-2-risk-factors"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Pathophysiology",
+      "anchor": "#5-3-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Pelvic surgery and prostate cancer treatment",
+      "anchor": "#5-3-1-pelvic-surgery-and-prostate-cancer-treatment"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Summary of evidence on the epidemiology, aetiology and pathophysiology of erectile disfunction",
+      "anchor": "#5-3-2-summary-of-evidence-on-the-epidemiology-aetiology-and-pathophysiology-of-erectile-disfunction"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Diagnostic evaluation (basic work-up)",
+      "anchor": "#5-4-diagnostic-evaluation-basic-work-up"
+    },
+    {
+      "level": 4,
+      "text": "5.4.1. Medical and sexual history",
+      "anchor": "#5-4-1-medical-and-sexual-history"
+    },
+    {
+      "level": 4,
+      "text": "5.4.2. Physical examination",
+      "anchor": "#5-4-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.4.3. Laboratory testing",
+      "anchor": "#5-4-3-laboratory-testing"
+    },
+    {
+      "level": 4,
+      "text": "5.4.4. Cardiovascular system and sexual activity: the patient at risk",
+      "anchor": "#5-4-4-cardiovascular-system-and-sexual-activity-the-patient-at-risk"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Diagnostic Evaluation (advanced work-up)",
+      "anchor": "#5-5-diagnostic-evaluation-advanced-work-up"
+    },
+    {
+      "level": 4,
+      "text": "5.5.1. Nocturnal penile tumescence and rigidity test",
+      "anchor": "#5-5-1-nocturnal-penile-tumescence-and-rigidity-test"
+    },
+    {
+      "level": 4,
+      "text": "5.5.2. Intracavernous injection test",
+      "anchor": "#5-5-2-intracavernous-injection-test"
+    },
+    {
+      "level": 4,
+      "text": "5.5.3. Dynamic duplex ultrasound of the penis",
+      "anchor": "#5-5-3-dynamic-duplex-ultrasound-of-the-penis"
+    },
+    {
+      "level": 4,
+      "text": "5.5.4. Arteriography and dynamic infusion cavernosometry or cavernosography",
+      "anchor": "#5-5-4-arteriography-and-dynamic-infusion-cavernosometry-or-cavernosography"
+    },
+    {
+      "level": 4,
+      "text": "5.5.5. Psychopathological and psychosocial assessment",
+      "anchor": "#5-5-5-psychopathological-and-psychosocial-assessment"
+    },
+    {
+      "level": 4,
+      "text": "5.5.6. Summary of evidence and recommendations for diagnostic evaluation of erectile dysfunction",
+      "anchor": "#5-5-6-summary-of-evidence-and-recommendations-for-diagnostic-evaluation-of-erectile-dysfunction"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Treatment of erectile dysfunction",
+      "anchor": "#5-6-treatment-of-erectile-dysfunction"
+    },
+    {
+      "level": 4,
+      "text": "5.6.1. Patient education",
+      "anchor": "#5-6-1-patient-education"
+    },
+    {
+      "level": 4,
+      "text": "5.6.2. Modifiable risk factors",
+      "anchor": "#5-6-2-modifiable-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "5.6.3. Phosphodiesterase type 5 inhibitors",
+      "anchor": "#5-6-3-phosphodiesterase-type-5-inhibitors"
+    },
+    {
+      "level": 4,
+      "text": "5.6.4. Psychosocial intervention and therapy",
+      "anchor": "#5-6-4-psychosocial-intervention-and-therapy"
+    },
+    {
+      "level": 4,
+      "text": "5.6.5. Hormonal treatment",
+      "anchor": "#5-6-5-hormonal-treatment"
+    },
+    {
+      "level": 4,
+      "text": "5.6.6. Vacuum erection devices",
+      "anchor": "#5-6-6-vacuum-erection-devices"
+    },
+    {
+      "level": 4,
+      "text": "5.6.7. Intracavernous injections therapy",
+      "anchor": "#5-6-7-intracavernous-injections-therapy"
+    },
+    {
+      "level": 4,
+      "text": "5.6.8. Innovative treatment modalities",
+      "anchor": "#5-6-8-innovative-treatment-modalities"
+    },
+    {
+      "level": 4,
+      "text": "5.6.9. Herbal medicine and natural supplements",
+      "anchor": "#5-6-9-herbal-medicine-and-natural-supplements"
+    },
+    {
+      "level": 4,
+      "text": "5.6.10. Erectile dysfunction after radical prostatectomy",
+      "anchor": "#5-6-10-erectile-dysfunction-after-radical-prostatectomy"
+    },
+    {
+      "level": 4,
+      "text": "5.6.11. Surgical management",
+      "anchor": "#5-6-11-surgical-management"
+    },
+    {
+      "level": 4,
+      "text": "5.6.12. Summary of evidence and recommendations for treatment of ED",
+      "anchor": "#5-6-12-summary-of-evidence-and-recommendations-for-treatment-of-ed"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Follow-up",
+      "anchor": "#5-7-follow-up"
+    },
+    {
+      "level": 2,
+      "text": "6. DISORDERS OF EJACULATION",
+      "anchor": "#6-disorders-of-ejaculation"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Introduction",
+      "anchor": "#6-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Premature ejaculation",
+      "anchor": "#6-2-premature-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Epidemiology",
+      "anchor": "#6-2-1-epidemiology"
+    },
+    {
+      "level": 4,
+      "text": "6.2.2. Pathophysiology and risk factors",
+      "anchor": "#6-2-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.2.3. Impact of PE on quality of life",
+      "anchor": "#6-2-3-impact-of-pe-on-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "6.2.4. Classification",
+      "anchor": "#6-2-4-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.2.5. Diagnostic evaluation",
+      "anchor": "#6-2-5-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "6.2.6. Disease management",
+      "anchor": "#6-2-6-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "6.2.7. Summary of evidence and recommendations for the treatment of PE",
+      "anchor": "#6-2-7-summary-of-evidence-and-recommendations-for-the-treatment-of-pe"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Delayed ejaculation",
+      "anchor": "#6-3-delayed-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. Definition and classification",
+      "anchor": "#6-3-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Pathophysiology and risk factors",
+      "anchor": "#6-3-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.3.3. Investigation and treatment",
+      "anchor": "#6-3-3-investigation-and-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Anejaculation",
+      "anchor": "#6-4-anejaculation"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Definition and classification",
+      "anchor": "#6-4-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Pathophysiology and risk factors",
+      "anchor": "#6-4-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.4.3. Investigation and treatment",
+      "anchor": "#6-4-3-investigation-and-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Painful ejaculation",
+      "anchor": "#6-5-painful-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "6.5.1. Definition and classification",
+      "anchor": "#6-5-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.5.2. Pathophysiology and risk factors",
+      "anchor": "#6-5-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.5.3. Investigation and treatment",
+      "anchor": "#6-5-3-investigation-and-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Retrograde ejaculation",
+      "anchor": "#6-6-retrograde-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "6.6.1. Definition and classification",
+      "anchor": "#6-6-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.6.2. Pathophysiology and risk factors",
+      "anchor": "#6-6-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.6.3. Disease management",
+      "anchor": "#6-6-3-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.7. Anorgasmia",
+      "anchor": "#6-7-anorgasmia"
+    },
+    {
+      "level": 4,
+      "text": "6.7.1. Definition and classification",
+      "anchor": "#6-7-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.7.2. Pathophysiology and risk factors",
+      "anchor": "#6-7-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.7.3. Disease management",
+      "anchor": "#6-7-3-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.8. Haemospermia",
+      "anchor": "#6-8-haemospermia"
+    },
+    {
+      "level": 4,
+      "text": "6.8.1. Definition and classification",
+      "anchor": "#6-8-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.8.2. Pathophysiology and risk factors",
+      "anchor": "#6-8-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.8.3. Investigations",
+      "anchor": "#6-8-3-investigations"
+    },
+    {
+      "level": 4,
+      "text": "6.8.4. Disease management",
+      "anchor": "#6-8-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "6.8.5. Summary of evidence and recommendations for the investigation and management of haemospermia",
+      "anchor": "#6-8-5-summary-of-evidence-and-recommendations-for-the-investigation-and-management-of-haemospermia"
+    },
+    {
+      "level": 2,
+      "text": "7. LOW SEXUAL DESIRE AND MALE HYPOACTIVE SEXUAL DESIRE DISORDER",
+      "anchor": "#7-low-sexual-desire-and-male-hypoactive-sexual-desire-disorder"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Definition, classification and epidemiology",
+      "anchor": "#7-1-definition-classification-and-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Pathophysiology and risk factors",
+      "anchor": "#7-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. Psychological aspects",
+      "anchor": "#7-2-1-psychological-aspects"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Biological aspects",
+      "anchor": "#7-2-2-biological-aspects"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Risk factors",
+      "anchor": "#7-2-3-risk-factors"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Diagnostic work-up",
+      "anchor": "#7-3-diagnostic-work-up"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Assessment questionnaires",
+      "anchor": "#7-3-1-assessment-questionnaires"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Physical examination and investigations",
+      "anchor": "#7-3-2-physical-examination-and-investigations"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Disease management",
+      "anchor": "#7-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "7.4.1. Psychological intervention",
+      "anchor": "#7-4-1-psychological-intervention"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Pharmacotherapy",
+      "anchor": "#7-4-2-pharmacotherapy"
+    },
+    {
+      "level": 3,
+      "text": "7.5. Recommendations for the treatment of low sexual desire",
+      "anchor": "#7-5-recommendations-for-the-treatment-of-low-sexual-desire"
+    },
+    {
+      "level": 2,
+      "text": "8. PENILE CURVATURE",
+      "anchor": "#8-penile-curvature"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Congenital penile curvature",
+      "anchor": "#8-1-congenital-penile-curvature"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#8-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Diagnostic evaluation",
+      "anchor": "#8-1-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Disease management",
+      "anchor": "#8-1-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "8.1.4. Summary of evidence and recommendation for diagnosis and treatment of congenital penile curvature",
+      "anchor": "#8-1-4-summary-of-evidence-and-recommendation-for-diagnosis-and-treatment-of-congenital-penile-curvature"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Peyronie’s Disease",
+      "anchor": "#8-2-peyronies-disease"
+    },
+    {
+      "level": 4,
+      "text": "8.2.1. Epidemiology",
+      "anchor": "#8-2-1-epidemiology"
+    },
+    {
+      "level": 4,
+      "text": "8.2.2. Diagnostic evaluation",
+      "anchor": "#8-2-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "8.2.3. Disease management",
+      "anchor": "#8-2-3-disease-management"
+    },
+    {
+      "level": 2,
+      "text": "9. PENILE SIZE ABNORMALITIES AND DYSMORPHOPHOBIA",
+      "anchor": "#9-penile-size-abnormalities-and-dysmorphophobia"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Definition, epidemiology and classification",
+      "anchor": "#9-1-definition-epidemiology-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "9.1.1. History",
+      "anchor": "#9-1-1-history"
+    },
+    {
+      "level": 4,
+      "text": "9.1.2. Definition",
+      "anchor": "#9-1-2-definition"
+    },
+    {
+      "level": 4,
+      "text": "9.1.3. Epidemiology and classification",
+      "anchor": "#9-1-3-epidemiology-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "9.1.4. Summary of evidence and recommendations for classification of short penile size",
+      "anchor": "#9-1-4-summary-of-evidence-and-recommendations-for-classification-of-short-penile-size"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Diagnosis",
+      "anchor": "#9-2-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "9.2.1. Medical history, physical examination and psychological assessment",
+      "anchor": "#9-2-1-medical-history-physical-examination-and-psychological-assessment"
+    },
+    {
+      "level": 4,
+      "text": "9.2.2. Imaging",
+      "anchor": "#9-2-2-imaging"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Management",
+      "anchor": "#9-3-management"
+    },
+    {
+      "level": 4,
+      "text": "9.3.1. Non-surgical treatments",
+      "anchor": "#9-3-1-non-surgical-treatments"
+    },
+    {
+      "level": 4,
+      "text": "9.3.2. Surgical treatments",
+      "anchor": "#9-3-2-surgical-treatments"
+    },
+    {
+      "level": 2,
+      "text": "10. PRIAPISM",
+      "anchor": "#10-priapism"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Ischaemic (low-flow or veno-occlusive) priapism",
+      "anchor": "#10-1-ischaemic-low-flow-or-veno-occlusive-priapism"
+    },
+    {
+      "level": 4,
+      "text": "10.1.1. Epidemiology, aetiology, pathophysiology and diagnosis",
+      "anchor": "#10-1-1-epidemiology-aetiology-pathophysiology-and-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "10.1.2. Diagnostic evaluation",
+      "anchor": "#10-1-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "10.1.3. Disease management",
+      "anchor": "#10-1-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "10.1.4. Summary of evidence and recommendations for treatment of ischaemic priapism",
+      "anchor": "#10-1-4-summary-of-evidence-and-recommendations-for-treatment-of-ischaemic-priapism"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Priapism in special situations",
+      "anchor": "#10-2-priapism-in-special-situations"
+    },
+    {
+      "level": 4,
+      "text": "10.2.1. Stuttering (recurrent or intermittent) priapism",
+      "anchor": "#10-2-1-stuttering-recurrent-or-intermittent-priapism"
+    },
+    {
+      "level": 4,
+      "text": "10.2.2. Priapism in children",
+      "anchor": "#10-2-2-priapism-in-children"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Non-ischaemic (high-flow or arterial) priapism",
+      "anchor": "#10-3-non-ischaemic-high-flow-or-arterial-priapism"
+    },
+    {
+      "level": 4,
+      "text": "10.3.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#10-3-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "10.3.2. Diagnostic evaluation",
+      "anchor": "#10-3-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "10.3.3. Disease management",
+      "anchor": "#10-3-3-disease-management"
+    },
+    {
+      "level": 2,
+      "text": "11. MALE INFERTILITY",
+      "anchor": "#11-male-infertility"
+    },
+    {
+      "level": 3,
+      "text": "11.1. Definition and classification",
+      "anchor": "#11-1-definition-and-classification"
+    },
+    {
+      "level": 3,
+      "text": "11.2. Epidemiology, aetiology, pathophysiology and risk factors",
+      "anchor": "#11-2-epidemiology-aetiology-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "11.2.1. Introduction",
+      "anchor": "#11-2-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "11.2.2. Summary of evidence and recommendations on epidemiology and aetiology of male infertility",
+      "anchor": "#11-2-2-summary-of-evidence-and-recommendations-on-epidemiology-and-aetiology-of-male-infertility"
+    },
+    {
+      "level": 3,
+      "text": "11.3. Diagnostic work-up",
+      "anchor": "#11-3-diagnostic-work-up"
+    },
+    {
+      "level": 4,
+      "text": "11.3.1. Medical history, reproductive history and physical examination",
+      "anchor": "#11-3-1-medical-history-reproductive-history-and-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "11.3.2. Semen analysis",
+      "anchor": "#11-3-2-semen-analysis"
+    },
+    {
+      "level": 4,
+      "text": "11.3.3. Measurement of Sperm DNA Fragmentation Index",
+      "anchor": "#11-3-3-measurement-of-sperm-dna-fragmentation-index"
+    },
+    {
+      "level": 4,
+      "text": "11.3.4. Hormonal determinations",
+      "anchor": "#11-3-4-hormonal-determinations"
+    },
+    {
+      "level": 4,
+      "text": "11.3.5. Genetic testing",
+      "anchor": "#11-3-5-genetic-testing"
+    },
+    {
+      "level": 4,
+      "text": "11.3.6. Imaging in infertile men",
+      "anchor": "#11-3-6-imaging-in-infertile-men"
+    },
+    {
+      "level": 4,
+      "text": "11.3.7. Summary of evidence and recommendations for the diagnostic work-up of male infertilityhormonal determinations",
+      "anchor": "#11-3-7-summary-of-evidence-and-recommendations-for-the-diagnostic-work-up-of-male-infertilityhormonal-determinations"
+    },
+    {
+      "level": 3,
+      "text": "11.4. Special conditions and relevant clinical entities",
+      "anchor": "#11-4-special-conditions-and-relevant-clinical-entities"
+    },
+    {
+      "level": 4,
+      "text": "11.4.1. Cryptorchidism",
+      "anchor": "#11-4-1-cryptorchidism"
+    },
+    {
+      "level": 4,
+      "text": "11.4.2. Germ cell malignancy and male infertility",
+      "anchor": "#11-4-2-germ-cell-malignancy-and-male-infertility"
+    },
+    {
+      "level": 4,
+      "text": "11.4.3. Varicocele",
+      "anchor": "#11-4-3-varicocele"
+    },
+    {
+      "level": 4,
+      "text": "11.4.4. Male accessory gland infections and infertility",
+      "anchor": "#11-4-4-male-accessory-gland-infections-and-infertility"
+    },
+    {
+      "level": 3,
+      "text": "11.5. Non-invasive male infertility management",
+      "anchor": "#11-5-non-invasive-male-infertility-management"
+    },
+    {
+      "level": 4,
+      "text": "11.5.1. Empirical treatments",
+      "anchor": "#11-5-1-empirical-treatments"
+    },
+    {
+      "level": 4,
+      "text": "11.5.2. Summary of evidence and recommendation for non-invasive male infertility management",
+      "anchor": "#11-5-2-summary-of-evidence-and-recommendation-for-non-invasive-male-infertility-management"
+    },
+    {
+      "level": 4,
+      "text": "11.5.3. Hormonal therapy",
+      "anchor": "#11-5-3-hormonal-therapy"
+    },
+    {
+      "level": 3,
+      "text": "11.6. Invasive male infertility management",
+      "anchor": "#11-6-invasive-male-infertility-management"
+    },
+    {
+      "level": 4,
+      "text": "11.6.1. Obstructive azoospermia",
+      "anchor": "#11-6-1-obstructive-azoospermia"
+    },
+    {
+      "level": 4,
+      "text": "11.6.2. Non-obstructive azoospermia",
+      "anchor": "#11-6-2-non-obstructive-azoospermia"
+    },
+    {
+      "level": 3,
+      "text": "11.7. Assisted reproductive technologies",
+      "anchor": "#11-7-assisted-reproductive-technologies"
+    },
+    {
+      "level": 3,
+      "text": "11.8. Psychosocial aspects in men’s infertility",
+      "anchor": "#11-8-psychosocial-aspects-in-mens-infertility"
+    },
+    {
+      "level": 2,
+      "text": "12. LATE EFFECTS SURVIVORSHIP AND MENS HEALTH",
+      "anchor": "#12-late-effects-survivorship-and-mens-health"
+    },
+    {
+      "level": 2,
+      "text": "13. REFERENCES",
+      "anchor": "#13-references"
+    },
+    {
+      "level": 2,
+      "text": "14. CONFLICT OF INTEREST",
+      "anchor": "#14-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "15. CITATION INFORMATION",
+      "anchor": "#15-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "16. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#16-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#sexual-and-reproductive-health",
+      "title": "Sexual and Reproductive Health",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 11. Male Infertility Introduction Methodology Male Hypogonadism Epidemiology And Prevalence Of Sexual Dysfunction And Disorders Of Male Reproductive Health Management Of Erectile Dysfunction Disorders Of Ejaculation Low Sexual Desire And Male Hypoactive Sexual Desire Disorder Penile Curvature Penile Size Abnormalities And Dysmorphophobia Priapism Male Infertility Late Effects Survivorship And Mens Health References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#11-male-infertility",
+      "title": "11. MALE INFERTILITY",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#11-1-definition-and-classification",
+      "title": "11.1. Definition and classification",
+      "level": 3,
+      "text": "Infertility is defined by the inability of a sexually active, non-contraceptive couple to achieve spontaneous pregnancy within 12 months [1608]. Primary infertility refers to couples that have never had a child and cannot achieve pregnancy after at least 12 consecutive months of sexual intercourse without using birth control methods. Secondary infertility refers to infertile couples who have been able to achieve pregnancy at least once before (with the same or different sexual partner). In 30-40% of cases, no male-associated factor is found to explain the underlying impairment of sperm parameters and historically was referred to as idiopathic male infertility. These men present with no previous history of diseases affecting fertility and have normal findings on physical examination and endocrine, genetic and biochemical laboratory testing, although semen analysis may reveal pathological findings (see Section 10.3.2). It is now believed that idiopathic male infertility may be associated with several previously unidentified pathological factors, which include but are not limited to endocrine disruption as a result of environmental pollution, generation of reactive oxygen species (ROS)/sperm DNA damage, or genetic and epigenetic abnormalities [1609]. Unexplained male infertility is defined as infertility of unknown origin with normal sperm parameters and partner evaluation. Between 20 and 30% of couples will have unexplained infertility.",
+      "tables": []
+    },
+    {
+      "anchor": "#11-2-epidemiology-aetiology-pathophysiology-and-risk-factors",
+      "title": "11.2. Epidemiology, aetiology, pathophysiology and risk factors",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#11-2-1-introduction",
+      "title": "11.2.1. Introduction",
+      "level": 4,
+      "text": "About 15% of couples do not achieve pregnancy within 12 consecutive months and seek medical treatment for infertility [1610]. One in eight couples encounter problems when attempting to conceive a first child and one in six when attempting to conceive a subsequent child [1611]. In 50% of involuntarily childless couples, a male-infertility-associated factor is found, usually together with abnormal semen parameters [1608]. For this reason, in all infertile couples, the male should undergo medical evaluation by a urologist trained in male reproduction. Male fertility can be impaired as a result of many different conditions, including [1608]: congenital or acquired urogenital abnormalities genetic abnormalities malignancies urogenital tract infections varicocele increased scrotal temperature (e.g. because of varicocele) endocrine disturbances immunological factors iatrogenic factors (e.g. previous scrotal surgery) gonadotoxic exposure (e.g. RT or chemotherapy). Advanced paternal age has emerged as an additional risk factor associated with the progressive increase in prevalence of male factor infertility [1612-1619]. Likewise, advanced maternal age must be considered in the management of every infertile couple, and in the subsequent decisions in the diagnostic and therapeutic strategy of the male partner [1620,1621]. This should include the age and ovarian reserve of the female partner, as these parameters may guide decision-making on timing and therapeutic strategies (e.g. assisted reproductive technology [ART] vs. surgical intervention) [1612-1615]. Earlier evaluation is still a matter of debate in couples with female partners older than 35 years who have not conceived for six months, as ovarian reserve may fall [1622-1624]. Table 11.1 summarises the main male-infertility-associated factors. Table 11.1: Male infertility causes and associated factors and percentage of distribution in 10,469 patients Diagnosis Unselected patients (n = 12,945) Azoospermic patients (n = 1,446) All 100% 11.2% Infertility of known (possible) cause 42.6% 42.6% Maldescended testes 8.4 17.2 Varicocele 14.8 10.9 Sperm auto-antibodies 3.9 - Testicular tumour 1.2 2.8 Others 5.0 1.2 Idiopathic infertility 30.0 13.3 Hypogonadism 10.1 16.4 Klinefelter syndrome (47, XXY) 2.6 13.7 XX male 0.1 0.6 Primary hypogonadism of unknown cause 2.3 0.8 Secondary (hypogonadotropic) hypogonadism 1.6 1.9 Kallmann syndrome 0.3 0.5 Idiopathic hypogonadotropic hypogonadism 0.4 0.4 Residual after pituitary surgery < 0.1 0.3 Late-onset hypogonadism 2.2 - Constitutional delay of puberty 1.4 - Others 0.8 0.8 General/systemic disease 2.2 0.5 Cryopreservation due to malignant disease 7.8 12.5 Testicular tumour 5.0 4.3 Lymphoma 1.5 4.6 Leukaemia 0.7 2.2 Sarcoma 0.6 0.9 Disturbance of erection/ejaculation 2.4 - Obstruction 2.2 10.3 Vasectomy 0.9 5.3 Cystic fibrosis (congenital bilateral absence of vas deferens) 0.5 3.0 Others 0.8 1.9",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Diagnosis",
+              "Unselected patients(n = 12,945)",
+              "Azoospermic patients(n = 1,446)"
+            ],
+            [
+              "All",
+              "100%",
+              "11.2%"
+            ],
+            [
+              "Infertility of known (possible) cause",
+              "42.6%",
+              "42.6%"
+            ],
+            [
+              "Maldescended testes",
+              "8.4",
+              "17.2"
+            ],
+            [
+              "Varicocele",
+              "14.8",
+              "10.9"
+            ],
+            [
+              "Sperm auto-antibodies",
+              "3.9",
+              "-"
+            ],
+            [
+              "Testicular tumour",
+              "1.2",
+              "2.8"
+            ],
+            [
+              "Others",
+              "5.0",
+              "1.2"
+            ],
+            [
+              "Idiopathic infertility",
+              "30.0",
+              "13.3"
+            ],
+            [
+              "Hypogonadism",
+              "10.1",
+              "16.4"
+            ],
+            [
+              "Klinefelter syndrome (47, XXY)",
+              "2.6",
+              "13.7"
+            ],
+            [
+              "XX male",
+              "0.1",
+              "0.6"
+            ],
+            [
+              "Primary hypogonadism of unknown cause",
+              "2.3",
+              "0.8"
+            ],
+            [
+              "Secondary (hypogonadotropic) hypogonadism",
+              "1.6",
+              "1.9"
+            ],
+            [
+              "Kallmann syndrome",
+              "0.3",
+              "0.5"
+            ],
+            [
+              "Idiopathic hypogonadotropic hypogonadism",
+              "0.4",
+              "0.4"
+            ],
+            [
+              "Residual after pituitary surgery",
+              "< 0.1",
+              "0.3"
+            ],
+            [
+              "Late-onset hypogonadism",
+              "2.2",
+              "-"
+            ],
+            [
+              "Constitutional delay of puberty",
+              "1.4",
+              "-"
+            ],
+            [
+              "Others",
+              "0.8",
+              "0.8"
+            ],
+            [
+              "General/systemic disease",
+              "2.2",
+              "0.5"
+            ],
+            [
+              "Cryopreservation due to malignant disease",
+              "7.8",
+              "12.5"
+            ],
+            [
+              "Testicular tumour",
+              "5.0",
+              "4.3"
+            ],
+            [
+              "Lymphoma",
+              "1.5",
+              "4.6"
+            ],
+            [
+              "Leukaemia",
+              "0.7",
+              "2.2"
+            ],
+            [
+              "Sarcoma",
+              "0.6",
+              "0.9"
+            ],
+            [
+              "Disturbance of erection/ejaculation",
+              "2.4",
+              "-"
+            ],
+            [
+              "Obstruction",
+              "2.2",
+              "10.3"
+            ],
+            [
+              "Vasectomy",
+              "0.9",
+              "5.3"
+            ],
+            [
+              "Cystic fibrosis (congenital bilateral absence of vas deferens)",
+              "0.5",
+              "3.0"
+            ],
+            [
+              "Others",
+              "0.8",
+              "1.9"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#11-2-2-summary-of-evidence-and-recommendations-on-epidemiology-and-aetiology-of-male-infertility",
+      "title": "11.2.2. Summary of evidence and recommendations on epidemiology and aetiology of male infertility",
+      "level": 4,
+      "text": "Summary of evidence LE Infertility affects 15% of couples of reproductive age. 3 A male factor infertility can be identified in about 50% of infertile couples. 2a A pure male factor infertility can be identified in about 20% of infertile couples. 2a Several risk factors such as genetic factors, urogenital abnormalities, endocrine disorders, malignant diseases and gonadotoxic treatments can cause male infertility. 2a Recommendations Strength rating Perform infertility evaluation in couples who have not conceived after 12 consecutive months of regular, unprotected intercourse. Strong Investigate both partners simultaneously to categorise the cause of infertility. Strong Investigate all men belonging to couples seeking medical help for fertility problems. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Infertility affects 15% of couples of reproductive age.",
+              "3"
+            ],
+            [
+              "A male factor infertility can be identified in about 50% of infertile couples.",
+              "2a"
+            ],
+            [
+              "A pure male factor infertility can be identified in about 20% of infertile couples.",
+              "2a"
+            ],
+            [
+              "Several risk factors such as genetic factors, urogenital abnormalities, endocrine disorders, malignant diseases and gonadotoxic treatments can cause male infertility.",
+              "2a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform infertility evaluation in couples who have not conceived after 12 consecutive months of regular, unprotected intercourse.",
+              "Strong"
+            ],
+            [
+              "Investigate both partners simultaneously to categorise the cause of infertility.",
+              "Strong"
+            ],
+            [
+              "Investigate all men belonging to couples seeking medical help for fertility problems.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#11-3-diagnostic-work-up",
+      "title": "11.3. Diagnostic work-up",
+      "level": 3,
+      "text": "Important treatment decisions are based on the results of semen analysis, and most studies indicate semen parameters are a surrogate outcome for male fertility. A semen analysis per se cannot distinguish fertile from infertile men [1625]. The Panel concludes that a comprehensive andrological examination is always indicated in infertile couples, both if semen analysis shows abnormalities and in men with normal sperm parameters as compared with reference values [1626-1628]. Infertile men should be properly counselled and followed-up, considering their higher risk of developing malignant and non-malignant comorbid conditions later in life [1629,1630]. Focused evaluation of male patients should include a medical and reproductive history; physical examination; semen analysis – with strict adherence to World Health Organization (WHO) reference values for human semen characteristics [1631,1632]; and hormonal evaluation [1633]. Other investigations (e.g. genetic analysis and imaging) may be required depending on the clinical features and semen parameters.",
+      "tables": []
+    },
+    {
+      "anchor": "#11-3-1-medical-history-reproductive-history-and-physical-examination",
+      "title": "11.3.1. Medical history, reproductive history and physical examination",
+      "level": 4,
+      "text": "11.3.1.a. Medical and reproductive history Medical history should evaluate any risk factors and behavioural patterns that could affect the male partner’s fertility, such as lifestyle, family history (including testicular cancer), comorbidities (including systemic diseases: e.g. hypertension, diabetes mellitus, obesity, MetS, testicular cancer, etc.), genito-urinary infections (including STIs), history of testicular surgery, and exclude any potential known gonadotoxic medication or recreational drugs [1633]. Typical findings from the history of a patient with infertility include: cryptorchidism (uni- or bilateral) testicular torsion and trauma genitourinary infections exposure to environmental toxins gonadotoxic medications (anabolic drugs, chemotherapeutic agents, etc.) exposure to radiation or cytotoxic agents. 11.3.1.b. Physical examination A focused physical examination is compulsory in the evaluation of every infertile male, including presence of secondary sexual characteristics. The size, texture and consistency of the testes must be evaluated. In clinical practice, testicular volume is assessed by Prader’s orchidometer [4]; orchidometry may over-estimate testicular volume compared to US assessment [1634]. There are no uniform reference values in terms of Prader’s orchidometer-derived testicular volume, due to differences in the populations studied (e.g. geographic area, nourishment, ethnicity and environmental factors) [4,1634,1635]. The mean Prader’s orchidometer-derived testis volume reported in the European general population is 20.0 ± 5.0mL [4], whereas in infertile patients it is 18.0 ± 5.0mL [4,1636-1638]. The presence of the vas deferens, fullness of epididymis and presence of a varicocele should always be determined. Likewise, palpable abnormalities of the testis, epididymis and vas deferens should be evaluated. Other physical alterations, such as abnormalities of the penis (e.g. phimosis, short frenulum, fibrotic nodules, epispadias, hypospadias, etc.), abnormal body hair distribution and gynecomastia, should also be evaluated. Typical findings from the physical examination of a patient with characteristics suggestive for testicular deficiency include: abnormal secondary sexual characteristics abnormal testicular volume and/or consistency testicular masses (potentially suggestive of cancer) absence of testes (uni-bilaterally) gynaecomastia varicocele.",
+      "tables": []
+    },
+    {
+      "anchor": "#11-3-2-semen-analysis",
+      "title": "11.3.2. Semen analysis",
+      "level": 4,
+      "text": "The 6 th edition the WHO Manual for the Examination and Processing of Human Semen [1632] was published in July 2021 and comprises of three sections: i) semen examination; ii) sperm preparation and cryopreservation; and, iii) quality assessment and quality control. Procedures for semen examination are divided: Basic examinations that should be performed by every laboratory, based on standardised procedures and evidence-based techniques. Extended analyses, which are performed by choice of the laboratory or by special request from the clinicians. Advanced examinations. Basic examination [1631] Assessment of sperm numbers: the laboratory should not stop assessing the number of sperm at low concentrations (2 million/mL), as suggested in the 5 th edition, but report lower concentrations, noting that the errors associated with counting a small number of spermatozoa may be high. It is recognised that the total sperm numbers per ejaculate (sperm output) have more diagnostic value than sperm concentration; therefore, semen volume must be measured accurately. Assessment of sperm motility: the categorisation of sperm motility has reverted to fast progressively motile, slow progressively motile, non-progressively motile and immotile (grade a, b, c or d) because presence (or absence) of rapid progressive spermatozoa is recognised to be clinically important. Assessment of sperm morphology: the 6 th edition has recommended the Tygerberg strict criteria by sperm-adapted Papanicolaou staining. Assessment of vitality should not be performed in all samples, only if more than 60% of spermatozoa are immotile. Extended examinations This Chapter contains procedures to detect leukocytes and markers of genital tract inflammation, sperm antibodies, indices of multiple sperm defects, sequence of ejaculation, methods to detect sperm aneuploidy, semen biochemistry and sperm DNA fragmentation (SDF). Reference ranges and limits The lower fifth percentile of the distribution of semen analysis values from approximately 3,500 males in 12 countries who have contributed to a natural conception within 12 months of trying does not represent a limit between fertile and infertile males. For a general prediction of live birth in vivo as well as in vitro , a multiparametric interpretation of the entire male’s and partner’s reproductive potential are needed. Reference values for semen parameters are represented in Table 11.2 [1626]. More complex testing than classic semen analysis may be required in everyday clinical practice, particularly in males belonging to couples with recurrent pregnancy loss from natural conception or ART and in men with unexplained male infertility. Although definitive conclusions cannot be drawn given the heterogeneity of the studies, increased sperm DNA damage is associated with pregnancy failure [1609,1639,1640]. Table 11.2: Lower reference limits (fifth centiles and their 95% CIs) for semen characteristics Parameter 2021 Lower reference limit (95% CI) Semen volume (mL) 1.4 (1.3–1.5) Total sperm number (10 6 /ejaculate) 39 (35–40) Sperm concentration (10 6 /mL) 16 (15–18) Total motility (PR + NP, %) 42 (40–43) Progressive motility (PR, %) 30 (29–31) Vitality (live spermatozoa, %) 54 (50–56) Sperm morphology (normal forms, %) 4 (3.9–4.0) Other consensus threshold values pH > 7.2 Peroxidase-positive leukocytes (10 6 /mL) < 1.0 Tests for antibodies on spermatozoa MAR test (motile spermatozoa with bound particles, %) No evidence-based reference values. Each laboratory should define its normal reference ranges by testing a sufficiently large number of normal fertile men. Immunobead test (motile spermatozoa with bound beads, %) No evidence-based reference limits. Accessory gland function Seminal zinc (μmol/ejaculate) > 2.4 Seminal fructose (μmol/ejaculate) > 13 Seminal neutral α-glucosidase (mU/ejaculate) > 20 CIs = confidence intervals; MAR = mixed antiglobulin reaction; NP = non-progressive; PR = progressive (a + b motility). * Distribution of data from the population is presented with one-sided intervals (extremes of the reference population data). The lower fifth percentile represents the level under which only results from 5% of the males in the reference population were found. If semen analysis is normal according to WHO criteria, a single test is sufficient. If the results are abnormal on at least two tests, further andrological investigation is indicated. None of the individual sperm parameters (e.g. concentration, morphology and motility), are diagnostic per se of infertility. According to WHO 5 th edition reference criteria, it is important to differentiate between the following [1641]: oligozoospermia: < 16 million sperm/mL; asthenozoospermia: < 32% progressive motile sperm; and teratozoospermia: < 4% normal forms. According to the WHO 6 th edition, reference criteria for this subdivision is not reported, although the Panel considers this further segregation still clinically relevant in everyday clinical practice. Oft",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Parameter",
+              "2021 Lower reference limit(95% CI)"
+            ],
+            [
+              "Semen volume (mL)",
+              "1.4 (1.3–1.5)"
+            ],
+            [
+              "Total sperm number (106/ejaculate)",
+              "39 (35–40)"
+            ],
+            [
+              "Sperm concentration (106/mL)",
+              "16 (15–18)"
+            ],
+            [
+              "Total motility (PR + NP, %)",
+              "42 (40–43)"
+            ],
+            [
+              "Progressive motility (PR, %)",
+              "30 (29–31)"
+            ],
+            [
+              "Vitality (live spermatozoa, %)",
+              "54 (50–56)"
+            ],
+            [
+              "Sperm morphology (normal forms, %)",
+              "4 (3.9–4.0)"
+            ],
+            [
+              "Other consensus threshold values"
+            ],
+            [
+              "pH",
+              "> 7.2"
+            ],
+            [
+              "Peroxidase-positive leukocytes (106/mL)",
+              "< 1.0"
+            ],
+            [
+              "Tests for antibodies on spermatozoa"
+            ],
+            [
+              "MAR test (motile spermatozoa with bound particles, %)",
+              "No evidence-based reference values. Each laboratory should define its normal reference ranges by testing a sufficiently large number of normal fertile men."
+            ],
+            [
+              "Immunobead test (motile spermatozoa with bound beads, %)",
+              "No evidence-based reference limits."
+            ],
+            [
+              "Accessory gland function"
+            ],
+            [
+              "Seminal zinc (μmol/ejaculate)",
+              "> 2.4"
+            ],
+            [
+              "Seminal fructose (μmol/ejaculate)",
+              "> 13"
+            ],
+            [
+              "Seminal neutral α-glucosidase (mU/ejaculate)",
+              "> 20"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#11-3-3-measurement-of-sperm-dna-fragmentation-index",
+      "title": "11.3.3. Measurement of Sperm DNA Fragmentation Index",
+      "level": 4,
+      "text": "Sperm DNA fragmentation, or the accumulation of single- and double-strand DNA breaks, occur in sperm, and an increase in the level of SDF has been shown to reduce the chances of natural conception [1648]. Although no studies have unequivocally and directly tested the impact of SDF on the clinical management of infertile couples, SDF is more common in infertile men and has been identified as a major contributor to male infertility, as well as poorer outcomes following ART [1649,1650], including impaired embryo development [1649], miscarriage, recurrent pregnancy loss [1639,1640,1651], and birth defects [1649]. Sperm DNA fragmentation can be increased by several factors including hormonal anomalies, varicocele, chronic infection and lifestyle factors (e.g. smoking) [1650,1652]. Repeated ejaculation separated by a three-hour time interval has been reported to significantly decrease SDF [1653]. In a cohort study of 10,000 semen samples, SDF was also increased in men in older age groups [1654]. Several assays have been described to measure SDF. It has been suggested that current methods for assessing sperm DNA integrity still do not reliably predict treatment outcomes from ART and there is controversy whether to recommend them routinely for clinical use [1650,1655,1656]. Terminal deoxynucleotidyl transferase mediated deoxyuridine triphosphate nick end labelling (TUNEL) and the alkaline comet test (COMET) directly measure DNA damage. Conversely, sperm chromatin structure assay (SCSA) and sperm chromatic dispersion test (SCD) are indirect tools for SDF assessment. The SCSA is still the most widely studied and one of the most used techniques to detect SDF [1657,1658]. In SCSA, the number of cells with DNA damage is indicated by the DNA fragmentation index (DFI) [1659], whereas the proportion of immature sperm with defects in the histone-to-protamine transition is indicated by high DNA stainability [1660]. It is suggested that a threshold DFI of 25%, as measured with SCSA, is associated with reduced pregnancy rates via natural conception or intra-uterine insemination (IUI) [1658]. Furthermore, DFI values > 50% on SCSA are associated with poorer outcomes from IVF. The mean COMET score and scores for proportions of sperm with high or low DNA damage have been shown to be of value in diagnosing male infertility and providing additional discriminatory information for the prediction of both IVF and ICSI live births [1650]. Raised SDF in pregnancy loss or spontaneous abortion Recurrent pregnancy loss or repeated spontaneous abortion is not uniformly defined in the literature. In a meta-analysis SDF assessed by seven SCSA studies, nine SCD studies and eight TUNEL studies was associated with recurrent pregnancy loss. Although the meta-analysis was limited by the small numbers of participants in each trial and heterogeneity in definition and inclusion criteria, clinicians should be aware of this association and opportunity to assess a possible correctable biomarker for paternal contribution to pregnancy loss [1639]. Testicular sperm in men with raised SDF in ejaculated sperm Testicular sperm is reported to have lower levels of SDF compared to ejaculated sperm [1661]. The use of testicular sperm for ICSI is associated with potentially improved outcomes as compared with ejaculated sperm in men with high SDF [1661,1662]. Males with unexplained infertility with raised SDF may be considered for TESE after failure of ART, although they should be counselled that live-birth rates are under reported in the literature and patients must weigh up the risks of performing an invasive procedure in a potentially normozoospermic or unexplained condition. The advantages of the use of testicular sperm in men with cryptozoospermia or oligozoospermia have not yet been confirmed in large scale randomised studies [1663,1664]. A meta-analysis has suggested that TESE-ICSI may improve the outcomes from ART but there is significant heterogeneity of data and RCTs are needed to validate the use of TESE in men with raised SDF [1665]. In terms of a practical approach, urologists may offer the use of testicular sperm in patients with high SDF on a case-by-case basis and after a full discussion including reproductive specialists. Patients should be informed of the low levels of evidence for this. Testicular sperm should only be used in this setting once the common associations of SDF have been excluded, including varicoceles, modifications of dietary/lifestyle factors, treatment of accessory gland infections, and reduction of abstinence time. Additionally, any confounding female factors must also be taken into consideration before using TESE in this setting.",
+      "tables": []
+    },
+    {
+      "anchor": "#11-3-4-hormonal-determinations",
+      "title": "11.3.4. Hormonal determinations",
+      "level": 4,
+      "text": "In males with testicular deficiency, hypergonadotropic hypogonadism (primary hypogonadism) is usually present, with high levels of FSH and LH, with or without low testosterone. Generally, the levels of FSH negatively correlate with the number of spermatogonia [1666]. When spermatogonia are absent or markedly diminished, FSH level is usually elevated; when the number of spermatogonia is normal, but maturation arrest exists at the spermatocyte or spermatid level, FSH level is usually within the normal range [1666]. However, for patients undergoing TESE, FSH levels do not accurately predict the presence of spermatogenesis, as males with maturation arrest on histology can have both normal FSH and testicular volume [1667,1668]. Furthermore, males with NOA and high levels of FSH may still harbour focal areas of spermatogenesis at the time of TESE or microdissection TESE (mTESE) [1668,1669]. Despite the need for current findings to be confirmed, growing data suggest that lower preoperative serum anti-Müllerian hormone (AMH) levels are associated with a higher likelihood of positive sperm retrieval in men undergoing mTESE [1670,1671].",
+      "tables": []
+    },
+    {
+      "anchor": "#11-3-5-genetic-testing",
+      "title": "11.3.5. Genetic testing",
+      "level": 4,
+      "text": "All urologists working in andrology must understand the genetic abnormalities most commonly associated with infertility, so that they can provide correct advice to couples seeking fertility treatment. Current routine clinical practice in genetic testing is based on the screening of genomic DNA from peripheral blood samples. Screening of chromosomal anomalies in spermatozoa (sperm aneuploidy) and preimplantation genetic testing are also feasible and indicated in selected cases (e.g. recurrent miscarriage) [1672-1678]. 11.3.5.a. Chromosomal abnormalities Chromosomal abnormalities can be numerical (e.g. trisomy) or structural (e.g. inversions or translocations). In a survey of pooled data from 11 publications, including 9,766 infertile males, the incidence of chromosomal abnormalities was 5.8% [1679]. Of these, sex chromosome abnormalities accounted for 4.2% and autosomal abnormalities for 1.5%. In comparison, the incidence of abnormalities was 0.38% in pooled data from three series, with a total of 94,465 new-born male infants, of whom 131 (0.14%) had sex chromosomal abnormalities and 232 (0.25%) autosomal abnormalities [1679]. The frequency of chromosomal abnormalities increases as testicular deficiency becomes more severe. Patients with sperm count < 5 million/mL already show a ten-fold higher incidence (4%) of mainly autosomal structural abnormalities compared to the general population [1680,1681]. Males with NOA are at highest risk, especially for sex chromosomal anomalies (e.g. Klinefelter syndrome) [1682,1683]. Based on the frequencies of chromosomal aberrations in patients with different sperm concentration, karyotype analysis is currently indicated in males with azoospermia or oligozoospermia (spermatozoa < 10 million/mL) [1681]. The clinical value of spermatozoa < 10 million/mL remains a valid threshold until further studies evaluating the cost-effectiveness, including the costs of TRAEs due to chromosomal abnormalities (e.g. miscarriages and congenital anomalies), are conducted [1684]. 11.3.5.a.1. Sex chromosome abnormalities (Klinefelter syndrome and variants [47, XXY; 46, XY/47, XX mosaicism]) Klinefelter syndrome is the most common sex chromosomal abnormality [1685]. Adult males with Klinefelter syndrome usually have small firm testes along with features of primary hypogonadism. The phenotype is the result of a combination between genetic, hormonal and age-related factors [12]. The phenotype varies from that of a normally virilised male to one with the stigmata of androgen deficiency. In most cases, infertility and reduced testicular volume are the only clinical features that can be detected, although neuro-psychological features, learning or language processing disabilities are often present. Leydig cell function is also commonly impaired in males with Klinefelter syndrome and thus testosterone deficiency is more frequently observed than in the general population [1686], although rarely observed during the peri-pubertal period which usually occurs in a normal manner [12,1687]. Rarely, more pronounced signs and symptoms of hypogonadism can be present, along with congenital abnormalities including heart and renal problems [1688]. The presence of germ cells and sperm production are variable in males with Klinefelter syndrome and are more frequently observed in mosaicism 46, XY/47, XXY. In patients with azoospermia, TESE or mTESE are therapeutic options, as spermatozoa can be recovered in up to 50% of cases [1689,1690]. Although the data are not unique [1690], there is some evidence that TESE or mTESE yields higher sperm recovery rates when performed at a younger age, but an age threshold cannot be provided [1682,1691]. Klinefelter syndrome is associated with several general health problems and appropriate medical follow-up is advised [13,1692,1693]. Testosterone therapy may be considered if testosterone levels are in the hypogonadal range when fertility issues have been addressed [15]. Males with Klinefelter syndrome are at higher risk of metabolic and CVD, including venous thromboembolism and diabetes, particularly when starting testosterone therapy [1694]. A higher risk of haematological malignancies has been reported in males with Klinefelter syndrome [13]. Testicular sperm extraction in peri-pubertal or prepubertal boys with Klinefelter syndrome for the purpose of cryopreservation of testicular spermatogonial stem cells is currently considered experimental and should only be undertaken within a research setting [1695]. The same applies to sperm retrieval in older boys who have not yet considered their future fertility potential [1696]. 11.3.5.a.2. Autosomal abnormalities Genetic counselling should be offered to all couples seeking fertility treatment (including IVF/ICSI) when the male partner has an autosomal karyotype abnormality. The most common autosomal karyotype abnormalities are Robertsonian translocations, reciprocal translocations, paracentric inversions, and marker chromosomes. It is i",
+      "tables": []
+    },
+    {
+      "anchor": "#11-3-6-imaging-in-infertile-men",
+      "title": "11.3.6. Imaging in infertile men",
+      "level": 4,
+      "text": "In addition to physical examination, a scrotal US may be helpful in: (i) measuring testicular volume; (ii) assessing testicular anatomy and structure in terms of US patterns, thus detecting signs of testicular dysgenesis often related to impaired spermatogenesis (e.g. non-homogeneous testicular architecture and microcalcifications) and testicular tumours; and, (iii) finding indirect signs of obstruction (e.g. dilatation of rete testis, enlarged epididymis with cystic lesions, or absent vas deferens) [1634]. In clinical practice, Prader’s orchidometer-derived testicular volume is considered a reliable surrogate of US-measured testicular volume, as it is easier to perform and cost-effective [4]. Nevertheless, scrotal US has a relevant role in testicular volume assessment when Prader’s orchidometer is unreliable (e.g. large hydrocele, inguinal testis, epididymal enlargement/fibrosis, thickened scrotal skin, small testis, or where the epididymis is large in comparison to the total testicular volume [4,1634]). Ultrasound patterns of testicular inhomogeneity [1734,1735] is usually associated with ageing, although it has also been reported in association with testicular atrophy and fibrosis [1634]. When testicular inhomogeneity is detected, a diagnostic testicular biopsy is not recommended [1734,1735]. 11.3.6.a. Scrotal ultrasound Scrotal US is widely used in everyday clinical practice in patients with oligozoospermia or azoospermia, as infertility is an additional risk factor for testicular cancer [1736,1737]. It can be used in the diagnosis of several diseases causing infertility, including OA (see section 11.4) and testicular neoplasms, and to provide specific radiological metrics, such as venous diameter and reflux for the diagnosis of varicoceles. 11.3.6.a.1. Testicular neoplasms Males with infertility had an increased risk of testicular cancer compared to fertile controls (pooled OR = 1.91; 95% CI: 1.52–2.42) [1738]. When infertility was refined according to individual semen parameters, oligozoospermic males had an increased risk of cancer compared with fertile control subjects (HR: 11.9) [1739]. In a systematic review, infertile men with testicular microcalcification (TM) were found to have a ~18-fold higher prevalence of testicular cancer [1740]. The utility of US as a routine screening tool in men with infertility to detect testicular cancer remains a matter of debate [1736,1737]. These testicular lesions are difficult to characterise as being benign or malignant based only upon US criteria, including size, vascularity and echogenicity. A dichotomous cut-off of certainty in terms of lesion size that may distinguish benign from malignant testicular masses is currently not available. A systematic review and meta-analysis were conducted by the EAU Testicular Cancer Guidelines Panel and this Panel to determine which scrotal US or MRI characteristics can predict benign or malignant disease in pre- or post-pubertal males with indeterminate testicular masses [1741]. Benign and malignant masses were classified using the reported reference test: that is, histopathology, or 12 months progression-free radiological surveillance. A total of 32 studies were identified, including 1,692 masses of which 28 studies and 1,550 masses reported scrotal US features, and four studies and 142 masses reported MRI features. Meta-analysis of different scrotal US (B-mode) values in post-pubertal males demonstrated that a size of ≤ 0.5cm had a significantly lower OR of malignancy compared to masses of > 0.5cm (p < 0.001). Comparison of masses of 0.6-1.0cm and masses of > 1.5cm also demonstrated a significantly lower OR of malignancy (p = 0.04). There was no significant difference between masses of 0.6-1.0cm and 1.1-1.5cm. Scrotal US in post-pubertal men also had a significantly lower OR of malignancy for heterogenous masses compared to homogenous masses (p = 0.04), hyperechogenic versus hypoechogenic masses (p < 0.01), normal versus increased enhancement (p < 0.01), and peripheral versus central vascularity (p < 0.01), respectively. There were limited data on pre-pubertal scrotal US, pre-pubertal MRI and post-pubertal MRI [1741]. Small hypoechoic/hyperechoic areas may be diagnosed as intra-testicular cysts, focal Leydig cell hyperplasia, fibrosis and focal testicular inhomogeneity after previous pathological conditions. Hence, they require careful periodic US assessment and follow-up, especially if additional risk factors for malignancy are present (i.e. infertility, bilateral TM, history of cryptorchidism, testicular atrophy, inhomogeneous parenchyma, history of testicular tumour, history of/contralateral tumour) [1634]. In the case of interval growth of a lesion and/or the presence of additional risk factors for malignancy, testicular biopsy/surgery may be considered, although the evidence for adopting such a management policy is limited. In 145 men referred for azoospermia who underwent US before testicular biopsy, 49 (34%) had a f",
+      "tables": []
+    },
+    {
+      "anchor": "#11-3-7-summary-of-evidence-and-recommendations-for-the-diagnostic-work-up-of-male-infertilityhormonal-determinations",
+      "title": "11.3.7. Summary of evidence and recommendations for the diagnostic work-up of male infertilityhormonal determinations",
+      "level": 4,
+      "text": "Summary of evidence LE Semen analysis alone cannot distinguish fertile from infertile males. 2a Diagnosis of male infertility is associated with an increased risk of malignant and non-malignant comorbidities. 2a Male infertility evaluation should include a medical, reproductive and family history, assessment of lifestyle and behavioural risk factors, physical examination, semen analysis and hormonal evaluation. 2a Genetic analysis and imaging may be required depending on the clinical features and semen parameters. 2a Testicular volume can be measured with a Prader’s orchidometer or using testicular US. 2a Semen analyses are described in the latest edition of the WHO Manual for the Examination and Processing of Human Semen. Abnormal semen characteristics are expressed as below the fifth percentiles of a reference population of 3,500 males who contributed to a natural conception within 12 consecutive months. 3 Oxidative stress has a detrimental impact on sperm quality but there is a lack of validated assays to measure ROS and oxidative stress. 2b High SDF is associated with reduced pregnancy rates via natural conception or IUI, poor ART outcomes, recurrent pregnancy loss and unexplained infertility. 2a A possible advantage of the use of testicular sperm for ICSI in patients with high SDF in ejaculated sperm has not been confirmed in large scale RCTs. 3 Gonadotropins and total testosterone measurement are useful to diagnose testicular deficiency and to classify the type of hypogonadism. 2a Follicle-stimulating hormone values have been negatively associated with sperm count. 2a Chromosomal abnormalities are frequently found in men with severe oligozoospermia (spermatozoa <5 million/mL) or azoospermia. 2a Klinefelter syndrome is associated with NOA, hypogonadism and general health problems, including metabolic, CV and oncologic diseases. 2a Cystic fibrosis transmembrane conductance regulator gene mutations may be associated with CBAVD and OA. 2a The prevalence of renal anomalies is rare for patients with unilateral and bilateral absence of the vas deferens and CFTR mutations. 2a The highest frequency of Y-microdeletions is found in azoospermic males followed by oligospermic men but is extremely rare with a sperm concentration > 5 million/mL. 2a Complete deletions that include the AZFa and AZFb regions are of poor prognostic significance for retrieving sperm with surgery. 2a Testicular sperm can be found in 50-75% of males with AZFc microdeletions. 2a Male offspring of males with AZF microdeletions will inherit the deletion. 2a Genetic abnormalities found during the diagnostic work-up might impact on the psychological and overall health of the couple and the offspring. 2a The diagnostic yield of exome sequencing in men with NOA, specific sperm morphology, sperm flagellum or sperm function defects is increasing. 2a Scrotal US is used to measure testicular volume and assess testicular anatomy, including detecting signs of obstruction and testicular dysgenesis. 2a Infertile males have a higher risk of testicular cancer compared to fertile controls. 2a An essential approach for infertile males with US-detected indeterminate testicular lesion is a multidisciplinary discussion with focus on the size of the lesion, echogenicity, vascularity and patient history (e.g. cryptorchidism, previous history of germ cell tumour). 2a Scrotal US is useful in assessing venous reflux and diameter of the spermatic vein, mostly when palpation is unreliable or in detecting recurrence/persistence after surgery. 2a In patients with a low seminal volume, acidic pH and either severe oligozoospermia or azoospermia in the absence of CBAVD, TRUS should be used to detect complete or partial ejaculatory duct obstruction. 2b Recommendations Strength rating Include a parallel assessment of the fertility status, including ovarian reserve, of the female partner during the diagnosis and management of the infertile male, since this might determine decision-making in terms of timing and therapeutic strategies (e.g. assisted reproductive technology (ART) versus surgical intervention). Strong Examine all males seeking medical help for fertility problems, including males with abnormal semen parameters. Strong Take a complete medical reproductive and family history, assessment of lifestyle and behaviour risk factors, physical examination and semen analysis. Strong Counsel infertile males or those with abnormal semen parameters on the associated health risks. Weak Assess testicular volume with a Prader’s orchidometer or testicular ultrasound (US). Weak Perform semen analyses according to the latest edition of the World Health Organization Manual for the Examination and Processing of Human Semen. Strong Perform at least two consecutive semen analyses if the baseline analysis was abnormal. Strong Do not routinely use reactive oxygen species testing in the diagnosis and management of the male partner of an infertile couple. Weak Perform sperm DNA fragmentation",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Semen analysis alone cannot distinguish fertile from infertile males.",
+              "2a"
+            ],
+            [
+              "Diagnosis of male infertility is associated with an increased risk of malignant and non-malignant comorbidities.",
+              "2a"
+            ],
+            [
+              "Male infertility evaluation should include a medical, reproductive and family history, assessment of lifestyle and behavioural risk factors, physical examination, semen analysis and hormonal evaluation.",
+              "2a"
+            ],
+            [
+              "Genetic analysis and imaging may be required depending on the clinical features and semen parameters.",
+              "2a"
+            ],
+            [
+              "Testicular volume can be measured with a Prader’s orchidometer or using testicular US.",
+              "2a"
+            ],
+            [
+              "Semen analyses are described in the latest edition of the WHO Manual for the Examination and Processing of Human Semen. Abnormal semen characteristics are expressed as below the fifth percentiles of a reference population of 3,500 males who contributed to a natural conception within 12 consecutive months.",
+              "3"
+            ],
+            [
+              "Oxidative stress has a detrimental impact on sperm quality but there is a lack of validated assays to measure ROS and oxidative stress.",
+              "2b"
+            ],
+            [
+              "High SDF is associated with reduced pregnancy rates via natural conception or IUI, poor ART outcomes, recurrent pregnancy loss and unexplained infertility.",
+              "2a"
+            ],
+            [
+              "A possible advantage of the use of testicular sperm for ICSI in patients with high SDF in ejaculated sperm has not been confirmed in large scale RCTs.",
+              "3"
+            ],
+            [
+              "Gonadotropins and total testosterone measurement are useful to diagnose testicular deficiency and to classify the type of hypogonadism.",
+              "2a"
+            ],
+            [
+              "Follicle-stimulating hormone values have been negatively associated with sperm count.",
+              "2a"
+            ],
+            [
+              "Chromosomal abnormalities are frequently found in men with severe oligozoospermia (spermatozoa <5 million/mL) or azoospermia.",
+              "2a"
+            ],
+            [
+              "Klinefelter syndrome is associated with NOA, hypogonadism and general health problems, including metabolic, CV and oncologic diseases.",
+              "2a"
+            ],
+            [
+              "Cystic fibrosis transmembrane conductance regulator gene mutations may be associated with CBAVD and OA.",
+              "2a"
+            ],
+            [
+              "The prevalence of renal anomalies is rare for patients with unilateral and bilateral absence of the vas deferens and CFTR mutations.",
+              "2a"
+            ],
+            [
+              "The highest frequency of Y-microdeletions is found in azoospermic males followed by oligospermic men but is extremely rare with a sperm concentration > 5 million/mL.",
+              "2a"
+            ],
+            [
+              "Complete deletions that include the AZFa and AZFb regions are of poor prognostic significance for retrieving sperm with surgery.",
+              "2a"
+            ],
+            [
+              "Testicular sperm can be found in 50-75% of males with AZFc microdeletions.",
+              "2a"
+            ],
+            [
+              "Male offspring of males with AZF microdeletions will inherit the deletion.",
+              "2a"
+            ],
+            [
+              "Genetic abnormalities found during the diagnostic work-up might impact on the psychological and overall health of the couple and the offspring.",
+              "2a"
+            ],
+            [
+              "The diagnostic yield of exome sequencing in men with NOA, specific sperm morphology, sperm flagellum or sperm function defects is increasing.",
+              "2a"
+            ],
+            [
+              "Scrotal US is used to measure testicular volume and assess testicular anatomy, including detecting signs of obstruction and testicular dysgenesis.",
+              "2a"
+            ],
+            [
+              "Infertile males have a higher risk of testicular cancer compared to fertile controls.",
+              "2a"
+            ],
+            [
+              "An essential approach for infertile males with US-detected indeterminate testicular lesion is a multidisciplinary discussion with focus on the size of the lesion, echogenicity, vascularity and patient history (e.g. cryptorchidism, previous history of germ cell tumour).",
+              "2a"
+            ],
+            [
+              "Scrotal US is useful in assessing venous reflux and diameter of the spermatic vein, mostly when palpation is unreliable or in detecting recurrence/persistence after surgery.",
+              "2a"
+            ],
+            [
+              "In patients with a low seminal volume, acidic pH and either severe oligozoospermia or azoospermia in the absence of CBAVD, TRUS should be used to detect complete or partial ejaculatory duct obstruction.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Include a parallel assessment of the fertility status, including ovarian reserve, of the female partner during the diagnosis and management of the infertile male, since this might determine decision-making in terms of timing and therapeutic strategies (e.g. assisted reproductive technology (ART) versus surgical intervention).",
+              "Strong"
+            ],
+            [
+              "Examine all males seeking medical help for fertility problems, including males with abnormal semen parameters.",
+              "Strong"
+            ],
+            [
+              "Take a complete medical reproductive and family history, assessment of lifestyle and behaviour risk factors, physical examination and semen analysis.",
+              "Strong"
+            ],
+            [
+              "Counsel infertile males or those with abnormal semen parameters on the associated health risks.",
+              "Weak"
+            ],
+            [
+              "Assess testicular volume with a Prader’s orchidometer or testicular ultrasound (US).",
+              "Weak"
+            ],
+            [
+              "Perform semen analyses according to the latest edition of the World Health Organization Manual for the Examination and Processing of Human Semen.",
+              "Strong"
+            ],
+            [
+              "Perform at least two consecutive semen analyses if the baseline analysis was abnormal.",
+              "Strong"
+            ],
+            [
+              "Do not routinely use reactive oxygen species testing in the diagnosis and management of the male partner of an infertile couple.",
+              "Weak"
+            ],
+            [
+              "Perform sperm DNA fragmentation (SDF) testing in the assessment of couples with recurrent pregnancy loss from natural conception and failure of ART or males with unexplained infertility.",
+              "Strong"
+            ],
+            [
+              "Consider the use of testicular sperm for intra-cytoplasmic sperm injection (ICSI) in patients with high SDF in ejaculated sperm as experimental.",
+              "Weak"
+            ],
+            [
+              "Perform a hormonal evaluation including serum total testosterone and follicle stimulating hormone/luteinising hormone in all cases of oligozoospermia and azoospermia.",
+              "Strong"
+            ],
+            [
+              "Offer standard karyotype analysis and genetic counselling to all men with azoospermia and oligozoospermia (spermatozoa < 5 million/mL) for diagnostic purposes.",
+              "Strong"
+            ],
+            [
+              "Provide long-term endocrine follow-up and appropriate medical treatment to men with Klinefelter syndrome.",
+              "Strong"
+            ],
+            [
+              "Perform Y-chromosome microdeletion testing in men with sperm concentrations of ≤ 1 million sperm/mL. Consider it in men with sperm concentrations of < 5 million sperm/mL.",
+              "Strong"
+            ],
+            [
+              "Inform males with Yq microdeletion and their partners who wish to proceed with ICSI that microdeletions will be passed to sons.",
+              "Strong"
+            ],
+            [
+              "Do not perform testicular sperm extraction in patients with complete deletions that include the AZFa and AZFb regions.",
+              "Strong"
+            ],
+            [
+              "Test males with structural abnormalities of the vas deferens (unilateral or bilateral absence with no renal anomalies) and their partners for cystic fibrosis transmembrane conductance regulator gene mutations.",
+              "Strong"
+            ],
+            [
+              "Provide genetic counselling in all couples with a genetic abnormality found on clinical or genetic investigation and in patients who carry a (potential) inheritable disease.",
+              "Strong"
+            ],
+            [
+              "Perform scrotal US in patients with infertility, as there is a higher risk of testis cancer.",
+              "Weak"
+            ],
+            [
+              "Discuss invasive diagnostic modalities (e.g. US-guided testicular biopsy with frozen section vs. radical orchidectomy vs. surveillance) in infertile men with US-detected indeterminate testicular lesions, especially if additional risk factors for malignancy are present, in a multidisciplinary team setting.",
+              "Weak"
+            ],
+            [
+              "Perform transrectal US if a partial or complete distal obstruction is suspected.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#11-4-special-conditions-and-relevant-clinical-entities",
+      "title": "11.4. Special conditions and relevant clinical entities",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#11-4-1-cryptorchidism",
+      "title": "11.4.1. Cryptorchidism",
+      "level": 4,
+      "text": "Cryptorchidism is the most common congenital abnormality of the male genitalia; at one year of age nearly 1% of all full-term male infants have cryptorchidism [1752]. Approximately 30% of undescended testes are non-palpable and may be located within the abdominal cavity. These Guidelines will only deal with management of cryptorchidism in adults. 11.4.1.a. Classification The classification of cryptorchidism is based on the duration of the condition and the anatomical position of the testes. If the undescended testis has been identified from birth, it is termed congenital, while diagnosis of acquired cryptorchidism refers to men in whom testes were situated within the scrotum. Cryptorchidism is categorised as bilateral or unilateral and by the location of the testes (inguinal, intra-abdominal or ectopic). Studies have shown that treatment of congenital and acquired cryptorchidism results in similar hormonal profiles, semen analysis and testicular volumes [1753,1754]. However, testicular volume and hormonal function are reduced in adults treated for congenital bilateral cryptorchidism compared to unilateral cryptorchidism [1755]. 11.4.1.a.1. Aetiology and pathophysiology It has been postulated that cryptorchidism may be a part of the so-called testicular dysgenesis syndrome (TDS), which is a developmental disorder of the gonads caused by environmental and/or genetic influences early in pregnancy, including exposure to endocrine disrupting chemicals. Besides cryptorchidism, TDS includes hypospadias, reduced fertility, increased risk of malignancy, and Leydig/Sertoli cell dysfunction [1756]. Cryptorchidism has also been linked with maternal gestational smoking [1757] and premature birth [1758]. 11.4.1.a.2. Pathophysiological effects in maldescended testes 11.4.1.a.2.a. Degeneration of germ cells The degeneration of germ cells in maldescended testes is apparent even after the first year of life, and varies depending on the position of the testes [1759]. During the second year, the number of germ cells declines further. Treatment between the age of six to 18 months is therefore recommended to conserve spermatogonial stem cells, safe guard future spermatogenesis and hormone production, and decrease the risk of tumours [1760]. Surgical treatment is the most effective. Meta-analyses on the use of medical treatment with GnRH and hCG have demonstrated poor success rates [1761,1762]. It has been reported that hCG treatment may be harmful to future spermatogenesis [1763]. The EAU Guidelines on Paediatric Urology do not recommend endocrine treatment to achieve testicular descent on a routine basis, but endocrine treatment with GnRH analogues in boys with bilateral undescended testis is recommended [1764]. There is increasing evidence to suggest that, in unilateral undescended testis, the contralateral normal descended testis may also have structural abnormalities, including smaller volume, softer consistency and reduced markers of future fertility potential (spermatogonia/tubule ratio and dark spermatogonia) [1753,1765]. This implies that unilateral cryptorchidism may affect the contralateral testis and patients and parents should be counselled appropriately. 11.4.1.a.2.b. Relationship with fertility Semen parameters are often impaired in men with a history of cryptorchidism [1766]. Early surgical treatment may have a positive effect on subsequent fertility [1767]. In males with a history of unilateral cryptorchidism, paternity is almost equal (89.7%) to that in males without cryptorchidism (93.7%). Outcome studies for untreated bilateral undescended testes revealed that 100% are oligospermic and 75% azoospermic. Among those successfully treated for bilateral undescended testes, 75% still remain oligospermic and 42% azoospermic [1768]. It is also important to screen for hypogonadism, as this is a potential long-term sequelae of cryptorchidism and could contribute to impaired fertility and potential problems, such as testosterone deficiency and MetS [1769]. 11.4.1.a.2.c. Germ cell tumours As a component of TDS, cryptorchidism is a risk factor for testicular cancer and is associated with TM and intratubular germ cell neoplasia in situ (GCNIS), formerly known as carcinoma in situ of the testes. In 5-10% of testicular cancers, there is a history of cryptorchidism [1770]. The risk of a germ cell tumour (GCT) is 3.6-7.4 times higher than in the general population and 2-6% of men with a history of cryptorchidism will develop a testicular tumour [1752]. Orchidopexy performed before the onset of puberty has been reported to decrease the risk of testicular cancer [1771]. However, there is evidence to suggest that even men who undergo early orchidopexy still harbour a higher risk of testicular cancer than males without cryptorchidism [1772]. Therefore, all men with a history of cryptorchidism should be warned that they are at increased risk of developing testicular cancer and should perform regular testicular self-examination [1773",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Cryptorchidism is multifactorial in origin and can be caused by genetic factors and endocrine disruption early in pregnancy.",
+              "2a"
+            ],
+            [
+              "Cryptorchidism is often associated with testicular dysgenesis and is a risk factor for infertility and GCTs; patients should be counselled appropriately.",
+              "2b"
+            ],
+            [
+              "Paternity in males with corrected unilateral cryptorchidism is almost equal to men without cryptorchidism.",
+              "1b"
+            ],
+            [
+              "Bilateral cryptorchidism significantly reduces the likelihood of paternity and patients should be counselled appropriately.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Do not use hormonal treatment for cryptorchidism in post-pubertal males.",
+              "Strong"
+            ],
+            [
+              "Perform simultaneous testicular biopsy for the detection of intratubular germ cell neoplasia in situ (formerly carcinoma in situ) if undescended testes are corrected in adulthood.",
+              "Strong"
+            ],
+            [
+              "Offer orchidectomy to adult males with unilateral undescended testis and normal hormonal function or spermatogenesis.",
+              "Strong"
+            ],
+            [
+              "Offer adult males with unilateral or bilateral undescended testis with biochemical hypogonadism and or spermatogenic failure (i.e. infertility) unilateral or bilateral orchidopexy, if technically feasible.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#11-4-2-germ-cell-malignancy-and-male-infertility",
+      "title": "11.4.2. Germ cell malignancy and male infertility",
+      "level": 4,
+      "text": "Testicular germ cell tumour (TGCT) is the most common malignancy in Caucasian men aged 15-40 years, and affects approximately 1% of sub-fertile men [1779]. The lifetime risk of TGCT varies among ethnic groups and countries. The highest annual incidence of TGCT occurs in Caucasians and varies from 10/100,000 (e.g. Denmark and Norway) to 2/100,000 (e.g. Finland and Baltic countries). Generally, seminomas and non-seminomas are preceded by GCNIS, and untreated GCNIS eventually progresses to invasive cancer [1780-1782]. There has been a general decline in male reproductive health and an increase in testicular cancer in Western countries [1783,1784]. In almost all countries with reliable cancer registries, the incidence of testicular cancer has increased [1723,1785]. This has been postulated to be related to TDS, which is a developmental disorder of the testes caused by environmental and/or genetic influences in pregnancy. Endocrine disrupting chemicals have also been associated with sexual dysfunction [1786] and abnormal semen parameters [1787]. These cancers arise from premalignant gonocytes or GCNIS [1788]. Testicular microcalcification, seen on US, can be associated with TGCT and GCNIS of the testes [1740,1789,1790]. 11.4.2.a. Testicular germ cell cancer and reproductive function All males with cancer must be offered sperm cryopreservation prior to the therapeutic use of gonadotoxic agents or ablative surgery that may impair spermatogenesis or ejaculation (i.e. chemotherapy, RT or retroperitoneal surgery) [1791,1792]. Males with TGCT have decreased semen quality, even before cancer treatment. Azoospermia has been observed in 24% of males with TGCT [1793] and oligospermia in 50% [1794]. Given that the average ten-year survival rate for testicular cancer is 98% and it is the most common cancer in males of reproductive potential, it is mandatory to include counselling regarding fertility preservation prior to any gonadotoxic treatment [1794,1795]. All patients should be offered ejaculated semen preservation as the most cost-effective strategy for fertility preservation, or sperm extracted surgically (e.g. c/mTESE). Treatment for TGCT, including orchidectomy owing to the risk of a non-functioning remaining testicle, may have a negative impact on reproductive function [1793]. If a male is shown to be azoospermic or severely oligozoospermic, sperm cryopreservation is recommended before to orchidectomy to allow the option of concomitant TESE before any further potential gonadotoxic/ablative surgery [1794]. The surgical principles in onco-TESE do not differ from the technique of TESE for men with infertility (e.g. NOA) [1796,1797]. In this context, it is recommended to organise cryopreservation care delivery networks that enable referral to a urologist adept in TESE. Rates of under-utilisation of semen analysis and sperm cryopreservation have been reported to be high; resulting in the failure to identify azoospermic or severely oligozoospermic patients at diagnosis who may benefit from advanced fertility-preserving procedures, such as onco-TESE. The argument that performing cryopreservation prior to orchidectomy may delay subsequent treatment is not supported by contemporary clinical practice; adverse impact on survival has not been investigated. Orchidectomy should not be unduly delayed if there are no facilities for cryopreservation or there is a potential delay in treatment. Since chemotherapy and RT are teratogenic, contraception must be used during treatment and for at least six months after completion [1798]. Both chemotherapy and RT can impair fertility. Long-term infertility is rare after RT and dose-cumulative-dependent with chemotherapy. Treatment of TGCT can result in additional impairment of semen quality [1799] and increased sperm aneuploidy up to two years following gonadotoxic therapy [1800]. Spermatogenesis usually recovers one to four years after chemotherapy [82]. Chemotherapy is also associated with DNA damage and an increased SDF rate [1801]. However, sperm aneuploidy levels often decline to pre-treatment levels 18-24 months after treatment [1800]. Several studies reviewing the offspring of cancer survivors have not shown a significant increased risk of genetic abnormalities in the context of previous chemotherapy and RT [1802]. In addition to spermatogenic failure, patients with TGCT have Leydig cell dysfunction, even in the contralateral testis [1803]. The measurement of pre-treatment levels of testosterone, SHBG, LH and oestradiol may help to stratify those patients at increased risk of hypogonadism and provide a baseline for post-treatment hypogonadism. The risk of hypogonadism may be increased in men treated for TGCT. Likewise, the risk of hypogonadism is increased in the survivors of testicular cancer and serum testosterone levels should be evaluated during the management of these patients [1804]. However, this risk is greatest at 6-12 months post-treatment and suggests that there may be som",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Testicular germ cell tumour affects approximately 1% of sub-fertile men.",
+              "2b"
+            ],
+            [
+              "Men with TGCT frequently have impaired sperm parameters at diagnosis.",
+              "2a"
+            ],
+            [
+              "Semen analysis and sperm cryopreservation before orchidectomy allows the identification of TGCT patients with azoospermia that may benefit from concomitant surgical sperm retrieval (i.e. onco-TESE).",
+              "2b"
+            ],
+            [
+              "Treatment of TGCT can result in decreased sperm quality, sperm aneuploidy, increased SDF, hypogonadism, sexual dysfunction and CVD.",
+              "2a"
+            ],
+            [
+              "Testicular microcalcifications can be found in men with benign conditions (e.g. cryptorchidism, infertility, testicular torsion and atrophy, Klinefelter syndrome, hypogonadism, disorders of sex development, varicocele) and (pre)malignant (GCNIS) or malignant conditions (TGCT).",
+              "2a"
+            ],
+            [
+              "Testicular microcalcifications are associated with a higher risk of testicular cancer in infertile men.",
+              "1a"
+            ],
+            [
+              "Men potentially at risk for harbouring or developing GCNIS include those with bilateral TM, infertility, atrophic testes, undescended testes, history of TGCT, and contralateral TM.",
+              "2a"
+            ],
+            [
+              "Since TGCT will not develop in most men with TM, an extensive screening programme or invasive testicular biopsy is not indicated without additional risk factors.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Advise men with testicular microcalcification (TM) to perform self-examination even without additional risk factors, as this may result in early detection of a testicular germ cell tumour (TGCT).",
+              "Weak"
+            ],
+            [
+              "Do not perform testicular biopsy, follow-up scrotal ultrasound (US), measure biochemical tumour markers, or abdominal or pelvic computed tomography, in men with isolated TM without associated risk factors (e.g. infertility, cryptorchidism, testicular cancer, and atrophic testis).",
+              "Strong"
+            ],
+            [
+              "Offer testicular biopsy to infertile men with TM who belong to one of the following higher risk groups: spermatogenic failure (infertility), bilateral TM, atrophic testes (< 12mL), history of undescended testes and TGCT.",
+              "Weak"
+            ],
+            [
+              "Perform inguinal surgical exploration with testicular biopsy or offer orchidectomy after multidisciplinary team meeting and discussion with the patient, if there are suspicious findings on physical examination or US in patients with TM with associated lesions.",
+              "Strong"
+            ],
+            [
+              "Manage men treated for TGCT in a multidisciplinary team setting with a dedicated late-effects clinic and survivorship program, since they are at increased risk of developing hypogonadism, sexual dysfunction and cardiovascular risk.",
+              "Strong"
+            ],
+            [
+              "Perform sperm cryopreservation prior to planned orchidectomy or before additional neoadjuvant or adjuvant oncological therapies.",
+              "Strong"
+            ],
+            [
+              "Offer onco-testicular sperm extraction at the time of radical orchidectomy in men with testicular cancer and azoospermia or severe abnormalities in their semen parameters.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#11-4-3-varicocele",
+      "title": "11.4.3. Varicocele",
+      "level": 4,
+      "text": "Varicocele is a common congenital abnormality, that may be associated with the following andrological conditions: failure of ipsilateral testicular growth and development male sub-fertility symptoms of pain and discomfort hypogonadism. 11.4.3.a. Classification The following classification of varicocele [1608] is useful in clinical practice: Subclinical: not palpable or visible at rest or during Valsalva manoeuvre but can be shown by special tests (Doppler US). Grade 1: palpable during Valsalva manoeuvre. Grade 2: palpable at rest. Grade 3: visible and palpable at rest. 11.4.3.b. Diagnostic evaluation The diagnosis of varicocele is made by physical examination and scrotal Doppler US is indicated if physical examination is inconclusive or semen analysis remains unsatisfactory after varicocele repair to identify persistent and recurrent varicocele [1608,1815]. A maximum venous diameter of > 3mm in the upright position and during the Valsalva manoeuvre and venous reflux with a duration > two seconds correlate with the presence of a clinically significant varicocele [1816,1817]. To calculate testicular volume, Lambert’s formula (V = L x W x H x 0.71) should be used, as it correlates well with testicular function in patients with infertility and/or varicocele [1818]. Patients with isolated, clinical right varicocele should be examined further for abdominal, retroperitoneal and congenital pathology and anomalies. 11.4.3.c. Basic considerations 11.4.3.c.1. Varicocele and fertility Varicocele is present in almost 15% of the normal male population, in 25% of men with abnormal semen analysis and in 35-40% of men presenting with infertility [1608,1819-1821]. The incidence of varicocele among men with primary infertility is estimated at 35–44%, whereas the incidence in men with secondary infertility is 45–81% [1608,1820,1821]. Worsening semen parameters are associated with a higher grade of varicocele and age [1820,1822]. The exact association between reduced male fertility and varicocele is unknown. Increased scrotal temperature, hypoxia and reflux of toxic metabolites can cause testicular dysfunction and infertility due to increased overall survival and DNA damage [1819,1821]. 11.4.3.c.2. Varicocelectomy Varicocele repair has been a subject of debate for several decades. A meta-analysis of RCTs and observational studies in men with only clinical varicoceles has shown that surgical varicocelectomy significantly improves semen parameters in men with abnormal semen parameters, including men with NOA with hypo-spermatogenesis or late maturation (spermatid) arrest on testicular pathology [1819,1823-1826]. A meta-analysis showed that improvements in semen parameters are usually observed after surgical correction in men with abnormal semen parameters [1827-1829]. Varicocelectomy can also reverse sperm DNA damage and improve OS levels [1819,1821]. Pain resolution after varicocelectomy occurs in 48-90% of patients [1830]. A systematic review has shown greater improvement in higher-grade varicoceles, and this should be considered during patient counselling [1831]. In RCTs, varicocele repair in men with a subclinical varicocele was ineffective at increasing the chances of spontaneous pregnancy [1832]. Also, in randomised studies that included mainly men with normal semen parameters, no benefit was found to favour treatment over observation. This was also reported in a systematic review and meta-analysis including prospective randomised and non-randomised studies [1833]. In studies including patients with abnormal semen parameters pregnancy rates (OR: 1.29; 95% CI: 1.00–1.65; p = 0.04) and total sperm count (mean difference: 12.34 million/mL; 95% CI: 3.49–21.18; p = 0.006) were significantly improved by varicocele treatment compared with observation. A benefit for varicocele treatment was not found for sperm progressive motility and normal sperm morphology [1833]. When pre- versus post-treatment values were considered in the varicocele treatment arm, only a benefit in terms of sperm count, progressive motility, and normal morphology was found [1833]. Another systematic review and meta-analysis evaluated the change in conventional semen parameters after varicocele repair (n = 1,426) compared to untreated controls (n = 996) [1834]. Significantly improved postoperative semen parameters where reported in treated patients compared to controls with regards to sperm concentration (SMD 1.73; 95% CI: 1.12–2.34; p < 0.001); total sperm count (SMD 1.89; 95% CI: 0.56–3.22; p < 0.05); progressive sperm motility (SMD 3.30; 95% CI: 2.16–4.43; p < 0.01); total sperm motility (SMD 0.88; 95% CI: 0.03–1.73; p=0.04) and normal sperm morphology (SMD 1.67; 95% CI: 0.87–2.47; p < 0.05) [1834]. A 2012 Cochrane review concluded that treatment of a varicocele in men from couples with otherwise unexplained subfertility may improve the chance of spontaneous pregnancy [1835]. Similarly, a 2021 Cochrane review including 5,384 participants showed that varicoce",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Treatment",
+              "Recurrence/Persistence",
+              "Overall complications",
+              "Specific Complications"
+            ],
+            [
+              "Antegrade sclerotherapy[1860,1861]",
+              "5-9%",
+              "Hydrocele (5.5%), haematoma, infection, scrotal pain, testicular atrophy, epididymitis",
+              "Technical failure 1-9%, left-flank erythema"
+            ],
+            [
+              "Retrograde sclerotherapy[1862,1863]",
+              "6-9.8%",
+              "Hydrocele (3.3%), wound infection, scrotal pain",
+              "Technical failure 6–7.5%, adverse reaction to contrast medium, flank pain, persistent thrombophlebitis, venous perforation"
+            ],
+            [
+              "Retrograde embolization[1862,1864]",
+              "3-11%",
+              "Hydrocele (10%), haematoma, wound infection",
+              "Technical failure 7–27%, pain due to thrombophlebitis, radiological complications (e.g. reaction to contrast media), misplacement or migration of coils (to femoral vein or right atrium), retroperitoneal haemorrhage, fibrosis, ureteric obstruction, venous perforation"
+            ],
+            [
+              "Open operation"
+            ],
+            [
+              "Scrotal operation",
+              "-",
+              "Testicular atrophy, arterial damage with risk of devascularisation and testicular gangrene, scrotal haematoma, postoperative hydrocele",
+              " "
+            ],
+            [
+              "Inguinal approach[1865,1866]",
+              "2.6-13%",
+              "Hydrocele (7.3%), testicular atrophy, epididymo-orchitis, wound complications",
+              "Postoperative pain due to incision of external oblique fascia, genitofemoral nerve damage"
+            ],
+            [
+              "Open retroperitoneal high ligation[1854,1867]",
+              "15-29%",
+              "Hydrocele (5–10%), testicular atrophy, scrotal oedema",
+              "External spermatic vein ligation failure"
+            ],
+            [
+              "Microsurgical inguinal or subinguinal[1855,1865,1868,1869]",
+              "0.4%",
+              "Hydrocele (0.44%), scrotal haematoma",
+              " "
+            ],
+            [
+              "Laparoscopy[1822,1854,1855,1870,1871]",
+              "3-6%",
+              "Hydrocele (7–43%), epididymitis, wound infection, testicular atrophy due to injury of testicular artery, bleeding",
+              "External spermatic vein ligation failure; intestinal, vascular and nerve damage; pulmonary embolism; pneumo-scrotum; peritonitis; postoperative pain in right shoulder (due to diaphragmatic stretching during pneumo-peritoneum)"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "The presence of varicocele in some men is associated with progressive testicular damage from adolescence onwards and a consequent potential reduction in fertility.",
+              "2a"
+            ],
+            [
+              "Although the treatment of varicocele in adolescents may be effective, there is a significant risk of over-treatment as the majority of boys with a varicocele will have no fertility problems later in life.",
+              "3"
+            ],
+            [
+              "Varicocele repair may be effective in men with abnormal semen parameters, a clinical varicocele and otherwise unexplained male factor infertility.",
+              "1a"
+            ],
+            [
+              "Varicocele repair may improve pregnancy rates and sperm concentration in adult infertile men with abnormal semen analyses, while benefits in sperm motility and normal morphology are less clear.",
+              "1a"
+            ],
+            [
+              "Although there are no prospective randomised studies evaluating this, meta-analyses have suggested that varicocele repair is associated with sperm appearing in the ejaculate of men with NOA.",
+              "2"
+            ],
+            [
+              "Microscopic approach (inguinal/subinguinal) may have lower recurrence and complications rates than non-microscopic approaches (retroperitoneal and laparoscopic), although no RCTs are available yet.",
+              "2a"
+            ],
+            [
+              "Varicocele is associated with raised SDF, and intervention has been shown to reduce SDF and may improve the outcomes of ART.",
+              "2a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "In adolescents offer surgery for varicocele associated with a persistent small testis (size difference of > 2mL or 20%), which should be confirmed on two subsequent visits performed six months apart.",
+              "Strong"
+            ],
+            [
+              "Do not treat varicocele in infertile men who have normal semen analysis and in men with a sub-clinical varicocele.",
+              "Strong"
+            ],
+            [
+              "Treat infertile men with a clinical varicocele, abnormal semen parameters and otherwise unexplained infertility in a couple where the female partner has good ovarian reserve to improve fertility rates.",
+              "Strong"
+            ],
+            [
+              "Varicocelectomy may be considered in men with raised sperm DNA fragmentation with otherwise unexplained infertility or who have suffered from failure of assisted reproductive techniques, including recurrent pregnancy loss, failure of embryogenesis and implantation.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#11-4-4-male-accessory-gland-infections-and-infertility",
+      "title": "11.4.4. Male accessory gland infections and infertility",
+      "level": 4,
+      "text": "11.4.4.a. Introduction Infection of the male urogenital tract is a potentially curable cause of male infertility [1872-1874]. The WHO considers urethritis, prostatitis, orchitis and epididymitis to be male accessory gland infections [1872]. The effect of symptomatic or asymptomatic infections on sperm quality is contradictory [1875]. A systematic review of the relationship between STIs, such as those caused by Chlamydia trachomatis, genital mycoplasmas, Neisseria gonorrhoeae, Trichomonas vaginalis and viruses, and infertility was unable to draw a strong association between STIs and male infertility due to the limited quality of reported data [1876]. 11.4.4.b. Diagnostic evaluation 11.4.4.b.1. Semen analysis Semen analysis (see Section 11.3.2) clarifies whether the prostate is involved as part of a generalised male accessory gland infection and provides information regarding sperm quality. 11.4.4.b.2. Microbiological findings After exclusion of urinary tract infection (including urethritis), > 10 6 peroxidase-positive white blood cells per millilitre of ejaculate indicate an inflammatory process. Semen culture or polymerase chain reaction analysis should be performed for common urinary tract pathogens in all suspected cases of genitourinary tract infections. A concentration of > 10 3 colony forming units per millilitre urinary tract pathogens in the ejaculate is indicative of significant bacteriospermia [1877]. The sampling should be delivered the same day to the laboratory because the sampling time can influence the rate of positive micro-organisms in semen and the frequency of isolation of different strains [1878]. The ideal diagnostic test for isolating C. trachomatis in semen has not yet been established [1879], but the most accurate method is polymerase chain reaction [1880-1882]. Historical data show that Ureaplasma urealyticum is pathogenic only in high concentrations (> 103 colony forming units per millilitre ejaculate). Fewer than 10% of samples analysed for Ureaplasma exceeded this concentration [1883]. Normal colonisation of the urethra hampers the significance of mycoplasma-associated urogenital infections, using samples such as the ejaculate [1884]. A meta-analysis indicated that Ureaplasma parvum and Mycoplasma genitalium were not associated with male infertility, but a significant relationship existed between U. urealyticum (OR: 3.03; 95% CI: 1.02–8.99) and Mycoplasma hominis (OR: 2.8; 95% CI: 0.93– 3.64) [1885]. For these reasons, the treatment is not always recommended. Human papillomavirus (HPV) is commonly found in semen samples, with a reported prevalence of 20% in infertile populations and 8% in men from the general population [1886]. Systematic reviews have reported an association between male infertility, poorer pregnancy outcomes and semen HPV positivity [1886-1889]. However, data still need to be prospectively validated to clearly define the clinical impact of HPV-infection in semen. Additionally, seminal presence of Herpes simplex virus (HSV)-2 in infertile males may be associated with lower sperm quality compared to that in HSV-negative infertile males [1875]. However, it is unclear if anti-viral therapy improves fertility rates in these males. 11.4.4.b.3. White blood cells The clinical significance of an increased concentration of leukocytes in the ejaculate is controversial [1890]. Although leukocytospermia is a sign of inflammation, it is not necessarily associated with bacterial or viral infections and therefore cannot be considered a reliable indicator [1891]. According to the WHO classification, leukocytospermia is defined as > 10 6 white blood cells per millilitre. Only two studies have analysed alterations of white blood cells in the ejaculate of patients with proven prostatitis [1892,1893]. Both studies found more leukocytes in males with prostatitis compared to those without inflammation (CPPS, type NIH 3b). Leukocytospermia should be further confirmed by performing a peroxidase test on the semen. A meta-analysis of case-control studies showed that leukocytospermia in males seeking consultation for couple subfertility was not associated with reduced fertility after ART and altered semen quality in males without symptoms of genital tract infections [1894]. There is currently no evidence that treatment of leukocytospermia alone without evidence of infective organisms improves conception rates [1895]. 11.4.4.b.4. Sperm quality The deleterious effects of CP/CPPS on sperm density, motility and morphology have been demonstrated in a systematic review based on case-controlled studies [1896]. Both C. trachomatis and Ureoplasma spp. can cause decreased sperm density, motility, altered morphology and increased DNA damage. Data from a retrospective cross-sectional study showed that U. urealyticum was the most frequent single pathogen in semen of asymptomatic infertile males; a positive semen culture was both univariably (p < 0.001) and multi-variably (p = 0.04) associated with lower",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Male accessory gland infections are not clearly associated with impaired natural conception.",
+              "3"
+            ],
+            [
+              "Antibiotic treatment often only eradicates micro-organisms; it has no positive effect on inflammatory alterations and cannot reverse functional deficits and anatomical abnormalities.",
+              "2a"
+            ],
+            [
+              "Although antibiotic treatment for male accessory gland infections may result in improvement in sperm quality, it does not enhance the probability of conception.",
+              "2a"
+            ],
+            [
+              "Data are insufficient to conclude whether antibiotics and antioxidants for the treatment of infertile men with leukocytospermia improve fertility outcomes.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Treat male accessory gland infections, as it may improve sperm quality, although it does not necessarily improve the probability of conception.",
+              "Weak"
+            ],
+            [
+              "Refer sexual partners of patients with accessory sex gland infections that are known or suspected to be caused by sexually transmitted diseases for evaluation and treatment.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#11-5-non-invasive-male-infertility-management",
+      "title": "11.5. Non-invasive male infertility management",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#11-5-1-empirical-treatments",
+      "title": "11.5.1. Empirical treatments",
+      "level": 4,
+      "text": "11.5.1.a. Lifestyle Environmental and lifestyle factors may contribute to male infertility, acting additively on a susceptible genetic background [90,1737]. Hence, lifestyle improvement can have a positive effect on sperm parameters. This includes: Weight loss: non-controlled studies have suggested that weight loss can result in improved sperm parameters [90,1918,1919]. Data derived from RCTs are more conflicting. A meta-analysis of 28 cohort studies and 1,022 patients documented that bariatric surgery did not improve sperm quality and function in males that are morbidly obese [1920]. Data on ART outcomes are lacking. Weight loss can improve obesity-related secondary hypogonadism, which may result in better outcomes in couples seeking medical care for infertility [1918,1920]. Physical activity: a meta-analysis reported that moderate-intensity (20–40 metabolic equivalents per week) or even high-intensity (40–80 metabolic equivalents hours per week) recreational physical activity can result in better semen parameters [1921]. Physical activity might improve hormonal profile [1918]. Smoking: data derived from a large meta-analysis of 20 studies with 5,865 participants showed a negative association between smoking and sperm parameters [1922]. Alcohol consumption: Data derived from a meta-analysis including 15 cross-sectional studies and 16,395 men suggested that moderate alcohol does not adversely affect semen parameters, whereas high alcohol intake can have a detrimental effect on male fertility [1923]. Heavy chronic alcohol consumption (defined as > two drinks/day [1837]) can reduce testosterone levels [1924]. 11.5.1.b. Antioxidant treatment Oxidative stress is one of the most important contributing factors in the pathogenesis of idiopathic infertility. Reactive oxygen species, the final products of OS, can impair sperm function acting at several levels, including plasma membrane lipid peroxidation, which can affect sperm motility, the acrosome reaction and chromatin maturation leading to increased SDF [1925]. Accordingly, seminal levels of ROS have been negatively associated with ART outcomes [1926]. Evidence for the role of antioxidant therapy in male infertility is still conflicting. An Cochrane systematic review and meta-analysis including 34 RCTs and 2,876 couples using various antioxidant compounds concluded that antioxidant therapy had a positive impact on live-birth and pregnancy rates in sub-fertile couples undergoing ART cycles [1927]. Similar results were also reported in a meta-analysis including 61 studies with 6,264 infertile males, aged 18-65 years [1928]. The quality of the reported studies is poor. The Males, Antioxidants, and Infertility (MOXI) trial found that antioxidants did not improve semen parameters or DNA integrity compared to placebo among infertile males with male factor infertility. Cumulative live-birth rates did not differ at six months between the antioxidant and placebo groups (15% vs. 24%) [1929]. No clear conclusions were possible regarding the specific antioxidants to use or and/or therapeutic regimes for improving sperm parameters and pregnancy rate [1928]. 11.5.1.c. Probiotic treatment Prebiotic/probiotic supplementation may influence hormone secretion; facilitating the scavenging of free radicals, and improving the microenvironment of the prostate and indirectly enhance sperm function. A RCT including 56 males with idiopathic infertility treated with a prebiotic/probiotic compound versus placebo showed a significant increase in sperm parameters in the treated group (i.e. sperm concentration, motility and normal morphology) as well as an increase in DNA integrity [1930]. A RCT of 78 infertile males who underwent varicocelectomy with or without postoperative probiotic supplementation found a significant early (three months) increase of sperm parameters (sperm concentration and normal morphology) in favour of the probiotic group versus placebo [1931]. Further high-powered RCTs are warranted to further investigate the use of prebiotic/probiotic supplementation in the context of male infertility. 11.5.1.d. Selective oestrogen receptor modulators Selective oestrogen receptor modulators block oestrogen receptors at the level of the hypothalamus, which results in stimulation of GnRH secretion, leading to an increase in pituitary gonadotropin release and stimulation of spermatogenesis [1932]. Meta-analysed data derived from 11 RCTs showed that SERMs significantly increased pregnancy rate, sperm and hormonal parameters [1933]. Similar results were confirmed in a meta-analysis of 16 studies [1932]. Previous systematic reviews failed to find any association between SERMs and pregnancy rate [1934]. The quality of the papers considered was low, only a few studies were placebo controlled and complications from the use of SERMs were under-reported. In conclusion, although some positive results on the use of SERMs in males with idiopathic infertility have been reported, no conclusive reco",
+      "tables": []
+    },
+    {
+      "anchor": "#11-5-2-summary-of-evidence-and-recommendation-for-non-invasive-male-infertility-management",
+      "title": "11.5.2. Summary of evidence and recommendation for non-invasive male infertility management",
+      "level": 4,
+      "text": "Summary of evidence LE In infertile males, lifestyle factors including obesity, low physical activity, smoking and high alcohol intake are associated with decreased sperm quality. 2a In males with idiopathic oligo-astheno-teratozoospermia, lifestyle changes, including weight loss, increased physical activity, smoking cessation, and alcohol intake reduction may improve sperm quality and the chances of conception. 2a No conclusive data are available regarding the beneficial treatment with antioxidants in males with idiopathic infertility, although they may improve semen parameters. 1b No conclusive data are available regarding the beneficial treatment with prebiotic/probiotic in males with idiopathic infertility; although, they may improve semen parameters. 1b No conclusive data are available regarding the use of SERMs in males with idiopathic infertility. 1b No conclusive data are available regarding the use of steroidal (testolactone) or nonsteroidal (anastrozole and letrozole). AIs in males with idiopathic infertility. 1b Recommendations Strength rating Inform infertile males about the detrimental effects of obesity, low physical activity, smoking and high alcohol intake on sperm quality and testosterone levels. Therefore, advise infertile males to improve lifestyle factors to increase their chances of conception. Strong Do not routinely treat patients with idiopathic infertility with antioxidants, prebiotic/probiotic, selective oestrogen receptor modulators or aromatase inhibitors. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "In infertile males, lifestyle factors including obesity, low physical activity, smoking and high alcohol intake are associated with decreased sperm quality.",
+              "2a"
+            ],
+            [
+              "In males with idiopathic oligo-astheno-teratozoospermia, lifestyle changes, including weight loss, increased physical activity, smoking cessation, and alcohol intake reduction may improve sperm quality and the chances of conception.",
+              "2a"
+            ],
+            [
+              "No conclusive data are available regarding the beneficial treatment with antioxidants in males with idiopathic infertility, although they may improve semen parameters.",
+              "1b"
+            ],
+            [
+              "No conclusive data are available regarding the beneficial treatment with prebiotic/probiotic in males with idiopathic infertility; although, they may improve semen parameters.",
+              "1b"
+            ],
+            [
+              "No conclusive data are available regarding the use of SERMs in males with idiopathic infertility.",
+              "1b"
+            ],
+            [
+              "No conclusive data are available regarding the use of steroidal (testolactone) or nonsteroidal (anastrozole and letrozole). AIs in males with idiopathic infertility.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Inform infertile males about the detrimental effects of obesity, low physical activity, smoking and high alcohol intake on sperm quality and testosterone levels. Therefore, advise infertile males to improve lifestyle factors to increase their chances of conception.",
+              "Strong"
+            ],
+            [
+              "Do not routinely treat patients with idiopathic infertility with antioxidants, prebiotic/probiotic, selective oestrogen receptor modulators or aromatase inhibitors.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#11-5-3-hormonal-therapy",
+      "title": "11.5.3. Hormonal therapy",
+      "level": 4,
+      "text": "11.5.3.a. Secondary hypogonadism A brief discussion on pre-pubertal onset can be found in Appendix 7, online supplementary evidence. Post-pubertal onset: hCG alone is usually required first to stimulate spermatogenesis. A starting dose of 250 IU hCG twice weekly is suggested, and if normal testosterone levels are reached, hCG doses may be increased up to 2,000 IU twice weekly. Semen analysis should be performed every three months to assess response, unless conception has taken place. If there is a failure of stimulation of spermatogenesis, FSH can be added (75 IU three times per week, increasing to 150 IU three times per week, if indicated). Combination therapy with FSH and hCG can be administered from the start of treatment, promoting better outcomes in males with hypogonadotropic hypogonadism [133]. No difference in outcomes were observed when urinary-derived, highly purified FSH was compared to rFSH [133]. Greater baseline testicular volume is a good prognostic indicator for response to gonadotrophin treatment, while previous testosterone therapy can have a negative impact on gonadotropin treatment outcomes in males with hypogonadotropic hypogonadism [1940]. This observation was refuted by a meta-analysis that did not confirm a real negative role of testosterone therapy in terms of future fertility in this specific setting [133]. 11.5.3.a.1. Secondary hypogonadism due to hyperprolactinemia In the presence of hyperprolactinaemia, which suppresses gonadotrophins and leads to subfertility, treatment (independent of aetiology, including a pituitary adenoma) is dopamine agonist therapy or withdrawal of the drug that causes the condition. Dopamine agonists used include bromocriptine, cabergoline and quinagolide. 11.5.3.b. Primary hypogonadism There is no substantial evidence that gonadotrophin therapy has any beneficial effect in the presence of classical testicular failure. Likewise, there are no data to support the use of other hormonal treatments (including SERMs or AIs) in the case of primary hypogonadism to improve spermatogenesis [91,1941]. 11.5.3.c. Idiopathic male factor infertility There is some evidence that FSH treatment increases sperm parameters in idiopathic oligozoospermic males with FSH levels within the normal range (generally 1.5–8mIU/mL) [1942]. In a meta-analysis including 12 trials with 924 patients, FSH treatment resulted in an improvement of both semen parameter and SDF [1943]. It has also been reported that FSH, along with improvement of SDF rates, may ameliorate AMH and inhibin B levels [1944-1947]. High-dose FSH therapy is more effective in achieving a testicular response than lower doses [1948]. A Cochrane review including six RCTs with 456 participants, different treatment protocols and follow-up periods, concluded that FSH treatment resulted in higher live-birth and pregnancy rates compared with placebo or no treatment. No significant difference among groups was observed when ICSI or IUI were considered [1949]. In a meta-analysis including 15 trials with > 1,200 patients, similar findings after FSH treatment were observed in terms of both spontaneous pregnancies and pregnancies after ART [1950]. A further study showed that in azoospermic males undergoing TESE-ICSI, there were improved SRRs and higher pregnancy and fertilisation rates in males treated with FSH compared to untreated males [1951]. In males with NOA, combination hCG/FSH therapy was shown to increase SRR in only one study [1952]. Human chorionic gonadotrophin alone prior to TESE in NOA has not been found to have any benefit on SRRs [1953]. Overall, the evidence for the use of hormone therapy prior to SSR is limited and treatment should be confined to clinical trials and not used routinely in clinical practice. 11.5.3.d. Anabolic steroid abuse Oligospermia or azoospermia caused by anabolic abuse should initially be treated by withdrawal of the anabolic steroid. There is no common indication for treating this disorder; the management is based on case reports and clinical experience. Usually, adequate sperm numbers and quality will improve over a six to twelve-month period from cessation. If after this interval the condition persists, then hCG without or in combination with FSH as an alternative to clomiphene can be used to stimulate spermatogenesis [1954]. 11.5.3.e. Summary of evidence and recommendations for treatment of male infertility with hormonal therapy Summary of evidence LE Follicle stimulating hormone promotes spermatogenesis and testicular growth during puberty. Human chorionic gonadotropin acts like LH and is used to stimulate intratesticular testosterone production and spermatogenesis in males with hypopituitarism after puberty. 2b Prepubertal secondary hypogonadism requires the association of FSH and hCG or pulsatile GnRH, even if its use is limited by the difficult administration. 1b Secondary hypogonadism in adults can be effectively treated with subcutaneous hCG and FSH. 2b The use of GnRH therapy is more",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Follicle stimulating hormone promotes spermatogenesis and testicular growth during puberty. Human chorionic gonadotropin acts like LH and is used to stimulate intratesticular testosterone production and spermatogenesis in males with hypopituitarism after puberty.",
+              "2b"
+            ],
+            [
+              "Prepubertal secondary hypogonadism requires the association of FSH and hCG or pulsatile GnRH, even if its use is limited by the difficult administration.",
+              "1b"
+            ],
+            [
+              "Secondary hypogonadism in adults can be effectively treated with subcutaneous hCG and FSH.",
+              "2b"
+            ],
+            [
+              "The use of GnRH therapy is more expensive and does not offer any advantages compared to gonadotropins for the treatment of hypogonadotropic hypogonadism.",
+              "3"
+            ],
+            [
+              "In post-pubertal forms of secondary hypogonadism, sequential use of hCG and FSH or their combination from the beginning are options.",
+              "1b"
+            ],
+            [
+              "Testicular volume is one of the main predictors of response to gonadotropin therapy in males with hypogonadotropic hypogonadism.",
+              "2a"
+            ],
+            [
+              "Dopamine agonists are used to treat hyperprolactinaemia.",
+              "2a"
+            ],
+            [
+              "Follicle-stimulating hormone therapy (any formulation) has been associated with improvement in sperm quality and increased spontaneous and assisted pregnancy rates in idiopathic infertile males.",
+              "2a"
+            ],
+            [
+              "No conclusive recommendations can be made on the use of high-dose FSH in males with idiopathic infertility and prior (m)TESE, and cannot be routinely advocated.",
+              "2a"
+            ],
+            [
+              "Testosterone therapy is contraindicated in infertile males.",
+              "1a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Induce spermatogenesis in males with congenital or acquired hypogonadotropic hypogonadism who wish to conceive by effective drug therapy (human chorionic gonadotrophin; human menopausal gonadotropins; recombinant follicle-stimulating hormone [FSH]; highly purified FSH).",
+              "Strong"
+            ],
+            [
+              "Use FSH treatment in males with idiopathic oligozoospermia and FSH values within the normal range, to increase spermatogenesis.",
+              "Weak"
+            ],
+            [
+              "Do not treat idiopathic infertility with high-dose FSH.",
+              "Weak"
+            ],
+            [
+              "Do not start hormonal stimulation prior to testicular sperm extraction in males with non-obstructive azoospermia outside clinical trials.",
+              "Weak"
+            ],
+            [
+              "Do not use testosterone therapy for the treatment of male infertility.",
+              "Strong"
+            ],
+            [
+              "Provide testosterone therapy for symptomatic patients with primary and secondary hypogonadism who are not considering parenthood.",
+              "Strong"
+            ],
+            [
+              "Offer dopamine agonist therapy in males with proven hyperprolactinemia to improve sperm quality.",
+              "Weak"
+            ],
+            [
+              "Withdraw anabolic steroids in infertile males for six to 12 months before considering treatment with selective oestrogen receptor modulators or gonadotrophin therapy to induce spermatogenesis.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#11-6-invasive-male-infertility-management",
+      "title": "11.6. Invasive male infertility management",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#11-6-1-obstructive-azoospermia",
+      "title": "11.6.1. Obstructive azoospermia",
+      "level": 4,
+      "text": "Obstructive azoospermia is the absence of spermatozoa in the sediment of a centrifuged sample of ejaculate due to obstruction [1872]. Obstructive azoospermia occurs in 20-40% of males with azoospermia [1955,1956] and it is characterised by normal FSH values, testes of normal size, and epididymal enlargement [1957]. The most common causes of OA are reported in Table 11.4. Table 11.4: Causes of obstruction of the genitourinary system Causes of obstruction of the genitourinary system Intratesticular (15%) Epididymis (30-67%) Infection (acute/chronic epididymitis) Trauma Post-surgical iatrogenic obstruction (i.e. MESA, hydrocelectomy or other scrotal surgery) Congenital epididymal obstruction (usually manifests as CBAVD) Other congenital forms of epididymal obstruction (Young’s syndrome) Vas deferens Vasectomy Vasotomy/vasography (with improper technique) Post-surgical iatrogenic obstruction (i.e. scrotal surgery or herniorraphy) CUAVD or CBAVD Ejaculatory ducts (1–5%) Cysts (Mullerian utricular, prostatic or seminal vesicular) Infection (acute/chronic epididymitis) Traumatic Postsurgical iatrogenic obstruction Functional obstruction Idiopathic/acquired local neurogenic dysfunction CBAVD = congenital bilateral absence of the vas deferens; CUAVD = Congenital unilateral absence of the vas deferens; MESA = microsurgical epididymal sperm aspiration. 11.6.1.a. Diagnostic evaluation Clinical history-taking should follow the investigation and diagnostic evaluation of infertile males (See Section 11.3). Risk factors for obstruction include prior surgery, iatrogenic injury during inguinal herniorrhaphy, orchidopexy or hydrocelectomy. 11.6.1.a.1. Clinical examination Clinical examination should follow the guidelines for the diagnostic evaluation of infertile males. Obstructive azoospermia is indicated by at least one testis with a volume > 15mL, although a smaller volume may be found in some patients with OA and concomitant partial testicular failure. Other finding might include: enlarged and dilated epididymis nodules in the epididymis or vas deferens absence or partial atresia of the vas deferens. When semen volume is low or absent, a search must be made for spermatozoa in urine after ejaculation. Absence of spermatozoa and immature germ cells in the semen pellet suggest complete seminal duct obstruction. 11.6.1.a.2. Hormone levels Hormones, including FSH and inhibin-B, should be normal but do not exclude other causes of testicular azoospermia (e.g. NOA). Although inhibin‐B concentration is a good index of Sertoli cell integrity reflecting closely the state of spermatogenesis, its diagnostic value is no better than that of FSH and its use in clinical practice has not been widely advocated [1958]. 11.6.1.a.3. Genetic testing In any patient with unilateral or bilateral absence of the vas deferens or seminal vesicle agenesis, CFTR gene testing should be performed [1959]. 11.6.1.a.4. Testicular biopsy Testis biopsies (including fine-needle aspiration [FNA]) without performing simultaneously a therapeutic sperm retrieval are not recommended, as this will require a subsequent invasive procedure. Furthermore, even patients with extremes of spermatogenic failure (e.g. SCOS) may harbour focal areas of spermatogenesis [1960,1961]. 11.6.1.b. Disease management 11.6.1.b.1. Sperm retrieval Intratesticular obstruction Only testicular sperm retrieval can extract sperm in these patients and is therefore recommended. Epididymal obstruction Microsurgical epididymal sperm aspiration or PESA [1962] is indicated in males with CBAVD. Testicular sperm extraction and percutaneous TESA, are also options [1963]. The source of sperm used for ICSI in cases of OA and the aetiology of the obstruction do not affect the outcome in terms of pregnancy or miscarriage rates [1964,1965]. Usually, one MESA procedure provides sufficient material for a number of ICSI cycles [1966] and it produces high pregnancy and fertilisation rates [1967]. Overall, pregnancy outcomes from ICSI in males with OA are comparable between epididymal and testicular sperm and also between fresh and frozen–thawed epididymal sperm [1968]. However, these results are from studies of low evidence. In patients with OA due to acquired epididymal obstruction and with a female partner with good ovarian reserve, microsurgical epididymovasostomy (EV) is recommended [1969]. Epididymovasostomy can be performed with different techniques such as end-to-site and intussusception [1970]. Anatomical recanalisation following surgery may require 3-18 months. A systematic review indicated that the time to patency in EV varies between 2.8 to 6.6 months. Reports of late failure are heterogeneous and vary between 1 and 50% [1971]. At the time of microsurgery, and in all cases in which reconstruction is impossible, sperm retrieval should be performed intra-operatively by MESA/TESE and cryopreserved to be used for subsequent ICSI procedures [1972]. Patency rates range between 63% and 85% and cumulative nat",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Causes of obstruction of the genitourinary system"
+            ],
+            [
+              "Intratesticular (15%)"
+            ],
+            [
+              "Epididymis (30-67%)"
+            ],
+            [
+              "Infection (acute/chronic epididymitis)"
+            ],
+            [
+              "Trauma"
+            ],
+            [
+              "Post-surgical iatrogenic obstruction (i.e. MESA, hydrocelectomy or other scrotal surgery)"
+            ],
+            [
+              "Congenital epididymal obstruction (usually manifests as CBAVD)"
+            ],
+            [
+              "Other congenital forms of epididymal obstruction (Young’s syndrome)"
+            ],
+            [
+              "Vas deferens"
+            ],
+            [
+              "Vasectomy"
+            ],
+            [
+              "Vasotomy/vasography (with improper technique)"
+            ],
+            [
+              "Post-surgical iatrogenic obstruction (i.e. scrotal surgery or herniorraphy)"
+            ],
+            [
+              "CUAVD or CBAVD"
+            ],
+            [
+              "Ejaculatory ducts (1–5%)"
+            ],
+            [
+              "Cysts (Mullerian utricular, prostatic or seminal vesicular)"
+            ],
+            [
+              "Infection (acute/chronic epididymitis)"
+            ],
+            [
+              "Traumatic"
+            ],
+            [
+              "Postsurgical iatrogenic obstruction"
+            ],
+            [
+              "Functional obstruction"
+            ],
+            [
+              "Idiopathic/acquired local neurogenic dysfunction"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Obstructive lesions of the seminal tract are frequent in azoospermic or severely oligozoospermic patients, usually with normal-sized testes and normal reproductive hormones.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform microsurgical vasovasostomy or epididymovasostomy for azoospermia caused by vasal or epididymal obstruction in males with female partners of good ovarian reserve.",
+              "Strong"
+            ],
+            [
+              "Use sperm retrieval techniques, such as microsurgical epididymal sperm aspiration, testicular sperm extraction and percutaneous techniques either as an adjunct to reconstructive surgery, or if the condition is not amenable to surgical repair, or when the ovarian reserve of the partner is limited or patient preference is not to undertake surgical reconstruction and the couple prefer to proceed to ICSI treatment directly.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#11-6-2-non-obstructive-azoospermia",
+      "title": "11.6.2. Non-obstructive azoospermia",
+      "level": 4,
+      "text": "Non-obstructive azoospermia is defined as the absence of sperm in the ejaculate after centrifugation. Ejaculate volume is usually normal. Azoospermia should be confirmed by at least two consecutives semen analyses [1632]. The severe deficit in spermatogenesis observed in NOA patients is often a consequence of primary testicular dysfunction or may be related to a dysfunction of the hypothalamus-pituitary-gonadal (HPG) axis. 11.6.2.a. Investigation of non-obstructive azoospermia Clinical history-taking and clinical examination should follow the investigation and diagnostic evaluation of infertile males (See Section 11.3). Non-obstructive azoospermia can be the first sign of pituitary or TCGT [1985-1987]. Patients with NOA have been shown to be at increased risk of long-term chronic non-communicable diseases (e.g. cardio-metabolic diseases, cancer) and mortality [1988-1993]. Therefore, investigation of infertile males provides an opportunity for long-term risk stratification for other comorbid conditions [1994]. A complete hormonal investigation and scrotal US are important in the diagnostic work-up of NOA males [1995,1996]. Concomitant hypogonadism has been found in about 30% of patients with NOA [303,1995,1996]. Biochemical evaluation should be performed to differentiate the types of hypogonadism (i.e. hypogonadotropic hypogonadism vs. hypergonadotropic vs. compensated hypogonadism) as this will determine different therapeutic strategies to treat the hypogonadal male [1997]. Scrotal US may show signs of testicular dysgenesis (e.g. non-homogeneous testicular architecture and/or microcalcifications) and rare testicular tumours can be identified. Testicular volume may be a predictor of spermatogenic function [1634] and is usually, but not invariably, low in patients with NOA. Some authors have advocated that testicular perfusion detected at US Doppler assessment can predict surgical sperm retrieval at TESE and guide testicular biopsies [1998]; however, to date, data are inconsistent to support a routine role of testicular Doppler evaluation before TESE in order to predict sperm retrieval outcome. As discussed (see Section 11.3), patients should undergo karyotype analysis [1892,1893], along with a screening of Y-chromosome micro-deletions [1718,1999]. In patients with clinical suspicion of CBAVD assessment of mutations in the gene coding for CFTR is also to be recommended [1705,1706]. Genetic counselling for eventual transmissible and health-relevant genetic conditions should be provided to couples. 11.6.2.b. Surgery for non-obstructive azoospermia Surgical treatment for NOA is aimed at retrieval of vital sperm directly from the testes (either uni- or bilaterally). This treatment is normally part of ART protocols, including IVF cycles via ICSI. Testicular biopsy before TESE is not recommended. 11.6.2.c. Indications and techniques of sperm retrieval Spermatogenesis within the testes may be focal, which means that spermatozoa can usually be found in small and isolated foci. With a wide variability among cohorts and techniques, positive SRRs have been reported in up to 50% of patients with NOA [2000,2001]. Numerous predictive factors for positive SSR have been investigated (see below), although no definitive factors have been demonstrated to predict SSR [2001]. Histology: The presence of hypospermatogenesis at testicular biopsy showed good accuracy in predicting positive sperm retrieval after TESE compared with maturation arrest pattern or SCOS [2002-2004]. Hormonal levels: FSH, LH, inhibin B and AMH have been variably correlated with sperm retrieval outcomes, but data from retrospective series are controversial [1670,1951,2005-2009]. Testicular volume has been inconsistently found to be a predictor of positive SSR [1951,2002,2008]. In case of complete AZFa and AZFb microdeletions, the likelihood of sperm retrieval is almost zero and therefore TESE procedures are contraindicated [1723]. Conversely, patients with Klinefelter syndrome [1690] and a history of undescended testes have been shown to have higher chance of finding sperm at surgery [1690,2008,2010,2011]. Studies investigating the use of machine learning algorithms to predict sperm retrieval in males with NOA are emerging and might prove a useful tool in the future [1669,2012]. Fine-needle aspiration mapping Fine-needle aspiration mapping technique has been proposed as a prognostic procedure aimed to select patients with NOA for TESE and ICSI [2013]. The retrieved tissue is sent for cytological and histological evaluation to provide information on the presence of mature sperm and on testicular histological pattern. Fine-needle aspiration mapping may provide information on sites with higher probability of sperm retrieval, serving as a guide for further sperm retrieval surgery in the context of ART procedures (e.g. ICSI). A positive FNA requires a secondary therapeutic invasive surgical approach, which may increase the risk of testicular damage and, without ap",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Patients with NOA are at increased risk of long-term cardio-metabolic diseases, cancer and mortality.",
+              "3"
+            ],
+            [
+              "Hypogonadism is present in about one third of males with NOA before surgery for sperm retrieval.",
+              "3"
+            ],
+            [
+              "Surgery for sperm retrieval is mandatory in NOA males before ART.",
+              "1b"
+            ],
+            [
+              "Fine-needle aspiration and TESA have lower SRRs compared to TESE in patients with NOA.",
+              "1b"
+            ],
+            [
+              "Fine-needle aspiration requires a secondary therapeutic surgical approach, which may increase the risk of testicular damage, and without appropriate cost-benefit analysis it is not justifiable.",
+              "2a"
+            ],
+            [
+              "No definitive predictors of positive sperm retrieval before TESE have been identified.",
+              "1b"
+            ],
+            [
+              "Microdissection TESE has been associated with higher rates of sperm retrieval and lower complications than conventional TESE.",
+              "2a"
+            ],
+            [
+              "No conclusive data are available regarding the benefit of use of medical therapy before TESE (e.g. rFSH; highly purified FSH; hCG; AIs or SERMs) in patients with NOA.",
+              "2a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Confirm a diagnosis of non-obstructive azoospermia (NOA) in two consecutive semen analyses, when no sperm are found after centrifugation.",
+              "Strong"
+            ],
+            [
+              "Perform a comprehensive assessment, including detailed medical history, hormonal profile, genetic tests and scrotal ultrasound to investigate the underlying aetiology and associated comorbidity in patients with NOA.",
+              "Strong"
+            ],
+            [
+              "Genetic counselling is mandatory in couples with genetic abnormalities prior to any assisted reproductive technology (ART).",
+              "Strong"
+            ],
+            [
+              "Perform surgery for sperm retrieval in males who are candidates for ART (i.e. intra-cytoplasmic sperm injection).",
+              "Strong"
+            ],
+            [
+              "Do not perform surgery for sperm retrieval in patients with complete AZFa and AZFb microdeletions, since the chance of sperm retrieval is zero.",
+              "Strong"
+            ],
+            [
+              "Do not perform fine-needle aspiration (FNA) and testicular sperm aspiration in patients with NOA.",
+              "Strong"
+            ],
+            [
+              "Do not perform FNA mapping as a prognostic procedure prior to definitive testicular sperm extraction (TESE) (any type) in patients with NOA.",
+              "Weak"
+            ],
+            [
+              "Use microdissection TESE as the treatment of choice to retrieve sperm in patients with NOA.",
+              "Weak"
+            ],
+            [
+              "Do not consider preoperative biochemical and clinical variables as sufficient and reliable predictors of sperm retrieval outcome at surgery in patients with NOA.",
+              "Weak"
+            ],
+            [
+              "Do not routinely use medical therapy, for example, hormonal stimulation in males with NOA and hypergonadotrophic hypogonadism before conventional or microdissection TESE to improve sperm recovery.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#11-7-assisted-reproductive-technologies",
+      "title": "11.7. Assisted reproductive technologies",
+      "level": 3,
+      "text": "Assisted reproductive technology consists of procedures that involve the in vitro handling of both human oocytes and sperm, or of embryos, with the objective of establishing pregnancy. A limited summary of ARTs, including a discussion on safety, can be found in Appendix 7 online supplementary evidence.",
+      "tables": []
+    },
+    {
+      "anchor": "#11-8-psychosocial-aspects-in-mens-infertility",
+      "title": "11.8. Psychosocial aspects in men’s infertility",
+      "level": 3,
+      "text": "Male infertility affects psychological wellbeing, leading to emotional distress and challenges to men’s sense of identity. A failed treatment often results in a prolonged grief response, requiring psychological support post-treatment [2041]. The mental health expert is thus regarded as part of the infertility intervention team, acting in all intervention stages, using strategies that may range from psycho-education techniques to more comprehensive psycho-therapeutic approaches [2042]. There should be a deeper focus on preventive policies. It has been recognised that men, like women, may wish to become parents. However, they often have limited knowledge of infertility-related risk factors, including poor awareness of age-related declines in fertility, and tend to overestimate the likelihood of spontaneous conception [2043,2044].",
+      "tables": []
+    }
+  ],
+  "tables_count": 24
+}

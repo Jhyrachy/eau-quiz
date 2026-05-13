@@ -1,0 +1,800 @@
+{
+  "guideline": "renal-cell-carcinoma",
+  "chapter": "diagnostic-evaluation",
+  "url": "https://uroweb.org/guidelines/renal-cell-carcinoma/chapter/diagnostic-evaluation",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Future goals",
+      "anchor": "#2-3-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AETIOLOGY AND PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology",
+      "anchor": "#3-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Aetiology",
+      "anchor": "#3-2-aetiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Screening",
+      "anchor": "#3-3-screening"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Summary of evidence and recommendations for epidemiology, aetiology and screening",
+      "anchor": "#3-3-1-summary-of-evidence-and-recommendations-for-epidemiology-aetiology-and-screening"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Histological diagnosis",
+      "anchor": "#3-4-histological-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Clear-cell RCC",
+      "anchor": "#3-4-1-clear-cell-rcc"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Papillary RCC",
+      "anchor": "#3-4-2-papillary-rcc"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Chromophobe RCC",
+      "anchor": "#3-4-3-chromophobe-rcc"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Other renal tumours",
+      "anchor": "#3-5-other-renal-tumours"
+    },
+    {
+      "level": 4,
+      "text": "3.5.1. Renal medullary carcinoma (SMARCB1-deficient renal medullary carcinoma)",
+      "anchor": "#3-5-1-renal-medullary-carcinoma-smarcb1-deficient-renal-medullary-carcinoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.2. Carcinoma associated with end-stage renal disease; acquired cystic disease-associated RCC",
+      "anchor": "#3-5-2-carcinoma-associated-with-end-stage-renal-disease-acquired-cystic-disease-associated-rcc"
+    },
+    {
+      "level": 4,
+      "text": "3.5.3. Papillary adenoma",
+      "anchor": "#3-5-3-papillary-adenoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.4. Renal oncocytoma",
+      "anchor": "#3-5-4-renal-oncocytoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.5. Other oncocytic tumours of the kidney",
+      "anchor": "#3-5-5-other-oncocytic-tumours-of-the-kidney"
+    },
+    {
+      "level": 4,
+      "text": "3.5.6. Classical angiomyolipoma",
+      "anchor": "#3-5-6-classical-angiomyolipoma"
+    },
+    {
+      "level": 4,
+      "text": "3.5.7. Cystic renal tumours",
+      "anchor": "#3-5-7-cystic-renal-tumours"
+    },
+    {
+      "level": 3,
+      "text": "3.6. Summary of evidence and recommendations for the management of other renal tumours",
+      "anchor": "#3-6-summary-of-evidence-and-recommendations-for-the-management-of-other-renal-tumours"
+    },
+    {
+      "level": 2,
+      "text": "4. STAGING AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-staging-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Staging",
+      "anchor": "#4-1-staging"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Anatomic classification systems",
+      "anchor": "#4-2-anatomic-classification-systems"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION",
+      "anchor": "#5-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Symptoms",
+      "anchor": "#5-1-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Physical examination",
+      "anchor": "#5-1-1-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Laboratory findings",
+      "anchor": "#5-1-2-laboratory-findings"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Imaging investigations",
+      "anchor": "#5-2-imaging-investigations"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Computed tomography",
+      "anchor": "#5-2-1-computed-tomography"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Magnetic resonance imaging",
+      "anchor": "#5-2-2-magnetic-resonance-imaging"
+    },
+    {
+      "level": 4,
+      "text": "5.2.3. Other investigations and emerging technologies",
+      "anchor": "#5-2-3-other-investigations-and-emerging-technologies"
+    },
+    {
+      "level": 4,
+      "text": "5.2.4. Radiographic investigations to evaluate RCC metastases",
+      "anchor": "#5-2-4-radiographic-investigations-to-evaluate-rcc-metastases"
+    },
+    {
+      "level": 4,
+      "text": "5.2.5. Bosniak classification of renal cystic masses",
+      "anchor": "#5-2-5-bosniak-classification-of-renal-cystic-masses"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Renal tumour biopsy",
+      "anchor": "#5-3-renal-tumour-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Indications and rationale",
+      "anchor": "#5-3-1-indications-and-rationale"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Technique",
+      "anchor": "#5-3-2-technique"
+    },
+    {
+      "level": 4,
+      "text": "5.3.3. Diagnostic yield and accuracy",
+      "anchor": "#5-3-3-diagnostic-yield-and-accuracy"
+    },
+    {
+      "level": 4,
+      "text": "5.3.4. Morbidity",
+      "anchor": "#5-3-4-morbidity"
+    },
+    {
+      "level": 4,
+      "text": "5.3.5. Genetic assessment",
+      "anchor": "#5-3-5-genetic-assessment"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Summary of evidence and recommendations for the diagnostic assessment of RCC",
+      "anchor": "#5-4-summary-of-evidence-and-recommendations-for-the-diagnostic-assessment-of-rcc"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Summary of evidence and recommendations for genetic assessment of RCC",
+      "anchor": "#5-5-summary-of-evidence-and-recommendations-for-genetic-assessment-of-rcc"
+    },
+    {
+      "level": 2,
+      "text": "6. PROGNOSTIC FACTORS",
+      "anchor": "#6-prognostic-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Definition and classification",
+      "anchor": "#6-1-definition-and-classification"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Anatomical factors",
+      "anchor": "#6-2-anatomical-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Histological factors",
+      "anchor": "#6-3-histological-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Clinical factors",
+      "anchor": "#6-4-clinical-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Frailty and comprehensive geriatric assessment",
+      "anchor": "#6-4-1-frailty-and-comprehensive-geriatric-assessment"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Nephrological assessment",
+      "anchor": "#6-4-2-nephrological-assessment"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Molecular factors",
+      "anchor": "#6-5-molecular-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Prognostic models",
+      "anchor": "#6-6-prognostic-models"
+    },
+    {
+      "level": 3,
+      "text": "6.7. Summary of evidence and recommendations for prognostic factors",
+      "anchor": "#6-7-summary-of-evidence-and-recommendations-for-prognostic-factors"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT",
+      "anchor": "#7-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Patient involvement in kidney cancer treatment",
+      "anchor": "#7-1-patient-involvement-in-kidney-cancer-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.1.1. Recommendation on patient involvement and shared decision making",
+      "anchor": "#7-1-1-recommendation-on-patient-involvement-and-shared-decision-making"
+    },
+    {
+      "level": 4,
+      "text": "7.1.2. Smoking cessation",
+      "anchor": "#7-1-2-smoking-cessation"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Treatment of localised RCC",
+      "anchor": "#7-2-treatment-of-localised-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. Introduction",
+      "anchor": "#7-2-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Surgical treatment",
+      "anchor": "#7-2-2-surgical-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Radical and partial nephrectomy techniques",
+      "anchor": "#7-2-3-radical-and-partial-nephrectomy-techniques"
+    },
+    {
+      "level": 4,
+      "text": "7.2.4. Therapeutic approaches as alternatives to surgery",
+      "anchor": "#7-2-4-therapeutic-approaches-as-alternatives-to-surgery"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Treatment of locally advanced RCC",
+      "anchor": "#7-3-treatment-of-locally-advanced-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Introduction",
+      "anchor": "#7-3-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Role of lymph node dissection in locally advanced RCC",
+      "anchor": "#7-3-2-role-of-lymph-node-dissection-in-locally-advanced-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. Management of RCC with venous tumour thrombus",
+      "anchor": "#7-3-3-management-of-rcc-with-venous-tumour-thrombus"
+    },
+    {
+      "level": 4,
+      "text": "7.3.4. Management of locally advanced unresectable RCC",
+      "anchor": "#7-3-4-management-of-locally-advanced-unresectable-rcc"
+    },
+    {
+      "level": 4,
+      "text": "7.3.5. Neoadjuvant and adjuvant therapy",
+      "anchor": "#7-3-5-neoadjuvant-and-adjuvant-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Therapy of oligometastatic disease",
+      "anchor": "#7-4-2-therapy-of-oligometastatic-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.5.1. Chemotherapy",
+      "anchor": "#7-5-1-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.5.2. Targeted therapies",
+      "anchor": "#7-5-2-targeted-therapies"
+    },
+    {
+      "level": 4,
+      "text": "7.5.3. Immunotherapy",
+      "anchor": "#7-5-3-immunotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.5.4. Therapeutic strategies",
+      "anchor": "#7-5-4-therapeutic-strategies"
+    },
+    {
+      "level": 3,
+      "text": "7.6. Locally recurrent RCC after treatment of localised disease",
+      "anchor": "#7-6-locally-recurrent-rcc-after-treatment-of-localised-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.6.1. Locally recurrent RCC after nephron-sparing approaches",
+      "anchor": "#7-6-1-locally-recurrent-rcc-after-nephron-sparing-approaches"
+    },
+    {
+      "level": 4,
+      "text": "7.6.2. Locally recurrent RCC after radical nephrectomy",
+      "anchor": "#7-6-2-locally-recurrent-rcc-after-radical-nephrectomy"
+    },
+    {
+      "level": 4,
+      "text": "7.6.3. Summary of evidence and recommendation on locally recurrent RCC after treatment of localised disease",
+      "anchor": "#7-6-3-summary-of-evidence-and-recommendation-on-locally-recurrent-rcc-after-treatment-of-localised-disease"
+    },
+    {
+      "level": 2,
+      "text": "8. HEREDITARY AND SYNDROME SPECIFIC RCC",
+      "anchor": "#8-hereditary-and-syndrome-specific-rcc"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Microphthalmia-associated transcription factors (MiTF) associated translocation tumours",
+      "anchor": "#8-1-microphthalmia-associated-transcription-factors-mitf-associated-translocation-tumours"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Management of hereditary and syndrome-specific RCC",
+      "anchor": "#8-2-management-of-hereditary-and-syndrome-specific-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.1. Von Hippel-Lindau-disease-associated RCC",
+      "anchor": "#8-2-1-von-hippel-lindau-disease-associated-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.2. TFE3-rearranged RCC",
+      "anchor": "#8-2-2-tfe3-rearranged-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.3. TFEB-altered RCC",
+      "anchor": "#8-2-3-tfeb-altered-rcc"
+    },
+    {
+      "level": 4,
+      "text": "8.2.4. Combined therapy for TFE3- and TFEB-altered RCCs",
+      "anchor": "#8-2-4-combined-therapy-for-tfe3--and-tfeb-altered-rccs"
+    },
+    {
+      "level": 4,
+      "text": "8.2.5. Summary of evidence and recommendation for hereditary and syndrome-specific RCC",
+      "anchor": "#8-2-5-summary-of-evidence-and-recommendation-for-hereditary-and-syndrome-specific-rcc"
+    },
+    {
+      "level": 2,
+      "text": "9. FOLLOW UP",
+      "anchor": "#9-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Introduction",
+      "anchor": "#9-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Which imaging investigations for which patients, and when?",
+      "anchor": "#9-2-which-imaging-investigations-for-which-patients-and-when"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Summary of evidence and recommendations for surveillance following RN or PN or ablative therapies in RCC",
+      "anchor": "#9-3-summary-of-evidence-and-recommendations-for-surveillance-following-rn-or-pn-or-ablative-therapies-in-rcc"
+    },
+    {
+      "level": 2,
+      "text": "10. REFERENCES",
+      "anchor": "#10-references"
+    },
+    {
+      "level": 2,
+      "text": "11. CONFLICT OF INTEREST",
+      "anchor": "#11-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "12. CITATION INFORMATION",
+      "anchor": "#12-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "13. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#13-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#renal-cell-carcinoma",
+      "title": "Renal Cell Carcinoma",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 5. Diagnostic Evaluation Introduction Methods Epidemiology Aetiology And Pathology Staging And Classification Systems Diagnostic Evaluation Prognostic Factors Disease Management Hereditary And Syndrome Specific Rcc Follow Up References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#5-diagnostic-evaluation",
+      "title": "5. DIAGNOSTIC EVALUATION",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#5-1-symptoms",
+      "title": "5.1. Symptoms",
+      "level": 3,
+      "text": "Many renal masses remain asymptomatic until the late disease stages. The majority of RCCs are detected incidentally by means of non-invasive imaging investigating various non-specific symptoms and other abdominal diseases [111,112] (LE: 3). In a retrospective observational cohort study, 60% of patients overall, 87% of patients with stage T1a renal tumours and 39% of patients with stage III or IV disease presented incidentally [113]. The classic triad of flank pain, visible haematuria and palpable abdominal mass is rare (0.6%) [113]. Patients who have tumours with local symptoms or systemic symptoms correlate with aggressive histology, advanced disease and poorer outcomes [114,115] (LE: 3). The increasing detection of incidental tumours is found in females and older patients with a better prognosis and lower stage [115]. Paraneoplastic syndromes (PNS) are found in approximately 33% of patients with symptomatic RCCs, but resolution of PNS occurred in 52% of patients after nephrectomy [116,117] (LE: 4). Some symptomatic patients present with symptoms caused by metastatic disease, such as bone pain or persistent cough [118] (LE: 3).",
+      "tables": []
+    },
+    {
+      "anchor": "#5-1-1-physical-examination",
+      "title": "5.1.1. Physical examination",
+      "level": 4,
+      "text": "Physical examination has a limited role in RCC diagnosis. However, the following findings should prompt radiological examinations: palpable abdominal mass; palpable cervical lymphadenopathy; non-reducing varicocele and bilateral lower extremity oedema, which suggests venous involvement.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-1-2-laboratory-findings",
+      "title": "5.1.2. Laboratory findings",
+      "level": 4,
+      "text": "Commonly assessed laboratory parameters are serum creatinine, estimated glomerular filtration rate (e-GFR), complete cell blood count, C-reactive protein (CRP) or erythrocyte sedimentation rate, liver function study, alkaline phosphatase, lactate dehydrogenase (LDH) [119], coagulation study, and urinalysis (LE: 4). For central renal masses abutting or invading the collecting system, urinary cytology and possibly endoscopic assessment should be considered to exclude urothelial cancer (LE: 4). Split renal function should be estimated using renal scintigraphy in the following situations [120,121] (LE: 2b): when renal function is compromised, as indicated by increased serum creatinine or significantly decreased e-GFR; when renal function is clinically important, e.g. in patients with a solitary kidney or multiple or bilateral tumours. Renal scintigraphy is an additional diagnostic option in patients at risk of future renal impairment due to comorbid disorders.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-imaging-investigations",
+      "title": "5.2. Imaging investigations",
+      "level": 3,
+      "text": "Most renal tumours are diagnosed by abdominal US or CT performed for other medical reasons [113] (LE: 3). Renal masses are classified as solid or cystic based on imaging findings. With solid renal masses, the most important criterion for differentiating malignant lesions is the presence of enhancement [122] (LE: 3). Traditionally, US, CT and MRI are used for detecting and characterising renal masses. Most renal masses are diagnosed accurately by imaging alone.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-1-computed-tomography",
+      "title": "5.2.1. Computed tomography",
+      "level": 4,
+      "text": "Imaging must be performed unenhanced, in an early arterial phase, and in a parenchymal phase with intravenous contrast material to demonstrate enhancement. In CT imaging, enhancement in renal masses is determined by comparing Hounsfield units (HU) before and after contrast administration. A change of fifteen HU or more in the solid tumour parts demonstrates enhancement and thus vital tumour parts [123] (LE: 3). Abdominal CT with contrast provides information on [124]: function and morphology of the contralateral kidney [125] (LE: 3); primary tumour extension; venous involvement; enlargement of locoregional LNs; condition of the adrenal glands and other solid organs (LE: 3). Abdominal contrast-enhanced CT (CECT) angiography is useful in selected cases when detailed information on the renal vascular supply is needed [126,127]. If the results of CT are indeterminate, CEUS is a valuable alternative to further characterise renal lesions [128-131] (LE: 1b).",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-2-magnetic-resonance-imaging",
+      "title": "5.2.2. Magnetic resonance imaging",
+      "level": 4,
+      "text": "Magnetic resonance imaging may provide additional information on venous involvement if the extent of an IVC tumour thrombus is poorly defined on CT [132,133] (LE: 3). In MRI, especially high-resolution, T2-weighted images provide a superior delineation of the uppermost tumour thrombus, as the inflow of the enhanced blood may be reduced due to extensive occlusive tumour thrombus growth in the IVC. The T2-weighted image with its intrinsic contrast allows a good delineation [133]. Magnetic resonance imaging is indicated in patients who are allergic to intravenous CT contrast medium and in pregnancy without renal failure [133,134] (LE: 3). Magnetic resonance imaging allows the evaluation of a dynamic enhancement without radiation exposure. Advanced MRI techniques such as diffusion-weighted imaging (DWI) and perfusion-weighted imaging are being explored for renal mass assessment [135]. The use of multiparametric MRI (mpMRI) to diagnose ccRCC by means of a clear cell likelihood score (ccLS) in SRMs was reported [136]. The ccLS is a five-tier classification that denotes the likelihood of a mass representing ccRCC, ranging from ‘very unlikely’ to ‘very likely.’ The authors prospectively validated the diagnostic performance of ccLS in 57 patients with cT1a tumours and found a high diagnostic accuracy. The diagnostic performance of mpMRI-based ccLS was further validated in a larger retrospective cohort (n = 434) across all tumour sizes and stages [137], and ccLS was found to be an independent prognostic factor for identifying ccRCC. For the diagnosis of complex renal cysts (Bosniak IIF-III) MRI may be preferable. The accuracy of CT is limited in these cases, with poor sensitivity (36%) and specificity (76%; κ = 0.11). Due to a higher sensitivity for enhancement, MRI showed a 71% sensitivity and 91% specificity (κ = 0.64). Contrast-enhanced US showed high sensitivity (100%) and specificity (97%), with a negative predictive value of 100% (κ = 0.95) [83]. In younger patients and females who are worried about the radiation exposure of frequent CT scans, MRI can be offered as alternative, although only limited data exist correlating diagnostic radiation exposure to the development of secondary cancers [138]. An SR and meta-analysis [139] compared the diagnostic performance of CEUS versus CECT and contrast-enhanced MRI (CEMRI) in the assessment of benign and malignant cystic and solid renal masses. Sixteen studies were included in the pooled analysis. The results suggested comparable diagnostic performance of CEUS compared with CECT (pooled sensitivity 0.96 [95% CI: 0.94-0.98], vs. 0.90 [95% CI: 0.86-0.93], for studies with a final diagnosis of benign or malignant renal masses by pathology), and CEUS versus CEMRI (pooled sensitivity 0.98 [95% CI: 0.94-1.0], vs. 0.78 [95% CI: 0.66-0.91] for studies with final diagnosis by pathology report or reaffirmed diagnosis by follow-up imaging without pathology report). However, there were significant limitations in the data, including very few studies for CEMRI, clinical and statistical heterogeneity and inconsistency, and high risks of confounding. Computed tomography or MRI allows accurate diagnosis of RCC but cannot reliably distinguish oncocytoma and fat-free AML from malignant renal neoplasms [140-143] (LE: 3).",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-3-other-investigations-and-emerging-technologies",
+      "title": "5.2.3. Other investigations and emerging technologies",
+      "level": 4,
+      "text": "Renal arteriography and inferior venacavography have a limited role in the workup of selected RCC patients (LE: 3). In patients with any sign of impaired renal function, an isotope renogram and total renal function evaluation should be considered to optimise treatment decision-making [120,121] (LE: 2a). 18 FDG positron-emission tomography (PET) is not recommended in primary staging. [128,144] (LE: 1b). Emerging technologies have a growing body of evidence with regard to prostate-specific membrane antigen (PSMA) positron emission tomography (PET)-CT [145-148], 99 TC sestamibi SPECT/CT [63-66,149] and 89 Zr-DFO-Girentuximab PET-CT [150] for differentiation of RCC subtypes, differentiation between benign tumours and RCC, and differentiation between high-grade from low-grade tumours. Additionally, some of these modalities are being evaluated for staging purposes [65,147]. Currently, the level of published evidence is not sufficient in terms of external validation to allow any guideline recommendation to be made. In an SR and meta-analysis from 64 studies, mainly based on CT scan imaging, AI algorithms showed acceptable performance compared to clinicians in the detection and classification of RCC [151]. However, heterogeneity and inconsistency between studies underscore the necessity for cautious interpretation and the need for further prospective studies. A retrospective observational study showed that deep learning models can predict the likelihood of malignant and aggressive pathology of a renal mass based on preoperative multiphase CT images [152]. These novel imaging tools may aid in patient management by providing a comprehensive virtual biopsy with information on tumour histology and thereby disease prognosis [152].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-4-radiographic-investigations-to-evaluate-rcc-metastases",
+      "title": "5.2.4. Radiographic investigations to evaluate RCC metastases",
+      "level": 4,
+      "text": "Chest CT is accurate for chest staging [98,99,153-155] (LE: 3). The use of nomograms to calculate risk of lung metastases has been proposed based on tumour size, clinical stage and presence of systemic symptoms [156,157]. These are based on large, retrospective datasets, and suggest that chest CT may be omitted in patients with cT1a and cN0, and without systemic symptoms, anaemia or thrombocythemia, due to the low incidence of lung metastases (< 1%) in this group of patients [158]. There is a consensus that most bone metastases are symptomatic at diagnosis. Therefore, routine bone imaging is not generally indicated [153,159,160] (LE: 3). However, bone scan, brain CT or MRI can be used in the presence of specific clinical or laboratory signs and symptoms [159,161,162] (LE: 3). A prospective comparative blinded study involving 92 consecutive mRCC patients treated with first-line vascular endothelial growth factor receptor (VEGFR)-tyrosine kinase inhibitor (TKI) (median follow-up 35 months) found that whole-body DWI/MRI detected a statistically significant higher number of bony metastases compared with conventional thoraco-abdominopelvic contrast-enhanced CT, with higher number of metastases being an independent prognostic factor for progression-free survival (PFS) and OS [163]. The incidence of brain metastasis without neurological symptoms was retrospectively evaluated in 1,689 mRCC patients selected to be included in 68 clinical trials between 2001-2013 [164]. All patients had a mandatory brain screening by CT/MRI. Seventy-two patients (4.3%) were diagnosed with occult brain metastases, of whom 39% multifocal. Most patients (61%) were International Metastatic Renal Cancer Database Consortium (IMDC) intermediate risk and 26% were favourable risk. A majority (86%) of the patients had > 2 extracranial metastatic sites, including lung metastases in 92%. After predominantly radiotherapy, performed in 93% of patients, a median OS of 10.3 months (range 7.0-17.9 months) was observed.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-5-bosniak-classification-of-renal-cystic-masses",
+      "title": "5.2.5. Bosniak classification of renal cystic masses",
+      "level": 4,
+      "text": "This system classifies renal cysts into five categories, based on CT imaging appearance, to predict malignancy risk [165,166] (LE: 3), and also advocates treatment for each category (Table 5.1). An updated Bosniak classification (2019) strengthened the classification and included MRI diagnostic criteria [84], however, it requires further validation. According to two meta-analyses, the risk of malignancy of Bosniak IIF-III may be higher than with the old classification [167,168]. The latest meta-analysis, which includes 12 studies reporting 975 cystic renal masses assessed by Bosniak 2019 with histopathology as reference with at least five years of imaging follow-up, showed malignancy BII 9%, BIIF 26%, B III 80% and B IV 88% [168]. The imaging report should therefore identify which classification has been used. Lastly, the management of cystic renal tumours is also discussed in Section 3.5.7. Table 5.1: Bosniak classification of renal cysts updated 2019 [75] Bosniak classification /  Imaging modality CT MRI 1 (Benign) Well-defined, thin (≤ 2mm) smooth wall; homogeneous simple fluid (-9 to 20 HU); no septa or calcifications; the wall may enhance Well-defined, thin (≤ 2mm) smooth wall; homogeneous simple fluid (signal intensity similar to CSF); no septa or calcifications; the wall may enhance 2 (Benign) Cystic masses with thin (≤ 2mm) and few (1-3) septa; septa and wall may enhance; may have calcification of any type Homogeneous hyperattenuating (≥ 70 HU) masses at non-contrast CT Homogeneous non-enhancing masses. 20 HU at renal mass protocol CT, may have calcification of any type† Homogeneous masses -9 to 20 HU at non-contrast CT Homogeneous masses 21 to 30 HU at portal venous phase CT Homogeneous low-attenuation masses that are too small to characterise Cystic masses with thin (≤ 2mm) and few (1-3) enhancing septa; any non-enhancing septa; may have calcification of any type Homogeneous masses markedly hyperintense at T2-weighted imaging (similar to CSF) at non-contrast MRI Homogeneous masses markedly hyperintense at T1-weighted imaging (approximately 32.5 normal parenchymal signal intensity) at non-contrast MRI 2F (Follow-up, up to five years. Some are malignant.) Cystic masses with a smooth minimally thickened (3mm) enhancing wall, or smooth minimal thickening (3mm) of one or more enhancing septa, or many (≥ 4 mm) smooth thin (≤ 2mm) enhancing septa Cystic masses with a smooth minimally thickened (3mm) enhancing wall, or smooth minimal thickening (3mm) of one or more enhancing septa, or many (≥ 4mm) smooth thin (≤ 2mm) enhancing septa Cystic masses that are heterogeneously hyperintense at unenhanced fat-saturated T1-weighted imaging 3 (Surgery or AS - see Chapter 7. Over 50% are malignant.) One or more enhancing thick (≥ 4mm width) or enhancing irregular (displaying ≤ 3mm obtusely margined convex protrusion[s]) walls or septa One or more enhancing thick (≥ 4mm width) or enhancing irregular (displaying ≤ 3mm obtusely margined convex protrusion[s]) walls or septa 4 (Surgery. Most are malignant.) One or more enhancing nodule(s) (≥ 4mm convex protrusion with obtuse margins, or a convex protrusion of any size that has acute margins One or more enhancing nodule(s) (≥ 4mm convex protrusion with obtuse margins, or a convex protrusion of any size that has acute margins) AS: Active Surveillance; CSF: Cerebrospinal Fluid; CT: Computed Tomography; HU: Hounsfield Units; MRI: Magnetic Resonance Imaging",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Bosniak classification /  Imaging modality",
+              "CT",
+              "MRI"
+            ],
+            [
+              "1 (Benign)",
+              "Well-defined, thin (≤ 2mm) smooth wall; homogeneous simple fluid (-9 to 20 HU); no septa or calcifications; the wall may enhance",
+              "Well-defined, thin (≤ 2mm) smooth wall; homogeneous simple fluid (signal intensity similar to CSF); no septa or calcifications; the wall may enhance"
+            ],
+            [
+              "2 (Benign)",
+              "Cystic masses with thin (≤ 2mm) and few (1-3) septa; septa and wall may enhance; may have calcification of any typeHomogeneous hyperattenuating(≥ 70 HU) masses at non-contrast CTHomogeneous non-enhancing masses. 20 HU at renal mass protocol CT, may have calcification of any type†Homogeneous masses -9 to 20 HU at non-contrast CTHomogeneous masses 21 to 30 HU at portal venous phase CTHomogeneous low-attenuation masses that are too small to characterise",
+              "Cystic masses with thin (≤ 2mm) and few (1-3) enhancing septa; any non-enhancing septa; may have calcification of any typeHomogeneous masses markedly hyperintense at T2-weighted imaging (similar to CSF) at non-contrast MRIHomogeneous masses markedly hyperintense at T1-weighted imaging (approximately 32.5 normal parenchymal signal intensity) at non-contrast MRI"
+            ],
+            [
+              "2F (Follow-up, up to five years. Some are malignant.)",
+              "Cystic masses with a smooth minimally thickened (3mm) enhancing wall, or smooth minimal thickening (3mm) of one or more enhancing septa, or many (≥ 4 mm) smooth thin (≤ 2mm) enhancing septa",
+              "Cystic masses with a smooth minimally thickened (3mm) enhancing wall, or smooth minimal thickening (3mm) of one or more enhancing septa, or many (≥ 4mm) smooth thin (≤ 2mm) enhancing septaCystic masses that are heterogeneously hyperintense at unenhanced fat-saturated T1-weighted imaging"
+            ],
+            [
+              "3 (Surgery or AS - see Chapter 7. Over 50% are malignant.)",
+              "One or more enhancing thick (≥ 4mm width) or enhancing irregular (displaying ≤ 3mm obtusely margined convex protrusion[s]) walls or septa",
+              "One or more enhancing thick (≥ 4mm width) or enhancing irregular (displaying ≤ 3mm obtusely margined convex protrusion[s]) walls or septa"
+            ],
+            [
+              "4 (Surgery. Most are malignant.)",
+              "One or more enhancing nodule(s) (≥ 4mm convex protrusion with obtuse margins, or a convex protrusion of any size that has acute margins",
+              "One or more enhancing nodule(s) (≥ 4mm convex protrusion with obtuse margins, or a convex protrusion of any size that has acute margins)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-3-renal-tumour-biopsy",
+      "title": "5.3. Renal tumour biopsy",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#5-3-1-indications-and-rationale",
+      "title": "5.3.1. Indications and rationale",
+      "level": 4,
+      "text": "Percutaneous biopsy can reveal histology of radiologically indeterminate renal masses and can be considered in patients who are candidates for AS of small masses, to obtain histology before ablative treatments, and to select the most suitable medical and surgical treatment strategy in the setting of metastatic disease [169-174] (LE: 3). A multicentre study assessing 542 surgically removed SRMs showed that the likelihood of benign findings at pathology is significantly lower in centres where biopsies are performed (5% vs. 16%), suggesting that biopsies can reduce surgery for benign tumours and the potential for short-term and long-term morbidity associated with these procedures [175]. In a series of patients who underwent a percutaneous biopsy for an SRM, active treatment (surgery or cryotherapy) was avoided in 50/182 patients (27.5%) because of a benign diagnosis at biopsy [176]. However, the 2022 WHO classification categorically precludes establishing a definitive diagnosis of oncocytoma on needle-core biopsy, which will impact on the utility of percutaneous biopsy in the diagnostic pathway for mitigating overtreatment of benign renal lesions. Consequently, the urological community must remain cognisant of the substantial proportion of benign lesions identified following partial or radical nephrectomy (see also Section 3.5.4). Renal biopsy is not indicated in comorbid and frail patients, who can be considered only for conservative management (watchful waiting [WW]), nor is it necessary in patients for whom surgery is planned, regardless of biopsy results (LE: 4). Core biopsies of cystic renal masses have a lower diagnostic yield and accuracy and are not recommended, unless areas with a solid pattern are present (Bosniak IV cysts) [169,172,177] (LE: 2b/3). Histological characterisation by percutaneous biopsy of undefined retroperitoneal masses at imaging may be useful for decision-making, especially in the younger patient population. The use of biopsy in the diagnostic pathway of renal tumours is approximately 20% and remains contentious, with barriers such as clinician bias and concerns regarding seeding persist in limiting adoption into routine practice [178]. A modified Delphi consensus statement, coproduced by patients and clinicians, on the current role of biopsy in SRM identified the need for more evidence that a biopsy changes a patient’s treatment choice and reduces the number of benign nephrectomies to improve utility [179].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-3-2-technique",
+      "title": "5.3.2. Technique",
+      "level": 4,
+      "text": "Percutaneous sampling can be performed under local anaesthesia with needle core biopsy and/or fine needle aspiration (FNA). Biopsies can be performed under US or CT guidance, with a similar diagnostic yield [172,180] (LE: 2b). Eighteen-gauge needles are ideal for core biopsies, as they result in low morbidity and provide sufficient tissue for diagnosis [169,173,181] (LE: 2b). A coaxial technique allowing multiple biopsies through a coaxial cannula should always be used to avoid potential tumour seeding [169,173] (LE: 3). Core biopsies are preferred for the characterisation of solid renal masses, while a combination with FNA can provide complimentary results and improve accuracy for complex cystic lesions [177,182,183] (LE: 2a). An SR and meta-analysis of the diagnostic performance and complications of renal tumour biopsy was performed by the Panel, including 57 publications and a total of 5,228 patients. Needle core biopsies were found to have better accuracy for the diagnosis of malignancy compared with FNA [177]. Other studies showed that solid pattern, larger tumour size and exophytic location are predictors of a diagnostic core biopsy [169,172,180] (LE: 2b).",
+      "tables": []
+    },
+    {
+      "anchor": "#5-3-3-diagnostic-yield-and-accuracy",
+      "title": "5.3.3. Diagnostic yield and accuracy",
+      "level": 4,
+      "text": "In experienced centres, core biopsies have a high diagnostic yield, specificity and sensitivity for the diagnosis of malignancy. The above-mentioned meta-analysis showed that sensitivity and specificity of diagnostic core biopsies for the diagnosis of malignancy are 99.1% and 99.7%, respectively [177] (LE: 2b). However, 0-22.6% of core biopsies are nondiagnostic (8% in the meta-analysis) [170-174,180,181,184] (LE: 2a). If a biopsy is nondiagnostic and radiologic findings are suspicious for malignancy, a further biopsy or surgical exploration should be considered (LE: 4). Repeat biopsies have been reported to be diagnostic in a high proportion of cases (83-100%) [169,185-187]. Accuracy of renal tumour biopsies for the diagnosis of tumour histotype is good. The median concordance rate between tumour histotype on renal tumour biopsy and on surgical specimen following PN or RN was 90.3% in the pooled analysis [177]. A retrospective observational study assessing the diagnostic performance of 151 renal tumour biopsies performed before robotic PN or RN confirmed that pathology on RTBs is highly concordant with the presence/absence of malignancy (147/151 = 97%) and the histotype on surgical specimens (141/151=93%) [188]. Assessment of tumour grade on core biopsies is challenging. In the pooled analysis, the overall accuracy for nuclear grading was poor (62.5%) but significantly improved (87%) using a simplified two-tier system (high vs. low grade) [177] (LE: 2a). The ideal number and location of core biopsies are not defined. However, at least two good quality cores should be obtained, and necrotic areas should be avoided to maximise diagnostic yield [169,172,189,190] (LE: 2b). Peripheral biopsies are preferable for larger tumours to avoid areas of central necrosis [191] (LE: 2b). In cT2 or greater renal masses, multiple core biopsies taken from at least four separate solid enhancing areas in the tumour were shown to achieve a higher diagnostic yield and a higher accuracy to identify sarcomatoid features, without increasing the complication rate [192].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-3-4-morbidity",
+      "title": "5.3.4. Morbidity",
+      "level": 4,
+      "text": "Overall, percutaneous biopsies have a low morbidity [177]. Tumour seeding along the needle tract has been regarded as anecdotal in large series and pooled analyses on renal tumour biopsies. The coaxial technique in particular has been regarded as a safe method to avoid any seeding of tumour cells. However, authors recently reported on seven patients in whom tumour seeding was identified on histological examination of the resection specimen after surgical resection of RCC following diagnostic percutaneous biopsy [193]. Six of the seven cases were of the pRCC type. The clinical significance of these findings is still uncertain, as the only patient to develop local tumour recurrence at the site of the previous biopsy was a case treated with an open partial nephrectomy with positive surgical margins [193]. Spontaneously resolving subcapsular/perinephric haematomas are reported in 4.3% of cases in a pooled analysis, but clinically significant bleeding is unusual (0-1.4%; 0.7% in the pooled analysis) and generally self-limiting [177]. Percutaneous biopsy of renal hilar masses is technically feasible with a diagnostic yield similar to that of cortical masses, but with significantly higher post-procedural bleeding compared with cortical masses [194].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-3-5-genetic-assessment",
+      "title": "5.3.5. Genetic assessment",
+      "level": 4,
+      "text": "Renal cancer can be related to an inherited or de novo monogenic germline alteration and this recognition has significant implications [195]. Hereditary kidney cancer is thought to account for 5-8% of all kidney cancer cases, although this number is likely an underestimation since a more recent study found germline mutations in up to 38% of all metastatic kidney cancer patients [196] (see Chapter 8 on hereditary kidney tumours). Patients with a germline predisposition to kidney cancer often require multidisciplinary approaches. It is therefore critical for clinicians to be familiar with how and when referral for counselling is warranted, methods of genetic testing, implications of the findings, screening of at-risk (non-renal) organs, and the screening protocol for family members. Well-defined RCC management strategies exist, and specific therapeutic strategies are available or in development (see Chapter 8). Lack of a syndromic manifestation does not exclude a genetic contribution to cancer development. Moreover, other genetic components or polymorphisms are heritable and may confer a mildly increased risk. When several risk alleles are present, they can significantly increase cancer risk. Many factors are associated with an increased risk of hereditary RCC syndromes. For instance, even in the absence of clinical manifestations and personal/family history, an age of onset of 46 years or younger should trigger consideration for genetic counselling/germline mutation testing [197]. Moreover, presence of bilateral or multifocal tumours/cysts and/or a first- or second-degree relative with RCC and/or a close blood relative with a known pathogenic variant significantly increases the risk to detect hereditary cancer. The presence of renal cysts can be associated with BHD and VHL and form part of the clinical diagnostic spectrum. Moreover, specific histologic characteristics can support differential diagnosis of a particular RCC syndrome (e.g. multifocal papillary histology, hereditary fumarate hydratase-deficient RCC, RCC with fumarate hydratase deficiency, multiple chromophobe, oncocytoma or oncocytic hybrid, succinate dehydrogenase-deficient RCC histology). Finally, additional tuberous sclerosis complex criteria should be assessed in individuals with AML [197-206]. If additional risk factors are established in a patient, referral to a comprehensive clinical care centre, or a hospital with demonstrated expertise in managing hereditary cancer syndromes, will provide a dedicated working team, tailored clinical decisions, research translational programme, appropriate patient psychosocial support and prospective collection of clinical data and biological samples. This can contribute to a better patient’s care and further improvements in cancer care.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-4-summary-of-evidence-and-recommendations-for-the-diagnostic-assessment-of-rcc",
+      "title": "5.4. Summary of evidence and recommendations for the diagnostic assessment of RCC",
+      "level": 3,
+      "text": "Summary of evidence LE Contrast enhanced multiphasic CT has a high sensitivity and specificity for characterisation and detection of RCC, invasion, tumour thrombus and mRCC. 2a The incidence of lung metastases in cT1a, cN0, without systemic symptoms and normal haemoglobin and thrombocytes is negligible. 3 Magnetic resonance imaging has a slightly higher sensitivity and specificity for small cystic renal masses and tumour thrombi as compared to CT. 2a Contrast-enhanced US has a high sensitivity and specificity for characterisation of renal masses. 2a Renal mass biopsies are associated with reduced overtreatment of benign masses and offers patients additional information (i.e. grade, subtype) for an informed decision regarding optimal management. 3 Ultrasound, Power Doppler US and PET CT have a low sensitivity and specificity for detection and characterisation of RCC. 2a Recommendations Strength rating Use multiphasic contrast-enhanced computed tomography (CT) of abdomen and chest for the diagnosis and staging of renal tumours. Strong Omit chest CT in patients with incidentally noted cT1a disease due to the low risk of lung metastases in this cohort. Weak Use magnetic resonance imaging (MRI) to better evaluate venous involvement, reduce radiation or avoid intravenous CT contrast medium. Weak Use non-ionising modalities, including MRI and contrast-enhanced ultrasound, for further characterisation of small renal masses, tumour thrombus and differentiation of unclear renal masses if the results of contrast-enhanced CT are indeterminate. Strong Offer brain CT/MRI in metastatic patients when systemic therapy or cytoreductive nephrectomy is considered. Weak Do not use bone scan and/or fluorodeoxyglucose positron emission tomography (FDG-PET) CT for primary staging of renal cell carcinoma. Weak Perform a renal tumour biopsy before ablative therapy and systemic therapy without previous pathology. Strong Perform a percutaneous biopsy in select patients who are considering active surveillance. Weak Use a coaxial technique when performing a renal tumour biopsy. Strong Do not perform a renal tumour biopsy of cystic renal masses unless a significant solid component is visible at imaging. Strong Use a core biopsy technique rather than fine needle aspiration for histological characterisation of solid renal tumours. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Contrast enhanced multiphasic CT has a high sensitivity and specificity for characterisation and detection of RCC, invasion, tumour thrombus and mRCC.",
+              "2a"
+            ],
+            [
+              "The incidence of lung metastases in cT1a, cN0, without systemic symptoms and normal haemoglobin and thrombocytes is negligible.",
+              "3"
+            ],
+            [
+              "Magnetic resonance imaging has a slightly higher sensitivity and specificity for small cystic renal masses and tumour thrombi as compared to CT.",
+              "2a"
+            ],
+            [
+              "Contrast-enhanced US has a high sensitivity and specificity for characterisation of renal masses.",
+              "2a"
+            ],
+            [
+              "Renal mass biopsies are associated with reduced overtreatment of benign masses and offers patients additional information (i.e. grade, subtype) for an informed decision regarding optimal management.",
+              "3"
+            ],
+            [
+              "Ultrasound, Power Doppler US and PET CT have a low sensitivity and specificity for detection and characterisation of RCC.",
+              "2a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use multiphasic contrast-enhanced computed tomography (CT) of abdomen and chest for the diagnosis and staging of renal tumours.",
+              "Strong"
+            ],
+            [
+              "Omit chest CT in patients with incidentally noted cT1a disease due to the low risk of lung metastases in this cohort.",
+              "Weak"
+            ],
+            [
+              "Use magnetic resonance imaging (MRI) to better evaluate venous involvement, reduce radiation or avoid intravenous CT contrast medium.",
+              "Weak"
+            ],
+            [
+              "Use non-ionising modalities, including MRI and contrast-enhanced ultrasound, for further characterisation of small renal masses, tumour thrombus and differentiation of unclear renal masses if the results of contrast-enhanced CT are indeterminate.",
+              "Strong"
+            ],
+            [
+              "Offer brain CT/MRI in metastatic patients when systemic therapy or cytoreductive nephrectomy is considered.",
+              "Weak"
+            ],
+            [
+              "Do not use bone scan and/or fluorodeoxyglucose positron emission tomography (FDG-PET) CT for primary staging of renal cell carcinoma.",
+              "Weak"
+            ],
+            [
+              "Perform a renal tumour biopsy before ablative therapy and systemic therapy without previous pathology.",
+              "Strong"
+            ],
+            [
+              "Perform a percutaneous biopsy in select patients who are considering active surveillance.",
+              "Weak"
+            ],
+            [
+              "Use a coaxial technique when performing a renal tumour biopsy.",
+              "Strong"
+            ],
+            [
+              "Do not perform a renal tumour biopsy of cystic renal masses unless a significant solid component is visible at imaging.",
+              "Strong"
+            ],
+            [
+              "Use a core biopsy technique rather than fine needle aspiration for histological characterisation of solid renal tumours.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#5-5-summary-of-evidence-and-recommendations-for-genetic-assessment-of-rcc",
+      "title": "5.5. Summary of evidence and recommendations for genetic assessment of RCC",
+      "level": 3,
+      "text": "Summary of evidence LE Hereditary kidney cancer is thought to account for 5-8% of all kidney cancer cases, though that number is likely an underestimate. 3 In case of renal cancer, if a patient’s age is 46 years, or younger and/or with bilateral or multifocal tumours and/or with a first- or second-degree relative with RCC and/or with a close blood relative with a known pathogenic variant and/or with specific histologic characteristics (see text), the risk of hereditary cancer is significantly higher. 3 Hereditary RCC detection has unique implications for decision-making and follow-up. 3 Recommendations Strength rating Perform a genetic evaluation in patients aged ≤ 46 years, with bilateral or multifocal tumours and/or a first- or second-degree relative with RCC and/or a close blood relative with a known pathogenic variant and/or specific histologic characteristics which suggest the presence of a hereditary form of RCC. Strong Refer patients to a cancer geneticist or to a comprehensive clinical care centre in case of suspected hereditary RCC. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Hereditary kidney cancer is thought to account for 5-8% of all kidney cancer cases, though that number is likely an underestimate.",
+              "3"
+            ],
+            [
+              "In case of renal cancer, if a patient’s age is 46 years, or younger and/or with bilateral or multifocal tumours and/or with a first- or second-degree relative with RCC and/or with a close blood relative with a known pathogenic variant and/or with specific histologic characteristics (see text), the risk of hereditary cancer is significantly higher.",
+              "3"
+            ],
+            [
+              "Hereditary RCC detection has unique implications for decision-making and follow-up.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform a genetic evaluation in patients aged ≤ 46 years, with bilateral or multifocal tumours and/or a first- or second-degree relative with RCC and/or a close blood relative with a known pathogenic variant and/or specific histologic characteristics which suggest the presence of a hereditary form of RCC.",
+              "Strong"
+            ],
+            [
+              "Refer patients to a cancer geneticist or to a comprehensive clinical care centre in case of suspected hereditary RCC.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 5
+}

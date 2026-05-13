@@ -1,0 +1,518 @@
+{
+  "guideline": "penile-cancer",
+  "chapter": "introduction",
+  "url": "https://uroweb.org/guidelines/penile-cancer/chapter/introduction",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Preface",
+      "anchor": "#1-5-preface"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review and future goals",
+      "anchor": "#2-2-review-and-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AETIOLOGY AND PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definition of penile cancer",
+      "anchor": "#3-1-definition-of-penile-cancer"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Risk factors, prognosis and prevention",
+      "anchor": "#3-3-risk-factors-prognosis-and-prevention"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Pathology",
+      "anchor": "#3-4-pathology"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Gross handling of pathology specimens",
+      "anchor": "#3-4-1-gross-handling-of-pathology-specimens"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Pathology report",
+      "anchor": "#3-4-2-pathology-report"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Grading",
+      "anchor": "#3-4-3-grading"
+    },
+    {
+      "level": 4,
+      "text": "3.4.4. Pathological prognostic factors",
+      "anchor": "#3-4-4-pathological-prognostic-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.4.5. Penile cancer and HPV",
+      "anchor": "#3-4-5-penile-cancer-and-hpv"
+    },
+    {
+      "level": 4,
+      "text": "3.4.6. Penile biopsy: pathological and technical considerations",
+      "anchor": "#3-4-6-penile-biopsy-pathological-and-technical-considerations"
+    },
+    {
+      "level": 4,
+      "text": "3.4.7. Summary of evidence and guidelines for the pathological assessment of tumour specimens",
+      "anchor": "#3-4-7-summary-of-evidence-and-guidelines-for-the-pathological-assessment-of-tumour-specimens"
+    },
+    {
+      "level": 2,
+      "text": "4. CLASSIFICATION SYSTEMS",
+      "anchor": "#4-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Tumour, node and metastasis classification",
+      "anchor": "#4-1-tumour-node-and-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Cancer stage grouping",
+      "anchor": "#4-2-cancer-stage-grouping"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION AND STAGING",
+      "anchor": "#5-diagnostic-evaluation-and-staging"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Primary lesion",
+      "anchor": "#5-1-primary-lesion"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Physical examination",
+      "anchor": "#5-1-1-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Imaging of the primary tumour",
+      "anchor": "#5-1-2-imaging-of-the-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "5.1.3. Penile biopsy: indications",
+      "anchor": "#5-1-3-penile-biopsy-indications"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Lymph node staging",
+      "anchor": "#5-2-lymph-node-staging"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Physical examination",
+      "anchor": "#5-2-1-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Clinically node-negative (cN0)",
+      "anchor": "#5-2-2-clinically-node-negative-cn0"
+    },
+    {
+      "level": 4,
+      "text": "5.2.3. Clinically node-positive (cN+)",
+      "anchor": "#5-2-3-clinically-node-positive-cn"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Genomic testing",
+      "anchor": "#5-3-genomic-testing"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Summary of evidence and guidelines for the diagnosis and staging of penile cancer",
+      "anchor": "#5-4-summary-of-evidence-and-guidelines-for-the-diagnosis-and-staging-of-penile-cancer"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT",
+      "anchor": "#6-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Treatment of the primary tumour",
+      "anchor": "#6-1-treatment-of-the-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Treatment of superficial non-invasive disease (PeIN, Ta)",
+      "anchor": "#6-1-1-treatment-of-superficial-non-invasive-disease-pein-ta"
+    },
+    {
+      "level": 4,
+      "text": "6.1.3. Locally advanced disease (T3–T4)",
+      "anchor": "#6-1-3-locally-advanced-disease-t3t4"
+    },
+    {
+      "level": 4,
+      "text": "6.1.4. Local recurrence after organ-sparing surgery",
+      "anchor": "#6-1-4-local-recurrence-after-organ-sparing-surgery"
+    },
+    {
+      "level": 4,
+      "text": "6.1.5. Summary of evidence and guidelines for local treatment of penile carcinoma",
+      "anchor": "#6-1-5-summary-of-evidence-and-guidelines-for-local-treatment-of-penile-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Regional lymph node management: clinically evident disease (cN1–cN3)",
+      "anchor": "#6-2-regional-lymph-node-management-clinically-evident-disease-cn1cn3"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Introduction",
+      "anchor": "#6-2-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "6.2.2.c N1–N2 disease: radical inguinal lymph node dissection",
+      "anchor": "#6-2-2-c-n1n2-disease-radical-inguinal-lymph-node-dissection"
+    },
+    {
+      "level": 4,
+      "text": "6.2.3. Prophylactic pelvic lymph node dissection",
+      "anchor": "#6-2-3-prophylactic-pelvic-lymph-node-dissection"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Clinical N3 disease (cN3)",
+      "anchor": "#6-3-clinical-n3-disease-cn3"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. Diagnostic evaluation",
+      "anchor": "#6-3-1-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Management strategy",
+      "anchor": "#6-3-2-management-strategy"
+    },
+    {
+      "level": 4,
+      "text": "6.3.4. Surgical technique",
+      "anchor": "#6-3-4-surgical-technique"
+    },
+    {
+      "level": 4,
+      "text": "6.3.5. Summary of evidence and guidelines for the surgical management of cN3 disease",
+      "anchor": "#6-3-5-summary-of-evidence-and-guidelines-for-the-surgical-management-of-cn3-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Systemic therapy",
+      "anchor": "#6-4-1-systemic-therapy"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Radiotherapy",
+      "anchor": "#6-4-2-radiotherapy"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Systemic and palliative therapies for advanced disease",
+      "anchor": "#6-5-systemic-and-palliative-therapies-for-advanced-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.5.1. Introduction",
+      "anchor": "#6-5-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "6.5.2. Chemotherapy",
+      "anchor": "#6-5-2-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "6.5.3. Role of radiotherapy in palliation",
+      "anchor": "#6-5-3-role-of-radiotherapy-in-palliation"
+    },
+    {
+      "level": 4,
+      "text": "6.5.4. Summary of evidence and guidelines for systemic and palliative therapies for advanced penile cancer",
+      "anchor": "#6-5-4-summary-of-evidence-and-guidelines-for-systemic-and-palliative-therapies-for-advanced-penile-cancer"
+    },
+    {
+      "level": 2,
+      "text": "7. FOLLOW-UP AND QUALITY OF LIFE",
+      "anchor": "#7-follow-up-and-quality-of-life"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Unmet needs",
+      "anchor": "#7-1-unmet-needs"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Rationale for follow-up",
+      "anchor": "#7-2-rationale-for-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. When and how to follow-up",
+      "anchor": "#7-2-1-when-and-how-to-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Recurrence of the primary tumour",
+      "anchor": "#7-2-2-recurrence-of-the-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Regional recurrence",
+      "anchor": "#7-2-3-regional-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Patient support services",
+      "anchor": "#7-3-patient-support-services"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Psychological support",
+      "anchor": "#7-3-1-psychological-support"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Quality of life",
+      "anchor": "#7-3-2-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. Urinary function",
+      "anchor": "#7-3-3-urinary-function"
+    },
+    {
+      "level": 4,
+      "text": "7.3.4. Sexual function",
+      "anchor": "#7-3-4-sexual-function"
+    },
+    {
+      "level": 4,
+      "text": "7.3.5. Lymphoedema",
+      "anchor": "#7-3-5-lymphoedema"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Centralisation of penile cancer services",
+      "anchor": "#7-4-centralisation-of-penile-cancer-services"
+    },
+    {
+      "level": 4,
+      "text": "7.4.1. Advantages of centralised care",
+      "anchor": "#7-4-1-advantages-of-centralised-care"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Guideline adherence",
+      "anchor": "#7-4-2-guideline-adherence"
+    },
+    {
+      "level": 4,
+      "text": "7.4.3. Survival",
+      "anchor": "#7-4-3-survival"
+    },
+    {
+      "level": 4,
+      "text": "7.4.4. Disadvantages of centralised care",
+      "anchor": "#7-4-4-disadvantages-of-centralised-care"
+    },
+    {
+      "level": 3,
+      "text": "7.5. Summary of evidence and guidelines for follow-up and quality of life",
+      "anchor": "#7-5-summary-of-evidence-and-guidelines-for-follow-up-and-quality-of-life"
+    },
+    {
+      "level": 2,
+      "text": "8. REFERENCES",
+      "anchor": "#8-references"
+    },
+    {
+      "level": 2,
+      "text": "9. CONFLICT OF INTEREST",
+      "anchor": "#9-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "10. CITATION INFORMATION",
+      "anchor": "#10-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "11. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#11-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#penile-cancer",
+      "title": "Penile Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 1. Introduction Introduction Methods Epidemiology Aetiology And Pathology Classification Systems Diagnostic Evaluation And Staging Disease Management Follow-up And Quality Of Life References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#1-introduction",
+      "title": "1. INTRODUCTION",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#1-1-aim-and-objectives",
+      "title": "1.1. Aim and objectives",
+      "level": 3,
+      "text": "The European Association of Urology (EAU) – American Society of Clinical Oncology (ASCO) Guidelines on Penile Cancer provide up-to-date information on the diagnosis and management of penile squamous cell carcinoma (SCC). It must be emphasised that clinical guidelines present the best level of evidence available to the experts, but following guideline recommendations will not necessarily result in the best treatment-related outcomes for a given patient. Guidelines can never replace clinical expertise when making treatment decisions for individual patients, but rather, help to focus decisions. Taking patient’s personal values and preferences/individual circumstances into account is of paramount importance. Guidelines are not mandates and do not purport to be a legal standard of care.",
+      "tables": []
+    },
+    {
+      "anchor": "#1-2-panel-composition",
+      "title": "1.2. Panel composition",
+      "level": 3,
+      "text": "The EAU-ASCO Penile Cancer Guidelines Panel consists of an international, multidisciplinary group of clinicians, including urologists, pathologists, oncologists, radiation oncologists and patient advocates. The members of this Panel have been selected based on their expertise and to represent the multidisciplinary professionals caring for patients with penile cancer. All experts involved in the production of this document have submitted potential conflict of interest statements, which can be viewed on the EAU website Uroweb: http://uroweb.org/guideline/penile-cancer/ .",
+      "tables": []
+    },
+    {
+      "anchor": "#1-3-available-publications",
+      "title": "1.3. Available publications",
+      "level": 3,
+      "text": "A quick reference document (Pocket Guidelines) is available in print and on the EAU website. The Pocket Guidelines are an abridged version of the full-text Guidelines, which may require consultation together with the full text version. This updated 2026 document presents a complete revision of the prior (2023) publication. All prior versions can be viewed at the EAU website: https://uroweb.org/guidelines/archive/penile-cancer. An EAU Guidelines App is also available for iOS and Android devices containing the Pocket Guidelines, interactive algorithms and calculators, clinical decision support tools, guidelines cheat sheets and links to the extended guidelines.",
+      "tables": []
+    },
+    {
+      "anchor": "#1-4-publication-history-and-summary-of-changes",
+      "title": "1.4. Publication history and summary of changes",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#1-4-1-publication-history",
+      "title": "1.4.1. Publication history",
+      "level": 4,
+      "text": "The EAU Penile Cancer Guidelines were first published in 2000. The 2023 EAU-ASCO publication was a complete revision of the prior print, and the 2026 version represents another major update.",
+      "tables": []
+    },
+    {
+      "anchor": "#1-4-2-summary-of-changes",
+      "title": "1.4.2. Summary of changes",
+      "level": 4,
+      "text": "The literature for the complete document has been assessed, and all Chapters of the 2026 Penile Cancer Guidelines have been updated. New data have been included in the following Sections, resulting in new Sections, and new and revised guidelines: New text additions and references throughout Chapter 3. Incorporation of new text and references throughout Chapter 5, including a new Section 5.3 on genomic testing, as well as a new Figure 5.1 providing information on clinical cN0 management. New text additions and references throughout Chapter 6, with an updated summary of evidence in Section 6.1.5 on local treatment of penile carcinoma. A new figure is provided in Section 6.2: Figure 6.1, which provides information on regional lymph node management: clinically evident disease (cN1–cN3). Section 6.5.2.a on immunotherapy has also been restructured. A new figure in Section 6.5, Figure 6.2, provides information on systemic and palliative therapies for advanced disease. Substantial text additions have been made to Section 7, and the Section has been restructured, including the new Section 7.4.1 on the advantages of centralised care, Section 7.4.2 on Guidelines adherence, Section 7.4.3 on survival, and Section 7.4.4 on the disadvantages of centralised care. Updated summary of evidence and new guideline in Chapter 7 regarding follow-up and quality of life.",
+      "tables": []
+    },
+    {
+      "anchor": "#1-5-preface",
+      "title": "1.5. Preface",
+      "level": 3,
+      "text": "Penile cancer has a significant impact on quality of life (QoL) in many ways. Patients are not only exposed to the psychological and emotional stress of a cancer diagnosis and what that means for the rest of their lives, but also the psychological impact and stigma of cancer on an intimate part of the body. The treatments also cause significant physical and emotional changes, resulting in feelings of mutilation, loss of masculinity and coping with the impact on voiding and sexual function, which in turn can result in relationship breakdowns and withdrawal from society. Long-term management of lymphoedema also presents a challenge for many of these men. As a Guidelines Panel, we have chosen to stress the importance of QoL in penile cancer at the beginning of these Guidelines. We believe strongly that these significant emotional, social and physical needs must be discussed and addressed early in the patient pathway through a holistic and multidisciplinary approach. An important part of a holistic approach is access to palliative care. The World Health Organization (WHO) definition of palliative care states it: ‘is a crucial part of integrated, people-centred health services. Relieving serious health-related suffering, be it physical, psychological, social, or spiritual, is a global ethical responsibility’ [1]. As a result, access to palliative care should be available to patients throughout their cancer pathway. It is important to recognise the evolving needs of a patient with a diagnosis of penile cancer, even many months following the completion of treatment, and therefore appropriate follow-up and patient support services are also a critical aspect of penile cancer care. The reality is that much of the literature on this rare cancer over the last two decades has focused on oncological outcomes rather than functional and QoL outcomes. So much more needs to be done to investigate these issues and address the many unmet needs of patients diagnosed with penile cancer, some of which are described in Table 1.1 [2]. Table 1.1: Unmet needs of patients with penile cancer Emotional needs Relational needs Medical needs Loss of masculinity Impact on relationship with partner Lack of advice on how to cope Shock/disbelief Sexual Lymphoedema Depression/sadness Performance anxiety/cannot satisfy partner Lack of information on what to expect after surgery Fear Concerns on how to tell family Sit down to urinate/cleanliness of toilets Anxiety Relationships damaged or lost Lack of rehabilitation/supportive care Embarrassment/stigma Avoiding meeting friends/new relationships Missed/incorrect diagnosis",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Emotional needs",
+              "Relational needs",
+              "Medical needs"
+            ],
+            [
+              "Loss of masculinity",
+              "Impact on relationship with partner",
+              "Lack of advice on how to cope"
+            ],
+            [
+              "Shock/disbelief",
+              "Sexual",
+              "Lymphoedema"
+            ],
+            [
+              "Depression/sadness",
+              "Performance anxiety/cannot satisfy partner",
+              "Lack of information on what to expect after surgery"
+            ],
+            [
+              "Fear",
+              "Concerns on how to tell family",
+              "Sit down to urinate/cleanliness of toilets"
+            ],
+            [
+              "Anxiety",
+              "Relationships damaged or lost",
+              "Lack of rehabilitation/supportive care"
+            ],
+            [
+              "Embarrassment/stigma",
+              "Avoiding meeting friends/new relationships",
+              "Missed/incorrect diagnosis"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 1
+}

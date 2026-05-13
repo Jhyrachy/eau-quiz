@@ -1,0 +1,426 @@
+{
+  "guideline": "testicular-cancer",
+  "chapter": "introduction",
+  "url": "https://uroweb.org/guidelines/testicular-cancer/chapter/introduction",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 2,
+      "text": "2.1 Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Future goals",
+      "anchor": "#2-3-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AETIOLOGY PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology and Aetiology",
+      "anchor": "#3-1-epidemiology-and-aetiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Histological classification",
+      "anchor": "#3-2-histological-classification"
+    },
+    {
+      "level": 2,
+      "text": "4. STAGING & PROGNOSIS",
+      "anchor": "#4-staging--prognosis"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Staging",
+      "anchor": "#4-1-staging"
+    },
+    {
+      "level": 3,
+      "text": "4.2. The Union for International Cancer Control prognostic groups",
+      "anchor": "#4-2-the-union-for-international-cancer-control-prognostic-groups"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Risk factors for relapse in clinical stage I germ cell tumours",
+      "anchor": "#4-3-risk-factors-for-relapse-in-clinical-stage-i-germ-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. SGCT",
+      "anchor": "#4-3-1-sgct"
+    },
+    {
+      "level": 4,
+      "text": "4.3.2. NSGCT",
+      "anchor": "#4-3-2-nsgct"
+    },
+    {
+      "level": 3,
+      "text": "4.4. The International Germ Cell Cancer Collaborative Group (IGCCCG) classification for the prognostic risk groups of metastatic germ cell cancer",
+      "anchor": "#4-4-the-international-germ-cell-cancer-collaborative-group-igcccg-classification-for-the-prognostic-risk-groups-of-metastatic-germ-cell-cancer"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION",
+      "anchor": "#5-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Physical examination",
+      "anchor": "#5-1-physical-examination"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Imaging",
+      "anchor": "#5-2-imaging"
+    },
+    {
+      "level": 3,
+      "text": "5.2.1. Primary tumour",
+      "anchor": "#5-2-1-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Staging",
+      "anchor": "#5-2-2-staging"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Serum tumour markers",
+      "anchor": "#5-3-serum-tumour-markers"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Preoperative serum tumour markers",
+      "anchor": "#5-3-1-preoperative-serum-tumour-markers"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Serum tumour markers after orchidectomy",
+      "anchor": "#5-3-2-serum-tumour-markers-after-orchidectomy"
+    },
+    {
+      "level": 4,
+      "text": "5.3.3. Other tumour markers",
+      "anchor": "#5-3-3-other-tumour-markers"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Inguinal exploration and initial management",
+      "anchor": "#5-4-inguinal-exploration-and-initial-management"
+    },
+    {
+      "level": 4,
+      "text": "5.4.1. Orchidectomy",
+      "anchor": "#5-4-1-orchidectomy"
+    },
+    {
+      "level": 4,
+      "text": "5.4.2. Testis-sparing surgery",
+      "anchor": "#5-4-2-testis-sparing-surgery"
+    },
+    {
+      "level": 4,
+      "text": "5.4.3. Insertion of testicular prosthesis",
+      "anchor": "#5-4-3-insertion-of-testicular-prosthesis"
+    },
+    {
+      "level": 4,
+      "text": "5.4.4. Contralateral biopsy",
+      "anchor": "#5-4-4-contralateral-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.4.5. Germ cell neoplasia ‘in situ’ (GCNIS)",
+      "anchor": "#5-4-5-germ-cell-neoplasia-in-situ-gcnis"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Pathological examination of the testis",
+      "anchor": "#5-5-pathological-examination-of-the-testis"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Screening",
+      "anchor": "#5-6-screening"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Summary of evidence and recommendations for the diagnosis and staging of testicular cancer",
+      "anchor": "#5-7-summary-of-evidence-and-recommendations-for-the-diagnosis-and-staging-of-testicular-cancer"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT",
+      "anchor": "#6-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Stage I germ cell tumours",
+      "anchor": "#6-1-stage-i-germ-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Seminoma germ cell tumour clinical stage I",
+      "anchor": "#6-1-1-seminoma-germ-cell-tumour-clinical-stage-i"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Nonseminomatous germ cell tumours clinical stage I",
+      "anchor": "#6-1-2-nonseminomatous-germ-cell-tumours-clinical-stage-i"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Metastatic germ cell tumours",
+      "anchor": "#6-2-metastatic-germ-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Clinical stage I with (persistently) elevated serum tumour markers",
+      "anchor": "#6-2-1-clinical-stage-i-with-persistently-elevated-serum-tumour-markers"
+    },
+    {
+      "level": 4,
+      "text": "6.2.3. Metastatic disease (stage II C and III)",
+      "anchor": "#6-2-3-metastatic-disease-stage-ii-c-and-iii"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Treatment evaluation and further treatment",
+      "anchor": "#6-3-treatment-evaluation-and-further-treatment"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. Treatment evaluation",
+      "anchor": "#6-3-1-treatment-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Residual tumour resection",
+      "anchor": "#6-3-2-residual-tumour-resection"
+    },
+    {
+      "level": 4,
+      "text": "6.3.3. Sequencing of surgery in the case of multiple sites",
+      "anchor": "#6-3-3-sequencing-of-surgery-in-the-case-of-multiple-sites"
+    },
+    {
+      "level": 4,
+      "text": "6.3.4. Systemic salvage treatment for relapse or refractory disease",
+      "anchor": "#6-3-4-systemic-salvage-treatment-for-relapse-or-refractory-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.3.5. Second relapse",
+      "anchor": "#6-3-5-second-relapse"
+    },
+    {
+      "level": 4,
+      "text": "6.3.6. Treatment of brain metastases",
+      "anchor": "#6-3-6-treatment-of-brain-metastases"
+    },
+    {
+      "level": 4,
+      "text": "6.3.7. Treatment of bone metastases",
+      "anchor": "#6-3-7-treatment-of-bone-metastases"
+    },
+    {
+      "level": 4,
+      "text": "6.3.8. Summary of evidence and recommendations for the treatment of metastatic testicular germ cell tumours",
+      "anchor": "#6-3-8-summary-of-evidence-and-recommendations-for-the-treatment-of-metastatic-testicular-germ-cell-tumours"
+    },
+    {
+      "level": 2,
+      "text": "7. FOLLOW UP AFTER CURATIVE THERAPY",
+      "anchor": "#7-follow-up-after-curative-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Minimal recommendations for follow-up",
+      "anchor": "#7-1-minimal-recommendations-for-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Quality of life and long-term toxicities after cure of testicular cancer",
+      "anchor": "#7-2-quality-of-life-and-long-term-toxicities-after-cure-of-testicular-cancer"
+    },
+    {
+      "level": 2,
+      "text": "8. RARE ADULT PARA AND TESTICULAR TUMOURS",
+      "anchor": "#8-rare-adult-para-and-testicular-tumours"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Classification",
+      "anchor": "#8-1-classification"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Spermatocytic tumours",
+      "anchor": "#8-2-spermatocytic-tumours"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Sex cord-stromal tumours",
+      "anchor": "#8-3-sex-cord-stromal-tumours"
+    },
+    {
+      "level": 4,
+      "text": "8.3.1. Leydig cell tumours",
+      "anchor": "#8-3-1-leydig-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "8.3.2. Sertoli cell tumours",
+      "anchor": "#8-3-2-sertoli-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "8.3.3. Granulosa cell tumour",
+      "anchor": "#8-3-3-granulosa-cell-tumour"
+    },
+    {
+      "level": 4,
+      "text": "8.3.5. Paratesticular tumours of the epididymis or spermatic cord",
+      "anchor": "#8-3-5-paratesticular-tumours-of-the-epididymis-or-spermatic-cord"
+    },
+    {
+      "level": 3,
+      "text": "8.4. Mesothelioma of the tunica vaginalis testis",
+      "anchor": "#8-4-mesothelioma-of-the-tunica-vaginalis-testis"
+    },
+    {
+      "level": 3,
+      "text": "8.5. Follow-up of rare adult para- and testicular cancers",
+      "anchor": "#8-5-follow-up-of-rare-adult-para--and-testicular-cancers"
+    },
+    {
+      "level": 2,
+      "text": "9. REFERENCES",
+      "anchor": "#9-references"
+    },
+    {
+      "level": 2,
+      "text": "10. CONFLICT OF INTEREST",
+      "anchor": "#10-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "11. CITATION INFORMATION",
+      "anchor": "#11-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "12. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#12-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#testicular-cancer",
+      "title": "Testicular Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 1. Introduction Introduction Methods Epidemiology Aetiology Pathology Staging & Prognosis Diagnostic Evaluation Disease Management Follow Up After Curative Therapy Rare Adult Para And Testicular Tumours References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#1-introduction",
+      "title": "1. INTRODUCTION",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#1-1-aim-and-objectives",
+      "title": "1.1. Aim and objectives",
+      "level": 3,
+      "text": "The aim of these Guidelines is to present the current evidence for the diagnosis and treatment of patients with cancer of the testis. Testicular cancer (TC) represents 5% of urological tumours affecting mostly younger males. This document addresses post-pubertal testicular germ-cell tumours (TGCTs) in the male, including spermatocytic tumour and sex cord-stromal tumours.  It must be emphasised that clinical guidelines present the best evidence available to the experts, but following guideline recommendations will not necessarily result in the best outcome. Guidelines can never replace clinical expertise when making treatment decisions for individual patients but rather help to focus decisions - also taking personal values and references/individual circumstances of patients into account. Guidelines are not mandates and do not purport to be a legal standard of care.",
+      "tables": []
+    },
+    {
+      "anchor": "#1-2-panel-composition",
+      "title": "1.2. Panel composition",
+      "level": 3,
+      "text": "The European Association of Urology (EAU) Guidelines Panel on TC consists of a multidisciplinary group of clinicians, including urologists, medical oncologists, a radiation-oncologist, patient representatives and two pathologists. When necessary, consultants from other specialties provide input. Members of this Panel have been selected based on their expertise to represent the professionals that treat patients with TC. All experts involved in the production of this document have submitted potential conflict of interest statements which can be viewed on the EAU website: http://www.uroweb.org/guideline/testicular-cancer/ .",
+      "tables": []
+    },
+    {
+      "anchor": "#1-3-available-publications",
+      "title": "1.3. Available publications",
+      "level": 3,
+      "text": "A quick reference document (Pocket Guidelines) is available in print and on the EAU website. The Pocket Guidelines is an abridged version of the Guidelines which may require consultation together with the full text version. Several scientific publications are available, as are a number of translations of all versions of the EAU TC Guidelines. All documents are accessible through the EAU website: http://www.uroweb.org/guideline/testicular-cancer/ . An EAU Guidelines App is also available for iOS and Android devices containing the Pocket Guidelines, interactive algorithms and calculators, clinical decision support tools, guidelines cheat sheets and links to the extended guidelines.",
+      "tables": []
+    },
+    {
+      "anchor": "#1-4-publication-history-and-summary-of-changes",
+      "title": "1.4. Publication history and summary of changes",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#1-4-1-publication-history",
+      "title": "1.4.1. Publication history",
+      "level": 4,
+      "text": "The EAU published the first guidelines on TC in 2001. Since 2008, the TC Guidelines contains a separate chapter on testicular stromal tumours. The 2026 TC guideline presents a limited update of the 2024 publication. A summary paper of the EAU TC guideline has been published in the society’s scientific journal European Urology in 2023 [1].",
+      "tables": []
+    },
+    {
+      "anchor": "#1-4-2-summary-of-changes",
+      "title": "1.4.2. Summary of changes",
+      "level": 4,
+      "text": "For the 2026 TC Guidelines new and relevant evidence was identified, collated and appraised through a structured assessment of the literature for all sections of the Guidelines. Key changes include: New recommendation in Chapter 5 regarding testicular prosthesis. Substantial text additions and restructure to Chapter 6, including a new section on the treatment of bone metastases - Section 6.3.7. Restructure of management of seminoma clinical stage IIA/B including nsRPLND and radio- chemotherapy - Section 6.2.2 Updated summary of evidence and new recommendation in Section 6.2.2.b.1.b on de-escalating approaches. Expansion and restructure to Chapter 8.",
+      "tables": []
+    }
+  ],
+  "tables_count": 0
+}

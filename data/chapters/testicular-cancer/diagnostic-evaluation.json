@@ -1,0 +1,608 @@
+{
+  "guideline": "testicular-cancer",
+  "chapter": "diagnostic-evaluation",
+  "url": "https://uroweb.org/guidelines/testicular-cancer/chapter/diagnostic-evaluation",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 2,
+      "text": "2.1 Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Future goals",
+      "anchor": "#2-3-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AETIOLOGY PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology and Aetiology",
+      "anchor": "#3-1-epidemiology-and-aetiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Histological classification",
+      "anchor": "#3-2-histological-classification"
+    },
+    {
+      "level": 2,
+      "text": "4. STAGING & PROGNOSIS",
+      "anchor": "#4-staging--prognosis"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Staging",
+      "anchor": "#4-1-staging"
+    },
+    {
+      "level": 3,
+      "text": "4.2. The Union for International Cancer Control prognostic groups",
+      "anchor": "#4-2-the-union-for-international-cancer-control-prognostic-groups"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Risk factors for relapse in clinical stage I germ cell tumours",
+      "anchor": "#4-3-risk-factors-for-relapse-in-clinical-stage-i-germ-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. SGCT",
+      "anchor": "#4-3-1-sgct"
+    },
+    {
+      "level": 4,
+      "text": "4.3.2. NSGCT",
+      "anchor": "#4-3-2-nsgct"
+    },
+    {
+      "level": 3,
+      "text": "4.4. The International Germ Cell Cancer Collaborative Group (IGCCCG) classification for the prognostic risk groups of metastatic germ cell cancer",
+      "anchor": "#4-4-the-international-germ-cell-cancer-collaborative-group-igcccg-classification-for-the-prognostic-risk-groups-of-metastatic-germ-cell-cancer"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION",
+      "anchor": "#5-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Physical examination",
+      "anchor": "#5-1-physical-examination"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Imaging",
+      "anchor": "#5-2-imaging"
+    },
+    {
+      "level": 3,
+      "text": "5.2.1. Primary tumour",
+      "anchor": "#5-2-1-primary-tumour"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Staging",
+      "anchor": "#5-2-2-staging"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Serum tumour markers",
+      "anchor": "#5-3-serum-tumour-markers"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Preoperative serum tumour markers",
+      "anchor": "#5-3-1-preoperative-serum-tumour-markers"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Serum tumour markers after orchidectomy",
+      "anchor": "#5-3-2-serum-tumour-markers-after-orchidectomy"
+    },
+    {
+      "level": 4,
+      "text": "5.3.3. Other tumour markers",
+      "anchor": "#5-3-3-other-tumour-markers"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Inguinal exploration and initial management",
+      "anchor": "#5-4-inguinal-exploration-and-initial-management"
+    },
+    {
+      "level": 4,
+      "text": "5.4.1. Orchidectomy",
+      "anchor": "#5-4-1-orchidectomy"
+    },
+    {
+      "level": 4,
+      "text": "5.4.2. Testis-sparing surgery",
+      "anchor": "#5-4-2-testis-sparing-surgery"
+    },
+    {
+      "level": 4,
+      "text": "5.4.3. Insertion of testicular prosthesis",
+      "anchor": "#5-4-3-insertion-of-testicular-prosthesis"
+    },
+    {
+      "level": 4,
+      "text": "5.4.4. Contralateral biopsy",
+      "anchor": "#5-4-4-contralateral-biopsy"
+    },
+    {
+      "level": 4,
+      "text": "5.4.5. Germ cell neoplasia ‘in situ’ (GCNIS)",
+      "anchor": "#5-4-5-germ-cell-neoplasia-in-situ-gcnis"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Pathological examination of the testis",
+      "anchor": "#5-5-pathological-examination-of-the-testis"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Screening",
+      "anchor": "#5-6-screening"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Summary of evidence and recommendations for the diagnosis and staging of testicular cancer",
+      "anchor": "#5-7-summary-of-evidence-and-recommendations-for-the-diagnosis-and-staging-of-testicular-cancer"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT",
+      "anchor": "#6-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Stage I germ cell tumours",
+      "anchor": "#6-1-stage-i-germ-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Seminoma germ cell tumour clinical stage I",
+      "anchor": "#6-1-1-seminoma-germ-cell-tumour-clinical-stage-i"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Nonseminomatous germ cell tumours clinical stage I",
+      "anchor": "#6-1-2-nonseminomatous-germ-cell-tumours-clinical-stage-i"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Metastatic germ cell tumours",
+      "anchor": "#6-2-metastatic-germ-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Clinical stage I with (persistently) elevated serum tumour markers",
+      "anchor": "#6-2-1-clinical-stage-i-with-persistently-elevated-serum-tumour-markers"
+    },
+    {
+      "level": 4,
+      "text": "6.2.3. Metastatic disease (stage II C and III)",
+      "anchor": "#6-2-3-metastatic-disease-stage-ii-c-and-iii"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Treatment evaluation and further treatment",
+      "anchor": "#6-3-treatment-evaluation-and-further-treatment"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. Treatment evaluation",
+      "anchor": "#6-3-1-treatment-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Residual tumour resection",
+      "anchor": "#6-3-2-residual-tumour-resection"
+    },
+    {
+      "level": 4,
+      "text": "6.3.3. Sequencing of surgery in the case of multiple sites",
+      "anchor": "#6-3-3-sequencing-of-surgery-in-the-case-of-multiple-sites"
+    },
+    {
+      "level": 4,
+      "text": "6.3.4. Systemic salvage treatment for relapse or refractory disease",
+      "anchor": "#6-3-4-systemic-salvage-treatment-for-relapse-or-refractory-disease"
+    },
+    {
+      "level": 4,
+      "text": "6.3.5. Second relapse",
+      "anchor": "#6-3-5-second-relapse"
+    },
+    {
+      "level": 4,
+      "text": "6.3.6. Treatment of brain metastases",
+      "anchor": "#6-3-6-treatment-of-brain-metastases"
+    },
+    {
+      "level": 4,
+      "text": "6.3.7. Treatment of bone metastases",
+      "anchor": "#6-3-7-treatment-of-bone-metastases"
+    },
+    {
+      "level": 4,
+      "text": "6.3.8. Summary of evidence and recommendations for the treatment of metastatic testicular germ cell tumours",
+      "anchor": "#6-3-8-summary-of-evidence-and-recommendations-for-the-treatment-of-metastatic-testicular-germ-cell-tumours"
+    },
+    {
+      "level": 2,
+      "text": "7. FOLLOW UP AFTER CURATIVE THERAPY",
+      "anchor": "#7-follow-up-after-curative-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Minimal recommendations for follow-up",
+      "anchor": "#7-1-minimal-recommendations-for-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Quality of life and long-term toxicities after cure of testicular cancer",
+      "anchor": "#7-2-quality-of-life-and-long-term-toxicities-after-cure-of-testicular-cancer"
+    },
+    {
+      "level": 2,
+      "text": "8. RARE ADULT PARA AND TESTICULAR TUMOURS",
+      "anchor": "#8-rare-adult-para-and-testicular-tumours"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Classification",
+      "anchor": "#8-1-classification"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Spermatocytic tumours",
+      "anchor": "#8-2-spermatocytic-tumours"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Sex cord-stromal tumours",
+      "anchor": "#8-3-sex-cord-stromal-tumours"
+    },
+    {
+      "level": 4,
+      "text": "8.3.1. Leydig cell tumours",
+      "anchor": "#8-3-1-leydig-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "8.3.2. Sertoli cell tumours",
+      "anchor": "#8-3-2-sertoli-cell-tumours"
+    },
+    {
+      "level": 4,
+      "text": "8.3.3. Granulosa cell tumour",
+      "anchor": "#8-3-3-granulosa-cell-tumour"
+    },
+    {
+      "level": 4,
+      "text": "8.3.5. Paratesticular tumours of the epididymis or spermatic cord",
+      "anchor": "#8-3-5-paratesticular-tumours-of-the-epididymis-or-spermatic-cord"
+    },
+    {
+      "level": 3,
+      "text": "8.4. Mesothelioma of the tunica vaginalis testis",
+      "anchor": "#8-4-mesothelioma-of-the-tunica-vaginalis-testis"
+    },
+    {
+      "level": 3,
+      "text": "8.5. Follow-up of rare adult para- and testicular cancers",
+      "anchor": "#8-5-follow-up-of-rare-adult-para--and-testicular-cancers"
+    },
+    {
+      "level": 2,
+      "text": "9. REFERENCES",
+      "anchor": "#9-references"
+    },
+    {
+      "level": 2,
+      "text": "10. CONFLICT OF INTEREST",
+      "anchor": "#10-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "11. CITATION INFORMATION",
+      "anchor": "#11-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "12. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#12-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#testicular-cancer",
+      "title": "Testicular Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 5. Diagnostic Evaluation Introduction Methods Epidemiology Aetiology Pathology Staging & Prognosis Diagnostic Evaluation Disease Management Follow Up After Curative Therapy Rare Adult Para And Testicular Tumours References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#5-diagnostic-evaluation",
+      "title": "5. DIAGNOSTIC EVALUATION",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#5-1-physical-examination",
+      "title": "5.1. Physical examination",
+      "level": 3,
+      "text": "Testicular cancer usually presents as a painless testicular mass or incidental finding on ultrasound (US). Pain, either scrotal or abdominal/back, may occur and result in delayed diagnosis [41]. Gynaecomastia may be present in a small number of patients. Clinical assessment should thus include abdominal, chest and supraclavicular examination.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-imaging",
+      "title": "5.2. Imaging",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-1-primary-tumour",
+      "title": "5.2.1. Primary tumour",
+      "level": 3,
+      "text": "The primary tumour and contralateral testis need to be assessed radiologically to: confirm the presence of a mass determine whether it is intra- or extra-testicular assess its volume and anatomical location characterise the contralateral testicle - to exclude other lesions and identify risk factors for GCNIS (see Section 5.4.4). High-frequency (> 10MHz) testicular US is recommended. Scrotal US is also recommended for all males with retroperitoneal or visceral masses with/or without elevated serum hCG or Alpha-fetoprotein (AFP) in the absence of a palpable testicular mass [42]. Small, usually non-palpable incidental masses may be incidental findings on scrotal US which may be benign. For lesions with small diameter virtually all < 3mm, 87% of those < 5mm and 70% of those < 10mm are benign [45-47]. With small masses US features may assist in discriminating between benign and malignant tumours, although none are completely reliable [45]. Scrotal magnetic resonance imaging (MRI) provides higher sensitivity and specificity than US, in the diagnosis of TC, but its high cost does not justify its routine use for this purpose [48]. It should only be considered when US is inconclusive as local staging for potential testis-sparing surgery (TSS), to differentiate between paratesticular and intratesticular lesions, and/or to characterise intratesticular masses (e.g. distinctive features of Leydig tumours) [48].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-2-staging",
+      "title": "5.2.2. Staging",
+      "level": 4,
+      "text": "Cross-sectional imaging of the chest, abdomen and pelvis is recommended in patients with elevated markers or clinical suspicion of metastases for staging before orchidectomy and remains standard practice. This may be postponed in patients with small or indeterminant masses until histopathological confirmation of malignancy. Contrast enhanced CT scan (CECT) and MRI are the imaging modalities used. Evidence does not support the use of Fluorodeoxyglucose Positron Emission Tomography (FDG-PET) for initial staging of TC [49,50]. Abdomen and pelvis Contrast enhanced CT scan is the long-established imaging modality used to assess the abdomen and pelvis to identify nodal and visceral metastases. The size of metastases should be described in three dimensions, or at least by the greatest diameter. The expected patterns of nodal spread in TC should be considered when evaluating small and borderline nodes. A systematic review of a number of small studies, with a total of 102 evaluable patients, has suggested that MRI appears comparable to CECT in detecting nodal metastases [51]. It is significantly more expensive and less available than CECT for routine use. It clearly has utility in patients who have contra-indications to iodine-based contrast media or likely to require numerous subsequent scans. For follow-up of TC survivors, reducing the radiation exposure with a possibly reduced risk of second malignancies is important [52]. Thorax The chest and supraclavicular fossa should also be imaged with CECT to assess for nodal and pulmonary disease. Magnetic resonance imaging appears equivalent to CT in detecting supradiaphragmatic lymph nodes but less sensitive in detecting pulmonary nodules. Thus, it is not recommended as a routine alternative to CT [53]. Other Sites Cerebral and spinal imaging is recommended in GCT patients with either multiple lung metastases or poor-prognosis IGCCCG risk group (especially with hCG values > 5,000UI/L), or clinical symptoms [54]. Data from cerebral and spinal metastasis detection in other malignancies suggest that MRI is far more sensitive than CECT but requires specific expertise [55,56]. When available, MRI should be used to evaluate for both cerebral and spinal metastases in GCTs if there are clinical concerns. Contrast enhanced computerised tomography may be used if MRI is not available or contraindicated.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-3-serum-tumour-markers",
+      "title": "5.3. Serum tumour markers",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#5-3-1-preoperative-serum-tumour-markers",
+      "title": "5.3.1. Preoperative serum tumour markers",
+      "level": 4,
+      "text": "Serum AFP, human Chorionic Gonadotropin (hCG) and LDH should be determined before orchidectomy as they support the diagnosis of TC and may be indicative of GCT histology. Up to 90% of NSGCT’s have elevated AFP or β-hCG at diagnosis with 39% having an increased level of both [41,57]. Pure seminomas may also have elevated hCG level at diagnosis in up to 30% of cases [57]. Significant elevation of AFP in patients with seminomas should raise concerns of a NSGCT component. Modest stable marker elevations may be considered ‘normal’ and of no clinical significance [43]. Thus, current tumour markers have limitations due to their low sensitivity as normal levels do not exclude the presence of disease.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-3-2-serum-tumour-markers-after-orchidectomy",
+      "title": "5.3.2. Serum tumour markers after orchidectomy",
+      "level": 4,
+      "text": "Tumour markers must be repeated following orchidectomy providing staging and prognostic information [43]. If elevated pre-operatively normalisation may take several weeks as the serum half-lives of AFP and hCG are five to seven days and one to three days respectively. If these remain elevated or increase metastatic disease is likely [57]. However, marker normalisation after orchiectomy does not exclude the possibility of metastatic disease. In addition, staging marker levels are used to define risk stratification and prognosis (Table 3). They are also used to monitor treatment response and detect disease relapse [57]. With follow-up, the precise frequency of testing is not well defined [58].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-3-3-other-tumour-markers",
+      "title": "5.3.3. Other tumour markers",
+      "level": 4,
+      "text": "Micro RNAs (miRNAs) are emerging as potential new biomarkers. Preoperative elevation has been reported in 80-90% of both SGCT and NSGCT with higher levels in metastatic compared to localised disease [59]. A number of studies suggest higher discriminatory accuracy for micro-RNA (miRNAs) (particularly miR-371a-3p) compared to conventional GCT markers in diagnosis, clinical staging, treatment monitoring, and predicting of residual or recurrent viable disease [59-61]. Furthermore, they may differentiate between GCT and other (stromal/non-germ cell originated) tumours [61]. Issues which need to be resolved for use in routine clinical practice include laboratory standardisation, availability of the test and, importantly, prognostic validation [62]. As with both AFP and hCG miRNA is not expressed in teratoma which will limit its use in NSGCT.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-4-inguinal-exploration-and-initial-management",
+      "title": "5.4. Inguinal exploration and initial management",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#5-4-1-orchidectomy",
+      "title": "5.4.1. Orchidectomy",
+      "level": 4,
+      "text": "Orchidectomy including division of the spermatic cord at the internal inguinal ring represents the standard of care for patients with a TGTC. A scrotal approach should be avoided when TC is suspected as it results in a higher local recurrence rate [63].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-4-2-testis-sparing-surgery",
+      "title": "5.4.2. Testis-sparing surgery",
+      "level": 4,
+      "text": "In men with GCTs, orchidectomy represents the standard of care as pathological studies describe multifocal and/or adjacent GCNIS in 20-30% of patients [64]. Testis sparing surgery should be considered in synchronous bilateral tumours or in tumours in solitary testis when the following criteria are met: (1) exclusion of hypogonadism; (2) exclusion of compensated Leydig cell insufficiency (testosterone serum normal, LH serum concentrations elevated); (3) > 50% of testicular parenchyma remains; (4) patient is informed about the risk of local relapse if adjuvant radiation is not performed [65]. Testis-sparing surgery is a valid treatment option in males with interstitial cell or benign testicular tumours and may prevent hypogonadism and infertility in young males. These tumours are often small although larger lesions may be difficult to differentiate from GCT. Accordingly, TSS may be considered in patients with small or indeterminate testicular masses, negative tumour markers and a normal contralateral testis to avoid over-treatment of potentially benign lesions and preserve testicular function [65,66]. Patients should be informed that cancer may be present even in small (i.e. < 1cm) masses [65,67,68]. In both settings, TSS should be offered together with frozen section examination (FSE). Frozen section examination has shown to be reliable and highly concordant with final histopathology in expert hands, with a 99% and 96% of sensitivity and specificity, respectively and 98% and 97% of PPV and NPV, respectively [66]. In cases of discordance between FSE and final pathology delayed orchiectomy may be required. In cases of a history of GCT or indeterminate small testicular lesion, patients should be made aware on the following issues regarding TSS practice: the procedure is oncologically safe with local and systemic relapse rates of < 2% and < 5%, respectively, if patients either undergo adjuvant radiation therapy of the remaining testicular parenchyma with 18-20Gy to treat GCNIS which is always present in the remaining testicular parenchyma of GCT [69,70]. If patients have not fathered a child, they should be educated about regular testicular self-palpation and regular ultrasonography at three to six month intervals. The risk to develop hypogonadism with the need of testosterone supplementation is in the range of about 10% so that serum testosterone levels need to be checked annually [65,71]. Frozen section examination has a reliability of more than 90% in the hands of experienced pathologists [72]. In case of discordance between FSE and final pathology, secondary radical orchiectomy must be performed without putting the patient at risk for an impaired oncological outcome.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-4-3-insertion-of-testicular-prosthesis",
+      "title": "5.4.3. Insertion of testicular prosthesis",
+      "level": 4,
+      "text": "Testicular prosthesis should be offered to all patients receiving unilateral or bilateral orchidectomy [73]. The prosthesis can be inserted at orchidectomy or subsequently without adverse consequences, including infection [74].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-4-4-contralateral-biopsy",
+      "title": "5.4.4. Contralateral biopsy",
+      "level": 4,
+      "text": "Contralateral biopsy has been advocated to exclude GCNIS [75] and routine policy in some countries [76]. It is, however, controversial to recommend routine contralateral biopsy in all patients due to the low incidence of GCNIS and metachronous contralateral testicular tumours (up to 9% and approximately 2.5%, respectively) [77,78], the morbidity of GCNIS treatment and the fact that most metachronous tumours are low stage at presentation [79,80]. Nevertheless, the risks and benefits of biopsy of the contralateral testis should be discussed with TC patients at high risk for contralateral GCNIS, i.e. testicular volume < 12mL, and/or a history of cryptorchidism. Contralateral biopsy is not necessary in patients > 40 years without risk factors [81-83]. Patients should be informed that a subsequent GCT may arise despite a negative biopsy [84]. When indicated, a two-site surgical testicular biopsy is the technical procedure recommended [83].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-4-5-germ-cell-neoplasia-in-situ-gcnis",
+      "title": "5.4.5. Germ cell neoplasia ‘in situ’ (GCNIS)",
+      "level": 4,
+      "text": "If GCNIS is diagnosed and the contralateral testis is normal, options include orchidectomy or close observation, as the five-year risk of developing TC is 50% [85]. In a solitary testis, local radiotherapy (18-20Gy in fractions of 2Gy) should be considered [86-89]. Radiotherapy to a solitary testis will result in infertility and increased long-term risk of Leydig cell insufficiency [86]. Fertile patients who wish to father children may defer radiation therapy and be monitored with regular self-examination and repeat testicular US [83]. Chemotherapy is ineffective to reliably eradicate GCNIS [90,91].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-5-pathological-examination-of-the-testis",
+      "title": "5.5. Pathological examination of the testis",
+      "level": 3,
+      "text": "The recommendations for reporting and handling the pathological examination of a testis neoplasm are based on the recommendations of the International Society of Urological Pathology (ISUP) [92-95]. This is outlined in Appendix 2, ‘Pathological examination of the testis.’",
+      "tables": []
+    },
+    {
+      "anchor": "#5-6-screening",
+      "title": "5.6. Screening",
+      "level": 3,
+      "text": "No high-level evidence studies supporting screening programs exists [96,97]. In contrast, young males should be informed about the importance of testicular self-examination. Testicular self-examination is recommended in high-risk groups which include a history of cryptorchidism, as well as those with a personal or family history of TC [96,98].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-7-summary-of-evidence-and-recommendations-for-the-diagnosis-and-staging-of-testicular-cancer",
+      "title": "5.7. Summary of evidence and recommendations for the diagnosis and staging of testicular cancer",
+      "level": 3,
+      "text": "Summary of evidence LE Poor sperm quality is frequently found in TC patients, before and after treatment. Semen preservation is the most cost-effective strategy for fertility preservation. 2b Serum tumour markers (AFP, hCG and LDH) should be determined before and after orchidectomy and throughout follow-up. They are used for accurate staging, risk stratification, to monitor treatment and to detect relapse. 2b For abdominal staging, CECT has a median sensitivity, specificity, PPV, NPV and accuracy of 67%, 95%, 87%, 73% and 83%, respectively. Sensitivity decreases and specificity increases with increasing lymph node size. 2a For chest staging, CECT has a median sensitivity, specificity, PPV, NPV and accuracy of 100%, 93%, 68%, 100% and 93%, respectively. 2a Magnetic resonance imaging and CECT are key image modalities for the detection of brain metastasis. Magnetic resonance imaging is far more sensitive than CECT, though it does require expertise. 2b Fluorodeoxyglucose Positron Emission Tomography has a limited diagnostic accuracy for staging before chemotherapy. 2b There are no high-level evidence studies supporting screening programs. 2b In testicular sparing surgery, FSE has shown to be reliable and highly concordant with final histopathology. 1b There is no evidence supporting any size criteria for a testicular lesion to be safely followed-up. 2b In patients without risk factors, there is low incidence of contralateral GCNIS and of metachronous GCT. 2b Recommendations Strength rating Discuss sperm banking with all men prior to starting treatment for testicular cancer (TC). Strong Perform bilateral testicular ultrasound (US) in all patients with suspicion of TC. Strong Perform physical examination including supraclavicular, cervical, axillar and inguinal lymph nodes, breast and testicles. Strong Measure serum tumour markers both before and after orchidectomy taking into account half-life kinetics. Strong Perform orchidectomy and pathological examination of the testis to confirm the diagnosis and to define the local extension (pathological tumour category). In a life-threatening situation due to extensive metastasis, commence chemotherapy prior to orchidectomy. Strong Perform contrast enhanced computerised tomography (CECT) scan (chest, abdomen and pelvis) in patients with a diagnosis of TC. In case of iodine allergy or other limiting factors perform abdominal and pelvic magnetic resonance imaging (MRI). Strong Perform MRI of the brain (or brain CECT if not available) in patients with multiple lung metastases, high human Chorionic Gonadotropin values, those in the poor-prognosis International Germ Cell Cancer Collaborative Group risk group or in the presence of neurological symptoms. Strong Do not use positron emission tomography-computed tomography or bone scan for staging. Strong Encourage patients with TC to perform self-examination and to inform first-degree male relatives of the need for self-examination. Weak Testicular prosthesis should be offered to all patients receiving unilateral or bilateral orchidectomy. Strong Discuss testis-sparing surgery with frozen section examination in patients with a high likelihood of having a benign testicular tumour which are suitable for enucleation. Strong Discuss biopsy of the contralateral testis to patients with TC and who are at high-risk for contralateral germ cell neoplasia “ in situ ”. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Poor sperm quality is frequently found in TC patients, before and after treatment. Semen preservation is the most cost-effective strategy for fertility preservation.",
+              "2b"
+            ],
+            [
+              "Serum tumour markers (AFP, hCG and LDH) should be determined before and after orchidectomy and throughout follow-up. They are used for accurate staging, risk stratification, to monitor treatment and to detect relapse.",
+              "2b"
+            ],
+            [
+              "For abdominal staging, CECT has a median sensitivity, specificity, PPV, NPV and accuracy of 67%, 95%, 87%, 73% and 83%, respectively. Sensitivity decreases and specificity increases with increasing lymph node size.",
+              "2a"
+            ],
+            [
+              "For chest staging, CECT has a median sensitivity, specificity, PPV, NPV and accuracy of 100%, 93%, 68%, 100% and 93%, respectively.",
+              "2a"
+            ],
+            [
+              "Magnetic resonance imaging and CECT are key image modalities for the detection of brain metastasis. Magnetic resonance imaging is far more sensitive than CECT, though it does require expertise.",
+              "2b"
+            ],
+            [
+              "Fluorodeoxyglucose Positron Emission Tomography has a limited diagnostic accuracy for staging before chemotherapy.",
+              "2b"
+            ],
+            [
+              "There are no high-level evidence studies supporting screening programs.",
+              "2b"
+            ],
+            [
+              "In testicular sparing surgery, FSE has shown to be reliable and highly concordant with final histopathology.",
+              "1b"
+            ],
+            [
+              "There is no evidence supporting any size criteria for a testicular lesion to be safely followed-up.",
+              "2b"
+            ],
+            [
+              "In patients without risk factors, there is low incidence of contralateral GCNIS and of metachronous GCT.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Discuss sperm banking with all men prior to starting treatment for testicular cancer (TC).",
+              "Strong"
+            ],
+            [
+              "Perform bilateral testicular ultrasound (US) in all patients with suspicion of TC.",
+              "Strong"
+            ],
+            [
+              "Perform physical examination including supraclavicular, cervical, axillar and inguinal lymph nodes, breast and testicles.",
+              "Strong"
+            ],
+            [
+              "Measure serum tumour markers both before and after orchidectomy taking into account half-life kinetics.",
+              "Strong"
+            ],
+            [
+              "Perform orchidectomy and pathological examination of the testis to confirm the diagnosis and to define the local extension (pathological tumour category). In a life-threatening situation due to extensive metastasis, commence chemotherapy prior to orchidectomy.",
+              "Strong"
+            ],
+            [
+              "Perform contrast enhanced computerised tomography (CECT) scan (chest, abdomen and pelvis) in patients with a diagnosis of TC. In case of iodine allergy or other limiting factors perform abdominal and pelvic magnetic resonance imaging (MRI).",
+              "Strong"
+            ],
+            [
+              "Perform MRI of the brain (or brain CECT if not available) in patients with multiple lung metastases, high human Chorionic Gonadotropin values, those in the poor-prognosis International Germ Cell Cancer Collaborative Group risk group or in the presence of neurological symptoms.",
+              "Strong"
+            ],
+            [
+              "Do not use positron emission tomography-computed tomography or bone scan for staging.",
+              "Strong"
+            ],
+            [
+              "Encourage patients with TC to perform self-examination and to inform first-degree male relatives of the need for self-examination.",
+              "Weak"
+            ],
+            [
+              "Testicular prosthesis should be offered to all patients receiving unilateral or bilateral orchidectomy.",
+              "Strong"
+            ],
+            [
+              "Discuss testis-sparing surgery with frozen section examination in patients with a high likelihood of having a benign testicular tumour which are suitable for enucleation.",
+              "Strong"
+            ],
+            [
+              "Discuss biopsy of the contralateral testis to patients with TC and who are at high-risk for contralateral germ cell neoplasia “in situ”.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 2
+}

@@ -1,0 +1,2468 @@
+{
+  "guideline": "urolithiasis",
+  "chapter": "guidelines",
+  "url": "https://uroweb.org/guidelines/urolithiasis/chapter/guidelines",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODOLOGY",
+      "anchor": "#2-methodology"
+    },
+    {
+      "level": 3,
+      "text": "2.1 Methods",
+      "anchor": "#2-1-methods"
+    },
+    {
+      "level": 2,
+      "text": "3. GUIDELINES",
+      "anchor": "#3-guidelines"
+    },
+    {
+      "level": 3,
+      "text": "3.1.3.1 Prevalence, aetiology, risk of recurrence",
+      "anchor": "#3-1-3-1-prevalence-aetiology-risk-of-recurrence"
+    },
+    {
+      "level": 4,
+      "text": "3.1.1. Introduction",
+      "anchor": "#3-1-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "3.1.2. Stone composition",
+      "anchor": "#3-1-2-stone-composition"
+    },
+    {
+      "level": 4,
+      "text": "3.1.3. Risk groups for stone formation",
+      "anchor": "#3-1-3-risk-groups-for-stone-formation"
+    },
+    {
+      "level": 4,
+      "text": "3.1.4. Genetic factors and testing",
+      "anchor": "#3-1-4-genetic-factors-and-testing"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Classification of stones",
+      "anchor": "#3-2-classification-of-stones"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Stone size",
+      "anchor": "#3-2-1-stone-size"
+    },
+    {
+      "level": 4,
+      "text": "3.2.2. Stone location",
+      "anchor": "#3-2-2-stone-location"
+    },
+    {
+      "level": 4,
+      "text": "3.2.3. X-ray characteristics",
+      "anchor": "#3-2-3-x-ray-characteristics"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Diagnostic evaluation",
+      "anchor": "#3-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Diagnostic imaging",
+      "anchor": "#3-3-1-diagnostic-imaging"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Diagnostics: metabolism-related",
+      "anchor": "#3-3-2-diagnostics-metabolism-related"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Diagnosis in special groups and conditions",
+      "anchor": "#3-3-3-diagnosis-in-special-groups-and-conditions"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Disease management",
+      "anchor": "#3-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Renal colic",
+      "anchor": "#3-4-1-renal-colic"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Medical expulsive therapy",
+      "anchor": "#3-4-3-medical-expulsive-therapy"
+    },
+    {
+      "level": 4,
+      "text": "3.4.4. Chemolysis",
+      "anchor": "#3-4-4-chemolysis"
+    },
+    {
+      "level": 4,
+      "text": "3.4.5. Extracorporeal shock wave lithotripsy (SWL)",
+      "anchor": "#3-4-5-extracorporeal-shock-wave-lithotripsy-swl"
+    },
+    {
+      "level": 4,
+      "text": "3.4.6. Ureteroscopy (retrograde and antegrade)",
+      "anchor": "#3-4-6-ureteroscopy-retrograde-and-antegrade"
+    },
+    {
+      "level": 4,
+      "text": "3.4.7. Percutaneous nephrolithotomy",
+      "anchor": "#3-4-7-percutaneous-nephrolithotomy"
+    },
+    {
+      "level": 4,
+      "text": "3.4.8. General recommendations and precautions for stone removal",
+      "anchor": "#3-4-8-general-recommendations-and-precautions-for-stone-removal"
+    },
+    {
+      "level": 4,
+      "text": "3.4.9. Specific stone management of ureteral stones",
+      "anchor": "#3-4-9-specific-stone-management-of-ureteral-stones"
+    },
+    {
+      "level": 4,
+      "text": "3.4.10. Specific stone management of renal stones",
+      "anchor": "#3-4-10-specific-stone-management-of-renal-stones"
+    },
+    {
+      "level": 4,
+      "text": "3.4.11. Laparoscopy and open surgery",
+      "anchor": "#3-4-11-laparoscopy-and-open-surgery"
+    },
+    {
+      "level": 4,
+      "text": "3.4.12. Steinstrasse",
+      "anchor": "#3-4-12-steinstrasse"
+    },
+    {
+      "level": 4,
+      "text": "3.4.13. Management of patients with residual stones",
+      "anchor": "#3-4-13-management-of-patients-with-residual-stones"
+    },
+    {
+      "level": 4,
+      "text": "3.4.14. Management of specific patient groups",
+      "anchor": "#3-4-14-management-of-specific-patient-groups"
+    },
+    {
+      "level": 4,
+      "text": "3.4.15. Management of stones in children",
+      "anchor": "#3-4-15-management-of-stones-in-children"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Radiation exposure and protection during endourology",
+      "anchor": "#3-5-radiation-exposure-and-protection-during-endourology"
+    },
+    {
+      "level": 2,
+      "text": "4. METABOLIC EVALUATION AND RECURRENCE PREVENTION",
+      "anchor": "#4-metabolic-evaluation-and-recurrence-prevention"
+    },
+    {
+      "level": 3,
+      "text": "4.1. General metabolic considerations for patient work-up",
+      "anchor": "#4-1-general-metabolic-considerations-for-patient-work-up"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. Evaluation of patient risk",
+      "anchor": "#4-1-1-evaluation-of-patient-risk"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. Urine sampling",
+      "anchor": "#4-1-2-urine-sampling"
+    },
+    {
+      "level": 4,
+      "text": "4.1.3. Timing of specific metabolic work-up",
+      "anchor": "#4-1-3-timing-of-specific-metabolic-work-up"
+    },
+    {
+      "level": 4,
+      "text": "4.1.4. Reference ranges of laboratory values",
+      "anchor": "#4-1-4-reference-ranges-of-laboratory-values"
+    },
+    {
+      "level": 4,
+      "text": "4.1.5. Risk indices and additional diagnostic tools",
+      "anchor": "#4-1-5-risk-indices-and-additional-diagnostic-tools"
+    },
+    {
+      "level": 3,
+      "text": "4.2. General considerations for recurrence prevention",
+      "anchor": "#4-2-general-considerations-for-recurrence-prevention"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. Fluid intake",
+      "anchor": "#4-2-1-fluid-intake"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. Diet",
+      "anchor": "#4-2-2-diet"
+    },
+    {
+      "level": 4,
+      "text": "4.2.3. Lifestyle",
+      "anchor": "#4-2-3-lifestyle"
+    },
+    {
+      "level": 4,
+      "text": "4.2.4. Summary of evidence and recommendation for recurrence prevention",
+      "anchor": "#4-2-4-summary-of-evidence-and-recommendation-for-recurrence-prevention"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Stone-specific metabolic evaluation and pharmacological recurrence prevention",
+      "anchor": "#4-3-stone-specific-metabolic-evaluation-and-pharmacological-recurrence-prevention"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. Introduction",
+      "anchor": "#4-3-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Calcium oxalate stones",
+      "anchor": "#4-4-calcium-oxalate-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Diagnosis",
+      "anchor": "#4-4-1-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Interpretation of results and aetiology",
+      "anchor": "#4-4-2-interpretation-of-results-and-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "4.4.3. Specific treatment",
+      "anchor": "#4-4-3-specific-treatment"
+    },
+    {
+      "level": 4,
+      "text": "4.4.4. Summary of evidence and recommendations for pharmacological treatments for patients with specific abnormalities in urine composition (based on 24-hour urine samples)",
+      "anchor": "#4-4-4-summary-of-evidence-and-recommendations-for-pharmacological-treatments-for-patients-with-specific-abnormalities-in-urine-composition-based-on-24-hour-urine-samples"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Calcium phosphate stones [649, 679, 687, 700, 701, 705, 724]",
+      "anchor": "#4-5-calcium-phosphate-stones-649-679-687-700-701-705-724"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Diagnosis",
+      "anchor": "#4-5-1-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Interpretation of results and aetiology",
+      "anchor": "#4-5-2-interpretation-of-results-and-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Pharmacological therapy [649,679,687,700,701,705,724]",
+      "anchor": "#4-5-3-pharmacological-therapy-649679687700701705724"
+    },
+    {
+      "level": 4,
+      "text": "4.5.4. Summary of evidence and recommendation for the management of calcium phosphate stones",
+      "anchor": "#4-5-4-summary-of-evidence-and-recommendation-for-the-management-of-calcium-phosphate-stones"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Disorders and diseases related to calcium stones",
+      "anchor": "#4-6-disorders-and-diseases-related-to-calcium-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.6.1. Hyperparathyroidism [725-730]",
+      "anchor": "#4-6-1-hyperparathyroidism-725-730"
+    },
+    {
+      "level": 4,
+      "text": "4.6.2. Granulomatous Diseases [732]",
+      "anchor": "#4-6-2-granulomatous-diseases-732"
+    },
+    {
+      "level": 4,
+      "text": "4.6.3. Primary Hyperoxaluria [692]",
+      "anchor": "#4-6-3-primary-hyperoxaluria-692"
+    },
+    {
+      "level": 4,
+      "text": "4.6.4. Enteric hyperoxaluria [667,672,736-738]",
+      "anchor": "#4-6-4-enteric-hyperoxaluria-667672736-738"
+    },
+    {
+      "level": 4,
+      "text": "4.6.5. Renal tubular acidosis [649,687,739,740]",
+      "anchor": "#4-6-5-renal-tubular-acidosis-649687739740"
+    },
+    {
+      "level": 4,
+      "text": "4.6.6. Nephrocalcinosis [742]",
+      "anchor": "#4-6-6-nephrocalcinosis-742"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Uric acid and ammonium urate stones",
+      "anchor": "#4-7-uric-acid-and-ammonium-urate-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.7.1. Diagnosis",
+      "anchor": "#4-7-1-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.7.2. Interpretation of results",
+      "anchor": "#4-7-2-interpretation-of-results"
+    },
+    {
+      "level": 4,
+      "text": "4.7.3. Specific treatment",
+      "anchor": "#4-7-3-specific-treatment"
+    },
+    {
+      "level": 4,
+      "text": "4.7.4. Summary of evidence and recommendations for the management of uric acid and ammonium urate stones",
+      "anchor": "#4-7-4-summary-of-evidence-and-recommendations-for-the-management-of-uric-acid-and-ammonium-urate-stones"
+    },
+    {
+      "level": 3,
+      "text": "4.8. Struvite and infection stones",
+      "anchor": "#4-8-struvite-and-infection-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.8.1. Diagnosis",
+      "anchor": "#4-8-1-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.8.2. Interpretation",
+      "anchor": "#4-8-2-interpretation"
+    },
+    {
+      "level": 4,
+      "text": "4.8.3. Specific treatment",
+      "anchor": "#4-8-3-specific-treatment"
+    },
+    {
+      "level": 3,
+      "text": "4.9. Cystine stones",
+      "anchor": "#4-9-cystine-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.9.1. Diagnosis",
+      "anchor": "#4-9-1-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.9.2. Specific treatment",
+      "anchor": "#4-9-2-specific-treatment"
+    },
+    {
+      "level": 4,
+      "text": "4.9.3. Summary of evidence and recommendations for the management of cystine stones",
+      "anchor": "#4-9-3-summary-of-evidence-and-recommendations-for-the-management-of-cystine-stones"
+    },
+    {
+      "level": 3,
+      "text": "4.10.2,8-Dihydroxyadenine stones and xanthine stones",
+      "anchor": "#4-10-28-dihydroxyadenine-stones-and-xanthine-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.10.1.2,8-Dihydroxyadenine stones",
+      "anchor": "#4-10-1-28-dihydroxyadenine-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.10.2. Xanthine stones",
+      "anchor": "#4-10-2-xanthine-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.10.3. Fluid intake and diet",
+      "anchor": "#4-10-3-fluid-intake-and-diet"
+    },
+    {
+      "level": 3,
+      "text": "4.11. Drug-induced stones",
+      "anchor": "#4-11-drug-induced-stones"
+    },
+    {
+      "level": 3,
+      "text": "4.12. Matrix stones",
+      "anchor": "#4-12-matrix-stones"
+    },
+    {
+      "level": 3,
+      "text": "4.13. Unknown stone composition [16]",
+      "anchor": "#4-13-unknown-stone-composition-16"
+    },
+    {
+      "level": 4,
+      "text": "4.13.1. Recommendations for investigations for the assessment of patients with stones of unknown composition [17,23,76,679]",
+      "anchor": "#4-13-1-recommendations-for-investigations-for-the-assessment-of-patients-with-stones-of-unknown-composition-172376679"
+    },
+    {
+      "level": 2,
+      "text": "5. FOLLOW UP OF URINARY STONES",
+      "anchor": "#5-follow-up-of-urinary-stones"
+    },
+    {
+      "level": 2,
+      "text": "6. BLADDER STONES",
+      "anchor": "#6-bladder-stones"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Prevalence, aetiology and risk factors of bladder stones",
+      "anchor": "#6-1-prevalence-aetiology-and-risk-factors-of-bladder-stones"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Presentation",
+      "anchor": "#6-2-presentation"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Diagnostic evaluation",
+      "anchor": "#6-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. Diagnostic investigations for bladder stones",
+      "anchor": "#6-3-1-diagnostic-investigations-for-bladder-stones"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Diagnosing the cause of bladder stones",
+      "anchor": "#6-3-2-diagnosing-the-cause-of-bladder-stones"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Disease management",
+      "anchor": "#6-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Conservative treatment and indications for active stone removal",
+      "anchor": "#6-4-1-conservative-treatment-and-indications-for-active-stone-removal"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Medical management of bladder stones",
+      "anchor": "#6-4-2-medical-management-of-bladder-stones"
+    },
+    {
+      "level": 4,
+      "text": "6.4.3. Bladder stone interventions",
+      "anchor": "#6-4-3-bladder-stone-interventions"
+    },
+    {
+      "level": 4,
+      "text": "6.4.4. Treatment for bladder stones secondary to bladder outlet obstruction in adult men",
+      "anchor": "#6-4-4-treatment-for-bladder-stones-secondary-to-bladder-outlet-obstruction-in-adult-men"
+    },
+    {
+      "level": 4,
+      "text": "6.4.5. Special situations",
+      "anchor": "#6-4-5-special-situations"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Bladder stones follow-up",
+      "anchor": "#6-5-bladder-stones-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Summary of evidence and recommendations for the treatment of bladder stones",
+      "anchor": "#6-6-summary-of-evidence-and-recommendations-for-the-treatment-of-bladder-stones"
+    },
+    {
+      "level": 2,
+      "text": "7. REFERENCES",
+      "anchor": "#7-references"
+    },
+    {
+      "level": 2,
+      "text": "8. CONFLICT OF INTEREST",
+      "anchor": "#8-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "9. CITATION INFORMATION",
+      "anchor": "#9-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "10. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#10-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#urolithiasis",
+      "title": "Urolithiasis",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 3. Guidelines Introduction Methodology Guidelines Metabolic Evaluation And Recurrence Prevention Follow Up Of Urinary Stones Bladder Stones References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#3-guidelines",
+      "title": "3. GUIDELINES",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-1-3-1-prevalence-aetiology-risk-of-recurrence",
+      "title": "3.1.3.1 Prevalence, aetiology, risk of recurrence",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-1-1-introduction",
+      "title": "3.1.1. Introduction",
+      "level": 4,
+      "text": "Stone disease incidence depends on geographical, climatic, ethnic, dietary and genetic factors. The recurrence risk is basically determined by the disease or disorder causing the stone formation. Accordingly, the prevalence rates for urinary stones vary from 1% to 13% [5]. In developed countries such as Sweden, Canada or the USA, renal stone prevalence is notably high (> 10%). For some areas, an increase of more than 37% over the last 20 years has been reported [6-8]. There is emerging evidence linking nephrolithiasis to the risk of CKD [9]. Stones can be stratified into those caused by infections, non-infectious causes, genetic defects [10,11], or adverse drug effects (drug stones) (Table 3.1). See also Section 3.2. Table 3.1: Stones classified by aetiology Stones classified by aetiology Non-infection stones     Calcium oxalate Calcium phosphate Uric acid Ammonium urate* Infection stones     Magnesium ammonium phosphate Highly carbonated apatite Ammonium urate Genetic causes     Cystine Xanthine 2,8-Dihydroxyadenine Drug stones     *In children in developing countries; in patients with anorexia or laxative abuse.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Stones classified by aetiology"
+            ],
+            [
+              "Non-infection stones",
+              " ",
+              " "
+            ],
+            [
+              "Calcium oxalate",
+              "Calcium phosphate",
+              "Uric acidAmmonium urate*"
+            ],
+            [
+              "Infection stones",
+              " ",
+              " "
+            ],
+            [
+              "Magnesium ammonium phosphate",
+              "Highly carbonated apatite",
+              "Ammonium urate"
+            ],
+            [
+              "Genetic causes",
+              " ",
+              " "
+            ],
+            [
+              "Cystine",
+              "Xanthine",
+              "2,8-Dihydroxyadenine"
+            ],
+            [
+              "Drug stones",
+              " ",
+              " "
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-1-2-stone-composition",
+      "title": "3.1.2. Stone composition",
+      "level": 4,
+      "text": "Stone composition is the basis for further diagnostic and management decisions. Stones are often formed from a mixture of substances [12]. Table 3.2 lists the most clinically relevant substances and their mineral components. Table 3.2: Stone composition Chemical name Mineral name [13] Chemical formula Calcium oxalate monohydrate Whewellite CaC 2 O 4 .H 2 O Calcium oxalate dihydrate Weddelite CaC 2 O 4 .2H 2 O Basic calcium phosphate Non-stoichiometric hydroxyapatite Ca x (PO 4 ) y (OH) z Calcium hydroxyl phosphate Hydroxyapatite Ca 5 (PO 4 )3(OH) β-tricalcium phosphate Whitlockite Ca 9 Mg(HPO 4 )(PO 4 ) 6 Carbonate apatite phosphate Dahllite Ca 10 (PO 4 ) 6 (CO 3 )(OH) 2 Calcium hydrogen phosphate dihydrate Brushite CaHPO 4 .2H 2 O Calcium carbonate Aragonite CaCO 3 Calcite Octacalcium phosphate Octacalcium phosphate Ca 8 H 2 (PO 4 ) 6 .5H 2 O Uric acid Uricite C 5 H 4 N 4 O 3 Uric acid dihydrate Tinnunculite C 5 H 4 N 4 O 3 C 5 H 4 N 4 O 3 .2H 2 0 Ammonium urate - NH 4 C 5 H 3 N 4 O 3 Sodium acid urate monohydrate - NaC 5 H 3 N 4 O 3 .H 2 O Magnesium ammonium phosphate hexahydrate Struvite MgNH 4 PO 4 .6H 2 O Magnesium acid phosphate trihydrate Newberyite MgHPO 4 .3H 2 O Magnesium ammonium phosphate monohydrate Dittmarite MgHPO 4 .H 2 O Cystine - C₆H₁₂N₂O₄S₂ Xanthine - C₅H₄N₄O₂ 2,8-Dihydroxyadenine - C₅H₄N₄O₂ Proteins - - Cholesterol - - Calcite - - Potassium urate - KC₅H₃N₄O₃ Trimagnesium phosphate - Mg₃(PO₄)₂ Melamine - C₃H₆N₆ Matrix - - Drug stones Active compounds crystallising in urine - Foreign body calculi - -",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Chemical name",
+              "Mineral name [13]",
+              "Chemical formula"
+            ],
+            [
+              "Calcium oxalate monohydrate",
+              "Whewellite",
+              "CaC2O4.H2O"
+            ],
+            [
+              "Calcium oxalate dihydrate",
+              "Weddelite",
+              "CaC2O4.2H2O"
+            ],
+            [
+              "Basic calcium phosphate",
+              "Non-stoichiometric hydroxyapatite",
+              "Cax(PO4)y(OH)z"
+            ],
+            [
+              "Calcium hydroxyl phosphate",
+              "Hydroxyapatite",
+              "Ca5(PO4)3(OH)"
+            ],
+            [
+              "β-tricalcium phosphate",
+              "Whitlockite",
+              "Ca9Mg(HPO4)(PO4)6"
+            ],
+            [
+              "Carbonate apatite phosphate",
+              "Dahllite",
+              "Ca10(PO4)6(CO3)(OH)2"
+            ],
+            [
+              "Calcium hydrogen phosphate dihydrate",
+              "Brushite",
+              "CaHPO4.2H2O"
+            ],
+            [
+              "Calcium carbonate",
+              "Aragonite",
+              "CaCO3"
+            ],
+            [
+              "Calcite"
+            ],
+            [
+              "Octacalcium phosphate",
+              "Octacalcium phosphate",
+              "Ca8H2(PO4)6.5H2O"
+            ],
+            [
+              "Uric acid",
+              "Uricite",
+              "C5H4N4O3"
+            ],
+            [
+              "Uric acid dihydrate",
+              "Tinnunculite",
+              "C5H4N4O3C5H4N4O3.2H20"
+            ],
+            [
+              "Ammonium urate",
+              "-",
+              "NH4C5H3N4O3"
+            ],
+            [
+              "Sodium acid urate monohydrate",
+              "-",
+              "NaC5H3N4O3.H2O"
+            ],
+            [
+              "Magnesium ammonium phosphate hexahydrate",
+              "Struvite",
+              "MgNH4PO4.6H2O"
+            ],
+            [
+              "Magnesium acid phosphate trihydrate",
+              "Newberyite",
+              "MgHPO4.3H2O"
+            ],
+            [
+              "Magnesium ammonium phosphate monohydrate",
+              "Dittmarite",
+              "MgHPO4.H2O"
+            ],
+            [
+              "Cystine",
+              "-",
+              "C₆H₁₂N₂O₄S₂"
+            ],
+            [
+              "Xanthine",
+              "-",
+              "C₅H₄N₄O₂"
+            ],
+            [
+              "2,8-Dihydroxyadenine",
+              "-",
+              "C₅H₄N₄O₂"
+            ],
+            [
+              "Proteins",
+              "-",
+              "-"
+            ],
+            [
+              "Cholesterol",
+              "-",
+              "-"
+            ],
+            [
+              "Calcite",
+              "-",
+              "-"
+            ],
+            [
+              "Potassium urate",
+              "-",
+              "KC₅H₃N₄O₃"
+            ],
+            [
+              "Trimagnesium phosphate",
+              "-",
+              "Mg₃(PO₄)₂"
+            ],
+            [
+              "Melamine",
+              "-",
+              "C₃H₆N₆"
+            ],
+            [
+              "Matrix",
+              "-",
+              "-"
+            ],
+            [
+              "Drug stones",
+              "Active compounds crystallising in urine",
+              "-"
+            ],
+            [
+              "Foreign body calculi",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-1-3-risk-groups-for-stone-formation",
+      "title": "3.1.3. Risk groups for stone formation",
+      "level": 4,
+      "text": "Determination of the risk for stone formation is imperative for pharmacological treatment. Previous stone history (recurrence, regrowth, stone surgeries) is a fundamental element in determining risk for stone formation. About 50% of recurrent stone formers have just one-lifetime recurrence [8,14]. A review of first-time stone formers calculated a recurrence rate of 26% in five years’ time [15]. Highly recurrent disease is observed in slightly more than 10% of patients. Stone type and disease severity determine low- or high-risk stone formers (Table 3.3) [16-32]. However, the risk status of stone formers should be determined in a holistic way, taking into consideration not only the probability of stone recurrence or regrowth, but also the risk of chronic kidney disease (CKD), end-stage kidney disease (ESKD), and metabolic bone disorder (MBD) [33-35]. A comprehensive evaluation of stone risk in patients should also include the risk of developing CKD, ESKD, and MBD (Tables 3.4, 3.5, and 3.6) [33]. Although kidney stones are unlikely to be an independent, direct cause of CKD [36], urolithiasis can compromise renal function because of the renal stone (obstruction, infection), renal tissue damage due to the primary condition causing stone formation (some genetic diseases, nephrocalcinosis, enteric hyperoxaluria, etc.), or urological treatments for the condition [33]. Certain risk factors have been shown to be associated with such a risk in stone formers, as shown in Table 3.3. Table 3.3: High-risk stone formers High-risk stone formers General factors Early onset of urolithiasis (especially children and teenagers) Familial stone formation Recurrent stone formers Short time since last stone episode Brushite-containing stones (CaHPO 4 .2H 2 O) Uric acid and urate-containing stones Infection stones Solitary kidney (the kidney itself does not particularly increase the risk of stone formation, but prevention of stone recurrence is of crucial importance to avoid acute renal failure) Chronic Kidney Disease (CKD) Diseases associated with stone formation Hyperparathyroidism Metabolic syndrome Mineral Bone Disorder (MBD) Nephrocalcinosis Polycystic kidney disease (PKD) Gastrointestinal diseases (i.e. enteric hyperoxaluria due to jejuno-ileal bypass, intestinal resection, Crohn’s disease, malabsorptive conditions, urinary diversion, exocrine pancreatic insufficiency, and bariatric surgery). Increased levels of vitamin D Sarcoidosis Spinal cord injury, neurogenic bladder Genetically determined stone formation Cystinuria (type A, B and AB) Primary hyperoxaluria (PH) Renal tubular acidosis (RTA) type I 2,8-Dihydroxyadeninuria Xanthinuria Lesch-Nyhan syndrome Cystic fibrosis Drug-induced stone formation (see Table 4.11) Anatomical abnormalities associated with stone formation Medullary sponge kidney (tubular ectasia) Ureteropelvic junction (UPJ) obstruction Calyceal diverticulum, calyceal cyst Ureteral stricture Vesico-uretero-renal reflux Horseshoe kidney Ureterocele Environmental and professional factors High ambient temperatures Chronic lead and cadmium exposure Table 3.4: Risk factors for chronic kidney disease (CKD) and end-stage kidney disease (ESKD) in stone formers Risk factors for CKD/ESKD in stone formers High ambient temperatures Chronic lead and cadmium exposure Female gender Increased BMI Frequent UTI Struvite stones Acquired single kidney Neurogenic bladder Previous obstructive nephropathy Ileal conduit Furthermore, some specific kinds of urolithiasis also carry a particular risk of developing CKD/ESKD, as shown in Table 3.5. below. Table 3.5: Risk factors for CKD and renal stones Risk of chronic kidney disease and renal stones Possible risk of CKD Xanthine stones Indinavir stones Distal renal tubular acidosis (incomplete) Primary hyperparathyroidism Eating disorders and laxative abuse Medullary sponge kidney Moderate risk of CKD Brushite stones 2,8-Dihydroxyadenine stones Sarcoidosis Pyelo-ureteral or ureteral strictures High risk of CKD Cystine stones Struvite stones Stones in a single kidney Distal renal tubular acidosis (complete) Secondary hyperoxaluria (bariatric surgery, inflammatory bowel disease, bowel resection and malabsorptive syndromes) Other forms of nephrocalcinosis (often associated with genetic conditions with hypercalciuria) Anatomical abnormalities of the kidney and urinary tract (for example, horseshoe kidney, ureterocele and vesicoureteral reflux) Neurogenic bladder Very high risk of CKD Primary hyperoxaluria Autosomal dominant polycystic kidney Table 3.6: Risk factors for metabolic bone disease and calcium renal stones Risk of metabolic bone disease and calcium renal stones Distal renal tubular acidosis (complete or incomplete) Medullary sponge kidney Primary hyperparathyroidism Malabsorptive syndromes Fasting hypercalciuria Genetic disorders",
+      "tables": [
+        {
+          "rows": [
+            [
+              "High-risk stone formers"
+            ],
+            [
+              "General factors"
+            ],
+            [
+              "Early onset of urolithiasis (especially children and teenagers)"
+            ],
+            [
+              "Familial stone formation"
+            ],
+            [
+              "Recurrent stone formers"
+            ],
+            [
+              "Short time since last stone episode"
+            ],
+            [
+              "Brushite-containing stones (CaHPO4.2H2O)"
+            ],
+            [
+              "Uric acid and urate-containing stones"
+            ],
+            [
+              "Infection stones"
+            ],
+            [
+              "Solitary kidney (the kidney itself does not particularly increase the risk of stone formation, but prevention of stone recurrence is of crucial importance to avoid acute renal failure)"
+            ],
+            [
+              "Chronic Kidney Disease (CKD)"
+            ],
+            [
+              "Diseases associated with stone formation"
+            ],
+            [
+              "Hyperparathyroidism"
+            ],
+            [
+              "Metabolic syndrome"
+            ],
+            [
+              "Mineral Bone Disorder (MBD)"
+            ],
+            [
+              "Nephrocalcinosis"
+            ],
+            [
+              "Polycystic kidney disease (PKD)"
+            ],
+            [
+              "Gastrointestinal diseases (i.e. enteric hyperoxaluria due to jejuno-ileal bypass, intestinal resection, Crohn’s disease, malabsorptive conditions, urinary diversion, exocrine pancreatic insufficiency, and bariatric surgery)."
+            ],
+            [
+              "Increased levels of vitamin D"
+            ],
+            [
+              "Sarcoidosis"
+            ],
+            [
+              "Spinal cord injury, neurogenic bladder"
+            ],
+            [
+              "Genetically determined stone formation"
+            ],
+            [
+              "Cystinuria (type A, B and AB)"
+            ],
+            [
+              "Primary hyperoxaluria (PH)"
+            ],
+            [
+              "Renal tubular acidosis (RTA) type I"
+            ],
+            [
+              "2,8-Dihydroxyadeninuria"
+            ],
+            [
+              "Xanthinuria"
+            ],
+            [
+              "Lesch-Nyhan syndrome"
+            ],
+            [
+              "Cystic fibrosis"
+            ],
+            [
+              "Drug-induced stone formation (see Table 4.11)"
+            ],
+            [
+              "Anatomical abnormalities associated with stone formation"
+            ],
+            [
+              "Medullary sponge kidney (tubular ectasia)"
+            ],
+            [
+              "Ureteropelvic junction (UPJ) obstruction"
+            ],
+            [
+              "Calyceal diverticulum, calyceal cyst"
+            ],
+            [
+              "Ureteral stricture"
+            ],
+            [
+              "Vesico-uretero-renal reflux"
+            ],
+            [
+              "Horseshoe kidney"
+            ],
+            [
+              "Ureterocele"
+            ],
+            [
+              "Environmental and professional factors"
+            ],
+            [
+              "High ambient temperatures"
+            ],
+            [
+              "Chronic lead and cadmium exposure"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Risk factors for CKD/ESKD in stone formers"
+            ],
+            [
+              "High ambient temperatures"
+            ],
+            [
+              "Chronic lead and cadmium exposure"
+            ],
+            [
+              "Female gender"
+            ],
+            [
+              "Increased BMI"
+            ],
+            [
+              "Frequent UTI"
+            ],
+            [
+              "Struvite stones"
+            ],
+            [
+              "Acquired single kidney"
+            ],
+            [
+              "Neurogenic bladder"
+            ],
+            [
+              "Previous obstructive nephropathy"
+            ],
+            [
+              "Ileal conduit"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Risk of chronic kidney disease and renal stones"
+            ],
+            [
+              "Possible risk of CKD"
+            ],
+            [
+              "Xanthine stones"
+            ],
+            [
+              "Indinavir stones"
+            ],
+            [
+              "Distal renal tubular acidosis (incomplete)"
+            ],
+            [
+              "Primary hyperparathyroidism"
+            ],
+            [
+              "Eating disorders and laxative abuse"
+            ],
+            [
+              "Medullary sponge kidney"
+            ],
+            [
+              "Moderate risk of CKD"
+            ],
+            [
+              "Brushite stones"
+            ],
+            [
+              "2,8-Dihydroxyadenine stones"
+            ],
+            [
+              "Sarcoidosis"
+            ],
+            [
+              "Pyelo-ureteral or ureteral strictures"
+            ],
+            [
+              "High risk of CKD"
+            ],
+            [
+              "Cystine stones"
+            ],
+            [
+              "Struvite stones"
+            ],
+            [
+              "Stones in a single kidney"
+            ],
+            [
+              "Distal renal tubular acidosis (complete)"
+            ],
+            [
+              "Secondary hyperoxaluria (bariatric surgery, inflammatory bowel disease, bowel resection and malabsorptive syndromes)"
+            ],
+            [
+              "Other forms of nephrocalcinosis (often associated with genetic conditions with hypercalciuria)"
+            ],
+            [
+              "Anatomical abnormalities of the kidney and urinary tract (for example, horseshoe kidney, ureterocele and vesicoureteral reflux)"
+            ],
+            [
+              "Neurogenic bladder"
+            ],
+            [
+              "Very high risk of CKD"
+            ],
+            [
+              "Primary hyperoxaluria"
+            ],
+            [
+              "Autosomal dominant polycystic kidney"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Risk of metabolic bone disease and calcium renal stones"
+            ],
+            [
+              "Distal renal tubular acidosis (complete or incomplete)"
+            ],
+            [
+              "Medullary sponge kidney"
+            ],
+            [
+              "Primary hyperparathyroidism"
+            ],
+            [
+              "Malabsorptive syndromes"
+            ],
+            [
+              "Fasting hypercalciuria"
+            ],
+            [
+              "Genetic disorders"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-1-4-genetic-factors-and-testing",
+      "title": "3.1.4. Genetic factors and testing",
+      "level": 4,
+      "text": "There are important genetic factors underlying kidney stone disease (KSD). Indeed, KSD has an estimated heritability of ±45% [39], suggesting that genetic factors strongly influence this disease [40]. Monogenic forms of stones remain rare and are seen in 12–21% [41-43] of children/young adults and 1–11% [43,44] of adults with KSD, but may enable specific patient management [43]. These figures should be taken in context, as there is substantial heterogeneity in how diagnostic variants are defined. Also, most reported studies examined selected KSD populations where a genetic diagnosis is suspected. It is important to note that only one study has examined the differences in 24-hour urine findings between those with monogenic KSD and those without a genetic diagnosis of KSD [43]. There was no difference in 24-hour urine findings, except for urine cystine, which was significantly higher in the monogenic KSD group. Genetic testing (in the form of a Next Generation Sequencing gene panel – see Table 3.7) should be considered in children, adults ≤ 25 years and adults > 25 years if there is clinical suspicion of an inherited or metabolic disorder underlying the KSD. Features including recurrent (≥ 2 discrete episodes), bilateral disease or a strong family history [44,45] should prompt genetic testing. Positive genetic links between kidney stone disease and gastrointestinal diseases may implicate potential biological mechanisms in the pathogenesis of stone disease [46]. Genetic testing should be performed in combination with other metabolic testing (blood and 24-hour urine tests as detailed in Tables 4.1 and 4.2), and the patient should always have pre-genetic test counselling. Should a genetic diagnosis be made then family members should be offered screening. A nephrological consultation may also be needed. Table 3.7: Table of known pathogenic genes (adapted from Geraghty et al. 2024) [44] Gene Associated Conditions Recommended Treatment SLC7A9 SLC3A1 Cystinuria, cystine stones, calcium containing stones Urinary alkalinisation; thiol-binding drugs; aggressive urinary dilution SLC7A9 SLC3A1 Cystinuria, cystine stones, calcium containing stones Urinary alkalinisation; thiol-binding drugs; aggressive urinary dilution CYP24A1 Idiopathic infantile hypercalcaemia, calcium containing stones Avoidance of excess vitamin D; Inhibition of vitamin D synthesis e.g. Fluconazole AGXT GRHPR HOGA1 Primary hyperoxaluria, calcium oxalate stones Pyridoxine or lumasiran for AGXT mutations. Potassium citrate, aggressive urine dilution, limit oxalate intake CLDN16 CLDN19 Familial hypomagnesaemia, calcium containing stones Magnesium replacement; caution with vitamin D replacement; assess for ocular phenotypes with CLDN19 variants CASR Autosomal dominant hypocalcaemia, calcium containing stones Avoid overzealous correction of hypocalcaemia SLC34A3 SLC34A1 PHEX Hypophosphataemic rickets, calcium containing stones Screen for osteomalacia; phosphate replacement without vitamin D CLCN5 OCRL Dent disease, calcium containing stones Screen for osteomalacia, vitamin D, phosphate and bicarbonate replacement if needed; thiazide diuretics SLC22A12 SLC2A9 Renal uric acid wasting, uric acid stones Urinary alkalinisation; allopurinol or febuxostat BSND CASR CLCN5 CLCNKB KCNJ1 SLC12A1 Bartter syndrome, calcium containing stones electrolyte replacement as required, NSAIDs, aldosterone antagonists, HNF4A Fanconi syndrome, nephrocalcinosis Refer to nephrology XDH MOCOS Xanthinuria, xanthine stones Low purine diet ATPV0A4 ATP6V1B1 CA2 SLC4A1 WDR72 Renal tubular acidosis, calcium containing stones Sodium bicarbonate or alkaline citrate; hearing screen; assessment for osteomalacia/osteopetrosis APRT Adenine phosphoribosyl transferase deficiency, 2,8-dihydroxyadenine stones Allopurinol or febuxostat",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Gene",
+              "Associated Conditions",
+              "Recommended Treatment"
+            ],
+            [
+              "SLC7A9 SLC3A1",
+              "Cystinuria, cystine stones, calcium containing stones",
+              "Urinary alkalinisation; thiol-binding drugs; aggressive urinary dilution"
+            ],
+            [
+              "SLC7A9 SLC3A1",
+              "Cystinuria, cystine stones, calcium containing stones",
+              "Urinary alkalinisation; thiol-binding drugs; aggressive urinary dilution"
+            ],
+            [
+              "CYP24A1",
+              "Idiopathic infantile hypercalcaemia, calcium containing stones",
+              "Avoidance of excess vitamin D; Inhibition of vitamin D synthesis e.g. Fluconazole"
+            ],
+            [
+              "AGXT GRHPR HOGA1",
+              "Primary hyperoxaluria, calcium oxalate stones",
+              "Pyridoxine or lumasiran for AGXT mutations. Potassium citrate, aggressive urine dilution, limit oxalate intake"
+            ],
+            [
+              "CLDN16 CLDN19",
+              "Familial hypomagnesaemia, calcium containing stones",
+              "Magnesium replacement; caution with vitamin D replacement; assess for ocular phenotypes with CLDN19 variants"
+            ],
+            [
+              "CASR",
+              "Autosomal dominant hypocalcaemia, calcium containing stones",
+              "Avoid overzealous correction of hypocalcaemia"
+            ],
+            [
+              "SLC34A3 SLC34A1 PHEX",
+              "Hypophosphataemic rickets, calcium containing stones",
+              "Screen for osteomalacia; phosphate replacement without vitamin D"
+            ],
+            [
+              "CLCN5 OCRL",
+              "Dent disease, calcium containing stones",
+              "Screen for osteomalacia, vitamin D, phosphate and bicarbonate replacement if needed; thiazide diuretics"
+            ],
+            [
+              "SLC22A12 SLC2A9",
+              "Renal uric acid wasting, uric acid stones",
+              "Urinary alkalinisation; allopurinol or febuxostat"
+            ],
+            [
+              "BSND CASR CLCN5 CLCNKB KCNJ1 SLC12A1",
+              "Bartter syndrome, calcium containing stones",
+              "electrolyte replacement as required, NSAIDs, aldosterone antagonists,"
+            ],
+            [
+              "HNF4A",
+              "Fanconi syndrome, nephrocalcinosis",
+              "Refer to nephrology"
+            ],
+            [
+              "XDH MOCOS",
+              "Xanthinuria, xanthine stones",
+              "Low purine diet"
+            ],
+            [
+              "ATPV0A4 ATP6V1B1 CA2 SLC4A1 WDR72",
+              "Renal tubular acidosis, calcium containing stones",
+              "Sodium bicarbonate or alkaline citrate; hearing screen; assessment for osteomalacia/osteopetrosis"
+            ],
+            [
+              "APRT",
+              "Adenine phosphoribosyl transferase deficiency, 2,8-dihydroxyadenine stones",
+              "Allopurinol or febuxostat"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-2-classification-of-stones",
+      "title": "3.2. Classification of stones",
+      "level": 3,
+      "text": "Urinary stones can be classified according to size, location, X-ray characteristics, aetiology of formation, composition, and risk of recurrence [2,8].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-2-1-stone-size",
+      "title": "3.2.1. Stone size",
+      "level": 4,
+      "text": "Stone size can be reported in a single, two or three dimensions. Currently, the guidelines still use the linear measurement of cumulative stone diameter to stratify stones in < 5mm, 5–10mm, 10–20mm, and > 20mm for use in the treatment algorithm. A systematic review (SR) and meta-analysis (MA) by the guidelines panel has demonstrated that volume is a better predictor of stone free status after stone surgery, several practical limitations such as accurate measurement, standardised reporting and the lack of cut-off values guiding treatment, currently prevent its clinical adoption [47].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-2-2-stone-location",
+      "title": "3.2.2. Stone location",
+      "level": 4,
+      "text": "Stones can be classified according to anatomical position: upper, middle, or lower calyx; renal pelvis; upper, middle, or distal ureter; and urinary bladder.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-2-3-x-ray-characteristics",
+      "title": "3.2.3. X-ray characteristics",
+      "level": 4,
+      "text": "Stones can be classified according to plain X-ray appearance [kidney-ureter-bladder (KUB) radiography] (Table 3.8), which varies according to mineral composition [48]. Non-contrast-enhanced computed tomography (NCCT) can be used to classify stones according to density, inner structure, and composition, which can affect treatment decisions (Section 3.3) [49,50]. Table 3.8: X-ray characteristics Radiopaque Poor radiopacity Radiolucent Calcium oxalate dihydrate Magnesium ammonium phosphate Uric acid Calcium oxalate monohydrate Cystine Ammonium urate Calcium phosphate Xanthine 2,8-Dihydroxyadenine Drug stones (Section 4.11)",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Radiopaque",
+              "Poor radiopacity",
+              "Radiolucent"
+            ],
+            [
+              "Calcium oxalate dihydrate",
+              "Magnesium ammonium phosphate",
+              "Uric acid"
+            ],
+            [
+              "Calcium oxalate monohydrate",
+              "Cystine",
+              "Ammonium urate"
+            ],
+            [
+              "Calcium phosphate",
+              "Xanthine"
+            ],
+            [
+              "2,8-Dihydroxyadenine"
+            ],
+            [
+              "Drug stones (Section 4.11)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-3-diagnostic-evaluation",
+      "title": "3.3. Diagnostic evaluation",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-1-diagnostic-imaging",
+      "title": "3.3.1. Diagnostic imaging",
+      "level": 4,
+      "text": "The most appropriate imaging modality will be determined by the clinical scenario, which will differ depending on whether a ureteral or a renal stone is suspected. Standard evaluation includes a detailed medical history and physical examination. Patients with ureteral stones usually present with loin pain, vomiting and sometimes pyrexia, but may also be asymptomatic [51]. Immediate evaluation is indicated in patients with a solitary kidney, pyrexia or when there is doubt regarding a diagnosis of renal colic. Ultrasound (US) should be used as the primary diagnostic imaging tool, although pain relief, or any other emergency measures, should not be delayed by imaging assessments. Ultrasound is safe (no risk of radiation), reproducible and inexpensive. It can identify stones located in the calyces, pelvis, and ureteropelvic junction (UPJ) and vesicoureteral junctions (US with filled bladder), as well as in patients with upper urinary tract (UUT) dilatation. Ultrasound has a sensitivity of 45% and specificity of 94% for ureteral stones and a sensitivity of 45% and specificity of 88% for renal stones [52,53]. The sensitivity and specificity of KUB is 44–77% [54]. Kidney-ureter-bladder radiography [55] is helpful in differentiating between radiolucent and radiopaque stones and could be used for comparison during follow-up. 3.3.1.a. Evaluation of patients with acute flank pain/suspected ureteral stones Non-contrast-enhanced computed tomography (NCCT) has become the standard for diagnosing acute flank pain and has replaced intravenous urography (IVU). Non-contrast-enhanced computed tomography (NCCT) can determine stone location, burden and density. When stones are absent, the cause of abdominal pain should be identified. In evaluating patients with suspected acute urolithiasis, NCCT is significantly more accurate than IVU or US [56]. Non-contrast-enhanced CT can detect uric acid and xanthine stones (which are radiolucent on plain films), but not indinavir stones [57]. Non-contrast-enhanced CT can determine stone density, the inner structure of the stone, skin-to-stone distance, and surrounding anatomy; all of which affect the selection of treatment modality [57-59]. The advantage of a lower radiation dose with non-contrast imaging versus contrast-enhanced CT scan must be balanced against the loss of information on renal function and urinary collecting system anatomy, but at a lower radiation dose and shorter scan time [60-63]. Radiation risk can be reduced by low-dose CT, which may, however, be difficult to implement in standard clinical practice [64-67]. In patients with a body mass index (BMI) < 30, low-dose CT has been shown to have a sensitivity of 86% for detecting ureteral stones < 3mm and 100% for calculi > 3mm [68]. An SR and MA of prospective studies [69] has shown that low-dose CT diagnosed urolithiasis with a pooled sensitivity of 93.1% (95% CI: 91.5–94.4) and a specificity of 96.6% (95% CI: 95.1–97.7%). Dual-energy CT can differentiate uric-acid-containing stones from calcium-containing stones [50]. Summary of evidence LE Non-contrast-enhanced CT is used to confirm stone diagnosis in patients with acute flank pain, as it is superior to IVU. 1a CT imaging enables 3D reconstruction of the collecting system, as well as measurement of stone density and skin-to-stone distance. 2a Consider a contrast study if stone removal is planned, and the anatomy of the renal collecting system needs to be delineated. 3 Recommendations Strength rating Immediate imaging is indicated with pyrexia or a solitary kidney, and when diagnosis is uncertain. Strong Use non-contrast-enhanced computed tomography to confirm stone diagnosis in patients with acute flank pain following initial ultrasound assessment. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Non-contrast-enhanced CT is used to confirm stone diagnosis in patients with acute flank pain, as it is superior to IVU.",
+              "1a"
+            ],
+            [
+              "CT imaging enables 3D reconstruction of the collecting system, as well as measurement of stone density and skin-to-stone distance.",
+              "2a"
+            ],
+            [
+              "Consider a contrast study if stone removal is planned, and the anatomy of the renal collecting system needs to be delineated.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Immediate imaging is indicated with pyrexia or a solitary kidney, and when diagnosis is uncertain.",
+              "Strong"
+            ],
+            [
+              "Use non-contrast-enhanced computed tomography to confirm stone diagnosis in patients with acute flank pain following initial ultrasound assessment.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-3-2-diagnostics-metabolism-related",
+      "title": "3.3.2. Diagnostics: metabolism-related",
+      "level": 4,
+      "text": "Besides imaging, each emergency patient with urolithiasis needs a succinct biochemical work-up of urine and blood tests. At this point, no distinction is made between high- and low-risk patients for stone formation. 3.3.2.a. Laboratory analysis – non-emergency urolithiasis patients Biochemical work-up is similar for all stone patients (see Section 3.3.2.c). However, if no intervention is planned, examination of sodium, potassium, C-reactive protein (CRP) and blood coagulation time can be omitted. Only patients at high risk for stone recurrence should undergo a more specific analytical programme [17]. Stone-specific metabolic evaluation is described in Chapter 4. The easiest method for diagnosing stones is by analysis of a passed stone using a validated method as listed in Section 3.3.2.c. Once the mineral composition is known, a potential metabolic disorder can be identified. 3.3.2.b. Analysis of stone composition Stone analysis should be performed on all first-time stone formers. In clinical practice, repeat stone analysis is needed in the case of: recurrence under pharmacological prevention; early recurrence after interventional therapy with complete stone clearance; and late recurrence after a prolonged stone-free period [70,71]. Patients should be instructed to filter their urine to retrieve a stone fragment for analysis. Stone passage and restoration of baseline renal function should be confirmed. The preferred analytical procedures are infrared spectroscopy (IRS) or X-ray diffraction (XRD) [72,73]. Equivalent results can be obtained by polarisation microscopy. Chemical analysis (wet chemistry) is generally deemed to be obsolete [72-74]. 3.3.2.c. Recommendations for laboratory examinations and stone analysis [75-77] Recommendations Strength rating Urine Dipstick test of spot urine sample: red cells; white cells; nitrites; approximate urine pH; and urine microscopy and/or culture. Weak Blood Serum blood sample: creatinine; uric acid; (ionised) calcium; sodium; potassium; blood cell count; and C-reactive protein. Strong Perform a coagulation test (partial thromboplastin time and international normalised ratio) if intervention is likely or planned. Strong Perform stone analysis in first-time stone formers using a valid procedure (X-ray diffraction or infrared spectroscopy). Strong Repeat stone analysis in patients presenting with: recurrent stones despite drug therapy; early recurrence after complete stone clearance; and late recurrence after a long stone-free period because stone composition may change. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Urine"
+            ],
+            [
+              "Dipstick test of spot urine sample:red cells;white cells;nitrites;approximate urine pH; andurine microscopy and/or culture.",
+              "Weak"
+            ],
+            [
+              "Blood"
+            ],
+            [
+              "Serum blood sample:creatinine;uric acid;(ionised) calcium;sodium;potassium;blood cell count; andC-reactive protein.",
+              "Strong"
+            ],
+            [
+              "Perform a coagulation test (partial thromboplastin time and international normalised ratio) if intervention is likely or planned.",
+              "Strong"
+            ],
+            [
+              "Perform stone analysis in first-time stone formers using a valid procedure (X-ray diffraction or infrared spectroscopy).",
+              "Strong"
+            ],
+            [
+              "Repeat stone analysis in patients presenting with:recurrent stones despite drug therapy;early recurrence after complete stone clearance; andlate recurrence after a long stone-free period because stone composition may change.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-3-3-diagnosis-in-special-groups-and-conditions",
+      "title": "3.3.3. Diagnosis in special groups and conditions",
+      "level": 4,
+      "text": "3.3.3.a. Diagnostic imaging during pregnancy In pregnant women, radiation exposure may cause non-stochastic (teratogenesis) or stochastic (carcinogenesis, mutagenesis) effects. Teratogenic effects are cumulative with increasing doses and require a threshold dose (< 50mGy is considered safe) and depend on the gestational age (minimum risk prior to the eighth week and after the 23 rd week). Carcinogenesis (doses even < 10mGy present a risk) and mutagenesis (500–1,000mGy doses are required, far in excess of the doses in common radiographic studies) get worse with increasing dose, but they do not require a dose threshold and are not dependent on the gestational age [78]. There is no imaging modality that should be routinely used in pregnant women. Scientific societies and organisations agree on the safety of the diagnostic evaluation when US [79], X-ray imaging [80,81] and MRI [82] are used as and when indicated [83-90]. A radiographic procedure should not be withheld from a pregnant woman if the procedure is clearly indicated and doing so will affect her medical care. It is generally recommended that an investigation resulting in an absorbed dose to the foetus of > 0.5mGy requires justification. Ultrasound (when necessary, using changes in the renal resistive index and transvaginal/transabdominal US with a full bladder) has become the primary radiological diagnostic tool when evaluating pregnant patients suspected of renal colic. However, normal physiological changes in pregnancy can mimic ureteral obstruction [83,87,88]. Magnetic resonance imaging can be used, as a second-line option [84], to define the level of urinary tract obstruction and to visualise stones as a signal void [91]. The use of gadolinium is not routinely recommended in pregnancy to avoid toxic effects on the embryo [83]. For the detection of urolithiasis during pregnancy, low-dose CT is associated with a higher positive predictive value (95.8%), compared to MRI (80%) and US (77%). As per White et al., low-dose CT offers improved diagnostic accuracy that can avoid negative interventions such as ureteroscopy [92]. Although low-dose CT protocols reduce radiation exposure, judicious use is currently recommended in pregnant women as a last-line option [83]. Summary of evidence LE Only low-level data exist for imaging in pregnant women supporting US and MRI. 3 Recommendations Strength rating Use ultrasound as the preferred method of imaging in pregnant women. Strong Use magnetic resonance imaging as a second-line imaging modality in pregnant women. Strong Use low-dose computed tomography as a last-line option in pregnant women. Strong 3.3.3.b. Diagnostic imaging in children Children with urinary stones have a high risk of recurrence; therefore, standard diagnostic procedures for high-risk patients apply, including a valid stone analysis (Section 3.1.3 and Chapter 4). The most common non-metabolic disorders facilitating stone formation are vesicoureteral reflux (VUR), UPJ obstruction, neurogenic bladder and other voiding difficulties [93]. When selecting diagnostic procedures to identify urolithiasis in children, it should be remembered that these patients might be uncooperative, require anaesthesia and may be sensitive to ionising radiation. Again, the principle of ALARA (As Low As Reasonably Achievable) should be observed [94-97]. Ultrasound Ultrasound is the primary imaging technique [98] in children. Its advantages are the absence of radiation and no need for anaesthesia. Imaging should include both the fluid-filled bladder with adjoining portion of the ureters, as well as the upper ureter [94]. Colour Doppler US shows differences in the ureteral jet [99] and resistive index of the arciform arteries of both kidneys, which are indicative of the grade of obstruction [100]. Nevertheless, US may fail to identify ureteral stones and provides limited information on renal function [101]. Plain films (KUB radiography) Kidney-ureter-bladder radiography can help to identify stones and their radiopacity and facilitate follow-up. Intravenous urography The radiation dose for IVU is typically in the range of approximately 1–3 mSv, depending on patient age, size, and imaging protocol [102]. The need for intravenous contrast medium administration also represents an additional drawback.   Non-contrast-enhanced computed tomography Low-dose CT protocols have been shown to significantly reduce radiation exposure [103-105]. Sedation or anaesthesia is rarely needed with modern high-speed CT equipment. Magnetic resonance urography Magnetic resonance urography (MRU) is generally not reliable for stone detection. However, it might provide detailed anatomical information about the urinary collecting system, the location of an obstruction or stenosis in the ureter, and renal parenchymal morphology [106]. 3.3.3.c. Summary of evidence and recommendations for diagnostic imaging in children Summary of evidence LE Ultrasound is the first-line imaging modality in children when",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Only low-level data exist for imaging in pregnant women supporting US and MRI.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use ultrasound as the preferred method of imaging in pregnant women.",
+              "Strong"
+            ],
+            [
+              "Use magnetic resonance imaging as a second-line imaging modality in pregnant women.",
+              "Strong"
+            ],
+            [
+              "Use low-dose computed tomography as a last-line option in pregnant women.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Ultrasound is the first-line imaging modality in children when a stone is suspected. It should include the kidney, fluid-filled bladder and the ureter next to the kidney and the (filled) bladder.",
+              "2b"
+            ],
+            [
+              "A kidney-ureter-bladder radiography (or low-dose NCCT) is an alternative investigation if US will not provide the required information.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Complete a metabolic evaluation based on stone analysis in all children.",
+              "Strong"
+            ],
+            [
+              "Collect stone material for analysis to classify the stone type.",
+              "Strong"
+            ],
+            [
+              "Perform ultrasound as first-line imaging modality in children when a stone is suspected. It should include the kidney, fluid-filled bladder and the ureter.",
+              "Strong"
+            ],
+            [
+              "Perform a kidney-ureter-bladder radiography (or low-dose non-contrast-enhanced computed tomography) if ultrasound will not provide the required information.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-disease-management",
+      "title": "3.4. Disease management",
+      "level": 3,
+      "text": "The treatment of urolithiasis is based on many parameters and is individualised for each patient. Parameters such as the size, number, location and composition of the stones are the cornerstones for deciding the treatment. In addition, the morphology, shape, volume, mobility and hardness of the stone should be considered. Finally, the anatomy of the entire pelvicalyceal system should be assessed for each patient. The design of therapeutic algorithms including all the above parameters is difficult, mainly due to the great heterogeneity of stone disease between patients. Furthermore, there is a significant lack of comparative clinical studies to support the development of algorithms using parameters other than stone size and composition.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-4-1-renal-colic",
+      "title": "3.4.1. Renal colic",
+      "level": 4,
+      "text": "Pain relief Non-steroidal anti-inflammatory drugs (NSAIDs) (including metamizole dipyrone) and paracetamol are effective in patients with acute stone colic [107] and have better analgesic efficacy than opioids [108]. Compared with ketorolac, ibuprofen is a more rapid-acting drug in controlling pain caused by renal colic, with a similar side effect profile [109]. Pain relief from intramuscular (i.m.) diclofenac compared favourably with those from intravenous (i.v.) ibuprofen and i.v. ketorolac; however, no recommendation can be given due to the way in which the results have been reported [110]. The addition of antispasmodics to NSAIDs does not result in improved pain control. Patients receiving NSAIDs are less likely to require further analgesia in the short-term. It should be taken into consideration that the use of diclofenac and ibuprofen increased major coronary events [107,108]. Oral diclofenac in the long-term increases the risk of cardiovascular events and upper GI bleeding [111]. Patients with significant risk factors for cardiovascular events should be treated with diclofenac only after careful consideration. As risks increase with dose and duration, the lowest effective dose should be used for the shortest duration [112]. Nonsteroidal anti-inflammatory drugs may affect renal function in those patients with pre-existing decreased GFR. Although a MA of three RCTs suggests that intradermal sterile water injections may provide effective analgesia for renal colic and could be considered in patients where NSAIDs are contraindicated (including pregnancy), it is important to emphasise that this technique is not part of current standard of care [113]. Intradermal sterile water injection may be an alternative to NSAIDs in pregnant patients or others where NSAIDs are contraindicated [114], nevertheless it is not standard treatment. Opioids, especially pethidine, are associated with a high rate of vomiting compared to NSAIDs and carry a greater likelihood of further analgesia being required [107,115]. If an opioid is used, it is recommended that an opioid other than pethidine be used. The combination of opioids and NSAIDs increases the analgesic effect compared to opioids alone [116]. Compared to opioids, ketamine use in the acute setting shows a longer duration of analgesia in renal colic with satisfactory safety profile [117]. Acupuncture seems to be effective in renal colic alone or in combination with analgesic drugs, but there is limited data [118,119]. Prevention of recurrent renal colic Facilitation of passage of ureteral stones is discussed in Section 3.4.9. For patients with ureteral stones that are expected to pass spontaneously, NSAID tablets or suppositories (e.g. diclofenac sodium, 100–150 mg/day, 3–10 days) may help reduce inflammation and the risk of recurrent pain [120], Although NSAIDs can affect renal function in patients with already reduced function, there is no functional effect in patients with normal renal function [121]. The systematic review and MA by Hollingsworth et al. [122] addressed pain reduction as a secondary outcome and concluded that medical expulsive therapy (MET) seems efficacious in reducing pain episodes in patients with ureteral stones. If analgesia cannot be achieved medically, drainage using stenting, percutaneous nephrostomy or stone removal is indicated [123]. 3.4.1.a. Summary of evidence and recommendations for the management of renal colic Summary of evidence LE Nonsteroidal anti-inflammatory drugs are very effective in treating renal colic and are superior to opioids. 1b For symptomatic ureteral stones, stone removal as first-line treatment is a feasible option in selected patients. 1b Recommendations Strength rating Offer a nonsteroidal, anti-inflammatory as the first drug of choice, depending on cardiovascular risk factors and side effects. Strong Offer opioids (hydromorphone, pentazocine or tramadol) or ketamine in the acute setting as second choice. Weak Offer renal decompression or ureteroscopic stone removal in case of analgesia-refractory colic pain. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Nonsteroidal anti-inflammatory drugs are very effective in treating renal colic and are superior to opioids.",
+              "1b"
+            ],
+            [
+              "For symptomatic ureteral stones, stone removal as first-line treatment is a feasible option in selected patients.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer a nonsteroidal, anti-inflammatory as the first drug of choice, depending on cardiovascular risk factors and side effects.",
+              "Strong"
+            ],
+            [
+              "Offer opioids (hydromorphone, pentazocine or tramadol) or ketamine in the acute setting as second choice.",
+              "Weak"
+            ],
+            [
+              "Offer renal decompression or ureteroscopic stone removal in case of analgesia-refractory colic pain.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-2-management-of-sepsis-andor-anuria-in-obstructed-kidney",
+      "title": "3.4.2. Management of sepsis and/or anuria in obstructed kidney",
+      "level": 4,
+      "text": "The obstructed kidney with all signs of urinary tract infection (UTI) and/or anuria is a urological emergency. Urgent decompression is often necessary to prevent further complications in infected hydronephrosis secondary to stone-induced, unilateral or bilateral, renal obstruction. Decompression There are two options for urgent decompression of obstructed collecting systems [124]: placement of an indwelling ureteral stent; or percutaneous placement of a nephrostomy tube. Several systematic reviews on the subject have been published, all of which emphasise that the available literature comparing different drainage modalities for obstructing stones with or without infection is scarce, based on small cohorts and of medium to very low quality [124,125]. There appears to be no difference in success rate or complication rate of both procedures and there is no difference in time to defervescence in the population presenting with fever. Both meta-analyses identified patients receiving a nephrostomy tube to have a longer stay in the hospital. Based on the available data, a double-J (DJ) stent has a more negative impact on the patients’ quality of life (QoL) in comparison with a nephrostomy tube, which can be explained mainly by the stent-related symptoms that patients experience [125,126]. Definitive stone removal should be delayed until the infection is cleared following a complete course of antimicrobial therapy. A small RCT showed the feasibility of immediate ureteroscopic stone removal combined with an appropriate antibiotic regimen at the cost of longer hospital stay and higher analgesic requirements [127]. Further measures Along with urgent decompression of the obstructed and infected urinary collecting system, both urine and blood samples should be sent for culture-antibiogram sensitivity testing and antibiotics should be initiated immediately [128,129]. The regimen should be re-evaluated in the light of the culture-antibiogram results. Although clinically well accepted, the impact of a repeat culture and antibiogram test on treatment outcome has not yet been evaluated [130]. Intensive care might become necessary. 3.4.2.a. Summary of evidence and recommendations for the management of sepsis and anuria Summary of evidence LE For decompression of the renal collecting system, ureteral stents and percutaneous nephrostomy catheters are equally effective. 1b Recommendations Strength rating Urgently decompress the collecting system in case of sepsis with obstructing stones using percutaneous drainage or ureteral stenting. Strong Delay definitive treatment of the stone until sepsis is resolved. Strong Collect (again) urine for antibiogram test following decompression. Strong Start antibiotics immediately (+ intensive care, if necessary). Strong Re-evaluate antibiotic regimen following antibiogram findings. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "For decompression of the renal collecting system, ureteral stents and percutaneous nephrostomy catheters are equally effective.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Urgently decompress the collecting system in case of sepsis with obstructing stones using percutaneous drainage or ureteral stenting.",
+              "Strong"
+            ],
+            [
+              "Delay definitive treatment of the stone until sepsis is resolved.",
+              "Strong"
+            ],
+            [
+              "Collect (again) urine for antibiogram test following decompression.",
+              "Strong"
+            ],
+            [
+              "Start antibiotics immediately (+ intensive care, if necessary).",
+              "Strong"
+            ],
+            [
+              "Re-evaluate antibiotic regimen following antibiogram findings.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-3-medical-expulsive-therapy",
+      "title": "3.4.3. Medical expulsive therapy",
+      "level": 4,
+      "text": "Several drug classes, including α-blockers, β3 adrenergic receptor agonists, calcium-channel inhibitors and phosphodiesterase-5 inhibitors (PDE5Is), are used for MET [131-134]. However, these medications are used off label. A class effect of α-blockers in MET has been demonstrated in MAs both in adults and children [135-138]. However, there is contradictory evidence between these studies and several well-designed, multicentre, placebo-controlled, double-blinded randomised studies showing limited, or no, benefit using α-blockers, besides some advantage for distal ureteral stones > 5mm [139-142]. An SR has demonstrated that combination MET therapy of alpha blockers combined with PDEI-5, corticosteroids or phytotherapy may be more beneficial than alpha blockers alone for MET [143]. The Panel concludes that MET using α-blockers seems efficacious in the treatment of patients with distal ureteral stones > 5mm who are amenable to conservative management. Most recent studies show efficacy for MET for stones between 5–10mm. Medical expulsive therapy in special situations is addressed in the relevant chapters. Silodosin seems to be more effective than tamsulosin as MET [144,145]. 3.4.3.a. Summary of evidence and recommendations for medical expulsive therapy Summary of evidence LE Medical expulsive therapy seems to be efficacious for treating patients with ureteral stones who are amenable to conservative management. The greatest benefit might be among those with > 5 mm (distal) ureteral stones. 1a Combination of α-blockers with other agents (PDE5I, corticosteroids and phytotherapy) may be more effective than monotherapy alone. 1a α-blockers increase stone expulsion rates in distal ureteral stones > 5mm. 1a A class effect of α-blockers has been demonstrated. 1a Recommendation Strength rating Offer α-blockers as medical expulsive therapy as one of the treatment options for distal ureteral stones 5–10mm.* Strong * α-blockers are an off-label treatment",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Medical expulsive therapy seems to be efficacious for treating patients with ureteral stones who are amenable to conservative management. The greatest benefit might be among those with > 5 mm (distal) ureteral stones.",
+              "1a"
+            ],
+            [
+              "Combination of α-blockers with other agents (PDE5I, corticosteroids and phytotherapy) may be more effective than monotherapy alone.",
+              "1a"
+            ],
+            [
+              "α-blockers increase stone expulsion rates in distal ureteral stones > 5mm.",
+              "1a"
+            ],
+            [
+              "A class effect of α-blockers has been demonstrated.",
+              "1a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Offer α-blockers as medical expulsive therapy as one of the treatment options for distal ureteral stones 5–10mm.*",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-4-chemolysis",
+      "title": "3.4.4. Chemolysis",
+      "level": 4,
+      "text": "Percutaneous irrigation chemolysis For practical reasons, percutaneous chemolysis is nowadays rarely used. Percutaneous irrigation chemolysis may be an option for infection stones and theoretically also for uric acid stones. For dissolution of struvite stones, Suby’s G solution (10% hemiacidrin; pH 3.5–4) can be used. The method has been described in case series and literature reviews [146]. Oral chemolysis Stones composed of uric acid, but not sodium or ammonium urate stones, can be dissolved by oral chemolysis. Prior stone analysis may provide information on stone composition. Urinary pH measurement and X-ray characteristics can provide information on the type of stone. Oral chemolysis is based on alkalinisation of urine by application of alkaline citrate or sodium bicarbonate. The pH should be adjusted to 7.0–7.2. Chemolysis is more effective at a higher pH, which might, however, promote calcium phosphate stone formation. Patients will need to adjust the dosage of alkalising medication by self-monitoring the pH of their urine. A systematic review shows a complete or partial dissolution in 80.5%, a discontinuation rate of 10.2% and 15.7% requiring further intervention [147]. In the case of uric acid obstruction of the collecting system, oral chemolysis in combination with urinary drainage is indicated. A combination of alkalinisation with tamsulosin can increase the frequency of spontaneous passage of distal ureteral uric acid stones as shown in one RCT for stones > 5mm [148]. Additional SWL might help to improve the results, but evidence is weak [149]. 3.4.4.a. Summary of evidence and recommendations for chemolysis Summary of evidence LE Irrigation chemolysis has been used in limited clinical settings to dissolve struvite stones. 3 Uric acid stones can be dissolved based on oral alkalinisation of the urine above 7.0. 3 For obstructing uric acid stones, a combination of oral chemolysis with tamsulosin is more effective than each substance alone, particularly in stones > 8 mm. 1b Recommendations (oral chemolysis of uric acid stones) Strength rating Inform the patient how to monitor urine pH by dipstick and to modify the dosage of alkalising medication according to urine pH, as changes in urine pH are a direct consequence of such medication. Strong Carefully monitor patients during and after oral chemolysis of uric acid stones. Strong Combine oral chemolysis with tamsulosin* in case of (larger) ureteral stones (if active intervention is not indicated). Weak * α-blockers are an off-label treatment",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Irrigation chemolysis has been used in limited clinical settings to dissolve struvite stones.",
+              "3"
+            ],
+            [
+              "Uric acid stones can be dissolved based on oral alkalinisation of the urine above 7.0.",
+              "3"
+            ],
+            [
+              "For obstructing uric acid stones, a combination of oral chemolysis with tamsulosin is more effective than each substance alone, particularly in stones > 8 mm.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations (oral chemolysis of uric acid stones)",
+              "Strength rating"
+            ],
+            [
+              "Inform the patient how to monitor urine pH by dipstick and to modify the dosage of alkalising medication according to urine pH, as changes in urine pH are a direct consequence of such medication.",
+              "Strong"
+            ],
+            [
+              "Carefully monitor patients during and after oral chemolysis of uric acid stones.",
+              "Strong"
+            ],
+            [
+              "Combine oral chemolysis with tamsulosin* in case of (larger) ureteral stones (if active intervention is not indicated).",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-5-extracorporeal-shock-wave-lithotripsy-swl",
+      "title": "3.4.5. Extracorporeal shock wave lithotripsy (SWL)",
+      "level": 4,
+      "text": "The success of SWL depends on the efficacy of the lithotripter and the following factors: size, location (ureteral, pelvic or calyceal) and composition (hardness) of the stones (Section 3.4.8.d); patient’s habitus (Section 3.4.10.c); performance of SWL (best practice, see below). Each of these factors significantly influences the retreatment rate and outcome of SWL. Best clinical practice Stenting Routine use of internal stents before SWL neither improves stone-free rates (SFRs), nor lowers the number of auxiliary treatments. It may, however, reduce the formation of steinstrasse [150-152]. Pacemaker Patients with a pacemaker can be treated with SWL, provided that appropriate technical precautions are taken. Patients with implanted cardioverter-defibrillators must be managed with special care (firing mode temporarily reprogrammed during SWL treatment). However, this might not be necessary with new-generation lithotripters [153]. Shock wave rate Lowering shock wave frequency from 120 to 60–90 shock waves/min. improves SFRs [154-162]. Ultraslow frequency of 30 shock waves/min. may increase SFR [163]. Tissue damage increases with shock wave frequency [164-167]. Number of shock waves, energy setting and repeat treatment sessions The number of shock waves that can be delivered at each session depends on the type of lithotripter and shock wave power. There is no consensus on the maximum number of shock waves [168]. Starting SWL on a lower energy setting with stepwise power (and SWL sequence) ramping can achieve vasoconstriction during treatment [164], which prevents renal injury [169-171]. Animal studies [172] and a prospective randomised study [173] have shown better SFRs (96% vs. 72%) using stepwise power ramping, but no difference has been found for fragmentation or evidence of complications after SWL, irrespective of whether ramping was used [174,175]. There are no conclusive data on the intervals required between repeated SWL sessions. However, clinical experience indicates that repeat sessions are feasible (within one day for ureteral stones) [176]. Improvement of acoustic coupling Proper acoustic coupling between the cushion of the treatment head and the patient’s skin is important. Defects (air pockets) in the coupling gel deflect 99% of shock waves [177]. Gentle swiping between the coupled therapy head and the patient’s skin helps remove air bubbles and improves the coupling [178]. Ultrasound gel is probably the most widely used lithotripsy coupling agent [179]. Procedural control Results of treatment are operator-dependent, and experienced clinicians obtain better results. During the procedure, careful imaging control of localisation contributes to outcome quality [180]. Pain Control Careful control of pain during treatment is necessary to limit pain-induced movements and excessive respiratory excursions [181-184]. Antibiotic prophylaxis Standard antibiotic prophylaxis before SWL is not recommended in patients with preoperative sterile urine, even if a ureteral catheter or nephrostomy tube is present [76,185,186]. The results of the APPEAL trial, a large multi-centre, well-designed RCT on antibiotic prophylaxis for SWL that may provide more information, are eagerly awaited [187]. Medical therapy after extracorporeal shock wave lithotripsy Despite conflicting results, most RCTs and several MAs support MET after SWL for ureteral or renal stones as an adjunct to expedite expulsion and increase SFRs. Medical expulsion therapy might also reduce analgesic requirements [188]. Post-treatment management Mechanical percussion and diuretic therapy can significantly improve SFRs and accelerate stone passage after SWL [189]. Complications of extracorporeal shock wave lithotripsy Compared to percutaneous nephrolithotomy (PCNL) and ureteroscopy (URS), there are fewer overall complications with SWL [190] (Table 3.9). In an MA of 115 RCTs 18.43% of Clavien I–II complications and 2.48% of Clavien III–IV complications occurred [190]. The relationship between SWL and hypertension or diabetes is unclear. Published data are contradictory, although no evidence exists supporting the hypothesis that SWL may cause long-term adverse effects [191-197]. Table 3.9: Shock wave lithotripsy-related complications Complications % Reference Related to stone fragments Steinstrasse   4% [198-200] Macroscopic haematuria 17.2% [190] Pain 12.1% [190] Regrowth of residual fragments   21–59 [201,202]   Auxiliary procedure   6.9% [190]   Renal colic   2–4% [203] Infectious Bacteriuria in non-infection stones   7.7–23% [201-204] Sepsis 0.15% [190] Tissue effect Renal Haematoma, symptomatic 0.21% [190] Haematoma, asymptomatic 1.2% [190] Cardiovascular Dysrhythmia 11–59% [201,203] Morbid cardiac events Case reports [201,203] Gastrointestinal Bowel perforation Case reports [205] Liver, spleen haematoma Case reports [205-208] 3.4.5.a. Summary of evidence and recommendations for shock wave lithotripsy   Summary of evidence LE Stepwise power ramping prev",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Complications",
+              "%",
+              "Reference"
+            ],
+            [
+              "Related to stone fragments",
+              "Steinstrasse",
+              " ",
+              "4%",
+              "[198-200]"
+            ],
+            [
+              "Macroscopic haematuria",
+              "17.2%",
+              "[190]"
+            ],
+            [
+              "Pain",
+              "12.1%",
+              "[190]"
+            ],
+            [
+              "Regrowth of residualfragments",
+              " ",
+              "21–59",
+              "[201,202]"
+            ],
+            [
+              " ",
+              "Auxiliary procedure",
+              " ",
+              "6.9%",
+              "[190]"
+            ],
+            [
+              " ",
+              "Renal colic",
+              " ",
+              "2–4%",
+              "[203]"
+            ],
+            [
+              "Infectious",
+              "Bacteriuria in non-infection stones",
+              " ",
+              "7.7–23%",
+              "[201-204]"
+            ],
+            [
+              "Sepsis",
+              "0.15%",
+              "[190]"
+            ],
+            [
+              "Tissue effect",
+              "Renal",
+              "Haematoma, symptomatic",
+              "0.21%",
+              "[190]"
+            ],
+            [
+              "Haematoma, asymptomatic",
+              "1.2%",
+              "[190]"
+            ],
+            [
+              "Cardiovascular",
+              "Dysrhythmia",
+              "11–59%",
+              "[201,203]"
+            ],
+            [
+              "Morbid cardiac events",
+              "Case reports",
+              "[201,203]"
+            ],
+            [
+              "Gastrointestinal",
+              "Bowel perforation",
+              "Case reports",
+              "[205]"
+            ],
+            [
+              "Liver, spleen haematoma",
+              "Case reports",
+              "[205-208]"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Stepwise power ramping prevents renal injury.",
+              "1b"
+            ],
+            [
+              "Clinical experience has shown that repeat sessions are feasible (within one day for ureteral stones).",
+              "4"
+            ],
+            [
+              "Optimal shock wave frequency is 1.0–1.5Hz.",
+              "1a"
+            ],
+            [
+              "Proper acoustic coupling between the cushion of the treatment head and the patient’s skin is important.",
+              "2"
+            ],
+            [
+              "Careful imaging control of localisation of the stone contributes to outcome of treatment.",
+              "2a"
+            ],
+            [
+              "Careful control of pain during treatment is necessary to limit pain-induced movements and excessive respiratory excursions.",
+              "1a"
+            ],
+            [
+              "An RCT found only small, mostly non-significant reductions in postoperative infections with a modest absolute decrease in pyelonephritis when using antibiotic prophylaxis for ESWL, the clinical relevance of which is limited by current EU fluoroquinolone restrictions.",
+              "1a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Ensure correct use of the coupling agent, because this is crucial for effective shock wave transmission.",
+              "Strong"
+            ],
+            [
+              "Maintain careful fluoroscopic and/or ultrasonographic monitoring during shock wave lithotripsy (SWL).",
+              "Strong"
+            ],
+            [
+              "Use proper analgesia, because it improves treatment results by limiting pain-induced movements and excessive respiratory excursions.",
+              "Strong"
+            ],
+            [
+              "Do not use antibiotic prophylaxis for ESWL in patients with sterile urine. Prescribe antibiotic prophylaxis only in the case of suspected or diagnosed infected stones or bacteriuria.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-6-ureteroscopy-retrograde-and-antegrade",
+      "title": "3.4.6. Ureteroscopy (retrograde and antegrade)",
+      "level": 4,
+      "text": "The current standard for rigid ureteroscopes is a tip diameter of < 8 French (Fr). Rigid URS can be used for the whole ureter [191]. However, technical improvements, as well as the availability of digital scopes, also favour the use of flexible ureteroscopes in the ureter [209]. Percutaneous antegrade removal of ureteral stones is a consideration in selected cases, i.e. large (> 15mm), impacted proximal ureteral calculi in a dilated renal collecting system [210,211], or when the ureter is not amenable to retrograde manipulation [212]. Ureteroscopy for renal stones: Retrograde Intrarenal Surgery (RIRS) Technical improvements including endoscope miniaturisation, improved deflection mechanism, enhanced optical quality and tools, and introduction of disposables have led to an increased use of URS for both renal and ureteral stones. Major technological progress has been achieved for RIRS. A systematic review addressing renal stones > 2cm showed a cumulative SFR of 91% with 1.45 procedures/patient; 4.5% of the complications were > Clavien 3 [213,214]. Digital scopes demonstrate shorter operation times due to the improvement in image quality [215]. Stones that cannot be extracted directly must be disintegrated. It can be difficult to access stones within the lower renal pole for disintegration [216]. An SR and MA found that relocation of lower pole stones < 2cm to a more favourable position increased SFR[217]. Best clinical practice in ureteroscopy Access to the upper urinary tract Most interventions are performed under general anaesthesia, although local or spinal anaesthesia is possible [218]. Intervention under intravenous sedation is possible for female patients with distal ureteral stones [219]. Smaller calibre (4.5/6 Fr) semirigid ureteroscope was associated with significantly higher SFR, lower rates of ureteric injury and shorter hospital stay [220]. Patients are traditionally positioned in lithotomy position. SR and MA on the effect of 10–20 degrees anti-Trendelenburg position show that anti-Trendelenburg position is related to lower retropulsion and higher SFR in ureteric stone treatment [221] and Trendelenburg position is related to migration of stones to upper pole and facilitates/is related to high success rate in RIRS [222]. Antegrade URS is an option for large, impacted, proximal ureteral calculi [211,223]. Reduction of flexible ureteroscope diameter may provide similar vision, deflection and manoeuvrability to standard flexible ureteroscopes potentially with improved ureteric access [224]. Disposable ureteroscopes provide similar safety and clinical effectiveness to reusable scopes [225]. Concerns regarding cost-effectiveness and environmental sustainability remain [220,226-228]. Safety aspects Although a MA has demonstrated that a fluoroscopy-free approach can achieve similar results in flexible ureteroscopy [229,230] fluoroscopic equipment must be available in the operating room. The Panel recommends placement of a safety wire, even though some groups have demonstrated that ureteroscopy can be performed without it [231-233]. Prior rigid URS can be helpful for optical dilatation followed by flexible URS, if necessary. If ureteral access is not possible, insertion of a JJ stent followed by URS after seven to fourteen days offers an alternative [234]. Bilateral URS during the same session is feasible resulting in equivalent-to-lower SFRs, but slightly higher overall complication rates (mostly minor, Clavien 1 and 2) [235,236]. Difficult lower pole anatomy such as steep infundibulopelvic angle predisposes to failure during RIRS [237]. While an in vitro study demonstrated that a single-use flexible ureteroscope can be more helpful in reaching a difficult lower pole calyx, several clinical case-control studies have shown that disposable flexible ureteroscopes are equally suitable for treating lower pole stones [238]. A fibreoptic reusable flexible ureteroscope can be more helpful in reaching a difficult lower pole calyx when compared with a single use flexible ureteroscope due to differences in flexibility and manoeuvrability to digital scopes [239]. Prolonged operative times are linked to increased complication rates in ureteroscopy, and efforts must be made to keep it below 90 minutes [240]. During ureteroscopy, intrarenal pressure (IRP) rises above physiologic levels (±0–20cm H 2 O) due to irrigation and scope manipulation; sustained elevations near or above ±30mmHg (±41cm H₂O) are associated with pyelovenous backflow and infectious risk, with some data suggesting backflow can begin at even lower pressures, depending on papillary morphology [241,242]. Real-time pressure-sensing ureteroscopes have shown how inflow rate, working-channel occupancy and device size dynamically drive IRP intraoperatively [243]. Ureteral access sheaths (UAS) improve outflow. Adding active suction (vacuum-assisted/flexible navigable suction UAS) can produce rapid pressure drops and reduce time spent above backflow pressure t",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "In uncomplicated URS, a post-procedure stent need not be inserted.",
+              "1a"
+            ],
+            [
+              "In URS, pre-stenting has been shown to improve outcomes for renal stones.",
+              "2a"
+            ],
+            [
+              "An α-blocker can reduce stent-related symptoms and colic episodes after URS.",
+              "1a"
+            ],
+            [
+              "The most effective lithotripsy systems for flexible ureteroscopy are the Ho:YAG and the thulium fiber laser (TFL).",
+              "2a"
+            ],
+            [
+              "Pneumatic and ultrasonic systems can be used with high disintegration efficacy in rigid URS.",
+              "2a"
+            ],
+            [
+              "Percutaneous antegrade removal of proximal ureter stones or laparoscopic ureterolithotomy are feasible alternatives to retrograde ureteroscopy, in selected cases.",
+              "1b"
+            ],
+            [
+              "Pre-treatment of patients undergoing URS with an α-blocker one week prior to the procedure reduces the need for active dilatation and increases the SFR.",
+              "1a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use holmium: yttrium-aluminium-garnet (Ho: YAG) or thulium fiber laser (TFL) laser lithotripsy for (flexible) ureteroscopy (URS).",
+              "Strong"
+            ],
+            [
+              "Perform stone extraction only under direct endoscopic visualisation of the stone.",
+              "Strong"
+            ],
+            [
+              "Do not insert a stent in uncomplicated cases.",
+              "Strong"
+            ],
+            [
+              "Offer medical expulsive therapy for patients suffering from stent-related symptoms and after laser lithotripsy to facilitate the passage of fragments.",
+              "Strong"
+            ],
+            [
+              "Use percutaneous antegrade removal of ureteral stones as an alternative when shock wave lithotripsy (SWL) is not indicated or has failed, and when the upper urinary tract is not amenable to retrograde URS.",
+              "Strong"
+            ],
+            [
+              "Use flexible URS (even for stones > 2cm) in cases where percutaneous nephrolithotomy or SWL are not options. However, in this case, there is a higher risk that a follow-up procedure and placement of a ureteral stent may be needed.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-7-percutaneous-nephrolithotomy",
+      "title": "3.4.7. Percutaneous nephrolithotomy",
+      "level": 4,
+      "text": "Percutaneous nephrolithotomy remains the standard procedure for large renal calculi. Different rigid and flexible endoscopes are available, and the selection is mainly based on the surgeon’s own preference. Standard access tracts are 24–30Fr. Smaller access sheaths, < 18Fr, were initially introduced for paediatric use but are now increasingly utilised in the adult population [314,315]. Contraindications General recommendations on bleeding diathesis, anticoagulant therapy and bleeding risk are available in Section 3.4.8.b. Other important considerations include: untreated UTI; tumour in the presumptive access tract area; potential malignant kidney tumour; and pregnancy (Section 3.4.14.a). Best clinical practiceIntracorporeal lithotripsy Several methods for intracorporeal lithotripsy during PCNL are available. Ultrasonic, pneumatic and combined systems are most commonly used for rigid nephroscopy, whilst the laser is increasingly used for miniaturised and flexible instruments [316]. Preoperative imaging Preprocedural imaging evaluations are summarised in Section 3.3.1. In particular, US or CT of the kidney and the surrounding structures can provide information regarding interposed organs within the planned percutaneous path (e.g. spleen, liver, large bowel, pleura and lung). Developing 3D models from contrast-enhanced CT imaging for use in preoperative planning prior to PCNL may benefit the eventual procedure by reducing puncture time, surgical time and blood loss, while increasing the SFR [317,318]. Positioning of the patient Both prone and supine positions are equally effective. An MA including 12 studies and a total of 1,290 patients treated showed a similar SFR but a lower operative time for supine PCNL [319]. An MA including 11,774 patients from 42 studies showed a similar SFR and hospital stay but a shorter operative time and lower major complication rate for supine PCNL [320]. The supine position allows simultaneous retrograde access to the collecting system, using a flexible ureteroscope [321]. The combination of PCNL and RIRS may be a good alternative for the treatment of complex renal stones compared to standard PCNL; however, the existing evidence is of low quality [322,323]. Puncture Although fluoroscopy is still the most common intraoperative imaging method, the use of US as an additional or only means of puncture guidance is gaining importance. Three meta-analyses including up to 15 randomised controlled trials have demonstrated that US-guided PCNL is equally as effective and safe as fluoroscopy-guided PCNL, with the added benefit of reduced radiation exposure [229,324,325]. Preoperative CT or intraoperative US allows identification of the tissue between the skin and kidney and lowers the incidence of visceral injury. As an additional aid to increase puncture accuracy, the calyceal puncture may be done under direct visualisation using simultaneous flexible URS [326-328]. Dilatation Dilatation of the percutaneous access tract can be achieved using a metallic telescopic, single (one-shot or serial) dilatator, or balloon dilatator. During PCNL, safety and effectiveness are similar for different tract- dilatation methods [329]. Although there are papers demonstrating that single-step dilation is equally effective as other methods and that US only can be used for the dilatation, the difference in outcomes is most likely related to surgeon experience rather than to the technology used [329,330]. An MA of the most commonly used tract dilation methods suggested that one-step dilation would allow for a shorter operative time and reduced complication rate, including haemoglobin loss and transfusion rate [331]. Choice of instruments Several meta-analyses on mini-PCNL (12-22 Fr) versus standard PCNL (> 22Fr) have identified that both techniques allow for a similar SFR. Patients treated with mini-PCNL had reduced blood loss and transfusion rates, as well as a shorter hospital stay, without a significant difference in overall complication rates [315,332-334]. However, it is important to note that the level of evidence was downgraded due to heterogeneity of data related to tract sizes used and types of stones treated. There is some evidence for using suction during PCNL to reduce operative time, reduce low-grade complications and increase SFR [335-337]. Based on limited evidence, regardless of a prone or supine position and the size of instruments used, performing flexible nephroscopy by an antegrade or retrograde approach may improve the success rate of PCNL for large and complex stones, while reducing the number of tracts needed [338,339]. Postoperative drainage The decision to place a nephrostomy tube or a double J stent at the conclusion of the PCNL procedure depends on several factors, including: presence of residual stones; likelihood of a second-look procedure; significant intraoperative blood loss/bleeding from the percutaneous tract; urine extravasation; ureteral obstruction; potential persistent bact",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Imaging of the kidney with US or CT can provide information regarding interposed organs within the planned percutaneous path (e.g. spleen, liver, large bowel, pleura and lung).",
+              "3"
+            ],
+            [
+              "Both prone and supine positions are equally safe with equivalent SFR.",
+              "1a"
+            ],
+            [
+              "In selected patients, ambulatory PCNL can be performed without decreasing the SFR or increasing the complication rate.",
+              "2a"
+            ],
+            [
+              "Both fluoroscopy-guided and US-guided PCNL are equally safe, with equivalent SFR and complication rates.",
+              "1a"
+            ],
+            [
+              "Percutaneous nephrolithotomy performed with small instruments tends to be associated with significantly lower blood loss, but the duration of the procedure tended to be significantly longer.There are no significant differences in SFR or any other complications.",
+              "1a"
+            ],
+            [
+              "In uncomplicated cases, a totally tubeless PCNL results in a shorter hospital stay, with no increase in complication rate.",
+              "1a"
+            ],
+            [
+              "Perioperative use of tranexamic acid may reduce bleeding complications and transfusion rates.",
+              "1a"
+            ],
+            [
+              "Urine cultures taken directly from the renal pelvis or a stone culture are more predictive of post-PCNL sepsis than a preoperative midstream urine culture.",
+              "1a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform preprocedural computed tomography imaging, including contrast medium when indicated or retrograde study when starting the procedure, to assess stone comprehensiveness and anatomy of the collecting system to ensure safe access to the renal stone.",
+              "Strong"
+            ],
+            [
+              "Perform a tubeless (without nephrostomy tube) or totally tubeless (without nephrostomy tube and ureteral stent) percutaneous nephrolithotomy (PCNL) procedure, in uncomplicated cases.",
+              "Strong"
+            ],
+            [
+              "Take a stone culture or urine culture directly from the renal pelvis at the time of PCNL, if possible.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-8-general-recommendations-and-precautions-for-stone-removal",
+      "title": "3.4.8. General recommendations and precautions for stone removal",
+      "level": 4,
+      "text": "3.4.8.a. Antibiotic therapy Urinary tract infections should always be treated if stone removal is planned. In patients with clinically significant infection and obstruction, drainage should be performed for several days before starting stone removal. A urine culture or urinary microscopy should be performed before treatment [367]. Perioperative antibiotic prophylaxis The available evidence for prevention of infection following URS and percutaneous stone removal remains limited [368,369]. Administration of a single dose of prophylactic antibiotics prior to ureteroscopy was found to be sufficient [368-371]. In a review of a large database of patients undergoing PCNL, it was found that in patients with negative baseline urine culture, antibiotic prophylaxis significantly reduced the rate of post-operative fever and other complications [372]. Based on three meta-analyses pooling data from small series with varying quality, an extended course of preoperative prophylactic antibiotics prior to PCNL compared to a single dose before anaesthesia significantly reduced postoperative sepsis and fever in patients with an a priori increased risk of infection [351,373,374]. In an RCT including only moderate to high-risk infection patients (patients with preoperative stents/nephrostomy or positive urine culture), a seven-day course of preoperative antibiotics reduced the risk of post-PCNL sepsis threefold in comparison to a two-day course [375]. In studies that did not specify the risk of the patient population, a single dose of antibiotic prophylaxis administered at induction was equivalent to an extended preoperative course [374,376]. A prolonged course of postoperative antibiotics was not superior to a single dose preoperatively [351,374,377]. As national and regional antibiotic resistance patterns can differ significantly, the choice of antibiotic prophylaxis should be tailored to institutional or regional antimicrobial susceptibility [371]. Recommendations Strength rating Obtain a urine culture or perform urinary microscopy before any treatment is planned. Strong Exclude or treat urinary tract infections prior to stone removal. Strong Offer perioperative antibiotic prophylaxis to all patients undergoing endourological treatment. Strong 3.4.8.b. Antithrombotic therapy and stone treatment Patients with a bleeding disorder, or receiving antithrombotic therapy should be referred to the appropriate physician for appropriate therapeutic measures before deciding on stone management [378-382]. In patients with an uncorrected bleeding disorder, the following are at elevated risk of haemorrhage or perinephric haematoma (PNH) (high-risk procedures): SWL (hazard ratio of PNH up to 4.2 during anticoagulant/antiplatelet medication) [383]; PCNL; percutaneous nephrostomy; laparoscopic surgery; and open surgery [378]. Shock wave lithotripsy is feasible and safe after correction of the underlying coagulopathy [384,385]. In the case of an uncorrected bleeding disorder or continued antithrombotic therapy, URS, in contrast to SWL and PCNL, might offer an alternative approach, since it is associated with less morbidity [386-389]. Despite the appropriate cessation of antiplatelet agents, following standardised protocols, prolonged haematuria in tube drainage after PCNL has been reported [390]. Only data on flexible URS are available, which supports the superiority of URS in the treatment of proximal ureteral stones [391,392]. Although URS is safe in patients with bleeding disorders or anticoagulation, an individualised patient approach is necessary [388]. Therapeutic anticoagulants (warfarin, DOACs) are typically interrupted before PCNL; routine heparin “bridging” is not recommended for most patients. Resume after secure haemostasis [393,394]. Low-dose aspirin (±81mg/day) can usually be continued through PCNL without increased bleeding, based on multiple urologic series and a recent meta-analysis [394-398]. P2Y12 inhibitors (clopidogrel/prasugrel/ticagrelor) are typically interrupted at least five days before high-bleed-risk surgery like PCNL unless stent-thrombosis risk is prohibitive – coordinate with cardiology [393,394]. If a patient cannot interrupt antithrombotic therapy, PCNL should be delayed or ureteroscopy can be performed as the first-line alternative for stone intervention if suitable [389]. Stratify the thrombotic risk (mechanical valve, recent VTE, CHA 2 DS 2 -VASc, etc.) and plan holds per drug above. Coordinate with prescribing physicians (cardiology/haematology/neurology) for high-risk patients [393]. Resume anticoagulant or antiplatelet therapy when bleeding risk has subsided, i.e. five days after the procedure or when haematuria has ceased, whichever comes last. In the event of continued haematuria reassess the patient for cause of bleeding and consult with the prescribing physician for further multidisciplinary management [389,393,395-398]. Table 3.10: Risk stratification for bleeding Risk stratification for bleeding Low-",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Obtain a urine culture or perform urinary microscopy before any treatment is planned.",
+              "Strong"
+            ],
+            [
+              "Exclude or treat urinary tract infections prior to stone removal.",
+              "Strong"
+            ],
+            [
+              "Offer perioperative antibiotic prophylaxis to all patients undergoing endourological treatment.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Risk stratification for bleeding"
+            ],
+            [
+              "Low-risk bleeding procedures",
+              "CystoscopyFlexible cystoscopyUreteral catheterisationExtraction of ureteral stentUreteroscopy"
+            ],
+            [
+              "High-risk bleeding procedures",
+              "Shock wave lithotripsyPercutaneous nephrostomyPercutaneous nephrolithotomy"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Medication/agent",
+              "Bleeding risk ofplanned procedure",
+              "Risk of thromboembolism"
+            ],
+            [
+              "Low risk",
+              "Intermediate risk",
+              "High risk"
+            ],
+            [
+              "Warfarin dabigatran rivaroxaban apixaban",
+              "Low-risk procedure",
+              "May be continued",
+              "Bridging therapy",
+              "Bridging therapy"
+            ],
+            [
+              "High-risk procedure",
+              "May be temporarily discontinued at appropriate interval.Bridging therapy is strongly recommended.",
+              "Bridging therapy",
+              "Bridging therapy"
+            ],
+            [
+              "Aspirin",
+              "Low-risk procedure",
+              "Continue",
+              "Continue",
+              "Elective surgery: postpone.Non-deferrable surgery: continue."
+            ],
+            [
+              "High-risk procedure",
+              "Discontinue in case of primary prevention.Continue in case of secondary prevention.",
+              "Elective surgery: postpone.Non-deferrable surgery: continue if possible.",
+              "Elective surgery: postpone.Non-deferrable surgery: continue."
+            ],
+            [
+              "Thienopyridine agents (P2Y12 receptor inhibitors)",
+              "Low-risk procedure",
+              "Discontinue five days before intervention.Resume within 24–72 hours with a loading dose.",
+              "Discontinue five days before intervention.",
+              "Elective surgery: postpone.Non-deferrable surgery: continue."
+            ],
+            [
+              "High-risk procedure",
+              "Discontinue five days before intervention and resume within 24–72 hours with a loading dose.",
+              "Elective surgery: postpone.Non-deferrable surgery: discontinue five days before procedure and resume within 24–72 hours with a loading dose.Bridging therapy-glycoprotein IIb/IIIa inhibitors if aspirin is discontinued.",
+              "Elective surgery: postpone.Non-deferrable surgery: discontinue five days before procedure and resume within 24–72 hours, with a loading dose.Bridging therapy-glycoprotein IIb/IIIa inhibitors."
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "The temporary discontinuation or bridging of antithrombotic therapy in high-risk patients should be discussed with the prescribing physician.",
+              "3"
+            ],
+            [
+              "Retrograde (flexible) URS stone removal is associated with less morbidity in patients when antithrombotic therapy cannot be discontinued.",
+              "2a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer active surveillance to patients at high risk of thrombotic complications in the presence of an asymptomatic calyceal stone.",
+              "Weak"
+            ],
+            [
+              "Decide on temporary discontinuation or bridging of antithrombotic therapy in high-risk patients, in consultation with the physician.",
+              "Strong"
+            ],
+            [
+              "Retrograde (flexible) URS is the preferred intervention if stone removal is essential and antithrombotic therapy cannot be discontinued since it is associated with less morbidity.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Consider the stone composition before deciding on the method of removal, based on patient history, former stone analysis of the patient or Hounsfield unit on unenhanced computed tomography.",
+              "Strong"
+            ],
+            [
+              "Attempt to dissolve radiolucent stones.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-9-specific-stone-management-of-ureteral-stones",
+      "title": "3.4.9. Specific stone management of ureteral stones",
+      "level": 4,
+      "text": "3.4.9.a. Conservative treatment/observation There are only limited data regarding spontaneous stone passage according to stone size [407,408]. Spontaneous stone passage was reported for 49–52% of upper ureteral stones, 58–70% of mid-ureteral stones and 68–83% of distal ureteral stones. Considering stone size almost 75% of stones < 5mm and 62% of stones ≥ 5mm passed spontaneously, with an average time to stone expulsion about 17 days (range 6–29 days) [407,409]. Considering both size and location, stones of < 5mm in the distal ureter have an 89% chance of spontaneous passage, while 71% of stones < 5mm located in the upper ureter still pass spontaneously [407]. The Panel is aware that spontaneous stone expulsion decreases with increasing stone size, and that there are differences between individual patients. 3.4.9.b. Pharmacological treatment, medical expulsive therapy Medical expulsive therapy should only be used in informed patients if active stone removal is not indicated. Treatment should be discontinued if complications develop (infection, refractory pain, deterioration of renal function). In the case of known uric acid stones in the distal ureter, a combination of alkalinisation with tamsulosin can increase the frequency of spontaneous passage. For details, see Sections 3.4.3 and 3.4.4. 3.4.9.c. Indications for treatment of ureteral stones Indications for removal of ureteral stones are [191,408,410]: stones with a low likelihood of spontaneous passage; persistent pain despite adequate analgesic medication; persistent obstruction; and renal insufficiency (renal failure, bilateral obstruction, or single kidney). 3.4.9.d. Selection of procedure for removal of ureteral stones The selection of the procedure depends on many factors, including stone-related factors, such as size, location, density and coexistence of ipsilateral renal stones, as well as patient-related factors, such as body habitus, urinary anatomy, bleeding disorders and other potential comorbidities. These and their influence on the outcomes of each of the procedures should be considered when counselling patients. As previously mentioned in these Guidelines, CT imaging can provide useful information that may influence the choice of treatment. An MA outlines that increasing stone density, stone burden, skin-to-stone distance and hydronephrosis can negatively impact the success of the SWL [411]. Overall, SFRs after URS or SWL for ureteral stones are comparable. However, larger stones achieve earlier stone-free status with URS. A large multicentre, noninferiority trial compared URS to SWL for ureteral stones. When excluding patients that had spontaneously passed their stone prior to treatment, SWL could not be considered non-inferior to URS, with only 12% of patients needing further intervention after URS in comparison to 26% in the SWL arm [305]. In contrast to the success of shockwave lithotripsy, comparative data on the outcomes of URS depending on patients’ BMI has shown URS to be as effective and safe in obese and morbidly obese patients as in non-obese patients [412]. The Panel performed an SR to assess the benefits and harms of URS compared to SWL [413]. Compared with SWL, URS was associated with a significantly greater SFR of up to four weeks, but the difference was not significant at three months in the included studies. Ureteroscopy was associated with fewer retreatments and the need for secondary procedures but with a higher need for adjunctive procedures, higher complication rates and longer hospital stay. Counterbalancing for URS’s higher SFRs, SWL is associated with lower morbidity. Success rates and complications of URS are not impacted by previous unsuccessful SWL [414]. Clavien-Dindo grade complications were, if reported, less frequent in patients treated with SWL [190]. Apart from the treatment modality, the timing of treatment may also be of importance. Primary or emergent ureteroscopy appears to be a safe and feasible procedure for patients presenting with renal colic due to an obstructive ureteral stone [415], without, however, increasing the SFR. These results, however, are based mainly on low-level of evidence reports and should be interpreted with caution [415]. Similarly, SWL can be performed in the acute setting or electively allowing a trial of spontaneous passage. In contrast to acute URS, SWL in the acute setting does provide an increased SFR and reduced need for auxiliary procedures [416]. For large proximal ureteral stones, a percutaneous antegrade approach may provide better stone-free results than a retrograde ureteroscopic approach [417]. Bleeding disorder Ureteroscopy can be performed in patients with bleeding disorders, with a moderate increase in complications (see also Section 3.4.8.b) [388]. 3.4.9.d.1. Summary of evidence and recommendations for selection of procedure for active removal of ureteral stones Summary of evidence LE Observation is feasible in informed patients who develop no complications (infec",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Observation is feasible in informed patients who develop no complications (infection, refractory pain, deterioration of renal function).",
+              "2a"
+            ],
+            [
+              "Medical expulsive therapy seems to be efficacious for treating patients with ureteral stones who are amenable to conservative management. The greatest benefit might be among those with > 5mm (distal) stones.",
+              "1a"
+            ],
+            [
+              "Compared with SWL, URS was associated with significantly greater SFRs up to four weeks, but the difference was not significant at three months in the included studies.",
+              "1a"
+            ],
+            [
+              "Ureteroscopy was associated with fewer retreatments and need for secondary procedures, but with a higher need for adjunctive procedures, greater complication rates and longer hospital stay.",
+              "1a"
+            ],
+            [
+              "In the case of severe obesity, URS is a more promising therapeutic option than SWL.",
+              "2b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "If active removal is not indicated (Section 3.4.9.c) in patients with newly diagnosed small* ureteral stones, observe patient initially with periodic evaluation.",
+              "Strong"
+            ],
+            [
+              "Offer α-blockers as medical expulsive therapy as one of the treatment options for (distal) ureteral stones > 5mm**.",
+              "Strong"
+            ],
+            [
+              "Inform patients that ureteroscopy (URS) has a better chance of achieving stone-free status with a single procedure.",
+              "Strong"
+            ],
+            [
+              "Inform patients that URS has higher complication rates when compared to shock wave lithotripsy.",
+              "Strong"
+            ],
+            [
+              "Use URS as first-line therapy for ureteral (and renal) stones in cases of morbid obesity.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-10-specific-stone-management-of-renal-stones",
+      "title": "3.4.10. Specific stone management of renal stones",
+      "level": 4,
+      "text": "The natural history of small, non-obstructing asymptomatic calculi is not well defined, and the risk of progression is unclear. There is still no consensus on the follow-up duration, timing and type of intervention. In an RCT, patients with small asymptomatic renal stones who were not treated actively had a higher incidence of relapse [418]. 3.4.10.a. Conservative treatment (observation) Observation of renal stones, especially in calyces, depends on their natural history (see Section 3.4.10.c). The recommendations provided are not supported by high-level literature [419]. There is a prospective trial supporting annual observation for asymptomatic inferior calyceal stones < 10mm. In case stone growth is detected, the follow-up interval should be lowered [420]. Intervention is advised for growing stones > 5mm [421]. In a systematic review of patients with asymptomatic renal stones on active surveillance, spontaneous stone passage rates varied from 3–29%, symptom development from 7–77%, stone growth from 5–66%, and surgical intervention from 7–26% [419]. 3.4.10.b. Pharmacological treatment of renal stones Dissolution therapy seems to be an option for uric acid stones. See Sections 3.4.4. and 3.4.8.d. 3.4.10.c. Indications for removal of renal stones Indications for the removal of renal stones include: stone growth; stones in high-risk patients for stone formation; obstruction caused by stones; infection; symptomatic stones (e.g. pain or haematuria) [422]; patient preference; comorbidity; and the social situation of the patient (e.g. profession or travelling) 3.4.10.d. Selection of procedure for active removal of renal stones For general recommendations and precautions, see Section 3.4.8. 3.4.10.d.1. Stones in the renal pelvis or upper/middle calyces Shock wave lithotripsy, PCNL and RIRS are available treatment modalities for renal calculi. While PCNL efficacy is hardly affected by the stone size, the SFRs after SWL or URS are inversely proportional to stone size [305,423-429]. Although multiple treatments or sessions may be needed, SWL achieves good SFRs for stones up to 20mm, except for those at the lower pole [425,430,431]. When SWL is considered, stones with density > 1,000HU (and with high homogeneity) on non-contrast-enhanced CT are less likely to be disintegrated [58]. Endourology is considered an alternative because of the reduced need for repeated procedures and consequently a shorter time until stone-free status is achieved. For stones > 10mm and < 20mm, mPCNL achieves a higher SFR than RIRS or SWL, but carries a higher risk of bleeding and is associated with a longer hospital stay, however, there is a high degree of heterogeneity among the included studies [427,429,432]. Stones > 20mm should be treated primarily by PCNL, because SWL often requires multiple treatments, and is associated with an increased risk of ureteral obstruction (colic or steinstrasse) with a need for adjunctive procedures (Figure 3.2) [433]. Retrograde renal surgery cannot be recommended as first-line treatment for stones > 20mm in uncomplicated cases as SFRs decrease, and staged procedures will be required [434-436]. However, it may be a first-line option in patients where PCNL is not an option or contraindicated or in selected patients [437]. The combination of PCNL and RIRS may be a good alternative for the treatment of complex renal stones compared to standard PCNL, however, the level of the existing evidence is low [322]. 3.4.10.d.2. Stones in the lower renal pole The stone clearance rate after SWL seems to be lower for stones in the inferior calyx than for other intrarenal locations. Although the disintegration efficacy of SWL is not limited compared to other locations, the fragments often remain in the calyx and cause recurrent stone formation. The reported SFR of SWL for lower pole calculi is 25–95%. The preferential use of endoscopic procedures is supported by some current reports, even for stones < 1cm [424,426,430,435,438-446]. One RCT found that there was no evidence of a difference in health status between FURS and ESWL for LPSs of ≤ 10mm, with FURS leading to a higher SFR. Shock wave lithotripsy was more cost effective than FURS [447]. The following can impair successful stone treatment by SWL [448-454]: steep infundibular-pelvic angle; long calyx; long skin-to-stone distance; narrow infundibulum; and shock wave-resistant stones (calcium oxalate monohydrate, brushite or cystine). Further anatomical parameters cannot yet be established. Supportive measures such as inversion, vibration or hydration may facilitate stone clearance (See Section 3.4.5 SWL) [189,455,456]. There are negative predictors for SWL.PCNL and RIRS might be reasonable alternatives, even for smaller calculi [439]. Retrograde renal surgery seems to have comparable efficacy to SWL [424,430,438,457]. Clinical experience has suggested a higher SFR of RIRS compared to SWL but at the expense of greater invasiveness. Depending on operator skills, stones up",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "It is still debatable whether renal stones should be treated, or whether annual follow-up is sufficient for asymptomatic calyceal stones that have remained stable for six months.",
+              "4"
+            ],
+            [
+              "Although the question of whether asymptomatic calyceal stones should be treated is still unanswered. Stone growth, de novo obstruction, associated infection and acute and/or chronic pain are indications for treatment.",
+              "3"
+            ],
+            [
+              "Percutaneous nephrolithotomy is indicated in renal stones > 2cm as primary option.",
+              "1a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer active treatment for renal stones in case of stone growth, de novo obstruction, associated infection and acute and/or chronic pain.",
+              "Weak"
+            ],
+            [
+              "Evaluate stone composition before deciding on the method of removal based on patient history, former stone analysis of the patient or Hounsfield unit (HU) on unenhanced CT.",
+              "Strong"
+            ],
+            [
+              "Perform percutaneous nephrolithotomy (PCNL) as first-line treatment of larger stones > 2cm.",
+              "Strong"
+            ],
+            [
+              "Treat larger stones (> 2cm) with flexible ureteroscopy or shock wave lithotripsy (SWL) in cases where PCNL is not an option. However, in such instances there is a higher risk that a follow-up procedure and placement of a ureteral stent may be needed.",
+              "Strong"
+            ],
+            [
+              "Perform PCNL or retrograde intrarenal surgery for the lower pole, even for stones > 1cm, as the efficacy of SWL is limited (depending on favourable and unfavourable factors for SWL).",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-11-laparoscopy-and-open-surgery",
+      "title": "3.4.11. Laparoscopy and open surgery",
+      "level": 4,
+      "text": "Advances in SWL and endourological surgery (URS and PCNL) have significantly decreased the indications for open or laparoscopic stone surgery [459-464]. There is a consensus that most complex stones, including partial and complete staghorn stones, should be approached primarily with PCNL. Additionally, a combined approach with PCNL and RIRS may also be an appropriate alternative. However, if percutaneous approaches are not likely to be successful, or if multiple endourological approaches have been performed unsuccessfully, open or laparoscopic surgery may be a valid treatment option [465-469]. When expertise is available, laparoscopic ureterolithotomy can be performed for large proximal ureteral stones as an alternative to URS or SWL [470,471]. These more invasive procedures have yielded high SFRs and lower auxiliary procedure rates [211,223,466]. An RCT shows that retroperitoneal laparoscopic urethral lithotomy for large proximal ureteric stones is not superior to flexible ureteroscopy [472]. A systematic review showed no difference in the postoperative phase for stented or unstented laparoscopic ureterolithotomy [466]. Laparoscopic pyelolithotomy could be offered for solitary stones > 2cm located in the renal pelvis as an alternative to PCNL [467]. In addition, in selected cases with an extrarenal and dilated pelvis, retroperitoneal laparoscopic pyelotomy (RLP) can be considered as an alternative management of staghorn calculi [473]. A few studies with limited numbers of patients have reported using robotic surgery in the treatment of urinary stones [468]. Open surgery should be considered as the last treatment option after all other possibilities have been explored. 3.4.11.a. Recommendation for laparoscopy and open surgery Recommendation Strength rating Offer laparoscopic or open surgical stone removal in rare cases in which shock wave lithotripsy, retrograde or antegrade ureteroscopy and percutaneous nephrolithotomy fail or are unlikely to be successful. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Offer laparoscopic or open surgical stone removal in rare cases in which shock wave lithotripsy, retrograde or antegrade ureteroscopy and percutaneous nephrolithotomy fail or are unlikely to be successful.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-12-steinstrasse",
+      "title": "3.4.12. Steinstrasse",
+      "level": 4,
+      "text": "Steinstrasse is an accumulation of stone fragments or stone gravel in the ureter and may interfere with the passage of urine [474]. Steinstrasse occurs in 4% of cases of SWL [190,198], and the major factor in the development of steinstrasse formation after SWL is stone size [475]. A major problem of steinstrasse is ureteral obstruction, which may be silent in up to 23% of cases. A MA including eight RCTs (n = 876) suggested a benefit of stenting before SWL in terms of steinstrasse formation but did not result in a benefit on SFRs or less auxiliary treatments [151]. When steinstrasse is asymptomatic, conservative treatment is an initial option. Medical expulsion therapy increases stone expulsion and reduces the need for endoscopic intervention [476,477]. Ureteroscopy and SWL are effective in the treatment of steinstrasse [200,478]. One prospective randomised study based on a low volume of patients shows better treatment outcome of ureteroscopy [479]. In the event of UTI or fever, the urinary system should be decompressed, preferably by percutaneous nephrostomy [127,480]. 3.4.12.a. Summary of evidence and recommendations for steinstrasse Summary of evidence LE Medical expulsion therapy increases the stone expulsion rate of steinstrasse. 1b Ureteroscopy is effective for the treatment of steinstrasse. 3 Only low-level evidence is available supporting SWL or URS for the treatment of steinstrasse. 4 Recommendations Strength rating Treat steinstrasse associated with urinary tract infection (UTI)/fever preferably with percutaneous nephrostomy. Weak Treat steinstrasse when large stone fragments are present with shock wave lithotripsy or ureteroscopy (in absence of signs of UTI). Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Medical expulsion therapy increases the stone expulsion rate of steinstrasse.",
+              "1b"
+            ],
+            [
+              "Ureteroscopy is effective for the treatment of steinstrasse.",
+              "3"
+            ],
+            [
+              "Only low-level evidence is available supporting SWL or URS for the treatment of steinstrasse.",
+              "4"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Treat steinstrasse associated with urinary tract infection (UTI)/fever preferably with percutaneous nephrostomy.",
+              "Weak"
+            ],
+            [
+              "Treat steinstrasse when large stone fragments are present with shock wave lithotripsy or ureteroscopy (in absence of signs of UTI).",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-13-management-of-patients-with-residual-stones",
+      "title": "3.4.13. Management of patients with residual stones",
+      "level": 4,
+      "text": "Following initial treatment with SWL, URS or PCNL, residual fragments may remain and require additional intervention [421,481-484], however, there is no consistent definition of residual fragments [479]. Most of these studies indicate that initial imaging is performed on the first day or the first week after treatment. However, false positive results from dust or residual fragments, which will pass spontaneously without causing any stone-related event, might lead to overtreatment. Therefore, imaging at four weeks seems most appropriate [485-487]. Compared to US, KUB and IVU, NCCT scan has a higher sensitivity to detect small residual fragments after definitive treatment of ureteral or kidney stones [488,489]. An SR and MA examining residual fragments following any treatment has demonstrated that around a third of patients with either dust or fragments ≤ 4mm experience disease progression and reintervention within three years, whilst a third have spontaneous passage within two years, regardless of imaging modality follow-up. For fragments > 4mm, there are fewer studies, but these suggest low spontaneous passage rates and high intervention rates [490]. Although NCCT has the highest sensitivity to detect residual fragments, this must be balanced against the exposure to ionising radiation when compared with KUB and US. Recurrence risk in patients with residual fragments after treatment of infection stones is higher than for other stones [491]. 3.4.13.a. Recommendation for management of patients with residual stones Recommendation Strength rating Treat residual fragments > 4mm. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Treat residual fragments > 4mm.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-14-management-of-specific-patient-groups",
+      "title": "3.4.14. Management of specific patient groups",
+      "level": 4,
+      "text": "3.4.14.a. Management of urinary stones and related problems during pregnancy Clinical management of a pregnant patient with urolithiasis is complex and demands close collaboration between the patient, radiologist, obstetrician and urologist [78]. For diagnostic imaging, see Section 3.3.1. Patients with urolithiasis may be at increased risk of developing adverse maternal or neonatal outcomes [492]. Conservative approaches for symptomatic hydronephrosis, as well as for ureteric calculi, are the preferred initial management option in pregnant patients [493,494]. If spontaneous passage does not occur, or if complications develop (e.g. intractable symptoms, severe hydronephrosis, spontaneous renal fornix rupture [495] or induction of premature labour), placement of a ureteral stent or a percutaneous nephrostomy tube is necessary, as it is more effective than conservative treatment for symptom relief [496-498]. In the treatment of renal stones during pregnancy, when drainage is necessary, PCN versus ureteral stent placement does not confer a significant difference in rates of adverse pregnancy events. However, ureteral stent placement was associated with a lower incidence of hospital admissions, emergency department visits, exchange procedures, and new UTIs or pyelonephritis [499]. Ureteroscopy has become a reasonable alternative in these situations [487,500,501]. When compared to temporary ureteral JJ stenting until after delivery, ureteroscopy resulted in fewer needs for stent exchanges, less irritative LUTS and better patient satisfaction [502,503]. Non-urgent ureteroscopy in pregnant women is best performed during the second trimester by an experienced urologist [504]. Counselling of the patient should include access to neonatal and obstetric services [83]. Although feasible, percutaneous removal of renal stones during pregnancy remains an individual decision and should be performed only in experienced centres [505]. Pregnancy remains an absolute contraindication for SWL. 3.4.14.a.1. Summary of evidence and recommendation for the management of urinary stones and relationship problems during pregnancy Summary of evidence LE Stent insertion seems to be more effective than conservative treatment in the management of symptomatic ureteral stones causing moderate-to-severe hydronephrosis during pregnancy. 1a Ureteroscopy is a reasonable alternative to avoid long-term stenting/drainage. 1b There is a higher tendency for stent encrustation during pregnancy. 3 Recommendation Strength rating Treat all uncomplicated cases of urolithiasis in pregnancy conservatively (except when there are clinical indications for intervention). Strong 3.4.14.b. Management of stones in patients with urinary diversion Aetiology Patients with urinary diversion are at high risk for stone formation in the renal collecting system and ureter or in the conduit or continent reservoir [506,507]. Metabolic factors (hypercalciuria, hyperoxaluria and hypocitraturia), infection with urease-producing bacteria, foreign bodies, mucus secretion, and urinary stasis are responsible for stone formation [508] (see Section 3.1.3). One study has shown that the risk for recurrent upper tract stones in patients with urinary diversion subjected to PCNL was 63% at five years [509]. Management Smaller upper-tract stones can be treated effectively with SWL [510,511]. In most cases, endourological techniques are necessary to achieve stone-free status [512]. In individuals with long, tortuous conduits or with invisible ureter orifices, a retrograde endoscopic approach might be difficult or impossible [513]. For stones in the conduit, a trans-stomal approach can be used to remove all stone material (along with the foreign body) using standard techniques, including intracorporeal lithotripsy and flexible endoscopes. Trans-stomal manipulations in continent urinary diversion must be performed carefully to avoid disturbance of the continence mechanism [514]. Before considering any percutaneous approach in these cases, CT should be undertaken to assess the presence of overlying bowel, which could make this approach unsafe [515], and if present, a surgical approach should be considered. Prevention Recurrence risk is high in patients with urinary diversion [509]. Metabolic evaluation and close follow-up are necessary to obtain the risk parameters for effective long-term prevention. Preventive measures include medical management of metabolic abnormalities, appropriate therapy of urinary infections, and hyper-diuresis or regular irrigation of continent reservoirs [516]. 3.4.14.b.1. Summary of evidence and recommendation for the management of stones in patients with urinary diversion Summary of evidence LE The choice of access depends on the feasibility of orifice identification in the conduit or bowel reservoir. Whenever a retrograde approach is impossible, percutaneous access with antegrade ureteroscopy is the alternative. 4 Recommendation Strength rating Perform percutaneous l",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Stent insertion seems to be more effective than conservative treatment in the management of symptomatic ureteral stones causing moderate-to-severe hydronephrosis during pregnancy.",
+              "1a"
+            ],
+            [
+              "Ureteroscopy is a reasonable alternative to avoid long-term stenting/drainage.",
+              "1b"
+            ],
+            [
+              "There is a higher tendency for stent encrustation during pregnancy.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Treat all uncomplicated cases of urolithiasis in pregnancy conservatively (except when there are clinical indications for intervention).",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "The choice of access depends on the feasibility of orifice identification in the conduit or bowel reservoir. Whenever a retrograde approach is impossible, percutaneous access with antegrade ureteroscopy is the alternative.",
+              "4"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Perform percutaneous lithotomy to remove large renal stones in patients with urinary diversion, as well as for ureteral stones that cannot be accessed via a retrograde approach, or that are not amenable to shock wave lithotripsy.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Patients undergoing urinary diversion and/or suffering from neurogenic bladder dysfunction are at risk for recurrent stone formation.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Conservative treatment for small asymptomatic stones is only possible under close surveillance and in compliant patients.",
+              "3"
+            ],
+            [
+              "Shock wave lithotripsy for small calyceal stones is an option with minimal risk of complication, but localisation of the stone can be challenging.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Offer patients with transplanted kidneys any of the contemporary management options, including shock wave lithotripsy, flexible ureteroscopy and percutaneous nephrolithotomy.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Special problems in stone removal"
+            ],
+            [
+              "Calyceal diverticulum stones",
+              "SWL, PCNL [540] (if possible) or RIRS [540-542].Can also be removed using laparoscopic retroperitoneal surgery [543,544].Patients may become asymptomatic due to stone disintegration (SWL), whilst well-disintegrated stone material remains in the original position due to narrow calyceal neck."
+            ],
+            [
+              "Horseshoe kidneys",
+              "Can be treated in line with the options described above [545-547].Passage of fragments after SWL or fragmentation of stones might be poor.Acceptable SFRs (up to 76%) with low major complication rates (2.4%) can be achieved with flexible ureteroscopy [545-547]."
+            ],
+            [
+              "Stones in pelvic kidneys",
+              "SWL, RIRS, PCNL or laparoscopic surgery [548]."
+            ],
+            [
+              "Stones formed in a continent reservoir",
+              "Each stone must be considered and treated individually."
+            ],
+            [
+              "Patients with obstructionof the UPJ",
+              "When outflow abnormality requires correction, stones can be removed by PCNL together with percutaneous endopyelotomy or open/laparoscopic reconstructive surgery.URS together with endopyelotomy with Ho:YAG laser [549]."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-4-15-management-of-stones-in-children",
+      "title": "3.4.15. Management of stones in children",
+      "level": 4,
+      "text": "The true incidence of nephrolithiasis in children remains unclear due to the global lack of large epidemiological studies. Data derived from nationwide epidemiological studies, studies performed in various counties worldwide [550] and large-scale databases [551,552], indicate that the incidence and prevalence of paediatric urinary stone disease have increased over the last few decades. Although boys are most commonly affected in the first decade of life [553], the greatest increase in incidence has been seen in older female adolescents [550]. Stone composition is similar in children as in adults, with a predominance of calcium oxalate stones. Compared to historical data, metabolic abnormalities responsible for stone formation are less commonly identified in children nowadays [554-556]. Hypocitraturia, low urine volume and hypercalciuria predominate [554-557]. Age may affect the predominant metabolic abnormality with hypercalciuria and hypocitraturia being the most common disorder present in children < 10 and > 10 years old, respectively [556]. Genetic or systemic diseases (e.g. cystinuria or nephrocalcinosis) contributing to stone formation are relatively frequent in children, accounting for less than 17% of the identified cases [554,558]. The role of diet remains unclear in children, although there is some evidence that children are drinking less water and taking greater daily amounts of sodium than is recommended [559-561]. For diagnostic procedures, see Section 3.3.3.b; for acute decompression, see Section 3.4.2; and for metabolic evaluation, see Chapter 4. 3.4.15.a. Clinical presentation Children with urinary stones can be asymptomatic or present with non-specific symptoms that necessitate a high index of suspicion for proper diagnosis. Symptoms are age-dependent with infants presenting with crying, irritability and vomiting in 40% of cases [562], while in older children, flank pain, micro or gross haematuria and recurrent UTIs are more common [563]. 3.4.15.b. Conservative management There is a lack of evidence on conservative management of paediatric stones with evidence for ureteric calculi coming from the placebo arms of medical expulsive trials, while evidence for renal stones comes from small cohort studies, either on primary stones [564,565] or residual fragments after SWL, RIRS or PCNL [566]. Expectant management for single, asymptomatic lower-pole renal stones could be the initial approach, with increased odds of stone passage, especially in patients with non-struvite, noncystine stones < 7mm, with no anatomic abnormalities [564]. Intervention may be needed for stones located elsewhere independently of their size [564-567]. 3.4.15.c. Medical expulsive therapy in children There are limited studies on MET as off-label expulsive therapy for children with ureteral stones up to 10mm which show conflicting outcomes. Several systematic reviews and meta-analyses, including six RCTs and one conference abstract of an RCT, have been performed, all unanimously reporting that the use of α-blockers for distal ureteric stones increases the stone-free or stone expulsion rate [138,567,568]. The use of α-blockers also reduces the stone expulsion time and decreases the number of pain episodes and the need for analgesia, with the disadvantage of more side-effects such as headache and nasal congestion [138,568]. 3.4.15.d. Extracorporeal shock wave lithotripsy Shock wave lithotripsy is still the first-line treatment for most ureteral stones in children. However, it is less likely to be successful for stones > 10mm in diameter, impacted stones, calcium oxalate monohydrate or cystine stones, or for stones in children with unfavourable anatomy and in whom localisation is difficult [569]. Studies on extracorporeal SWL in children suggest an overall SFR of 70–90%, retreatment rate of 4–50% and need for auxiliary procedures in 4–12.5% of cases [570-574]. A MA of 14 studies reporting on 1,842 paediatric patients treated with SWL found significantly higher SFR for stones < 10mm than for stones 10mm, and higher retreatment rates as the stone size increased [569]. For best clinical practice, see Section 3.4.5. An MA on slow SWL versus rapid SWL for renal stones revealed very low-quality evidence about the effects of SWL on SFRs, serious adverse events or complications of treatment, and secondary procedures for residual fragments [567]. Shock wave lithotripsy is well tolerated; however, good treatment outcomes are more likely to require the administration of general anaesthesia to children. With improvements in modern (second- and third-generation) lithotripters, successful treatment using intravenous sedation, patient-controlled analgesia or no medication at all has been increasingly performed in a select population of older, co-operative children [575]. Based on the results of an MA which compared SWL to dissolution therapy for intrarenal stones, and SWL to ureteroscopy with holmium laser or pneumatic lithotripsy for renal an",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "In children, MET could increase the rate of stone expulsion, reduce the stone expulsion time and decrease pain episodes/analgesia demand, but it has a higher incidence of side effects.",
+              "1b"
+            ],
+            [
+              "In children, the indications for SWL, URS and PCNL are similar to those in adults.",
+              "1b"
+            ],
+            [
+              "Children with renal stones of a diameter up to 20 mm (~300 mm2) are ideal candidates for SWL.",
+              "1b"
+            ],
+            [
+              "Ureteroscopy has become the treatment of choice for larger distal ureteral stones in children.",
+              "1a"
+            ],
+            [
+              "Mini-PCNL is safe and effective in children.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Offer children with single ureteral stones less than 10mm shock wave lithotripsy (SWL) if localisation is possible or ureteroscopy as first-line option.",
+              "Strong"
+            ],
+            [
+              "Ureteroscopy is a feasible alternative for ureteral stones not amenable to SWL.",
+              "Strong"
+            ],
+            [
+              "Offer children with renal stones with a diameter of up to 20mm (±300mm2) SWL.",
+              "Strong"
+            ],
+            [
+              "Offer children with renal pelvic or calyceal stones with a diameter > 20mm (±300mm2) percutaneous nephrolithotomy.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-5-radiation-exposure-and-protection-during-endourology",
+      "title": "3.5. Radiation exposure and protection during endourology",
+      "level": 3,
+      "text": "The diagnosis and treatment of nephrolithiasis are associated with high levels of ionising radiation exposure to patients [617,618]. Currently, there are no studies estimating the lifetime radiation exposure of stone formers or the subsequent risk of malignancy development. The radiation exposure of endourologists has been extensively studied. Still, there are no studies assessing the risk of radiation-induced malignancies in urologists or operating theatre staff members [619-621]. Current evidence from atomic bomb patients [622,623], retrospective epidemiological data on medical exposure [624,625], and modelling studies [626,627] suggest an age- and dose-dependent risk of secondary malignancy from ionising radiation. Radiation exposure of patients generally is higher during PCNL, followed by SWL and URS [628]. The International Commission on Radiological Protection (ICRP) recommends a maximum annual occupational exposure of 50mSv [629]. However, the risk of radiation-induced malignancy follows a stochastic model having no known safe threshold of exposure. Taking this into consideration, as well as the length of a urologist’s career, the upper limit of 50mSv is still highly concerning. Table 3.13 shows the EAU Urolithiasis Guidelines Panel’s recommended protection methods to reduce radiation exposure to patients, surgical, anaesthesiologic, and nursing staff. Table 3.13: Radiation protection measures  Radiation protection measures Limit studies or intervention involving radiation exposure to those that are strictly medically necessary. Implement a patient electronic record of medical imaging. Make use of imaging studies with lower radiation doses (US, KUB, digital tomosynthesis, low-dose and ultra-low-dose CT scan). Create and follow a precise radiation exposure protection protocol in your department. Act in accordance with the As Low As Reasonably Achievable (ALARA) principle. Measure and report fluoroscopy time to the operative surgeon (use dosimeters and perform monthly calculations). Technical measures to reduce radiation exposure include: Reducing fluoroscopy time; Limiting time adjacent to patient; Using low-dose radiation; Irradiating only to observe motion; Intraoperative use of pulsed fluoroscopy; Reduced fluoroscopy pulse rate; Collimated fields; and Avoid digital image acquisition and rely on last image hold and instant replay technology. Use radiation protection instruments (chest, pelvic and thyroid shields, lead or lead-free gloves, protective glasses, lead protection under the operating table between the X-ray source and the surgeon). The radiation protection instruments must be cared for appropriately, as any damage decreases effectiveness and increases exposure risk. They should be monitored and measured regularly to ensure integrity. Proper surgeon and operating room setup should be observed (follow the inverse square law, use the X-ray source underneath the patient’s body, decrease the X-ray source to patient distance, reduce magnification, avoid field overlap by not turning the C-arm in extreme angles, operate in the standing rather than the seated position). The availability of fluoroscopy is mandatory for endourological procedures. There is an increasing interest in fluoroless and fluoroscopy-free operations in urology. A systematic review by the panel has demonstrated that fluoroscopy-free procedures can be performed without significantly influencing the outcomes such as SFR, operative time and complications. However, many trials included in the MA excluded patients with complex stone loads or anatomic abnormalities [229].",
+      "tables": [
+        {
+          "rows": [
+            [
+              " Radiation protection measures"
+            ],
+            [
+              "Limit studies or intervention involving radiation exposure to those that are strictly medically necessary."
+            ],
+            [
+              "Implement a patient electronic record of medical imaging."
+            ],
+            [
+              "Make use of imaging studies with lower radiation doses (US, KUB, digital tomosynthesis, low-dose andultra-low-dose CT scan)."
+            ],
+            [
+              "Create and follow a precise radiation exposure protection protocol in your department."
+            ],
+            [
+              "Act in accordance with the As Low As Reasonably Achievable (ALARA) principle."
+            ],
+            [
+              "Measure and report fluoroscopy time to the operative surgeon (use dosimeters and perform monthly calculations)."
+            ],
+            [
+              "Technical measures to reduce radiation exposure include:Reducing fluoroscopy time;Limiting time adjacent to patient;Using low-dose radiation;Irradiating only to observe motion;Intraoperative use of pulsed fluoroscopy;Reduced fluoroscopy pulse rate;Collimated fields; andAvoid digital image acquisition and rely on last image hold and instant replay technology."
+            ],
+            [
+              "Use radiation protection instruments (chest, pelvic and thyroid shields, lead or lead-free gloves, protective glasses, lead protection under the operating table between the X-ray source and the surgeon)."
+            ],
+            [
+              "The radiation protection instruments must be cared for appropriately, as any damage decreases effectiveness and increases exposure risk. They should be monitored and measured regularly to ensure integrity."
+            ],
+            [
+              "Proper surgeon and operating room setup should be observed (follow the inverse square law, use the X-ray source underneath the patient’s body, decrease the X-ray source to patient distance, reduce magnification, avoid field overlap by not turning the C-arm in extreme angles, operate in the standing rather than the seated position)."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 55
+}

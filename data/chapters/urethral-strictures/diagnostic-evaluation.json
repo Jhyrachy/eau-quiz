@@ -1,0 +1,732 @@
+{
+  "guideline": "urethral-strictures",
+  "chapter": "diagnostic-evaluation",
+  "url": "https://uroweb.org/guidelines/urethral-strictures/chapter/diagnostic-evaluation",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Summary of changes",
+      "anchor": "#1-5-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODOLOGY",
+      "anchor": "#2-methodology"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Methods",
+      "anchor": "#2-1-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. DEFINITION EPIDEMIOLOGY AETIOLOGY AND PREVENTION",
+      "anchor": "#3-definition-epidemiology-aetiology-and-prevention"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definitions",
+      "anchor": "#3-1-definitions"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Epidemiology",
+      "anchor": "#3-2-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Aetiology and prevention",
+      "anchor": "#3-3-aetiology-and-prevention"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Aetiology and prevention in males",
+      "anchor": "#3-3-1-aetiology-and-prevention-in-males"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Aetiology in females",
+      "anchor": "#3-3-2-aetiology-in-females"
+    },
+    {
+      "level": 2,
+      "text": "4. CLASSIFICATIONS",
+      "anchor": "#4-classifications"
+    },
+    {
+      "level": 3,
+      "text": "4.1. According to stricture location",
+      "anchor": "#4-1-according-to-stricture-location"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. In males",
+      "anchor": "#4-1-1-in-males"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. In females",
+      "anchor": "#4-1-2-in-females"
+    },
+    {
+      "level": 3,
+      "text": "4.2. According to stricture tightness",
+      "anchor": "#4-2-according-to-stricture-tightness"
+    },
+    {
+      "level": 3,
+      "text": "4.3. According to stricture severity",
+      "anchor": "#4-3-according-to-stricture-severity"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Strictures in transgender men and woman",
+      "anchor": "#4-4-strictures-in-transgender-men-and-woman"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Trans women",
+      "anchor": "#4-4-1-trans-women"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Trans men",
+      "anchor": "#4-4-2-trans-men"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSTIC EVALUATION",
+      "anchor": "#5-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Patient history",
+      "anchor": "#5-1-patient-history"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Physical examination",
+      "anchor": "#5-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Further diagnostic evaluation",
+      "anchor": "#5-2-1-further-diagnostic-evaluation"
+    },
+    {
+      "level": 2,
+      "text": "6. DISEASE MANAGEMENT IN MALES",
+      "anchor": "#6-disease-management-in-males"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Conservative options",
+      "anchor": "#6-1-conservative-options"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Observation",
+      "anchor": "#6-1-1-observation"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Suprapubic catheter",
+      "anchor": "#6-1-2-suprapubic-catheter"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Endoluminal treatment of anterior urethral strictures in males",
+      "anchor": "#6-2-endoluminal-treatment-of-anterior-urethral-strictures-in-males"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Direct vision internal urethrotomy",
+      "anchor": "#6-2-1-direct-vision-internal-urethrotomy"
+    },
+    {
+      "level": 4,
+      "text": "6.2.2. Single dilatation",
+      "anchor": "#6-2-2-single-dilatation"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Open repairs (urethroplasty): site and aetiology (clinical scenario) treatment options",
+      "anchor": "#6-3-open-repairs-urethroplasty-site-and-aetiology-clinical-scenario-treatment-options"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. The role of urethroplasty in the management of penile urethral strictures",
+      "anchor": "#6-3-1-the-role-of-urethroplasty-in-the-management-of-penile-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Urethroplasty for bulbar strictures",
+      "anchor": "#6-3-2-urethroplasty-for-bulbar-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.3. Urethroplasty for penobulbar or panurethral strictures",
+      "anchor": "#6-3-3-urethroplasty-for-penobulbar-or-panurethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "6.3.4. Perineal urethrostomy",
+      "anchor": "#6-3-4-perineal-urethrostomy"
+    },
+    {
+      "level": 4,
+      "text": "6.3.5. Posterior urethra",
+      "anchor": "#6-3-5-posterior-urethra"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT IN FEMALES",
+      "anchor": "#7-disease-management-in-females"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Signs and symptoms of female urethral strictures",
+      "anchor": "#7-1-signs-and-symptoms-of-female-urethral-strictures"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Diagnosis of female urethral strictures",
+      "anchor": "#7-2-diagnosis-of-female-urethral-strictures"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Treatment of female urethral strictures",
+      "anchor": "#7-3-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Minimally invasive techniques for treatment of female urethral strictures",
+      "anchor": "#7-3-1-minimally-invasive-techniques-for-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Urethroplasty for treatment of female urethral strictures",
+      "anchor": "#7-3-2-urethroplasty-for-treatment-of-female-urethral-strictures"
+    },
+    {
+      "level": 2,
+      "text": "8. DISEASE MANAGEMENT IN TRANSGENDER PATIENTS",
+      "anchor": "#8-disease-management-in-transgender-patients"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Treatment of strictures in trans men",
+      "anchor": "#8-1-treatment-of-strictures-in-trans-men"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Management of strictures early after neophallic reconstruction",
+      "anchor": "#8-1-1-management-of-strictures-early-after-neophallic-reconstruction"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Treatment of meatal stenosis in trans men",
+      "anchor": "#8-1-2-treatment-of-meatal-stenosis-in-trans-men"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Treatment of strictures at the neophallic urethra",
+      "anchor": "#8-1-3-treatment-of-strictures-at-the-neophallic-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.4. Treatment of strictures at the anastomosis neophallic urethra-fixed part of the urethra",
+      "anchor": "#8-1-4-treatment-of-strictures-at-the-anastomosis-neophallic-urethra-fixed-part-of-the-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.5. Treatment of strictures at the fixed part of the urethra",
+      "anchor": "#8-1-5-treatment-of-strictures-at-the-fixed-part-of-the-urethra"
+    },
+    {
+      "level": 4,
+      "text": "8.1.6. Definitive perineostomy in trans men",
+      "anchor": "#8-1-6-definitive-perineostomy-in-trans-men"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Perioperative care after treatment of strictures in trans men",
+      "anchor": "#8-2-perioperative-care-after-treatment-of-strictures-in-trans-men"
+    },
+    {
+      "level": 3,
+      "text": "8.3. Strictures in trans women",
+      "anchor": "#8-3-strictures-in-trans-women"
+    },
+    {
+      "level": 2,
+      "text": "9. TISSUE TRANSFER",
+      "anchor": "#9-tissue-transfer"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Comparison of grafts with flaps",
+      "anchor": "#9-1-comparison-of-grafts-with-flaps"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Comparison of different types of flaps",
+      "anchor": "#9-2-comparison-of-different-types-of-flaps"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Comparison of different types of grafts",
+      "anchor": "#9-3-comparison-of-different-types-of-grafts"
+    },
+    {
+      "level": 3,
+      "text": "9.4. Tissue engineered grafts",
+      "anchor": "#9-4-tissue-engineered-grafts"
+    },
+    {
+      "level": 4,
+      "text": "9.4.1. Cell-free tissue engineered grafts",
+      "anchor": "#9-4-1-cell-free-tissue-engineered-grafts"
+    },
+    {
+      "level": 4,
+      "text": "9.4.2. Autologous tissue engineered oral mucosa grafts",
+      "anchor": "#9-4-2-autologous-tissue-engineered-oral-mucosa-grafts"
+    },
+    {
+      "level": 3,
+      "text": "9.5. Management of oral cavity after buccal mucosa harvesting",
+      "anchor": "#9-5-management-of-oral-cavity-after-buccal-mucosa-harvesting"
+    },
+    {
+      "level": 2,
+      "text": "10. PERIOPERATIVE CARE OF URETHRAL SURGERY",
+      "anchor": "#10-perioperative-care-of-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Urethral rest",
+      "anchor": "#10-1-urethral-rest"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Antibiotics",
+      "anchor": "#10-2-antibiotics"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Catheter management",
+      "anchor": "#10-3-catheter-management"
+    },
+    {
+      "level": 2,
+      "text": "11. FOLLOW UP",
+      "anchor": "#11-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "11.1. Rationale for follow-up after urethral surgery",
+      "anchor": "#11-1-rationale-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.2. Definition of success after urethroplasty surgery",
+      "anchor": "#11-2-definition-of-success-after-urethroplasty-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.3. Follow-up tools after urethral surgery",
+      "anchor": "#11-3-follow-up-tools-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.1. Diagnostic tools for follow-up after urethral surgery",
+      "anchor": "#11-3-1-diagnostic-tools-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.2. Screening tools for follow-up after urethral surgery",
+      "anchor": "#11-3-2-screening-tools-for-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 4,
+      "text": "11.3.3. Quality of life assessment, including disease specific questionnaires during follow-up after urethral surgery",
+      "anchor": "#11-3-3-quality-of-life-assessment-including-disease-specific-questionnaires-during-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.4. Ideal follow-up interval after urethral surgery",
+      "anchor": "#11-4-ideal-follow-up-interval-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.5. Length of follow-up after urethral surgery",
+      "anchor": "#11-5-length-of-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.6. Risk-stratified proposals during follow-up after urethral surgery",
+      "anchor": "#11-6-risk-stratified-proposals-during-follow-up-after-urethral-surgery"
+    },
+    {
+      "level": 3,
+      "text": "11.7. Follow-up protocol proposal after urethroplasty",
+      "anchor": "#11-7-follow-up-protocol-proposal-after-urethroplasty"
+    },
+    {
+      "level": 4,
+      "text": "11.7.1. Surgeries with low risk of recurrence",
+      "anchor": "#11-7-1-surgeries-with-low-risk-of-recurrence"
+    },
+    {
+      "level": 4,
+      "text": "11.7.2. Surgical management options with standard risk of recurrence",
+      "anchor": "#11-7-2-surgical-management-options-with-standard-risk-of-recurrence"
+    },
+    {
+      "level": 2,
+      "text": "12. REFERENCES",
+      "anchor": "#12-references"
+    },
+    {
+      "level": 2,
+      "text": "13. CONFLICT OF INTEREST",
+      "anchor": "#13-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "14. CITATION INFORMATION",
+      "anchor": "#14-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "15. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#15-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#urethral-strictures",
+      "title": "Urethral Strictures",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 5. Diagnostic Evaluation Introduction Methodology Definition Epidemiology Aetiology And Prevention Classifications Diagnostic Evaluation Disease Management In Males Disease Management In Females Disease Management In Transgender Patients Tissue Transfer Perioperative Care Of Urethral Surgery Follow Up References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#5-diagnostic-evaluation",
+      "title": "5. DIAGNOSTIC EVALUATION",
+      "level": 2,
+      "text": "A comprehensive diagnostic evaluation of urethral stricture disease encompasses clinical history and examination, urinalysis (+/- culture), uroflowmetry and post-void residual (PVR) assessment, radiography and endoscopy.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-1-patient-history",
+      "title": "5.1. Patient history",
+      "level": 3,
+      "text": "The purpose of history-taking is to assess symptoms including severity and duration, possible aetiology, prior treatments, complications, associated problems and patient factors that may impact upon surgical outcome. The clinical presentation of urethral stricture disease is varied. In a retrospective analysis of 611 patients with an endoscopically confirmed diagnosis of urethral stricture, LUTS were the most common presentation (54.3%) followed by acute urinary retention (22.3%), urinary tract infection (UTI) (6.1%) and difficult catheterisation (4.8%) [155]. In a retrospective study of 214 patients who underwent anterior urethroplasty, weak stream was reported as the most common individual LUTS (49%), followed by incomplete emptying (27%) and urinary frequency (20%) [156]. A further retrospective series of 614 patients undergoing anterior urethroplasty found post-void dribble to be present in 73% [157]. Genitourinary pain is a common feature, affecting 22.9–71% of patients [29,155,158]. Pain may be felt in the bladder and/or urethra, is associated with more severe LUTS, is more likely to be felt by younger men, and resolves in most following reconstruction [158]. Other complaints include spraying (9%), visible haematuria (3.1–5%), urethral abscess/necrotising fasciitis (2.3%), urgency (14%) and incontinence (1–4%) [155, 156]. To establish aetiology, an enquiry about a history of pelvic, genital or perineal trauma, prior instrumentation, prior surgeries, irradiation or focal therapies and urethritis should be made. It is important to document prior surgical approaches and date of the most recent intervention (e.g. dilatation), as this may impact upon the timing of radiological evaluation or surgical treatment. Problems of sexual function are common in patients with urethral stricture disease [159,160] and sexual function may be impacted upon by surgical intervention [161, 162]. Therefore, the status of erectile and ejaculatory function should be established and documented using validated tools. The performance status of the patient should be determined, as it may influence the choice of treatment (curative or palliative). A past medical history should assess factors that may impact upon tissue healing including diabetes, immunosuppression and smoking. Oral tobacco use or the chewing of betel leaves may increase the risk of morbidity at the harvest site or render oral mucosa too poor for use. Prior harvest of oral mucosa should be noted as alternative sources for tissue transfer [163] or alternative surgical approaches (e.g. perineal urethrostomy [PU]) may need to be considered.",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-physical-examination",
+      "title": "5.2. Physical examination",
+      "level": 3,
+      "text": "The abdomen should be examined for the presence of a palpable bladder. The location of any suprapubic tube should be noted to assess its potential utility for antegrade cystoscopy or the placement of a sound (to facilitate repair) [164]. Examination of the genitalia should note the presence of foreskin, the position and size of the meatus, as well as any evidence of scarring suggestive of LS. Preoperative biopsy to confirm LS may be performed if this alters management and is essential if malignancy is suspected [165]. The presence of penile or perineal fistulae should be noted. The urethra should be palpated to assess for induration suggestive of significant fibrosis. In rare cases, a mass may signify a urethral carcinoma. A rectal examination to assess for prostatic pathology, which may be the cause of urinary symptoms, should be undertaken. In patients with posterior urethral stenosis, rectal adherence to the prostate and the mobility of the surrounding tissues should be assessed [166]. The oral cavity should be examined for the suitability of oral mucosa. Measurement of BMI will identify obese individuals who are at greater risk of leg compartment syndrome when placed in the lithotomy position for a prolonged time period [167]. Assessing hip mobility is important when considering an exaggerated lithotomy position, as some patients may have limited hip flexion due to unresolved orthopaedic problems [164].",
+      "tables": []
+    },
+    {
+      "anchor": "#5-2-1-further-diagnostic-evaluation",
+      "title": "5.2.1. Further diagnostic evaluation",
+      "level": 4,
+      "text": "5.2.1.a. Patient reported outcome measure (PROM) The first validated urethral stricture surgery PROM (USS-PROM) was reported in 2011[168]. It consists of six LUTS questions derived from the International Consultation on Incontinence Questionnaire Male LUTS (ICIQ- MLUTS) module, a LUTS-specific QoL question, the Peeling voiding chart and the EQ-5D to assess overall health-related QoL (HRQoL). The postoperative questionnaire contains an additional two questions to assess overall patient satisfaction. This PROM has been validated in several other languages (German, Spanish, Italian, Dutch, Turkish, Polish, Japanese) and is increasingly used in research studies, as well as in clinical practice. A further PROM is in development in North America but requires validation [169] (see Section 11). Summary of evidence LE A specific urethral stricture surgery patient reported outcome measure was found to have psychometric validity in the assessment of patient-derived benefit from surgical intervention for urethral stricture disease. 2a Sexual dysfunction is prevalent in patients with urethral strictures and sexual function can be affected by surgical management of urethral stricture. 3 Recommendations Strength rating Use a validated patient reported outcome measure to assess symptom severity and impact upon quality of life in males undergoing surgery for urethral stricture disease. Strong Use a validated tool to assess sexual function in males undergoing surgery for urethral stricture disease. Strong 5.2.1.b. Urinalysis and urine culture Urinalysis is an essential component of the work-up of patients with LUTS. If infection is suggested, urine culture should be performed to confirm the diagnosis and identify the causative organism and sensitivity to antibiotics. Bacteriuria should be treated prior to surgical intervention to prevent perioperative sepsis [170] (see Chapter 10). 5.2.1.c. Uroflowmetry and post-void residual estimation A reduced maximum flow rate with a prolonged plateau is characteristic of the constrictive obstruction caused by urethral stricture. However, interpretation of flow patterns is subjective and is not considered a reliable screening tool for the detection of stricture [171]. To overcome this, a statistical model based on uroflowmetry parameters was developed and was found to predict urethral stricture with a sensitivity of 80–81% and a specificity of 77–78% [171]. Uroflowmetry is usually combined with ultrasound (US) estimation of PVR to identify patients with urinary retention who may require emergent bladder drainage. Uroflowmetry parameters can also be used for monitoring patients and in the assessment of treatment response (see Chapter 11). Urodynamic studies are not indicated in the vast majority of patients with urethral stricture disease. In patients with suspected bladder dysfunction (e.g. severe storage LUTS, history of irradiation or neurological disease), an assessment of bladder function may help surgical decision making and patient counselling. Similarly, when there is concern that flow impairment or increased PVR are due to detrusor underactivity or an acontractile detrusor, a urodynamic study may help predict the likelihood that the patient would need to perform intermittent self-catheterisation (ISC) postoperatively. The only urodynamic parameter found to distinguish a diagnosis of urethral stricture from BPO is urethral closure pressure which is lower in the former due to the constrictive nature of the obstruction (22.07 vs. 28.4cm H 2 O, p = 0.0039, r = 0.61, BPO vs. stricture) [172]. Summary of evidence LE An RCT with more than 12-months follow-up failed to demonstrate a significant reduction in stricture rate using routine urethrotomy prior to TURP. 1b Recommendation Strength rating Perform uroflowmetry and estimation of post-void residual in patients with suspected urethral stricture disease. Strong 5.2.1.d. Urethrography Retrograde urethrography (RUG) has been widely used as the investigation of choice for evaluating the stricture presence, location, length and any associated anomalies (e.g. false passages, diverticula) [173]. The reported sensitivity and specificity of RUG in the diagnosis of strictures is 91% and 72%, respectively [174]. The positive predictive value (PPV) was 89%, and the negative predictive value (NPV) was 76% [174]. Most reports suggest that RUG underestimates stricture length [175,176]. Interpretation of RUG findings by urologists were found to be more accurate at predicting urethral stricture location and length as compared to evaluation by an independent physician [177]. However, even amongst urologists, poor inter-rater reliability of stricture length, location and caliber was found [178]. Limitations of RUG include difficulty assessing very distal strictures and assessing the proximal extent of strictures, which are too narrow to permit passage of adequate contrast. Combining a RUG with voiding cystourethrography (VCUG) can allow adequate visuali",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "A specific urethral stricture surgery patient reported outcome measure was found to have psychometric validity in the assessment of patient-derived benefit from surgical intervention for urethral stricture disease.",
+              "2a"
+            ],
+            [
+              "Sexual dysfunction is prevalent in patients with urethral strictures and sexual function can be affected by surgical management of urethral stricture.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Use a validated patient reported outcome measure to assess symptom severity and impact upon quality of life in males undergoing surgery for urethral stricture disease.",
+              "Strong"
+            ],
+            [
+              "Use a validated tool to assess sexual function in males undergoing surgery for urethral stricture disease.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "An RCT with more than 12-months follow-up failed to demonstrate a significant reduction in stricture rate using routine urethrotomy prior to TURP.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Perform uroflowmetry and estimation of post-void residual in patients with suspected urethral stricture disease.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Retrograde urethrography is a widely available and easy to perform method of diagnosing and assessing urethral stricture but may underestimate stricture length.",
+              "2a"
+            ],
+            [
+              "Retrograde urethrography alone is not able to assess stricture length (or gap) in obliterative strictures or stenosis.",
+              "2a"
+            ],
+            [
+              "Urethrographic clamp devices are less painful than using the Foley catheter technique.",
+              "2a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform retrograde urethrography to assess stricture location and length in males with urethral stricture disease being considered for reconstructive surgery.",
+              "Strong"
+            ],
+            [
+              "Combine retrograde urethrography with voiding cystourethrography to assess (nearly) obliterative strictures, stenoses and pelvic fracture urethral injuries.",
+              "Strong"
+            ],
+            [
+              "Use clamp devices in preference to the Foley catheter technique for urethrographic evaluation to reduce pain.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Cystourethroscopy will reliably detect the presence of a urethral stricture.",
+              "3"
+            ],
+            [
+              "Combined retrograde urethroscopy and antegrade cystoscopy is more accurate than retrograde and voiding cystourethrography at identifying associated abnormalities such as fistulae, false passages and calculi in patients with PFUI.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Perform cystourethroscopy as an adjunct to imaging if further information is required.",
+              "Weak"
+            ],
+            [
+              "Combine retrograde urethroscopy and antegrade cystoscopy to evaluate pelvic fracture urethral injuries as an adjunct to imaging if further information is required.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Study",
+              "N",
+              "Segment of urethra studied",
+              "Comparator",
+              "Accuracy of SUG"
+            ],
+            [
+              "Diagnosis",
+              "Location",
+              "Length"
+            ],
+            [
+              "Berne-Mestre et al. 2018 [185]",
+              "113",
+              "Anterior and posterior",
+              "RUG, VCUG, surgical findings",
+              "SUG more accurate than RUG (p < 0.05)",
+              "-",
+              "-"
+            ],
+            [
+              "Ravikumar et al. 2014 [191]",
+              "40",
+              "Anterior and posterior",
+              "RUG, VCUG, surgical findings",
+              "Anterior: SUG 100% sensitivity, 100% specificityPosterior: SUG 75% sensitivity,50% specificity.",
+              "-",
+              "-"
+            ],
+            [
+              "Kalabhavi et al. 2018 [176]",
+              "30",
+              "Anterior",
+              "RUG, surgical findings",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "Krukowski et al. 2018 [175]",
+              "66",
+              "Anterior",
+              "RUG, surgical findings",
+              "-",
+              "-",
+              "-"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Study",
+              "N",
+              "Segment of urethra studied",
+              "Comparator",
+              "Accuracy of SUG"
+            ],
+            [
+              "Diagnosis",
+              "Location",
+              "Length"
+            ],
+            [
+              "Murugesan et al. 2018 [194]",
+              "32",
+              "Anterior",
+              "RUG, Surgical findings",
+              "MRI and RUG equivalent(100% sensitivity, 100% specificity)",
+              "-",
+              "-"
+            ],
+            [
+              "Fath El-Bab et al. 2015 [199]",
+              "20",
+              "Anterior",
+              "RUG, Surgical findings",
+              "-",
+              "-",
+              "MRI more accurate than RUG."
+            ],
+            [
+              "El-Ghar et al. 2010 [200]",
+              "30",
+              "Anterior and posterior",
+              "RUG + SUG, Surgical findings",
+              "MRI and RUG equivalent(100% sensitivity, 91.7% specificity)",
+              "-",
+              "MRI and RUG equivalent."
+            ],
+            [
+              "Oh et al. 2010 [201]",
+              "25",
+              "Posterior",
+              "RUG + SUG, Surgical findings",
+              "-",
+              "-",
+              "MRI more accurate than RUG + VCUG."
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Magnetic resonance imaging is more accurate than retrograde urethrography and voiding cystourethrography at determining length of posterior urethral stenoses and can detect alternative associated pathologies (e.g. diverticula, fistulae).",
+              "2a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Consider magnetic resonance imaging urethrography as an ancillary test in posterior urethral stenosis.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 12
+}

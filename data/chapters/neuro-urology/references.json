@@ -1,0 +1,264 @@
+{
+  "guideline": "neuro-urology",
+  "chapter": "references",
+  "url": "https://uroweb.org/guidelines/neuro-urology/chapter/references",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Background",
+      "anchor": "#1-5-background"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Introduction",
+      "anchor": "#2-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. THE GUIDELINE",
+      "anchor": "#3-the-guideline"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#3-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "3.1.1. Introduction",
+      "anchor": "#3-1-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Classification systems",
+      "anchor": "#3-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Introduction",
+      "anchor": "#3-2-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Diagnostic evaluation",
+      "anchor": "#3-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Introduction",
+      "anchor": "#3-3-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Classification systems",
+      "anchor": "#3-3-2-classification-systems"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Timing of diagnosis and treatment",
+      "anchor": "#3-3-3-timing-of-diagnosis-and-treatment"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Patient history",
+      "anchor": "#3-3-4-patient-history"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. Patient quality of life questionnaires",
+      "anchor": "#3-3-5-patient-quality-of-life-questionnaires"
+    },
+    {
+      "level": 4,
+      "text": "3.3.6. Physical examination and additional tests",
+      "anchor": "#3-3-6-physical-examination-and-additional-tests"
+    },
+    {
+      "level": 4,
+      "text": "3.3.7. Urodynamics",
+      "anchor": "#3-3-7-urodynamics"
+    },
+    {
+      "level": 4,
+      "text": "3.3.8. Renal function",
+      "anchor": "#3-3-8-renal-function"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Disease management",
+      "anchor": "#3-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Introduction",
+      "anchor": "#3-4-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Non-invasive conservative treatment",
+      "anchor": "#3-4-2-non-invasive-conservative-treatment"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Surgical treatment",
+      "anchor": "#3-4-3-surgical-treatment"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Urinary tract infection in neurological patients",
+      "anchor": "#3-5-urinary-tract-infection-in-neurological-patients"
+    },
+    {
+      "level": 4,
+      "text": "3.5.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#3-5-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "3.5.2. Diagnostic evaluation",
+      "anchor": "#3-5-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.5.3. Disease management",
+      "anchor": "#3-5-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "3.5.4. Summary of evidence and recommendations for the treatment of urinary tract infections",
+      "anchor": "#3-5-4-summary-of-evidence-and-recommendations-for-the-treatment-of-urinary-tract-infections"
+    },
+    {
+      "level": 3,
+      "text": "3.6. Sexual function and fertility",
+      "anchor": "#3-6-sexual-function-and-fertility"
+    },
+    {
+      "level": 4,
+      "text": "3.6.1. Erectile dysfunction",
+      "anchor": "#3-6-1-erectile-dysfunction"
+    },
+    {
+      "level": 4,
+      "text": "3.6.2. Male fertility",
+      "anchor": "#3-6-2-male-fertility"
+    },
+    {
+      "level": 4,
+      "text": "3.6.3. Female sexuality",
+      "anchor": "#3-6-3-female-sexuality"
+    },
+    {
+      "level": 4,
+      "text": "3.6.4. Female fertility",
+      "anchor": "#3-6-4-female-fertility"
+    },
+    {
+      "level": 3,
+      "text": "3.7. Follow-up",
+      "anchor": "#3-7-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "3.7.1. Introduction",
+      "anchor": "#3-7-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "3.7.2. Summary of evidence and recommendations for follow-up",
+      "anchor": "#3-7-2-summary-of-evidence-and-recommendations-for-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "3.8. Conclusions",
+      "anchor": "#3-8-conclusions"
+    },
+    {
+      "level": 4,
+      "text": "3.8.1. Neurological Patients perspective on lower urinary tract dysfunction diagnosis and management",
+      "anchor": "#3-8-1-neurological-patients-perspective-on-lower-urinary-tract-dysfunction-diagnosis-and-management"
+    },
+    {
+      "level": 2,
+      "text": "4. REFERENCES",
+      "anchor": "#4-references"
+    },
+    {
+      "level": 2,
+      "text": "5. CONFLICT OF INTEREST",
+      "anchor": "#5-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "6. CITATION INFORMATION",
+      "anchor": "#6-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "7. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#7-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#neuro-urology",
+      "title": "Neuro-urology",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 4. References Introduction Methods The Guideline References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#4-references",
+      "title": "4. REFERENCES",
+      "level": 2,
+      "text": "1.Schafer, W., et al. Good urodynamic practices: uroflowmetry, filling cystometry, and pressure-flow studies. Neurourol Urodyn, 2002. 21: 261.  https://www.ncbi.nlm.nih.gov/pubmed/11948720 2.Abrams, P., et al. Reviewing the ICS 2002 terminology report: the ongoing debate. Neurourol Urodyn, 2009. 28: 287.  https://www.ncbi.nlm.nih.gov/pubmed/19350662 3.Abrams, P., et al. The standardisation of terminology of lower urinary tract function: report from the Standardisation Sub-committee of the International Continence Society. Neurourol Urodyn, 2002. 21: 167.  https://www.ncbi.nlm.nih.gov/pubmed/11857671 4.Groen, J., et al. Summary of European Association of Urology (EAU) Guidelines on Neuro-Urology. Eur Urol, 2016. 69: 324.  https://www.ncbi.nlm.nih.gov/pubmed/26304502 5.Nosseir, M., et al. Clinical usefulness of urodynamic assessment for maintenance of bladder function in patients with spinal cord injury. Neurourol Urodyn, 2007. 26: 228.  https://www.ncbi.nlm.nih.gov/pubmed/16998859 6.Panicker, J.N., et al. Lower urinary tract dysfunction in the neurological patient: clinical assessment and management. Lancet Neurol, 2015. 14: 720.  https://www.ncbi.nlm.nih.gov/pubmed/26067125 7.Phillips, B., et al. Oxford Centre for Evidence-based Medicine Levels of Evidence. Updated by Jeremy Howick March 2009. 1998.  https://www.cebm.ox.ac.uk/resources/levels-of-evidence/oxford-centre-for-evidence-based-medicine-levels-of-evidence-march-2009 8.Guyatt, G.H., et al. Going from evidence to recommendations. BMJ, 2008. 336: 1049.  https://www.ncbi.nlm.nih.gov/pubmed/18467413 9.Townsend, N., et al. Cardiovascular disease in Europe--epidemiological update 2015. Eur Heart J, 2015. 36: 2696.  https://www.ncbi.nlm.nih.gov/pubmed/26306399 10.Tibaek, S., et al. Prevalence of lower urinary tract symptoms (LUTS) in stroke patients: a cross-sectional, clinical survey. Neurourol Urodyn, 2008. 27: 763.  https://www.ncbi.nlm.nih.gov/pubmed/18551565 11.Funayama, M., et al. Post-stroke urinary incontinence is associated with behavior control deficits and overactive bladder. Neuropsychologia, 2024. 201: 108942.  https://www.ncbi.nlm.nih.gov/pubmed/38906459 12.Marinkovic, S.P., et al. Voiding and sexual dysfunction after cerebrovascular accidents. J Urol, 2001. 165: 359.  https://www.ncbi.nlm.nih.gov/pubmed/11176374 13.Yamashita, K., et al. An Evaluation of the Postvoid Residual Urine Volume in Acute Stroke Patients. Res Rep Urol, 2024. 16: 265.  https://www.ncbi.nlm.nih.gov/pubmed/39430409 14.Rotar, M., et al. Stroke patients who regain urinary continence in the first week after acute first-ever stroke have better prognosis than patients with persistent lower urinary tract dysfunction. Neurourol Urodyn, 2011. 30: 1315.  https://www.ncbi.nlm.nih.gov/pubmed/21488096 15.Chiu, T.-H., et al. Risk factors for urinary retention requiring catheterization after ischemic middle cerebral artery stroke. Urological Science, 2024. 35: 134.  http://www.e-urol-sci.com/ 16.Lobo, A., et al. Prevalence of dementia and major subtypes in Europe: A collaborative study of population-based cohorts. Neurologic Diseases in the Elderly Research Group. Neurology, 2000. 54: S4.  https://www.ncbi.nlm.nih.gov/pubmed/10854354 17.Na, H.R., et al. Urinary incontinence in Alzheimer’s disease is associated with Clinical Dementia Rating-Sum of Boxes and Barthel Activities of Daily Living. Asia Pac Psychiatry, 2015. 7: 113.  https://www.ncbi.nlm.nih.gov/pubmed/23857871 18.Grant, R.L., et al. First diagnosis and management of incontinence in older people with and without dementia in primary care: a cohort study using The Health Improvement Network primary care database. PLoS Med, 2013. 10: e1001505.  https://www.ncbi.nlm.nih.gov/pubmed/24015113 19.Pringsheim, T., et al. The prevalence of Parkinson’s disease: a systematic review and meta-analysis. Mov Disord, 2014. 29: 1583.  https://www.ncbi.nlm.nih.gov/pubmed/24976103 20.Picillo, M., et al. The PRIAMO study: urinary dysfunction as a marker of disease progression in early Parkinson’s disease. Eur J Neurol, 2017. 24: 788.  https://www.ncbi.nlm.nih.gov/pubmed/28425642 21.Kim, M.S., et al. Urodynamic study and its correlation with cardiac meta-iodobenzylguanidine (MIBG) in body-first and brain-first subtypes of Parkinson’s disease. Eur J Neurol, 2024. 31: e16497.  https://www.ncbi.nlm.nih.gov/pubmed/39345023 22.Li, F.F., et al. Prevalence of lower urinary tract symptoms, urinary incontinence and retention in Parkinson’s disease: A systematic review and meta-analysis. Front Aging Neurosci, 2022. 14: 977572.  https://www.ncbi.nlm.nih.gov/pubmed/36172485 23.Papatsoris, A.G., et al. Urinary and erectile dysfunction in multiple system atrophy (MSA). Neurourol Urodyn, 2008. 27: 22.  https://www.ncbi.nlm.nih.gov/pubmed/17563111 24.Kim, M., et al. Impaired detrusor contractility is the pathognomonic urodynamic finding of multiple system atrophy compared to idiopathic Parkinson’s disease. Parkinsonism Relat Disord, 2015. 21: 205.  https://www.n",
+      "tables": []
+    }
+  ],
+  "tables_count": 0
+}

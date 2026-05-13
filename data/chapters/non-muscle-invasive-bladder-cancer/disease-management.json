@@ -1,0 +1,1415 @@
+{
+  "guideline": "non-muscle-invasive-bladder-cancer",
+  "chapter": "disease-management",
+  "url": "https://uroweb.org/guidelines/non-muscle-invasive-bladder-cancer/chapter/disease-management",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and scope",
+      "anchor": "#1-1-aim-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1 Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY AND AETIOLOGY",
+      "anchor": "#3-epidemiology-and-aetiology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology",
+      "anchor": "#3-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Aetiology",
+      "anchor": "#3-2-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Main risk factors",
+      "anchor": "#3-2-1-main-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.2.2. Genetic",
+      "anchor": "#3-2-2-genetic"
+    },
+    {
+      "level": 4,
+      "text": "3.2.3. Dietary habits",
+      "anchor": "#3-2-3-dietary-habits"
+    },
+    {
+      "level": 4,
+      "text": "3.2.4. Environmental exposure",
+      "anchor": "#3-2-4-environmental-exposure"
+    },
+    {
+      "level": 4,
+      "text": "3.2.5. Pelvic radiation",
+      "anchor": "#3-2-5-pelvic-radiation"
+    },
+    {
+      "level": 4,
+      "text": "3.2.6. Other",
+      "anchor": "#3-2-6-other"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Summary of evidence for epidemiology and aetiology",
+      "anchor": "#3-3-summary-of-evidence-for-epidemiology-and-aetiology"
+    },
+    {
+      "level": 2,
+      "text": "4. PATHOLOGICAL STAGING, GRADING AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-pathological-staging-grading-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Definition of non-muscle-invasive bladder cancer",
+      "anchor": "#4-1-definition-of-non-muscle-invasive-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Tumour, Node, Metastasis classification",
+      "anchor": "#4-2-tumour-node-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.3. T 1 subclassification",
+      "anchor": "#4-3-t-1-subclassification"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Lymphovascular invasion",
+      "anchor": "#4-4-lymphovascular-invasion"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Histological grading of non-muscle-invasive bladder urothelial carcinomas",
+      "anchor": "#4-5-histological-grading-of-non-muscle-invasive-bladder-urothelial-carcinomas"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Types of histological grading systems",
+      "anchor": "#4-5-1-types-of-histological-grading-systems"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Prognostic value of histological grading",
+      "anchor": "#4-5-2-prognostic-value-of-histological-grading"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Clinical application of histological grading systems",
+      "anchor": "#4-5-3-clinical-application-of-histological-grading-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Carcinoma",
+      "anchor": "#4-6-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Inter- and intra-observer variability in staging and grading",
+      "anchor": "#4-7-inter--and-intra-observer-variability-in-staging-and-grading"
+    },
+    {
+      "level": 3,
+      "text": "4.8. Subtypes of urothelial carcinoma",
+      "anchor": "#4-8-subtypes-of-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "4.9. Tumour markers and molecular classification",
+      "anchor": "#4-9-tumour-markers-and-molecular-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.10. Summary of evidence and recommendations for bladder cancer classification",
+      "anchor": "#4-10-summary-of-evidence-and-recommendations-for-bladder-cancer-classification"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSIS",
+      "anchor": "#5-diagnosis"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Patient history",
+      "anchor": "#5-1-patient-history"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Signs and symptoms",
+      "anchor": "#5-2-signs-and-symptoms"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Physical examination",
+      "anchor": "#5-3-physical-examination"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Imaging",
+      "anchor": "#5-4-imaging"
+    },
+    {
+      "level": 4,
+      "text": "5.4.1. Computed tomography urography and intravenous urography",
+      "anchor": "#5-4-1-computed-tomography-urography-and-intravenous-urography"
+    },
+    {
+      "level": 4,
+      "text": "5.4.2. Ultrasound",
+      "anchor": "#5-4-2-ultrasound"
+    },
+    {
+      "level": 4,
+      "text": "5.4.3. Multi-parametric magnetic resonance imaging",
+      "anchor": "#5-4-3-multi-parametric-magnetic-resonance-imaging"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Urinary cytology",
+      "anchor": "#5-5-urinary-cytology"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Urinary molecular marker tests",
+      "anchor": "#5-6-urinary-molecular-marker-tests"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Potential application of urinary cytology and markers",
+      "anchor": "#5-7-potential-application-of-urinary-cytology-and-markers"
+    },
+    {
+      "level": 4,
+      "text": "5.7.1. Screening of the population at risk of bladder cancer",
+      "anchor": "#5-7-1-screening-of-the-population-at-risk-of-bladder-cancer"
+    },
+    {
+      "level": 4,
+      "text": "5.7.2. Investigation of patients after haematuria or other symptoms suggestive of bladder cancer (primary detection)",
+      "anchor": "#5-7-2-investigation-of-patients-after-haematuria-or-other-symptoms-suggestive-of-bladder-cancer-primary-detection"
+    },
+    {
+      "level": 4,
+      "text": "5.7.3. Follow-up of non-muscle-invasive bladder cancer",
+      "anchor": "#5-7-3-follow-up-of-non-muscle-invasive-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "5.8. Cystoscopy",
+      "anchor": "#5-8-cystoscopy"
+    },
+    {
+      "level": 3,
+      "text": "5.9. Summary of evidence and recommendations for the primary assessment of non-muscle-invasive bladder cancer",
+      "anchor": "#5-9-summary-of-evidence-and-recommendations-for-the-primary-assessment-of-non-muscle-invasive-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "5.10. Transurethral resection of TaT1 bladder tumours",
+      "anchor": "#5-10-transurethral-resection-of-tat1-bladder-tumours"
+    },
+    {
+      "level": 4,
+      "text": "5.10.1. Strategy of the procedure",
+      "anchor": "#5-10-1-strategy-of-the-procedure"
+    },
+    {
+      "level": 4,
+      "text": "5.10.2. Surgical and technical aspects of tumour resection",
+      "anchor": "#5-10-2-surgical-and-technical-aspects-of-tumour-resection"
+    },
+    {
+      "level": 3,
+      "text": "5.11. Endoscopic biopsies",
+      "anchor": "#5-11-endoscopic-biopsies"
+    },
+    {
+      "level": 4,
+      "text": "5.11.1. Bladder biopsies",
+      "anchor": "#5-11-1-bladder-biopsies"
+    },
+    {
+      "level": 4,
+      "text": "5.11.2. Prostatic urethral biopsies",
+      "anchor": "#5-11-2-prostatic-urethral-biopsies"
+    },
+    {
+      "level": 3,
+      "text": "5.12. New methods of tumour visualisation",
+      "anchor": "#5-12-new-methods-of-tumour-visualisation"
+    },
+    {
+      "level": 4,
+      "text": "5.12.1. Photodynamic diagnosis (fluorescence cystoscopy or blue light cystoscopy)",
+      "anchor": "#5-12-1-photodynamic-diagnosis-fluorescence-cystoscopy-or-blue-light-cystoscopy"
+    },
+    {
+      "level": 4,
+      "text": "5.12.2. Narrow-band imaging",
+      "anchor": "#5-12-2-narrow-band-imaging"
+    },
+    {
+      "level": 4,
+      "text": "5.12.3. IMAGE1 S™, and other technologies",
+      "anchor": "#5-12-3-image1-s-and-other-technologies"
+    },
+    {
+      "level": 3,
+      "text": "5.13. Second resection (second TURBT)",
+      "anchor": "#5-13-second-resection-second-turbt"
+    },
+    {
+      "level": 4,
+      "text": "5.13.1. Detection of residual disease and tumour upstaging",
+      "anchor": "#5-13-1-detection-of-residual-disease-and-tumour-upstaging"
+    },
+    {
+      "level": 4,
+      "text": "5.13.2. The impact of second resection on treatment outcomes",
+      "anchor": "#5-13-2-the-impact-of-second-resection-on-treatment-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "5.13.3. Timing of second resection",
+      "anchor": "#5-13-3-timing-of-second-resection"
+    },
+    {
+      "level": 4,
+      "text": "5.13.4. Recording of results",
+      "anchor": "#5-13-4-recording-of-results"
+    },
+    {
+      "level": 3,
+      "text": "5.14. Pathology report",
+      "anchor": "#5-14-pathology-report"
+    },
+    {
+      "level": 3,
+      "text": "5.15. Summary of evidence and recommendations for TURBT, biopsies and pathology report",
+      "anchor": "#5-15-summary-of-evidence-and-recommendations-for-turbt-biopsies-and-pathology-report"
+    },
+    {
+      "level": 2,
+      "text": "6. PREDICTING DISEASE RECURRENCE AND PROGRESSION",
+      "anchor": "#6-predicting-disease-recurrence-and-progression"
+    },
+    {
+      "level": 3,
+      "text": "6.1. TaT1 tumours",
+      "anchor": "#6-1-tat1-tumours"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Scoring models using the 1973 WHO classification system",
+      "anchor": "#6-1-1-scoring-models-using-the-1973-who-classification-system"
+    },
+    {
+      "level": 4,
+      "text": "6.1.3. Further prognostic factors",
+      "anchor": "#6-1-3-further-prognostic-factors"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Primary carcinoma",
+      "anchor": "#6-2-primary-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Histological subtypes",
+      "anchor": "#6-3-histological-subtypes"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Patient stratification into risk groups",
+      "anchor": "#6-4-patient-stratification-into-risk-groups"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Summary of evidence and recommendations for stratification of NMIBC",
+      "anchor": "#6-5-summary-of-evidence-and-recommendations-for-stratification-of-nmibc"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT",
+      "anchor": "#7-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Counselling of smoking cessation",
+      "anchor": "#7-1-counselling-of-smoking-cessation"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Office-based fulguration and laser vaporisation",
+      "anchor": "#7-2-office-based-fulguration-and-laser-vaporisation"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Active surveillance",
+      "anchor": "#7-3-active-surveillance"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Adjuvant intravesical treatment",
+      "anchor": "#7-4-adjuvant-intravesical-treatment"
+    },
+    {
+      "level": 4,
+      "text": "7.4.1. Postoperative irrigation",
+      "anchor": "#7-4-1-postoperative-irrigation"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Intravesical chemotherapy",
+      "anchor": "#7-4-2-intravesical-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.4.3. Intravesical BCG immunotherapy",
+      "anchor": "#7-4-3-intravesical-bcg-immunotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.4.4. Combination therapy",
+      "anchor": "#7-4-4-combination-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.5. Intravesical chemoablation and neoadjuvant treatment",
+      "anchor": "#7-5-intravesical-chemoablation-and-neoadjuvant-treatment"
+    },
+    {
+      "level": 3,
+      "text": "7.6. Radical cystectomy for NMIBC",
+      "anchor": "#7-6-radical-cystectomy-for-nmibc"
+    },
+    {
+      "level": 3,
+      "text": "7.7. Primary treatment by disease type",
+      "anchor": "#7-7-primary-treatment-by-disease-type"
+    },
+    {
+      "level": 4,
+      "text": "7.7.1. Primary treatment by risk category",
+      "anchor": "#7-7-1-primary-treatment-by-risk-category"
+    },
+    {
+      "level": 4,
+      "text": "7.7.2. Treatment of carcinoma",
+      "anchor": "#7-7-2-treatment-of-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "7.8. Treatment of failure of intravesical therapy",
+      "anchor": "#7-8-treatment-of-failure-of-intravesical-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.8.1. Recurrence during or after intravesical chemotherapy",
+      "anchor": "#7-8-1-recurrence-during-or-after-intravesical-chemotherapy"
+    },
+    {
+      "level": 4,
+      "text": "7.8.2. Recurrence during or after intravesical BCG therapy",
+      "anchor": "#7-8-2-recurrence-during-or-after-intravesical-bcg-therapy"
+    },
+    {
+      "level": 4,
+      "text": "7.8.3. Summary of evidence - treatment failure of intravesical therapy",
+      "anchor": "#7-8-3-summary-of-evidence---treatment-failure-of-intravesical-therapy"
+    },
+    {
+      "level": 3,
+      "text": "7.9. Multidisciplinary tumour board",
+      "anchor": "#7-9-multidisciplinary-tumour-board"
+    },
+    {
+      "level": 3,
+      "text": "7.10. Recommendations for adjuvant therapy in TaT1 tumours and for therapy of carcinoma",
+      "anchor": "#7-10-recommendations-for-adjuvant-therapy-in-tat1-tumours-and-for-therapy-of-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "7.11. Recommendations for the treatment of TaT1 tumours and carcinoma",
+      "anchor": "#7-11-recommendations-for-the-treatment-of-tat1-tumours-and-carcinoma"
+    },
+    {
+      "level": 2,
+      "text": "8. FOLLOW-UP OF PATIENTS WITH NMIBC",
+      "anchor": "#8-follow-up-of-patients-with-nmibc"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Intravesical surveillance during follow-up",
+      "anchor": "#8-1-intravesical-surveillance-during-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Follow-up of low-risk NMIBC",
+      "anchor": "#8-1-1-follow-up-of-low-risk-nmibc"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Follow-up of intermediate-risk NMIBC",
+      "anchor": "#8-1-2-follow-up-of-intermediate-risk-nmibc"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Follow-up of high- and very high-risk NMIBC",
+      "anchor": "#8-1-3-follow-up-of-high--and-very-high-risk-nmibc"
+    },
+    {
+      "level": 4,
+      "text": "8.1.4. Follow-up of extravesical sites urothelium",
+      "anchor": "#8-1-4-follow-up-of-extravesical-sites-urothelium"
+    },
+    {
+      "level": 4,
+      "text": "8.1.5. Aids for tumour detection during follow-up",
+      "anchor": "#8-1-5-aids-for-tumour-detection-during-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Summary of evidence and recommendations for follow-up of patients after TURBT for NMIBC",
+      "anchor": "#8-2-summary-of-evidence-and-recommendations-for-follow-up-of-patients-after-turbt-for-nmibc"
+    },
+    {
+      "level": 2,
+      "text": "9. PATIENT REPORTED OUTCOME MEASURES AND QUALITY INDICATORS FOR NMIBC",
+      "anchor": "#9-patient-reported-outcome-measures-and-quality-indicators-for-nmibc"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Patient Reported Outcome Measures and Patient Reported Experience Measures in NMIBC",
+      "anchor": "#9-1-patient-reported-outcome-measures-and-patient-reported-experience-measures-in-nmibc"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Quality Indicators in bladder cancer",
+      "anchor": "#9-2-quality-indicators-in-bladder-cancer"
+    },
+    {
+      "level": 2,
+      "text": "10. PRAGMATIC DEINTENSIFICATION STRATEGY IN NMIBC",
+      "anchor": "#10-pragmatic-deintensification-strategy-in-nmibc"
+    },
+    {
+      "level": 2,
+      "text": "11. REFERENCES",
+      "anchor": "#11-references"
+    },
+    {
+      "level": 2,
+      "text": "12. CONFLICT OF INTEREST",
+      "anchor": "#12-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "13. CITATION INFORMATION",
+      "anchor": "#13-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "14. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#14-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#non-muscle-invasive-bladder-cancer",
+      "title": "Non-muscle-invasive Bladder Cancer",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 7. Disease Management Introduction Methods Epidemiology And Aetiology Pathological Staging, Grading And Classification Systems Diagnosis Predicting Disease Recurrence And Progression Disease Management Follow-up Of Patients With Nmibc Patient Reported Outcome Measures And Quality Indicators For Nmibc Pragmatic Deintensification Strategy In Nmibc References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#7-disease-management",
+      "title": "7. DISEASE MANAGEMENT",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#7-1-counselling-of-smoking-cessation",
+      "title": "7.1. Counselling of smoking cessation",
+      "level": 3,
+      "text": "It has been confirmed that smoking increases the risk of tumour recurrence and progression in NMIBC patients [278-280] as well as mortality in all BC patients [281]. A subgroup analysis of 4,405 patients in a large systematic review revealed that current smokers had a significantly higher risk of recurrence compared with former smokers [280]. Patients should be counselled to stop smoking due to the general health risks associated with tobacco smoking [259, 282-284]. An RCT showed that a perioperative, intensive smoking-cessation program delivered around the time of TURBT significantly increased quit rates compared with standard care consisting of only brief advice on smoking cessation (36% vs. 6%). These findings support incorporating structured cessation interventions into routine perioperative management for smokers undergoing BC surgery [285].",
+      "tables": []
+    },
+    {
+      "anchor": "#7-2-office-based-fulguration-and-laser-vaporisation",
+      "title": "7.2. Office-based fulguration and laser vaporisation",
+      "level": 3,
+      "text": "In patients with a history of small Ta LG/G1 tumours, fulguration or laser vaporisation of small papillary recurrences on an outpatient basis can reduce the therapeutic burden [286, 287]. In a prospective RCT, laser photocoagulation with intravesical lidocaine in an outpatient setting proved non-inferior to standard TURBT under general anaesthesia for the four months recurrence rate in patients with recurrent Ta LG papillary lesions that are no more than 1.5 cm each. Notably, the laser fulguration procedure resulted in only a modest pain score (2.4) and was preferred by 98% of patients [288]. In a retrospective cohort of 270 patients with recurrent Ta LG, office fulguration showed favourable long-term outcomes, with ten years cancer-specific mortality and progression rates of 0% and 3.1% (95% CI: 0.8-5.4%), respectively [289]. In a prospective observational study, an outpatient modality of transurethral laser ablation (TULA) appeared to reduce the symptom burden compared with standard TURBT [290]. These findings are preliminary and require confirmation through additional studies.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-3-active-surveillance",
+      "title": "7.3. Active surveillance",
+      "level": 3,
+      "text": "With recurrence in LG(G1) Ta tumours being more likely to be LG and non-invasive [291-293], the risk of progression to a higher grade or stage is infrequent to rare [294-296]. Therefore, expectant management or active surveillance (AS), offers an alternative to TURBT and office-based fulguration. Observing no progression to MIBC, Soloway et al. , first recommended this approach in 2003 [297], and Miyake et al. , subsequently proposed an algorithm for AS using changes in size and multifocality as triggers for intervention [298]. However, a subsequent review [299] reported that the level of evidence in favour of AS appears to be low, with observational studies having heterogenous selection criteria, triggers for intervention and surveillance tools. Conversely, the multicentre prospective Bladder Cancer Italian Active Surveillance (BIAS) project demonstrated that AS is feasible in selected patients [300,301] and that its success is predicted by prognostic variables associated with Ta LG disease [302]. According to another study, IBCG stratification of intermediate-risk NMIBC correlated with duration on AS, with patients with three risk factors being three times more likely to undergo subsequent TURBT compared with patients with no risk factors [302]. Additional evidence from high-quality clinical trials is required to compare AS, office fulguration and TURBT in patients with recurrent LG Ta NMIBC.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-4-adjuvant-intravesical-treatment",
+      "title": "7.4. Adjuvant intravesical treatment",
+      "level": 3,
+      "text": "Although TURBT by itself can eradicate a TaT1 tumour completely, these tumours commonly recur and can progress to MIBC. The high variability in the three-month recurrence rate indicates that the TURBT was incomplete or provokes recurrences in a high percentage of patients [164]. It is therefore necessary to consider adjuvant therapy in all patients.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-4-1-postoperative-irrigation",
+      "title": "7.4.1. Postoperative irrigation",
+      "level": 4,
+      "text": "Two systematic reviews [303, 304] and one meta-analysis [305] suggest efficacy of continuous saline bladder irrigation in the prevention of early recurrences. Therefore, if intravesical chemotherapy is not feasible, irrigation of the bladder might be considered as an alternative option. In an RCT, short-term postoperative irrigation with 2000 mL over three hours was shown to be non-inferior to overnight irrigation [306].",
+      "tables": []
+    },
+    {
+      "anchor": "#7-4-2-intravesical-chemotherapy",
+      "title": "7.4.2. Intravesical chemotherapy",
+      "level": 4,
+      "text": "7.4.2.a. A single, immediate, postoperative intravesical instillation of chemotherapy Immediate SI has been shown to act by destroying circulating tumour cells after TURBT, and by an ablative effect on residual tumour cells at the resection site and on small, overlooked tumours [307-310]. Four large meta-analyses comprising 1,476 to 3,103 patients have consistently shown that after TURBT, SI significantly decreases the recurrence rate compared to TURBT alone [311-314]. In a systematic review and IPD meta-analysis of 2,278 eligible patients [311], SI reduced the five-year recurrence rate by 14%, from 59% to 45%. However, only patients with primary tumours or intermediate-risk recurrent tumours with a prior recurrence rate of < 1 recurrence/year and those with a 2006 EORTC recurrence score < 5 benefited from SI. In patients with a 2006 EORTC recurrence score > 5 and/or patients with a prior recurrence rate of > 1 recurrence per year, SI was not effective as a single adjuvant treatment. No randomised comparisons of individual drugs have been conducted [311-314]. Single instillation with mitomycin C (MMC), epirubicin or pirarubicin [311], as well as gemcitabine [314], have all been shown to lower the intravesical recurrence rate. Single instillation with gemcitabine was superior to saline in an RCT with approximately 200 patients per arm with remarkably low toxicity rates [315]. These findings are in contrast with a previous study that used a shorter instillation time [316]. In the study, continuous saline irrigation was used for 24 hours post-operatively in both arms, which could explain the low recurrence rate in the control arm [316]. Prevention of tumour cell implantation should be initiated within the first few hours after TURBT. After that, tumour cells are firmly implanted and are covered by the extracellular matrix [307, 317-319]. In all SI studies, the instillation was administered within 24 hours. Two RCTs found no overall impact of SI with apaziquone, a bio-reductive prodrug similar to MMC; in contrast, a post-hoc analysis did find a reduction of recurrence risk in patients receiving apaziquone within 90 minutes following TURBT [320]. To maximise the efficacy of SI, flexible practices should be devised that enable the instillation to be given as soon as possible after TURBT, preferably within the first two hours in the recovery room or even in the operating theatre. As severe complications have been reported in patients with drug extravasation, safety measures should be maintained (see Section 7.7) [321,322]. To allow for optimal compliance with this level 1 evidence, clinical teams are encouraged to explore barriers and facilitators within their practice [323]. 7.4.2.b. Additional adjuvant intravesical chemotherapy instillations The need for further adjuvant intravesical therapy depends on prognosis. In low-risk patients (see Tables 6.1 and 6.2), a SI reduces the risk of disease recurrence and is considered to be the standard of care treatment [311, 312]. For other patients, however, a SI remains an incomplete treatment due to the considerable likelihood of disease recurrence and/or progression (see Tables 6.1 and 6.2). Efficacy data for the following comparisons of application schemes were published. Single installation only versus SI and further repeat instillations In one study, further chemotherapy instillations after SI improved RFS in intermediate-risk patients [324]. Repeat chemotherapy instillations versus no adjuvant treatment A large meta-analysis of 3,703 patients from 11 RCTs showed a highly significant (44%) reduction in the odds of recurrence at one year in favour of chemotherapy over TURBT alone [325]. This corresponds to an absolute difference of 13-14% in the proportion of patients with recurrence. Contrary to these findings, two meta-analyses have demonstrated that BCG therapy may also reduce the risk of tumour progression [326, 327]. Moreover, BCG maintenance therapy appears to be significantly better in preventing recurrences than chemotherapy, independently of the type of intravesical chemotherapy [328-331]. However, BCG causes significantly more side effects than chemotherapy [330]. Single instillation plus further repeat instillations versus later repeat instillations only Evidence from several studies in intermediate-risk patients is available showing that SI might have an impact on recurrence even when further adjuvant instillations are given [332-335]. An RCT including 2,243 NMIBC patients, which compared SI of MMC with an instillation of MMC delayed two weeks after TURBT (followed by further repeat instillations in both treatment arms), showed a significant reduction of 9% in the risk of recurrence at three years in favour of SI, from 36% to 27%. The effect was significant in the intermediate- and high-risk groups of patients receiving additional adjuvant MMC instillations [332]. Since the author’s definition of the risk groups differed significantly in the initial publica",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "In patients with low-risk NMIBC and in those with a small Ta LG/G1 recurrence detected more than one year after previous TURBT, a SI significantly reduces the recurrence rate compared to TURBT alone.",
+              "1a"
+            ],
+            [
+              "Single instillation might have an impact on recurrence even when further adjuvant chemotherapy instillations are given, but not in high-risk NMIBC treated with adjuvant BCG.",
+              "2a"
+            ],
+            [
+              "Repeat chemotherapy instillations up to one year (with or without previous SI) improve RFS in intermediate-risk patients.",
+              "2a"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-4-3-intravesical-bcg-immunotherapy",
+      "title": "7.4.3. Intravesical BCG immunotherapy",
+      "level": 4,
+      "text": "7.4.3.a. Efficacy of BCG 7.4.3.a.1. Recurrence rate Five meta-analyses have confirmed that BCG after TURBT is superior to TURBT alone or TURBT plus chemotherapy for preventing the recurrence of NMIBC [328, 352-355]. Three RCTs of intermediate- and high-risk tumours have compared BCG with epirubicin and interferon (IFN) [356], MMC [357], or epirubicin alone [329] and have confirmed the superiority of BCG for prevention of tumour recurrence. The effect is long lasting [329,357] and was also observed in a separate analysis of patients with intermediate-risk tumours [329]. One meta-analysis [328] has evaluated the individual data from 2,820 patients enrolled in nine RCTs that have compared MMC versus BCG. In the trials with BCG maintenance, there was a 32% reduction in the risk of recurrence for BCG compared to MMC, but a 28% increase in the risk of recurrence for patients treated with BCG in the trials without BCG maintenance. A Cochrane systematic review confirmed that BCG is more effective in reducing the recurrence rate over MMC [358]. 7.4.3.a.2. Progression rate Two meta-analyses have demonstrated that BCG therapy delays and potentially lowers the risk of tumour progression [326, 327, 355]. A meta-analysis carried out by the EORTC GUCG has evaluated data from 4,863 patients enrolled in 24 RCTs. In 20 of the trials, some form of BCG maintenance was used. Based on a median follow-up of two and a half years, tumours progressed in 9.8% of the patients treated with BCG compared to 13.8% in the control groups (TURBT alone, TURBT and intravesical chemotherapy, or TURBT with the addition of another immunotherapy). This shows a reduction of 27% in the odds of progression with BCG maintenance treatment. The size of the reduction was similar in patients with TaT1 papillary tumours and in those with CIS [327]. An RCT with long-term follow-up has demonstrated significantly fewer distant metastases and better overall- and disease-specific survival in patients treated with BCG compared to epirubicin [329]. In contrast, an IPD meta-analysis and Cochrane review were unable to confirm any statistically significant difference between MMC and BCG for progression, survival and cause of death [328, 358]. The conflicting results in the outcomes of these studies can be explained by different patient characteristics, duration of follow-up, methodology and statistical power. However, most studies showed a reduction in the risk of progression in high- and intermediate-risk tumours if a BCG maintenance schedule was applied [359]. 7.4.3.a.3. Influence of further factors Two other meta-analyses have suggested a possible bias in favour of BCG arising from the inclusion of patients previously treated with intravesical chemotherapy [360]. However, in the IPD patient data meta-analysis, BCG maintenance was more effective than MMC in reduction of recurrence rate, both in patients previously treated and not previously treated with chemotherapy [328]. It was demonstrated that BCG was less effective in patients > 70 years of age, but still more effective than epirubicin in a cohort of elderly patients [361]. According to a cohort analysis, the risk of tumour recurrence after BCG was shown to be higher in patients with a previous history of UTUC [362]. 7.4.3.b. BCG strain Although smaller studies without maintenance demonstrated some differences between strains [362-364], a network meta-analysis identified ten different BCG strains used for intravesical treatment in the published literature but was not able to confirm superiority of any BCG strain over another [365]. Similarly, a meta-analysis of prospective RCTs [327] published data from a prospective registry [366] as well as from a post-hoc analysis of a large phase II prospective trial assessing BCG and IFN-α in both BCG-naïve and BCG-failure patients that did not suggest any clear difference in efficacy between the different BCG strains [367]. The quality of data, however, does not allow definitive conclusions. 7.4.3.c. BCG toxicity Bacillus Calmette-Guérin intravesical treatment is associated with more side effects compared to intravesical chemotherapy [327, 358]. However, serious side effects are encountered in < 5% of patients and can be treated effectively in almost all cases [368]. The incidence of systemic BCG infections after BCG instillations was 1 to 2% [359,369]. These figures were recently confirmed in a Swedish nationwide database showing a cumulative incidence of reported diagnosis of tuberculosis (TB) of 1.1% at five years in 5,033 patients exposed to BCG. The highest incidence was reported in the first two years, while females had lower incidence than males [370]. Discontinuation of maintenance instillations due to adverse events (local and/or systemic) occur in similar proportions at 3, 6 and 12 months [368, 371, 372]. More than 50% of patients will fail to complete a one-year maintenance course [372]. In an RCT, comparing BCG alone with two years of maintenance versus BCG ",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Management options for side effects associated with intravesical BCG"
+            ],
+            [
+              "Management options for local side effects (modified from IBCG)"
+            ],
+            [
+              "Symptoms of cystitis",
+              "Phenazopyridine, mirabegrone or NSAIDs."
+            ],
+            [
+              "If symptoms improve within a few days: continue instillations."
+            ],
+            [
+              "If symptoms persist or worsen:a. Postpone the instillationb. Perform a urine culturec. Start empirical antibiotic treatment."
+            ],
+            [
+              "If symptoms persist even with antibiotic treatment:a. With positive culture: adjust antibiotic treatment according to sensitivity.b. With negative culture: quinolones* and potentially analgesic anti-inflammatory instillations once daily for five days (repeat cycle if necessary)."
+            ],
+            [
+              "**If symptoms persist: anti-TB drugs + corticosteroids."
+            ],
+            [
+              "If haematuria persists, perform cystoscopy to evaluate presence of bladder tumour."
+            ],
+            [
+              "Haematuria",
+              "Perform urine culture to exclude haemorrhagic cystitis if other symptoms present."
+            ],
+            [
+              "If haematuria persists, perform cystoscopy to evaluate presence of bladder tumour."
+            ],
+            [
+              "Symptomatic granulomatous prostatitis",
+              "Perform urine culture."
+            ],
+            [
+              "Quinolones."
+            ],
+            [
+              "If quinolones are not effective: isoniazid (300 mg/day) and rifampicin (600 mg/day) for three months."
+            ],
+            [
+              "Cessation of intravesical therapy."
+            ],
+            [
+              "Epididymo-orchitis [391]",
+              "Perform urine culture and administer quinolones."
+            ],
+            [
+              "Cessation of intravesical therapy."
+            ],
+            [
+              "Orchidectomy if abscess or no response to treatment."
+            ],
+            [
+              "Management options for systemic side effects"
+            ],
+            [
+              "General malaise, fever",
+              "Generally resolve within 48 hours, with or without antipyretics."
+            ],
+            [
+              "Arthralgia and/or reactive arthritis",
+              "Rare complication and considered autoimmune reaction."
+            ],
+            [
+              "Arthralgia: treatment with NSAIDs."
+            ],
+            [
+              "Reactive arthritis: NSAIDs."
+            ],
+            [
+              "If no/partial response, proceed to corticosteroids, high-dose quinolones or anti-TB drugs."
+            ],
+            [
+              "Persistent high-grade fever(> 38.5°C for > 48 h)",
+              "Permanent discontinuation of BCG instillations."
+            ],
+            [
+              "Immediate evaluation: urine culture, blood tests, chest X-ray."
+            ],
+            [
+              "Prompt treatment with more than two antimicrobial agents while diagnostic evaluation is conducted."
+            ],
+            [
+              "Consultation with an infectious disease specialist."
+            ],
+            [
+              "BCG sepsis",
+              "Prevention: initiate BCG at least two weeks post-TURBT (if no signs and symptoms of haematuria)."
+            ],
+            [
+              "Cessation of BCG."
+            ],
+            [
+              "For severe infection:High-dose quinolones or isoniazid, rifampicin, and ethambutol 1.2 g daily for six months.Early, high-dose corticosteroids as long as symptoms persist.Consider an empirical non-specific antibiotic to cover Gram-negative bacteria and/or Enterococcus."
+            ],
+            [
+              "Allergic reactions",
+              "Antihistamines and anti-inflammatory agents."
+            ],
+            [
+              "Consider high-dose quinolones or isoniazid and rifampicin for persistent symptoms."
+            ],
+            [
+              "Delay therapy until reactions resolve in case of mild (local) reaction. Discontinue BCG in case of moderate- or severe systemic reaction."
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "In patients with intermediate- and high-risk tumours, intravesical BCG after TURBT reduces the risk of tumour recurrence; it is more effective than TURBT alone or TURBT and intravesical chemotherapy.",
+              "1a"
+            ],
+            [
+              "For optimal efficacy, BCG must be given in a maintenance schedule. A complete BCG schedule comprises an induction phase of six-weekly instillations, followed by a maintenance phase of three-weekly instillations at 3, 6, 12, 18, 24, 30 and 36 months, respectively.",
+              "1a"
+            ],
+            [
+              "Three-year maintenance is more effective than one year to prevent recurrence in patients with high-risk tumours, but not in patients with intermediate-risk tumours.",
+              "1a"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-4-4-combination-therapy",
+      "title": "7.4.4. Combination therapy",
+      "level": 4,
+      "text": "7.4.4.a. Intravesical BCG plus chemotherapy versus BCG alone In one RCT, a combination of MMC and BCG was shown to be more effective in reducing the risk of disease recurrence while increasing toxicity compared to BCG monotherapy. Using similar BCG schedules in both groups, each BCG instillation in the combination group was preceded a day before by an added MMC instillation [407]. In an RCT using MMC with EMDA, a combination of BCG and MMC with EMDA showed an improved recurrence-free interval and reduced progression rate compared to BCG monotherapy [351, 408]. Two meta-analyses demonstrated improved DFS, but no benefit in PFS in patients treated with combination treatment comparing to BCG monotherapy [408, 409]. 7.4.4.b. Combination treatment using interferon In a Cochrane meta-analysis of four RCTs, a combination of BCG and IFN-2α did not show a clear difference in recurrence and progression over BCG alone [410]. In one study, weekly MMC followed by monthly BCG alternating with IFN-2α showed a higher probability of recurrence compared to MMC followed by BCG alone [411]. Additionally, an RCT in a similar population of NMIBC comparing BCG monotherapy with a combination of epirubicin and IFN for up to two years showed the latter was significantly inferior to BCG monotherapy in preventing recurrence [412]. 7.4.4.c. Sequential chemotherapy instillations (gemcitabine plus docetaxel) Preclinical data suggest that the efficacy of intravesical chemotherapy instillations can be improved by using combinations as opposed to the administration of only single agents [413]. Sequential (immediate) instillations of gemcitabine and docetaxel were initially reported in 2015 in the wake of BCG-shortage but also at times of limited access to MMC [414]. Subsequently other sequential chemotherapy combinations such as valrubicin and docetaxel have been suggested [415]. Over time, additional retrospective data have accumulated in which sequential gemcitabine and docetaxel instillations were used in patients recurring after induction BCG and BCG-unresponsive disease [416, 417]; in patients with recurrence after BCG-induction but not fulfilling the criteria for BCG-unresponsive disease [418]; as well as in BCG-naïve high-risk patients [419, 420]. Hence, in patients with BCG-unresponsive disease where the treatment standard (radical cystectomy [RC]) is not feasible due to age and/or comorbidity or when patients are unwilling to accept radical surgery, sequential instillations with gemcitabine and docetaxel is an emerging treatment concept awaiting further prospective scientific evaluation. 7.4.4.d. Combination treatment with immune checkpoint inhibitors versus BCG alone The non-negligible risk of recurrence in high-risk NMIBC following BCG, together with increased programmed death-ligand 1 (PD-L1) expression observed in preclinical models after BCG exposure [421], provides the rationale for evaluating treatment intensification through the combination of BCG and programmed death protein 1 (PD-1)/PD-L1 inhibitors in this disease setting. The phase III CREST trial evaluated the addition of the systemic PD-1 inhibitor sasanlimab administered subcutaneously for two years to standard BCG induction and maintenance for up to two years versus BCG induction alone plus sasanlimab versus BCG induction and maintenance alone (as control arm) in patients with BCG-naïve high-risk NMIBC (HG Ta, T1 and/or CIS) [373]. At 36 months, event-free survival defined as HG recurrence, disease progression, persistence of CIS and any cause mortality was 82.1% in the sasanlimab plus BCG arm versus 74.8% with BCG alone (HR: 0.68; 95% CI: 0.49-0.94), meeting the prespecified threshold for statistical significance. The primary analysis was based on 150 of the 389 planned events, and longer follow-up is awaited. No benefit was observed for sasanlimab when given with BCG induction only (HR: 1.16; 95% CI: 0.87-1.55). Grade ≥ 3 treatment-related adverse events occurred in 29.8% of patients receiving sasanlimab plus BCG compared with 6.3% of those receiving BCG alone. Immune-related toxicities were reported in over 40% of patients; these were grade ≥ 3 in 14% and required hospitalisation in 10%. Subgroup analyses suggested greater benefit among patients with CIS or T1 disease compared to Ta. The phase III POTOMAC trial assessed whether adding one year of intravenous durvalumab to standard BCG induction plus up to two years of maintenance could improve outcomes in patients with high-risk NMIBC (HG Ta, T1, CIS, or multiple/recurrent large tumours) compared with BCG alone or BCG induction plus durvalumab. The trial met its primary endpoint, showing an early and sustained improvement in DFS - defined as absence of HG recurrence, progression, or death - with a significantly higher two-year DFS in the durvalumab plus full BCG regimen versus the control arm (86.5% vs. 81.6%; HR: 0.68; 95% CI: 0.50-0.93), while no significant benefit was seen when durvalumab was combined with BC",
+      "tables": []
+    },
+    {
+      "anchor": "#7-5-intravesical-chemoablation-and-neoadjuvant-treatment",
+      "title": "7.5. Intravesical chemoablation and neoadjuvant treatment",
+      "level": 3,
+      "text": "Two different modalities of administering chemotherapy as first-line approach for a presumed NMIBC have been reported: neoadjuvant intravesical chemotherapy before TURBT or chemoresection of the tumour as a replacement of TURBT. Neoadjuvant Hypothesis-generating findings from an older RCT comparing immediate pre-operative device-assisted (EMDA) MMC with postoperative SI with MMC and TURBT only, showed improved long-term RFS among patients treated prior to TURBT [424], and thus even suggest a long-term effect after neoadjuvant instillations. While this has not been reproduced by other groups, two small neoadjuvant RCTs have reported conflicting results on the ability of neoadjuvant administration of MMC to improve outcomes over the standard approach [425, 426]. Chemoablation Older marker lesion studies have shown that chemoablation with a single intravesical chemotherapy instillation can achieve a complete response in a proportion of patients [427]; therefore making it possible to avoid TURBT. In recurrent LG [428] and recurrent Ta tumours [429], four and six intravesical MMC instillations achieved complete response in 37% and 57% of the patients, respectively. In an update of the DaBlaCa-13 RCT evaluating chemoablation with 40 mg/40 mL of intravesical MMC three times a week for two weeks without preceding biopsy to standard TURBT, the 12-month RFS was 36% in the chemoablation group versus 43% in the TURBT group, with no statistically significant difference [429]. UGN-102, a mitomycin-containing reverse thermal gel, whether followed by TURBT or otherwise, was compared to TURBT alone in a randomised, phase III trial, including 282 patients with LG intermediate-risk NMIBC [430]. Notably, three-month complete response was similar between UGN-102 (once weekly for six weeks) and TURBT (65% vs. 64%). In an ongoing phase III single arm study, the same treatment schedule achieved a 79% complete response rate (CRR) at three months in 240 patients with recurrent LG intermediate-risk NMIBC, which was maintained in 82% at one year [431]. Despite the lack of long-term outcomes, chemoablation appears to be a promising treatment option for well-selected NMIBC patients and can potentially help to spare the toxicity associated with TURBT, specifically in patients with intermediate-risk NMIBC [432].",
+      "tables": []
+    },
+    {
+      "anchor": "#7-6-radical-cystectomy-for-nmibc",
+      "title": "7.6. Radical cystectomy for NMIBC",
+      "level": 3,
+      "text": "There are several reasons to consider immediate RC for selected patients with NMIBC: Some patients with NMIBC experience disease progression to muscle-invasive disease (Table 6.2). Patients who experience disease progression to muscle-invasive stage might have a worse prognosis than those who present with ‘primary’ muscle-invasive disease [433, 434]. However, the potential benefit of RC must be weighed against its risks, morbidity, and impact on quality of life (QoL) and discussed with patients in a shared decision-making process. It is reasonable to propose immediate RC in those patients with NMIBC who are at very high risk of disease progression (see Section 6.3 and Tables 6.1 and 6.2) [85, 203, 251, 253, 435-437]. Early RC is recommended in patients with BCG-unresponsive tumours and should be considered in BCG-relapsing HG tumours, as discussed in Section 7.8 and Table 7.3. A delay in RC may lead to decreased disease-specific survival [438]. In patients who refused RC or who are not eligible, new therapeutic options in the context of clinical trials should be preferred over BCG rechallenge. In patients in whom RC is performed before progression to MIBC, the five-year DFS rate exceeds 80% [439-441].",
+      "tables": []
+    },
+    {
+      "anchor": "#7-7-primary-treatment-by-disease-type",
+      "title": "7.7. Primary treatment by disease type",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#7-7-1-primary-treatment-by-risk-category",
+      "title": "7.7.1. Primary treatment by risk category",
+      "level": 4,
+      "text": "The type of further therapy after TURBT should be based on the risk groups shown in Section 6.3 and Table 6.1. The stratification and treatment recommendations are primarily based on the risk of disease progression (Table 6.2). In some instances, mainly in intermediate-risk tumours, the 2006 EORTC scoring model is useful (Section 6.1.1.a) to determine a patient’s individual risk of disease recurrence as the basis to decide on further treatment. Treatment of low-risk disease Patients in the low-risk group have a negligible risk of disease progression; however, the risk of recurrence is between 10 and 35% at five years [442,443]. The single postoperative instillation of chemotherapy reduces the risk of recurrence and is considered sufficient treatment in these patients. Treatment of intermediate-risk disease Patients in the intermediate-risk group have a relatively low risk of disease progression (7.4 and 8.5% after ten years, according to the 2021 EAU NMIBC scoring model). The risk of recurrence is reported to be between 18 and 50% at five years [347, 431, 442, 443]. In these patients, induction chemotherapy with or without maintenance for a maximum of one year is a reasonable first-line option in the majority of patients [444]. One-year full-dose BCG treatment (induction plus three-weekly instillations at 3, 6 and 12 months), is an alternative option. In these patients, chemoablation, AS or office fulguration could also be considered. The final choice should reflect the individual patient’s risk of recurrence and progression, as well as the efficacy and side effects of each treatment modality. A three-tier sub-stratification model based on the presence or absence of five key risk-factors has been proposed to guide treatment decision-making [275, 276]. Treatment of high-risk disease Patients in the high-risk group have a high risk of disease progression (14% after ten years according to the 2021 EAU NMIBC scoring model). In these patients, full-dose intravesical BCG for one to three years (induction plus three-weekly instillations at 3, 6, 12, 18, 24, 30 and 36 months), is indicated. The additional beneficial effect of the second and third years of maintenance should be weighed against its added costs, side effects and problems associated with BCG shortage. Due to the high risk of progression, immediate RC may also be discussed with the patient. Radical cystectomy is the safest approach from an oncological point of view; however, it is associated with the risk of complications and QoL impairment and represents over-treatment in some patients. Treatment of very high-risk disease Patients in the very high-risk group have an extremely high risk of tumour progression (53.1 and 58.6% after ten years, according to the 2021 EAU NMIBC scoring model). If adequate BCG therapy is administered, a more favourable prognosis than predicted by the EAU NMIBC risk stratification can be achieved, with progression rates between 14.9 and 22% after five years [271, 445]. Still, immediate RC should be discussed with these patients. If RC is not feasible or refused by the patient, full dose intravesical BCG for one to three years should be offered. Therefore, it is critical to tailor the therapeutic approach in every case.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-7-2-treatment-of-carcinoma-in-situ",
+      "title": "7.7.2. Treatment of carcinoma in situ",
+      "level": 4,
+      "text": "Patients with CIS cannot be managed by an endoscopic procedure alone and should be offered either intravesical BCG instillations or RC. The detection of concurrent CIS increases the risk of recurrence and progression of TaT1 tumours [251, 253]. In this case, further treatment according to the criteria summarised in Sections 7.4.2, 7.4.3 and 7.9 is mandatory. Bacillus Calmette-Guérin treatment of CIS increases the CRR, the overall percentage of patients who remain disease free, and reduces the risk of tumour progression. In comparison, immediate RC for CIS results in excellent tumour-specific survival rates although a large proportion of patients might be over-treated [261]. 7.7.2.a. Cohort studies on intravesical BCG or chemotherapy In retrospective evaluations of patients with CIS, a CRR of 48% was achieved with intravesical chemotherapy and 72-93% with BCG [232-235, 356]. Up to 50% of complete responders might eventually show recurrence with a risk of invasion and/or extravesical recurrence [264, 319, 400, 446]. 7.7.2.b. Prospective randomised trials on intravesical BCG or chemotherapy Unfortunately, few RCTs have been carried out in patients with CIS only. A meta-analysis of clinical trials comparing intravesical BCG to intravesical chemotherapy in patients with CIS has shown a significantly increased response rate after BCG and a reduction of 59% in the odds of treatment failure with BCG [447]. In an EORTC-GUCG meta-analysis of tumour progression, in a subgroup of 403 patients with CIS, BCG reduced the risk of progression by 35% as compared to intravesical chemotherapy or immunotherapy [327]. The combination of BCG and MMC was not superior to BCG alone [448]. In summary, compared to chemotherapy, BCG treatment of CIS increases the CRR, the overall percentage of patients who remain disease free, and reduces the risk of tumour progression. 7.7.2.c. Treatment of carcinoma in situ in the prostatic urethra and upper urinary tract Patients with CIS are at high risk of extravesical involvement in the upper urinary tract and in the prostatic urethra. Solsona et al. , found that 63% of 138 patients with CIS developed extravesical involvement initially or during follow-up [449]. Patients with extravesical involvement had worse survival than those with bladder CIS alone [449]. In the prostate, CIS might be present only in the epithelial lining of the prostatic urethra or in the prostatic ducts [450]. These situations should be distinguished from tumour invasion into the prostatic stroma (stage T4a in bladder tumours) and for which radical cystoprostatectomy with neoadjuvant chemotherapy is mandatory. Patients with CIS in the epithelial lining of the prostatic urethra can be treated by intravesical instillation of BCG. Transurethral resection or laser enucleation of the prostate can improve contact of BCG with the prostatic urethra [151, 451]. However, potential spread of CIS has to be considered; no suprapubic trocar-placed catheter should be used. BCG has shown promising results in patients with prostatic duct involvement, but only from small series. The data are insufficient to provide clear treatment recommendations and radical surgery should be considered [451, 452]. 7.7.2.d. Summary of evidence - treatment of carcinoma in situ Summary of evidence LE Carcinoma in situ cannot be cured by an endoscopic procedure alone. 4 Compared to intravesical chemotherapy, intravesical BCG maintenance instillations increase the CRR, the overall percentage of patients who remain disease free, and reduce the risk of tumour progression. 1b Figure 7.1: Treatment strategy in primary or recurrent tumour(s) without previous BCG* * For details and explanations see the text of the Guidelines. BCG = bacillus Calmette-Guérin; CIS = carcinoma in situ; CT = computed tomography; IVU = intravenous urography; MIBC = muscle-invasive bladder cancer; PDD = photodynamic diagnosis; TURBT = transurethral resection of the bladder tumour.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Carcinoma in situ cannot be cured by an endoscopic procedure alone.",
+              "4"
+            ],
+            [
+              "Compared to intravesical chemotherapy, intravesical BCG maintenance instillations increase the CRR, the overall percentage of patients who remain disease free, and reduce the risk of tumour progression.",
+              "1b"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-8-treatment-of-failure-of-intravesical-therapy",
+      "title": "7.8. Treatment of failure of intravesical therapy",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#7-8-1-recurrence-during-or-after-intravesical-chemotherapy",
+      "title": "7.8.1. Recurrence during or after intravesical chemotherapy",
+      "level": 4,
+      "text": "Patients with NMIBC recurrence during or after a chemotherapy regimen can benefit from BCG instillations. Prior intravesical chemotherapy has no impact on the effect of BCG instillations [328].",
+      "tables": []
+    },
+    {
+      "anchor": "#7-8-2-recurrence-during-or-after-intravesical-bcg-therapy",
+      "title": "7.8.2. Recurrence during or after intravesical BCG therapy",
+      "level": 4,
+      "text": "7.8.2.a. Definitions of BCG failure Several categories of BCG failures, broadly defined as any HG disease occurring during or after BCG therapy, have been proposed (see Table 7.2). Non-muscle-invasive BC may not respond at all (BCG refractory) or may relapse after initial response (BCG relapsing). Some evidence suggests that patients with BCG relapse have better outcomes than BCG refractory patients [453]. To be able to specify the subgroup of patients where additional BCG is unlikely to provide benefit, the category of BCG-unresponsive tumour was defined. Further BCG instillations in these patients are associated with an increased risk of progression [454, 455]. The category of BCG-unresponsive tumours comprises BCG-refractory and early BCG-relapsing tumours (see Table 7.2) [456]. The definition was developed in consultation with the United States Food and Drug Administration (FDA), in particular to promote single-arm trials to provide primary evidence of effectiveness in this setting [457]. Patients who experience recurrence with HG NMIBC after BCG without meeting BCG-unresponsive criteria may benefit from additional BCG therapy. This category of high-risk patients that lies between BCG-naïve and BCG-unresponsive NMIBC is termed BCG-exposed [458,459], and includes: BCG-resistant: persistent or recurrent Ta HG and/or CIS disease at three months following at least five of six doses of induction BCG. According to the definition of adequate BCG (Table 7.2), these patients have received inadequate BCG. Delayed relapse after inadequate BCG : to indicate Ta/T1 HG or CIS patients found disease free at the three-months evaluation that recur in between six and 24 months without receiving more than an induction course. Delayed relapse after adequate BCG: to indicate patients that are disease free after adequate BCG but subsequently experience a HG recurrence outside of the BCG-unresponsive window (> 6 months for Ta/T1 and > 12 months for CIS), up to 24 months. Non-HG recurrence after BCG is not considered as BCG failure. Table 7.2: Categories of high-grade recurrence during or after BCG Categories of high-grade recurrence during or after BCG Whenever a MIBC is detected during follow-up. BCG-refractory tumour If T1 HG/G3 tumour is present at three months [454,455,460]. If Ta HG/G3 tumour is present after three months and/or at six months, after either re-induction or first course of maintenance [450]. If CIS (without concomitant papillary tumour) is present at three months and persists at six months after either re-induction or first course of maintenance. If patients with CIS present at three months, an additional BCG course can achieve a complete response in > 50% of cases [76,446,450]. If HG tumour appears during BCG maintenance therapy*. BCG-relapsing tumour Recurrence of HG/G3 tumour after completion of BCG maintenance, despite an initial response [461]. BCG-unresponsive tumour BCG-unresponsive tumours include all BCG refractory tumours and those who develop T1/Ta HG recurrence within six months of completion of adequate BCG exposure** or develop CIS within 12 months of completion of adequate BCG exposure [456]. BCG-exposed tumour [458, 459] BCG resistant if Ta HG/G3 or CIS is present at three months evaluation after induction BCG only. Delayed relapse after adequate or inadequate BCG. BCG intolerance Severe side effects that prevent further BCG instillation before completing treatment [389]. * Patients with LG recurrence during or after BCG treatment are not considered to be a BCG failure. ** Adequate BCG is defined as the completion of at least five of six doses of an initial induction course plus at least two out of six doses of a second induction course or two out of three doses of maintenance therapy. BCG = bacillus Calmette-Guérin; CIS = carcinoma in situ; G = grade; HG = high-grade; LG = low-grade; MIBC = muscle-invasive bladder cancer. 7.8.2.b. Treatment of BCG unresponsive tumours 7.8.2.b.1. Introduction Patients with BCG-unresponsive disease are unlikely to respond to further BCG therapy; RC is therefore the standard and preferred option. Several bladder preservation strategies are currently being investigated, such as cytotoxic intravesical therapies [417, 462-464], device-assisted instillations [465-467], intravesical immunotherapy [468,469], systemic immunotherapy [470-472] and gene therapy [473-475], as well as various combinations of chemotherapies, intravesical or systemic immunotherapies [418, 419] and novel intravesical delivery systems of cytotoxic agents [471, 476] (Table 7.3 and 7.4). A systematic review and meta-analysis including four RCTs and 24 single-arm studies (all currently available prospective studies) assessed bladder-sparing treatments following BCG failure [477]. The significant heterogeneity of both trial designs and patient characteristics included in these studies, the different definitions of BCG failures used, and missing information on prior BCG courses may account for the",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Categories of high-grade recurrence during or after BCG"
+            ],
+            [
+              "Whenever a MIBC is detected during follow-up."
+            ],
+            [
+              "BCG-refractory tumour"
+            ],
+            [
+              "If T1 HG/G3 tumour is present at three months [454,455,460].If Ta HG/G3 tumour is present after three months and/or at six months, after either re-induction or first course of maintenance [450].If CIS (without concomitant papillary tumour) is present at three months and persists at six months after either re-induction or first course of maintenance. If patients with CIS present at three months, an additional BCG course can achieve a complete response in > 50% of cases [76,446,450].If HG tumour appears during BCG maintenance therapy*."
+            ],
+            [
+              "BCG-relapsing tumour"
+            ],
+            [
+              "Recurrence of HG/G3 tumour after completion of BCG maintenance, despite an initial response [461]."
+            ],
+            [
+              "BCG-unresponsive tumour"
+            ],
+            [
+              "BCG-unresponsive tumours include all BCG refractory tumours and those who develop T1/Ta HG recurrence within six months of completion of adequate BCG exposure** or develop CIS within 12 months of completion of adequate BCG exposure [456]."
+            ],
+            [
+              "BCG-exposed tumour [458, 459]"
+            ],
+            [
+              "BCG resistant if Ta HG/G3 or CIS is present at three months evaluation after induction BCG only.Delayed relapse after adequate or inadequate BCG."
+            ],
+            [
+              "BCG intolerance"
+            ],
+            [
+              "Severe side effects that prevent further BCG instillation before completing treatment [389]."
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Papillary Ta/T1"
+            ],
+            [
+              "Compound",
+              "Study design",
+              "n",
+              "FU (mo.)",
+              "DFS (%)",
+              "PFS",
+              "≥ Grade 3 adverse events"
+            ],
+            [
+              "3 mo.",
+              "6 mo.",
+              "12 mo."
+            ],
+            [
+              "Intravesical"
+            ],
+            [
+              "NADOFARAGENE FIRADENOVEC* [484]",
+              "Phase III Ta/T1 CohortNCT02773849",
+              "48",
+              "20.2",
+              "72.9",
+              " ",
+              "42.8",
+              " ",
+              "G1-2 66.0% G ≥ 3 4%"
+            ],
+            [
+              "CREMOSTIMOGENE GRENADENOREPVEC [474]",
+              "Phase IIBOND IINCT02365818",
+              "9",
+              " ",
+              "33Ta 50, T1 0",
+              " ",
+              " ",
+              " ",
+              "G1-2 82.5% G ≥ 3 4.5%"
+            ],
+            [
+              "N-803 Nogapendekin Alfa Inbakicept + BCG* [486]",
+              "Phase II/IIIQUILT 3032 CB",
+              "82",
+              "20.7",
+              " ",
+              " ",
+              "55.4",
+              " ",
+              "G1-2 86% G ≥ 3 23%"
+            ],
+            [
+              "TAR 200* [476]",
+              "Phase II bSunRISe-1 C4NCT04640623",
+              "52",
+              "12.8",
+              " ",
+              "85.3",
+              "70.2",
+              "78.8",
+              "Any G 80.8% G ≥ 3 13.5%"
+            ],
+            [
+              "RITE [467]",
+              "Phase IIIHYMNNCT01094964",
+              "33",
+              "36",
+              " ",
+              " ",
+              "53 vs. 24 c at 18 mo n/s",
+              " ",
+              "G1-2 81%"
+            ],
+            [
+              "EMDA-MMC [466]",
+              "Phase II",
+              "18",
+              "35",
+              "77.7",
+              " ",
+              "72.2",
+              " ",
+              "23.1 % local / 11.5 Allergic"
+            ],
+            [
+              "Systemic"
+            ],
+            [
+              "PEMBROLIZUMAB* [489]",
+              "Phase II Cohort BKEYNOTE-057NCT02625961",
+              "132",
+              "45.4",
+              "85",
+              " ",
+              "43.5% (HR) 41.7%",
+              " ",
+              "G1-2 59% G ≥ 3 15%"
+            ],
+            [
+              "ATEZOLIZUMAB [471]",
+              "Phase II Cohort BSWOG 1605NCT02844816",
+              "55",
+              "41",
+              "67",
+              "53",
+              "49",
+              "90.9",
+              "G1-2 70% G ≥ 3 14%"
+            ],
+            [
+              "ERDAFITINIB [490]",
+              "Phase IITHOR-2 Cohort 1NCT04172675",
+              "73",
+              "13.4",
+              " ",
+              "96% vs. 73%",
+              "77 % vs. 41%",
+              " ",
+              "G1-2 100% vs. 83% G ≥ 3 36.7% vs. 0%"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Carcinoma in situ ± papillary"
+            ],
+            [
+              "Compound",
+              "Study design",
+              "n",
+              "FU (mo.)",
+              "Complete response (%)",
+              "PFS",
+              "Adverse events"
+            ],
+            [
+              "3 mo.",
+              "6 mo.",
+              "12 mo."
+            ],
+            [
+              "Intravesical"
+            ],
+            [
+              "NADOFARAGENE FIRADENOVEC* [484]",
+              "Phase III Cis CohortNCT02773849",
+              "103",
+              "19.7",
+              "53.4",
+              "40.8",
+              "24.3",
+              " ",
+              "G3 4%"
+            ],
+            [
+              "CREMOSTIMOGENE GRENADENOREPVEC (CG0070) [474]",
+              "Phase II",
+              "45",
+              " ",
+              " ",
+              "58 CIS50 CIS+P",
+              " ",
+              " ",
+              "G1-2 82.5% G ≥ 3 4.5%"
+            ],
+            [
+              "N-803 Nogapendekin Alfa Inbakicept + BCG* [486]",
+              "Phase II/IIIQUILT 3032 CA",
+              "82",
+              "23.9",
+              "55.0",
+              "56.0",
+              "45.0",
+              " ",
+              "G1-2 86% G ≥ 3 23%"
+            ],
+            [
+              "TAR 200* [476]",
+              "Phase II bSunRISe-1 C2NCT04640623",
+              "81",
+              "20.2",
+              "78.8",
+              "58.8",
+              "45.9",
+              "94.3",
+              "Any G 83.5% G ≥ 3 12.9%"
+            ],
+            [
+              "RITE [467]",
+              "Phase IIIHYMNNCT01094964",
+              "61",
+              "36",
+              "30 vs. 47",
+              " ",
+              " ",
+              " ",
+              "G1-2 81%"
+            ],
+            [
+              "EMDA-MMC [466]",
+              "Phase II",
+              "8",
+              "36",
+              "62.5",
+              " ",
+              "35.5",
+              " ",
+              "23.1 % local / 11.5 Allergic"
+            ],
+            [
+              "VALRUBICIN* [494,495]",
+              "Phase III",
+              "87",
+              "30",
+              " ",
+              "21",
+              " ",
+              " ",
+              "86% Bladder 50% other20 SAEs 2 TRSAEs"
+            ],
+            [
+              "GEMCITABINE DOCETAXEL [483]",
+              "Phase II",
+              "19",
+              "14",
+              " ",
+              "75 HR RFS",
+              "69 HR RFS",
+              "91.4",
+              "G1-2 75% G ≥ 3 2.5%"
+            ],
+            [
+              "Systemic"
+            ],
+            [
+              "PEMBROLIZUMAB* [488]",
+              "Phase II Cohort A KEYNOTE-057NCT02625961",
+              "96",
+              "36.4",
+              "41.0",
+              " ",
+              "18.7",
+              " ",
+              "G1-2 53.0% G ≥ 3 13%"
+            ],
+            [
+              "ATEZOLIZUMAB [471]",
+              "Phase II Cohort A SWOG 1605NCT02844816",
+              "74",
+              "41",
+              "43",
+              "27.0",
+              " ",
+              "90.5",
+              "G1-2 70.0% G ≥ 3 14%"
+            ],
+            [
+              "CETRELIMAB [476]",
+              "Phase II bSunRISe-1 C3NCT04640623",
+              "28",
+              "29.2",
+              " ",
+              " ",
+              "38.5",
+              " ",
+              "Any G 53.6% G ≥ 3 7.1%"
+            ],
+            [
+              "Combination intravesical and systemic"
+            ],
+            [
+              "CREMOSTIMOGENE GRENADENOREPVEC + PEMBROLIZUMAB [491]",
+              "Phase IICORE-001 TrialNCT04387461",
+              "35",
+              "26.5",
+              "82.9%",
+              "57.1%",
+              "51.4 %",
+              " ",
+              "G3 14.3%"
+            ],
+            [
+              "TAR 200 + CETRELIMAB [476]",
+              "Phase II bSunRISe-1 C1NCT04640623",
+              "53",
+              "33.4",
+              " ",
+              " ",
+              "55.6",
+              " ",
+              "Any G 92.5% G ≥ 3 37.7%"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-8-3-summary-of-evidence---treatment-failure-of-intravesical-therapy",
+      "title": "7.8.3. Summary of evidence - treatment failure of intravesical therapy",
+      "level": 4,
+      "text": "Summary of evidence LE Prior intravesical chemotherapy has no impact on the effect of BCG instillation. 1a Treatments other than RC must be considered oncologically inferior in patients with BCG-unresponsive tumours. 3",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Prior intravesical chemotherapy has no impact on the effect of BCG instillation.",
+              "1a"
+            ],
+            [
+              "Treatments other than RC must be considered oncologically inferior in patients with BCG-unresponsive tumours.",
+              "3"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-9-multidisciplinary-tumour-board",
+      "title": "7.9. Multidisciplinary tumour board",
+      "level": 3,
+      "text": "A multidisciplinary tumour board (MTB) approach, including reassessment of radiology and pathology, is associated with a changed treatment plan in up to 44% of BC patients [248, 249, 496, 497], such as refraining from or recommending cystectomy in 7% of stage T1 patients [249, 496, 497], often as a result of the pathologic review [79, 249]. Thus, patients with high-risk and very high-risk NMIBC will especially benefit from MTB discussion and such an approach is recommended for these patients. Figure 7.1 presents a treatment flowchart based on risk category, which may guide management of an individual patient. Figure 7.2: Treatment strategy in recurrence during or after intravesical BCG BCG = bacillus Calmette-Guérin; CIS = carcinoma in situ; CT = computed tomography; HG = high-grade; IVU = intravenous urography; LG = low-grade; PDD = photodynamic diagnosis; TURBT = transurethral resection of the bladder tumour.",
+      "tables": []
+    },
+    {
+      "anchor": "#7-10-recommendations-for-adjuvant-therapy-in-tat1-tumours-and-for-therapy-of-carcinoma-in-situ",
+      "title": "7.10. Recommendations for adjuvant therapy in TaT1 tumours and for therapy of carcinoma in situ",
+      "level": 3,
+      "text": "Recommendations - general Strength rating Counsel smokers to stop smoking. Strong The type of further therapy after transurethral resection of the bladder tumour (TURBT) should be based on the risk groups shown in Section 6.3 and Table 6.1. For determination of a patient’s risk group, use the 2021 European Association of Urology (EAU) risk group calculator available at www.nmibc.net . Strong In patients with tumours presumed to be at low risk and in those with small papillary recurrences (presumably Ta LG/G1) detected more than one year after previous TURBT, offer one immediate single chemotherapy instillation. Strong Offer post-operative saline or water continuous irrigation of the bladder to patients who cannot receive a single instillation of chemotherapy. Strong Patients with small, recurrent low-grade (LG) Ta tumours can be effectively and safely offered office fulguration. Strong Offer active surveillance (AS) and/or chemoablation to selected patients with presumed LG tumours as an alternative to endoscopic ablation. Weak In patients with high-risk tumours, full-dose intravesical bacillus Calmette-Guérin (BCG) for one to three years (induction plus three-weekly instillations at 3, 6, 12, 18, 24, 30 and 36 months), is indicated. The additional beneficial effect of the second and third years of maintenance should be weighed against its added costs, side effects and access to BCG. Immediate radical cystectomy (RC) should also be discussed with the patient. Strong In patients with very high-risk tumours, discuss immediate RC. Intravesical full-dose BCG instillations for one to three years remain an option for selected patients, particularly those who decline or are unfit for RC. Strong Discuss the benefits and harms of adding sasanlimab and durvalumab to BCG with maintenance in selected BCG-naïve patients with high- and very high-risk NMIBC. Strong Offer transurethral resection of the prostate, followed by intravesical instillation of BCG, to patients with CIS in the epithelial lining of the prostatic urethra, if a bladder sparing strategy is considered. Weak Cautiously offer quinolones to treat BCG-related side effects*. Weak The definition of ‘BCG-unresponsive’ should be respected because it most precisely defines the patients who are unlikely to respond to further BCG instillations. Strong Offer an RC to patients with BCG-unresponsive tumours. Strong Offer patients with BCG-unresponsive tumours, who are not candidates for RC due to comorbidities, or who decline RC, preservation strategies (intravesical chemotherapy, chemotherapy and microwave-induced hyperthermia, electromotive administration of chemotherapy, intravesical- or systemic immunotherapy; preferably within clinical trials). Weak Discuss high-risk and very high-risk patients within a multidisciplinary board, when possible. Strong Recommendations - technical aspects for treatment Intravesical chemotherapy If given, administer a single immediate instillation of chemotherapy within 24 hours after TURBT. Weak Omit a single immediate instillation of chemotherapy in any case of overt or suspected bladder perforation or bleeding requiring bladder irrigation. Strong The optimal schedule and duration of further intravesical chemotherapy instillation is not defined; however, it should not exceed one year. Weak If intravesical chemotherapy is given, use the drug at its optimal pH and maintain the concentration of the drug by reducing fluid intake before and during instillation. Strong The length of individual instillation should be a minimum of one, and up to two hours. Weak BCG intravesical immunotherapy Absolute contraindications of BCG intravesical instillation are: during the first two weeks after TURBT; in patients with visible haematuria; after traumatic catheterisation; and in patients with symptomatic urinary tract infection. Strong *The side-effect profile of quinolones and fluoroquinolones resulted in the adoption of European Regulation restricting their use [395].",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendations - general",
+              "Strength rating"
+            ],
+            [
+              "Counsel smokers to stop smoking.",
+              "Strong"
+            ],
+            [
+              "The type of further therapy after transurethral resection of the bladder tumour (TURBT) should be based on the risk groups shown in Section 6.3 and Table 6.1. For determination of a patient’s risk group, use the 2021 European Association of Urology (EAU) risk group calculator available at www.nmibc.net.",
+              "Strong"
+            ],
+            [
+              "In patients with tumours presumed to be at low risk and in those with small papillary recurrences (presumably Ta LG/G1) detected more than one year after previous TURBT, offer one immediate single chemotherapy instillation.",
+              "Strong"
+            ],
+            [
+              "Offer post-operative saline or water continuous irrigation of the bladder to patients who cannot receive a single instillation of chemotherapy.",
+              "Strong"
+            ],
+            [
+              "Patients with small, recurrent low-grade (LG) Ta tumours can be effectively and safely offered office fulguration.",
+              "Strong"
+            ],
+            [
+              "Offer active surveillance (AS) and/or chemoablation to selected patients with presumed LG tumours as an alternative to endoscopic ablation.",
+              "Weak"
+            ],
+            [
+              "In patients with high-risk tumours, full-dose intravesical bacillus Calmette-Guérin (BCG) for one to three years (induction plus three-weekly instillations at 3, 6, 12, 18, 24, 30 and 36 months), is indicated. The additional beneficial effect of the second and third years of maintenance should be weighed against its added costs, side effects and access to BCG. Immediate radical cystectomy (RC) should also be discussed with the patient.",
+              "Strong"
+            ],
+            [
+              "In patients with very high-risk tumours, discuss immediate RC. Intravesical full-dose BCG instillations for one to three years remain an option for selected patients, particularly those who decline or are unfit for RC.",
+              "Strong"
+            ],
+            [
+              "Discuss the benefits and harms of adding sasanlimab and durvalumab to BCG with maintenance in selected BCG-naïve patients with high- and very high-risk NMIBC.",
+              "Strong"
+            ],
+            [
+              "Offer transurethral resection of the prostate, followed by intravesical instillation of BCG, to patients with CIS in the epithelial lining of the prostatic urethra, if a bladder sparing strategy is considered.",
+              "Weak"
+            ],
+            [
+              "Cautiously offer quinolones to treat BCG-related side effects*.",
+              "Weak"
+            ],
+            [
+              "The definition of ‘BCG-unresponsive’ should be respected because it most precisely defines the patients who are unlikely to respond to further BCG instillations.",
+              "Strong"
+            ],
+            [
+              "Offer an RC to patients with BCG-unresponsive tumours.",
+              "Strong"
+            ],
+            [
+              "Offer patients with BCG-unresponsive tumours, who are not candidates for RC due to comorbidities, or who decline RC, preservation strategies (intravesical chemotherapy, chemotherapy and microwave-induced hyperthermia, electromotive administration of chemotherapy, intravesical- or systemic immunotherapy; preferably within clinical trials).",
+              "Weak"
+            ],
+            [
+              "Discuss high-risk and very high-risk patients within a multidisciplinary board, when possible.",
+              "Strong"
+            ],
+            [
+              "Recommendations - technical aspects for treatment"
+            ],
+            [
+              "Intravesical chemotherapy"
+            ],
+            [
+              "If given, administer a single immediate instillation of chemotherapy within 24 hours after TURBT.",
+              "Weak"
+            ],
+            [
+              "Omit a single immediate instillation of chemotherapy in any case of overt or suspected bladder perforation or bleeding requiring bladder irrigation.",
+              "Strong"
+            ],
+            [
+              "The optimal schedule and duration of further intravesical chemotherapy instillation is not defined; however, it should not exceed one year.",
+              "Weak"
+            ],
+            [
+              "If intravesical chemotherapy is given, use the drug at its optimal pH and maintain the concentration of the drug by reducing fluid intake before and during instillation.",
+              "Strong"
+            ],
+            [
+              "The length of individual instillation should be a minimum of one, and up to two hours.",
+              "Weak"
+            ],
+            [
+              "BCG intravesical immunotherapy"
+            ],
+            [
+              "Absolute contraindications of BCG intravesical instillation are:during the first two weeks after TURBT;in patients with visible haematuria;after traumatic catheterisation; andin patients with symptomatic urinary tract infection.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#7-11-recommendations-for-the-treatment-of-tat1-tumours-and-carcinoma-in-situ-according-to-risk-stratification",
+      "title": "7.11. Recommendations for the treatment of TaT1 tumours and carcinoma in situ according to risk stratification",
+      "level": 3,
+      "text": "Recommendations Strength rating European Association of Urology (EAU) risk group: Low Offer one immediate instillation of intravesical chemotherapy after transurethral resection of the bladder tumour (TURBT). Strong EAU risk group: Intermediate In general, chemotherapy (the optimal schedule is unknown) is a reasonable first-line option in the majority of patients. One-year full-dose Bacillus Calmette-Guérin (BCG) treatment (induction plus three-weekly instillations at 3, 6 and 12 months), is an alternative option. The final choice should reflect the individual patient’s risk of recurrence and progression as well as the efficacy and side effects of each treatment modality. Offer one immediate chemotherapy instillation to patients with small papillary recurrences detected more than one year after previous TURBT. Strong EAU risk group: High Offer intravesical full-dose BCG instillations for one to three years but discuss immediate radical cystectomy (RC). Strong EAU risk group: Very high Offer RC or intravesical full-dose BCG instillations for one to three years, particularly to those who decline or are unfit for RC. Strong Table 7.3: Treatment options for the various categories of BCG failure Category Treatment options BCG-unresponsive Radical cystectomy. Enrolment in clinical trials assessing new treatment strategies. Other bladder-preserving strategies in patients ineligible for or refusing RC, including approved new treatment strategies when available. BCG-relapsing: TaT1 HG recurrence > 6 months or CIS > 12 months of last BCG exposure Radical cystectomy or repeat BCG course according to a patient’s individual situation. Enrolment in clinical trials assessing new treatment strategies. Other bladder-preserving strategies. BCG exposed Repeat BCG course or RC according to a patient’s individual situation. Enrolment in clinical trials assessing new treatment strategies. LG recurrence after BCG for primary intermediate-risk tumour Repeat BCG or intravesical chemotherapy. Enrolment in clinical trials assessing new treatment strategies. BCG = Bacillus Calmette-Guérin; CIS = carcinoma in situ; HG = high-grade; LG = low-grade; RC = radical cystectomy.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "European Association of Urology (EAU) risk group: Low"
+            ],
+            [
+              "Offer one immediate instillation of intravesical chemotherapy after transurethral resection of the bladder tumour (TURBT).",
+              "Strong"
+            ],
+            [
+              "EAU risk group: Intermediate"
+            ],
+            [
+              "In general, chemotherapy (the optimal schedule is unknown) is a reasonable first-line option in the majority of patients. One-year full-dose Bacillus Calmette-Guérin (BCG) treatment (induction plus three-weekly instillations at 3, 6 and 12 months), is an alternative option. The final choice should reflect the individual patient’s risk of recurrence and progression as well as the efficacy and side effects of each treatment modality. Offer one immediate chemotherapy instillation to patients with small papillary recurrences detected more than one year after previous TURBT.",
+              "Strong"
+            ],
+            [
+              "EAU risk group: High"
+            ],
+            [
+              "Offer intravesical full-dose BCG instillations for one to three years but discuss immediate radical cystectomy (RC).",
+              "Strong"
+            ],
+            [
+              "EAU risk group: Very high"
+            ],
+            [
+              "Offer RC or intravesical full-dose BCG instillations for one to three years, particularly to those who decline or are unfit for RC.",
+              "Strong"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Category",
+              "Treatment options"
+            ],
+            [
+              "BCG-unresponsive",
+              "Radical cystectomy.Enrolment in clinical trials assessing new treatment strategies.Other bladder-preserving strategies in patients ineligible for or refusing RC, including approved new treatment strategies when available."
+            ],
+            [
+              "BCG-relapsing:TaT1 HG recurrence> 6 months or CIS> 12 months of last BCG exposure",
+              "Radical cystectomy or repeat BCG course according to a patient’s individual situation.Enrolment in clinical trials assessing new treatment strategies.Other bladder-preserving strategies."
+            ],
+            [
+              "BCG exposed",
+              "Repeat BCG course or RC according to a patient’s individual situation.Enrolment in clinical trials assessing new treatment strategies."
+            ],
+            [
+              "LG recurrence after BCG for primary intermediate-risk tumour",
+              "Repeat BCG or intravesical chemotherapy.Enrolment in clinical trials assessing new treatment strategies."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 11
+}

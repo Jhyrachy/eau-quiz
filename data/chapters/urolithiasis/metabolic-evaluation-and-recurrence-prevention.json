@@ -1,0 +1,1911 @@
+{
+  "guideline": "urolithiasis",
+  "chapter": "metabolic-evaluation-and-recurrence-prevention",
+  "url": "https://uroweb.org/guidelines/urolithiasis/chapter/metabolic-evaluation-and-recurrence-prevention",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and scope",
+      "anchor": "#1-1-aims-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Publication history",
+      "anchor": "#1-4-1-publication-history"
+    },
+    {
+      "level": 4,
+      "text": "1.4.2. Summary of changes",
+      "anchor": "#1-4-2-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODOLOGY",
+      "anchor": "#2-methodology"
+    },
+    {
+      "level": 3,
+      "text": "2.1 Methods",
+      "anchor": "#2-1-methods"
+    },
+    {
+      "level": 2,
+      "text": "3. GUIDELINES",
+      "anchor": "#3-guidelines"
+    },
+    {
+      "level": 3,
+      "text": "3.1.3.1 Prevalence, aetiology, risk of recurrence",
+      "anchor": "#3-1-3-1-prevalence-aetiology-risk-of-recurrence"
+    },
+    {
+      "level": 4,
+      "text": "3.1.1. Introduction",
+      "anchor": "#3-1-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "3.1.2. Stone composition",
+      "anchor": "#3-1-2-stone-composition"
+    },
+    {
+      "level": 4,
+      "text": "3.1.3. Risk groups for stone formation",
+      "anchor": "#3-1-3-risk-groups-for-stone-formation"
+    },
+    {
+      "level": 4,
+      "text": "3.1.4. Genetic factors and testing",
+      "anchor": "#3-1-4-genetic-factors-and-testing"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Classification of stones",
+      "anchor": "#3-2-classification-of-stones"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Stone size",
+      "anchor": "#3-2-1-stone-size"
+    },
+    {
+      "level": 4,
+      "text": "3.2.2. Stone location",
+      "anchor": "#3-2-2-stone-location"
+    },
+    {
+      "level": 4,
+      "text": "3.2.3. X-ray characteristics",
+      "anchor": "#3-2-3-x-ray-characteristics"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Diagnostic evaluation",
+      "anchor": "#3-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Diagnostic imaging",
+      "anchor": "#3-3-1-diagnostic-imaging"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Diagnostics: metabolism-related",
+      "anchor": "#3-3-2-diagnostics-metabolism-related"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Diagnosis in special groups and conditions",
+      "anchor": "#3-3-3-diagnosis-in-special-groups-and-conditions"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Disease management",
+      "anchor": "#3-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Renal colic",
+      "anchor": "#3-4-1-renal-colic"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Medical expulsive therapy",
+      "anchor": "#3-4-3-medical-expulsive-therapy"
+    },
+    {
+      "level": 4,
+      "text": "3.4.4. Chemolysis",
+      "anchor": "#3-4-4-chemolysis"
+    },
+    {
+      "level": 4,
+      "text": "3.4.5. Extracorporeal shock wave lithotripsy (SWL)",
+      "anchor": "#3-4-5-extracorporeal-shock-wave-lithotripsy-swl"
+    },
+    {
+      "level": 4,
+      "text": "3.4.6. Ureteroscopy (retrograde and antegrade)",
+      "anchor": "#3-4-6-ureteroscopy-retrograde-and-antegrade"
+    },
+    {
+      "level": 4,
+      "text": "3.4.7. Percutaneous nephrolithotomy",
+      "anchor": "#3-4-7-percutaneous-nephrolithotomy"
+    },
+    {
+      "level": 4,
+      "text": "3.4.8. General recommendations and precautions for stone removal",
+      "anchor": "#3-4-8-general-recommendations-and-precautions-for-stone-removal"
+    },
+    {
+      "level": 4,
+      "text": "3.4.9. Specific stone management of ureteral stones",
+      "anchor": "#3-4-9-specific-stone-management-of-ureteral-stones"
+    },
+    {
+      "level": 4,
+      "text": "3.4.10. Specific stone management of renal stones",
+      "anchor": "#3-4-10-specific-stone-management-of-renal-stones"
+    },
+    {
+      "level": 4,
+      "text": "3.4.11. Laparoscopy and open surgery",
+      "anchor": "#3-4-11-laparoscopy-and-open-surgery"
+    },
+    {
+      "level": 4,
+      "text": "3.4.12. Steinstrasse",
+      "anchor": "#3-4-12-steinstrasse"
+    },
+    {
+      "level": 4,
+      "text": "3.4.13. Management of patients with residual stones",
+      "anchor": "#3-4-13-management-of-patients-with-residual-stones"
+    },
+    {
+      "level": 4,
+      "text": "3.4.14. Management of specific patient groups",
+      "anchor": "#3-4-14-management-of-specific-patient-groups"
+    },
+    {
+      "level": 4,
+      "text": "3.4.15. Management of stones in children",
+      "anchor": "#3-4-15-management-of-stones-in-children"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Radiation exposure and protection during endourology",
+      "anchor": "#3-5-radiation-exposure-and-protection-during-endourology"
+    },
+    {
+      "level": 2,
+      "text": "4. METABOLIC EVALUATION AND RECURRENCE PREVENTION",
+      "anchor": "#4-metabolic-evaluation-and-recurrence-prevention"
+    },
+    {
+      "level": 3,
+      "text": "4.1. General metabolic considerations for patient work-up",
+      "anchor": "#4-1-general-metabolic-considerations-for-patient-work-up"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. Evaluation of patient risk",
+      "anchor": "#4-1-1-evaluation-of-patient-risk"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. Urine sampling",
+      "anchor": "#4-1-2-urine-sampling"
+    },
+    {
+      "level": 4,
+      "text": "4.1.3. Timing of specific metabolic work-up",
+      "anchor": "#4-1-3-timing-of-specific-metabolic-work-up"
+    },
+    {
+      "level": 4,
+      "text": "4.1.4. Reference ranges of laboratory values",
+      "anchor": "#4-1-4-reference-ranges-of-laboratory-values"
+    },
+    {
+      "level": 4,
+      "text": "4.1.5. Risk indices and additional diagnostic tools",
+      "anchor": "#4-1-5-risk-indices-and-additional-diagnostic-tools"
+    },
+    {
+      "level": 3,
+      "text": "4.2. General considerations for recurrence prevention",
+      "anchor": "#4-2-general-considerations-for-recurrence-prevention"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. Fluid intake",
+      "anchor": "#4-2-1-fluid-intake"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. Diet",
+      "anchor": "#4-2-2-diet"
+    },
+    {
+      "level": 4,
+      "text": "4.2.3. Lifestyle",
+      "anchor": "#4-2-3-lifestyle"
+    },
+    {
+      "level": 4,
+      "text": "4.2.4. Summary of evidence and recommendation for recurrence prevention",
+      "anchor": "#4-2-4-summary-of-evidence-and-recommendation-for-recurrence-prevention"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Stone-specific metabolic evaluation and pharmacological recurrence prevention",
+      "anchor": "#4-3-stone-specific-metabolic-evaluation-and-pharmacological-recurrence-prevention"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. Introduction",
+      "anchor": "#4-3-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Calcium oxalate stones",
+      "anchor": "#4-4-calcium-oxalate-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Diagnosis",
+      "anchor": "#4-4-1-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Interpretation of results and aetiology",
+      "anchor": "#4-4-2-interpretation-of-results-and-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "4.4.3. Specific treatment",
+      "anchor": "#4-4-3-specific-treatment"
+    },
+    {
+      "level": 4,
+      "text": "4.4.4. Summary of evidence and recommendations for pharmacological treatments for patients with specific abnormalities in urine composition (based on 24-hour urine samples)",
+      "anchor": "#4-4-4-summary-of-evidence-and-recommendations-for-pharmacological-treatments-for-patients-with-specific-abnormalities-in-urine-composition-based-on-24-hour-urine-samples"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Calcium phosphate stones [649, 679, 687, 700, 701, 705, 724]",
+      "anchor": "#4-5-calcium-phosphate-stones-649-679-687-700-701-705-724"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Diagnosis",
+      "anchor": "#4-5-1-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Interpretation of results and aetiology",
+      "anchor": "#4-5-2-interpretation-of-results-and-aetiology"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Pharmacological therapy [649,679,687,700,701,705,724]",
+      "anchor": "#4-5-3-pharmacological-therapy-649679687700701705724"
+    },
+    {
+      "level": 4,
+      "text": "4.5.4. Summary of evidence and recommendation for the management of calcium phosphate stones",
+      "anchor": "#4-5-4-summary-of-evidence-and-recommendation-for-the-management-of-calcium-phosphate-stones"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Disorders and diseases related to calcium stones",
+      "anchor": "#4-6-disorders-and-diseases-related-to-calcium-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.6.1. Hyperparathyroidism [725-730]",
+      "anchor": "#4-6-1-hyperparathyroidism-725-730"
+    },
+    {
+      "level": 4,
+      "text": "4.6.2. Granulomatous Diseases [732]",
+      "anchor": "#4-6-2-granulomatous-diseases-732"
+    },
+    {
+      "level": 4,
+      "text": "4.6.3. Primary Hyperoxaluria [692]",
+      "anchor": "#4-6-3-primary-hyperoxaluria-692"
+    },
+    {
+      "level": 4,
+      "text": "4.6.4. Enteric hyperoxaluria [667,672,736-738]",
+      "anchor": "#4-6-4-enteric-hyperoxaluria-667672736-738"
+    },
+    {
+      "level": 4,
+      "text": "4.6.5. Renal tubular acidosis [649,687,739,740]",
+      "anchor": "#4-6-5-renal-tubular-acidosis-649687739740"
+    },
+    {
+      "level": 4,
+      "text": "4.6.6. Nephrocalcinosis [742]",
+      "anchor": "#4-6-6-nephrocalcinosis-742"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Uric acid and ammonium urate stones",
+      "anchor": "#4-7-uric-acid-and-ammonium-urate-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.7.1. Diagnosis",
+      "anchor": "#4-7-1-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.7.2. Interpretation of results",
+      "anchor": "#4-7-2-interpretation-of-results"
+    },
+    {
+      "level": 4,
+      "text": "4.7.3. Specific treatment",
+      "anchor": "#4-7-3-specific-treatment"
+    },
+    {
+      "level": 4,
+      "text": "4.7.4. Summary of evidence and recommendations for the management of uric acid and ammonium urate stones",
+      "anchor": "#4-7-4-summary-of-evidence-and-recommendations-for-the-management-of-uric-acid-and-ammonium-urate-stones"
+    },
+    {
+      "level": 3,
+      "text": "4.8. Struvite and infection stones",
+      "anchor": "#4-8-struvite-and-infection-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.8.1. Diagnosis",
+      "anchor": "#4-8-1-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.8.2. Interpretation",
+      "anchor": "#4-8-2-interpretation"
+    },
+    {
+      "level": 4,
+      "text": "4.8.3. Specific treatment",
+      "anchor": "#4-8-3-specific-treatment"
+    },
+    {
+      "level": 3,
+      "text": "4.9. Cystine stones",
+      "anchor": "#4-9-cystine-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.9.1. Diagnosis",
+      "anchor": "#4-9-1-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "4.9.2. Specific treatment",
+      "anchor": "#4-9-2-specific-treatment"
+    },
+    {
+      "level": 4,
+      "text": "4.9.3. Summary of evidence and recommendations for the management of cystine stones",
+      "anchor": "#4-9-3-summary-of-evidence-and-recommendations-for-the-management-of-cystine-stones"
+    },
+    {
+      "level": 3,
+      "text": "4.10.2,8-Dihydroxyadenine stones and xanthine stones",
+      "anchor": "#4-10-28-dihydroxyadenine-stones-and-xanthine-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.10.1.2,8-Dihydroxyadenine stones",
+      "anchor": "#4-10-1-28-dihydroxyadenine-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.10.2. Xanthine stones",
+      "anchor": "#4-10-2-xanthine-stones"
+    },
+    {
+      "level": 4,
+      "text": "4.10.3. Fluid intake and diet",
+      "anchor": "#4-10-3-fluid-intake-and-diet"
+    },
+    {
+      "level": 3,
+      "text": "4.11. Drug-induced stones",
+      "anchor": "#4-11-drug-induced-stones"
+    },
+    {
+      "level": 3,
+      "text": "4.12. Matrix stones",
+      "anchor": "#4-12-matrix-stones"
+    },
+    {
+      "level": 3,
+      "text": "4.13. Unknown stone composition [16]",
+      "anchor": "#4-13-unknown-stone-composition-16"
+    },
+    {
+      "level": 4,
+      "text": "4.13.1. Recommendations for investigations for the assessment of patients with stones of unknown composition [17,23,76,679]",
+      "anchor": "#4-13-1-recommendations-for-investigations-for-the-assessment-of-patients-with-stones-of-unknown-composition-172376679"
+    },
+    {
+      "level": 2,
+      "text": "5. FOLLOW UP OF URINARY STONES",
+      "anchor": "#5-follow-up-of-urinary-stones"
+    },
+    {
+      "level": 2,
+      "text": "6. BLADDER STONES",
+      "anchor": "#6-bladder-stones"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Prevalence, aetiology and risk factors of bladder stones",
+      "anchor": "#6-1-prevalence-aetiology-and-risk-factors-of-bladder-stones"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Presentation",
+      "anchor": "#6-2-presentation"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Diagnostic evaluation",
+      "anchor": "#6-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. Diagnostic investigations for bladder stones",
+      "anchor": "#6-3-1-diagnostic-investigations-for-bladder-stones"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Diagnosing the cause of bladder stones",
+      "anchor": "#6-3-2-diagnosing-the-cause-of-bladder-stones"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Disease management",
+      "anchor": "#6-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Conservative treatment and indications for active stone removal",
+      "anchor": "#6-4-1-conservative-treatment-and-indications-for-active-stone-removal"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Medical management of bladder stones",
+      "anchor": "#6-4-2-medical-management-of-bladder-stones"
+    },
+    {
+      "level": 4,
+      "text": "6.4.3. Bladder stone interventions",
+      "anchor": "#6-4-3-bladder-stone-interventions"
+    },
+    {
+      "level": 4,
+      "text": "6.4.4. Treatment for bladder stones secondary to bladder outlet obstruction in adult men",
+      "anchor": "#6-4-4-treatment-for-bladder-stones-secondary-to-bladder-outlet-obstruction-in-adult-men"
+    },
+    {
+      "level": 4,
+      "text": "6.4.5. Special situations",
+      "anchor": "#6-4-5-special-situations"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Bladder stones follow-up",
+      "anchor": "#6-5-bladder-stones-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Summary of evidence and recommendations for the treatment of bladder stones",
+      "anchor": "#6-6-summary-of-evidence-and-recommendations-for-the-treatment-of-bladder-stones"
+    },
+    {
+      "level": 2,
+      "text": "7. REFERENCES",
+      "anchor": "#7-references"
+    },
+    {
+      "level": 2,
+      "text": "8. CONFLICT OF INTEREST",
+      "anchor": "#8-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "9. CITATION INFORMATION",
+      "anchor": "#9-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "10. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#10-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#urolithiasis",
+      "title": "Urolithiasis",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 4. Metabolic Evaluation And Recurrence Prevention Introduction Methodology Guidelines Metabolic Evaluation And Recurrence Prevention Follow Up Of Urinary Stones Bladder Stones References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#4-metabolic-evaluation-and-recurrence-prevention",
+      "title": "4. METABOLIC EVALUATION AND RECURRENCE PREVENTION",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-general-metabolic-considerations-for-patient-work-up",
+      "title": "4.1. General metabolic considerations for patient work-up",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-1-evaluation-of-patient-risk",
+      "title": "4.1.1. Evaluation of patient risk",
+      "level": 4,
+      "text": "After stone passage, every patient should be assigned to a low- or high-risk group (Table 3.3) for stone formation (Figure 4.1). Reliable stone analysis by infrared spectroscopy or X-ray diffraction and basic metabolic evaluation is mandatory for all stone formers. Only high-risk stone formers require specific metabolic evaluation. Stone type is the deciding factor for further diagnostic tests. The various stone types include: calcium oxalate; calcium phosphate; uric acid; ammonium urate; struvite (and infection stones); cystine; xanthine; 2,8-Dihydroxyadenine; drug stones; and stones of unknown composition. Figure 4.1: Assignment of patients to low- or high-risk groups for stone formation",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-2-urine-sampling",
+      "title": "4.1.2. Urine sampling",
+      "level": 4,
+      "text": "Specific metabolic evaluation requires the collection of two consecutive 24-hour urine samples [77,631,632]. The collecting bottles should be prepared with 1g thymol per litre or stored at < 8°C during collection to reduce bacterial proliferation [77]. Preanalytical errors can be minimised by carrying out urinalysis immediately after collection. Alternatively, boric acid (10g powder per urine container) can also be used, but this prevents the correct determination of pH [77]. The collecting method should be chosen in close cooperation with the laboratory. A pH < 5.5 in a 24-hour urine indicates hyperacidic urine (acidic arrest) [633-635]. In the course of alkalinising therapy for cystinuria and uric acid stones, urine pH should be assessed during the collection of freshly voided urine at different times throughout the day using sensitive pH dipsticks or a pH-meter [23,77,636]. A consensus statement stated that RTA is suspected if 24-hour urine pH is > 6.2 and fasting second- morning spot urine pH is > 5.8 [637,638]. Spot urine samples are an alternative sampling method, particularly when 24-hour urine collection is difficult, for example, in non-toilet-trained children [639]. Spot urine studies normally link the excretion rates to the creatinine [640], but these are of limited use because the results may vary with collection time and patients’ sex, body weight and age.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-3-timing-of-specific-metabolic-work-up",
+      "title": "4.1.3. Timing of specific metabolic work-up",
+      "level": 4,
+      "text": "After an acute stone episode, metabolic evaluation should be performed no earlier than 20 days – and preferably around three months – once the patient is stable, free of infection and on their usual diet and fluid intake. Follow-up studies are necessary for patients taking medication for recurrence prevention [641]. The first follow-up 24-hour urine measurement is suggested eight to 12 weeks after starting pharmacological prevention of stone recurrence. This enables diet and/or drug dosage to be adjusted if urinary risk factors have not normalised, with further 24-hour urine measurements, if necessary. Once urinary parameters have been normalised, it is sufficient to perform a 24-hour urine evaluation every twelve months. On this issue, the Panel realises that there is only very limited published evidence.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-1-4-reference-ranges-of-laboratory-values",
+      "title": "4.1.4. Reference ranges of laboratory values",
+      "level": 4,
+      "text": "Tables 4.1–4.4 provide the internationally accepted reference ranges for the various laboratory values in serum and urine. Table 4.1: Normal laboratory values for blood parameters in adults [23, 641] Blood parameter Reference range Creatinine 50–100μmol/L Sodium 135–145mmol/L Potassium 3.5–5.5mmol/L Calcium 2.0–2.5mmol/L (total calcium) 1.12–1.32mmol/L (ionised calcium) Uric acid 119–380μmol/L Chloride 98–112mmol/L Phosphate 0.81–1.29mmol/L Blood gas analysis pH 7.35–7.45 pO 2 80–90mmHg pCO 2 35–45mmHg HCO 3 22–26mmol/L BE BE ±2mmol/L BE = base excess (loss of buffer base to neutralise acid); HCO = bicarbonate; pCO = partial pressure of carbon dioxide; PO = partial pressure of oxygen.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Blood parameter",
+              "Reference range"
+            ],
+            [
+              "Creatinine",
+              "50–100μmol/L"
+            ],
+            [
+              "Sodium",
+              "135–145mmol/L"
+            ],
+            [
+              "Potassium",
+              "3.5–5.5mmol/L"
+            ],
+            [
+              "Calcium",
+              "2.0–2.5mmol/L (total calcium)"
+            ],
+            [
+              "1.12–1.32mmol/L (ionised calcium)"
+            ],
+            [
+              "Uric acid",
+              "119–380μmol/L"
+            ],
+            [
+              "Chloride",
+              "98–112mmol/L"
+            ],
+            [
+              "Phosphate",
+              "0.81–1.29mmol/L"
+            ],
+            [
+              "Blood gas analysis",
+              "pH",
+              "7.35–7.45"
+            ],
+            [
+              "pO2",
+              "80–90mmHg"
+            ],
+            [
+              "pCO2",
+              "35–45mmHg"
+            ],
+            [
+              "HCO3",
+              "22–26mmol/L"
+            ],
+            [
+              "BE",
+              "BE ±2mmol/L"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-1-5-risk-indices-and-additional-diagnostic-tools",
+      "title": "4.1.5. Risk indices and additional diagnostic tools",
+      "level": 4,
+      "text": "Several risk indices have been developed to describe the crystallisation risk for calcium oxalate or calcium phosphate in the urine [642-645]. Several tools for predicting stone recurrence have also been developed, including those based on artificial intelligence and machine-learning algorithms. However, their overall predictive performance remains moderate [908-911]. These models rely on heterogeneous combinations of clinical and biochemical variables, and most lack robust external validation. Consequently, their current applicability in guiding individualised prevention strategies in clinical practice is limited. Table 4.2: Laboratory values for urinary parameters in adults Urinary Parameters Reference ranges and limits for medical attention pH Consistently fasting morning spot urine pH > 5.8 and 6.2 in 24-hr collection (suspicious of renal tubular acidosis) [637,638] Consistently > 7.0 (suspicious of infection) Consistently < 5.5 in morning urine and in 24-hr collection (suspicious of acidic arrest) [633,646] Specific weight Specific weight > 1.010 Creatinine 15 to 20mg/kg/day (females), 18 to 25mg/kg/day (males) Calcium 5.0mmol/day (see Figure 4.2) > 8.0mmol/day (see Figure 4.2) Oxalate > 0.5mmol/day (suspicious of enteric hyperoxaluria) > 1.0mmol/day (suspicious of primary hyperoxaluria) Uric acid 4.0mmol/day (females), 5mmol/day (males) Citrate male < 1.7mmol/day, female < 1.9mmol/day Magnesium < 3.0mmol/day Inorganic phosphate 35mmol/day Ammonium 50mmol/day Cystine 70µmol/mmol creatinine Table 4.3: Normal values for spot urine samples: creatinine ratios (solute/creatinine) in children [48,647] Parameter/Patient age Ratio of solute to creatinine Units Calcium mol/mol mg/mg < 12 months < 2.2 < 0.8 1–3 years < 1.5 < 0.53 3–5 years < 1.1 < 0.4 5–7 years < 0.8 < 0.3 > 7 years < 0.6 < 0.21 Oxalate mol/mol mg/mg 0–6 months 325–360 288–260 17–24 months 132–174 110–139 2–5 years 98–101 80 5–14 years 70–82 60–65 > 16 years < 40 < 32 Citrate mol/mol g/g 0–5 years 0.12–0.25 0.20–0.42 0.25 years 0.08–0.15 0.14–0.25 Magnesium* mol/mol g/g <1 year 0.4–2.2 0.10–0.48 1–2 years 0.4–1.7 0.09–0.37 2–3 years 0.3–1.6 0.07–0.34 3–5 years 0.3–1.3 0.07–0.29 5–7 years 0.3–1.0 0.06–0.21 7–10 years 0.3–0.9 0.05–0.18 10–14 years 0.2–0.7 0.05–0.15 14–17 years 0.2–0.66 0.05–0.13 Uric acid mol/mol g/g < 1 year < 1.5 < 2.2 1-3 years < 1.3 < 1.9 3-5 years < 1.0 < 1.5 5-10 years < 0.6 < 0.9 >10 years < 0.4 < 0.6 * There is low-level evidence regarding the importance of magnesium. Table 4.4: Solute excretion in 24-hour urine samples in children [648, 649]* Calcium/ 24 hour Citrate/24 hour Cystine/24 hour Oxalate/24 hour Urate/24 hour All age groups Boys Girls < 10 years 10 years All age groups < 1 year 1–5 years 5 years < 0.1mmol/ kg/24h > 1.9mmol/ 1.73m 2 /24h > 1.6mmol/ 1.73m 2 /24h < 55μmol/ 1.73m 2 /24h < 200μmol/ 1.73m 2 /24h < 0.5mmol/ 1.73m 2 /24h < 70μmol/ kg/24h < 65mμmol/ kg/24h < 55μmol/ kg/24h < 4mg/kg/24h > 365 mg/ 1.73m 2 /24h > 310mg/ 1.73m 2 /24h < 13 mg/ 1.73m 2 /24h < 48mg/ 1.73m 2 /24h < 45mg/ 1.73m 2 /24h < 13mg/ kg/24h < 11mg/ kg/24h < 9.3mg/ kg/24h * 24h urine parameters are diet- and gender-dependent and may vary geographically.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Urinary Parameters",
+              "Reference ranges and limits for medical attention"
+            ],
+            [
+              "pH",
+              "Consistently fasting morning spot urine pH > 5.8 and 6.2 in 24-hr collection (suspicious of renal tubular acidosis) [637,638]"
+            ],
+            [
+              "Consistently > 7.0 (suspicious of infection)"
+            ],
+            [
+              "Consistently < 5.5 in morning urine and in 24-hr collection (suspicious of acidic arrest) [633,646]"
+            ],
+            [
+              "Specific weight",
+              "Specific weight > 1.010"
+            ],
+            [
+              "Creatinine",
+              "15 to 20mg/kg/day (females), 18 to 25mg/kg/day (males)"
+            ],
+            [
+              "Calcium",
+              "5.0mmol/day (see Figure 4.2)"
+            ],
+            [
+              "> 8.0mmol/day (see Figure 4.2)"
+            ],
+            [
+              "Oxalate",
+              "> 0.5mmol/day (suspicious of enteric hyperoxaluria)"
+            ],
+            [
+              "> 1.0mmol/day (suspicious of primary hyperoxaluria)"
+            ],
+            [
+              "Uric acid",
+              "4.0mmol/day (females), 5mmol/day (males)"
+            ],
+            [
+              "Citrate",
+              "male < 1.7mmol/day, female < 1.9mmol/day"
+            ],
+            [
+              "Magnesium",
+              "< 3.0mmol/day"
+            ],
+            [
+              "Inorganic phosphate",
+              "35mmol/day"
+            ],
+            [
+              "Ammonium",
+              "50mmol/day"
+            ],
+            [
+              "Cystine",
+              "70µmol/mmol creatinine"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Parameter/Patient age",
+              "Ratio of solute to creatinine",
+              "Units"
+            ],
+            [
+              "Calcium",
+              "mol/mol",
+              "mg/mg"
+            ],
+            [
+              "< 12 months",
+              "< 2.2",
+              "< 0.8"
+            ],
+            [
+              "1–3 years",
+              "< 1.5",
+              "< 0.53"
+            ],
+            [
+              "3–5 years",
+              "< 1.1",
+              "< 0.4"
+            ],
+            [
+              "5–7 years",
+              "< 0.8",
+              "< 0.3"
+            ],
+            [
+              "> 7 years",
+              "< 0.6",
+              "< 0.21"
+            ],
+            [
+              "Oxalate",
+              "mol/mol",
+              "mg/mg"
+            ],
+            [
+              "0–6 months",
+              "325–360",
+              "288–260"
+            ],
+            [
+              "17–24 months",
+              "132–174",
+              "110–139"
+            ],
+            [
+              "2–5 years",
+              "98–101",
+              "80"
+            ],
+            [
+              "5–14 years",
+              "70–82",
+              "60–65"
+            ],
+            [
+              "> 16 years",
+              "< 40",
+              "< 32"
+            ],
+            [
+              "Citrate",
+              "mol/mol",
+              "g/g"
+            ],
+            [
+              "0–5 years",
+              "0.12–0.25",
+              "0.20–0.42"
+            ],
+            [
+              "0.25 years",
+              "0.08–0.15",
+              "0.14–0.25"
+            ],
+            [
+              "Magnesium*",
+              "mol/mol",
+              "g/g"
+            ],
+            [
+              "<1 year",
+              "0.4–2.2",
+              "0.10–0.48"
+            ],
+            [
+              "1–2 years",
+              "0.4–1.7",
+              "0.09–0.37"
+            ],
+            [
+              "2–3 years",
+              "0.3–1.6",
+              "0.07–0.34"
+            ],
+            [
+              "3–5 years",
+              "0.3–1.3",
+              "0.07–0.29"
+            ],
+            [
+              "5–7 years",
+              "0.3–1.0",
+              "0.06–0.21"
+            ],
+            [
+              "7–10 years",
+              "0.3–0.9",
+              "0.05–0.18"
+            ],
+            [
+              "10–14 years",
+              "0.2–0.7",
+              "0.05–0.15"
+            ],
+            [
+              "14–17 years",
+              "0.2–0.66",
+              "0.05–0.13"
+            ],
+            [
+              "Uric acid",
+              "mol/mol",
+              "g/g"
+            ],
+            [
+              "< 1 year",
+              "< 1.5",
+              "< 2.2"
+            ],
+            [
+              "1-3 years",
+              "< 1.3",
+              "< 1.9"
+            ],
+            [
+              "3-5 years",
+              "< 1.0",
+              "< 1.5"
+            ],
+            [
+              "5-10 years",
+              "< 0.6",
+              "< 0.9"
+            ],
+            [
+              ">10 years",
+              "< 0.4",
+              "< 0.6"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Calcium/24 hour",
+              "Citrate/24 hour",
+              "Cystine/24 hour",
+              "Oxalate/24 hour",
+              "Urate/24 hour"
+            ],
+            [
+              "All age groups",
+              "Boys",
+              "Girls",
+              "< 10 years",
+              "10 years",
+              "All age groups",
+              "< 1 year",
+              "1–5 years",
+              "5 years"
+            ],
+            [
+              "< 0.1mmol/kg/24h",
+              "> 1.9mmol/1.73m2/24h",
+              "> 1.6mmol/1.73m2/24h",
+              "< 55μmol/1.73m2/24h",
+              "< 200μmol/1.73m2/24h",
+              "< 0.5mmol/1.73m2/24h",
+              "< 70μmol/kg/24h",
+              "< 65mμmol/kg/24h",
+              "< 55μmol/kg/24h"
+            ],
+            [
+              "< 4mg/kg/24h",
+              "> 365 mg/1.73m2/24h",
+              "> 310mg/1.73m2/24h",
+              "< 13 mg/1.73m2/24h",
+              "< 48mg/1.73m2/24h",
+              "< 45mg/1.73m2/24h",
+              "< 13mg/kg/24h",
+              "< 11mg/kg/24h",
+              "< 9.3mg/kg/24h"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-2-general-considerations-for-recurrence-prevention",
+      "title": "4.2. General considerations for recurrence prevention",
+      "level": 3,
+      "text": "All stone formers, independent of their individual risk, should follow the preventive measures in Table 4.5. The main focus is the normalisation of dietary habits and lifestyle risks. Stone formers at high risk need specific prophylaxis for recurrence, which is usually pharmacological treatment based on stone analysis and urinary risk profile. Table 4.5: General preventive measures General preventive measures Fluid intake (drinking advice) Fluid amount: 2.5–3.0L/day Water is the preferred fluid Diuresis: 2.0–2.5L/day Specific weight of urine: < 1,010g/day Nutritional advice for a balanced diet Balanced diet* Rich in vegetables and fibre Normal calcium content: 1–1.2g/day Limited NaCl content: 4–5g/day Limited animal protein content: 0.8–1.0g/kg/day Lifestyle advice to normalise general risk factors Retain a normal BMI level Adequate physical activity Balancing of excessive fluid loss Reduce the intake of alcohol containing fluids Reduce the intake of sodas and calorie-containing fluids Caution: Protein requirements are age-dependent. Therefore, protein restriction in childhood should be handled carefully. * Avoid excessive consumption of vitamin supplements.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "General preventive measures"
+            ],
+            [
+              "Fluid intake (drinking advice)",
+              "Fluid amount: 2.5–3.0L/day"
+            ],
+            [
+              "Water is the preferred fluid"
+            ],
+            [
+              "Diuresis: 2.0–2.5L/day"
+            ],
+            [
+              "Specific weight of urine: < 1,010g/day"
+            ],
+            [
+              "Nutritional advice for a balanced diet",
+              "Balanced diet*"
+            ],
+            [
+              "Rich in vegetables and fibre"
+            ],
+            [
+              "Normal calcium content: 1–1.2g/day"
+            ],
+            [
+              "Limited NaCl content: 4–5g/day"
+            ],
+            [
+              "Limited animal protein content: 0.8–1.0g/kg/day"
+            ],
+            [
+              "Lifestyle advice to normalise general risk factors",
+              "Retain a normal BMI level"
+            ],
+            [
+              "Adequate physical activity"
+            ],
+            [
+              "Balancing of excessive fluid loss"
+            ],
+            [
+              "Reduce the intake of alcohol containing fluids"
+            ],
+            [
+              "Reduce the intake of sodas and calorie-containing fluids"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-2-1-fluid-intake",
+      "title": "4.2.1. Fluid intake",
+      "level": 4,
+      "text": "An inverse relationship between high fluid intake and stone formation has been repeatedly demonstrated [648-652]. Consuming additional water was associated with greater weight loss (range 44–100% more than control conditions) and fewer nephrolithiasis events (15 fewer events per 100 participants over five years) [653]. The beneficial effect of fruit juices is mainly determined by the presence of citrate or bicarbonate [654]. Citrus fruit juices seem to protect against stone disease either by increasing urinary citrate levels or by having an alkalinising effect on urine [655]. However, if potassium is present, both pH and citrate are increased [656,657]. One large moderate-quality RCT randomly assigned men with more than one past renal stone of any type and soft drink consumption of at least 160mL/day to reduced soft drink intake or no treatment. Although the intervention significantly reduced the risk for symptomatic recurrent stones (RR: 0.83; CI: 0.71–0.98), the level of evidence for this outcome is low because the results were from only one trial [658]. An analysis of three Channing cohorts (194,095 participants) over a median follow-up of more than eight years has shown that consumption of sugar-sweetened soda and punch is associated with a higher risk of stone formation, whereas consumption of coffee, tea, beer, wine and orange juice is associated with a lower risk [659]. However, the intake of fluids should be considered within a holistic approach to health. Some of them contain calories or alcohol that may be detrimental to health. Therefore, water should be the preferred fluid.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-2-2-diet",
+      "title": "4.2.2. Diet",
+      "level": 4,
+      "text": "A common-sense approach to diet should be taken, that is, a mixed, balanced diet with contributions from all food groups, without any excesses [649,660,661]. Sufficient calcium intake is needed especially in vegetarian and vegan diets [662]. Fruit, vegetables and fibre: Fruit and vegetable intake should be encouraged because of the beneficial effects of fibre, although the role of the latter in preventing stone recurrences is debatable [663-666]. The alkaline content of a vegetarian diet also increases urinary pH. In addition, fruits and vegetables have a high-water content and can significantly contribute to fluid intake. Oxalate: Excessive intake of oxalate-rich products should be limited or avoided to prevent high oxalate load [667], particularly in patients who have high oxalate excretion. Vitamin C: Although vitamin C is a precursor of oxalate, its role as a risk factor in calcium oxalate stone formation remains controversial [668]. However, it seems wise to advise calcium oxalate stone formers to avoid excessive intake. Animal protein: Animal protein should not be consumed in excess [669,670] and limited to 0.8–1.0g/kg body weight. Excessive consumption of animal protein has several effects that favour stone formation, including hypocitraturia, low urine pH, hyperoxaluria, and hyperuricosuria. Calcium intake: Calcium should not be restricted, unless there are strong reasons for doing so, due to the inverse relationship between dietary calcium and stone formation [664,671]. The daily requirement for calcium is 1,000 to 1,200mg [23]. Calcium supplements are not recommended, except in enteric hyperoxaluria when additional calcium should be taken with meals to bind intestinal oxalate [649,667,669,672]. Older adults who do not have a history of renal stones but who take calcium supplements should ensure adequate fluid intake, since it may prevent increases in urine calcium concentration, and thereby reduce or eliminate any increased risk of renal stone formation associated with calcium supplement use [673]. Sodium: Daily sodium (NaCl) intake should not exceed 4–5g [23]. High intake adversely affects urine composition: Calcium excretion is increased by reduced tubular reabsorption; urinary citrate is reduced due to loss of bicarbonate; and increased risk of sodium urate crystal formation. Calcium stone formation can be reduced by restricting sodium and animal protein [669,670]. A positive correlation between sodium consumption and the risk of first-time stone formation has been confirmed only in women [671]. There have been no prospective clinical trials on the role of sodium restriction as an independent variable in reducing the risk of stone formation. Urate: Intake of purine-rich food should be restricted in patients with hyperuricosuric calcium oxalate [674,675] and uric acid stones. Intake should not exceed 500mg/day [23].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-2-3-lifestyle",
+      "title": "4.2.3. Lifestyle",
+      "level": 4,
+      "text": "Lifestyle factors may influence the risk of stone formation, for example, those causing obesity [676], diabetes mellitus [677] and metabolic syndrome [678].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-2-4-summary-of-evidence-and-recommendation-for-recurrence-prevention",
+      "title": "4.2.4. Summary of evidence and recommendation for recurrence prevention",
+      "level": 4,
+      "text": "Summary of evidence LE Increasing water intake reduces the risk of stone recurrence. 1a Recommendation Strength rating Advise patients that a generous intake of fluids, preferably water, is to be maintained, allowing for a 24-hour urine volume > 2.5L. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Increasing water intake reduces the risk of stone recurrence.",
+              "1a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Advise patients that a generous intake of fluids, preferably water, is to be maintained, allowing for a 24-hour urine volume > 2.5L.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-3-stone-specific-metabolic-evaluation-and-pharmacological-recurrence-prevention",
+      "title": "4.3. Stone-specific metabolic evaluation and pharmacological recurrence prevention",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-3-1-introduction",
+      "title": "4.3.1. Introduction",
+      "level": 4,
+      "text": "Pharmacological treatment is necessary in patients at high risk for stone formation or for associated systemic conditions. The ideal drug should halt stone formation, have no side effects and be easy to administer. Each of these aspects is important to achieve good compliance. Table 4.6 highlights the most important characteristics of commonly used medication. Table 4.6: Pharmacological substances used for stone prevention – characteristics, specifics and dosage Agent Rationale Dose Specifics and side effects Stone type Ref Alkaline citrates Alkalinisation Hypocitraturia Inhibition of calcium oxalate crystallisation 3.25–9.75g/d (10–30mmol/d) Children: 0.1–0.15g/kg/d Daily dose for alkalinisation depends on urine pH Calcium oxalate uric acid cystine [679-683] Allopurinol Hyperuricosuria Hyperuricaemia 100–300mg/d Children: 1–3mg/kg/d 100mg in isolated hyperuricosuria. Renal insufficiency demands dose correction. Contraindicated in acute gout, pregnancy and breastfeeding. Allergies from trivial to very severe forms, xanthine stone formation Calcium oxalate Uric acid Ammonium urate 2,8-Dihydroxy-adenine [649,684-687] Calcium Enteric hyperox-aluria Up to 2,000mg/d depending on oxalate excretion Intake 30 min. before meals Calcium oxalate [669,671,672,688] Magnesium Isolated hypomagnesuria Enteric hyperoxaluria 200–400mg/d Children: 6mg/ kg/d Renal insufficiency demands dose correction. Diarrhoea, chronic alkali losses, hypocitraturia Calcium oxalate [689,690] (Low-level of evidence) Sodium bicarbonate Alkalinisation hypocitraturia 4.5g/d Daily dose for alkalinisation depends on urine pH Calcium oxalate Uric acid cystine [691] Pyridoxine Primary hyperoxaluria Initial dose 5mg/kg/d Max. 20mg/kg/d Sensory peripheral neuropathy Calcium oxalate [692] Thiazide (Hydro- chlorothiazide*) Hypercalciuria 25–50mg/d Children: 0.5–1mg/kg/d Risk for hypotension diabetes, hyperuricaemia, hypokalaemia, hypocitraturia Calcium oxalate Calcium phosphate [675-679,687,689-707] Tiopronin Cystinuria Increase in solubility of levels Initial dose 800mg/d Avg. 2,000mg/d** Children: Initial dose in patients > 20kg is 15mg/kg/day. Avoid dosages > 50 mg/kg/day Risk for proteinuria, occasional rash or gastrointestinal disturbances; autoimmune reaction Cystine [708-710] * Patients on hydrochlorothiazide should be advised to get their skin checked on a regular basis, because they have a higher risk of developing a non-melanoma skin cancer (NMSC) and some forms of melanoma. In patients with a history of skin cancer, the indication for treatment with hydrochlorothiazide should be thoroughly reviewed. ** No information is available on maximum dose and patients may be initiated on a very low dose if they have previously had reactions to tiopronin or penicillamine. For all patients, dosage should be titrated according to the frequency of stone episodes, side effects and renal function under expert supervision with close monitoring.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Agent",
+              "Rationale",
+              "Dose",
+              "Specifics and side effects",
+              "Stone type",
+              "Ref"
+            ],
+            [
+              "Alkaline citrates",
+              "AlkalinisationHypocitraturiaInhibition of calcium oxalate crystallisation",
+              "3.25–9.75g/d(10–30mmol/d)Children:0.1–0.15g/kg/d",
+              "Daily dose for alkalinisation depends on urine pH",
+              "Calcium oxalate uric acid cystine",
+              "[679-683]"
+            ],
+            [
+              "Allopurinol",
+              "HyperuricosuriaHyperuricaemia",
+              "100–300mg/dChildren:1–3mg/kg/d",
+              "100mg in isolated hyperuricosuria.Renal insufficiency demands dose correction.Contraindicated in acute gout, pregnancy and breastfeeding.Allergies from trivial to very severe forms, xanthine stone formation",
+              "Calcium oxalateUric acidAmmonium urate2,8-Dihydroxy-adenine",
+              "[649,684-687]"
+            ],
+            [
+              "Calcium",
+              "Enteric hyperox-aluria",
+              "Up to 2,000mg/d depending on oxalate excretion",
+              "Intake 30 min. before meals",
+              "Calcium oxalate",
+              "[669,671,672,688]"
+            ],
+            [
+              "Magnesium",
+              "Isolated hypomagnesuriaEnteric hyperoxaluria",
+              "200–400mg/dChildren: 6mg/kg/d",
+              "Renal insufficiency demands dose correction.Diarrhoea, chronic alkali losses, hypocitraturia",
+              "Calcium oxalate",
+              "[689,690] (Low-level of evidence)"
+            ],
+            [
+              "Sodium bicarbonate",
+              "Alkalinisation hypocitraturia",
+              "4.5g/d",
+              "Daily dose for alkalinisation depends on urine pH",
+              "Calcium oxalateUric acid cystine",
+              "[691]"
+            ],
+            [
+              "Pyridoxine",
+              "Primary hyperoxaluria",
+              "Initial dose5mg/kg/dMax. 20mg/kg/d",
+              "Sensory peripheral neuropathy",
+              "Calcium oxalate",
+              "[692]"
+            ],
+            [
+              "Thiazide (Hydro- chlorothiazide*)",
+              "Hypercalciuria",
+              "25–50mg/dChildren:0.5–1mg/kg/d",
+              "Risk for hypotension diabetes, hyperuricaemia, hypokalaemia, hypocitraturia",
+              "Calcium oxalate Calcium phosphate",
+              "[675-679,687,689-707]"
+            ],
+            [
+              "Tiopronin",
+              "Cystinuria Increase in solubility of levels",
+              "Initial dose800mg/dAvg. 2,000mg/d**Children:Initial dose in patients > 20kg is 15mg/kg/day.Avoid dosages > 50 mg/kg/day",
+              "Risk for proteinuria, occasional rash or gastrointestinal disturbances; autoimmune reaction",
+              "Cystine",
+              "[708-710]"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-4-calcium-oxalate-stones",
+      "title": "4.4. Calcium oxalate stones",
+      "level": 3,
+      "text": "The criteria for identification of calcium oxalate stone formers with a high risk of recurrences and comorbidities are listed in Section 3.1.3.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-4-1-diagnosis",
+      "title": "4.4.1. Diagnosis",
+      "level": 4,
+      "text": "Blood analysis requires measurement of creatinine, sodium, potassium, chloride, ionised calcium (or total calcium + albumin), phosphate, uric acid and, in the case of increased calcium levels, parathyroid hormone (PTH) and vitamin D. Urinalysis requires measurement of urine volume, urine pH, specific weight, calcium, oxalate, uric acid, citrate, sodium and magnesium. Figure 4.2 summarises the diagnostic steps for calcium oxalate stones. Figure 4.2 Diagnostic algorithm for Calcium Oxalate stones",
+      "tables": []
+    },
+    {
+      "anchor": "#4-4-2-interpretation-of-results-and-aetiology",
+      "title": "4.4.2. Interpretation of results and aetiology",
+      "level": 4,
+      "text": "The most common metabolic abnormalities associated with calcium stone formation are hypercalciuria, – which affects 30–60% of adult stone formers – and hyperoxaluria (26–67%), followed by hyperuricosuria (15–46%), hypomagnesuria (7–23%), and hypocitraturia (5–29%). However, ranges tend to differ based on ethnicity [715]. Elevated levels of ionised calcium in serum (or total calcium and albumin) require assessment of intact PTH to confirm or exclude suspected hyperparathyroidism (HPT). Consistently low pH (< 5.5) or 24-hour urine pH < 5.5 may promote co-crystallisation of uric acid and calcium oxalate. Similarly, increased uric acid excretion (> 4.5mmol/day and > 4.7mmol/day in adult women and men, respectively, or > 12mg/kg/day in children) can act as a promoter. A pH > 6.2 in a 24-hour urine collection may indicate RTA provided UTI has been excluded. An ammonium chloride loading test confirms distal RTA (see Section 4.6.5). Hypercalciuria may be associated with normocalcemia (idiopathic hypercalciuria or granulomatous diseases) or hypercalcemia (hyperparathyroidism, granulomatous diseases, vitamin D excess or malignancy). Hypocitraturia (male < 1.7mmol/d, female < 1.9mmol/d) may be idiopathic or secondary to metabolic acidosis or hypokalaemia. Oxalate excretion > 0.40mmol/day in adults confirms hyperoxaluria (see Table 4.3 for the values in children). - primary hyperoxaluria (oxalate excretion mostly > 1mmol/day), appears in three genetically determined forms; - secondary hyperoxaluria (oxalate excretion > 0.5mmol/day, usually < 1mmol/day), occurs due to intestinal hyperabsorption of oxalate or extreme dietary oxalate intake; - mild hyperoxaluria (oxalate excretion 0.40–0.50mmol/day), commonly found in idiopathic calcium oxalate stone formers. Hypomagnesuria (< 3.0mmol/day) may be related to poor dietary intake or to reduced intestinal absorption (chronic diarrhoea) [716]. Figure 4.3: Therapeutic algorithm for calcium oxalate stones 1 Be aware of excess calcium excretion. 2 tid = three times/day (24h). 3 No magnesium therapy for patients with renal insufficiency. 4 There is no evidence that combination therapy (thiazide + citrate) or (thiazide + allopurinol) is superior to thiazide therapy alone [680, 717]. 5 Febuxostat 80mg/d.* Low evidence (see text) ** Calciuria is a continuous variable, and treatment may be adjusted to clinical need even when below the threshold indicated. *** Patients on hydrochlorothiazide should be advised to get their skin checked on a regular basis as they have a higher risk of developing NMSC and some forms of melanoma. In patients with a history of skin cancer, the indication for treatment with hydrochlorothiazide should be thoroughly reviewed [712-714].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-4-3-specific-treatment",
+      "title": "4.4.3. Specific treatment",
+      "level": 4,
+      "text": "General preventive measures are recommended for fluid intake and diet. Hyperoxaluric stone formers should consume foods with low oxalate content, whereas hyperuricosuric stone formers benefit from daily dietary reduction of purine. Figure 4.3 summarises the pharmacological treatment of calcium oxalate stones [649,657,679-682,684,685,687,689-691,695,700-707,715,718-721]. There is only low-level evidence for the efficacy of preventing stone recurrence based on pre-treatment stone composition examination and biochemistry measures, or on-treatment biochemistry measures [649]. One RCT concluded that treatment with hydrochlorothiazide (HCTZ) does not differ substantially from placebo in the prevention of stone recurrence of kidney stones in patients at high risk for recurrence [722]. However, the study was not powered to show any difference of HCTZ over placebo [723]. In fact, the study’s main objective based on the author’s protocol [723], was to investigate the existence of a dose-response relationship, i.e. a linear trend for three different doses of HCTZ (12.5, 25mg, and 50mg/day) on stone recurrence, and this was shown. In addition, the hypercalciuria levels in the population enrolled in the study were significantly lower than the threshold the EAU Guidelines recommend being administered to patients (Figure 4.3) Magnesium citrate supplements were shown to decrease the 24-hour urine calcium oxalate supersaturation [716].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-4-4-summary-of-evidence-and-recommendations-for-pharmacological-treatments-for-patients-with-specific-abnormalities-in-urine-composition-based-on-24-hour-urine-samples",
+      "title": "4.4.4. Summary of evidence and recommendations for pharmacological treatments for patients with specific abnormalities in urine composition (based on 24-hour urine samples)",
+      "level": 4,
+      "text": "Summary of evidence LE Alkaline citrates can reduce stone formation. 1a Thiazides reduce calciuria. 1a Oxalate restriction is beneficial if hyperoxaluria is present. 2b Alkaline citrates can reduce stone formation in enteric hyperoxaluria. 4 Calcium supplement can reduce stone formation in enteric hyperoxaluria. 2 A diet reduced in fat and oxalate can be beneficial in reducing stone formation. 3 Alkaline citrates and sodium bicarbonate can be used if hypocitraturia is present. 1b Allopurinol is first-line treatment of hyperuricosuria. 1a Febuxostat is second-line treatment of hyperuricosuria. 1b Avoid excessive intake of animal protein in hyperuricosuria. 1b Restricted intake of salt is beneficial if there is high urinary sodium excretion. 1b Recommendations Strength rating Prescribe thiazide or alkaline citrates or both in case of hypercalciuria.* Strong Advise oxalate restriction if hyperoxaluria is present. Weak Offer alkaline citrates in enteric hyperoxaluria. Weak Offer calcium supplement in enteric hyperoxaluria. Strong Advise reduced dietary fat and oxalate in enteric hyperoxaluria. Weak Prescribe alkaline citrates or sodium bicarbonate in case of hypocitraturia. Strong Prescribe allopurinol in case of hyperuricosuria. Strong Offer febuxostat as second-line treatment of hyperuricosuria. Strong Avoid excessive intake of animal protein in hyperuricosuria. Strong Advise restricted intake of salt if there is high urinary sodium excretion. Strong * Patients on hydrochlorothiazide should be advised to get their skin checked on a regular basis, as they have a higher risk of developing an NMSC and some forms of melanoma. In patients with a history of skin cancer, the indication for treatment with hydrochlorothiazide should be thoroughly reviewed .",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Alkaline citrates can reduce stone formation.",
+              "1a"
+            ],
+            [
+              "Thiazides reduce calciuria.",
+              "1a"
+            ],
+            [
+              "Oxalate restriction is beneficial if hyperoxaluria is present.",
+              "2b"
+            ],
+            [
+              "Alkaline citrates can reduce stone formation in enteric hyperoxaluria.",
+              "4"
+            ],
+            [
+              "Calcium supplement can reduce stone formation in enteric hyperoxaluria.",
+              "2"
+            ],
+            [
+              "A diet reduced in fat and oxalate can be beneficial in reducing stone formation.",
+              "3"
+            ],
+            [
+              "Alkaline citrates and sodium bicarbonate can be used if hypocitraturia is present.",
+              "1b"
+            ],
+            [
+              "Allopurinol is first-line treatment of hyperuricosuria.",
+              "1a"
+            ],
+            [
+              "Febuxostat is second-line treatment of hyperuricosuria.",
+              "1b"
+            ],
+            [
+              "Avoid excessive intake of animal protein in hyperuricosuria.",
+              "1b"
+            ],
+            [
+              "Restricted intake of salt is beneficial if there is high urinary sodium excretion.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Prescribe thiazide or alkaline citrates or both in case of hypercalciuria.*",
+              "Strong"
+            ],
+            [
+              "Advise oxalate restriction if hyperoxaluria is present.",
+              "Weak"
+            ],
+            [
+              "Offer alkaline citrates in enteric hyperoxaluria.",
+              "Weak"
+            ],
+            [
+              "Offer calcium supplement in enteric hyperoxaluria.",
+              "Strong"
+            ],
+            [
+              "Advise reduced dietary fat and oxalate in enteric hyperoxaluria.",
+              "Weak"
+            ],
+            [
+              "Prescribe alkaline citrates or sodium bicarbonate in case of hypocitraturia.",
+              "Strong"
+            ],
+            [
+              "Prescribe allopurinol in case of hyperuricosuria.",
+              "Strong"
+            ],
+            [
+              "Offer febuxostat as second-line treatment of hyperuricosuria.",
+              "Strong"
+            ],
+            [
+              "Avoid excessive intake of animal protein in hyperuricosuria.",
+              "Strong"
+            ],
+            [
+              "Advise restricted intake of salt if there is high urinary sodium excretion.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-5-calcium-phosphate-stones-649-679-687-700-701-705-724",
+      "title": "4.5. Calcium phosphate stones [649, 679, 687, 700, 701, 705, 724]",
+      "level": 3,
+      "text": "Some calcium phosphate stone formers are at high risk of recurrence. Further information on identifying high-risk patients is provided in Section 3.1.3. Calcium phosphate mainly appears in two completely different minerals: carbonate apatite and brushite. Carbonate apatite crystallisation occurs at a pH > 6.8 and may be associated with infection. Brushite crystallises at an optimum pH of 6.5–6.8 at high urinary concentrations of calcium (> 8mmol/day) and phosphate (> 35mmol/day). Its occurrence is not related to UTI. Possible causes of calcium phosphate stones include HPT, RTA and UTI, each of which requires different therapy.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-5-1-diagnosis",
+      "title": "4.5.1. Diagnosis",
+      "level": 4,
+      "text": "Diagnosis requires blood analysis for creatinine, sodium, potassium, chloride, ionised calcium (or total calcium + albumin), phosphate and PTH (in the case of increased calcium levels). Urinalysis includes measurement of volume, urine pH, specific weight, calcium, phosphate and citrate.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-5-2-interpretation-of-results-and-aetiology",
+      "title": "4.5.2. Interpretation of results and aetiology",
+      "level": 4,
+      "text": "General preventive measures are recommended for fluid intake and diet. The diagnostic and therapeutic algorithm for calcium phosphate stones is shown in Figure 4.4. Figure 4.4: Diagnostic and therapeutic algorithm for calcium phosphate stones HPT = hyperparathyroidism; RTA = renal tubular acidosis; UTI = urinary tract infection. * Patients on hydrochlorothiazide should be advised to get their skin checked on a regular basis, as they have a higher risk of developing NMSC and some forms of melanoma. In patients with a history of skin cancer, the indication for treatment with hydrochlorothiazide should be thoroughly reviewed [712-714].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-5-3-pharmacological-therapy-649679687700701705724",
+      "title": "4.5.3. Pharmacological therapy [649,679,687,700,701,705,724]",
+      "level": 4,
+      "text": "Hyperparathyroidism and RTA are common causes of calcium phosphate stone formation. Most patients with primary HPT require surgery. Renal tubular acidosis can be corrected pharmacologically, including with bicarbonate or alkaline citrate therapy. If primary HPT and RTA have been excluded, pharmacotherapy for calcium phosphate calculi depends on the effective reduction of urinary calcium levels using thiazides. For infection-associated calcium phosphate stones, it is important to consider the guidance given for infection stones.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-5-4-summary-of-evidence-and-recommendation-for-the-management-of-calcium-phosphate-stones",
+      "title": "4.5.4. Summary of evidence and recommendation for the management of calcium phosphate stones",
+      "level": 4,
+      "text": "Summary of evidence LE Thiazide decreases calciuria. 1a Recommendation Strength rating Prescribe thiazide in case of hypercalciuria > 8mmol/24 hours. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Thiazide decreases calciuria.",
+              "1a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Prescribe thiazide in case of hypercalciuria > 8mmol/24 hours.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-6-disorders-and-diseases-related-to-calcium-stones",
+      "title": "4.6. Disorders and diseases related to calcium stones",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#4-6-1-hyperparathyroidism-725-730",
+      "title": "4.6.1. Hyperparathyroidism [725-730]",
+      "level": 4,
+      "text": "Primary HPT is responsible for an estimated 5% of all calcium stone formation. Renal stones occur in approximately 20% of patients with primary HPT. Elevated levels of PTH significantly increase calcium turnover, leading to hypercalcemia, hypercalciuria and bone disease. Serum calcium may be mildly elevated and serum PTH may be within the upper normal limits, therefore, repeated measurements may be needed; preferably with the patient fasting. Stones of HPT patients may contain both calcium oxalate and calcium phosphate. Nephrocalcinosis and CKD may also occur. Although the effect on stone relapses is uncertain if primary HPT is diagnosed [731], parathyroidectomy is generally suggested to prevent or cure other complications. If surgery is contraindicated, primary HPT can be treated with cinacalcet.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-6-2-granulomatous-diseases-732",
+      "title": "4.6.2. Granulomatous Diseases [732]",
+      "level": 4,
+      "text": "Granulomatous diseases, such as sarcoidosis, may be complicated by hypercalcemia and hypercalciuria secondary to increased calcitriol production. The latter is independent of PTH control, leading to increased calcium absorption in the gastrointestinal tract and suppression of PTH. Treatment focuses on the activity of the granulomatous diseases and may require steroids, hydroxychloroquine or ketoconazole. Treatment should be reserved for a specialist.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-6-3-primary-hyperoxaluria-692",
+      "title": "4.6.3. Primary Hyperoxaluria [692]",
+      "level": 4,
+      "text": "Patients with primary hyperoxaluria (PH) should be referred to a specialised centre, as successful management requires an experienced interdisciplinary team. The main therapeutic aim is to reduce endogenous oxalate production, which is increased in patients with PH. In approximately one-third of patients with PH type I, pyridoxine therapy normalises or significantly reduces urinary oxalate excretion. The goal of adequate urine dilution is achieved by adjusting fluid intake to 3.5–4.0L/day in adults (children 1.5L/m 2 body surface area) and following a circadian drinking regimen. Therapeutic options for preventing calcium oxalate crystallisation include hyper-diuresis, alkaline citrates, magnesium and RNAi agents, Lumasiran and Nedosiran (the latter not yet approved for use by EMA). These are new treatments for reducing the synthesis of oxalate of PH type 1 [733]. Lumasiran has been shown to decrease oxaluria, oxalaemia and stone recurrences. It stabilises GFR and may improve nephrocalcinosis [734,735]. Treatment regimens are: pyridoxine in PH type I: 5–20mg/kg/day according to urinary oxalate excretion and patient tolerance; alkaline citrate: 3.25–9.75g/day in adults, 0.1–0.15mg/kg/day in children; Lumasiran: subcutaneous injection with dose and timing adjusted according to body weight and duration of treatment: - Initial dose: bodyweight < 10kg: 6mg/kg; bodyweight 10–20kg: 6mg/kg; bodyweight > 20kg: 3mg/kg; once per month for three months subcutaneous injection. - Maintenance starting one month after initial doses: bodyweight < 10kg: 3mg/kg once monthly; bodyweight 10–20kg: 6mg/kg every three months, bodyweight > 20kg: 3mg/kg every three months [644]. 4.6.3.a. Summary of evidence and recommendation for the management of primary hyperoxaluria Summary of evidence LE Pyridoxine can reduce the urinary oxalate excretion in primary hyperoxaluria type 1. 3 Lumasiran reduces the urinary oxalate excretion and stone recurrences in primary hyperoxaluria type 1. 1b Recommendations Strength rating Prescribe pyridoxine for primary hyperoxaluria type 1. Strong Prescribe Lumasiran for primary hyperoxaluria type 1 if not responsive to pyridoxine. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Pyridoxine can reduce the urinary oxalate excretion in primary hyperoxaluria type 1.",
+              "3"
+            ],
+            [
+              "Lumasiran reduces the urinary oxalate excretion and stone recurrences in primary hyperoxaluria type 1.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Prescribe pyridoxine for primary hyperoxaluria type 1.",
+              "Strong"
+            ],
+            [
+              "Prescribe Lumasiran for primary hyperoxaluria type 1 if not responsive to pyridoxine.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-6-4-enteric-hyperoxaluria-667672736-738",
+      "title": "4.6.4. Enteric hyperoxaluria [667,672,736-738]",
+      "level": 4,
+      "text": "Enteric hyperoxaluria is a particularly problematic condition in patients with intestinal malabsorption of fat. This abnormality is associated with a high risk of stone formation and is seen after intestinal resection and malabsorptive bariatric surgery, as well as in Crohn’s disease and pancreatic insufficiency. In addition to hyperoxaluria, these patients usually present with hypocitraturia due to loss of alkali. Urine pH is usually low, as are urinary calcium and urine volume. All these abnormalities contribute to high levels of supersaturation with calcium oxalate, crystalluria, stone formation and, less frequently, to nephrocalcinosis and CKD. Specific preventive measures are: restricted intake of oxalate-rich foods [667]; restricted fat intake [667]; calcium supplementation at mealtimes to enable calcium oxalate complex formation in the intestine [672,736-738]; sufficient fluid intake to balance the intestinal loss of water caused by diarrhoea; and alkaline citrates to raise urinary pH and citrate. Summary of evidence LE Alkaline citrates can be beneficial to replace citrate loss and raise urine pH. 3 Calcium supplements with meals enable calcium oxalate complex formation in the intestine. 2b Reduction in dietary fat and oxalate can be beneficial in intestinal malabsorption. 3 Recommendations Strength rating Prescribe alkaline citrates for enteric hyperoxaluria. Weak Advise patients to take calcium supplements with meals. Strong Advise patients to follow a diet with a low-fat and low-oxalate content. Weak",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Alkaline citrates can be beneficial to replace citrate loss and raise urine pH.",
+              "3"
+            ],
+            [
+              "Calcium supplements with meals enable calcium oxalate complex formation in the intestine.",
+              "2b"
+            ],
+            [
+              "Reduction in dietary fat and oxalate can be beneficial in intestinal malabsorption.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Prescribe alkaline citrates for enteric hyperoxaluria.",
+              "Weak"
+            ],
+            [
+              "Advise patients to take calcium supplements with meals.",
+              "Strong"
+            ],
+            [
+              "Advise patients to follow a diet with a low-fat and low-oxalate content.",
+              "Weak"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-6-5-renal-tubular-acidosis-649687739740",
+      "title": "4.6.5. Renal tubular acidosis [649,687,739,740]",
+      "level": 4,
+      "text": "Renal tubular acidosis is caused by severe impairment of proton (type I) or bicarbonate handling (type II) along the nephron. Kidney stone formation occurs in patients with distal RTA type I. Figure 4.5 outlines the diagnosis of RTA type I. Table 4.7 shows acquired and inherited causes of RTA. Figure 4.5: Diagnosis of renal tubular acidosis BGA = blood gas analysis; RTA = renal tubular acidosis. ** An alternative ammonium chloride loading test using one-day NH4Cl load with 0.05g/kg bodyweight might provide similar results and may be better tolerated by the patient [741]. A second alternative in these cases could be the furosemide/fludrocortisone acidification test [722] . Renal tubular acidosis can be acquired or inherited. Reasons for acquired RTA can be chronic obstructive uropathy, recurrent pyelonephritis, acute tubular necrosis, renal transplantation, analgesic nephropathy, sarcoidosis, Sjögren syndrome and other autoimmune diseases, medullary sponge kidney, liver cirrhosis, sickle cell anaemia, idiopathic hypercalciuria and primary parathyroidism. It may also be drug-induced (e.g. amphotericin B, foscarnet, lithium, zonisamide and other carbonic anhydrase inhibitors). Table 4.7: Inherited causes of renal tubular acidosis Type - inheritance Gene/gene product/function Phenotype Autosomal dominant SLC4A1/AE1/Cl-bicarbonate exchanger Hypercalciuria, hypokalaemia, rickets/osteomalacia Autosomal recessive with hearing loss ATP6V1B1/B1 sub-unit of vacuolar H-ATPase / proton secretion Hypercalciuria, hypokalaemia, rickets/osteomalacia Autosomal recessive ATP6V0A4 / A4 sub-unit of vacuolar H-ATPase / proton secretion Hypercalciuria, hypokalaemia, rickets/osteomalacia Very rarely, biallelic causative variants in FOXI1 and WDR72 genes have also been identified. The main therapeutic aim of RTA treatment is restoring a normal acid-base equilibrium. Despite the alkaline pH of urine in RTA, alkalinisation using alkaline citrates or sodium bicarbonate is important for normalising the metabolic changes (intracellular acidosis) responsible for stone formation (Table 4.8) and bone demineralisation. The alkali load reduces tubular reabsorption of citrate, which in turn normalises citrate excretion. Therapeutic success can be monitored by venous blood gas analysis (base excess: ±2.0mmol/L) in complete RTA. If excessive calcium excretion (> 8mmol/day) persists after re-establishing acid-base equilibrium, thiazides may lower urinary calcium excretion. Table 4.8: Pharmacological treatment of renal tubular acidosis Pharmacological treatment of renal tubular acidosis Biochemical risk factor Indication for pharmacological therapy Medication Hypercalciuria Calcium excretion > 8mmol/day Hydrochlorothiazide*, in adults: 25mg/day initially, up to 50mg/day in children: 0.5–1mg/kg/day Alternatives in adults: Chlorthalidone 25mg/d Indapamide 2.5mg/d Inadequate urine pH Citrate excretion male < 1.7mmol/day, female < 1.9mmol/day Alkaline citrate, 3.25–9.75g/day divided in three doses OR Sodium bicarbonate, 1.5g, three times daily * Patients on hydrochlorothiazide should be advised to get their skin checked on a regular basis as they have a higher risk of developing NMSC and some forms of melanoma. In patients with a history of skin cancer, the indication for treatment with hydrochlorothiazide should be thoroughly reviewed [712-714]. 4.6.5.a. Summary of evidence and recommendations for the management of tubular acidosis Summary of evidence LE Alkaline citrates can be beneficial in distal renal tubular acidosis to correct metabolic acidosis. 2b Thiazides are beneficial for hypercalciuria. 1a Recommendations Strength rating Prescribe alkaline citrates for distal renal tubular acidosis. Strong Address normalisation of bicarbonatemia and citraturia with alkaline citrate. Strong Prescribe thiazides for hypercalciuria. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Type - inheritance",
+              "Gene/gene product/function",
+              "Phenotype"
+            ],
+            [
+              "Autosomal dominant",
+              "SLC4A1/AE1/Cl-bicarbonate exchanger",
+              "Hypercalciuria, hypokalaemia, rickets/osteomalacia"
+            ],
+            [
+              "Autosomal recessive with hearing loss",
+              "ATP6V1B1/B1 sub-unit of vacuolar H-ATPase / proton secretion",
+              "Hypercalciuria, hypokalaemia, rickets/osteomalacia"
+            ],
+            [
+              "Autosomal recessive",
+              "ATP6V0A4 / A4 sub-unit of vacuolar H-ATPase / proton secretion",
+              "Hypercalciuria, hypokalaemia, rickets/osteomalacia"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Pharmacological treatment of renal tubular acidosis"
+            ],
+            [
+              "Biochemical risk factor",
+              "Indication for pharmacological therapy",
+              "Medication"
+            ],
+            [
+              "Hypercalciuria",
+              "Calcium excretion > 8mmol/day",
+              "Hydrochlorothiazide*, in adults: 25mg/day initially, up to 50mg/day in children: 0.5–1mg/kg/dayAlternatives in adults: Chlorthalidone 25mg/d Indapamide 2.5mg/d"
+            ],
+            [
+              "Inadequate urine pH",
+              "Citrate excretion male < 1.7mmol/day, female < 1.9mmol/day",
+              "Alkaline citrate, 3.25–9.75g/day divided in three dosesORSodium bicarbonate, 1.5g, three times daily"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Alkaline citrates can be beneficial in distal renal tubular acidosis to correct metabolic acidosis.",
+              "2b"
+            ],
+            [
+              "Thiazides are beneficial for hypercalciuria.",
+              "1a"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Prescribe alkaline citrates for distal renal tubular acidosis.",
+              "Strong"
+            ],
+            [
+              "Address normalisation of bicarbonatemia and citraturia with alkaline citrate.",
+              "Strong"
+            ],
+            [
+              "Prescribe thiazides for hypercalciuria.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-6-6-nephrocalcinosis-742",
+      "title": "4.6.6. Nephrocalcinosis [742]",
+      "level": 4,
+      "text": "Nephrocalcinosis (NC) refers to increased calcium crystal deposition within the renal cortex or medulla and occurs alone or in combination with renal stones. There are various metabolic causes. The main causes are HPT, primary and enteric hyperoxalurias, genetic and acquired RTA, medullary sponge kidney, vitamin D metabolic disorders, sarcoidosis, idiopathic hypercalciuria and hypocitraturia, and genetic disorders, including Dent’s disease and Bartter’s syndrome. The many causes of NC mean there is no single standard therapy. Therapeutic attention must focus on the underlying metabolic or genetic disease, on the frequent association with CKD while minimising the biochemical risk factors. 4.6.6.a. Diagnosis Diagnosis requires the following blood analysis: PTH (in the case of increased calcium levels), vitamin D and metabolites, vitamin A, sodium, potassium, magnesium, chloride and bicarbonate. Urinalysis should investigate urine pH profile at different times of the day, daily urine volume, specific weight of urine, and levels of calcium, oxalate, phosphate, uric acid, magnesium and citrate [638].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-7-uric-acid-and-ammonium-urate-stones",
+      "title": "4.7. Uric acid and ammonium urate stones",
+      "level": 3,
+      "text": "All uric acid and ammonium urate stone formers are considered to be at high risk of recurrence [23]. Uric acid nephrolithiasis is responsible for approximately 10% of renal stones [743,744] and is associated with hyperuricosuria or low urinary pH. Hyperuricosuria may be a result of dietary excess, endogenous overproduction (enzyme defects), myeloproliferative disorders, chemotherapy drugs, gout or catabolism [635]. Low urinary pH may be caused by decreased urinary ammonium excretion (insulin resistance, gout, autosomal dominant polycystic kidney disease [ADPKD]). Increased endogenous acid production (insulin resistance, metabolic syndrome, exercise-induced lactic acidosis), increased acid intake (high animal protein intake), or increased base loss (diarrhoea) [635]. Ammonium urate stones are extremely rare, comprising < 1% of all types of urinary stones. They are associated with UTI, malabsorption (inflammatory bowel disease and ileostomy diversion or laxative abuse), phosphate deficiency, hypokalaemia and malnutrition. Suggestions on uric acid and ammonium urate nephrolithiasis are based on level 3 and 4 evidence. Chronic kidney disease is frequently observed.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-7-1-diagnosis",
+      "title": "4.7.1. Diagnosis",
+      "level": 4,
+      "text": "Figure 4.6 shows the diagnostic algorithm for uric acid stones and Figure 4.7 shows the therapeutic algorithm for uric acid and ammonium urate stones. Blood analysis requires measurement of creatinine and uric acid levels. Urinalysis requires measurement of urine volume, urine pH, specific weight of urine and uric acid level. Urine culture is needed in the case of ammonium urate stones.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-7-2-interpretation-of-results",
+      "title": "4.7.2. Interpretation of results",
+      "level": 4,
+      "text": "Uric acid and ammonium urate stones form under completely different biochemical conditions. Low urine pH promotes uric acid crystallisation. Hyperuricosuria is defined as uric acid excretion > 4mmol/day and > 5mmol/day in adult females and males, respectively, or > 0.12mmol/kg/day in children. Hyperuricaemia may be present, but there is only weak evidence for its association with stone formation [745]. Hyperuricosuric calcium oxalate stone formation can be distinguished from uric acid stone formation by urinary pH, which is usually > 5.5 in calcium oxalate stone formation and < 5.5 in uric acid stone formation and occasional absence of hyperuricosuria in patients with pure uric acid stones [746,747]. Ammonium urate crystals form in urine at pH > 6.5 and high uric acid concentration in urine in the presence of ammonium [748,749].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-7-3-specific-treatment",
+      "title": "4.7.3. Specific treatment",
+      "level": 4,
+      "text": "General preventive measures are recommended for fluid intake and diet. Hyperuricosuric stone formers benefit from purine reduction in their daily diet. Figure 4.6 describes pharmacological treatment [23,743,746,747]. For uric acid stones, allopurinol may change the stone composition distribution in patients with gout to a pattern similar to that in stone formers without gout [750]. Figure 4.6: Diagnostic algorithm for uric acid stones ADPKD = autosomal dominant polycystic kidney disease; G6P = glucose-6 phosphate dehydrogenase; HGPT = hypoxanthine guanine phosphoribosyl transferase; PRPS = phosphoribosyl-pyrophosphate synthetase superactivity; XO = xanthine oxidase.  Figure 4.7: Therapeutic algorithm for uric acid and ammonium urate stone 1 d: day. 2 tid: three times a day. 3 A higher pH may lead to calcium phosphate stone formation. 4 In patients with high uric acid excretion, allopurinol may be helpful.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-7-4-summary-of-evidence-and-recommendations-for-the-management-of-uric-acid-and-ammonium-urate-stones",
+      "title": "4.7.4. Summary of evidence and recommendations for the management of uric acid and ammonium urate stones",
+      "level": 4,
+      "text": "Summary of evidence LE Alkaline citrates can be beneficial to alkalinise the urine in uric acid stone formers. 3 Allopurinol can be beneficial in hyperuricosuric urate stone formers. 1b Recommendations Strength rating Prescribe alkaline citrates to alkalinise the urine in uric acid stone formers. Strong Prescribe allopurinol in hyperuricosuric urate stone formers. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Alkaline citrates can be beneficial to alkalinise the urine in uric acid stone formers.",
+              "3"
+            ],
+            [
+              "Allopurinol can be beneficial in hyperuricosuric urate stone formers.",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Prescribe alkaline citrates to alkalinise the urine in uric acid stone formers.",
+              "Strong"
+            ],
+            [
+              "Prescribe allopurinol in hyperuricosuric urate stone formers.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-8-struvite-and-infection-stones",
+      "title": "4.8. Struvite and infection stones",
+      "level": 3,
+      "text": "All infection-stone formers are deemed at high risk of recurrence. Struvite stones represent 2–15% of the stones sent for analysis. Stones that contain struvite may originate de novo or grow on pre-existing stones, which are infected with urea-splitting bacteria [751]. There are several factors predisposing patients to struvite stone formation (Table 4.9) [752]. Several studies have reported that urinary metabolic alterations can be disclosed in 36–81% of patients with mixed struvite stones [753-758].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-8-1-diagnosis",
+      "title": "4.8.1. Diagnosis",
+      "level": 4,
+      "text": "Blood analysis requires measurement of creatinine, and urinalysis requires repeat urine pH measurements and urine culture. In cases of mixed struvite stones, the search for metabolic abnormalities in 24-hour urine after stone removal and infection control is suggested.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-8-2-interpretation",
+      "title": "4.8.2. Interpretation",
+      "level": 4,
+      "text": "Infection stones contain the following minerals: struvite and/or carbonate apatite and/or ammonium urate. Urine culture typically provides evidence for urease-producing bacteria, which increase ammonia ions and develop alkaline urine (Table 4.10). Carbonate apatite starts to crystallise at a urine pH level of 6.8. Struvite only precipitates at pH > 7.2 [759,760]. A mixed struvite stone, i.e. containing a high percentage of calcium oxalate and carbonate apatite, suggests the over-infection of a ‘metabolic’ calcium oxalate or calcium phosphate stone [758]. Proteus mirabilis accounts for more than half of all urease-positive UTIs [761,762].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-8-3-specific-treatment",
+      "title": "4.8.3. Specific treatment",
+      "level": 4,
+      "text": "General preventive measures are recommended for fluid intake and diet. Specific measures include complete surgical stone removal [752], short- or long-term antibiotic treatment [763], and urinary acidification using methionine [697] or ammonium chloride [764]. For persistent infections/colonisation, acetohydroxamic acid may be an option [765,766] (Figure 4.8), however, it is not licensed/available in all European countries. Eradication of infection after complete stone removal is desirable. The evidence regarding the duration of post-operative antibiotic administration is inconclusive. Summary of evidence LE Removing the stone material as completely as possible with surgery can reduce ongoing infection. 3 Antibiotics are beneficial after complete stone removal. 3 Ammonium chloride, 1g two or three times daily, can ensure urinary acidification to prevent recurrent infection. 3 Methionine, 200–500mg, one to three times daily, can be used as an alternative to ammonium chloride, to ensure urinary acidification. 3 Treatment of underlying metabolic abnormalities reduces recurrence of mixed struvite stones. 3 Urease inhibitors in case of severe infection are occasionally used (if licensed). 1b Recommendations Strength rating Surgically remove the stone material as completely as possible. Strong Prescribe antibiotics in case of persistent bacteriuria. Strong Prescribe ammonium chloride, 1g two or three times daily to ensure urinary acidification. Weak Prescribe methionine, 200–500mg, one to three times daily, as an alternative, to ensure urinary acidification. Weak Table 4.9: Factors predisposing to struvite stone formation. Factors predisposing to struvite stone formation Neurogenic bladder Spinal cord injury/paralysis Continent urinary diversion Ileal conduit Foreign body Stone disease Indwelling urinary catheter Urethral stricture Benign prostatic hyperplasia Bladder diverticulum Cystocele Calyceal diverticulum UPJ obstruction Table 4.10: Most important species of urease-producing bacteria Most important species of urease-producing bacteria Obligate urease-producing bacteria (> 98%) Proteus spp. Providencia rettgeri Morganella morganii Corynebacterium urealyticum Ureaplasma urealyticum Facultative urease-producing bacteria Enterobacter gergoviae Klebsiella spp. Providencia stuartii Serratia marcescens Staphylococcus spp. CAUTION : 0–5% of Escherichia coli, Enterococcus spp. and Pseudomonas aeruginosa strains may produce urease. Figure 4.8: Diagnostic and therapeutic algorithm for infection stones 1 Discussed with uric acid stones. 2 Acetohydroxamic acid. * When nationally available.bid = twice a day; tid = three times a day; AHA = acetohydroxamic acid.",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Removing the stone material as completely as possible with surgery can reduce ongoing infection.",
+              "3"
+            ],
+            [
+              "Antibiotics are beneficial after complete stone removal.",
+              "3"
+            ],
+            [
+              "Ammonium chloride, 1g two or three times daily, can ensure urinary acidification to prevent recurrent infection.",
+              "3"
+            ],
+            [
+              "Methionine, 200–500mg, one to three times daily, can be used as an alternative to ammonium chloride, to ensure urinary acidification.",
+              "3"
+            ],
+            [
+              "Treatment of underlying metabolic abnormalities reduces recurrence of mixed struvite stones.",
+              "3"
+            ],
+            [
+              "Urease inhibitors in case of severe infection are occasionally used (if licensed).",
+              "1b"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Surgically remove the stone material as completely as possible.",
+              "Strong"
+            ],
+            [
+              "Prescribe antibiotics in case of persistent bacteriuria.",
+              "Strong"
+            ],
+            [
+              "Prescribe ammonium chloride, 1g two or three times daily to ensure urinary acidification.",
+              "Weak"
+            ],
+            [
+              "Prescribe methionine, 200–500mg, one to three times daily, as an alternative, to ensure urinary acidification.",
+              "Weak"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Factors predisposing to struvite stone formation"
+            ],
+            [
+              "Neurogenic bladderSpinal cord injury/paralysisContinent urinary diversionIleal conduitForeign bodyStone diseaseIndwelling urinary catheter",
+              "Urethral strictureBenign prostatic hyperplasiaBladder diverticulumCystoceleCalyceal diverticulumUPJ obstruction"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Most important species of urease-producing bacteria"
+            ],
+            [
+              "Obligate urease-producing bacteria (> 98%)"
+            ],
+            [
+              "Proteus spp.Providencia rettgeriMorganella morganiiCorynebacterium urealyticumUreaplasma urealyticum"
+            ],
+            [
+              "Facultative urease-producing bacteria"
+            ],
+            [
+              "Enterobacter gergoviaeKlebsiella spp.Providencia stuartiiSerratia marcescensStaphylococcus spp."
+            ],
+            [
+              "CAUTION: 0–5% of Escherichia coli, Enterococcus spp. and Pseudomonas aeruginosa strains may produce urease."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-9-cystine-stones",
+      "title": "4.9. Cystine stones",
+      "level": 3,
+      "text": "Cystine stones account for 1–2% of all urinary stones in adults and 6–8% of the stones reported in paediatric studies [767,768]. All cystine stone formers are deemed at high risk of recurrence and CKD [769,770].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-9-1-diagnosis",
+      "title": "4.9.1. Diagnosis",
+      "level": 4,
+      "text": "Blood analysis includes measurement of creatinine, and urinalysis includes measurement of urine volume, pH profile, specific weight and cystine. Since the disease may be asymptomatic, siblings of cystinuric patients should be investigated for cystinuria [771]. Interpretation Cystine is poorly soluble in urine and crystallises spontaneously within the physiological urinary pH range. Cystine solubility depends strongly on urine pH: at pH 6.0, the limit of solubility is 1.33mmol/L. Routine analysis of cystine is not suitable for therapeutic monitoring. Regardless of the phenotype or genotype of the cystinuric patient, the clinical manifestations are the same [772]. There is no role for genotyping patients in the routine management of cystinuria [773,774]. Reductive therapy targets the disulphide binding in the cystine molecule. For therapy monitoring, it is important to differentiate between cystine, cysteine, and drug-cysteine complexes. However, available methods to monitor cystinuria treatment which may be able to differentiate between the various complexes formed by therapy are cumbersome [775,776] and/or inaccurate. This includes high-performance liquid chromatography (HPLC) [77]. Quantitative 24-hour urinary cystine excretion confirms the diagnosis in the absence of stone analysis. Levels above 0.125mmol/day (30mg/day) are considered abnormal [777,778].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-9-2-specific-treatment",
+      "title": "4.9.2. Specific treatment",
+      "level": 4,
+      "text": "General preventative measures for fluid intake and diet are recommended. A diet low in methionine (poor in meat, especially red meat and poultry, fish, eggs and dairy products, cheese in particular) may theoretically reduce urinary excretion of cystine. However, patients may not comply with such a diet. A restricted intake of sodium is more easily achieved and is more effective in reducing urinary cystine [779]. Patients are usually advised to avoid sodium consumption > 2g/day (5g NaCl) [780]. A high level of diuresis is of fundamental importance, aiming for a 24-hour urine volume of > 3L [772,780-782]. A considerable fluid intake evenly distributed throughout the day is necessary. 4.9.2.a. Pharmacological treatment of cystine stones The main therapeutic option for avoiding cystine crystallisation is to maintain urine pH > 7.5, to improve cystine solubility, and ensure appropriate hydration with a minimum of > 3L/day in adults or 1.5L/m 2 body surface area in children [772,780-782]. Home monitoring of the urine pH is suggested because of the possibility of self-adjusting alkaline treatment keeping the urine pH within range and to avoid excess alkalinisation [77,783]. Free cystine concentration can be decreased by reductive substances, which act by splitting the disulphide binding of cystine. The thiol-binders tiopronin and penicillamine are currently the best choice for cystine reduction. However, side effects often lead to treatment termination or to switching to the other thiol-binder, for example, when nephrotic syndrome develops or when there is poor compliance, especially with long-term use. Tiopronin is recommended at cystine levels ≥ 3.0mmol/day (720 mg/day) or in the case of recurring stone formation, notwithstanding other preventive measures [772,780-782]. Spot measurements of urine protein should be performed at baseline and during follow-up along with specific blood monitoring. Figure 4.9: Metabolic management of cystine stones [784]",
+      "tables": []
+    },
+    {
+      "anchor": "#4-9-3-summary-of-evidence-and-recommendations-for-the-management-of-cystine-stones",
+      "title": "4.9.3. Summary of evidence and recommendations for the management of cystine stones",
+      "level": 4,
+      "text": "Summary of evidence LE Increasing fluid intake so that 24-hour urine volume exceeds 3L is used to dilute the cystine. 3 Alkaline citrates 3–10mmol two or three times daily can be used to achieve pH > 7.5. 3 Tiopronin, 250–2,000mg/day can be used to reduce stone formation in patients with cystine excretion ≥ 3mmol/day, or when other measures are insufficient. 3 Recommendations Strength rating Therapeutic measures Urine dilution Advise patients to increase their fluid intake so that 24-hour urine volume exceeds 3L. Strong Alkalinisation Prescribe potassium citrate 3–10mmol two or three times daily, to achieve pH > 7.5 Strong Complex formation with cystine For patients with cystine excretion, > 3mmol/day, or when other measures are insufficient: prescribe in addition to other measures tiopronin, 250–2,000mg/day. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Increasing fluid intake so that 24-hour urine volume exceeds 3L is used to dilute the cystine.",
+              "3"
+            ],
+            [
+              "Alkaline citrates 3–10mmol two or three times daily can be used to achieve pH > 7.5.",
+              "3"
+            ],
+            [
+              "Tiopronin, 250–2,000mg/day can be used to reduce stone formation in patients with cystine excretion ≥ 3mmol/day, or when other measures are insufficient.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Therapeutic measures"
+            ],
+            [
+              "Urine dilutionAdvise patients to increase their fluid intake so that 24-hour urine volume exceeds 3L.",
+              "Strong"
+            ],
+            [
+              "AlkalinisationPrescribe potassium citrate 3–10mmol two or three times daily, to achieve pH > 7.5",
+              "Strong"
+            ],
+            [
+              "Complex formation with cystineFor patients with cystine excretion, > 3mmol/day, or when other measures are insufficient: prescribe in addition to other measures tiopronin, 250–2,000mg/day.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-10-28-dihydroxyadenine-stones-and-xanthine-stones",
+      "title": "4.10.2,8-Dihydroxyadenine stones and xanthine stones",
+      "level": 3,
+      "text": "All 2,8-Dihydroxyadenine and xanthine stone formers are at high risk of recurrence. Both stone types are rare. Diagnosis and specific prevention are similar to those for uric acid stones [23].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-10-1-28-dihydroxyadenine-stones",
+      "title": "4.10.1.2,8-Dihydroxyadenine stones",
+      "level": 4,
+      "text": "A genetically determined defect of adenine phosphoribosyl transferase causes high urinary excretion of poorly soluble 2,8-Dihydroxyadenine [785]. High-dose allopurinol or febuxostat are important options but should be given with regular monitoring [786].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-10-2-xanthine-stones",
+      "title": "4.10.2. Xanthine stones",
+      "level": 4,
+      "text": "Patients who form xanthine stones usually show decreased levels of serum uric acid. There is no available pharmacological intervention.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-10-3-fluid-intake-and-diet",
+      "title": "4.10.3. Fluid intake and diet",
+      "level": 4,
+      "text": "Recommendations for general preventive measures apply. Pharmacological intervention is difficult; therefore, high fluid intake ensures optimal specific weight levels of urine < 1.010 (urine specific gravity). A purine-reduced diet decreases the risk of spontaneous crystallisation in urine.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-11-drug-induced-stones",
+      "title": "4.11. Drug-induced stones",
+      "level": 3,
+      "text": "Drug stones are induced by pharmacological treatment [787] (Table 4.10). Two types exist: stones formed by crystallised compounds of the drug; and stones formed due to unfavourable changes in urine composition under drug therapy. Table 4.11: Compounds that cause drug stones Active compounds crystallising in urine Substances impairing urine composition Allopurinol/oxypurinol Amoxicillin/ampicillin Ceftriaxone Quinolones Ephedrine Indinavir and other HIV-protease inhibitors Magnesium trisilicate Sulphonamides Triamterene Acetazolamide Aluminium magnesium hydroxide Ascorbic acid Calcium Laxatives Losartan Methoxyflurane Orlistat Vitamin D Topiramate Zonisamide",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Active compounds crystallising in urine",
+              "Substances impairing urine composition"
+            ],
+            [
+              "Allopurinol/oxypurinolAmoxicillin/ampicillinCeftriaxoneQuinolonesEphedrineIndinavir and other HIV-protease inhibitorsMagnesium trisilicateSulphonamidesTriamterene",
+              "AcetazolamideAluminium magnesium hydroxideAscorbic acidCalciumLaxativesLosartanMethoxyfluraneOrlistatVitamin DTopiramateZonisamide"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#4-12-matrix-stones",
+      "title": "4.12. Matrix stones",
+      "level": 3,
+      "text": "Pure matrix stones are extremely rare, with fewer than 70 cases described in the literature, and are more prevalent in females. The main risk factors are recurrent UTIs, especially due to P. mirabilis or E. coli , previous surgery for stone disease, chronic renal failure, and haemodialysis. Complete endourological removal, frequently via the percutaneous approach, is critical. Given the rarity of matrix calculi, a specific prophylactic regimen to minimise recurrence cannot be recommended. Eliminating infections and prophylactic use of antibiotics are most commonly proposed [788].",
+      "tables": []
+    },
+    {
+      "anchor": "#4-13-unknown-stone-composition-16",
+      "title": "4.13. Unknown stone composition [16]",
+      "level": 3,
+      "text": "An accurate medical history is the first step towards identifying risk factors as summarised in Section 3.1.3 and Figure 4.1. Diagnostic imaging begins with a US examination of both kidneys to establish whether the patient is stone-free. Stone detection by the US should be followed by KUB and unenhanced multislice CT in adults to differentiate between calcium-containing and non-calcium stones. Blood analysis may demonstrate severe metabolic and organic disorders, such as renal insufficiency, HPT or other hypercalcaemic states and hyperuricaemia. In children with GFR lower than 30ml/min., oxalaemia should also be checked. Urinalysis is performed routinely with a dipstick test as described above. A urine culture is required if there are signs of infection. Urine pH < 5.5 in 24-hour urine collection indicates hyperacidic urine, which could promote uric acid crystallisation. Urine pH > 6.2 in 24-hour urine collection may indicate RTA if UTI is excluded [738,740]. Microscopy of urinary sediment can help to discover rare stone types, because crystals of 2,8-dihydroxyadenine, cystine and xanthine are pathognomonic for the corresponding disease. In cases in which the presence of cystine is doubtful, a cyanide nitroprusside colorimetric qualitative test can be used to detect the presence of cystine in urine, with a sensitivity of 72% and specificity of 95%. False-positive results are possible in patients with Fanconi’s syndrome or homocystinuria or in those taking various drugs, including ampicillin or sulfa-containing medication [789,790]. Following this programme, the most probable stone type can be assumed, and specific patient evaluation can follow. Further metabolic investigations will depend on the presence of risk factors (see Section 3.1.3) and on the results of previous investigations. However, if any expulsed stone material is available, it should be analysed for diagnostic confirmation or correction.",
+      "tables": []
+    },
+    {
+      "anchor": "#4-13-1-recommendations-for-investigations-for-the-assessment-of-patients-with-stones-of-unknown-composition-172376679",
+      "title": "4.13.1. Recommendations for investigations for the assessment of patients with stones of unknown composition [17,23,76,679]",
+      "level": 4,
+      "text": "Recommendations Strength rating Investigation Rationale for investigation Take a medical history Stone history (former stone events, family history) Dietary habits Medication chart Strong Perform diagnostic imaging Ultrasound in the case of a suspected stone Unenhanced helical computed tomography Determination of Hounsfield units provides information about the possible stone composition Strong Perform a blood analysis Creatinine Calcium (ionised calcium or total calcium + albumin) Uric acid Strong Perform a urinalysis pH measurement Dipstick test: leukocytes, erythrocytes, nitrites Protein, specific weight Urine cultures Microscopy of urinary sediment (morning urine) Cyanide nitroprusside test (cystine exclusion) Further examinations depend on the results of the investigations listed above. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "Investigation",
+              "Rationale for investigation"
+            ],
+            [
+              "Take a medical history",
+              "Stone history (former stone events, family history)Dietary habitsMedication chart",
+              "Strong"
+            ],
+            [
+              "Perform diagnostic imaging",
+              "Ultrasound in the case of a suspected stoneUnenhanced helical computed tomographyDetermination of Hounsfield units provides information about the possible stone composition",
+              "Strong"
+            ],
+            [
+              "Perform a blood analysis",
+              "CreatinineCalcium (ionised calcium or total calcium + albumin)Uric acid",
+              "Strong"
+            ],
+            [
+              "Perform a urinalysis",
+              "pH measurementDipstick test: leukocytes, erythrocytes, nitritesProtein, specific weightUrine culturesMicroscopy of urinary sediment (morning urine)Cyanide nitroprusside test (cystine exclusion)Further examinations depend on the results of the investigations listed above.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 30
+}

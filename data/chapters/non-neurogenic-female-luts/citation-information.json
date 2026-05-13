@@ -1,0 +1,464 @@
+{
+  "guideline": "non-neurogenic-female-luts",
+  "chapter": "citation-information",
+  "url": "https://uroweb.org/guidelines/non-neurogenic-female-luts/chapter/citation-information",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and objectives",
+      "anchor": "#1-1-aim-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Introduction",
+      "anchor": "#2-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 3,
+      "text": "2.3. Future goals",
+      "anchor": "#2-3-future-goals"
+    },
+    {
+      "level": 2,
+      "text": "3. DIAGNOSIS",
+      "anchor": "#3-diagnosis"
+    },
+    {
+      "level": 3,
+      "text": "3.1. History and physical examination",
+      "anchor": "#3-1-history-and-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "3.1.1. Summary of evidence and recommendation for history taking and physical examination",
+      "anchor": "#3-1-1-summary-of-evidence-and-recommendation-for-history-taking-and-physical-examination"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Patient questionnaires",
+      "anchor": "#3-2-patient-questionnaires"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Summary of evidence and recommendation for patient questionnaires",
+      "anchor": "#3-2-1-summary-of-evidence-and-recommendation-for-patient-questionnaires"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Bladder diaries",
+      "anchor": "#3-3-bladder-diaries"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Summary of evidence and recommendations for bladder diaries",
+      "anchor": "#3-3-1-summary-of-evidence-and-recommendations-for-bladder-diaries"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Urinalysis and urinary tract infection",
+      "anchor": "#3-4-urinalysis-and-urinary-tract-infection"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Summary of evidence and recommendations for urinalysis",
+      "anchor": "#3-4-1-summary-of-evidence-and-recommendations-for-urinalysis"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Post-void residual volume",
+      "anchor": "#3-5-post-void-residual-volume"
+    },
+    {
+      "level": 4,
+      "text": "3.5.1. Summary of evidence and recommendations for post-void residual volume",
+      "anchor": "#3-5-1-summary-of-evidence-and-recommendations-for-post-void-residual-volume"
+    },
+    {
+      "level": 3,
+      "text": "3.6. Urodynamics",
+      "anchor": "#3-6-urodynamics"
+    },
+    {
+      "level": 4,
+      "text": "3.6.1. Variability",
+      "anchor": "#3-6-1-variability"
+    },
+    {
+      "level": 4,
+      "text": "3.6.2. Diagnostic accuracy",
+      "anchor": "#3-6-2-diagnostic-accuracy"
+    },
+    {
+      "level": 4,
+      "text": "3.6.3. Predictive value",
+      "anchor": "#3-6-3-predictive-value"
+    },
+    {
+      "level": 4,
+      "text": "3.6.4. Summary of evidence and recommendations for urodynamics",
+      "anchor": "#3-6-4-summary-of-evidence-and-recommendations-for-urodynamics"
+    },
+    {
+      "level": 3,
+      "text": "3.7. Pad testing",
+      "anchor": "#3-7-pad-testing"
+    },
+    {
+      "level": 4,
+      "text": "3.7.1. Summary of evidence and recommendations for pad testing",
+      "anchor": "#3-7-1-summary-of-evidence-and-recommendations-for-pad-testing"
+    },
+    {
+      "level": 3,
+      "text": "3.8. Imaging",
+      "anchor": "#3-8-imaging"
+    },
+    {
+      "level": 4,
+      "text": "3.8.1. Ultrasound",
+      "anchor": "#3-8-1-ultrasound"
+    },
+    {
+      "level": 4,
+      "text": "3.8.2. Magnetic resonance imaging",
+      "anchor": "#3-8-2-magnetic-resonance-imaging"
+    },
+    {
+      "level": 3,
+      "text": "3.9. Urinary Biomarkers and Microbiota",
+      "anchor": "#3-9-urinary-biomarkers-and-microbiota"
+    },
+    {
+      "level": 4,
+      "text": "3.9.1. Summary of evidence and recommendation for urinary biomarkers",
+      "anchor": "#3-9-1-summary-of-evidence-and-recommendation-for-urinary-biomarkers"
+    },
+    {
+      "level": 2,
+      "text": "4. DISEASE MANAGEMENT",
+      "anchor": "#4-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Overactive bladder",
+      "anchor": "#4-1-overactive-bladder"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. Epidemiology, aetiology, pathophysiology",
+      "anchor": "#4-1-1-epidemiology-aetiology-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. Classification",
+      "anchor": "#4-1-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "4.1.3. Diagnostic evaluation",
+      "anchor": "#4-1-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.1.4. Disease management",
+      "anchor": "#4-1-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "4.1.5. Follow-up",
+      "anchor": "#4-1-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Stress urinary incontinence",
+      "anchor": "#4-2-stress-urinary-incontinence"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#4-2-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. Classification",
+      "anchor": "#4-2-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "4.2.3. Diagnostic evaluation",
+      "anchor": "#4-2-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.2.4. Disease management",
+      "anchor": "#4-2-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "4.2.5. Follow-up",
+      "anchor": "#4-2-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Mixed urinary incontinence",
+      "anchor": "#4-3-mixed-urinary-incontinence"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#4-3-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "4.3.2. Diagnostic evaluation",
+      "anchor": "#4-3-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.3.3. Disease management",
+      "anchor": "#4-3-3-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Underactive bladder",
+      "anchor": "#4-4-underactive-bladder"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1. Epidemiology, aetiology, pathophysiology",
+      "anchor": "#4-4-1-epidemiology-aetiology-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "4.4.2. Classification",
+      "anchor": "#4-4-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "4.4.3. Diagnostic evaluation",
+      "anchor": "#4-4-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.4.4. Disease management",
+      "anchor": "#4-4-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "4.4.5. Follow-up",
+      "anchor": "#4-4-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Bladder outlet obstruction",
+      "anchor": "#4-5-bladder-outlet-obstruction"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Introduction",
+      "anchor": "#4-5-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#4-5-2-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Diagnostic evaluation",
+      "anchor": "#4-5-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.5.4. Disease management",
+      "anchor": "#4-5-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "4.5.5. Follow-up",
+      "anchor": "#4-5-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "4.6. Nocturia",
+      "anchor": "#4-6-nocturia"
+    },
+    {
+      "level": 4,
+      "text": "4.6.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#4-6-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "4.6.2. Classification",
+      "anchor": "#4-6-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "4.6.3. Diagnostic evaluation",
+      "anchor": "#4-6-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.6.4. Disease management",
+      "anchor": "#4-6-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "4.6.5. Follow-up",
+      "anchor": "#4-6-5-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "4.7. Pelvic organ prolapse and lower urinary tract symptoms",
+      "anchor": "#4-7-pelvic-organ-prolapse-and-lower-urinary-tract-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "4.7.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#4-7-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "4.7.2. Classification",
+      "anchor": "#4-7-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "4.7.3. Diagnostic evaluation",
+      "anchor": "#4-7-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.7.4. Disease management",
+      "anchor": "#4-7-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "4.7.5. Summary of evidence and recommendations for surgery in women with both pelvic organ prolapse and stress urinary incontinence",
+      "anchor": "#4-7-5-summary-of-evidence-and-recommendations-for-surgery-in-women-with-both-pelvic-organ-prolapse-and-stress-urinary-incontinence"
+    },
+    {
+      "level": 3,
+      "text": "4.8. Urinary fistula",
+      "anchor": "#4-8-urinary-fistula"
+    },
+    {
+      "level": 4,
+      "text": "4.8.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#4-8-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "4.8.2. Classification",
+      "anchor": "#4-8-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "4.8.3. Diagnostic evaluation",
+      "anchor": "#4-8-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.8.4. Management of fistula",
+      "anchor": "#4-8-4-management-of-fistula"
+    },
+    {
+      "level": 3,
+      "text": "4.9. Urethral diverticulum",
+      "anchor": "#4-9-urethral-diverticulum"
+    },
+    {
+      "level": 4,
+      "text": "4.9.1. Epidemiology, aetiology, pathophysiology",
+      "anchor": "#4-9-1-epidemiology-aetiology-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "4.9.2. Classification",
+      "anchor": "#4-9-2-classification"
+    },
+    {
+      "level": 4,
+      "text": "4.9.3. Diagnostic evaluation",
+      "anchor": "#4-9-3-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.9.4. Disease management",
+      "anchor": "#4-9-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "4.9.5. Summary of evidence and recommendations for urethral diverticulum",
+      "anchor": "#4-9-5-summary-of-evidence-and-recommendations-for-urethral-diverticulum"
+    },
+    {
+      "level": 2,
+      "text": "5. REFERENCES",
+      "anchor": "#5-references"
+    },
+    {
+      "level": 2,
+      "text": "6. CONFLICT OF INTEREST",
+      "anchor": "#6-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "7. CITATION INFORMATION",
+      "anchor": "#7-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "8. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#8-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#non-neurogenic-female-luts",
+      "title": "Non-neurogenic Female LUTS",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 7. Citation Information Introduction Methods Diagnosis Disease Management References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#7-citation-information",
+      "title": "7. CITATION INFORMATION",
+      "level": 2,
+      "text": "The format in which to cite the EAU Guidelines will vary depending on the style guide of the journal in which the citation appears. Accordingly, the number of authors or whether, for instance, to include the publisher, location, or an ISBN number may vary. The compilation of the complete Guidelines should be referenced as: EAU Guidelines. Edn. presented at the EAU Annual Congress, London 2026. ISBN 978-94-92671-32-5. If a publisher and/or location is required, include: EAU Guidelines Office, Arnhem, The Netherlands. http://uroweb.org/guidelines/compilations-of-all-guidelines/ http://uroweb.org/guidelines/compilations-of-all-guidelines/ References to individual guidelines should be structured in the following way: Contributors’ names. Title of resource. Publication type. ISBN. Publisher and publisher location, year.",
+      "tables": []
+    }
+  ],
+  "tables_count": 0
+}

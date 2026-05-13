@@ -1,0 +1,1003 @@
+{
+  "guideline": "sexual-and-reproductive-health",
+  "chapter": "methodology",
+  "url": "https://uroweb.org/guidelines/sexual-and-reproductive-health/chapter/methodology",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aims and Objectives",
+      "anchor": "#1-1-aims-and-objectives"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel Composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history",
+      "anchor": "#1-4-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Summary of changes",
+      "anchor": "#1-5-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODOLOGY",
+      "anchor": "#2-methodology"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Methods",
+      "anchor": "#2-1-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. MALE HYPOGONADISM",
+      "anchor": "#3-male-hypogonadism"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Definition, epidemiology and classification of male hypogonadism",
+      "anchor": "#3-1-definition-epidemiology-and-classification-of-male-hypogonadism"
+    },
+    {
+      "level": 4,
+      "text": "3.1.1. Definition",
+      "anchor": "#3-1-1-definition"
+    },
+    {
+      "level": 4,
+      "text": "3.1.2. Epidemiology",
+      "anchor": "#3-1-2-epidemiology"
+    },
+    {
+      "level": 4,
+      "text": "3.1.3. Classification",
+      "anchor": "#3-1-3-classification"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Comorbidities associated with male hypogonadism",
+      "anchor": "#3-2-comorbidities-associated-with-male-hypogonadism"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Obesity",
+      "anchor": "#3-2-1-obesity"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Late-onset hypogonadism",
+      "anchor": "#3-3-late-onset-hypogonadism"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Clinical diagnosis and evaluation",
+      "anchor": "#3-3-1-clinical-diagnosis-and-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. History taking",
+      "anchor": "#3-3-2-history-taking"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Physical examination",
+      "anchor": "#3-3-3-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Laboratory diagnostics",
+      "anchor": "#3-3-4-laboratory-diagnostics"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. Summary of evidence and recommendations for the diagnostic evaluation and screening oflate-onset hypogonadism",
+      "anchor": "#3-3-5-summary-of-evidence-and-recommendations-for-the-diagnostic-evaluation-and-screening-oflate-onset-hypogonadism"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Treatment of classical and late-onset hypogonadism",
+      "anchor": "#3-4-treatment-of-classical-and-late-onset-hypogonadism"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1. Indications and contraindications for treatment of hypogonadism",
+      "anchor": "#3-4-1-indications-and-contraindications-for-treatment-of-hypogonadism"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2. Testosterone therapy outcomes",
+      "anchor": "#3-4-2-testosterone-therapy-outcomes"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3. Choice of treatment",
+      "anchor": "#3-4-3-choice-of-treatment"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Safety and follow-up in hypogonadism management",
+      "anchor": "#3-5-safety-and-follow-up-in-hypogonadism-management"
+    },
+    {
+      "level": 4,
+      "text": "3.5.1. Hypogonadism and fertility issues",
+      "anchor": "#3-5-1-hypogonadism-and-fertility-issues"
+    },
+    {
+      "level": 4,
+      "text": "3.5.2. Male breast cancer",
+      "anchor": "#3-5-2-male-breast-cancer"
+    },
+    {
+      "level": 4,
+      "text": "3.5.4. Prostate cancer (PCa)",
+      "anchor": "#3-5-4-prostate-cancer-pca"
+    },
+    {
+      "level": 4,
+      "text": "3.5.5. Cardiovascular disease",
+      "anchor": "#3-5-5-cardiovascular-disease"
+    },
+    {
+      "level": 4,
+      "text": "3.5.6. Erythrocytosis",
+      "anchor": "#3-5-6-erythrocytosis"
+    },
+    {
+      "level": 4,
+      "text": "3.5.7. Obstructive sleep apnoea",
+      "anchor": "#3-5-7-obstructive-sleep-apnoea"
+    },
+    {
+      "level": 4,
+      "text": "3.5.8. Follow-up",
+      "anchor": "#3-5-8-follow-up"
+    },
+    {
+      "level": 4,
+      "text": "3.5.9. Summary of evidence and recommendations on safety and monitoring in testosterone therapy",
+      "anchor": "#3-5-9-summary-of-evidence-and-recommendations-on-safety-and-monitoring-in-testosterone-therapy"
+    },
+    {
+      "level": 2,
+      "text": "4. EPIDEMIOLOGY AND PREVALENCE OF SEXUAL DYSFUNCTION AND DISORDERS OF MALE REPRODUCTIVE HEALTH",
+      "anchor": "#4-epidemiology-and-prevalence-of-sexual-dysfunction-and-disorders-of-male-reproductive-health"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Erectile dysfunction",
+      "anchor": "#4-1-erectile-dysfunction"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Premature ejaculation",
+      "anchor": "#4-2-premature-ejaculation"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Other ejaculatory disorders",
+      "anchor": "#4-3-other-ejaculatory-disorders"
+    },
+    {
+      "level": 4,
+      "text": "4.3.1. Delayed ejaculation",
+      "anchor": "#4-3-1-delayed-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "4.3.2. Anejaculation and anorgasmia",
+      "anchor": "#4-3-2-anejaculation-and-anorgasmia"
+    },
+    {
+      "level": 4,
+      "text": "4.3.3. Retrograde ejaculation",
+      "anchor": "#4-3-3-retrograde-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "4.3.4. Painful ejaculation",
+      "anchor": "#4-3-4-painful-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "4.3.5. Haemospermia",
+      "anchor": "#4-3-5-haemospermia"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Low sexual desire",
+      "anchor": "#4-4-low-sexual-desire"
+    },
+    {
+      "level": 2,
+      "text": "5. MANAGEMENT OF ERECTILE DYSFUNCTION",
+      "anchor": "#5-management-of-erectile-dysfunction"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Definition and classification",
+      "anchor": "#5-1-definition-and-classification"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Risk factors",
+      "anchor": "#5-2-risk-factors"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Pathophysiology",
+      "anchor": "#5-3-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Pelvic surgery and prostate cancer treatment",
+      "anchor": "#5-3-1-pelvic-surgery-and-prostate-cancer-treatment"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Summary of evidence on the epidemiology, aetiology and pathophysiology of erectile disfunction",
+      "anchor": "#5-3-2-summary-of-evidence-on-the-epidemiology-aetiology-and-pathophysiology-of-erectile-disfunction"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Diagnostic evaluation (basic work-up)",
+      "anchor": "#5-4-diagnostic-evaluation-basic-work-up"
+    },
+    {
+      "level": 4,
+      "text": "5.4.1. Medical and sexual history",
+      "anchor": "#5-4-1-medical-and-sexual-history"
+    },
+    {
+      "level": 4,
+      "text": "5.4.2. Physical examination",
+      "anchor": "#5-4-2-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "5.4.3. Laboratory testing",
+      "anchor": "#5-4-3-laboratory-testing"
+    },
+    {
+      "level": 4,
+      "text": "5.4.4. Cardiovascular system and sexual activity: the patient at risk",
+      "anchor": "#5-4-4-cardiovascular-system-and-sexual-activity-the-patient-at-risk"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Diagnostic Evaluation (advanced work-up)",
+      "anchor": "#5-5-diagnostic-evaluation-advanced-work-up"
+    },
+    {
+      "level": 4,
+      "text": "5.5.1. Nocturnal penile tumescence and rigidity test",
+      "anchor": "#5-5-1-nocturnal-penile-tumescence-and-rigidity-test"
+    },
+    {
+      "level": 4,
+      "text": "5.5.2. Intracavernous injection test",
+      "anchor": "#5-5-2-intracavernous-injection-test"
+    },
+    {
+      "level": 4,
+      "text": "5.5.3. Dynamic duplex ultrasound of the penis",
+      "anchor": "#5-5-3-dynamic-duplex-ultrasound-of-the-penis"
+    },
+    {
+      "level": 4,
+      "text": "5.5.4. Arteriography and dynamic infusion cavernosometry or cavernosography",
+      "anchor": "#5-5-4-arteriography-and-dynamic-infusion-cavernosometry-or-cavernosography"
+    },
+    {
+      "level": 4,
+      "text": "5.5.5. Psychopathological and psychosocial assessment",
+      "anchor": "#5-5-5-psychopathological-and-psychosocial-assessment"
+    },
+    {
+      "level": 4,
+      "text": "5.5.6. Summary of evidence and recommendations for diagnostic evaluation of erectile dysfunction",
+      "anchor": "#5-5-6-summary-of-evidence-and-recommendations-for-diagnostic-evaluation-of-erectile-dysfunction"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Treatment of erectile dysfunction",
+      "anchor": "#5-6-treatment-of-erectile-dysfunction"
+    },
+    {
+      "level": 4,
+      "text": "5.6.1. Patient education",
+      "anchor": "#5-6-1-patient-education"
+    },
+    {
+      "level": 4,
+      "text": "5.6.2. Modifiable risk factors",
+      "anchor": "#5-6-2-modifiable-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "5.6.3. Phosphodiesterase type 5 inhibitors",
+      "anchor": "#5-6-3-phosphodiesterase-type-5-inhibitors"
+    },
+    {
+      "level": 4,
+      "text": "5.6.4. Psychosocial intervention and therapy",
+      "anchor": "#5-6-4-psychosocial-intervention-and-therapy"
+    },
+    {
+      "level": 4,
+      "text": "5.6.5. Hormonal treatment",
+      "anchor": "#5-6-5-hormonal-treatment"
+    },
+    {
+      "level": 4,
+      "text": "5.6.6. Vacuum erection devices",
+      "anchor": "#5-6-6-vacuum-erection-devices"
+    },
+    {
+      "level": 4,
+      "text": "5.6.7. Intracavernous injections therapy",
+      "anchor": "#5-6-7-intracavernous-injections-therapy"
+    },
+    {
+      "level": 4,
+      "text": "5.6.8. Innovative treatment modalities",
+      "anchor": "#5-6-8-innovative-treatment-modalities"
+    },
+    {
+      "level": 4,
+      "text": "5.6.9. Herbal medicine and natural supplements",
+      "anchor": "#5-6-9-herbal-medicine-and-natural-supplements"
+    },
+    {
+      "level": 4,
+      "text": "5.6.10. Erectile dysfunction after radical prostatectomy",
+      "anchor": "#5-6-10-erectile-dysfunction-after-radical-prostatectomy"
+    },
+    {
+      "level": 4,
+      "text": "5.6.11. Surgical management",
+      "anchor": "#5-6-11-surgical-management"
+    },
+    {
+      "level": 4,
+      "text": "5.6.12. Summary of evidence and recommendations for treatment of ED",
+      "anchor": "#5-6-12-summary-of-evidence-and-recommendations-for-treatment-of-ed"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Follow-up",
+      "anchor": "#5-7-follow-up"
+    },
+    {
+      "level": 2,
+      "text": "6. DISORDERS OF EJACULATION",
+      "anchor": "#6-disorders-of-ejaculation"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Introduction",
+      "anchor": "#6-1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Premature ejaculation",
+      "anchor": "#6-2-premature-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "6.2.1. Epidemiology",
+      "anchor": "#6-2-1-epidemiology"
+    },
+    {
+      "level": 4,
+      "text": "6.2.2. Pathophysiology and risk factors",
+      "anchor": "#6-2-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.2.3. Impact of PE on quality of life",
+      "anchor": "#6-2-3-impact-of-pe-on-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "6.2.4. Classification",
+      "anchor": "#6-2-4-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.2.5. Diagnostic evaluation",
+      "anchor": "#6-2-5-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "6.2.6. Disease management",
+      "anchor": "#6-2-6-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "6.2.7. Summary of evidence and recommendations for the treatment of PE",
+      "anchor": "#6-2-7-summary-of-evidence-and-recommendations-for-the-treatment-of-pe"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Delayed ejaculation",
+      "anchor": "#6-3-delayed-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "6.3.1. Definition and classification",
+      "anchor": "#6-3-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.3.2. Pathophysiology and risk factors",
+      "anchor": "#6-3-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.3.3. Investigation and treatment",
+      "anchor": "#6-3-3-investigation-and-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.4. Anejaculation",
+      "anchor": "#6-4-anejaculation"
+    },
+    {
+      "level": 4,
+      "text": "6.4.1. Definition and classification",
+      "anchor": "#6-4-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.4.2. Pathophysiology and risk factors",
+      "anchor": "#6-4-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.4.3. Investigation and treatment",
+      "anchor": "#6-4-3-investigation-and-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.5. Painful ejaculation",
+      "anchor": "#6-5-painful-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "6.5.1. Definition and classification",
+      "anchor": "#6-5-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.5.2. Pathophysiology and risk factors",
+      "anchor": "#6-5-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.5.3. Investigation and treatment",
+      "anchor": "#6-5-3-investigation-and-treatment"
+    },
+    {
+      "level": 3,
+      "text": "6.6. Retrograde ejaculation",
+      "anchor": "#6-6-retrograde-ejaculation"
+    },
+    {
+      "level": 4,
+      "text": "6.6.1. Definition and classification",
+      "anchor": "#6-6-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.6.2. Pathophysiology and risk factors",
+      "anchor": "#6-6-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.6.3. Disease management",
+      "anchor": "#6-6-3-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.7. Anorgasmia",
+      "anchor": "#6-7-anorgasmia"
+    },
+    {
+      "level": 4,
+      "text": "6.7.1. Definition and classification",
+      "anchor": "#6-7-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.7.2. Pathophysiology and risk factors",
+      "anchor": "#6-7-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.7.3. Disease management",
+      "anchor": "#6-7-3-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "6.8. Haemospermia",
+      "anchor": "#6-8-haemospermia"
+    },
+    {
+      "level": 4,
+      "text": "6.8.1. Definition and classification",
+      "anchor": "#6-8-1-definition-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "6.8.2. Pathophysiology and risk factors",
+      "anchor": "#6-8-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "6.8.3. Investigations",
+      "anchor": "#6-8-3-investigations"
+    },
+    {
+      "level": 4,
+      "text": "6.8.4. Disease management",
+      "anchor": "#6-8-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "6.8.5. Summary of evidence and recommendations for the investigation and management of haemospermia",
+      "anchor": "#6-8-5-summary-of-evidence-and-recommendations-for-the-investigation-and-management-of-haemospermia"
+    },
+    {
+      "level": 2,
+      "text": "7. LOW SEXUAL DESIRE AND MALE HYPOACTIVE SEXUAL DESIRE DISORDER",
+      "anchor": "#7-low-sexual-desire-and-male-hypoactive-sexual-desire-disorder"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Definition, classification and epidemiology",
+      "anchor": "#7-1-definition-classification-and-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Pathophysiology and risk factors",
+      "anchor": "#7-2-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. Psychological aspects",
+      "anchor": "#7-2-1-psychological-aspects"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Biological aspects",
+      "anchor": "#7-2-2-biological-aspects"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Risk factors",
+      "anchor": "#7-2-3-risk-factors"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Diagnostic work-up",
+      "anchor": "#7-3-diagnostic-work-up"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Assessment questionnaires",
+      "anchor": "#7-3-1-assessment-questionnaires"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Physical examination and investigations",
+      "anchor": "#7-3-2-physical-examination-and-investigations"
+    },
+    {
+      "level": 3,
+      "text": "7.4. Disease management",
+      "anchor": "#7-4-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "7.4.1. Psychological intervention",
+      "anchor": "#7-4-1-psychological-intervention"
+    },
+    {
+      "level": 4,
+      "text": "7.4.2. Pharmacotherapy",
+      "anchor": "#7-4-2-pharmacotherapy"
+    },
+    {
+      "level": 3,
+      "text": "7.5. Recommendations for the treatment of low sexual desire",
+      "anchor": "#7-5-recommendations-for-the-treatment-of-low-sexual-desire"
+    },
+    {
+      "level": 2,
+      "text": "8. PENILE CURVATURE",
+      "anchor": "#8-penile-curvature"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Congenital penile curvature",
+      "anchor": "#8-1-congenital-penile-curvature"
+    },
+    {
+      "level": 4,
+      "text": "8.1.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#8-1-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "8.1.2. Diagnostic evaluation",
+      "anchor": "#8-1-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "8.1.3. Disease management",
+      "anchor": "#8-1-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "8.1.4. Summary of evidence and recommendation for diagnosis and treatment of congenital penile curvature",
+      "anchor": "#8-1-4-summary-of-evidence-and-recommendation-for-diagnosis-and-treatment-of-congenital-penile-curvature"
+    },
+    {
+      "level": 3,
+      "text": "8.2. Peyronie’s Disease",
+      "anchor": "#8-2-peyronies-disease"
+    },
+    {
+      "level": 4,
+      "text": "8.2.1. Epidemiology",
+      "anchor": "#8-2-1-epidemiology"
+    },
+    {
+      "level": 4,
+      "text": "8.2.2. Diagnostic evaluation",
+      "anchor": "#8-2-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "8.2.3. Disease management",
+      "anchor": "#8-2-3-disease-management"
+    },
+    {
+      "level": 2,
+      "text": "9. PENILE SIZE ABNORMALITIES AND DYSMORPHOPHOBIA",
+      "anchor": "#9-penile-size-abnormalities-and-dysmorphophobia"
+    },
+    {
+      "level": 3,
+      "text": "9.1. Definition, epidemiology and classification",
+      "anchor": "#9-1-definition-epidemiology-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "9.1.1. History",
+      "anchor": "#9-1-1-history"
+    },
+    {
+      "level": 4,
+      "text": "9.1.2. Definition",
+      "anchor": "#9-1-2-definition"
+    },
+    {
+      "level": 4,
+      "text": "9.1.3. Epidemiology and classification",
+      "anchor": "#9-1-3-epidemiology-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "9.1.4. Summary of evidence and recommendations for classification of short penile size",
+      "anchor": "#9-1-4-summary-of-evidence-and-recommendations-for-classification-of-short-penile-size"
+    },
+    {
+      "level": 3,
+      "text": "9.2. Diagnosis",
+      "anchor": "#9-2-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "9.2.1. Medical history, physical examination and psychological assessment",
+      "anchor": "#9-2-1-medical-history-physical-examination-and-psychological-assessment"
+    },
+    {
+      "level": 4,
+      "text": "9.2.2. Imaging",
+      "anchor": "#9-2-2-imaging"
+    },
+    {
+      "level": 3,
+      "text": "9.3. Management",
+      "anchor": "#9-3-management"
+    },
+    {
+      "level": 4,
+      "text": "9.3.1. Non-surgical treatments",
+      "anchor": "#9-3-1-non-surgical-treatments"
+    },
+    {
+      "level": 4,
+      "text": "9.3.2. Surgical treatments",
+      "anchor": "#9-3-2-surgical-treatments"
+    },
+    {
+      "level": 2,
+      "text": "10. PRIAPISM",
+      "anchor": "#10-priapism"
+    },
+    {
+      "level": 3,
+      "text": "10.1. Ischaemic (low-flow or veno-occlusive) priapism",
+      "anchor": "#10-1-ischaemic-low-flow-or-veno-occlusive-priapism"
+    },
+    {
+      "level": 4,
+      "text": "10.1.1. Epidemiology, aetiology, pathophysiology and diagnosis",
+      "anchor": "#10-1-1-epidemiology-aetiology-pathophysiology-and-diagnosis"
+    },
+    {
+      "level": 4,
+      "text": "10.1.2. Diagnostic evaluation",
+      "anchor": "#10-1-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "10.1.3. Disease management",
+      "anchor": "#10-1-3-disease-management"
+    },
+    {
+      "level": 4,
+      "text": "10.1.4. Summary of evidence and recommendations for treatment of ischaemic priapism",
+      "anchor": "#10-1-4-summary-of-evidence-and-recommendations-for-treatment-of-ischaemic-priapism"
+    },
+    {
+      "level": 3,
+      "text": "10.2. Priapism in special situations",
+      "anchor": "#10-2-priapism-in-special-situations"
+    },
+    {
+      "level": 4,
+      "text": "10.2.1. Stuttering (recurrent or intermittent) priapism",
+      "anchor": "#10-2-1-stuttering-recurrent-or-intermittent-priapism"
+    },
+    {
+      "level": 4,
+      "text": "10.2.2. Priapism in children",
+      "anchor": "#10-2-2-priapism-in-children"
+    },
+    {
+      "level": 3,
+      "text": "10.3. Non-ischaemic (high-flow or arterial) priapism",
+      "anchor": "#10-3-non-ischaemic-high-flow-or-arterial-priapism"
+    },
+    {
+      "level": 4,
+      "text": "10.3.1. Epidemiology, aetiology and pathophysiology",
+      "anchor": "#10-3-1-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 4,
+      "text": "10.3.2. Diagnostic evaluation",
+      "anchor": "#10-3-2-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "10.3.3. Disease management",
+      "anchor": "#10-3-3-disease-management"
+    },
+    {
+      "level": 2,
+      "text": "11. MALE INFERTILITY",
+      "anchor": "#11-male-infertility"
+    },
+    {
+      "level": 3,
+      "text": "11.1. Definition and classification",
+      "anchor": "#11-1-definition-and-classification"
+    },
+    {
+      "level": 3,
+      "text": "11.2. Epidemiology, aetiology, pathophysiology and risk factors",
+      "anchor": "#11-2-epidemiology-aetiology-pathophysiology-and-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "11.2.1. Introduction",
+      "anchor": "#11-2-1-introduction"
+    },
+    {
+      "level": 4,
+      "text": "11.2.2. Summary of evidence and recommendations on epidemiology and aetiology of male infertility",
+      "anchor": "#11-2-2-summary-of-evidence-and-recommendations-on-epidemiology-and-aetiology-of-male-infertility"
+    },
+    {
+      "level": 3,
+      "text": "11.3. Diagnostic work-up",
+      "anchor": "#11-3-diagnostic-work-up"
+    },
+    {
+      "level": 4,
+      "text": "11.3.1. Medical history, reproductive history and physical examination",
+      "anchor": "#11-3-1-medical-history-reproductive-history-and-physical-examination"
+    },
+    {
+      "level": 4,
+      "text": "11.3.2. Semen analysis",
+      "anchor": "#11-3-2-semen-analysis"
+    },
+    {
+      "level": 4,
+      "text": "11.3.3. Measurement of Sperm DNA Fragmentation Index",
+      "anchor": "#11-3-3-measurement-of-sperm-dna-fragmentation-index"
+    },
+    {
+      "level": 4,
+      "text": "11.3.4. Hormonal determinations",
+      "anchor": "#11-3-4-hormonal-determinations"
+    },
+    {
+      "level": 4,
+      "text": "11.3.5. Genetic testing",
+      "anchor": "#11-3-5-genetic-testing"
+    },
+    {
+      "level": 4,
+      "text": "11.3.6. Imaging in infertile men",
+      "anchor": "#11-3-6-imaging-in-infertile-men"
+    },
+    {
+      "level": 4,
+      "text": "11.3.7. Summary of evidence and recommendations for the diagnostic work-up of male infertilityhormonal determinations",
+      "anchor": "#11-3-7-summary-of-evidence-and-recommendations-for-the-diagnostic-work-up-of-male-infertilityhormonal-determinations"
+    },
+    {
+      "level": 3,
+      "text": "11.4. Special conditions and relevant clinical entities",
+      "anchor": "#11-4-special-conditions-and-relevant-clinical-entities"
+    },
+    {
+      "level": 4,
+      "text": "11.4.1. Cryptorchidism",
+      "anchor": "#11-4-1-cryptorchidism"
+    },
+    {
+      "level": 4,
+      "text": "11.4.2. Germ cell malignancy and male infertility",
+      "anchor": "#11-4-2-germ-cell-malignancy-and-male-infertility"
+    },
+    {
+      "level": 4,
+      "text": "11.4.3. Varicocele",
+      "anchor": "#11-4-3-varicocele"
+    },
+    {
+      "level": 4,
+      "text": "11.4.4. Male accessory gland infections and infertility",
+      "anchor": "#11-4-4-male-accessory-gland-infections-and-infertility"
+    },
+    {
+      "level": 3,
+      "text": "11.5. Non-invasive male infertility management",
+      "anchor": "#11-5-non-invasive-male-infertility-management"
+    },
+    {
+      "level": 4,
+      "text": "11.5.1. Empirical treatments",
+      "anchor": "#11-5-1-empirical-treatments"
+    },
+    {
+      "level": 4,
+      "text": "11.5.2. Summary of evidence and recommendation for non-invasive male infertility management",
+      "anchor": "#11-5-2-summary-of-evidence-and-recommendation-for-non-invasive-male-infertility-management"
+    },
+    {
+      "level": 4,
+      "text": "11.5.3. Hormonal therapy",
+      "anchor": "#11-5-3-hormonal-therapy"
+    },
+    {
+      "level": 3,
+      "text": "11.6. Invasive male infertility management",
+      "anchor": "#11-6-invasive-male-infertility-management"
+    },
+    {
+      "level": 4,
+      "text": "11.6.1. Obstructive azoospermia",
+      "anchor": "#11-6-1-obstructive-azoospermia"
+    },
+    {
+      "level": 4,
+      "text": "11.6.2. Non-obstructive azoospermia",
+      "anchor": "#11-6-2-non-obstructive-azoospermia"
+    },
+    {
+      "level": 3,
+      "text": "11.7. Assisted reproductive technologies",
+      "anchor": "#11-7-assisted-reproductive-technologies"
+    },
+    {
+      "level": 3,
+      "text": "11.8. Psychosocial aspects in men’s infertility",
+      "anchor": "#11-8-psychosocial-aspects-in-mens-infertility"
+    },
+    {
+      "level": 2,
+      "text": "12. LATE EFFECTS SURVIVORSHIP AND MENS HEALTH",
+      "anchor": "#12-late-effects-survivorship-and-mens-health"
+    },
+    {
+      "level": 2,
+      "text": "13. REFERENCES",
+      "anchor": "#13-references"
+    },
+    {
+      "level": 2,
+      "text": "14. CONFLICT OF INTEREST",
+      "anchor": "#14-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "15. CITATION INFORMATION",
+      "anchor": "#15-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "16. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#16-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#sexual-and-reproductive-health",
+      "title": "Sexual and Reproductive Health",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 2. Methodology Introduction Methodology Male Hypogonadism Epidemiology And Prevalence Of Sexual Dysfunction And Disorders Of Male Reproductive Health Management Of Erectile Dysfunction Disorders Of Ejaculation Low Sexual Desire And Male Hypoactive Sexual Desire Disorder Penile Curvature Penile Size Abnormalities And Dysmorphophobia Priapism Male Infertility Late Effects Survivorship And Mens Health References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#2-methodology",
+      "title": "2. METHODOLOGY",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#2-1-methods",
+      "title": "2.1. Methods",
+      "level": 3,
+      "text": "For the 2026 Sexual and Reproductive Health Guidelines, new and relevant evidence has been identified, collated, and appraised through a structured assessment of the literature for Chapters: 3. Male Hypogonadism, 6. Disorders of Ejaculation, 8. Penile Curvature, and 10 Priapism. Databases searched included Medline, EMBASE and the Cochrane Libraries, covering a time frame between 1 January 2019 and 25 May 2025. A total of 1,118 unique records were identified, retrieved and screened for relevance for chapter 3, 811 for chapter 6, 712 for chapter 8, and 640 for chapter 10, respectively. Detailed search strategies are available online: https://uroweb.org/guidelines/sexual-and-reproductive-health/publications-appendices . Recommendations within the Guidelines are developed by the Panels to prioritise clinically important care decisions. The strength of each recommendation is determined by the balance between desirable and undesirable consequences of alternative management strategies, the quality of the evidence (including certainty of estimates), and the nature and variability of patient values and preferences. This decision process, which can be reviewed in the strength rating forms which accompany each Guidelines recommendation, addresses a number of key elements: the overall quality of the evidence which exists for the recommendation [1]; the magnitude of the effect (individual or combined effects); the certainty of the results (precision, consistency, heterogeneity and other statistical or study-related factors); the balance between desirable and undesirable outcomes; and the impact and certainty of patient values and preferences on the intervention. Strong recommendations typically indicate a high degree of evidence quality and/or a favourable balance of benefit to harm and patient preference. Weak recommendations typically indicate availability of lower quality evidence, and/or equivocal balance between benefit and harm, and uncertainty or variability of patient preference [2]. Additional information and a list of associations endorsing the EAU Guidelines can be found online at the EAU website: http://www.uroweb.org/guidelines/ .",
+      "tables": []
+    },
+    {
+      "anchor": "#2-2-review",
+      "title": "2.2. Review",
+      "level": 3,
+      "text": "The EAU Sexual and Reproductive Health Guidelines were peer reviewed prior to publication in 2020. The priapism section was reviewed prior to publication in 2021. In 2023, the newly added section on penile size abnormalities and dysmorphophobia was reviewed prior to publication. The 2026 Sexual and Reproductive Health Guidelines will be peer reviewed following publication. All reviewer comments and discussions points will be incorporated into the 2027 edition of the guidelines.",
+      "tables": []
+    }
+  ],
+  "tables_count": 0
+}

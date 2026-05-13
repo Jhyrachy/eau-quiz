@@ -1,0 +1,711 @@
+{
+  "guideline": "chronic-pelvic-pain",
+  "chapter": "epidemiology-aetiology-and-pathophysiology",
+  "url": "https://uroweb.org/guidelines/chronic-pelvic-pain/chapter/epidemiology-aetiology-and-pathophysiology",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim",
+      "anchor": "#1-1-aim"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Structure and scope",
+      "anchor": "#1-2-structure-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Publication history",
+      "anchor": "#1-3-publication-history"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Available publications",
+      "anchor": "#1-4-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.5. Panel composition",
+      "anchor": "#1-5-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.6. Terminology",
+      "anchor": "#1-6-terminology"
+    },
+    {
+      "level": 4,
+      "text": "IASP definitions",
+      "anchor": "#iasp-definitions"
+    },
+    {
+      "level": 4,
+      "text": "ICD classification: purpose and uses",
+      "anchor": "#icd-classification-purpose-and-uses"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODOLOGY",
+      "anchor": "#2-methodology"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Peer review",
+      "anchor": "#2-2-peer-review"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY, AETIOLOGY AND PATHOPHYSIOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathophysiology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Chronic visceral pain",
+      "anchor": "#3-1-chronic-visceral-pain"
+    },
+    {
+      "level": 4,
+      "text": "3.1.1. Incidence",
+      "anchor": "#3-1-1-incidence"
+    },
+    {
+      "level": 4,
+      "text": "3.1.2. Prevalence",
+      "anchor": "#3-1-2-prevalence"
+    },
+    {
+      "level": 4,
+      "text": "3.1.3. Influence on Quality of Life",
+      "anchor": "#3-1-3-influence-on-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "3.1.4. Costs",
+      "anchor": "#3-1-4-costs"
+    },
+    {
+      "level": 4,
+      "text": "3.1.5. Risk factors and underlying causes",
+      "anchor": "#3-1-5-risk-factors-and-underlying-causes"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Pelvic pain",
+      "anchor": "#3-2-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Incidence",
+      "anchor": "#3-2-1-incidence"
+    },
+    {
+      "level": 4,
+      "text": "3.2.2. Prevalence",
+      "anchor": "#3-2-2-prevalence"
+    },
+    {
+      "level": 4,
+      "text": "3.2.3. Influence on Quality of Life",
+      "anchor": "#3-2-3-influence-on-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "3.2.4. Costs",
+      "anchor": "#3-2-4-costs"
+    },
+    {
+      "level": 4,
+      "text": "3.2.5. Risk factors and underlying causes",
+      "anchor": "#3-2-5-risk-factors-and-underlying-causes"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Abdominal aspects of pelvic pain",
+      "anchor": "#3-3-abdominal-aspects-of-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Incidence",
+      "anchor": "#3-3-1-incidence"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2. Prevalence",
+      "anchor": "#3-3-2-prevalence"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3. Influence on health-related Quality of Life",
+      "anchor": "#3-3-3-influence-on-health-related-quality-of-life"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4. Costs",
+      "anchor": "#3-3-4-costs"
+    },
+    {
+      "level": 4,
+      "text": "3.3.5. Risk factors & underlying causes",
+      "anchor": "#3-3-5-risk-factors--underlying-causes"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Summary of evidence and recommendations for chronic primary pelvic pain syndrome and pain mechanisms",
+      "anchor": "#3-4-summary-of-evidence-and-recommendations-for-chronic-primary-pelvic-pain-syndrome-and-pain-mechanisms"
+    },
+    {
+      "level": 2,
+      "text": "4. DIAGNOSTIC EVALUATION",
+      "anchor": "#4-diagnostic-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "4.1. General evaluation",
+      "anchor": "#4-1-general-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.1.1. History",
+      "anchor": "#4-1-1-history"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2. Physical evaluation",
+      "anchor": "#4-1-2-physical-evaluation"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Supplemental evaluation",
+      "anchor": "#4-2-supplemental-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1. Assessing pelvic pain and related symptoms",
+      "anchor": "#4-2-1-assessing-pelvic-pain-and-related-symptoms"
+    },
+    {
+      "level": 4,
+      "text": "4.2.2. Focused myofascial evaluation",
+      "anchor": "#4-2-2-focused-myofascial-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.2.3. Neurological",
+      "anchor": "#4-2-3-neurological"
+    },
+    {
+      "level": 4,
+      "text": "4.2.4. Imaging",
+      "anchor": "#4-2-4-imaging"
+    },
+    {
+      "level": 4,
+      "text": "4.2.5. Laboratory tests",
+      "anchor": "#4-2-5-laboratory-tests"
+    },
+    {
+      "level": 4,
+      "text": "4.2.6. Invasive tests",
+      "anchor": "#4-2-6-invasive-tests"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Diagnostic algorithm",
+      "anchor": "#4-3-diagnostic-algorithm"
+    },
+    {
+      "level": 3,
+      "text": "4.4. Other painful conditions without a urological cause",
+      "anchor": "#4-4-other-painful-conditions-without-a-urological-cause"
+    },
+    {
+      "level": 3,
+      "text": "4.5. Summary of evidence and recommendations for diagnostic evaluation",
+      "anchor": "#4-5-summary-of-evidence-and-recommendations-for-diagnostic-evaluation"
+    },
+    {
+      "level": 4,
+      "text": "4.5.1. Diagnostic evaluation - general",
+      "anchor": "#4-5-1-diagnostic-evaluation---general"
+    },
+    {
+      "level": 4,
+      "text": "4.5.2. Diagnostic evaluation of primary prostate pain syndrome",
+      "anchor": "#4-5-2-diagnostic-evaluation-of-primary-prostate-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.3. Diagnostic evaluation of primary bladder pain syndrome",
+      "anchor": "#4-5-3-diagnostic-evaluation-of-primary-bladder-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.4. Diagnostic evaluation of scrotal pain syndrome",
+      "anchor": "#4-5-4-diagnostic-evaluation-of-scrotal-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.5. Diagnostic evaluation of urethral pain syndrome",
+      "anchor": "#4-5-5-diagnostic-evaluation-of-urethral-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.6. Diagnostic evaluation of gynaecological aspects chronic pelvic pain",
+      "anchor": "#4-5-6-diagnostic-evaluation-of-gynaecological-aspects-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "4.5.7. Diagnostic evaluation of anorectal pain syndrome",
+      "anchor": "#4-5-7-diagnostic-evaluation-of-anorectal-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "4.5.8. Diagnostic evaluation of nerves to the pelvis",
+      "anchor": "#4-5-8-diagnostic-evaluation-of-nerves-to-the-pelvis"
+    },
+    {
+      "level": 4,
+      "text": "4.5.9. Diagnostic evaluation of sexological aspects in chronic pelvic pain",
+      "anchor": "#4-5-9-diagnostic-evaluation-of-sexological-aspects-in-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "4.5.10. Diagnostic evaluation of psychological aspects of chronic pelvic pain",
+      "anchor": "#4-5-10-diagnostic-evaluation-of-psychological-aspects-of-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "4.5.11. Diagnostic evaluation of pelvic floor function",
+      "anchor": "#4-5-11-diagnostic-evaluation-of-pelvic-floor-function"
+    },
+    {
+      "level": 2,
+      "text": "5. MANAGEMENT",
+      "anchor": "#5-management"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Conservative management",
+      "anchor": "#5-1-conservative-management"
+    },
+    {
+      "level": 4,
+      "text": "5.1.1. Physical therapy",
+      "anchor": "#5-1-1-physical-therapy"
+    },
+    {
+      "level": 4,
+      "text": "5.1.2. Psychological therapy",
+      "anchor": "#5-1-2-psychological-therapy"
+    },
+    {
+      "level": 4,
+      "text": "5.1.3. Dietary treatment",
+      "anchor": "#5-1-3-dietary-treatment"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Pharmacological management",
+      "anchor": "#5-2-pharmacological-management"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Drugs for chronic primary pelvic pain syndrome",
+      "anchor": "#5-2-1-drugs-for-chronic-primary-pelvic-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Analgesics",
+      "anchor": "#5-2-2-analgesics"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Further management",
+      "anchor": "#5-3-further-management"
+    },
+    {
+      "level": 4,
+      "text": "5.3.1. Nerve blocks",
+      "anchor": "#5-3-1-nerve-blocks"
+    },
+    {
+      "level": 4,
+      "text": "5.3.2. Neuromodulation",
+      "anchor": "#5-3-2-neuromodulation"
+    },
+    {
+      "level": 4,
+      "text": "5.3.3. Surgery",
+      "anchor": "#5-3-3-surgery"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Summary of evidence and recommendations: management",
+      "anchor": "#5-4-summary-of-evidence-and-recommendations-management"
+    },
+    {
+      "level": 4,
+      "text": "5.4.1. Management of primary prostate pain syndrome",
+      "anchor": "#5-4-1-management-of-primary-prostate-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.2. Management of primary bladder pain syndrome",
+      "anchor": "#5-4-2-management-of-primary-bladder-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.3. Management of scrotal pain syndrome",
+      "anchor": "#5-4-3-management-of-scrotal-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.4. Management of primary urethral pain syndrome",
+      "anchor": "#5-4-4-management-of-primary-urethral-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.5. Management of gynaecological aspects of chronic pelvic pain",
+      "anchor": "#5-4-5-management-of-gynaecological-aspects-of-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "5.4.6. Management of primary anorectal pain syndrome",
+      "anchor": "#5-4-6-management-of-primary-anorectal-pain-syndrome"
+    },
+    {
+      "level": 4,
+      "text": "5.4.7. Management of pudendal neuralgia",
+      "anchor": "#5-4-7-management-of-pudendal-neuralgia"
+    },
+    {
+      "level": 4,
+      "text": "5.4.8. Management of sexological aspects in chronic pelvic pain",
+      "anchor": "#5-4-8-management-of-sexological-aspects-in-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "5.4.9. Management of psychological aspects in chronic pelvic pain",
+      "anchor": "#5-4-9-management-of-psychological-aspects-in-chronic-pelvic-pain"
+    },
+    {
+      "level": 4,
+      "text": "5.4.10. Management of pelvic floor dysfunction",
+      "anchor": "#5-4-10-management-of-pelvic-floor-dysfunction"
+    },
+    {
+      "level": 2,
+      "text": "6. EVALUATION OF TREATMENT RESULTS",
+      "anchor": "#6-evaluation-of-treatment-results"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Evaluation of treatment",
+      "anchor": "#6-1-evaluation-of-treatment"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Treatment has not been effective",
+      "anchor": "#6-1-1-treatment-has-not-been-effective"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Treatment has been effective",
+      "anchor": "#6-1-2-treatment-has-been-effective"
+    },
+    {
+      "level": 2,
+      "text": "7. REFERENCES",
+      "anchor": "#7-references"
+    },
+    {
+      "level": 2,
+      "text": "8. CONFLICT OF INTEREST",
+      "anchor": "#8-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "9. CITATION INFORMATION",
+      "anchor": "#9-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "10. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#10-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#chronic-pelvic-pain",
+      "title": "Chronic Pelvic Pain",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 3. Epidemiology, Aetiology And Pathophysiology Introduction Methodology Epidemiology, Aetiology And Pathophysiology Diagnostic Evaluation Management Evaluation Of Treatment Results References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#3-epidemiology-aetiology-and-pathophysiology",
+      "title": "3. EPIDEMIOLOGY, AETIOLOGY AND PATHOPHYSIOLOGY",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-1-chronic-visceral-pain",
+      "title": "3.1. Chronic visceral pain",
+      "level": 3,
+      "text": "Definition of pain Pain is defined as an unpleasant sensory and emotional experience associated with, or resembling that associated with, actual or potential tissue damage (IASP Taxonomy) [17]. Introduction to chronic pelvic primary pain syndromes Over the years much of the focus for CPPPS has been on peripheral end-organ mechanisms, such as inflammatory or infective conditions. However, research has indicated that many of the mechanisms for the CPPPSs are based within the CNS. Although a peripheral stimulus such as infection may initiate the start of a CPPPS condition, the condition may become self-perpetuating because of CNS modulation. As well as pain, these central mechanisms are associated with several other sensory, functional, behavioural and psychological phenomena. It is this collection of phenomena that form the basis of the pain syndrome diagnosis, and each individual phenomenon needs to be addressed through multispecialty and multidisciplinary care. Although ongoing peripheral organ pathology can produce persistent and chronic pain, the main focus of these Guidelines is on CPPPSs in which no peripheral ongoing pathology (such as infection or neoplastic disease) is detected. The main exception is when pain is due to peripheral nerve damage.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-1-1-incidence",
+      "title": "3.1.1. Incidence",
+      "level": 4,
+      "text": "No adequate data on incidence were found.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-1-2-prevalence",
+      "title": "3.1.2. Prevalence",
+      "level": 4,
+      "text": "Across the world [18] chronic pain is prevalent, seriously affecting the quality of people’s social, family and working lives, with differences between countries attributable to multiple causes, including study methodology. A United Kingdom (UK) study found a prevalence of chronic pelvic pain of 14.8% in females that are 25 years old [19, 20].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-1-3-influence-on-quality-of-life",
+      "title": "3.1.3. Influence on Quality of Life",
+      "level": 4,
+      "text": "Assessing QoL in pelvic pain patients is challenging due to the complex pathology, the multifaceted nature of the complaints, and the overlap between the different pelvic pain syndromes. Pelvic pain syndromes have an impact in terms of QoL [21], depression, anxiety, impaired emotional functioning, insomnia and fatigue [21,22]. If these aspects are identified and targeted early in the diagnostic process, the associated pain symptoms may also improve. Addressing comorbidities will help in further improving QoL. Quality of life assessment is therefore important in patients with pelvic pain and should include physical, psychosocial behavioural and emotional aspects, using standardised instruments where possible. In many countries, chronic pain is the leading cause of years lost to disability [18], although these figures are dominated by musculoskeletal pain and headache. Chronic pain is frequently associated with depression and other psychological disorders, reduced capacity to work and perform domestic activities, and substantial use of healthcare services, often with disappointing outcomes.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-1-4-costs",
+      "title": "3.1.4. Costs",
+      "level": 4,
+      "text": "No adequate data on costs were found.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-1-5-risk-factors-and-underlying-causes",
+      "title": "3.1.5. Risk factors and underlying causes",
+      "level": 4,
+      "text": "3.1.5.a. Risk factors Risk factors include many different factors from various areas, including genetic, psychological state, recurrent physical trauma and endocrine factors. The endocrine system is involved in visceral function. Significant life events and in particular, early life events, may alter the development of the hypothalamic-pituitary-adrenal axis and the chemicals released. Increased vulnerability to stress is thought to be partly due to increased corticotrophin-releasing hormone (CRH) gene expression. Up-regulation of CRH has been implicated in several pain states, such as hypersensitivity to rectal distension [23]. This model suggests an action of CRH on mast cells. A range of stress-related illnesses have been suggested, for example, IBS and bladder pain syndrome [24, 25]. There is evidence accumulating to suggest that the sex hormones also modulate both nociception and pain perception [26]. Stress can also produce long-term biological changes which may form the relation between chronic pain syndromes and significant early life and adverse life events [27]. Asking the patient about these events is important as it influences their psychological well-being [28, 29]. Genetics also play a role in assessing the risk of developing chronic pain. An individual who has one chronic pain syndrome is more likely to develop another. Family clusters of pain conditions are also observed. A range of genetic variations have been described that may explain the pain in certain cases; many of these are to do with subtle changes in transmitters and their receptors. However, the picture is more complex, as developmental, environmental and social factors also play a contributory role. Evidence that PBPS may have a genetic component has been presented in several identical twin studies, but genetics may contribute to less than one third of total variation in susceptibility to PBPS [30, 31]. Studies about integrating the psychological factors of CPPPSs are few, but the quality is high. Psychological factors are consistently found to be relevant in the maintenance of persistent pelvic and urogenital pain [32]. Beliefs about pain contribute to the experience of pain [33] and symptom-related anxiety and central pain amplification may be measurably linked. Worrying about pain and perceived stress predict worsening of urological chronic pain over a year [32, 34]. Central sensitisation has been demonstrated in a small study of symptomatic endometriosis [35] and central changes are evident in association with dysmenorrhoea and is increasingly recognised as a risk for female pelvic pain [36]. The various mechanisms of CNS facilitation, amplification and failure of inhibition mean that there is no simple relationship between physical findings, pain experience and resulting distress and restriction of activities. Division of aetiology into organic versus psychogenic is unscientific. Diagnoses that assign female pain to psychological origins due to scepticism about the reality or severity of their pain [20,37] undermines any therapeutic relationship [38]. Pelvic pain and distress is related [39] in both males and females [40]; as are painful bladder and distress [34]. In a large population-based study of males, CPPPS was associated with prior anxiety disorder [41]. The only systematic review [42] of risk factors for chronic non-cyclical pelvic pain in females identified, in addition to medical variables: sexual or physical abuse (Odds ratio [OR]: 1.51–3.49); psychological problems, such as anxiety (OR: 2.28; 95% Confidence Interval [CI]: 1.41–3.70) and depression (OR: 2.69; 95% CI: 1.86–3.88); multiple hysteria (OR: 4.83; 95% CI: 2.50–9.33); and psychosomatic symptoms (OR: 8.01; 95% CI: 5.16–12.44). Many studies have reported high rates of childhood sexual abuse in adults with persistent pain, particularly in females with pelvic pain [43]. It is hard to establish a causal role for sexual abuse or trauma history, anxiety or depression in females with CPPPS [44, 45], as the attribution of current pain to past sexual or physical abuse is associated both with current depression [46] and with current overall physical health [47]. There is some evidence for a specific relationship between rape and CPPPS (and with FM and functional gastrointestinal disorders) [48]; and recent sexual assault may prompt presentation of pelvic pain [43,49]. Few studies have examined the association between childhood sexual or physical abuse in relation to pelvic pain in males, although it has known adverse effects on health [48], but males who reported having experienced sexual, physical or emotional abuse had increased odds (3.3 vs. 1.7) for symptoms suggestive of CPPPS [50]. Both sexes should be screened for sexual abuse when presenting with symptoms suggestive of CPPPS, and clinicians should inquire about pelvic pain in patients who have experienced abuse [50]. 3.1.5.b. Underlying causes The mechanisms that serve as an underlying cause for chronic pelv",
+      "tables": [
+        {
+          "rows": [
+            [
+              " ",
+              "Visceral pain",
+              "Somatic pain"
+            ],
+            [
+              "Effective painful stimuli",
+              "Stretching and distension, producing poorly localised pain.",
+              "Mechanical, thermal, chemical and electrical stimuli, producing well localised pain."
+            ],
+            [
+              "Summation",
+              "Widespread stimulation produces significantly magnified pain.",
+              "Widespread stimulation produces a modest increase in pain."
+            ],
+            [
+              "Autonomic involvement",
+              "Autonomic features (e.g. nausea and sweating) frequently present.",
+              "Autonomic features less frequent."
+            ],
+            [
+              "Referred pain",
+              "Pain perceived at a site distant to the cause of the pain is common.",
+              "Pain is relatively well localised and well recognised."
+            ],
+            [
+              "Referred hyperalgesia",
+              "Referred cutaneous and muscle hyperalgesia is common, as is involvement of other visceral organs.",
+              "Hyperalgesia tends to be localised."
+            ],
+            [
+              "Innervation",
+              "Low density, unmyelinated C-fibres and thinly myelinated A∂ fibres.",
+              "Dense innervation with a wide range of nerve fibres."
+            ],
+            [
+              "Primary afferent physiology",
+              "Intensity coding. As stimulation increases, afferent firing increases with an increase in sensation and ultimately pain.",
+              "Two fibre coding. Separate fibres for pain and normal sensation."
+            ],
+            [
+              "Silent afferents",
+              "50-90% of visceral afferents are silent until the time they are switched on.",
+              "These fibres are very important in the central sensitisation process. Silent afferents present but form a lower percentage."
+            ],
+            [
+              "Central mechanisms",
+              "Play an important part in the hyperalgesia, viscero-visceral, viscero-muscular and musculo-visceral hyperalgesia.",
+              "Sensations not normally perceived become perceived and non-noxious sensations become painful. Responsible for the allodynia and hyperalgesia of chronic somatic pain."
+            ],
+            [
+              "Abnormalities of function",
+              "Central mechanisms associated with visceral pain may be responsible for organ dysfunction.",
+              "Somatic pain associated with somatic dysfunction, for example, muscle spasm."
+            ],
+            [
+              "Central pathways and representation",
+              "As well as classical pathways, there is evidence for a separate dorsal horn pathway and central representation.",
+              "Classical pain pathways."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#3-2-pelvic-pain",
+      "title": "3.2. Pelvic pain",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-2-1-incidence",
+      "title": "3.2.1. Incidence",
+      "level": 4,
+      "text": "No adequate data on incidence were found.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-2-2-prevalence",
+      "title": "3.2.2. Prevalence",
+      "level": 4,
+      "text": "3.2.2.a. Primary prostate pain syndrome There is limited information on the true prevalence of primary prostate pain syndrome (PPPS) in the population. As a result of significant overlap of symptoms with other conditions (e.g. benign prostatic enlargement and PBPS), purely symptom-based case definitions may not reflect the true prevalence of PPPS [82, 83]. In the literature, population-based prevalence of prostatitis symptoms ranges from 2.2-14.2% [84, 85]. The risk of prostatitis increases with age (males aged 50-59 years have a 3.1-fold greater risk than those aged 20-39 years). 3.2.2.b. Primary bladder pain syndrome Reports of PBPS prevalence have varied greatly, along with the diagnostic criteria and populations studied. Reports range from 0.06-20% [86-92]. There is a female predominance of about ten to one [90] but possibly no difference in race or ethnicity [82, 93, 94]. The relative proportions of Hunner’s lesion and non-lesion disease are unclear. Incidence in studies has ranged from 5-50% [95-98]. There is increasing evidence that children under 18 years old may also be affected, although prevalence figures are low; therefore, PBPS cannot be excluded on the basis of age [99]. 3.2.2.c. Sexual pain syndrome In the 1980s, an association between chronic pelvic pain and sexual dysfunction was postulated. In a review, the relationship between PPPS and health status with influence on sexual activity was addressed [100]. In a Chinese study of males with chronic pelvic pain, 1,768 males completed the questionnaires. The overall prevalence of sexual dysfunction was 49%. Erectile dysfunction (ED) is the most investigated sexual dysfunction in PPPS patients. The reported prevalence of ED ranges from 15.1-48%, varying with evaluation tools and populations [101, 102]. Erectile dysfunction was prevalent in 27.4% of Italian males aged 25-50 [103], 15.2% of Turkish males (significantly higher than in the control group) [104] and 43% of Finnish males with PPPS [105]. The prevalence of ED was found to be higher in young males with PPPS than in the general population. A significant correlation between “chronic prostatitis”, chronic pelvic pain symptoms (measured by NIH-CPSI) and ED (measured by International Index of Erectile Function [IIEF]) was confirmed, while other studies using the same questionnaires were not able to confirm such a correlation [70,106]. Some studies also report ejaculatory dysfunction, mainly premature ejaculation [101, 102, 107, 108]. In community-based studies in the UK [109], New Zealand [110] and Australia [111], a substantially larger proportion of females with chronic pelvic pain reported dyspareunia (varying between 29-42%) than females without chronic pelvic pain (varying between 11-14%). Only a few studies have investigated sexual problems within clinical populations [112]. Another study showed that all of the sexual function domains (desire, arousal, lubrication, orgasm, satisfaction, pain) were significantly lower in females with chronic pelvic pain than in females without chronic pelvic pain [112]. A study of patients enrolled in chronic pain treatment programs in England reported that 73% had pain-related sexual problems [113]. 3.2.2.d. Myofascial pain syndromes The relationship between muscular dysfunction (especially over-activity) and pelvic pain has been found in several studies [114]. Rectal pain treated with pelvic floor muscle therapy is only relieved when patients learn to relax their pelvic floor muscles [115, 116]. The vast majority (92.2%) of males visiting a tertiary centre for pelvic pain had dysfunction of the pelvic floor muscles. This finding was true regardless of evidence of inflammation (prostatitis or cystitis) [117]. This relationship has been found in chronic prostatitis [118], PBPS [119] and vulvar pain [120]. Dysfunction of the pelvic floor directly affects function of the pelvic viscera and vice versa. Both systems can act as the primary signal to the spinal cord, with a cascade of reactions ascending to the CNS as a result. The muscle itself ends up shortened, leading to restrictions even in a relaxed state.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-2-3-influence-on-quality-of-life",
+      "title": "3.2.3. Influence on Quality of Life",
+      "level": 4,
+      "text": "Data on the influence on QoL will be included in a future version of the Guidelines.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-2-4-costs",
+      "title": "3.2.4. Costs",
+      "level": 4,
+      "text": "No adequate data on costs were found.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-2-5-risk-factors-and-underlying-causes",
+      "title": "3.2.5. Risk factors and underlying causes",
+      "level": 4,
+      "text": "The risk factors are unspecific for most of the pain syndromes in the pelvic area. These are described in Section 3.1.5.a. The underlying causes, including the mechanisms for the different clinical pain syndromes are described here. 3.2.5.a. Primary prostate pain syndrome Pain is the main symptom in PPPS. As a common feature of primary chronic pain syndromes, no single aetiological explanation has been found. One explanation is that the condition probably occurs in susceptible males exposed to one or more initiating factors, which may be single, repetitive or continuous. Several of these potential initiating factors have been proposed, including infectious, genetic, anatomical, neuromuscular, endocrine, immune (including autoimmune) or psychological mechanisms. These factors may then lead to a peripheral self-perpetuating immunological, inflammatory state and/or neurogenic injury, creating acute and then chronic pain. A study showed that chronic but not acute histological inflammation of the prostate was significantly associated with symptomatic progression [121]. Based on the peripheral and the CNS, sensitisation involving neuroplasticity may lead to a centralised neuropathic pain state. This could also explain why tissue damage is not usually found in PPPS. There is growing evidence for a neuropathic origin and association with CNS changes of pain in PPPS, and anxiety appears to be a risk factor for its development [41]. 3.2.5.b. Primary bladder pain syndrome An initial unidentified insult to the bladder leading to urothelial damage, neurogenic inflammation and pain is thought to be a trigger of PBPS. However, PBPS might be a local manifestation of a systemic disorder. No infection has yet been implicated. Nevertheless, in patients with PBPS in adulthood, urinary infections are significantly more frequent during childhood and adolescence [122]. Experimental induction of chronic pelvic pain by O-antigen deficient bacterial strains supports the bacterial hypothesis [123]. Pancystitis with associated perineural inflammatory infiltrates and mast cell count increase is an essential part of PBPS type 3C [124], but is rare in non-lesion PBPS [29, 64, 125, 126]. Cystoscopic and biopsy findings in both lesion and non-lesion PBPS are consistent with defects in the urothelial glycosaminoglycan (GAG) layer, which might expose submucosal structures to noxious urine components [127-131] and a consequent cytotoxic effect [132, 133]. Studies indicate that autonomic dysfunction with sympathetic predominance may be implicated in PBPS [134, 135]. An association has been reported between PBPS and non-bladder syndromes such as FM, CFS, IBS, vulvodynia, depression, panic disorders, migraine, sicca syndrome, temporomandibular joint disorder, allergy, asthma and systemic lupus erythematosus [136-141]. Psychological comorbidities, especially depression, has been found to be related to symptom severity [136]. Risk of PBPS correlates with a number of non-bladder syndromes in each patient [142]. Studies have shown non-lesion PBPS is associated with significantly greater comorbidity, including FM, migraine, temporomandibular joint disorder and depression compared with PBPS type 3C, emphasising the need for subtyping [143]. Early-stage research also suggests that PBPS may have a distinct gene expression pattern that may provide novel targets for future therapies [144, 145]. Furthermore, lower-level evidence has implicated urinary microbiome dysbiosis and sympathetic nervous system imbalance in PBPS pathology [146-149]. 3.2.5.c. Primary scrotal pain syndrome Often scrotal pain is not associated with any specific pathology. Pain is perceived in the testes, epididymis or vas deferens. As the ilioinguinal, genitofemoral and pudendal nerves innervate the scrotum [150], any pathology or intervention at the origin or along the course of these nerves may result in pain perceived in the scrotum [151]. Two special forms of scrotal pain syndrome can be described. The first is post-vasectomy scrotal pain syndrome which occurs following vasectomy. The mechanisms are poorly understood, and for that reason, it is considered by some to be a special form of primary scrotal pain syndrome. Incidence of post-vasectomy pain is 2-20% among all males who have undergone a vasectomy. In males with post-vasectomy pain, 2-6% have a Visual Analogue Scale (VAS) score > 5 [152]. In a large cohort study of 625 males, the likelihood of scrotal pain after six months was 14.7%. The mean pain severity on a VAS score was 3.4/10. In the pain group, 0.9% had quite severe pain, noticeably affecting their daily life. In this cohort, different techniques were used to perform the vasectomy. The risk of post-vasectomy pain was significantly lower in the no-scalpel vasectomy group (11.7% vs. 18.8% in the scalpel group) [153]. The second special form of scrotal pain is post-inguinal hernia repair pain. It is seen as a complication of hernia repair, but in trials it is seldom rep",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-abdominal-aspects-of-pelvic-pain",
+      "title": "3.3. Abdominal aspects of pelvic pain",
+      "level": 3,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-1-incidence",
+      "title": "3.3.1. Incidence",
+      "level": 4,
+      "text": "Epidemiological data on IBS and CPPPS are scarce [225]. Chronic pelvic pain has been shown to be one of the most common functional disorders in females of reproductive age. In 1999, the monthly incidence rate of CPPPS was 1.58/1000 [226].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-2-prevalence",
+      "title": "3.3.2. Prevalence",
+      "level": 4,
+      "text": "Using a vague definition of continuous or episodic pain situated below the umbilicus over six months, a study reported that CPPPS was one of the most common diagnoses in primary care units in Great Britain [226]. The monthly prevalence rate of CPPPS in this study was 21.5/1,000, with an annual prevalence of 38.3/1,000. The prevalence rates increase significantly with older age and vary significantly between regions in the UK. In a sample of American householders, the overall prevalence of anorectal pain was 11.6% for functional anorectal pain and 6.6% for levator ani syndrome. The difference between male and female was small (11.1 vs. 12.1%) [227]. Irritable bowel syndrome is associated with common gynaecologic problems (endometriosis, dyspareunia and dysmenorrhoea) [228]. In females who presented with abdominal pain to the gynaecologic clinic or were scheduled for laparoscopy due to CPPPS, 50% had symptoms of IBS [229]. In a survey from Olmsted County, 20% of females reported CPPPS and 40% of those met the criteria for IBS [230]. This overlap of CPPPS and IBS was associated with an increased incidence of somatisation. In a prospective, controlled study, only psychosocial variables (but not gynaecological surgical procedure) predicted the development of pain, without a difference in the incidence of IBS [231]. Clinical features of pelvic floor dysfunction, gynaecological factors, and psychological symptoms are associated with disordered anorectal function in patients with IBS, but do not predict physiological anorectal testing.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-3-influence-on-health-related-quality-of-life",
+      "title": "3.3.3. Influence on health-related Quality of Life",
+      "level": 4,
+      "text": "There is little known on health-related quality of life (HRQoL) in patients with CPPPS. There is a need to develop validated disease-specific HRQoL instruments for CPPPS in addition to sound measurement properties. More data are available for patients with IBS treated at referral centres who exhibit HRQoL scores comparable to those of patients with other common conditions such as diabetes, end-stage renal disease, and inflammatory bowel disease [232]. Subgroups of IBS with predominance of diarrhoea or constipation show no difference in HRQoL. Multivariate analysis shows that HRQoL in patients with IBS is affected by sex and psychological conditions.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-4-costs",
+      "title": "3.3.4. Costs",
+      "level": 4,
+      "text": "Costs combine direct healthcare costs and societal costs (productivity loss), such as under-performance and absenteeism from work. The annual costs to society can be calculated by using the average population earnings. In Germany, direct care costs are estimated at €791 and societal costs €995 per patient with IBS per year, which may be comparable to patients with CPPPS [233].",
+      "tables": []
+    },
+    {
+      "anchor": "#3-3-5-risk-factors--underlying-causes",
+      "title": "3.3.5. Risk factors & underlying causes",
+      "level": 4,
+      "text": "Risk factors are covered in Section 3.1.5.",
+      "tables": []
+    },
+    {
+      "anchor": "#3-4-summary-of-evidence-and-recommendations-for-chronic-primary-pelvic-pain-syndrome-and-pain-mechanisms",
+      "title": "3.4. Summary of evidence and recommendations for chronic primary pelvic pain syndrome and pain mechanisms",
+      "level": 3,
+      "text": "Summary of evidence LE Chronic primary pelvic pain syndrome mechanisms are well defined and involve mechanisms of neuroplasticity and neuropathic pain. 2 The mechanisms of neuroplasticity and neuropathic pain result in increased perception of afferent stimuli, which may produce abnormal sensations as well as pain. 1 End-organ function can be altered by the mechanisms of neuroplasticity so that symptoms of function can also occur. 1 The diagnosis of a CPPPS as a pain syndrome is essential, as it encourages a holistic approach to management with multi-specialty and multidisciplinary care. 2 Recommendations Strength rating All of those involved in the management of chronic pelvic pain should have knowledge of peripheral and central pain mechanisms. Strong The early assessment of patients with chronic pelvic pain should involve investigations aimed at excluding disease-associated pelvic pain. Strong Assess functional, emotional, behavioural, sexual and other quality of life issues, such as effect on work and socialisation, early in patients with chronic pelvic pain and address these issues as well as the pain. Strong Build up relations with colleagues to be able to manage chronic primary pelvic pain syndrome comprehensively in a multi-specialty and multidisciplinary environment with consideration of all the patient’s symptoms. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Chronic primary pelvic pain syndrome mechanisms are well defined and involve mechanisms of neuroplasticity and neuropathic pain.",
+              "2"
+            ],
+            [
+              "The mechanisms of neuroplasticity and neuropathic pain result in increased perception of afferent stimuli, which may produce abnormal sensations as well as pain.",
+              "1"
+            ],
+            [
+              "End-organ function can be altered by the mechanisms of neuroplasticity so that symptoms of function can also occur.",
+              "1"
+            ],
+            [
+              "The diagnosis of a CPPPS as a pain syndrome is essential, as it encourages a holistic approach to management with multi-specialty and multidisciplinary care.",
+              "2"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendations",
+              "Strength rating"
+            ],
+            [
+              "All of those involved in the management of chronic pelvic pain should have knowledge of peripheral and central pain mechanisms.",
+              "Strong"
+            ],
+            [
+              "The early assessment of patients with chronic pelvic pain should involve investigations aimed at excluding disease-associated pelvic pain.",
+              "Strong"
+            ],
+            [
+              "Assess functional, emotional, behavioural, sexual and other quality of life issues, such as effect on work and socialisation, early in patients with chronic pelvic pain and address these issues as well as the pain.",
+              "Strong"
+            ],
+            [
+              "Build up relations with colleagues to be able to manage chronic primary pelvic pain syndrome comprehensively in a multi-specialty and multidisciplinary environment with consideration of all the patient’s symptoms.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 3
+}

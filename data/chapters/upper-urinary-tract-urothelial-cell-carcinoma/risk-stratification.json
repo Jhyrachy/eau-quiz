@@ -1,0 +1,476 @@
+{
+  "guideline": "upper-urinary-tract-urothelial-cell-carcinoma",
+  "chapter": "risk-stratification",
+  "url": "https://uroweb.org/guidelines/upper-urinary-tract-urothelial-cell-carcinoma/chapter/risk-stratification",
+  "headings": [
+    {
+      "level": 2,
+      "text": "1. INTRODUCTION",
+      "anchor": "#1-introduction"
+    },
+    {
+      "level": 3,
+      "text": "1.1. Aim and scope",
+      "anchor": "#1-1-aim-and-scope"
+    },
+    {
+      "level": 3,
+      "text": "1.2. Panel composition",
+      "anchor": "#1-2-panel-composition"
+    },
+    {
+      "level": 3,
+      "text": "1.3. Available publications",
+      "anchor": "#1-3-available-publications"
+    },
+    {
+      "level": 3,
+      "text": "1.4. Publication history and summary of changes",
+      "anchor": "#1-4-publication-history-and-summary-of-changes"
+    },
+    {
+      "level": 4,
+      "text": "1.4.1. Summary of changes",
+      "anchor": "#1-4-1-summary-of-changes"
+    },
+    {
+      "level": 2,
+      "text": "2. METHODS",
+      "anchor": "#2-methods"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Data identification",
+      "anchor": "#2-1-data-identification"
+    },
+    {
+      "level": 3,
+      "text": "2.2. Review",
+      "anchor": "#2-2-review"
+    },
+    {
+      "level": 2,
+      "text": "3. EPIDEMIOLOGY, AETIOLOGY AND PATHOLOGY",
+      "anchor": "#3-epidemiology-aetiology-and-pathology"
+    },
+    {
+      "level": 3,
+      "text": "3.1. Epidemiology",
+      "anchor": "#3-1-epidemiology"
+    },
+    {
+      "level": 3,
+      "text": "3.2. Risk factors",
+      "anchor": "#3-2-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1. Environmental risk factors",
+      "anchor": "#3-2-1-environmental-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.2.2. Genetic risk factors",
+      "anchor": "#3-2-2-genetic-risk-factors"
+    },
+    {
+      "level": 4,
+      "text": "3.2.3. History of bladder cancer",
+      "anchor": "#3-2-3-history-of-bladder-cancer"
+    },
+    {
+      "level": 3,
+      "text": "3.3. Histology and classification",
+      "anchor": "#3-3-histology-and-classification"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1. Histological types",
+      "anchor": "#3-3-1-histological-types"
+    },
+    {
+      "level": 3,
+      "text": "3.4. Molecular background of upper urinary tract urothelial carcinoma",
+      "anchor": "#3-4-molecular-background-of-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "3.5. Summary of evidence and recommendations for epidemiology, aetiology and histology",
+      "anchor": "#3-5-summary-of-evidence-and-recommendations-for-epidemiology-aetiology-and-histology"
+    },
+    {
+      "level": 2,
+      "text": "4. STAGING AND CLASSIFICATION SYSTEMS",
+      "anchor": "#4-staging-and-classification-systems"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Classification",
+      "anchor": "#4-1-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.2. Tumour, Node, Metastasis classification",
+      "anchor": "#4-2-tumour-node-metastasis-classification"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Tumour grade",
+      "anchor": "#4-3-tumour-grade"
+    },
+    {
+      "level": 2,
+      "text": "5. DIAGNOSIS",
+      "anchor": "#5-diagnosis"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Symptoms",
+      "anchor": "#5-1-symptoms"
+    },
+    {
+      "level": 3,
+      "text": "5.2. Imaging",
+      "anchor": "#5-2-imaging"
+    },
+    {
+      "level": 4,
+      "text": "5.2.1. Computed tomography",
+      "anchor": "#5-2-1-computed-tomography"
+    },
+    {
+      "level": 4,
+      "text": "5.2.2. Magnetic resonance urography",
+      "anchor": "#5-2-2-magnetic-resonance-urography"
+    },
+    {
+      "level": 4,
+      "text": "5.2.3.",
+      "anchor": "#5-2-3"
+    },
+    {
+      "level": 3,
+      "text": "5.3. Cystoscopy",
+      "anchor": "#5-3-cystoscopy"
+    },
+    {
+      "level": 3,
+      "text": "5.4. Cytology and urinary markers",
+      "anchor": "#5-4-cytology-and-urinary-markers"
+    },
+    {
+      "level": 3,
+      "text": "5.5. Diagnostic ureteroscopy",
+      "anchor": "#5-5-diagnostic-ureteroscopy"
+    },
+    {
+      "level": 3,
+      "text": "5.6. Molecular testing",
+      "anchor": "#5-6-molecular-testing"
+    },
+    {
+      "level": 3,
+      "text": "5.7. Summary of evidence and recommendations for the diagnosis of upper urinary tract urothelial carcinoma",
+      "anchor": "#5-7-summary-of-evidence-and-recommendations-for-the-diagnosis-of-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 2,
+      "text": "6. RISK STRATIFICATION",
+      "anchor": "#6-risk-stratification"
+    },
+    {
+      "level": 3,
+      "text": "6.1. Factors for clinical decision-making",
+      "anchor": "#6-1-factors-for-clinical-decision-making"
+    },
+    {
+      "level": 4,
+      "text": "6.1.1. Pathological grade",
+      "anchor": "#6-1-1-pathological-grade"
+    },
+    {
+      "level": 4,
+      "text": "6.1.2. Histological subtypes",
+      "anchor": "#6-1-2-histological-subtypes"
+    },
+    {
+      "level": 4,
+      "text": "6.1.3. Local invasion on computed tomography",
+      "anchor": "#6-1-3-local-invasion-on-computed-tomography"
+    },
+    {
+      "level": 4,
+      "text": "6.1.4. Multifocality",
+      "anchor": "#6-1-4-multifocality"
+    },
+    {
+      "level": 4,
+      "text": "6.1.5. Hydroureteronephrosis",
+      "anchor": "#6-1-5-hydroureteronephrosis"
+    },
+    {
+      "level": 4,
+      "text": "6.1.6. Tumour size",
+      "anchor": "#6-1-6-tumour-size"
+    },
+    {
+      "level": 4,
+      "text": "6.1.7. Risk stratification for clinical decision-making",
+      "anchor": "#6-1-7-risk-stratification-for-clinical-decision-making"
+    },
+    {
+      "level": 3,
+      "text": "6.2. Bladder recurrence",
+      "anchor": "#6-2-bladder-recurrence"
+    },
+    {
+      "level": 3,
+      "text": "6.3. Summary of evidence and recommendation for the prognosis of upper urinary tract urothelial carcinoma",
+      "anchor": "#6-3-summary-of-evidence-and-recommendation-for-the-prognosis-of-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 2,
+      "text": "7. DISEASE MANAGEMENT",
+      "anchor": "#7-disease-management"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Low-risk disease",
+      "anchor": "#7-1-low-risk-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.1.1. General considerations on kidney-sparing surgery",
+      "anchor": "#7-1-1-general-considerations-on-kidney-sparing-surgery"
+    },
+    {
+      "level": 4,
+      "text": "7.1.2. Endoscopic ablation with ureteroscopy",
+      "anchor": "#7-1-2-endoscopic-ablation-with-ureteroscopy"
+    },
+    {
+      "level": 4,
+      "text": "7.1.3. Percutaneous antegrade access",
+      "anchor": "#7-1-3-percutaneous-antegrade-access"
+    },
+    {
+      "level": 4,
+      "text": "7.1.4. Ureteral resection",
+      "anchor": "#7-1-4-ureteral-resection"
+    },
+    {
+      "level": 4,
+      "text": "7.1.5. Chemoablation",
+      "anchor": "#7-1-5-chemoablation"
+    },
+    {
+      "level": 4,
+      "text": "7.1.6. Adjuvant instillations",
+      "anchor": "#7-1-6-adjuvant-instillations"
+    },
+    {
+      "level": 4,
+      "text": "7.1.7. Recommendations for kidney-sparing management of localised low-risk upper urinary tract urothelial carcinoma",
+      "anchor": "#7-1-7-recommendations-for-kidney-sparing-management-of-localised-low-risk-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "7.2. Localised high-risk disease",
+      "anchor": "#7-2-localised-high-risk-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.2.1. Local treatments",
+      "anchor": "#7-2-1-local-treatments"
+    },
+    {
+      "level": 4,
+      "text": "7.2.2. Perioperative treatments",
+      "anchor": "#7-2-2-perioperative-treatments"
+    },
+    {
+      "level": 4,
+      "text": "7.2.3. Summary of evidence and recommendations for the management of high-risk non-metastatic upper urinary tract urothelial carcinoma",
+      "anchor": "#7-2-3-summary-of-evidence-and-recommendations-for-the-management-of-high-risk-non-metastatic-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 3,
+      "text": "7.3. Metastatic disease",
+      "anchor": "#7-3-metastatic-disease"
+    },
+    {
+      "level": 4,
+      "text": "7.3.1. Clinical locoregional lymph node metastases",
+      "anchor": "#7-3-1-clinical-locoregional-lymph-node-metastases"
+    },
+    {
+      "level": 4,
+      "text": "7.3.2. Distant metastases",
+      "anchor": "#7-3-2-distant-metastases"
+    },
+    {
+      "level": 4,
+      "text": "7.3.3. Summary of evidence and recommendations for the treatment of metastatic upper urinary tract urothelial carcinoma",
+      "anchor": "#7-3-3-summary-of-evidence-and-recommendations-for-the-treatment-of-metastatic-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 2,
+      "text": "8. FOLLOW-UP",
+      "anchor": "#8-follow-up"
+    },
+    {
+      "level": 3,
+      "text": "8.1. Summary of evidence and recommendations for the follow-up of upper urinary tract urothelial carcinoma",
+      "anchor": "#8-1-summary-of-evidence-and-recommendations-for-the-follow-up-of-upper-urinary-tract-urothelial-carcinoma"
+    },
+    {
+      "level": 2,
+      "text": "9. QUALITY INDICATORS FOR THE MANAGEMENT OF UTUC",
+      "anchor": "#9-quality-indicators-for-the-management-of-utuc"
+    },
+    {
+      "level": 2,
+      "text": "10. REFERENCES",
+      "anchor": "#10-references"
+    },
+    {
+      "level": 2,
+      "text": "11. CONFLICT OF INTEREST",
+      "anchor": "#11-conflict-of-interest"
+    },
+    {
+      "level": 2,
+      "text": "12. CITATION INFORMATION",
+      "anchor": "#12-citation-information"
+    },
+    {
+      "level": 2,
+      "text": "13. COPYRIGHT AND TERMS OF USE",
+      "anchor": "#13-copyright-and-terms-of-use"
+    }
+  ],
+  "sections": [
+    {
+      "anchor": "#upper-urinary-tract-urothelial-cell-carcinoma",
+      "title": "Upper Urinary Tract Urothelial Cell Carcinoma",
+      "level": 1,
+      "text": "Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... 6. Risk Stratification Introduction Methods Epidemiology, Aetiology And Pathology Staging And Classification Systems Diagnosis Risk Stratification Disease Management Follow-up Quality Indicators For The Management Of Utuc References Conflict Of Interest Citation Information Copyright And Terms Of Use",
+      "tables": []
+    },
+    {
+      "anchor": "#6-risk-stratification",
+      "title": "6. RISK STRATIFICATION",
+      "level": 2,
+      "text": "",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-factors-for-clinical-decision-making",
+      "title": "6.1. Factors for clinical decision-making",
+      "level": 3,
+      "text": "The main prognostic factor in UTUC is pathological tumour stage [127,137-139]. Upper urinary tract UCs that invade the muscle have a poor prognosis. In a large Dutch series of UTUC, five-year CSS was 86% for non-muscle-invasive tumours, 70% for muscle-invasive organ-confined tumours and 44% for locally advanced tumours [18]. A contemporary Surveillance, Epidemiology, and End Results Program (SEER) analysis of RNUs for high-risk disease showed that five-year CSS was 86% for T1N0, 77% for T2N0, 63% for T3N0, and 39% for T4N0/T any N1-2, respectively [140].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-1-pathological-grade",
+      "title": "6.1.1. Pathological grade",
+      "level": 4,
+      "text": "Tumour grading reflects tumour aggressiveness and could serve as a surrogate predictor of disease progression. A higher tumour grade has been associated with high rates of disease recurrence and worse CSS following initial RNU [13,141]. In fact, histological grade is one of the most important surrogate markers for pathological staging in UTUC. Multiple studies have established a strong correlation between high-grade tumours and advanced pathological stages, particularly muscle-invasive disease (≥ pT2). Similarly, another study found that tumour grade is a reliable predictor of non-organ-confined disease, showing that high-grade tumours have a significantly higher likelihood of metastasis and is an independent predictor of CSS and RFS following RNU [13]. Consequently, histological grade serves as a critical factor in guiding clinical decisions, particularly when imaging and biopsy results are insufficient for accurate staging.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-2-histological-subtypes",
+      "title": "6.1.2. Histological subtypes",
+      "level": 4,
+      "text": "Histological subtypes are associated with worse CSS and OS [80]. The most-studied subtypes are micropapillary [81], squamous differentiation [142] and sarcomatoid [81], all of which are consistently associated with locally advanced disease and worse outcomes [77]. Patients harbouring histological subtypes should be recommended to undergo RNU after a shared decision-making process due to the higher risk of disease progression.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-3-local-invasion-on-computed-tomography",
+      "title": "6.1.3. Local invasion on computed tomography",
+      "level": 4,
+      "text": "Computed tomography urography remains the main tool for the initial diagnosis of UTUC. Several studies demonstrate that CT urography provides high diagnostic accuracy for detecting UTUC [101]. A meta-analysis reported that CT urography has a sensitivity of 92% and a specificity of 95% for identifying muscle-invasive disease [101]. Moreover, another study demonstrated that CT can accurately predict pathological stage, particularly when identifying peripelvic fat invasion and non-organ-confined tumours, which are critical indicators of advanced UTUC [143]. While biopsies may sometimes understage UTUC due to limited sample size, CT imaging offers a non-invasive and comprehensive assessment of tumour invasion, particularly in cases of large or deeply invasive lesions [143]. For local staging, CT urography can also provide additional information on local invasion into renal parenchyma, renal pelvis and periureteric tissue [144]. After adjusting for tumour size and hydronephrosis, local invasion on CT remains a significant risk factor for non-organ-confined disease [144]. These findings indicate that CT urography is a valuable modality in the preoperative assessment of UTUC, guiding appropriate treatment strategies based on tumour stage, particularly non-organ-confined tumours. However, its ability to differentiate Ta from T1 from T2 tumours remains low.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-4-multifocality",
+      "title": "6.1.4. Multifocality",
+      "level": 4,
+      "text": "Approximately 7-42% of UTUC patients have been reported to have multifocal tumours [145-149]. Patients with multifocal tumours are more likely to harbour advanced tumour stage and a worse prognosis despite treatment with RNU [145-149]. However, multifocal tumours can also be present in the setting of otherwise low-grade UTUC. It is important to note that the definition of multifocality varies among studies. Some studies consider the number of lesions [148] while others focus on tumour location (i.e. both renal pelvis and ureter) [145-147,149,150]. Therefore, tumour multifocality alone should not be used for risk stratification.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-5-hydroureteronephrosis",
+      "title": "6.1.5. Hydroureteronephrosis",
+      "level": 4,
+      "text": "Hydroureteronephrosis has been linked to advanced disease and poor prognosis in patients treated with RNU [102,151,152]. A meta-analysis of 22 studies involving 7,542 patients found preoperative hydroureteronephrosis to be significantly associated with ureteral tumour location, advanced tumour stage, and lymph node metastasis [153]. In addition, preoperative hydroureteronephrosis was independently associated with worse OS, CSS and disease-free survival (DFS) [153]. As for multifocality, it is important to note that the definition of hydronephrosis varies among studies with heterogeneity and potential confounding factors. Taking into consideration that some otherwise low-risk tumours might exhibit some degree of upper tract dilation, presence of signs of obstruction should be considered alongside other high-risk factors (see Figure 6.1).",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-6-tumour-size",
+      "title": "6.1.6. Tumour size",
+      "level": 4,
+      "text": "Increasing tumour size is linked to a higher risk of muscle-invasive and non-organ-confined disease in both ureteral and renal pelvis UTUC cases [154]. A meta-analysis of 32,292 patients confirmed that larger tumours are significantly associated with worse OS, CSS and DFS, as well as intravesical recurrence [154]. In renal pelvis UTUC, where the median tumour size ranges from 3.5 to 4.0cm, each 1cm increase in tumour size elevates the risk of harbouring muscle-invasive disease at RNU by 1.25 times [155]. A multi-institutional study with 932 patients suggested that a 2cm tumour size serves as the optimal threshold for identifying high-risk patients (> pT2 UTUC) [156]. However, measuring tumour size lacks standardisation, leading to inter-assessor variability. Overall, like tumour multifocality and hydroureteronephrosis, tumour size assessment suffers from heterogeneity and potential confounding factors. Tumour size should be considered a continuous variable associated with stage but is insufficient by itself for precise risk stratification.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-1-7-risk-stratification-for-clinical-decision-making",
+      "title": "6.1.7. Risk stratification for clinical decision-making",
+      "level": 4,
+      "text": "Figure 6.1 presents the factors to consider for risk stratification as well as the weight given to each factor. Grade remains the most important surrogate factor reflecting tumour stage and aggressiveness. The level of evidence to individually consider tumour size, multifocality and hydronephrosis as a surrogate for high-risk of progression remains low. Therefore, in the presence of low-grade disease associated with these factors, a shared decision-making process with the patient is important to agree on the therapeutic strategy (kidney-sparing strategy or RNU). Figure 6.1: Risk stratification of non-metastatic upper urinary tract urothelial carcinoma according to the risk of progression to a > pT2/non-organ-confined disease 1: All these factors must be present. 2: Any of these factors must be present. 3: In the presence of low-grade tumour, these factors are not strong predictors of invasive disease. CT = computed tomography; URS = ureteroscopy; UTUC = upper urinary tract urothelial carcinoma.",
+      "tables": []
+    },
+    {
+      "anchor": "#6-2-bladder-recurrence",
+      "title": "6.2. Bladder recurrence",
+      "level": 3,
+      "text": "A meta-analysis of available data has identified significant predictors of bladder recurrence after RNU [32]. Three categories of predictors for increased risk of bladder recurrence were proposed: Patient-specific factors, such as male sex, previous BC, smoking and preoperative chronic kidney disease. Tumour-specific factors, such as positive preoperative urinary cytology, tumour grade, ureteral location, multifocality, tumour diameter, invasive pT stage and necrosis [157,158]. Treatment-specific factors, such as laparoscopic approach, extravesical bladder cuff removal and positive surgical margins. In addition, the use of invasive diagnostic modalities, particularly URS with biopsy, have been associated with a higher risk of developing bladder recurrence after RNU [159-161].",
+      "tables": []
+    },
+    {
+      "anchor": "#6-3-summary-of-evidence-and-recommendation-for-the-prognosis-of-upper-urinary-tract-urothelial-carcinoma",
+      "title": "6.3. Summary of evidence and recommendation for the prognosis of upper urinary tract urothelial carcinoma",
+      "level": 3,
+      "text": "Summary of evidence LE Important prognostic factors for risk stratification include stage, grade, different histological subtypes, tumour size, multifocality and hydronephrosis. 3 Models are available to predict pT2/non-organ-confined disease and prognosis after RNU. 3 Patient, tumour and treatment-related factors impact risk of bladder recurrence after both kidney-sparing management and RNU. 3 Currently, no molecular biomarkers are validated for clinical use. 3 Recommendation Strength rating Use prognostic factors to risk-stratify patients for therapeutic guidance. Strong",
+      "tables": [
+        {
+          "rows": [
+            [
+              "Summary of evidence",
+              "LE"
+            ],
+            [
+              "Important prognostic factors for risk stratification include stage, grade, different histological subtypes, tumour size, multifocality and hydronephrosis.",
+              "3"
+            ],
+            [
+              "Models are available to predict pT2/non-organ-confined disease and prognosis after RNU.",
+              "3"
+            ],
+            [
+              "Patient, tumour and treatment-related factors impact risk of bladder recurrence after both kidney-sparing management and RNU.",
+              "3"
+            ],
+            [
+              "Currently, no molecular biomarkers are validated for clinical use.",
+              "3"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Recommendation",
+              "Strength rating"
+            ],
+            [
+              "Use prognostic factors to risk-stratify patients for therapeutic guidance.",
+              "Strong"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "tables_count": 2
+}
