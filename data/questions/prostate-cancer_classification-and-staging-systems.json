@@ -2,410 +2,304 @@
   "guideline": "prostate-cancer",
   "chapter": "classification-and-staging-systems",
   "url": "https://uroweb.org/guidelines/prostate-cancer/chapter/classification-and-staging-systems",
-  "question_count": 13,
+  "question_count": 10,
   "questions": [
     {
       "id": "prostate-cancer-classification-and-staging-systems-001",
-      "question": "Which Gleason grades were eliminated during the 2005 and 2014 ISUP consensus meetings?",
+      "question": "Which of the following is NOT listed as a main section in the EAU Guidelines on Prostate Cancer?",
       "options": [
         {
           "id": "A",
-          "text": "Gleason grades 3 and 4"
+          "text": "Classification And Staging Systems"
         },
         {
           "id": "B",
-          "text": "Gleason grades 1 and 2"
+          "text": "Diagnostic Evaluation"
         },
         {
           "id": "C",
-          "text": "Gleason grades 4 and 5"
+          "text": "Surgical Techniques"
         },
         {
           "id": "D",
-          "text": "Gleason grades 2 and 3"
+          "text": "Quality Of Life Outcomes In Prostate Cancer"
         }
       ],
-      "correct": "B",
-      "explanation": "The text explicitly states that 'in the 2005 and subsequent 2014 ISUP consensus meetings, Gleason grades 1 and 2 were eliminated.' This reduced the grading system from five grades to three grades (3, 4, and 5).",
-      "section": "4.3",
-      "section_title": "4.3. Clinically significant prostate cancer",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/classification-and-staging-systems#4-3-clinically-significant-prostate-cancer",
-      "difficulty": "easy",
-      "fact": "In the 2005 and subsequent 2014 ISUP consensus meetings, Gleason grades 1 and 2 were eliminated.",
+      "correct": 2,
+      "explanation": "The provided text lists the main sections of the EAU Guidelines as: Introduction, Methods, Epidemiology And Aetiology, Classification And Staging Systems, Diagnostic Evaluation, Treatment, Follow Up, and Quality Of Life Outcomes In Prostate Cancer. 'Surgical Techniques' is not mentioned as a main section.",
       "chapter": "classification-and-staging-systems",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#4-classification-and-staging-systems",
+      "section_title": "4. CLASSIFICATION AND STAGING SYSTEMS",
+      "source_text": "EAU Guidelines on Prostate Cancer - CLASSIFICATION AND STAGING SYSTEMS Science &amp; Publications About Become member Guidelines Prostate Cancer Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... Introduction Methods Epidemiology And Aetiology Classification And Staging Systems Diagnostic Evaluation Treatment Follow Up Quality Of Life Outcomes In Prostate Cancer R"
     },
     {
       "id": "prostate-cancer-classification-and-staging-systems-002",
-      "question": "According to the 2005 ISUP-modified Gleason score system, if only one pattern is present on biopsy, how is the Gleason score calculated?",
+      "question": "According to the table of contents provided, which section would contain information about TNM staging for prostate cancer?",
       "options": [
         {
           "id": "A",
-          "text": "The pattern is reported as a single number"
+          "text": "Diagnostic Evaluation"
         },
         {
           "id": "B",
-          "text": "The pattern must be doubled to yield the Gleason score"
+          "text": "Classification And Staging Systems"
         },
         {
           "id": "C",
-          "text": "The pattern is assigned a value of 6 automatically"
+          "text": "Epidemiology And Aetiology"
         },
         {
           "id": "D",
-          "text": "The highest possible score of 10 is assigned"
+          "text": "Treatment"
         }
       ],
-      "correct": "B",
-      "explanation": "The guideline text clearly states: 'If only one pattern is present, this pattern must be doubled to yield the GS.' This ensures the Gleason score always consists of two numbers representing primary and secondary patterns.",
-      "section": "4.3",
-      "section_title": "4.3. Clinically significant prostate cancer",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/classification-and-staging-systems#4-3-clinically-significant-prostate-cancer",
-      "difficulty": "medium",
-      "fact": "If only one pattern is present, this pattern must be doubled to yield the GS.",
+      "correct": 1,
+      "explanation": "The 'Classification And Staging Systems' section is listed in the table of contents as the appropriate location where TNM staging information would typically be found in prostate cancer guidelines.",
       "chapter": "classification-and-staging-systems",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#4-classification-and-staging-systems",
+      "section_title": "4. CLASSIFICATION AND STAGING SYSTEMS",
+      "source_text": "EAU Guidelines on Prostate Cancer - CLASSIFICATION AND STAGING SYSTEMS Science &amp; Publications About Become member Guidelines Prostate Cancer Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... Introduction Methods Epidemiology And Aetiology Classification And Staging Systems Diagnostic Evaluation Treatment Follow Up Quality Of Life Outcomes In Prostate Cancer R"
     },
     {
       "id": "prostate-cancer-classification-and-staging-systems-003",
-      "question": "In the ISUP 2014 grade group system, what grade group corresponds to a Gleason score of 7 (4+3)?",
+      "question": "According to the guidelines, clinical T stage should be based on which examination?",
       "options": [
         {
           "id": "A",
-          "text": "Grade group 1"
+          "text": "MRI findings"
         },
         {
           "id": "B",
-          "text": "Grade group 2"
+          "text": "PET/CT scan results"
         },
         {
           "id": "C",
-          "text": "Grade group 3"
+          "text": "Digital rectal examination (DRE) only"
         },
         {
           "id": "D",
-          "text": "Grade group 4"
+          "text": "Prostate-specific antigen (PSA) levels"
         }
       ],
-      "correct": "C",
-      "explanation": "According to Table 4.2 in the guideline, Gleason score 7 (4+3) corresponds to ISUP grade group 3. This distinguishes it from Gleason 7 (3+4) which is grade group 2, reflecting the prognostic significance of primary pattern 4 versus primary pattern 3.",
-      "section": "4.3",
-      "section_title": "4.3. Clinically significant prostate cancer",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/classification-and-staging-systems#4-3-clinically-significant-prostate-cancer",
-      "difficulty": "easy",
-      "fact": "Table 4.2 shows: Gleason 7 (4+3) corresponds to ISUP grade group 3.",
+      "correct": 2,
+      "explanation": "The text explicitly states that 'cT stage should be based on DRE findings and not on imaging.' It also notes that while imaging can provide additional information, clinical staging must be based on DRE only.",
       "chapter": "classification-and-staging-systems",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#4.2-gleason-score-and-international-society-of-urological-pathology-2019-grade",
+      "section_title": "4.2. Gleason score and International Society of Urological Pathology 2019 grade",
+      "source_text": "The objective of a tumour classification system is to combine patients with a similar clinical outcome. This enables the following: discussion regarding prognosis and treatment with patients; design of clinical trials on relatively homogeneous populations; comparison of diagnostic and treatment outcomes from different hospitals across the world; development of recommendations for the treatment of these patient populations. Throughout these Guidelines, the following are used: the Union for Intern"
     },
     {
       "id": "prostate-cancer-classification-and-staging-systems-004",
-      "question": "Which classification system does the EAU strongly recommend for staging prostate cancer (PCa)?",
+      "question": "According to the TNM classification provided, T1c is defined as which of the following?",
       "options": [
         {
           "id": "A",
-          "text": "Tumour, Node, Metastasis (TNM) classification"
+          "text": "Tumour incidental histological finding in more than 5% of tissue resected"
         },
         {
           "id": "B",
-          "text": "Gleason grading system"
+          "text": "Tumour incidental histological finding in 5% or less of tissue resected"
         },
         {
           "id": "C",
-          "text": "Whitmore-Jewett staging system"
+          "text": "Tumour identified by needle biopsy because of elevated PSA"
         },
         {
           "id": "D",
-          "text": "Partin tables"
+          "text": "Clinically apparent tumour that is palpable"
         }
       ],
-      "correct": "A",
-      "explanation": "The EAU guidelines strongly recommend using the Tumour, Node, Metastasis (TNM) classification for PCa staging, as stated in the classification and staging systems chapter.",
-      "section": "About EAU",
-      "section_title": "About EAU",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/classification-and-staging-systems#about-eau",
-      "difficulty": "easy",
-      "fact": "Use the Tumour, Node, Metastasis (TNM) classification for PCa staging. Strong recommendation.",
+      "correct": 2,
+      "explanation": "The TNM table clearly defines T1c as 'Tumour identified by needle biopsy (e.g. because of elevated prostate-specific antigen [PSA]).' This distinguishes it from T1a and T1b, which are incidental findings during tissue resection.",
       "chapter": "classification-and-staging-systems",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#4.2-gleason-score-and-international-society-of-urological-pathology-2019-grade",
+      "section_title": "4.2. Gleason score and International Society of Urological Pathology 2019 grade",
+      "source_text": "The objective of a tumour classification system is to combine patients with a similar clinical outcome. This enables the following: discussion regarding prognosis and treatment with patients; design of clinical trials on relatively homogeneous populations; comparison of diagnostic and treatment outcomes from different hospitals across the world; development of recommendations for the treatment of these patient populations. Throughout these Guidelines, the following are used: the Union for Intern"
     },
     {
       "id": "prostate-cancer-classification-and-staging-systems-005",
-      "question": "According to EAU guidelines, what should clinical stage be primarily based on?",
+      "question": "What happened to Gleason grades 1 and 2 at the 2005 ISUP consensus meeting?",
       "options": [
         {
           "id": "A",
-          "text": "Digital rectal examination only"
+          "text": "They were eliminated from the grading system"
         },
         {
           "id": "B",
-          "text": "MRI imaging findings"
+          "text": "They were combined into a single new grade"
         },
         {
           "id": "C",
-          "text": "PSA levels"
+          "text": "They were retained but redefined as lower grades"
         },
         {
           "id": "D",
-          "text": "Biopsy results"
+          "text": "They were renamed as Grade Group 1"
         }
       ],
-      "correct": "A",
-      "explanation": "The guidelines specify that clinical stage should be based on digital rectal examination only, with additional staging information from imaging or pathology reported separately.",
-      "section": "About EAU",
-      "section_title": "About EAU",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/classification-and-staging-systems#about-eau",
-      "difficulty": "easy",
-      "fact": "Clinical stage should be based on digital rectal examination only; additional staging information based on imaging or pathology should be reported separately. Strong recommendation.",
+      "correct": 0,
+      "explanation": "The text states that at the 2005 and subsequent 2014 ISUP consensus meetings, Gleason grades 1 and 2 were eliminated from the system.",
       "chapter": "classification-and-staging-systems",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#4.3-clinically-significant-prostate-cancer",
+      "section_title": "4.3. Clinically significant prostate cancer",
+      "source_text": "In the original Gleason grading system, five Gleason grades (ranging from 1 to 5) were distinguished based on histological tumour architecture, but in the 2005 and subsequent 2014 ISUP consensus meetings, Gleason grades 1 and 2 were eliminated [116,117]. The 2005 ISUP-modified Gleason score (GS) of biopsy-detected PCa comprises the Gleason grade of the most extensive (primary) pattern, plus the second most common (secondary) pattern, if two are present. If only one pattern is present, this patte"
     },
     {
       "id": "prostate-cancer-classification-and-staging-systems-006",
-      "question": "Which grading system does the EAU strongly recommend for prostate cancer?",
+      "question": "What distinguishes ISUP Grade Group 2 from Grade Group 3?",
       "options": [
         {
           "id": "A",
-          "text": "ISUP 2019 system"
+          "text": "The total numerical sum of the Gleason patterns"
         },
         {
           "id": "B",
-          "text": "Gleason 1974 original system"
+          "text": "The percentage of pattern 4 in the biopsy"
         },
         {
           "id": "C",
-          "text": "WHO 2016 classification"
+          "text": "The order of the primary and secondary patterns (3+4 vs 4+3)"
         },
         {
           "id": "D",
-          "text": "AJCC grading system"
+          "text": "The presence of cribriform architecture"
         }
       ],
-      "correct": "A",
-      "explanation": "The EAU guidelines strongly recommend using the International Society of Urological Pathology (ISUP) 2019 system for grading prostate cancer.",
-      "section": "About EAU",
-      "section_title": "About EAU",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/classification-and-staging-systems#about-eau",
-      "difficulty": "easy",
-      "fact": "Use the International Society of Urological Pathology (ISUP) 2019 system for grading PCa. Strong recommendation.",
+      "correct": 2,
+      "explanation": "According to the table, Gleason score 7 (3+4) corresponds to ISUP Grade Group 2, while Gleason score 7 (4+3) corresponds to ISUP Grade Group 3. The distinction is based on which pattern is primary versus secondary, not on the total sum or percentage.",
       "chapter": "classification-and-staging-systems",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#4.3-clinically-significant-prostate-cancer",
+      "section_title": "4.3. Clinically significant prostate cancer",
+      "source_text": "In the original Gleason grading system, five Gleason grades (ranging from 1 to 5) were distinguished based on histological tumour architecture, but in the 2005 and subsequent 2014 ISUP consensus meetings, Gleason grades 1 and 2 were eliminated [116,117]. The 2005 ISUP-modified Gleason score (GS) of biopsy-detected PCa comprises the Gleason grade of the most extensive (primary) pattern, plus the second most common (secondary) pattern, if two are present. If only one pattern is present, this patte"
     },
     {
       "id": "prostate-cancer-classification-and-staging-systems-007",
-      "question": "In men with ISUP Grade Group 1 disease at radical prostatectomy, what was the rate of extraprostatic extension (EPE) in large studies?",
+      "question": "According to the guideline, what is the recommended oncological follow-up for ISUP GG 1 disease found at radical prostatectomy (RP) specimens?",
       "options": [
         {
           "id": "A",
-          "text": "0%"
+          "text": "Long-term PSA monitoring and imaging every 6 months"
         },
         {
           "id": "B",
-          "text": "0.3%"
+          "text": "Close surveillance with annual biopsy"
         },
         {
           "id": "C",
-          "text": "3.5%"
+          "text": "No oncological follow-up needed"
         },
         {
           "id": "D",
-          "text": "25%"
+          "text": "Immediate adjuvant therapy to prevent progression"
         }
       ],
-      "correct": "B",
-      "explanation": "The text explicitly states that in large studies of RP specimens with only ISUP GG 1 disease, EPE occurred in 0.3% of cases. This low rate supports the classification of ISUP GG 1 at RP as clinically insignificant.",
-      "section": "4.4",
-      "section_title": "4.4. Prognostic relevance of stratification",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/classification-and-staging-systems#4-4-prognostic-relevance-of-stratification",
-      "difficulty": "easy",
-      "fact": "In large studies of RP specimens with only ISUP GG 1 disease, EPE (0.3%) and biochemical recurrence (3.5%) were rare, and seminal vesicle (SV) invasion or lymph node (LN) metastasis did not occur at all.",
+      "correct": 2,
+      "explanation": "The text states that ISUP GG 1 disease at RP itself can be considered clinically insignificant and does not need oncological follow-up. Studies showed EPE occurred in only 0.3%, biochemical recurrence in 3.5%, and no seminal vesicle invasion or lymph node metastasis.",
       "chapter": "classification-and-staging-systems",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#4.4-prognostic-relevance-of-stratification",
+      "section_title": "4.4. Prognostic relevance of stratification",
+      "source_text": "The descriptor ‘clinically significant’ is widely used to differentiate PCa that may cause morbidity or death in a specific patient from types of PCa that rarely do. This distinction is particularly important as insignificant PCa is common [7]. Unless this distinction is made, such cancers are at high risk of being overtreated, with the treatment itself risking harmful side effects to patients. The overtreatment of insignificant PCas has also been criticised as a major drawback of population-bas"
     },
     {
       "id": "prostate-cancer-classification-and-staging-systems-008",
-      "question": "According to the Danish population-based registry study, what was the 15-year prostate cancer-specific mortality (PCSM) for men with localised biopsy ISUP GG 1 who were managed with active surveillance?",
+      "question": "In men with a visible MRI lesion but only ISUP GG 1 at biopsy, which combination of factors should raise particular concern about possible sampling error missing a higher-grade cancer?",
       "options": [
         {
           "id": "A",
-          "text": "1-4%"
+          "text": "Low PSA density and low tumor volume"
         },
         {
           "id": "B",
-          "text": "5.5%"
+          "text": "High PSA density, high pathological biopsy tumor volume, and visible MRI lesion"
         },
         {
           "id": "C",
-          "text": "14%"
+          "text": "Stable PSA levels and small tumor diameter"
         },
         {
           "id": "D",
-          "text": "20%"
+          "text": "Absence of PIRADS 5 lesions and normal DRE"
         }
       ],
-      "correct": "B",
-      "explanation": "The text explicitly states that in the Danish registry study, 15-year PCSM was 5.5% for men with localised biopsy ISUP GG 1 initially managed by active surveillance, compared to 1-4% for those treated by RP or RT and 14% for watchful waiting.",
-      "section": "4.4",
-      "section_title": "4.4. Prognostic relevance of stratification",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/classification-and-staging-systems#4-4-prognostic-relevance-of-stratification",
-      "difficulty": "medium",
-      "fact": "In a Danish population-based registry study including men with localised biopsy ISUP GG 1 PCa diagnosed after 2006, 15-year PCSM was 1-4% for those initially treated by RP or RT, 5.5% for those on AS, and 14% for those commenced on WW.",
+      "correct": 1,
+      "explanation": "The text explicitly states that sampling error should be considered when there is high PSA density, high pathological biopsy tumor volume, and a visible lesion at MRI, but only ISUP GG 1 at biopsy.",
       "chapter": "classification-and-staging-systems",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#4.4-prognostic-relevance-of-stratification",
+      "section_title": "4.4. Prognostic relevance of stratification",
+      "source_text": "The descriptor ‘clinically significant’ is widely used to differentiate PCa that may cause morbidity or death in a specific patient from types of PCa that rarely do. This distinction is particularly important as insignificant PCa is common [7]. Unless this distinction is made, such cancers are at high risk of being overtreated, with the treatment itself risking harmful side effects to patients. The overtreatment of insignificant PCas has also been criticised as a major drawback of population-bas"
     },
     {
       "id": "prostate-cancer-classification-and-staging-systems-009",
-      "question": "The introduction of the ISUP grading modification in 2005 led to what percentage of pre-ISUP 2005 Gleason Score 6 tumours being upgraded to Gleason Score 7 or higher?",
+      "question": "The Cambridge Prognostic Groups five-tier model is based on which of the following factors?",
       "options": [
         {
           "id": "A",
-          "text": "5%"
+          "text": "TNM stage, Gleason score, and patient age"
         },
         {
           "id": "B",
-          "text": "10%"
+          "text": "ISUP GG, PSA, and cT stage"
         },
         {
           "id": "C",
-          "text": "20%"
+          "text": "PSA, biopsy Gleason score, and tumour volume"
         },
         {
           "id": "D",
-          "text": "35%"
+          "text": "mpMRI findings, Genomic Prostate Score, and ISUP GG"
         }
       ],
-      "correct": "C",
-      "explanation": "The text explicitly states that the introduction of the ISUP grading modification in 2005 led to 20% of pre-ISUP 2005 GS 6 tumours being upgraded to GS 7 or higher. This grade shift must be considered when interpreting older studies.",
-      "section": "4.4",
-      "section_title": "4.4. Prognostic relevance of stratification",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/classification-and-staging-systems#4-4-prognostic-relevance-of-stratification",
-      "difficulty": "easy",
-      "fact": "Modifications in PCa grading have led to a grade shift during the past twenty years. For example, the introduction of the ISUP grading modification in 2005 led to 20% of pre-ISUP 2005 GS 6 tumours being upgraded to GS 7 or higher.",
+      "correct": 1,
+      "explanation": "The text explicitly states that the Cambridge Prognostic Groups five-tier model is based on ISUP GG, PSA and cT stage. This model was shown to have better discriminative performance than the three-tier EAU risk groups for prostate cancer-specific mortality (PCSM).",
       "chapter": "classification-and-staging-systems",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#4.5-recommendations-for-classification-and-staging-systems",
+      "section_title": "4.5. Recommendations for classification and staging systems",
+      "source_text": "Tumour, Node, Metastasis (TNM) staging is a schematic representation of anatomic tumour extent and pathological grade is reflective of intrinsic features of tumour aggressiveness. The EAU risk group classification combines clinical information on tumour extent, PSA, and pathology from biopsy (Table 4.3). A more precise stratification of the clinically heterogeneous subset of intermediate-risk group patients could provide a better framework for their management [139,140]. The Cambridge Prognostic"
     },
     {
       "id": "prostate-cancer-classification-and-staging-systems-010",
-      "question": "The EAU risk classification is based on which classification system?",
+      "question": "According to the text, which of the following has shown better performance in predicting post-treatment biochemical recurrence (BCR) than the former three-tier EAU, NCCN and CAPRA models?",
       "options": [
         {
           "id": "A",
-          "text": "D'Amico risk classification"
+          "text": "TNM staging combined with CAPRA score"
         },
         {
           "id": "B",
-          "text": "NCCN risk classification"
+          "text": "EAU risk group classification alone"
         },
         {
           "id": "C",
-          "text": "Cambridge Prognostic Groups"
+          "text": "Risk stratification incorporating 17-gene GPS, CR/IDC, and mpMRI findings"
         },
         {
           "id": "D",
-          "text": "UICC 8th edition TNM staging"
+          "text": "Cambridge Prognostic Groups with additional clinical parameters"
         }
       ],
-      "correct": "A",
-      "explanation": "The text explicitly states 'The EAU risk classification is based on the D'Amico risk classification grouping patients with a similar risk of biochemical recurrence (BCR) after radical prostatectomy (RP) or external beam radiotherapy (EBRT).' Section 4.2.",
-      "section": "4.2",
-      "section_title": "4.2. Gleason score and International Society of Urological Pathology 2019 grade",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/classification-and-staging-systems#4-2-gleason-score-and-international-society-of-urological-pathology-2019-grade",
-      "difficulty": "easy",
-      "fact": "The EAU risk classification is based on the D'Amico risk classification grouping patients with a similar risk of biochemical recurrence (BCR) after radical prostatectomy (RP) or external beam radiotherapy (EBRT).",
+      "correct": 2,
+      "explanation": "The text explicitly states that risk stratifications incorporating the 17-gene Genomic Prostate Score (GPS), invasive cribriform and/or intraductal carcinoma (CR/IDC), and mpMRI findings have shown better performance in predicting post-treatment BCR than the former three-tier EAU, NCCN and CAPRA models.",
       "chapter": "classification-and-staging-systems",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-classification-and-staging-systems-011",
-      "question": "According to the TNM classification provided, a nonpalpable prostate cancer with bilateral positive biopsies and extraprostatic extension on MRI should be categorized as:",
-      "options": [
-        {
-          "id": "A",
-          "text": "cT3a with imaging findings included in staging"
-        },
-        {
-          "id": "B",
-          "text": "cT1c with a separate report of MRI findings"
-        },
-        {
-          "id": "C",
-          "text": "cT2a with EPE documented as cN1"
-        },
-        {
-          "id": "D",
-          "text": "cT3b based on MRI evidence of extension"
-        }
-      ],
-      "correct": "B",
-      "explanation": "The text explicitly states 'A nonpalpable PCa with bilateral positive biopsies and extraprostatic extension (EPE) on MRI would therefore be categorised as cT1c with a separate report of MRI findings' because cT stage should be based on DRE findings and not on imaging. Section 4.2.",
-      "section": "4.2",
-      "section_title": "4.2. Gleason score and International Society of Urological Pathology 2019 grade",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/classification-and-staging-systems#4-2-gleason-score-and-international-society-of-urological-pathology-2019-grade",
-      "difficulty": "medium",
-      "fact": "A nonpalpable PCa with bilateral positive biopsies and extraprostatic extension (EPE) on MRI would therefore be categorised as cT1c with a separate report of MRI findings.",
-      "chapter": "classification-and-staging-systems",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-classification-and-staging-systems-012",
-      "question": "In the EAU guidelines, the intermediate-risk group is recommended to be separated based on which parameters?",
-      "options": [
-        {
-          "id": "A",
-          "text": "PSA and clinical T-stage"
-        },
-        {
-          "id": "B",
-          "text": "PSA and ISUP Grade Group"
-        },
-        {
-          "id": "C",
-          "text": "Gleason score and PSA density"
-        },
-        {
-          "id": "D",
-          "text": "ISUP Grade Group and DRE findings"
-        }
-      ],
-      "correct": "B",
-      "explanation": "The text explicitly states 'separation of the EAU intermediate-risk group into favourable and unfavourable intermediate-risk based on PSA and ISUP GG is recommended.' Section 4.2.",
-      "section": "4.2",
-      "section_title": "4.2. Gleason score and International Society of Urological Pathology 2019 grade",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/classification-and-staging-systems#4-2-gleason-score-and-international-society-of-urological-pathology-2019-grade",
-      "difficulty": "easy",
-      "fact": "Separation of the EAU intermediate-risk group into favourable and unfavourable intermediate-risk based on PSA and ISUP GG is recommended.",
-      "chapter": "classification-and-staging-systems",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-classification-and-staging-systems-013",
-      "question": "When more than one site of distant metastasis is present in prostate cancer, which rule applies according to the TNM classification?",
-      "options": [
-        {
-          "id": "A",
-          "text": "The least advanced category is used to determine staging"
-        },
-        {
-          "id": "B",
-          "text": "All sites of metastasis are documented separately"
-        },
-        {
-          "id": "C",
-          "text": "The most advanced category is used"
-        },
-        {
-          "id": "D",
-          "text": "M1c is always assigned regardless of sites present"
-        }
-      ],
-      "correct": "C",
-      "explanation": "The text explicitly states 'When more than one site of metastasis is present, the most advanced category is used' and '(p)M1c is the most advanced category.' Section 4.2, Table 4.1 footnote.",
-      "section": "4.2",
-      "section_title": "4.2. Gleason score and International Society of Urological Pathology 2019 grade",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/classification-and-staging-systems#4-2-gleason-score-and-international-society-of-urological-pathology-2019-grade",
-      "difficulty": "easy",
-      "fact": "When more than one site of metastasis is present, the most advanced category is used. (p)M1c is the most advanced category.",
-      "chapter": "classification-and-staging-systems",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#4.5-recommendations-for-classification-and-staging-systems",
+      "section_title": "4.5. Recommendations for classification and staging systems",
+      "source_text": "Tumour, Node, Metastasis (TNM) staging is a schematic representation of anatomic tumour extent and pathological grade is reflective of intrinsic features of tumour aggressiveness. The EAU risk group classification combines clinical information on tumour extent, PSA, and pathology from biopsy (Table 4.3). A more precise stratification of the clinically heterogeneous subset of intermediate-risk group patients could provide a better framework for their management [139,140]. The Cambridge Prognostic"
     }
+  ],
+  "processed_anchors": [
+    "#4.5-recommendations-for-classification-and-staging-systems",
+    "#4-classification-and-staging-systems",
+    "#4.2-gleason-score-and-international-society-of-urological-pathology-2019-grade",
+    "#4.4-prognostic-relevance-of-stratification",
+    "#4.3-clinically-significant-prostate-cancer"
   ]
 }

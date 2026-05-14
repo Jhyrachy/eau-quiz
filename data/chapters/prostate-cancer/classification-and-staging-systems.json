@@ -225,34 +225,15 @@
       "anchor": "#about-eau",
       "nav_anchor": "#about-eau",
       "title": "About EAU",
-      "text": "Recommendations Strength rating Use the Tumour, Node, Metastasis (TNM) classification for PCa staging. Strong Clinical stage should be based on digital rectal examination only; additional staging information based on imaging or pathology should be reported separately. Strong Use the International Society of Urological Pathology (ISUP) 2019 system for grading PCa. Strong Ask Guidelines Bot",
-      "tables": [
-        [
-          [
-            "Recommendations",
-            "Strength rating"
-          ],
-          [
-            "Use the Tumour, Node, Metastasis (TNM) classification for PCa staging.",
-            "Strong"
-          ],
-          [
-            "Clinical stage should be based on digital rectal examination only; additional staging information based on imaging or pathology should be reported separately.",
-            "Strong"
-          ],
-          [
-            "Use the International Society of Urological Pathology (ISUP) 2019 system for grading PCa.",
-            "Strong"
-          ]
-        ]
-      ],
+      "text": "Who we are How we work Become a member",
+      "tables": [],
       "level": 5
     },
     {
       "anchor": "#services",
       "nav_anchor": "#services",
       "title": "Services",
-      "text": "Who we are How we work Become a member",
+      "text": "MyEAU Congress registrations Abstract submission",
       "tables": [],
       "level": 5
     },
@@ -260,7 +241,7 @@
       "anchor": "#media",
       "nav_anchor": "#media",
       "title": "Media",
-      "text": "MyEAU Congress registrations Abstract submission",
+      "text": "EAU News EAU Newsletter EAU Press Releases",
       "tables": [],
       "level": 5
     },
@@ -268,7 +249,7 @@
       "anchor": "#contact",
       "nav_anchor": "#contact",
       "title": "Contact",
-      "text": "EAU News EAU Newsletter EAU Press Releases",
+      "text": "",
       "tables": [],
       "level": 5
     }
@@ -311,5 +292,5 @@
       "text": "4.5. Recommendations for classification and staging systems"
     }
   ],
-  "scraped_at": "2026-05-13T18:37:53Z"
+  "scraped_at": "2026-05-14T00:19:03Z"
 }

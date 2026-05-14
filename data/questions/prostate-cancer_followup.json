@@ -2,631 +2,417 @@
   "guideline": "prostate-cancer",
   "chapter": "followup",
   "url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup",
-  "question_count": 78,
+  "question_count": 56,
   "questions": [
     {
-      "id": "prostate-cancer-followup-001",
-      "question": "According to the guideline, how should patients included in an AS (Active Surveillance) programme be monitored?",
+      "id": "prostate-cancer-followup-206",
+      "question": "Which of the following sections is explicitly listed in the EAU Guidelines on Prostate Cancer navigation menu?",
       "options": [
         {
           "id": "A",
-          "text": "According to the recommendations presented in Section 6.2.1.c"
+          "text": "Follow Up"
         },
         {
           "id": "B",
-          "text": "According to annual PSA testing only"
+          "text": "Active Surveillance Protocols"
         },
         {
           "id": "C",
-          "text": "According to the recommendations in Section 7.1"
+          "text": "Clinical Trial Design"
         },
         {
           "id": "D",
-          "text": "According to quarterly clinical examinations"
+          "text": "Patient Support Groups"
         }
       ],
-      "correct": "A",
-      "explanation": "Section 7.3 explicitly states that patients included in an AS programme must be monitored according to the recommendations presented in Section 6.2.1.c.",
-      "section": "7.3",
-      "section_title": "7.3. Follow-up: After local treatment with curative intent",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "easy",
-      "fact": "Patients included in an AS programme must be monitored according to the recommendations presented in Section 6.2.1.c.",
+      "correct": 0,
+      "explanation": "The EAU Guidelines navigation explicitly lists 'Follow Up' as one of the main sections, while the other options are not mentioned in the provided text.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#7-follow-up",
+      "section_title": "7. FOLLOW UP",
+      "source_text": "EAU Guidelines on Prostate Cancer - Follow-up - Uroweb Science &amp; Publications About Become member Guidelines Prostate Cancer Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... Introduction Methods Epidemiology And Aetiology Classification And Staging Systems Diagnostic Evaluation Treatment Follow Up Quality Of Life Outcomes In Prostate Cancer References Confli"
     },
     {
-      "id": "prostate-cancer-followup-002",
-      "question": "Which of the following is classified as local treatment with curative intent according to the EAU guidelines?",
+      "id": "prostate-cancer-followup-207",
+      "question": "Which section is NOT among those explicitly mentioned in the EAU Guidelines on Prostate Cancer table of contents?",
       "options": [
         {
           "id": "A",
-          "text": "Radical prostatectomy (RP) or radiotherapy (RT), including IMRT plus IGRT, LDR-BT or HDR-BT, with or without hormonal therapy"
+          "text": "Epidemiology And Aetiology"
         },
         {
           "id": "B",
-          "text": "High-intensity focused ultrasound (HIFU) or cryosurgery"
+          "text": "Quality Of Life Outcomes In Prostate Cancer"
         },
         {
           "id": "C",
-          "text": "Focal therapy using laser ablation"
+          "text": "Conflict Of Interest"
         },
         {
           "id": "D",
-          "text": "Androgen deprivation therapy as monotherapy"
+          "text": "Surgical Outcomes"
         }
       ],
-      "correct": "A",
-      "explanation": "According to Section 7.3.2, local treatment is explicitly defined as RP or RT, including IMRT plus IGRT, LDR-BT or HDR-BT, or any combination including neoadjuvant and adjuvant hormonal therapy. HIFU, cryosurgery and focal therapy are classified as unestablished alternative treatments.",
-      "section": "7.3.2",
-      "section_title": "7.3.2. Why follow-up?",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "easy",
-      "fact": "Local treatment is defined as RP or RT, either by IMRT plus IGRT or LDR- or HDR-BT or any combination of these, including neoadjuvant and adjuvant hormonal therapy.",
+      "correct": 3,
+      "explanation": "The text explicitly mentions 'Epidemiology And Aetiology', 'Quality Of Life Outcomes In Prostate Cancer', and 'Conflict Of Interest' as sections, but 'Surgical Outcomes' is not listed in the provided content.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#7-follow-up",
+      "section_title": "7. FOLLOW UP",
+      "source_text": "EAU Guidelines on Prostate Cancer - Follow-up - Uroweb Science &amp; Publications About Become member Guidelines Prostate Cancer Want to read the guideline in your own time? Download the PDF Download full guideline Looking for a quick overview? Check the pocket guidelines. Download pocket guidelines Searching... Introduction Methods Epidemiology And Aetiology Classification And Staging Systems Diagnostic Evaluation Treatment Follow Up Quality Of Life Outcomes In Prostate Cancer References Confli"
     },
     {
-      "id": "prostate-cancer-followup-003",
-      "question": "What is generally considered a sign of disease recurrence following local treatment for prostate cancer?",
+      "id": "prostate-cancer-followup-208",
+      "question": "According to the guideline text, which of the following is a stated rationale for following up prostate cancer patients?",
       "options": [
         {
           "id": "A",
-          "text": "A confirmed rising PSA"
+          "text": "To perform regular bone imaging to detect metastases"
         },
         {
           "id": "B",
-          "text": "A single elevated PSA value"
+          "text": "To assess immediate and long-term oncological results"
         },
         {
           "id": "C",
-          "text": "MRI-detected suspicious lesions"
+          "text": "To monitor the patient's family history of cancer"
         },
         {
           "id": "D",
-          "text": "Positive digital rectal examination findings"
+          "text": "To schedule routine CT scans for staging purposes"
         }
       ],
-      "correct": "A",
-      "explanation": "Section 7.3.2 explicitly states that 'a confirmed rising PSA is considered a sign of disease recurrence'. This is the defining criterion mentioned for identifying recurrence.",
-      "section": "7.3.2",
-      "section_title": "7.3.2. Why follow-up?",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "easy",
-      "fact": "In general, a confirmed rising PSA is considered a sign of disease recurrence.",
+      "correct": 1,
+      "explanation": "The text explicitly states that the rationale for follow-up is to 'assess immediate and long-term oncological results, to ensure treatment compliance, and to allow initiation of further therapy, when appropriate.' Bone imaging, family history monitoring, and CT staging are not mentioned in the text.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#7.1-watchful-waiting",
+      "section_title": "7.1. Watchful waiting",
+      "source_text": "The rationale for following up patients is to assess immediate and long-term oncological results, to ensure treatment compliance, and to allow initiation of further therapy, when appropriate. In addition, follow-up allows monitoring of side effects or complications of therapy, functional outcomes and an opportunity to provide psychological support to PCa survivors, all of which is covered in Chapter 8. For patients, the most critical aspect of PCa is the diagnosis, the ensuing treatment and foll"
     },
     {
-      "id": "prostate-cancer-followup-004",
-      "question": "How do unestablished alternative treatments such as HIFU, cryosurgery and focal therapy follow-up recommendations?",
+      "id": "prostate-cancer-followup-209",
+      "question": "What does the guideline emphasize as essential regarding patient preparation for follow-up?",
       "options": [
         {
           "id": "A",
-          "text": "They follow the general principles presented in the follow-up section"
+          "text": "Discussing with family members about treatment decisions"
         },
         {
           "id": "B",
-          "text": "They require more intensive monitoring than conventional local treatments"
+          "text": "Reviewing the costs and insurance coverage of procedures"
         },
         {
           "id": "C",
-          "text": "They have dedicated separate follow-up protocols"
+          "text": "Preparing patients for various potential outcomes of follow-up, e.g. PSA levels, and what to expect"
         },
         {
           "id": "D",
-          "text": "They do not require routine follow-up"
+          "text": "Establishing contact with patient support groups"
         }
       ],
-      "correct": "A",
-      "explanation": "According to Section 7.3.2, unestablished alternative treatments including HIFU, cryosurgery and focal therapy options do follow the general principles as presented in this section, despite not being classified as established local treatments.",
-      "section": "7.3.2",
-      "section_title": "7.3.2. Why follow-up?",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "medium",
-      "fact": "Unestablished alternative treatments such as HIFU, cryosurgery and focal therapy options do follow the general principles as presented in this section.",
+      "correct": 2,
+      "explanation": "The text explicitly states that 'the patient must be prepared for various potential outcomes of the follow-up, e.g. PSA levels, and what to expect from these.' The other options are plausible aspects of cancer care but are not mentioned in the provided text.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#7.1-watchful-waiting",
+      "section_title": "7.1. Watchful waiting",
+      "source_text": "The rationale for following up patients is to assess immediate and long-term oncological results, to ensure treatment compliance, and to allow initiation of further therapy, when appropriate. In addition, follow-up allows monitoring of side effects or complications of therapy, functional outcomes and an opportunity to provide psychological support to PCa survivors, all of which is covered in Chapter 8. For patients, the most critical aspect of PCa is the diagnosis, the ensuing treatment and foll"
     },
     {
-      "id": "prostate-cancer-followup-005",
-      "question": "What type of management does watchful waiting refer to according to the EAU guidelines?",
+      "id": "prostate-cancer-followup-210",
+      "question": "According to the guideline, watchful waiting is indicated for which type of patients?",
       "options": [
         {
           "id": "A",
-          "text": "Conservative management"
-        },
-        {
-          "id": "B",
-          "text": "Curative treatment"
-        },
-        {
-          "id": "C",
-          "text": "Active intervention"
-        },
-        {
-          "id": "D",
-          "text": "Radical therapy"
-        }
-      ],
-      "correct": "A",
-      "explanation": "The guideline text explicitly states that 'Watchful waiting refers to conservative management for patients deemed unsuitable for curative treatment from the outset.'",
-      "section": "7.2",
-      "section_title": "7.2. Active surveillance strategy",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-2-active-surveillance-strategy",
-      "difficulty": "easy",
-      "fact": "Watchful waiting refers to conservative management",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-006",
-      "question": "At what point are patients on watchful waiting managed with palliative treatment according to their symptoms?",
-      "options": [
-        {
-          "id": "A",
-          "text": "From the time of initial diagnosis"
-        },
-        {
-          "id": "B",
-          "text": "When local or systemic progression with disease-related complaints develops"
-        },
-        {
-          "id": "C",
-          "text": "When PSA levels begin to rise"
-        },
-        {
-          "id": "D",
-          "text": "Only after curative treatment failure"
-        }
-      ],
-      "correct": "B",
-      "explanation": "The guideline specifies that patients are clinically 'watched' for the development of local or systemic progression with (imminent) disease-related complaints, at which stage they are then treated palliatively according to their symptoms.",
-      "section": "7.2",
-      "section_title": "7.2. Active surveillance strategy",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-2-active-surveillance-strategy",
-      "difficulty": "medium",
-      "fact": "Palliative treatment is initiated upon development of local or systemic progression with disease-related complaints",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-007",
-      "question": "Which patients are considered suitable for watchful waiting according to the guideline?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Patients with aggressive disease requiring immediate treatment"
-        },
-        {
-          "id": "B",
-          "text": "Patients with localised disease suitable for curative treatment"
-        },
-        {
-          "id": "C",
           "text": "Patients deemed unsuitable for curative treatment from the outset"
         },
         {
+          "id": "B",
+          "text": "Patients with early-stage disease seeking active intervention"
+        },
+        {
+          "id": "C",
+          "text": "Patients who have failed previous curative treatments"
+        },
+        {
           "id": "D",
-          "text": "Patients with biochemical recurrence after initial therapy"
+          "text": "Patients with metastatic disease requiring immediate chemotherapy"
         }
       ],
-      "correct": "C",
-      "explanation": "The guideline text clearly states that watchful waiting is for 'patients deemed unsuitable for curative treatment from the outset.'",
-      "section": "7.2",
+      "correct": 0,
+      "explanation": "The text explicitly states that watchful waiting refers to conservative management for patients 'deemed unsuitable for curative treatment from the outset.' The other options describe different patient populations not mentioned in the context of watchful waiting.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.2-active-surveillance-strategy",
       "section_title": "7.2. Active surveillance strategy",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-2-active-surveillance-strategy",
-      "difficulty": "easy",
-      "fact": "Watchful waiting is for patients unsuitable for curative treatment from the outset",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "source_text": "Watchful waiting refers to conservative management for patients deemed unsuitable for curative treatment from the outset, and patients are clinically &lsquo;watched&rsquo; for the development of local or systemic progression with (imminent) disease-related complaints, at which stage they are then treated palliatively according to their symptoms to maintain or improve QoL (see Section 6.2.1)."
     },
     {
-      "id": "prostate-cancer-followup-008",
-      "question": "What are the primary focuses of the first post-treatment clinic visit after curative prostate cancer treatment?",
+      "id": "prostate-cancer-followup-211",
+      "question": "What is the primary goal of palliative treatment initiated during watchful waiting?",
       "options": [
         {
           "id": "A",
-          "text": "Detecting treatment-related complications and assisting patients in coping with their new situation"
+          "text": "To maintain or improve quality of life"
         },
         {
           "id": "B",
-          "text": "Scheduling routine imaging scans and conducting PSA testing"
+          "text": "To achieve complete disease remission"
         },
         {
           "id": "C",
-          "text": "Discussing long-term survival statistics and diet recommendations"
+          "text": "To prevent any future disease recurrence"
         },
         {
           "id": "D",
-          "text": "Planning adjuvant therapy and arranging support group referrals"
+          "text": "To reduce PSA levels to normal range"
         }
       ],
-      "correct": "A",
-      "explanation": "The guideline states in section 7.3.3 that the first post-treatment clinic visit focuses on detecting treatment-related complications and assisting patients in coping with their new situation, apart from providing information on the pathological analysis.",
-      "section": "7.3.3",
+      "correct": 0,
+      "explanation": "The guideline clearly states that patients are treated palliatively according to their symptoms 'to maintain or improve QoL.' The other options describe treatment goals that are not consistent with palliative care, which focuses on symptom management rather than cure or disease modification.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.2-active-surveillance-strategy",
+      "section_title": "7.2. Active surveillance strategy",
+      "source_text": "Watchful waiting refers to conservative management for patients deemed unsuitable for curative treatment from the outset, and patients are clinically &lsquo;watched&rsquo; for the development of local or systemic progression with (imminent) disease-related complaints, at which stage they are then treated palliatively according to their symptoms to maintain or improve QoL (see Section 6.2.1)."
+    },
+    {
+      "id": "prostate-cancer-followup-212",
+      "question": "According to the guideline text, who must be monitored according to specific recommendations?",
+      "options": [
+        {
+          "id": "A",
+          "text": "All prostate cancer patients regardless of treatment status"
+        },
+        {
+          "id": "B",
+          "text": "Patients included in an AS programme"
+        },
+        {
+          "id": "C",
+          "text": "Patients with high-risk prostate cancer only"
+        },
+        {
+          "id": "D",
+          "text": "Patients who have completed active treatment"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The text explicitly states that 'patients included in an AS programme must be monitored' according to specific recommendations.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.3-follow-up-after-local-treatment-with-curative-intent",
+      "section_title": "7.3. Follow-up: After local treatment with curative intent",
+      "source_text": "Patients included in an AS programme must be monitored according to the recommendations presented in Section 6.2.1.c."
+    },
+    {
+      "id": "prostate-cancer-followup-213",
+      "question": "According to the guideline, monitoring of AS programme patients must follow which specific reference?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Any monitoring protocol chosen by the treating physician"
+        },
+        {
+          "id": "B",
+          "text": "The recommendations presented in Section 6.2.1.c"
+        },
+        {
+          "id": "C",
+          "text": "Standard hospital protocols for cancer follow-up"
+        },
+        {
+          "id": "D",
+          "text": "Manufacturer guidelines for diagnostic equipment"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The text explicitly states that patients must be monitored 'according to the recommendations presented in Section 6.2.1.c.'",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.3-follow-up-after-local-treatment-with-curative-intent",
+      "section_title": "7.3. Follow-up: After local treatment with curative intent",
+      "source_text": "Patients included in an AS programme must be monitored according to the recommendations presented in Section 6.2.1.c."
+    },
+    {
+      "id": "prostate-cancer-followup-214",
+      "question": "According to the guideline, which of the following is defined as local treatment for prostate cancer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Radical prostatectomy (RP) or radiotherapy (RT) including IMRT+IGRT, brachytherapy, and combinations with neoadjuvant/adjuvant hormonal therapy"
+        },
+        {
+          "id": "B",
+          "text": "HIFU or cryosurgery"
+        },
+        {
+          "id": "C",
+          "text": "Systemic chemotherapy or immunotherapy"
+        },
+        {
+          "id": "D",
+          "text": "Active surveillance or watchful waiting"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The guideline explicitly defines local treatment as RP or RT, by IMRT plus IGRT or LDR- or HDR-BT or combinations, including neoadjuvant and adjuvant hormonal therapy. HIFU, cryosurgery, and focal therapy are described as 'unestablished alternative treatments.'",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.3.2-why-follow-up",
+      "section_title": "7.3.2. Why follow-up?",
+      "source_text": "Local treatment is defined as RP or RT, either by IMRT plus IGRT or LDR- or HDR-BT or any combination of these, including neoadjuvant and adjuvant hormonal therapy. Unestablished alternative treatments such as HIFU, cryosurgery and focal therapy options do follow the general principles as presented in this section. In general, a confirmed rising PSA is considered a sign of disease recurrence."
+    },
+    {
+      "id": "prostate-cancer-followup-215",
+      "question": "According to the guideline, what is considered a sign of disease recurrence in prostate cancer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A confirmed rising PSA level"
+        },
+        {
+          "id": "B",
+          "text": "The presence of a single bone lesion on bone scan"
+        },
+        {
+          "id": "C",
+          "text": "A palpable nodule on digital rectal examination"
+        },
+        {
+          "id": "D",
+          "text": "An elevated PSA level during active surveillance"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The guideline explicitly states that 'a confirmed rising PSA is considered a sign of disease recurrence.' None of the other options (bone lesion, palpable nodule, or elevated PSA during surveillance) are mentioned in the text as defining signs of recurrence.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.3.2-why-follow-up",
+      "section_title": "7.3.2. Why follow-up?",
+      "source_text": "Local treatment is defined as RP or RT, either by IMRT plus IGRT or LDR- or HDR-BT or any combination of these, including neoadjuvant and adjuvant hormonal therapy. Unestablished alternative treatments such as HIFU, cryosurgery and focal therapy options do follow the general principles as presented in this section. In general, a confirmed rising PSA is considered a sign of disease recurrence."
+    },
+    {
+      "id": "prostate-cancer-followup-216",
+      "question": "What are the primary focuses of the first post-treatment clinic visit for men with prostate cancer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Detecting treatment-related complications, assisting patients in coping with their new situation, and providing information on pathological analysis"
+        },
+        {
+          "id": "B",
+          "text": "Performing routine imaging to detect recurrence and measuring PSA levels"
+        },
+        {
+          "id": "C",
+          "text": "Discussing long-term survival outcomes and planning adjuvant therapy"
+        },
+        {
+          "id": "D",
+          "text": "Reviewing family history and genetic testing options"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The text explicitly states that the first post-treatment clinic visit focuses on detecting treatment-related complications, assisting patients in coping with their new situation, and providing information on the pathological analysis.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.3.3-how-to-follow-up",
       "section_title": "7.3.3. How to follow up?",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "easy",
-      "fact": "The first post-treatment clinic visit focuses on detecting treatment-related complications and assisting patients in coping with their new situation",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "source_text": "The first post-treatment clinic visit focuses on detecting treatment-related complications and assisting patients in coping with their new situation, apart from providing information on the pathological analysis. Men with PCa are at increased risk of depression and attention to mental health status is required [1434,1435]. Tumour or patient characteristics may prompt changing the follow-up schedule. Follow-up also allows the introduction of additional/salvage treatments should that be considered"
     },
     {
-      "id": "prostate-cancer-followup-009",
-      "question": "According to the guideline, what psychological condition are men with prostate cancer at increased risk of developing?",
+      "id": "prostate-cancer-followup-217",
+      "question": "According to the guideline, what mental health consideration must be addressed in the follow-up of men with prostate cancer?",
       "options": [
         {
           "id": "A",
-          "text": "Depression"
+          "text": "Screening for anxiety disorders related to treatment side effects"
         },
         {
           "id": "B",
-          "text": "Anxiety disorders"
+          "text": "Assessment for cognitive impairment from hormone therapy"
         },
         {
           "id": "C",
-          "text": "Post-traumatic stress disorder"
+          "text": "Men with prostate cancer are at increased risk of depression, requiring attention to mental health status"
         },
         {
           "id": "D",
-          "text": "Bipolar disorder"
+          "text": "Evaluation of social support networks and family dynamics"
         }
       ],
-      "correct": "A",
-      "explanation": "The guideline explicitly states in section 7.3.3 that men with PCa are at increased risk of depression and attention to mental health status is required.",
-      "section": "7.3.3",
+      "correct": 2,
+      "explanation": "The guideline explicitly states that men with prostate cancer are at increased risk of depression and that attention to mental health status is required during follow-up.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.3.3-how-to-follow-up",
       "section_title": "7.3.3. How to follow up?",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "easy",
-      "fact": "Men with PCa are at increased risk of depression",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "source_text": "The first post-treatment clinic visit focuses on detecting treatment-related complications and assisting patients in coping with their new situation, apart from providing information on the pathological analysis. Men with PCa are at increased risk of depression and attention to mental health status is required [1434,1435]. Tumour or patient characteristics may prompt changing the follow-up schedule. Follow-up also allows the introduction of additional/salvage treatments should that be considered"
     },
     {
-      "id": "prostate-cancer-followup-010",
-      "question": "Which factors may prompt changing the follow-up schedule according to the guideline?",
+      "id": "prostate-cancer-followup-218",
+      "question": "According to the guideline, what PSA nadir level after radiotherapy is associated with a favourable outcome?",
       "options": [
         {
           "id": "A",
-          "text": "Tumour or patient characteristics"
+          "text": "< 0.1 ng/mL"
         },
         {
           "id": "B",
-          "text": "Geographic location and distance to hospital"
+          "text": "< 0.5 ng/mL"
         },
         {
           "id": "C",
-          "text": "Insurance coverage and healthcare system protocols"
+          "text": "< 1.0 ng/mL"
         },
         {
           "id": "D",
-          "text": "Patient family history of other cancers"
+          "text": "< 2.0 ng/mL"
         }
       ],
-      "correct": "A",
-      "explanation": "The guideline states in section 7.3.3 that tumour or patient characteristics may prompt changing the follow-up schedule.",
-      "section": "7.3.3",
-      "section_title": "7.3.3. How to follow up?",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "medium",
-      "fact": "Tumour or patient characteristics may prompt changing the follow-up schedule",
+      "correct": 1,
+      "explanation": "The guideline states that 'A PSA nadir < 0.5ng/mL is associated with a favourable outcome after RT, although the optimal cut-off value remains controversial'.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-011",
-      "question": "The follow-up programme allows the introduction of additional or salvage treatments based on which of the following criteria?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Expected life-expectancy, patient symptoms, and EAU risk categories for biochemical recurrence"
-        },
-        {
-          "id": "B",
-          "text": "Patient age, family history, and genetic test results"
-        },
-        {
-          "id": "C",
-          "text": "PSA doubling time only"
-        },
-        {
-          "id": "D",
-          "text": "Tumour grade and histological subtype only"
-        }
-      ],
-      "correct": "A",
-      "explanation": "The guideline specifies in section 7.3.3 that follow-up allows the introduction of additional/salvage treatments should that be considered necessary given the expected life-expectancy, patient symptoms, and EAU risk categories for biochemical recurrence.",
-      "section": "7.3.3",
-      "section_title": "7.3.3. How to follow up?",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "medium",
-      "fact": "Follow-up allows the introduction of additional/salvage treatments based on expected life-expectancy, patient symptoms, and EAU risk categories for biochemical recurrence",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-012",
-      "question": "Which of the following is NOT explicitly stated as a component of the discussion between patient and clinician regarding follow-up?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Modalities of follow-up"
-        },
-        {
-          "id": "B",
-          "text": "Periodicity of follow-up"
-        },
-        {
-          "id": "C",
-          "text": "Cost of follow-up procedures"
-        },
-        {
-          "id": "D",
-          "text": "How follow-up will be communicated to the patient"
-        }
-      ],
-      "correct": "C",
-      "explanation": "The guideline specifically states that the discussion between patient and clinician must include 'modalities, periodicity and how this will be communicated to the patient' (Section 7.1). Cost of procedures is not mentioned as part of this required discussion.",
-      "section": "7.1",
-      "section_title": "7.1. Watchful waiting",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-1-watchful-waiting",
-      "difficulty": "easy",
-      "fact": "The discussion must include modalities, periodicity and how the follow-up will be communicated to the patient.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-013",
-      "question": "According to the guideline, what psychological consequence may occur in patients who are not properly prepared for potential follow-up outcomes?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Depression requiring pharmacological intervention"
-        },
-        {
-          "id": "B",
-          "text": "Unnecessary fear or panic from even small PSA increases"
-        },
-        {
-          "id": "C",
-          "text": "Reluctance to attend follow-up appointments"
-        },
-        {
-          "id": "D",
-          "text": "Aggression toward healthcare providers"
-        }
-      ],
-      "correct": "B",
-      "explanation": "Section 7.1 explicitly warns that 'even a very small increase in PSA levels can cause unnecessary fear, even panic' when patients are not prepared for various potential outcomes of the follow-up.",
-      "section": "7.1",
-      "section_title": "7.1. Watchful waiting",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-1-watchful-waiting",
-      "difficulty": "easy",
-      "fact": "The text states that unprepared patients may experience unnecessary fear or panic from even very small PSA increases.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-014",
-      "question": "Beyond assessing oncological results and ensuring treatment compliance, follow-up in prostate cancer also serves to provide which of the following to survivors?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Financial counseling services"
-        },
-        {
-          "id": "B",
-          "text": "Career advancement opportunities"
-        },
-        {
-          "id": "C",
-          "text": "Psychological support"
-        },
-        {
-          "id": "D",
-          "text": "Nutritional meal planning"
-        }
-      ],
-      "correct": "C",
-      "explanation": "Section 7.1 specifically lists that follow-up provides 'an opportunity to provide psychological support to PCa survivors.' The other options (financial counseling, career advancement, and nutritional meal planning) are not mentioned in the text.",
-      "section": "7.1",
-      "section_title": "7.1. Watchful waiting",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-1-watchful-waiting",
-      "difficulty": "easy",
-      "fact": "The guideline states that follow-up provides 'an opportunity to provide psychological support to PCa survivors.'",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-015",
-      "question": "What is mandatory at every follow-up visit for prostate cancer according to the guideline?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Physical examination"
-        },
-        {
-          "id": "B",
-          "text": "A disease-specific history"
-        },
-        {
-          "id": "C",
-          "text": "PSA testing"
-        },
-        {
-          "id": "D",
-          "text": "Routine imaging studies"
-        }
-      ],
-      "correct": "B",
-      "explanation": "The guideline explicitly states that 'A disease-specific history is mandatory at every follow-up visit.'",
-      "section": "7.3.3.a",
+      "guideline": "prostate-cancer",
+      "section": "#7.3.3.a-prostate-specific-antigen-monitoring",
       "section_title": "7.3.3.a. Prostate-specific antigen monitoring",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "easy",
-      "fact": "A disease-specific history is mandatory at every follow-up visit",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "source_text": "Measurement of PSA is the cornerstone of follow-up after local treatment. While PSA thresholds depend on the local treatment used, PSA recurrence almost always precedes clinical recurrence [1436,1437]. The key question is to establish when a PSA rise is clinically significant since not all PSA increases have the same clinical value (see Section 6.4.2) [994]. No prospective studies are available on the optimal timing for PSA testing and the impact on oncological outcomes. 7.3.3.a.1. Prostate-spec"
     },
     {
-      "id": "prostate-cancer-followup-016",
-      "question": "Which of the following components is included in the disease-specific history?",
+      "id": "prostate-cancer-followup-219",
+      "question": "When is PSA expected to become undetectable following radical prostatectomy according to the guideline?",
       "options": [
         {
           "id": "A",
-          "text": "Cardiovascular assessment"
+          "text": "Within 1 week"
         },
         {
           "id": "B",
-          "text": "Psychological aspects"
+          "text": "Within 1 month"
         },
         {
           "id": "C",
-          "text": "Renal function tests"
+          "text": "Within 2 months"
         },
         {
           "id": "D",
-          "text": "Bone density evaluation"
+          "text": "Within 6 months"
         }
       ],
-      "correct": "B",
-      "explanation": "The guideline explicitly lists the components of the disease-specific history as including 'psychological aspects, signs of disease progression, and treatment-related complications.'",
-      "section": "7.3.3.a",
+      "correct": 2,
+      "explanation": "The guideline explicitly states that 'Prostate-specific antigen level is expected to be undetectable two months after an RP'.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.3.3.a-prostate-specific-antigen-monitoring",
       "section_title": "7.3.3.a. Prostate-specific antigen monitoring",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "easy",
-      "fact": "Disease-specific history includes psychological aspects, signs of disease progression, and treatment-related complications",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "source_text": "Measurement of PSA is the cornerstone of follow-up after local treatment. While PSA thresholds depend on the local treatment used, PSA recurrence almost always precedes clinical recurrence [1436,1437]. The key question is to establish when a PSA rise is clinically significant since not all PSA increases have the same clinical value (see Section 6.4.2) [994]. No prospective studies are available on the optimal timing for PSA testing and the impact on oncological outcomes. 7.3.3.a.1. Prostate-spec"
     },
     {
-      "id": "prostate-cancer-followup-017",
-      "question": "According to the guideline, where is the evaluation of treatment-related complications discussed?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Section 7.1"
-        },
-        {
-          "id": "B",
-          "text": "Section 8.2"
-        },
-        {
-          "id": "C",
-          "text": "Section 6.3"
-        },
-        {
-          "id": "D",
-          "text": "Section 9.1"
-        }
-      ],
-      "correct": "B",
-      "explanation": "The guideline specifically states that 'Evaluation of treatment-related complications in the post-treatment period is highlighted in Section 8.2.'",
-      "section": "7.3.3.a",
-      "section_title": "7.3.3.a. Prostate-specific antigen monitoring",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "easy",
-      "fact": "Evaluation of treatment-related complications in the post-treatment period is highlighted in Section 8.2",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-018",
-      "question": "When should imaging techniques be omitted in the follow-up of localised prostate cancer?",
-      "options": [
-        {
-          "id": "A",
-          "text": "When PSA is not rising and the patient is asymptomatic"
-        },
-        {
-          "id": "B",
-          "text": "When the patient has completed adjuvant hormone therapy"
-        },
-        {
-          "id": "C",
-          "text": "When the patient has previously undergone radical prostatectomy"
-        },
-        {
-          "id": "D",
-          "text": "When the patient is on active surveillance protocol"
-        }
-      ],
-      "correct": "A",
-      "explanation": "According to section 7.3.3.d, imaging techniques have no place in routine follow-up of localised prostate cancer as long as PSA is not rising and patients are asymptomatic. Imaging is reserved for situations where findings will affect treatment decisions.",
-      "section": "7.3.3.d",
-      "section_title": "7.3.3.d. Functional follow-up",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "easy",
-      "fact": "Imaging techniques have no place in routine follow-up of localised PCa, as long as the PSA is not rising and patients are asymptomatic.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-019",
-      "question": "In which of the following scenarios is imaging justified during follow-up of localised prostate cancer?",
-      "options": [
-        {
-          "id": "A",
-          "text": "In all patients who have completed curative treatment"
-        },
-        {
-          "id": "B",
-          "text": "During the first year after completing treatment as part of standard protocol"
-        },
-        {
-          "id": "C",
-          "text": "In case of biochemical recurrence or when patients are symptomatic"
-        },
-        {
-          "id": "D",
-          "text": "At every scheduled follow-up appointment regardless of PSA levels"
-        }
-      ],
-      "correct": "C",
-      "explanation": "Section 7.3.3.d states that imaging is only justified when the findings will affect treatment decisions, specifically in cases of BCR (biochemical recurrence) or in patients with symptoms.",
-      "section": "7.3.3.d",
-      "section_title": "7.3.3.d. Functional follow-up",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "medium",
-      "fact": "Imaging is only justified in patients for whom the findings will affect treatment decisions, either in case of BCR or in patients with symptoms.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-020",
-      "question": "What is the primary criterion that determines whether imaging should be performed during follow-up of localised prostate cancer?",
-      "options": [
-        {
-          "id": "A",
-          "text": "The time elapsed since treatment completion"
-        },
-        {
-          "id": "B",
-          "text": "Whether findings will affect treatment decisions"
-        },
-        {
-          "id": "C",
-          "text": "The Gleason score at initial diagnosis"
-        },
-        {
-          "id": "D",
-          "text": "The patient's age at treatment"
-        }
-      ],
-      "correct": "B",
-      "explanation": "According to section 7.3.3.d, imaging is only justified in patients for whom the findings will affect treatment decisions, either in case of biochemical recurrence or in patients with symptoms.",
-      "section": "7.3.3.d",
-      "section_title": "7.3.3.d. Functional follow-up",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "hard",
-      "fact": "Imaging is only justified in patients for whom the findings will affect treatment decisions, either in case of BCR or in patients with symptoms.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-021",
-      "question": "In which specific patient population has PSA-negative local recurrence after curative treatment been documented?",
+      "id": "prostate-cancer-followup-220",
+      "question": "In which patient population has local recurrence been documented without a concomitant rise in PSA?",
       "options": [
         {
           "id": "A",
@@ -638,243 +424,111 @@
         },
         {
           "id": "C",
-          "text": "Patients under 60 years of age"
+          "text": "All patients following radical prostatectomy"
         },
         {
           "id": "D",
-          "text": "Patients with PSA levels below 2 ng/mL"
+          "text": "Elderly patients with comorbidities"
         }
       ],
-      "correct": "B",
-      "explanation": "The text states that PSA-negative local recurrence 'has only been proven in patients with unfavourable, undifferentiated tumours' (Section 7.3.3.c). This is a rare occurrence overall but documented specifically in this high-risk subgroup.",
-      "section": "7.3.3.c",
+      "correct": 1,
+      "explanation": "The text states that local recurrence can occur without PSA rise 'although very rarely' and 'has only been proven in patients with unfavourable, undifferentiated tumours.'",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.3.3.b-digital-rectal-examination",
+      "section_title": "7.3.3.b. Digital rectal examination",
+      "source_text": "Local recurrence after curative treatment is possible without a concomitant rise in PSA level, although very rarely [1444]. This has only been proven in patients with unfavourable, undifferentiated tumours. Prostate-specific antigen and DRE comprise the most useful combination for first-line examination in follow-up after RT, but the role of DRE was questioned since it failed to detect any local recurrence in the absence of a rising PSA in a series of 899 patients [1445]. In a series of 1,118 pr"
+    },
+    {
+      "id": "prostate-cancer-followup-221",
+      "question": "What was demonstrated by a series of 899 patients regarding the role of DRE in follow-up after radiation therapy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "DRE is essential as the primary follow-up tool"
+        },
+        {
+          "id": "B",
+          "text": "DRE successfully detected all local recurrences independently of PSA"
+        },
+        {
+          "id": "C",
+          "text": "DRE failed to detect any local recurrence without a rising PSA"
+        },
+        {
+          "id": "D",
+          "text": "DRE should replace PSA measurement in all cases"
+        }
+      ],
+      "correct": 2,
+      "explanation": "The text explicitly states that 'the role of DRE was questioned since it failed to detect any local recurrence in the absence of a rising PSA' in a series of 899 patients.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.3.3.b-digital-rectal-examination",
+      "section_title": "7.3.3.b. Digital rectal examination",
+      "source_text": "Local recurrence after curative treatment is possible without a concomitant rise in PSA level, although very rarely [1444]. This has only been proven in patients with unfavourable, undifferentiated tumours. Prostate-specific antigen and DRE comprise the most useful combination for first-line examination in follow-up after RT, but the role of DRE was questioned since it failed to detect any local recurrence in the absence of a rising PSA in a series of 899 patients [1445]. In a series of 1,118 pr"
+    },
+    {
+      "id": "prostate-cancer-followup-222",
+      "question": "According to the guidelines, when is imaging justified in patients with localized prostate cancer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In all patients during routine follow-up regardless of PSA levels"
+        },
+        {
+          "id": "B",
+          "text": "Only when findings will affect treatment decisions, in cases of BCR or symptomatic patients"
+        },
+        {
+          "id": "C",
+          "text": "At fixed intervals of every 6 months post-treatment"
+        },
+        {
+          "id": "D",
+          "text": "Only after PSA levels exceed a specific threshold"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The guideline explicitly states that imaging is only justified in patients for whom the findings will affect treatment decisions, either in case of biochemical recurrence (BCR) or in patients with symptoms.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.3.3.c-transrectal-ultrasound-bone-scintigraphy-ct-mri-and-petct",
       "section_title": "7.3.3.c. Transrectal ultrasound, bone scintigraphy, CT, MRI and PET/CT",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "easy",
-      "fact": "This has only been proven in patients with unfavourable, undifferentiated tumours",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "source_text": "Imaging techniques have no place in routine follow-up of localised PCa, as long as the PSA is not rising and patients are asymptomatic. Imaging is only justified in patients for whom the findings will affect treatment decisions, either in case of BCR or in patients with symptoms."
     },
     {
-      "id": "prostate-cancer-followup-022",
-      "question": "What was the outcome of using DRE alone to detect local recurrence in a series of 1,118 prostatectomy patients?",
+      "id": "prostate-cancer-followup-223",
+      "question": "Which of the following scenarios represents an indication for imaging in localized prostate cancer follow-up?",
       "options": [
         {
           "id": "A",
-          "text": "DRE detected recurrence in 15% of patients with stable PSA"
+          "text": "Patient has a stable PSA and is completely asymptomatic"
         },
         {
           "id": "B",
-          "text": "No local histologically proven recurrence was found by DRE alone"
+          "text": "Patient is asymptomatic with a slowly rising PSA"
         },
         {
           "id": "C",
-          "text": "DRE was superior to PSA in detecting local recurrence"
+          "text": "Patient presents with new bone pain symptoms"
         },
         {
           "id": "D",
-          "text": "DRE identified all recurrences when PSA exceeded 0.2 ng/mL"
+          "text": "Patient requests imaging for reassurance despite no clinical indication"
         }
       ],
-      "correct": "B",
-      "explanation": "According to Section 7.3.3.c, 'In a series of 1,118 prostatectomy patients, no local histologically proven recurrence was found by DRE alone.' This evidence suggests limited utility of DRE as a standalone test after radical prostatectomy.",
-      "section": "7.3.3.c",
+      "correct": 2,
+      "explanation": "The guideline states that imaging is justified in patients with symptoms. New bone pain would be a symptom that could indicate disease progression and would warrant imaging to affect treatment decisions. The other options describe scenarios where imaging has no place according to the guideline.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.3.3.c-transrectal-ultrasound-bone-scintigraphy-ct-mri-and-petct",
       "section_title": "7.3.3.c. Transrectal ultrasound, bone scintigraphy, CT, MRI and PET/CT",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "easy",
-      "fact": "In a series of 1,118 prostatectomy patients, no local histologically proven recurrence was found by DRE alone",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "source_text": "Imaging techniques have no place in routine follow-up of localised PCa, as long as the PSA is not rising and patients are asymptomatic. Imaging is only justified in patients for whom the findings will affect treatment decisions, either in case of BCR or in patients with symptoms."
     },
     {
-      "id": "prostate-cancer-followup-023",
-      "question": "In a study of 899 radiotherapy patients, what did DRE fail to detect in the absence of a rising PSA?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Any local recurrence without concurrent PSA elevation"
-        },
-        {
-          "id": "B",
-          "text": "Regional lymph node metastases"
-        },
-        {
-          "id": "C",
-          "text": "Distant bone metastases"
-        },
-        {
-          "id": "D",
-          "text": "Biochemical recurrence defined by Phoenix criteria"
-        }
-      ],
-      "correct": "A",
-      "explanation": "Section 7.3.3.c reports that DRE 'failed to detect any local recurrence in the absence of a rising PSA in a series of 899 patients.' This finding questioned the role of DRE as a first-line examination without PSA guidance in post-radiotherapy follow-up.",
-      "section": "7.3.3.c",
-      "section_title": "7.3.3.c. Transrectal ultrasound, bone scintigraphy, CT, MRI and PET/CT",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "medium",
-      "fact": "DRE failed to detect any local recurrence in the absence of a rising PSA in a series of 899 patients",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-024",
-      "question": "According to current evidence, what is considered the most useful combination for first-line examination in follow-up after radiation therapy?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Prostate-specific antigen and transrectal ultrasound"
-        },
-        {
-          "id": "B",
-          "text": "Prostate-specific antigen and digital rectal examination"
-        },
-        {
-          "id": "C",
-          "text": "MRI and bone scintigraphy"
-        },
-        {
-          "id": "D",
-          "text": "CT and PET/CT"
-        }
-      ],
-      "correct": "B",
-      "explanation": "Section 7.3.3.c states that 'Prostate-specific antigen and DRE comprise the most useful combination for first-line examination in follow-up after RT.' This remains the recommended first-line approach despite evidence questioning DRE's standalone utility.",
-      "section": "7.3.3.c",
-      "section_title": "7.3.3.c. Transrectal ultrasound, bone scintigraphy, CT, MRI and PET/CT",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "easy",
-      "fact": "Prostate-specific antigen and DRE comprise the most useful combination for first-line examination in follow-up after RT",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-025",
-      "question": "After radical prostatectomy, which single test may be the most efficient examination required for detecting recurrence?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Digital rectal examination"
-        },
-        {
-          "id": "B",
-          "text": "Prostate-specific antigen measurement"
-        },
-        {
-          "id": "C",
-          "text": "Bone scintigraphy"
-        },
-        {
-          "id": "D",
-          "text": "Pelvic MRI"
-        }
-      ],
-      "correct": "B",
-      "explanation": "The guideline in Section 7.3.3.c states that 'PSA measurement may be the most efficient test required after RP.' This conclusion is supported by the finding that DRE alone failed to detect any histologically proven recurrence in 1,118 prostatectomy patients.",
-      "section": "7.3.3.c",
-      "section_title": "7.3.3.c. Transrectal ultrasound, bone scintigraphy, CT, MRI and PET/CT",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "medium",
-      "fact": "PSA measurement may be the most efficient test required after RP",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-026",
-      "question": "What is the recommended frequency for PSA measurement and disease-specific history during the first three years after curative intent treatment for prostate cancer?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Every three months"
-        },
-        {
-          "id": "B",
-          "text": "Every six months"
-        },
-        {
-          "id": "C",
-          "text": "Every twelve months"
-        },
-        {
-          "id": "D",
-          "text": "Every nine months"
-        }
-      ],
-      "correct": "B",
-      "explanation": "Section 7.3.5 states that 'Prostate-specific antigen measurement and disease-specific history are recommended every six months for a period of three years, and then annually.' This establishes the standard follow-up schedule for the initial high-risk period after treatment.",
-      "section": "7.3.5",
-      "section_title": "7.3.5. Summary of evidence and recommendations for follow-up after treatment with curative intent",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "easy",
-      "fact": "Prostate-specific antigen measurement and disease-specific history are recommended every six months for a period of three years, and then annually.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-027",
-      "question": "According to the guideline, what is the typical timeframe within which most patients who fail treatment for prostate cancer do so after local therapy?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Within two years"
-        },
-        {
-          "id": "B",
-          "text": "Within five years"
-        },
-        {
-          "id": "C",
-          "text": "Within seven years"
-        },
-        {
-          "id": "D",
-          "text": "Within ten years"
-        }
-      ],
-      "correct": "C",
-      "explanation": "Section 7.3.5 explicitly states that 'Most patients who fail treatment for PCa do so within seven years after local therapy.' This timeframe guides the overall duration of intensive follow-up protocols.",
-      "section": "7.3.5",
-      "section_title": "7.3.5. Summary of evidence and recommendations for follow-up after treatment with curative intent",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "easy",
-      "fact": "Most patients who fail treatment for PCa do so within seven years after local therapy.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-028",
-      "question": "In men with PSA-DT less than ten months after radical prostatectomy who deferred treatment, what was the observed median metastasis-free survival from the time of surgery?",
-      "options": [
-        {
-          "id": "A",
-          "text": "96 months"
-        },
-        {
-          "id": "B",
-          "text": "144 months"
-        },
-        {
-          "id": "C",
-          "text": "192 months"
-        },
-        {
-          "id": "D",
-          "text": "240 months"
-        }
-      ],
-      "correct": "C",
-      "explanation": "Section 7.3.5 reports that 'Even in men with a PSA-DT less than ten months after RP who choose to defer treatment, a median MFS of 192 months and OS of 204 months from RP was observed.' This demonstrates the relatively favourable long-term outcomes even in high-risk patients.",
-      "section": "7.3.5",
-      "section_title": "7.3.5. Summary of evidence and recommendations for follow-up after treatment with curative intent",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "medium",
-      "fact": "Even in men with a PSA-DT less than ten months after RP who choose to defer treatment, a median MFS of 192 months and OS of 204 months from RP was observed.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-029",
-      "question": "What type of tools have been developed and validated specifically for men with prostate cancer to assess the impact of treatment on quality of life?",
+      "id": "prostate-cancer-followup-224",
+      "question": "What term is used in the guideline to describe the specific tools developed to address side effects and their impact on quality of life in men with PCa?",
       "options": [
         {
           "id": "A",
@@ -882,340 +536,202 @@
         },
         {
           "id": "B",
-          "text": "Physician clinical assessment scales"
+          "text": "Clinical performance indicators (CPIs)"
         },
         {
           "id": "C",
-          "text": "Laboratory biomarker panels"
+          "text": "Standardized toxicity scales (STS)"
         },
         {
           "id": "D",
-          "text": "Radiological imaging protocols"
+          "text": "Functional assessment questionnaires (FAQs)"
         }
       ],
-      "correct": "A",
-      "explanation": "The section explicitly states that 'specific tools or patient-reported outcome measures (PROMs) have been developed and validated for men with PCa.' These questionnaires assess issues after PCa diagnosis and treatment and generate scores reflecting HRQoL impact.",
-      "section": "7.3.4",
+      "correct": 0,
+      "explanation": "The text explicitly states that specific tools called 'patient-reported outcome measures' (PROMs) have been developed and validated for men with PCa.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.3.3.d-functional-follow-up",
+      "section_title": "7.3.3.d. Functional follow-up",
+      "source_text": "All local treatments for PCa may cause short- and long-term side effects of various degree that will affect the patients&rsquo; QoL. For quality control, and to help the patient in choosing the optimal treatment for him, it is essential that the functional outcomes of any treatment are measured and registered by validated and reproducible methods. To address side effects and their impact on QoL, specific tools or &lsquo;patient-reported outcome measures&rsquo; (PROMs) have been developed and val"
+    },
+    {
+      "id": "prostate-cancer-followup-225",
+      "question": "According to the guideline, what do the questionnaires used in PCa generate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Scores that reflect the impact on perceptions of HRQoL"
+        },
+        {
+          "id": "B",
+          "text": "Numeric cancer staging data"
+        },
+        {
+          "id": "C",
+          "text": "Treatment cost estimates"
+        },
+        {
+          "id": "D",
+          "text": "Comparative survival statistics"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The text directly states that these questionnaires 'generate scores that reflect the impact on perceptions of HRQoL.'",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.3.3.d-functional-follow-up",
+      "section_title": "7.3.3.d. Functional follow-up",
+      "source_text": "All local treatments for PCa may cause short- and long-term side effects of various degree that will affect the patients&rsquo; QoL. For quality control, and to help the patient in choosing the optimal treatment for him, it is essential that the functional outcomes of any treatment are measured and registered by validated and reproducible methods. To address side effects and their impact on QoL, specific tools or &lsquo;patient-reported outcome measures&rsquo; (PROMs) have been developed and val"
+    },
+    {
+      "id": "prostate-cancer-followup-226",
+      "question": "What is the recommended PSA monitoring schedule after radical prostatectomy according to the EAU guidelines?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Every three months for five years, then every six months thereafter"
+        },
+        {
+          "id": "B",
+          "text": "Every six months for a period of three years, then yearly thereafter"
+        },
+        {
+          "id": "C",
+          "text": "Monthly for the first year, then quarterly for the next two years"
+        },
+        {
+          "id": "D",
+          "text": "Every month for six months, then every three months for three years"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The text states that 'PSA is generally determined every six months for a period of three years and yearly thereafter, but the evidence for a specific interval is low'.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.3.4-how-long-to-follow-up",
       "section_title": "7.3.4. How long to follow-up?",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "easy",
-      "fact": "Specific tools or 'patient-reported outcome measures' (PROMs) have been developed and validated for men with PCa.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "source_text": "The procedures indicated at follow-up visits vary according to the clinical situation. A disease-specific history is mandatory at every follow-up visit and includes psychological aspects, signs of disease progression, and treatment-related complications. Evaluation of treatment-related complications in the post-treatment period is highlighted in Section 8.2. The examinations used for cancer-related follow-up after curative surgery or RT are discussed below. 7.3.3.a. Prostate-specific antigen mon"
     },
     {
-      "id": "prostate-cancer-followup-030",
-      "question": "According to the guideline, what is the essential requirement for measuring functional outcomes of any prostate cancer treatment?",
+      "id": "prostate-cancer-followup-227",
+      "question": "What is the likelihood of remaining relapse-free within two years for men with a PSA nadir < 0.01ng/mL after radical prostatectomy?",
       "options": [
         {
           "id": "A",
-          "text": "Measurements must be taken by specialists only"
+          "text": "Approximately 75%"
         },
         {
           "id": "B",
-          "text": "Results must be compared across international centres"
+          "text": "Approximately 86%"
         },
         {
           "id": "C",
-          "text": "Outcomes must be measured and registered by validated and reproducible methods"
+          "text": "Approximately 96%"
         },
         {
           "id": "D",
-          "text": "Functional outcomes must be reported within 24 hours of treatment"
+          "text": "Approximately 50%"
         }
       ],
-      "correct": "C",
-      "explanation": "The text explicitly states 'it is essential that the functional outcomes of any treatment are measured and registered by validated and reproducible methods.' This requirement applies for quality control and to help patients choose optimal treatment.",
-      "section": "7.3.4",
+      "correct": 2,
+      "explanation": "The text explicitly states that 'Men with a PSA nadir < 0.01ng/mL have a high (96%) likelihood of remaining relapse-free within two years'.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.3.4-how-long-to-follow-up",
       "section_title": "7.3.4. How long to follow-up?",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "medium",
-      "fact": "It is essential that the functional outcomes of any treatment are measured and registered by validated and reproducible methods.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "source_text": "The procedures indicated at follow-up visits vary according to the clinical situation. A disease-specific history is mandatory at every follow-up visit and includes psychological aspects, signs of disease progression, and treatment-related complications. Evaluation of treatment-related complications in the post-treatment period is highlighted in Section 8.2. The examinations used for cancer-related follow-up after curative surgery or RT are discussed below. 7.3.3.a. Prostate-specific antigen mon"
     },
     {
-      "id": "prostate-cancer-followup-031",
-      "question": "What do scores generated by patient-reported outcome measures (PROMs) for prostate cancer reflect?",
+      "id": "prostate-cancer-followup-228",
+      "question": "According to the guideline, what is the recommended schedule for PSA measurement and disease-specific history after local therapy for prostate cancer?",
       "options": [
         {
           "id": "A",
-          "text": "The cost of treatment delivered"
+          "text": "Every 3 months for 3 years, then every 6 months"
         },
         {
           "id": "B",
-          "text": "The impact on perceptions of health-related quality of life"
+          "text": "Every 6 months for a period of 3 years, and then annually"
         },
         {
           "id": "C",
-          "text": "The likelihood of cancer recurrence"
+          "text": "Every 12 months for 5 years, then every 2 years"
         },
         {
           "id": "D",
-          "text": "The surgeon's technical performance"
+          "text": "Every 6 months for 5 years, then annually"
         }
       ],
-      "correct": "B",
-      "explanation": "The section clearly states that PROMs 'generate scores that reflect the impact on perceptions of HRQoL.' HRQoL stands for health-related quality of life, which these tools specifically measure from the patient's perspective.",
-      "section": "7.3.4",
-      "section_title": "7.3.4. How long to follow-up?",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-3-follow-up-after-local-treatment-with-curative-intent",
-      "difficulty": "medium",
-      "fact": "These questionnaires assess common issues after PCa diagnosis and treatment and generate scores that reflect the impact on perceptions of HRQoL.",
+      "correct": 1,
+      "explanation": "The guideline explicitly states that PSA measurement and disease-specific history are recommended every six months for a period of three years, and then annually.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#7.3.5-summary-of-evidence-and-recommendations-for-follow-up-after-treatment-with-curative-intent",
+      "section_title": "7.3.5. Summary of evidence and recommendations for follow-up after treatment with curative intent",
+      "source_text": "Most patients who fail treatment for PCa do so within seven years after local therapy [1448]. Patients must be followed more closely during the initial post-treatment period when risk of failure is highest. Prostate-specific antigen measurement and disease-specific history are recommended every six months for a period of three years, and then annually. Whether follow-up should be stopped if PSA remains undetectable (after RP) or stable (after RT) remains an unanswered question, but it seems fair"
     },
     {
-      "id": "prostate-cancer-followup-032",
-      "question": "According to the EAU guidelines, how is castrate resistance defined in prostate cancer?",
+      "id": "prostate-cancer-followup-229",
+      "question": "Which of the following symptoms should trigger PSA testing to exclude possible cancer recurrence, according to the guideline?",
       "options": [
         {
           "id": "A",
-          "text": "Rising PSA levels despite ADT treatment"
+          "text": "Pelvic/skeletal pain, haematuria, progressive LUTS, progressive lower body oedema, progressive bowel complaints, or complaints of fatigue, sarcopenia or unexplained weight loss"
         },
         {
           "id": "B",
-          "text": "PCa progression despite a testosterone level < 50ng/dL"
+          "text": "Fever, cough, and chest pain"
         },
         {
           "id": "C",
-          "text": "Failure to achieve castrate testosterone levels within 6 months"
+          "text": "Skin rash, joint pain, and vision changes"
         },
         {
           "id": "D",
-          "text": "Metastatic disease confirmed by imaging after starting ADT"
+          "text": "Headache, dizziness, and memory problems"
         }
       ],
-      "correct": "B",
-      "explanation": "Section 7.4.2 explicitly states that castrate resistance is defined as 'PCa progression despite a testosterone level < 50ng/dL'. This definition is specific to the numerical threshold mentioned in the text.",
-      "section": "7.4.2",
-      "section_title": "7.4.2. Purpose of follow-up",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "Castrate resistance is defined as PCa progression despite a testosterone level < 50ng/dL.",
+      "correct": 0,
+      "explanation": "The guideline explicitly lists these symptoms as triggers for PSA testing to exclude possible cancer recurrence: pelvic/skeletal pain, haematuria, progressive LUTS, progressive lower body oedema, progressive bowel complaints, or complaints of fatigue, sarcopenia or unexplained weight loss.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#7.3.5-summary-of-evidence-and-recommendations-for-follow-up-after-treatment-with-curative-intent",
+      "section_title": "7.3.5. Summary of evidence and recommendations for follow-up after treatment with curative intent",
+      "source_text": "Most patients who fail treatment for PCa do so within seven years after local therapy [1448]. Patients must be followed more closely during the initial post-treatment period when risk of failure is highest. Prostate-specific antigen measurement and disease-specific history are recommended every six months for a period of three years, and then annually. Whether follow-up should be stopped if PSA remains undetectable (after RP) or stable (after RT) remains an unanswered question, but it seems fair"
     },
     {
-      "id": "prostate-cancer-followup-033",
-      "question": "What is the primary mandatory requirement for detecting disease- and treatment-related complaints in patients on ADT?",
+      "id": "prostate-cancer-followup-230",
+      "question": "What is the PSA threshold that best predicts further metastases after radical prostatectomy (RP)?",
       "options": [
         {
           "id": "A",
-          "text": "Regular imaging scans every 3 months"
+          "text": "> 0.4 ng/mL"
         },
         {
           "id": "B",
-          "text": "Frequent PSA monitoring with trend analysis"
+          "text": "> 1.0 ng/mL"
         },
         {
           "id": "C",
-          "text": "Regular clinical follow-up that cannot be replaced by imaging or laboratory tests alone"
+          "text": "> 2.0 ng/mL"
         },
         {
           "id": "D",
-          "text": "Regular testosterone level checks to ensure suppression"
+          "text": "> 0.2 ng/mL"
         }
       ],
-      "correct": "C",
-      "explanation": "Section 7.4.2 explicitly states that 'To detect disease- and treatment-related complaints, regular clinical follow-up is mandatory and cannot be replaced by imaging or laboratory tests alone.' This highlights the essential role of direct clinical assessment.",
-      "section": "7.4.2",
-      "section_title": "7.4.2. Purpose of follow-up",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "medium",
-      "fact": "Regular clinical follow-up is mandatory and cannot be replaced by imaging or laboratory tests alone.",
+      "correct": 0,
+      "explanation": "The guideline states that the PSA threshold that best predicts further metastases after RP is > 0.4 ng/mL.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-034",
-      "question": "According to the EAU guidelines, which of the following methods is NOT used for testosterone blockage or suppression in ADT?",
-      "options": [
-        {
-          "id": "A",
-          "text": "LHRH agonists"
-        },
-        {
-          "id": "B",
-          "text": "LHRH antagonists"
-        },
-        {
-          "id": "C",
-          "text": "5-alpha reductase inhibitors"
-        },
-        {
-          "id": "D",
-          "text": "Orchidectomy"
-        }
-      ],
-      "correct": "C",
-      "explanation": "Section 7.4.2 states that testosterone blockage/suppression is achieved 'either by drugs (LHRH agonists or antagonists) or orchidectomy.' 5-alpha reductase inhibitors are not mentioned as a method for achieving castration levels.",
-      "section": "7.4.2",
-      "section_title": "7.4.2. Purpose of follow-up",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "medium",
-      "fact": "Testosterone blockage/suppression is achieved by drugs (LHRH agonists or antagonists) or orchidectomy.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-035",
-      "question": "How frequently should patients be evaluated after initiation of androgen deprivation therapy (ADT)?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Every three to six months"
-        },
-        {
-          "id": "B",
-          "text": "Every two to three months"
-        },
-        {
-          "id": "C",
-          "text": "Annually"
-        },
-        {
-          "id": "D",
-          "text": "Monthly"
-        }
-      ],
-      "correct": "A",
-      "explanation": "According to Section 7.4.3, after the initiation of ADT, it is recommended that patients be evaluated every three to six months, which must be individualized to each patient.",
-      "section": "7.4.3",
-      "section_title": "7.4.3. General follow-up of men on hormonal therapy",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "It is recommended that patients be evaluated every three to six months after initiation of ADT.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-036",
-      "question": "For patients receiving a combination of ADT and androgen receptor pathway inhibitors (ARPI), what is the recommended follow-up frequency during the first three months?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Every two weeks"
-        },
-        {
-          "id": "B",
-          "text": "Monthly"
-        },
-        {
-          "id": "C",
-          "text": "Every six weeks"
-        },
-        {
-          "id": "D",
-          "text": "Every two months"
-        }
-      ],
-      "correct": "B",
-      "explanation": "Section 7.4.3 states that for patients receiving a combination of ADT and other potent medication such as ARPI, the frequency of follow-up is monthly for the first three months.",
-      "section": "7.4.3",
-      "section_title": "7.4.3. General follow-up of men on hormonal therapy",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "medium",
-      "fact": "For patients receiving a combination of ADT and ARPI, the frequency of follow-up is monthly for the first three months.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-037",
-      "question": "Which of the following is NOT one of the main objectives of follow-up in patients receiving ADT?",
-      "options": [
-        {
-          "id": "A",
-          "text": "To ensure treatment compliance"
-        },
-        {
-          "id": "B",
-          "text": "To monitor treatment response"
-        },
-        {
-          "id": "C",
-          "text": "To determine surgical candidacy"
-        },
-        {
-          "id": "D",
-          "text": "To guide treatment at the time point of clinical progression"
-        }
-      ],
-      "correct": "C",
-      "explanation": "Section 7.4.3 lists the main objectives of follow-up as: ensuring treatment compliance, monitoring treatment response, detecting and managing side effects early, and guiding treatment at clinical progression. Determining surgical candidacy is not mentioned.",
-      "section": "7.4.3",
-      "section_title": "7.4.3. General follow-up of men on hormonal therapy",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "medium",
-      "fact": "The main objectives of follow-up are to ensure treatment compliance, monitor treatment response, detect and manage side effects early, and guide treatment at clinical progression.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-038",
-      "question": "Which of the following components must be included in the routine follow-up of asymptomatic patients receiving first-line hormonal treatment?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Disease-specific history and PSA measurement"
-        },
-        {
-          "id": "B",
-          "text": "Physical examination and bone scan"
-        },
-        {
-          "id": "C",
-          "text": "PSA measurement and imaging studies"
-        },
-        {
-          "id": "D",
-          "text": "Disease-specific history and digital rectal examination"
-        }
-      ],
-      "correct": "A",
-      "explanation": "According to section 7.4, there is a Strong recommendation to routinely follow-up asymptomatic patients by obtaining at least a disease-specific history and a prostate-specific antigen measurement.",
-      "section": "7.4",
+      "guideline": "prostate-cancer",
+      "section": "#7.4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
       "section_title": "7.4. Follow-up: During first line hormonal treatment (androgen sensitive period)",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "Routinely follow-up asymptomatic patients by obtaining at least a disease-specific history and a prostate-specific antigen measurement.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "source_text": "Summary of evidence LE A detectable PSA indicating a relapse of the disease must be differentiated from a clinically meaningful relapse. The PSA threshold that best predicts further metastases after RP is&nbsp;&gt;&nbsp;0.4ng/mL and&nbsp;&gt;&nbsp;NADIR&nbsp;+&nbsp;2ng/mL after IMRT/VMAT plus IGRT (&plusmn;&nbsp;ADT]. 3 Recommendations Strength rating Routinely follow-up asymptomatic patients by obtaining at least a disease-specific history and a prostate-specific antigen measurement. Strong At"
     },
     {
-      "id": "prostate-cancer-followup-039",
-      "question": "What is the PSA threshold that best predicts further metastases after radical prostatectomy?",
-      "options": [
-        {
-          "id": "A",
-          "text": ">0.4 ng/mL"
-        },
-        {
-          "id": "B",
-          "text": ">0.2 ng/mL"
-        },
-        {
-          "id": "C",
-          "text": ">1.0 ng/mL"
-        },
-        {
-          "id": "D",
-          "text": ">NADIR + 2 ng/mL"
-        }
-      ],
-      "correct": "A",
-      "explanation": "The guideline text explicitly states that the PSA threshold that best predicts further metastases after RP is >0.4ng/mL. This is a specific numerical threshold mentioned in section 7.4.",
-      "section": "7.4",
-      "section_title": "7.4. Follow-up: During first line hormonal treatment (androgen sensitive period)",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "The PSA threshold that best predicts further metastases after RP is >0.4ng/mL",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-040",
-      "question": "When should imaging be performed in a patient with prostate cancer recurrence during the androgen-sensitive period?",
+      "id": "prostate-cancer-followup-231",
+      "question": "According to the guidelines, when should imaging be performed at recurrence of prostate cancer?",
       "options": [
         {
           "id": "A",
@@ -1223,340 +739,289 @@
         },
         {
           "id": "B",
-          "text": "At every follow-up visit regardless of symptoms"
+          "text": "At the first sign of any detectable PSA"
         },
         {
           "id": "C",
-          "text": "Only when PSA levels exceed 10 ng/mL"
+          "text": "Whenever the patient requests imaging"
         },
         {
           "id": "D",
-          "text": "At the first sign of PSA elevation"
+          "text": "Only after histological confirmation of recurrence"
         }
       ],
-      "correct": "A",
-      "explanation": "Section 7.4 contains a Strong recommendation stating that at recurrence, imaging should only be performed if the result will affect treatment planning, avoiding unnecessary investigations.",
-      "section": "7.4",
+      "correct": 0,
+      "explanation": "The guideline strongly recommends that at recurrence, imaging should only be performed if the result will affect treatment planning.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
       "section_title": "7.4. Follow-up: During first line hormonal treatment (androgen sensitive period)",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "medium",
-      "fact": "At recurrence, only perform imaging if the result will affect treatment planning.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "source_text": "Summary of evidence LE A detectable PSA indicating a relapse of the disease must be differentiated from a clinically meaningful relapse. The PSA threshold that best predicts further metastases after RP is&nbsp;&gt;&nbsp;0.4ng/mL and&nbsp;&gt;&nbsp;NADIR&nbsp;+&nbsp;2ng/mL after IMRT/VMAT plus IGRT (&plusmn;&nbsp;ADT]. 3 Recommendations Strength rating Routinely follow-up asymptomatic patients by obtaining at least a disease-specific history and a prostate-specific antigen measurement. Strong At"
     },
     {
-      "id": "prostate-cancer-followup-041",
-      "question": "At what intervals should patients under androgen deprivation therapy (ADT) have follow-up monitoring of serum testosterone, creatinine, liver function and metabolic parameters?",
+      "id": "prostate-cancer-followup-232",
+      "question": "How is castrate resistance defined in patients with metastatic prostate cancer?",
       "options": [
         {
           "id": "A",
-          "text": "Monthly"
+          "text": "Rising PSA levels during ADT treatment"
         },
         {
           "id": "B",
-          "text": "At three-to six-month intervals"
+          "text": "PCa progression despite a testosterone level < 50ng/dL"
         },
         {
           "id": "C",
-          "text": "Annually"
+          "text": "Development of new metastatic lesions on imaging"
         },
         {
           "id": "D",
-          "text": "Every two years"
+          "text": "Failure to achieve initial PSA response to treatment"
         }
       ],
-      "correct": "B",
-      "explanation": "Section 7.4.3.a states that patients under ADT require regular follow-up, including monitoring of serum testosterone, creatinine, liver function and metabolic parameters at three-to six-month intervals.",
-      "section": "7.4.3.a",
-      "section_title": "7.4.3.a. Testosterone monitoring",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "at three-to six-month intervals",
+      "correct": 1,
+      "explanation": "The text explicitly states that castrate resistance is defined as 'PCa progression despite a testosterone level < 50ng/dL'. The other options describe scenarios that may occur during ADT but are not the formal definition of castrate resistance.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#7.4.2-purpose-of-follow-up",
+      "section_title": "7.4.2. Purpose of follow-up",
+      "source_text": "Androgen deprivation therapy is used in various situations: combined with RT for localised or locally advanced disease for relapse after a local treatment, or in the presence of metastatic disease in combination with other treatments. All these situations are based on the benefits of testosterone blockage or suppression either by drugs (LHRH agonists or antagonists) or orchidectomy. In the majority of patients with metastatic PCa, castrate resistance will develop, which is defined as PCa progres"
     },
     {
-      "id": "prostate-cancer-followup-042",
-      "question": "Which of the following parameters is NOT listed as part of the routine laboratory monitoring for patients under ADT in this guideline section?",
+      "id": "prostate-cancer-followup-233",
+      "question": "Regular clinical follow-up in patients on ADT is mandatory because:",
       "options": [
         {
           "id": "A",
-          "text": "Serum testosterone"
+          "text": "Laboratory tests alone are insufficient to detect all treatment-related complaints"
         },
         {
           "id": "B",
-          "text": "Creatinine"
+          "text": "Imaging studies cannot reliably assess treatment response in prostate cancer"
         },
         {
           "id": "C",
-          "text": "Bone mineral density"
+          "text": "PSA monitoring needs to be performed at each clinical visit"
         },
         {
           "id": "D",
-          "text": "Liver function tests"
+          "text": "Imaging or laboratory tests can fully replace clinical assessment"
         }
       ],
-      "correct": "C",
-      "explanation": "Section 7.4.3.a specifies that routine monitoring includes serum testosterone, creatinine, liver function and metabolic parameters. Bone density is mentioned separately as requiring assessment before and during treatment, but is not part of the routine laboratory monitoring panel.",
-      "section": "7.4.3.a",
-      "section_title": "7.4.3.a. Testosterone monitoring",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "medium",
-      "fact": "monitoring of serum testosterone, creatinine, liver function and metabolic parameters",
+      "correct": 0,
+      "explanation": "The text explicitly states that 'regular clinical follow-up is mandatory and cannot be replaced by imaging or laboratory tests alone' to detect disease- and treatment-related complaints. Option D is the opposite of what the text states, making it clearly incorrect.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#7.4.2-purpose-of-follow-up",
+      "section_title": "7.4.2. Purpose of follow-up",
+      "source_text": "Androgen deprivation therapy is used in various situations: combined with RT for localised or locally advanced disease for relapse after a local treatment, or in the presence of metastatic disease in combination with other treatments. All these situations are based on the benefits of testosterone blockage or suppression either by drugs (LHRH agonists or antagonists) or orchidectomy. In the majority of patients with metastatic PCa, castrate resistance will develop, which is defined as PCa progres"
     },
     {
-      "id": "prostate-cancer-followup-043",
-      "question": "Why is assessment of bone density considered essential in men receiving ADT?",
+      "id": "prostate-cancer-followup-234",
+      "question": "How frequently should patients be evaluated after initiation of ADT?",
       "options": [
         {
           "id": "A",
-          "text": "To monitor for prostate cancer bone metastases"
-        },
-        {
-          "id": "B",
-          "text": "Because ADT-induced bone density loss increases the risk of fractures"
-        },
-        {
-          "id": "C",
-          "text": "To determine appropriate ADT dosing"
-        },
-        {
-          "id": "D",
-          "text": "To assess response to anti-androgen therapy"
-        }
-      ],
-      "correct": "B",
-      "explanation": "Section 7.4.3.a states that androgen-deprivation therapy induced bone density loss increases the risk of fractures, therefore assessment of bone density before and during treatment with ADT is essential.",
-      "section": "7.4.3.a",
-      "section_title": "7.4.3.a. Testosterone monitoring",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "Androgen-deprivation therapy induced bone density loss increases the risk of fractures",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-044",
-      "question": "What is the reported percentage of men who may experience temporary testosterone surges during long-term ADT treatment?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Up to 24%"
-        },
-        {
-          "id": "B",
-          "text": "Up to 38%"
-        },
-        {
-          "id": "C",
-          "text": "Up to 41%"
-        },
-        {
-          "id": "D",
-          "text": "Up to 13%"
-        }
-      ],
-      "correct": "A",
-      "explanation": "Section 7.4.3b states that up to 24% of men may experience temporary testosterone surges (testosterone > 50ng/dL) during long-term treatment, referred to as 'acute on-chronic effect' or 'breakthrough response'.",
-      "section": "7.4.3b",
-      "section_title": "7.4.3.b. Liver function monitoring",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "Up to 24% of men may experience temporary testosterone surges (testosterone > 50ng/dL) during long-term treatment.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-045",
-      "question": "What is the suggested frequency for testosterone level assessment to ensure castration is achieved and maintained?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Every 6-12 months"
-        },
-        {
-          "id": "B",
           "text": "Every 1-2 months"
         },
         {
-          "id": "C",
+          "id": "B",
           "text": "Every 3-6 months"
         },
         {
+          "id": "C",
+          "text": "Every 6-12 months"
+        },
+        {
           "id": "D",
-          "text": "Every month"
+          "text": "Annually"
         }
       ],
-      "correct": "C",
-      "explanation": "Section 7.4.3b suggests a three- to six-month testosterone level assessment to ensure castration is achieved (especially during medical castration) and maintained.",
-      "section": "7.4.3b",
-      "section_title": "7.4.3.b. Liver function monitoring",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "medium",
-      "fact": "A three- to six-month testosterone level assessment has been suggested to ensure castration is achieved and maintained.",
+      "correct": 1,
+      "explanation": "The guideline states that after the initiation of ADT, patients should be evaluated every three to six months, though this must be individualised.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#7.4.3-general-follow-up-of-men-on-hormonal-therapy",
+      "section_title": "7.4.3. General follow-up of men on hormonal therapy",
+      "source_text": "The main objectives of follow-up in patients receiving ADT are to ensure treatment compliance, to monitor treatment response, to detect and manage side effects early, and to guide treatment at the time point of clinical progression. After the initiation of ADT, it is recommended that patients be evaluated every three to six months. This must be individualised, and each patient should be advised to contact his physician in the event of troublesome symptoms. This is even more important for patient"
     },
     {
-      "id": "prostate-cancer-followup-046",
-      "question": "What percentage of patients fail to achieve castrate testosterone levels on ADT?",
+      "id": "prostate-cancer-followup-235",
+      "question": "What is the recommended follow-up frequency for the first three months when ADT is combined with an ARPI?",
       "options": [
         {
           "id": "A",
-          "text": "5-15%"
+          "text": "Every 3-6 months"
         },
         {
           "id": "B",
+          "text": "Every 6-12 months"
+        },
+        {
+          "id": "C",
+          "text": "Monthly"
+        },
+        {
+          "id": "D",
+          "text": "Every 2-3 months"
+        }
+      ],
+      "correct": 2,
+      "explanation": "The guideline specifies that for patients receiving a combination of ADT and ARPI, the frequency of follow-up is monthly for the first three months.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.4.3-general-follow-up-of-men-on-hormonal-therapy",
+      "section_title": "7.4.3. General follow-up of men on hormonal therapy",
+      "source_text": "The main objectives of follow-up in patients receiving ADT are to ensure treatment compliance, to monitor treatment response, to detect and manage side effects early, and to guide treatment at the time point of clinical progression. After the initiation of ADT, it is recommended that patients be evaluated every three to six months. This must be individualised, and each patient should be advised to contact his physician in the event of troublesome symptoms. This is even more important for patient"
+    },
+    {
+      "id": "prostate-cancer-followup-236",
+      "question": "According to the guideline, what percentage of patients experience breakthrough for the testosterone threshold <20 ng/dL?",
+      "options": [
+        {
+          "id": "A",
           "text": "13-38%"
         },
         {
+          "id": "B",
+          "text": "24%"
+        },
+        {
           "id": "C",
-          "text": "40-50%"
+          "text": "41.3%"
         },
         {
           "id": "D",
-          "text": "2-10%"
+          "text": "50%"
         }
       ],
-      "correct": "B",
-      "explanation": "Section 7.4.3b explicitly states that approximately 13-38% of patients fail to achieve castrate testosterone levels (< 20ng/dL or < 50ng/dL) when receiving medical castration.",
-      "section": "7.4.3b",
-      "section_title": "7.4.3.b. Liver function monitoring",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "Approximately 13-38% of patients fail to achieve castrate testosterone levels.",
+      "correct": 2,
+      "explanation": "The text states that breakthrough rates for the <20 ng/dL threshold were found to be more frequent (41.3%).",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#7.4.3.a-testosterone-monitoring",
+      "section_title": "7.4.3.a. Testosterone monitoring",
+      "source_text": "Testosterone monitoring should be considered standard clinical practice in men on ADT. Many men receiving medical castration will achieve a castrate testosterone level (&lt;&nbsp;20ng/dL), and most will achieve a testosterone level&nbsp;(&lt;&nbsp;50ng/dL). However, approximately 13&ndash;38% of patients fail to achieve these levels, and up to 24% of men may experience temporary testosterone surges (testosterone&nbsp;&gt;&nbsp;50ng/dL) during long-term treatment [1438] - a condition referred to"
     },
     {
-      "id": "prostate-cancer-followup-047",
-      "question": "How frequently should transaminase levels be checked in all men receiving combined ADT according to the guideline?",
+      "id": "prostate-cancer-followup-237",
+      "question": "What is the recommended management if a castrate testosterone level is not reached on ADT?",
       "options": [
         {
           "id": "A",
-          "text": "At least once yearly"
+          "text": "Increase the dose of current medication and recheck after 1 month"
         },
         {
           "id": "B",
-          "text": "At least twice yearly"
+          "text": "Perform immediate prostate biopsy to assess tumor progression"
         },
         {
           "id": "C",
-          "text": "At least quarterly"
+          "text": "Switch to another agonist or antagonist or to an orchiectomy"
         },
         {
           "id": "D",
-          "text": "At least monthly"
+          "text": "Add radiotherapy as adjunct treatment"
         }
       ],
-      "correct": "A",
-      "explanation": "According to section 7.4.3.c, transaminase levels should be checked at least once yearly in all men receiving combined ADT. More frequent monitoring is recommended only during the first six months after treatment initiation.",
-      "section": "7.4.3.c",
-      "section_title": "7.4.3.c. Serum creatinine and haematological parameters",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "Transaminase levels should be checked at least once yearly in all men receiving combined ADT.",
+      "correct": 2,
+      "explanation": "The guideline explicitly states that if a castrate testosterone level is not reached, switching to another agonist or antagonist or to an orchiectomy should be considered.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#7.4.3.a-testosterone-monitoring",
+      "section_title": "7.4.3.a. Testosterone monitoring",
+      "source_text": "Testosterone monitoring should be considered standard clinical practice in men on ADT. Many men receiving medical castration will achieve a castrate testosterone level (&lt;&nbsp;20ng/dL), and most will achieve a testosterone level&nbsp;(&lt;&nbsp;50ng/dL). However, approximately 13&ndash;38% of patients fail to achieve these levels, and up to 24% of men may experience temporary testosterone surges (testosterone&nbsp;&gt;&nbsp;50ng/dL) during long-term treatment [1438] - a condition referred to"
     },
     {
-      "id": "prostate-cancer-followup-048",
+      "id": "prostate-cancer-followup-238",
+      "question": "How frequently should transaminase levels be checked in all men receiving combined ADT?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At least once monthly"
+        },
+        {
+          "id": "B",
+          "text": "At least once every six months"
+        },
+        {
+          "id": "C",
+          "text": "At least once yearly"
+        },
+        {
+          "id": "D",
+          "text": "Only when symptoms occur"
+        }
+      ],
+      "correct": 2,
+      "explanation": "The guideline explicitly states that 'transaminase levels should be checked at least once yearly in all men receiving combined ADT.'",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.4.3.b-liver-function-monitoring",
+      "section_title": "7.4.3.b. Liver function monitoring",
+      "source_text": "Liver function tests will detect treatment toxicity this is especially applicable for NSAA abiraterone acetate and novel AR antagonists. These tests rarely indicate disease progression but are crucial for monitoring adverse events. Transaminase levels should be checked at least once yearly in all men receiving combined ADT. However, more frequent monitoring is warranted in the first six months after treatment initiation, as liver function abnormalities were most commonly observed during this per"
+    },
+    {
+      "id": "prostate-cancer-followup-239",
       "question": "During which period were liver function abnormalities most commonly observed in large clinical trials?",
       "options": [
         {
           "id": "A",
-          "text": "First six months after treatment initiation"
-        },
-        {
-          "id": "B",
           "text": "After the first year of treatment"
         },
         {
+          "id": "B",
+          "text": "During the first six months after treatment initiation"
+        },
+        {
           "id": "C",
-          "text": "During the second year of treatment"
+          "text": "During the entire duration of treatment"
         },
         {
           "id": "D",
-          "text": "After treatment discontinuation"
+          "text": "Only at treatment discontinuation"
         }
       ],
-      "correct": "A",
-      "explanation": "Section 7.4.3.c states that liver function abnormalities were most commonly observed during the first six months after treatment initiation in large clinical trials, which is why more frequent monitoring is warranted during this period.",
-      "section": "7.4.3.c",
-      "section_title": "7.4.3.c. Serum creatinine and haematological parameters",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "Liver function abnormalities were most commonly observed during this period in large clinical trials.",
+      "correct": 1,
+      "explanation": "The text states that 'liver function abnormalities were most commonly observed during this period in large clinical trials,' referring to the first six months after treatment initiation.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#7.4.3.b-liver-function-monitoring",
+      "section_title": "7.4.3.b. Liver function monitoring",
+      "source_text": "Liver function tests will detect treatment toxicity this is especially applicable for NSAA abiraterone acetate and novel AR antagonists. These tests rarely indicate disease progression but are crucial for monitoring adverse events. Transaminase levels should be checked at least once yearly in all men receiving combined ADT. However, more frequent monitoring is warranted in the first six months after treatment initiation, as liver function abnormalities were most commonly observed during this per"
     },
     {
-      "id": "prostate-cancer-followup-049",
-      "question": "Which drug is specifically mentioned as requiring more intensive monitoring due to its higher hepatotoxic potential?",
+      "id": "prostate-cancer-followup-240",
+      "question": "According to the guideline, what is the significance of haemoglobin decline timing in patients receiving ADT?",
       "options": [
         {
           "id": "A",
-          "text": "Abiraterone acetate"
+          "text": "An early decrease at 3 months predicts better survival, while a decrease beyond 6 months is associated with poor outcome"
         },
         {
           "id": "B",
-          "text": "Enzalutamide"
+          "text": "A decrease at any time point consistently indicates disease progression"
         },
         {
           "id": "C",
-          "text": "Degarelix"
+          "text": "Declines occurring before 3 months are the strongest predictor of poor survival"
         },
         {
           "id": "D",
-          "text": "Bicalutamide"
+          "text": "The timing of haemoglobin decline has no prognostic significance"
         }
       ],
-      "correct": "A",
-      "explanation": "Section 7.4.3.c explicitly states that more intensive monitoring is advised for agents known to have higher hepatotoxic potential, such as abiraterone acetate. The guideline notes that monitoring frequency may vary depending on the specific drug used.",
-      "section": "7.4.3.c",
+      "correct": 0,
+      "explanation": "The text states that 'an early decrease in haemoglobin three months after ADT initiation predicted better survival, whereas a decrease beyond six months was associated with poor outcome in the SPCG-5 population'.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.4.3.c-serum-creatinine-and-haematological-parameters",
       "section_title": "7.4.3.c. Serum creatinine and haematological parameters",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "medium",
-      "fact": "More intensive monitoring advised for agents known to have higher hepatotoxic potential, such as abiraterone acetate.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "source_text": "Estimated glomerular filtration rate monitoring is good clinical practice because an increase may be linked to ureteral obstruction or bladder retention. A decline in haemoglobin is a known side effect of ADT. A significant decline after three months of ADT is independently associated with shorter progression-free and OS rates and might explain significant fatigue, although other causes should be considered [1461]. Anaemia is often multifactorial and other possible aetiologies should be excluded"
     },
     {
-      "id": "prostate-cancer-followup-050",
-      "question": "Why is estimated glomerular filtration rate (eGFR) monitoring recommended during ADT for prostate cancer?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Because an increase in eGFR may be linked to ureteral obstruction or bladder retention"
-        },
-        {
-          "id": "B",
-          "text": "Because ADT commonly causes acute kidney injury requiring dose adjustment"
-        },
-        {
-          "id": "C",
-          "text": "Because eGFR declines predict cardiovascular events in this population"
-        },
-        {
-          "id": "D",
-          "text": "Because dose adjustments of ADT are based on renal function measurements"
-        }
-      ],
-      "correct": "A",
-      "explanation": "According to Section 7.4.3.d, eGFR monitoring is good clinical practice because an increase may be linked to ureteral obstruction or bladder retention. This monitoring helps detect potential complications early.",
-      "section": "7.4.3.d",
-      "section_title": "7.4.3.d. Monitoring of metabolic complications",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "Estimated glomerular filtration rate monitoring is good clinical practice because an increase may be linked to ureteral obstruction or bladder retention.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-051",
-      "question": "According to the guideline, what is the clinical significance of a significant decline in haemoglobin after three months of ADT?",
+      "id": "prostate-cancer-followup-241",
+      "question": "What is the clinical significance of a significant decline in haemoglobin after three months of ADT?",
       "options": [
         {
           "id": "A",
@@ -1564,441 +1029,152 @@
         },
         {
           "id": "B",
-          "text": "It is a normal physiological adaptation that resolves without intervention"
+          "text": "It always indicates tumour progression requiring immediate treatment modification"
         },
         {
           "id": "C",
-          "text": "It is only clinically relevant if accompanied by symptoms of fatigue"
+          "text": "It is primarily caused by bone marrow metastasis"
         },
         {
           "id": "D",
-          "text": "It indicates resistance to hormonal therapy requiring treatment change"
+          "text": "It predicts excellent response to ADT and long-term remission"
         }
       ],
-      "correct": "A",
-      "explanation": "Section 7.4.3.d states that a significant decline in haemoglobin after three months of ADT is independently associated with shorter progression-free and overall survival rates. This finding may explain fatigue, though other causes should be considered.",
-      "section": "7.4.3.d",
-      "section_title": "7.4.3.d. Monitoring of metabolic complications",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "medium",
-      "fact": "A significant decline after three months of ADT is independently associated with shorter progression-free and OS rates",
+      "correct": 0,
+      "explanation": "The guideline explicitly states that 'a significant decline after three months of ADT is independently associated with shorter progression-free and OS rates'.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#7.4.3.c-serum-creatinine-and-haematological-parameters",
+      "section_title": "7.4.3.c. Serum creatinine and haematological parameters",
+      "source_text": "Estimated glomerular filtration rate monitoring is good clinical practice because an increase may be linked to ureteral obstruction or bladder retention. A decline in haemoglobin is a known side effect of ADT. A significant decline after three months of ADT is independently associated with shorter progression-free and OS rates and might explain significant fatigue, although other causes should be considered [1461]. Anaemia is often multifactorial and other possible aetiologies should be excluded"
     },
     {
-      "id": "prostate-cancer-followup-052",
-      "question": "Based on the SPCG-5 study data cited in the guideline, what is the prognostic significance of the timing of haemoglobin decrease after ADT initiation?",
+      "id": "prostate-cancer-followup-242",
+      "question": "What baseline screening tests are recommended for all patients before starting androgen deprivation therapy (ADT)?",
       "options": [
         {
           "id": "A",
-          "text": "An early decrease at three months predicts better survival, while a decrease beyond six months is associated with poor outcome"
+          "text": "Fasting glucose and HbA1c to screen for diabetes"
         },
         {
           "id": "B",
-          "text": "A decrease at any timepoint predicts poor overall survival regardless of timing"
+          "text": "Prostate-specific antigen (PSA) and testosterone levels"
         },
         {
           "id": "C",
-          "text": "Early decreases are associated with poorer prognosis compared to later decreases"
-        },
-        {
-          "id": "D",
-          "text": "Timing of haemoglobin decrease has no prognostic significance according to SPCG-5 data"
-        }
-      ],
-      "correct": "A",
-      "explanation": "According to Section 7.4.3.d, the SPCG-5 study demonstrated that an early decrease in haemoglobin at three months after ADT initiation predicted better survival, whereas a decrease beyond six months was associated with poor outcome in this patient population.",
-      "section": "7.4.3.d",
-      "section_title": "7.4.3.d. Monitoring of metabolic complications",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "hard",
-      "fact": "An early decrease in haemoglobin three months after ADT initiation predicted better survival, whereas a decrease beyond six months was associated with poor outcome in the SPCG-5 population",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-053",
-      "question": "According to the guideline, which baseline investigations are recommended for ALL patients prior to starting androgen deprivation therapy (ADT)?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Fasting glucose, HbA1c, and blood lipid levels"
-        },
-        {
-          "id": "B",
-          "text": "Bone mineral density scan and serum calcium"
-        },
-        {
-          "id": "C",
-          "text": "Prostate-specific antigen and testosterone levels"
+          "text": "Bone densitometry and calcium levels"
         },
         {
           "id": "D",
           "text": "Liver function tests and complete blood count"
         }
       ],
-      "correct": "A",
-      "explanation": "The guideline explicitly states that all patients should be screened for diabetes by checking fasting glucose and HbA1c at baseline and routinely, in addition to checking blood lipid levels. These metabolic assessments are required before and during ADT.",
-      "section": "7.4.3.e",
+      "correct": 0,
+      "explanation": "The guideline states that all patients should be screened for diabetes by checking fasting glucose and HbA1c at baseline and routinely, in addition to checking blood lipid levels.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.4.3.d-monitoring-of-metabolic-complications",
+      "section_title": "7.4.3.d. Monitoring of metabolic complications",
+      "source_text": "The most severe complications of androgen suppression are metabolic syndrome, cardiovascular morbidity, mental health problems and bone resorption (see Section 8.2.5). All patients should be screened for diabetes by checking fasting glucose and HbA1c (at baseline and routinely) in addition to checking blood lipid levels. Men with impaired glucose tolerance and/or diabetes should be referred for an endocrine consultation. Prior to starting ADT, an ECG should be done. A cardiology consultation is"
+    },
+    {
+      "id": "prostate-cancer-followup-243",
+      "question": "Which cardiac investigation is mandatory before initiating androgen deprivation therapy in all men?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Echocardiography (ECHO)"
+        },
+        {
+          "id": "B",
+          "text": "Electrocardiography (ECG)"
+        },
+        {
+          "id": "C",
+          "text": "Cardiac stress test"
+        },
+        {
+          "id": "D",
+          "text": "Coronary CT angiography"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The guideline clearly states that an ECG should be done prior to starting ADT. ECHO is mentioned as additional testing only in men with history of cardiovascular disease depending on the combination drug planned.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.4.3.d-monitoring-of-metabolic-complications",
+      "section_title": "7.4.3.d. Monitoring of metabolic complications",
+      "source_text": "The most severe complications of androgen suppression are metabolic syndrome, cardiovascular morbidity, mental health problems and bone resorption (see Section 8.2.5). All patients should be screened for diabetes by checking fasting glucose and HbA1c (at baseline and routinely) in addition to checking blood lipid levels. Men with impaired glucose tolerance and/or diabetes should be referred for an endocrine consultation. Prior to starting ADT, an ECG should be done. A cardiology consultation is"
+    },
+    {
+      "id": "prostate-cancer-followup-244",
+      "question": "According to the guidelines, which imaging modality should be used for routine bone monitoring at the start of androgen deprivation therapy (ADT)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "DEXA scan"
+        },
+        {
+          "id": "B",
+          "text": "Bone ultrasound"
+        },
+        {
+          "id": "C",
+          "text": "MRI"
+        },
+        {
+          "id": "D",
+          "text": "CT scan"
+        }
+      ],
+      "correct": 0,
+      "explanation": "The text explicitly states that 'routine bone monitoring for osteoporosis should be performed at the start of ADT using dual emission X-ray absorptiometry (DEXA) scan.' DEXA scan is the only imaging modality mentioned for bone monitoring in this context.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.4.3.e-monitoring-bone-problems",
       "section_title": "7.4.3.e. Monitoring bone problems",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "All patients should be screened for diabetes by checking fasting glucose and HbA1c (at baseline and routinely) in addition to checking blood lipid levels.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "source_text": "Androgen deprivation therapy increases the risk of osteoporosis. A combination of ADT with apalutamide, darolutamide, enzalutamide, abiraterone plus prednisone or docetaxel increases the fracture risk even further [1245,1466,1467]. Administration of ADT for more than a year, as compared to less than one year, showed a higher risk of osteoporosis (HR: 1.77 and 1.38, respectively) [1468]. Several scores (e.g. Fracture Risk Assessment Tool [FRAX score], Osteoporosis Self-Assessment Tool [OST], Oste"
     },
     {
-      "id": "prostate-cancer-followup-054",
-      "question": "Which of the following is NOT listed as a severe complication of androgen suppression?",
+      "id": "prostate-cancer-followup-245",
+      "question": "Which patient group has been shown to have the highest incidence of fractures according to the guideline?",
       "options": [
         {
           "id": "A",
-          "text": "Metabolic syndrome"
+          "text": "Younger men on short-term ADT"
         },
         {
           "id": "B",
-          "text": "Bone resorption"
+          "text": "Men with low baseline vitamin D levels"
         },
         {
           "id": "C",
-          "text": "Nephrotoxicity"
+          "text": "Older men and men on additional novel ARPI medication"
         },
         {
           "id": "D",
-          "text": "Cardiovascular morbidity"
+          "text": "Men receiving ADT without any additional therapy"
         }
       ],
-      "correct": "C",
-      "explanation": "The guideline states the most severe complications of androgen suppression are metabolic syndrome, cardiovascular morbidity, mental health problems, and bone resorption. Nephrotoxicity is not mentioned as a complication of ADT in this section.",
-      "section": "7.4.3.e",
+      "correct": 2,
+      "explanation": "The text states there is a 'near doubling of the risk of fractures when using ADT depending on patients' age and duration and type of ADT with the highest incidence in older men and men on additional novel ARPI medication.' This indicates that older men and those on novel ARPI medications have the highest fracture incidence.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.4.3.e-monitoring-bone-problems",
       "section_title": "7.4.3.e. Monitoring bone problems",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "The most severe complications of androgen suppression are metabolic syndrome, cardiovascular morbidity, mental health problems and bone resorption.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "source_text": "Androgen deprivation therapy increases the risk of osteoporosis. A combination of ADT with apalutamide, darolutamide, enzalutamide, abiraterone plus prednisone or docetaxel increases the fracture risk even further [1245,1466,1467]. Administration of ADT for more than a year, as compared to less than one year, showed a higher risk of osteoporosis (HR: 1.77 and 1.38, respectively) [1468]. Several scores (e.g. Fracture Risk Assessment Tool [FRAX score], Osteoporosis Self-Assessment Tool [OST], Oste"
     },
     {
-      "id": "prostate-cancer-followup-055",
-      "question": "A patient on androgen deprivation therapy is found to have impaired glucose tolerance. According to the guideline, what is the recommended management?",
+      "id": "prostate-cancer-followup-246",
+      "question": "According to the guideline, how does ADT affect the risk of depression in men?",
       "options": [
         {
           "id": "A",
-          "text": "Refer for endocrine consultation"
+          "text": "It slightly increases the risk but the data is inconclusive"
         },
         {
           "id": "B",
-          "text": "Discontinue ADT immediately"
-        },
-        {
-          "id": "C",
-          "text": "Reduce ADT dose by half"
-        },
-        {
-          "id": "D",
-          "text": "Start vitamin D supplementation"
-        }
-      ],
-      "correct": "A",
-      "explanation": "The guideline explicitly states that men with impaired glucose tolerance and/or diabetes should be referred for an endocrine consultation. This is part of the metabolic monitoring protocol for patients on ADT.",
-      "section": "7.4.3.e",
-      "section_title": "7.4.3.e. Monitoring bone problems",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "medium",
-      "fact": "Men with impaired glucose tolerance and/or diabetes should be referred for an endocrine consultation.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-056",
-      "question": "What is the minimum cardiac investigation required before starting ADT in a man with no history of cardiovascular disease?",
-      "options": [
-        {
-          "id": "A",
-          "text": "ECG only"
-        },
-        {
-          "id": "B",
-          "text": "ECHO only"
-        },
-        {
-          "id": "C",
-          "text": "Both ECG and ECHO"
-        },
-        {
-          "id": "D",
-          "text": "Stress test and coronary angiography"
-        }
-      ],
-      "correct": "A",
-      "explanation": "The guideline states that prior to starting ADT, an ECG should be done. A cardiology consultation is recommended as a minimum in men with a history of cardiovascular disease, and depending on the combination drug planned, also an ECHO. For patients without cardiovascular history, ECG is the minimum requirement.",
-      "section": "7.4.3.e",
-      "section_title": "7.4.3.e. Monitoring bone problems",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "medium",
-      "fact": "Prior to starting ADT, an ECG should be done. A cardiology consultation is recommended, as a minimum, in men with a history of cardiovascular disease, and depending on the combination drug planned, also an ECHO.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-057",
-      "question": "The guideline states that cardiorespiratory fitness decreased even after how many months of ADT?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Three months"
-        },
-        {
-          "id": "B",
-          "text": "Six months"
-        },
-        {
-          "id": "C",
-          "text": "Twelve months"
-        },
-        {
-          "id": "D",
-          "text": "Twenty-four months"
-        }
-      ],
-      "correct": "B",
-      "explanation": "The guideline explicitly mentions that cardiorespiratory fitness decreased even after six months of ADT, highlighting the impact of androgen deprivation on physical function.",
-      "section": "7.4.3.e",
-      "section_title": "7.4.3.e. Monitoring bone problems",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "Cardiorespiratory fitness decreased even after six months of ADT.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-058",
-      "question": "According to the EAU guidelines, at what PSA threshold should imaging be considered in patients with androgen-sensitive non-metastasised prostate cancer?",
-      "options": [
-        {
-          "id": "A",
-          "text": "When PSA is rising > 2 ng/mL"
-        },
-        {
-          "id": "B",
-          "text": "When PSA is rising > 1 ng/mL"
-        },
-        {
-          "id": "C",
-          "text": "When PSA reaches > 5 ng/mL"
-        },
-        {
-          "id": "D",
-          "text": "When PSA reaches > 10 ng/mL"
-        }
-      ],
-      "correct": "A",
-      "explanation": "Section 7.4.4.b states that imaging should be considered when PSA is rising > 2ng/mL in patients with androgen-sensitive non-metastasised PCa.",
-      "section": "7.4.4.b",
-      "section_title": "7.4.4.b. Imaging",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "Imaging should be considered when PSA is rising > 2ng/mL",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-059",
-      "question": "What role does prostate-specific antigen (PSA) play in the follow-up of androgen-sensitive non-metastasised prostate cancer?",
-      "options": [
-        {
-          "id": "A",
-          "text": "PSA is a key marker for following the course of the disease"
-        },
-        {
-          "id": "B",
-          "text": "PSA is only used for initial diagnosis"
-        },
-        {
-          "id": "C",
-          "text": "PSA is primarily used to assess response to chemotherapy"
-        },
-        {
-          "id": "D",
-          "text": "PSA has limited utility in disease monitoring"
-        }
-      ],
-      "correct": "A",
-      "explanation": "Section 7.4.4.b explicitly states that PSA is a key marker for following the course of androgen-sensitive non-metastasised PCa.",
-      "section": "7.4.4.b",
-      "section_title": "7.4.4.b. Imaging",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "Prostate-specific antigen is a key marker for following the course of androgen-sensitive non-metastasised PCa",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-060",
-      "question": "In which clinical scenario should imaging be considered during follow-up of non-metastasised prostate cancer according to the EAU guidelines?",
-      "options": [
-        {
-          "id": "A",
-          "text": "When PSA is rising > 2 ng/mL or in case of symptoms suggestive of metastasis"
-        },
-        {
-          "id": "B",
-          "text": "Only when PSA exceeds 10 ng/mL regardless of symptoms"
-        },
-        {
-          "id": "C",
-          "text": "Only when the patient reports bone pain"
-        },
-        {
-          "id": "D",
-          "text": "At every routine clinic visit regardless of PSA levels or symptoms"
-        }
-      ],
-      "correct": "A",
-      "explanation": "Section 7.4.4.b specifies two indications for imaging: when PSA is rising > 2ng/mL or in case of symptoms suggestive of metastasis.",
-      "section": "7.4.4.b",
-      "section_title": "7.4.4.b. Imaging",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "medium",
-      "fact": "Imaging should be considered when PSA is rising > 2ng/mL or in case of symptoms suggestive of metastasis",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-061",
-      "question": "Which imaging modality offers higher sensitivity for detecting progression in men with hormone-sensitive metastatic prostate cancer under ADT?",
-      "options": [
-        {
-          "id": "A",
-          "text": "PSMA-PET/CT"
-        },
-        {
-          "id": "B",
-          "text": "Bone scan alone"
-        },
-        {
-          "id": "C",
-          "text": "Conventional CT or MRI alone"
-        },
-        {
-          "id": "D",
-          "text": "Transrectal ultrasound"
-        }
-      ],
-      "correct": "A",
-      "explanation": "Section 7.4.5 states that the choice of imaging modality is between PSMA-PET/CT, which offers higher sensitivity, and conventional imaging. PSMA-PET/CT's superior sensitivity may allow detection of progression earlier than conventional imaging.",
-      "section": "7.4.5",
-      "section_title": "7.4.5. Methods for follow-up in men under ADT for hormone-sensitive metastatic PCa",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "The choice of imaging modality is between PSMA-PET/CT, which offers higher sensitivity, and conventional imaging (CI) with CT or MRI and bone scan",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-062",
-      "question": "According to current guidelines, how should asymptomatic patients with stable PSA levels during ADT be managed regarding imaging?",
-      "options": [
-        {
-          "id": "A",
-          "text": "No imaging is required as PSA is stable"
-        },
-        {
-          "id": "B",
-          "text": "Imaging should be scheduled regularly"
-        },
-        {
-          "id": "C",
-          "text": "Imaging is only needed if symptoms develop"
-        },
-        {
-          "id": "D",
-          "text": "PSA testing alone is sufficient for monitoring"
-        }
-      ],
-      "correct": "B",
-      "explanation": "Section 7.4.5 explicitly states that imaging should be scheduled regularly, including in asymptomatic patients with stable PSA. The earlier recommendation that asymptomatic patients with stable PSA do not require further imaging may no longer hold true.",
-      "section": "7.4.5",
-      "section_title": "7.4.5. Methods for follow-up in men under ADT for hormone-sensitive metastatic PCa",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "medium",
-      "fact": "Imaging should be scheduled regularly, including in asymptomatic patients with stable PSA, because the earlier recommendation that asymptomatic patients with a stable PSA level do not require further imaging may no longer hold true",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-063",
-      "question": "In which patient population may PSA levels fail to reflect actual tumour progression despite being stable?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Patients with low-volume disease"
-        },
-        {
-          "id": "B",
-          "text": "Patients with aggressive variant tumours"
-        },
-        {
-          "id": "C",
-          "text": "Patients with only lymph node metastases"
-        },
-        {
-          "id": "D",
-          "text": "Patients with PSA below 10 ng/mL"
-        }
-      ],
-      "correct": "B",
-      "explanation": "Section 7.4.5 specifically states that in patients with aggressive variants, PSA levels may not reflect tumour progression. This is particularly relevant as it makes regular imaging especially important in this population.",
-      "section": "7.4.5",
-      "section_title": "7.4.5. Methods for follow-up in men under ADT for hormone-sensitive metastatic PCa",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "hard",
-      "fact": "This is particularly the case in patients with aggressive variants when PSA levels may not reflect tumour progression",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-064",
-      "question": "When PSA progression suggests castration-resistant prostate cancer (CRPC) status and treatment modification is being considered, which imaging is currently recommended for restaging?",
-      "options": [
-        {
-          "id": "A",
-          "text": "PSMA-PET/CT only"
-        },
-        {
-          "id": "B",
-          "text": "MRI of the prostate only"
-        },
-        {
-          "id": "C",
-          "text": "Bone scan and CT scan"
-        },
-        {
-          "id": "D",
-          "text": "Chest X-ray and abdominal ultrasound"
-        }
-      ],
-      "correct": "C",
-      "explanation": "Section 7.4.5 states that when PSA progression suggests CRPC status and treatment modification is considered, imaging by means of a bone and CT scan is currently recommended for restaging.",
-      "section": "7.4.5",
-      "section_title": "7.4.5. Methods for follow-up in men under ADT for hormone-sensitive metastatic PCa",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "medium",
-      "fact": "When PSA progression suggests CRPC status and treatment modification is considered, imaging, by means of a bone and CT scan, is currently recommended for restaging",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-065",
-      "question": "According to the guidelines, how does androgen deprivation therapy (ADT) affect the risk of depression in men?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Men on ADT are slightly more likely to report depression (10-20% increase)"
-        },
-        {
-          "id": "B",
-          "text": "Men on ADT are twice as likely to report depression"
+          "text": "It reduces the risk of depression compared to the general population"
         },
         {
           "id": "C",
@@ -2006,421 +1182,481 @@
         },
         {
           "id": "D",
-          "text": "Men on ADT are half as likely to report depression"
+          "text": "It has no significant effect on mental health"
         }
       ],
-      "correct": "C",
-      "explanation": "Section 7.4.4 explicitly states that men on ADT are three times more likely to report depression, making this an integral aspect of the follow-up scheme.",
-      "section": "7.4.4",
-      "section_title": "7.4.4. Follow-up of patients on ADT (non-metastatic mHSPCa)",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "Androgen deprivation therapy may affect mental and cognitive health and men on ADT are three times more likely to report depression.",
+      "correct": 2,
+      "explanation": "The text explicitly states 'men on ADT are three times more likely to report depression.' This statistic highlights why attention to mental health should be an integral part of the follow-up scheme for these patients.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#7.4.3.f-monitoring-lifestyle-mental-health-cognition-fatigue-and-sexual-function",
+      "section_title": "7.4.3.f. Monitoring lifestyle, mental health, cognition, fatigue and sexual function",
+      "source_text": "Lifestyle (e.g. diet, exercise, smoking status and so on) affects QoL and potentially outcome [1475]. During follow-up, men should be counselled on the beneficial effects of exercise to decrease ADT-related toxicity [1476]. Androgen deprivation therapy may affect mental and cognitive health and men on ADT are three times more likely to report depression [1477]. Attention to mental health should therefore be an integral part of the follow-up scheme. Men on ADT may experience complaints of fatigue"
     },
     {
-      "id": "prostate-cancer-followup-066",
-      "question": "Within what timeframe after initiating ADT may reduced cognitive performance and fatigue arise, and how may they change over time?",
+      "id": "prostate-cancer-followup-247",
+      "question": "What proportion of couples cease sexual activity after a man starts ADT?",
       "options": [
         {
           "id": "A",
-          "text": "Within 12 months and worsen progressively without intervention"
+          "text": "About 50% of couples"
         },
         {
           "id": "B",
-          "text": "Within 3 months and persist indefinitely at the same level"
+          "text": "Approximately 60-70% of couples"
         },
         {
           "id": "C",
-          "text": "Within six months but can improve over time"
+          "text": "More than 80% of couples"
         },
         {
           "id": "D",
-          "text": "Only after 12 months and require permanent medication adjustment"
+          "text": "Less than half of couples"
         }
       ],
-      "correct": "C",
-      "explanation": "The guideline states that reduced cognitive performance and fatigue may arise within six months after initiation of ADT but can improve over time, indicating a potentially reversible side effect.",
-      "section": "7.4.4",
-      "section_title": "7.4.4. Follow-up of patients on ADT (non-metastatic mHSPCa)",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "medium",
-      "fact": "Reduced cognitive performance and fatigue may arise within six months after initiation of ADT but can improve over time.",
+      "correct": 2,
+      "explanation": "The guideline states that ADT 'leads to sexual dysfunction, causing >80% of couples to cease sexual activity completely.' The text also notes that this affects both patients and their partners, recommending that couple counselling should be considered.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#7.4.3.f-monitoring-lifestyle-mental-health-cognition-fatigue-and-sexual-function",
+      "section_title": "7.4.3.f. Monitoring lifestyle, mental health, cognition, fatigue and sexual function",
+      "source_text": "Lifestyle (e.g. diet, exercise, smoking status and so on) affects QoL and potentially outcome [1475]. During follow-up, men should be counselled on the beneficial effects of exercise to decrease ADT-related toxicity [1476]. Androgen deprivation therapy may affect mental and cognitive health and men on ADT are three times more likely to report depression [1477]. Attention to mental health should therefore be an integral part of the follow-up scheme. Men on ADT may experience complaints of fatigue"
     },
     {
-      "id": "prostate-cancer-followup-067",
-      "question": "According to the guideline, what percentage of couples cease sexual activity completely after starting ADT?",
+      "id": "prostate-cancer-followup-248",
+      "question": "What percentage of men on ADT may experience temporary testosterone surges (testosterone > 50 ng/dL) during long-term treatment?",
       "options": [
         {
           "id": "A",
-          "text": "Approximately 50%"
+          "text": "Up to 10%"
         },
         {
           "id": "B",
-          "text": "Greater than 80%"
+          "text": "Up to 24%"
         },
         {
           "id": "C",
-          "text": "Approximately 30%"
+          "text": "Up to 38%"
         },
         {
           "id": "D",
-          "text": "Less than 20%"
+          "text": "Up to 41%"
         }
       ],
-      "correct": "B",
-      "explanation": "Section 7.4.4 explicitly states that ADT leads to sexual dysfunction, causing greater than 80% of couples to cease sexual activity completely, affecting both patients and partners.",
-      "section": "7.4.4",
-      "section_title": "7.4.4. Follow-up of patients on ADT (non-metastatic mHSPCa)",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "Another aspect of starting ADT is that it leads to sexual dysfunction, causing >80% of couples to cease sexual activity completely.",
+      "correct": 1,
+      "explanation": "The guideline text states that up to 24% of men may experience temporary testosterone surges (testosterone > 50 ng/dL) during long-term treatment, referred to as 'acute on-chronic effect' or 'breakthrough response'.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#7.4.4-follow-up-of-patients-on-adt-non-metastatic-mhspca",
+      "section_title": "7.4.4. Follow-up of patients on ADT (non-metastatic mHSPCa)",
+      "source_text": "Patients under ADT require regular follow-up, including monitoring of serum testosterone, creatinine, liver function and metabolic parameters at three-to six-month intervals. Men on ADT can experience toxicity independent of their disease stage. Androgen-deprivation therapy induced bone density loss increases the risk of fractures [1452]. Therefore, assessment of bone density before and during treatment with ADT with or without a combination with other drugs is essential. As the consequences of"
     },
     {
-      "id": "prostate-cancer-followup-068",
-      "question": "What aspect of care should be considered for patients and their partners regarding sexual dysfunction during ADT follow-up?",
+      "id": "prostate-cancer-followup-249",
+      "question": "According to the guidelines, liver function tests (transaminase levels) should be monitored at which frequency in men receiving combined ADT?",
       "options": [
         {
           "id": "A",
-          "text": "Referral to urologist only"
+          "text": "At least once monthly"
         },
         {
           "id": "B",
-          "text": "Medical management with phosphodiesterase inhibitors"
+          "text": "At least once every three months"
         },
         {
           "id": "C",
-          "text": "Couple counselling"
+          "text": "At least once yearly with more frequent monitoring in the first six months"
         },
         {
           "id": "D",
-          "text": "Surgical intervention"
+          "text": "Only at baseline before treatment initiation"
         }
       ],
-      "correct": "C",
-      "explanation": "The guideline explicitly states that couple counselling should be considered for ADT-related sexual dysfunction, as this aspect affects both patients and their partners.",
-      "section": "7.4.4",
-      "section_title": "7.4.4. Follow-up of patients on ADT (non-metastatic mHSPCa)",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "medium",
-      "fact": "This aspect affects patients as well as their partners, and couple counselling should be considered.",
+      "correct": 2,
+      "explanation": "The guideline text states that transaminase levels should be checked at least once yearly in all men receiving combined ADT, with more frequent monitoring warranted in the first six months after treatment initiation as liver function abnormalities were most commonly observed during this period.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#7.4.4-follow-up-of-patients-on-adt-non-metastatic-mhspca",
+      "section_title": "7.4.4. Follow-up of patients on ADT (non-metastatic mHSPCa)",
+      "source_text": "Patients under ADT require regular follow-up, including monitoring of serum testosterone, creatinine, liver function and metabolic parameters at three-to six-month intervals. Men on ADT can experience toxicity independent of their disease stage. Androgen-deprivation therapy induced bone density loss increases the risk of fractures [1452]. Therefore, assessment of bone density before and during treatment with ADT with or without a combination with other drugs is essential. As the consequences of"
     },
     {
-      "id": "prostate-cancer-followup-069",
-      "question": "According to the guideline, what type of intervention is recommended during ADT follow-up to decrease ADT-related toxicity?",
+      "id": "prostate-cancer-followup-250",
+      "question": "According to the guideline, when should imaging be considered in prostate cancer follow-up?",
       "options": [
         {
           "id": "A",
-          "text": "Pharmacological supplementation"
+          "text": "At every routine follow-up visit regardless of PSA levels"
         },
         {
           "id": "B",
-          "text": "Regular PSA monitoring"
+          "text": "When PSA is rising > 2ng/mL or in case of symptoms suggestive of metastasis"
         },
         {
           "id": "C",
-          "text": "Exercise counselling"
+          "text": "Only when PSA exceeds 10ng/mL to reduce unnecessary imaging"
         },
         {
           "id": "D",
-          "text": "Bone density screening only"
+          "text": "Before starting any form of androgen deprivation therapy"
         }
       ],
-      "correct": "C",
-      "explanation": "Section 7.4.4 states that during follow-up, men should be counselled on the beneficial effects of exercise to decrease ADT-related toxicity, linking lifestyle intervention to symptom management.",
-      "section": "7.4.4",
-      "section_title": "7.4.4. Follow-up of patients on ADT (non-metastatic mHSPCa)",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "hard",
-      "fact": "During follow-up, men should be counselled on the beneficial effects of exercise to decrease ADT-related toxicity.",
+      "correct": 1,
+      "explanation": "The guideline explicitly states that imaging should be considered when PSA is rising > 2ng/mL or in case of symptoms suggestive of metastasis.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#7.4.4.a-prostate-specific-antigen-monitoring",
+      "section_title": "7.4.4.a. Prostate-specific antigen monitoring",
+      "source_text": "Prostate-specific antigen is a key marker for following the course of androgen-sensitive non-metastasised PCa. Imaging should be considered when PSA is rising&nbsp;&gt;&nbsp;2ng/mL or in case of symptoms suggestive of metastasis."
     },
     {
-      "id": "prostate-cancer-followup-070",
-      "question": "According to the guideline, which of the following should be discussed during counseling of metastatic patients receiving hormonal treatment?",
+      "id": "prostate-cancer-followup-251",
+      "question": "What role does prostate-specific antigen play according to this guideline?",
       "options": [
         {
           "id": "A",
-          "text": "Early signs of spinal cord compression, urinary tract complications (ureteral obstruction, bladder outlet obstruction), and bone lesions at increased fracture risk"
+          "text": "A primary screening tool for detecting prostate cancer in asymptomatic men"
         },
         {
           "id": "B",
-          "text": "Symptoms of hepatotoxicity and renal dysfunction"
+          "text": "A key marker for following the course of androgen-sensitive non-metastasised prostate cancer"
         },
         {
           "id": "C",
-          "text": "Pulmonary symptoms and cardiac arrhythmias"
+          "text": "A definitive diagnostic test that replaces the need for biopsy"
         },
         {
           "id": "D",
-          "text": "Neurological deficits and cognitive impairment"
+          "text": "A measure of response to radiation therapy only"
         }
       ],
-      "correct": "A",
-      "explanation": "The guideline explicitly states that in metastatic patients, it is of utmost importance to counsel about early signs of spinal cord compression, urinary tract complications (ureteral obstruction, bladder outlet obstruction), or bone lesions at increased fracture risk. This counseling is critical during follow-up.",
-      "section": "7.4.5.a",
+      "correct": 1,
+      "explanation": "The guideline clearly states that PSA is a key marker for following the course of androgen-sensitive non-metastasised prostate cancer.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.4.4.a-prostate-specific-antigen-monitoring",
+      "section_title": "7.4.4.a. Prostate-specific antigen monitoring",
+      "source_text": "Prostate-specific antigen is a key marker for following the course of androgen-sensitive non-metastasised PCa. Imaging should be considered when PSA is rising&nbsp;&gt;&nbsp;2ng/mL or in case of symptoms suggestive of metastasis."
+    },
+    {
+      "id": "prostate-cancer-followup-252",
+      "question": "What imaging is currently recommended for restaging when PSA progression suggests castration-resistant prostate cancer (CRPC) and treatment modification is considered?",
+      "options": [
+        {
+          "id": "A",
+          "text": "PSMA-PET/CT alone"
+        },
+        {
+          "id": "B",
+          "text": "Bone scan and CT scan"
+        },
+        {
+          "id": "C",
+          "text": "MRI only without bone assessment"
+        },
+        {
+          "id": "D",
+          "text": "PET/MRI combined"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The guideline states that 'when PSA progression suggests CRPC status and treatment modification is considered, imaging, by means of a bone and CT scan, is currently recommended for restaging.'",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.4.4.b-imaging",
+      "section_title": "7.4.4.b. Imaging",
+      "source_text": "The choice of imaging modality is between PSMA-PET/CT, which offers higher sensitivity, and conventional imaging (CI) with CT or MRI and bone scan on which almost all clinical studies and guideline recommendations are based (see Section 5.8). With its higher sensitivity, next-generation imaging may detect progression earlier. Imaging should be scheduled regularly, including in asymptomatic patients with stable PSA, because the earlier recommendation that asymptomatic patients with a stable PSA l"
+    },
+    {
+      "id": "prostate-cancer-followup-253",
+      "question": "What is the current guidance regarding imaging in asymptomatic patients with stable PSA levels?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Imaging should be discontinued"
+        },
+        {
+          "id": "B",
+          "text": "Imaging should be scheduled regularly"
+        },
+        {
+          "id": "C",
+          "text": "Only PSA monitoring is required"
+        },
+        {
+          "id": "D",
+          "text": "Imaging is reserved for symptomatic patients only"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The guideline indicates that 'Imaging should be scheduled regularly, including in asymptomatic patients with stable PSA,' noting that the earlier recommendation that such patients do not require further imaging may no longer hold true.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.4.4.b-imaging",
+      "section_title": "7.4.4.b. Imaging",
+      "source_text": "The choice of imaging modality is between PSMA-PET/CT, which offers higher sensitivity, and conventional imaging (CI) with CT or MRI and bone scan on which almost all clinical studies and guideline recommendations are based (see Section 5.8). With its higher sensitivity, next-generation imaging may detect progression earlier. Imaging should be scheduled regularly, including in asymptomatic patients with stable PSA, because the earlier recommendation that asymptomatic patients with a stable PSA l"
+    },
+    {
+      "id": "prostate-cancer-followup-254",
+      "question": "According to the guideline, when should imaging be considered in patients with androgen-sensitive non-metastasised prostate cancer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "When PSA is rising >1ng/mL"
+        },
+        {
+          "id": "B",
+          "text": "When PSA is rising >2ng/mL or in case of symptoms suggestive of metastasis"
+        },
+        {
+          "id": "C",
+          "text": "Only when PSA exceeds 10ng/mL"
+        },
+        {
+          "id": "D",
+          "text": "Only when patients develop bone pain"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The text explicitly states that imaging should be considered when PSA is rising >2ng/mL or in case of symptoms suggestive of metastasis.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.4.5-methods-for-follow-up-in-men-under-adt-for-hormone-sensitive-metastatic-pca",
+      "section_title": "7.4.5. Methods for follow-up in men under ADT for hormone-sensitive metastatic PCa",
+      "source_text": "7.4.4.a. Prostate-specific antigen monitoring Prostate-specific antigen is a key marker for following the course of androgen-sensitive non-metastasised PCa. Imaging should be considered when PSA is rising&nbsp;&gt;&nbsp;2ng/mL or in case of symptoms suggestive of metastasis. 7.4.4.b. Imaging The choice of imaging modality is between PSMA-PET/CT, which offers higher sensitivity, and conventional imaging (CI) with CT or MRI and bone scan on which almost all clinical studies and guideline recommend"
+    },
+    {
+      "id": "prostate-cancer-followup-255",
+      "question": "Which imaging modality offers higher sensitivity compared to conventional imaging (CT/MRI and bone scan)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "CT scan alone"
+        },
+        {
+          "id": "B",
+          "text": "PSMA-PET/CT"
+        },
+        {
+          "id": "C",
+          "text": "Bone scan alone"
+        },
+        {
+          "id": "D",
+          "text": "Transrectal ultrasound"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The guideline explicitly states that PSMA-PET/CT offers higher sensitivity than conventional imaging with CT or MRI and bone scan.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.4.5-methods-for-follow-up-in-men-under-adt-for-hormone-sensitive-metastatic-pca",
+      "section_title": "7.4.5. Methods for follow-up in men under ADT for hormone-sensitive metastatic PCa",
+      "source_text": "7.4.4.a. Prostate-specific antigen monitoring Prostate-specific antigen is a key marker for following the course of androgen-sensitive non-metastasised PCa. Imaging should be considered when PSA is rising&nbsp;&gt;&nbsp;2ng/mL or in case of symptoms suggestive of metastasis. 7.4.4.b. Imaging The choice of imaging modality is between PSMA-PET/CT, which offers higher sensitivity, and conventional imaging (CI) with CT or MRI and bone scan on which almost all clinical studies and guideline recommend"
+    },
+    {
+      "id": "prostate-cancer-followup-256",
+      "question": "According to the guideline, what PSA threshold during androgen deprivation therapy (ADT) suggests a likely prolonged response and allows for follow-up visits every 3-6 months?",
+      "options": [
+        {
+          "id": "A",
+          "text": "PSA < 1.0 ng/mL"
+        },
+        {
+          "id": "B",
+          "text": "PSA < 2.4 ng/mL"
+        },
+        {
+          "id": "C",
+          "text": "PSA < 4.0 ng/mL"
+        },
+        {
+          "id": "D",
+          "text": "PSA < 10.0 ng/mL"
+        }
+      ],
+      "correct": 1,
+      "explanation": "The text explicitly states that 'a PSA decline to < 2.4ng/mL suggests a likely prolonged response' and follow-up visits can be scheduled every three to six months.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.4.5.a-psa-monitoring",
       "section_title": "7.4.5.a. PSA monitoring",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "In metastatic patients, it is of the utmost importance to counsel about early signs of spinal cord compression, urinary tract complications (ureteral obstruction, bladder outlet obstruction) or bone lesions that are at an increased fracture risk.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "source_text": "In men on ADT alone, a PSA decline to&nbsp;&lt;&nbsp;2.4ng/mL suggests a likely prolonged response and follow-up visits can be scheduled every three to six months, provided the patient is asymptomatic or clinically improving. This applies to men on ADT monotherapy as well as after ADT plus docetaxel [1219]. Depending on symptoms and risk assessment, more frequent visits may be indicated. Treatment response may be evaluated based on a change in serum PSA level [1218,1219] and bone and CT scan, al"
     },
     {
-      "id": "prostate-cancer-followup-071",
-      "question": "What did the secondary analysis of the Titan study demonstrate regarding PSA monitoring?",
+      "id": "prostate-cancer-followup-257",
+      "question": "What is the mandatory assessment required when a rising PSA is detected during ADT to define castration-resistant prostate cancer (CRPC) status?",
       "options": [
         {
           "id": "A",
-          "text": "Nearly half of patients developing subsequent radiographic progression had no concomitant PSA progression"
+          "text": "Repeat PSA testing within 4 weeks"
         },
         {
           "id": "B",
-          "text": "PSA monitoring detected all cases of radiographic progression"
+          "text": "Testosterone level assessment"
         },
         {
           "id": "C",
-          "text": "PSA progression always precedes radiographic progression"
+          "text": "Prostate biopsy"
         },
         {
           "id": "D",
-          "text": "PSA monitoring is the most reliable method for assessing disease activity"
+          "text": "Bone marrow biopsy"
         }
       ],
-      "correct": "A",
-      "explanation": "The guideline cites a secondary analysis of the Titan study which found that nearly half of the patients developing subsequent radiographic progression had no concomitant PSA progression, suggesting that heavy reliance on PSA monitoring may be inadequate for assessing disease activity.",
-      "section": "7.4.5.a",
+      "correct": 1,
+      "explanation": "The text explicitly states that 'a rising PSA should prompt assessment of testosterone level, which is mandatory to define CRPC status, as well as restaging using imaging.'",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.4.5.a-psa-monitoring",
       "section_title": "7.4.5.a. PSA monitoring",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "medium",
-      "fact": "A secondary analysis of the Titan study found that nearly half of the patients developing subsequent radiographic progression had no concomitant PSA progression, suggesting that heavy reliance on PSA monitoring may be inadequate for assessing disease activity in this context.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "source_text": "In men on ADT alone, a PSA decline to&nbsp;&lt;&nbsp;2.4ng/mL suggests a likely prolonged response and follow-up visits can be scheduled every three to six months, provided the patient is asymptomatic or clinically improving. This applies to men on ADT monotherapy as well as after ADT plus docetaxel [1219]. Depending on symptoms and risk assessment, more frequent visits may be indicated. Treatment response may be evaluated based on a change in serum PSA level [1218,1219] and bone and CT scan, al"
     },
     {
-      "id": "prostate-cancer-followup-072",
-      "question": "According to the guideline, follow-up frequency during first-line hormonal treatment should be dependent on which of the following factors?",
+      "id": "prostate-cancer-followup-258",
+      "question": "The bone scan 'flare' phenomenon in metastatic prostate cancer:",
       "options": [
         {
           "id": "A",
-          "text": "Treatment modality"
+          "text": "Can be distinguished from true progression on a single bone scan by increased intensity of tracer uptake"
         },
         {
           "id": "B",
-          "text": "Patient age"
+          "text": "Is defined by treatment-induced demasking of previously invisible metastases and represents a favourable response when observed within 8-12 weeks of treatment initiation"
         },
         {
           "id": "C",
-          "text": "Geographic location"
+          "text": "Indicates treatment failure and requires immediate change of systemic therapy"
         },
         {
           "id": "D",
-          "text": "Previous surgical history"
+          "text": "Can only be reliably detected using PET/CT imaging"
         }
       ],
-      "correct": "A",
-      "explanation": "The guideline states that since most men will receive another anticancer therapy combined with ADT (such as ARPI, chemotherapy, local RT, or combinations), follow-up frequency should also be dependent on the treatment modality. This reflects the need to tailor monitoring to the specific treatment approach.",
-      "section": "7.4.5.a",
-      "section_title": "7.4.5.a. PSA monitoring",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "Follow-up frequency should also be dependent on the treatment modality.",
+      "correct": 1,
+      "explanation": "The text states the flare phenomenon is defined by treatment-induced demasking of earlier invisible metastases and represents a favourable response when observed within eight to twelve weeks of treatment initiation. It also states that differentiation between progression and flare requires repeated bone scans.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-073",
-      "question": "According to the guideline, what PSA threshold decline suggests a likely prolonged response in men on ADT?",
-      "options": [
-        {
-          "id": "A",
-          "text": "PSA decline to < 2.4 ng/mL"
-        },
-        {
-          "id": "B",
-          "text": "PSA decline to < 4.0 ng/mL"
-        },
-        {
-          "id": "C",
-          "text": "PSA decline to < 1.0 ng/mL"
-        },
-        {
-          "id": "D",
-          "text": "PSA decline to < 10 ng/mL"
-        }
-      ],
-      "correct": "A",
-      "explanation": "Section 7.4.5.b states that 'a PSA decline to < 2.4ng/mL suggests a likely prolonged response and follow-up visits can be scheduled every three to six months, provided the patient is asymptomatic or clinically improving.' The guideline provides the specific threshold of 2.4 ng/mL, not any other value.",
-      "section": "7.4.5.b",
+      "guideline": "prostate-cancer",
+      "section": "#7.4.5.b-imaging-as-a-marker-of-response-in-metastatic-pca",
       "section_title": "7.4.5.b. Imaging as a marker of response in metastatic PCa",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "easy",
-      "fact": "In men on ADT alone, a PSA decline to < 2.4ng/mL suggests a likely prolonged response",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "source_text": "Treatment response in soft-tissue metastases can be assessed by morphological imaging methods using the Response Evaluation Criteria in Solid Tumours (RECIST) criteria. However, these criteria cannot be used for bone metastases in which response assessment is difficult [1483,1484]. When bone scan is used to follow bone metastases, a quantitative estimation of tracer uptake at bone scan can be obtained through automated methods such as the Bone Scan Index [1485]. Nonetheless, bone scan is challen"
     },
     {
-      "id": "prostate-cancer-followup-074",
-      "question": "What should a rising PSA prompt according to the guideline on monitoring metastatic prostate cancer during ADT?",
+      "id": "prostate-cancer-followup-259",
+      "question": "According to the guidelines, what proportion of men with PSA <2ng/mL showed clinical progression in the CHAARTED trial?",
       "options": [
         {
           "id": "A",
-          "text": "Immediate termination of ADT therapy"
+          "text": "1 in 4"
         },
         {
           "id": "B",
-          "text": "Assessment of testosterone level and restaging using imaging"
+          "text": "1 in 8"
         },
         {
           "id": "C",
-          "text": "Addition of chemotherapy without further testing"
+          "text": "1 in 3"
         },
         {
           "id": "D",
-          "text": "Weekly PSA monitoring only"
+          "text": "1 in 10"
         }
       ],
-      "correct": "B",
-      "explanation": "Section 7.4.5.b explicitly states that 'A rising PSA should prompt assessment of testosterone level, which is mandatory to define CRPC status, as well as restaging using imaging.' The guideline does not recommend stopping therapy or adding chemotherapy without proper assessment.",
-      "section": "7.4.5.b",
+      "correct": 1,
+      "explanation": "The text explicitly states that 'one in eight men with a PSA <2ng/mL showed clinical progression' in the CHAARTED trial. This supports the recommendation that men with metastasised PCa on ADT should be followed with regular imaging even in the absence of PSA rise.",
+      "chapter": "followup",
+      "guideline": "prostate-cancer",
+      "section": "#7.4.5.b-imaging-as-a-marker-of-response-in-metastatic-pca",
       "section_title": "7.4.5.b. Imaging as a marker of response in metastatic PCa",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "medium",
-      "fact": "A rising PSA should prompt assessment of testosterone level, which is mandatory to define CRPC status, as well as restaging using imaging",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "source_text": "Treatment response in soft-tissue metastases can be assessed by morphological imaging methods using the Response Evaluation Criteria in Solid Tumours (RECIST) criteria. However, these criteria cannot be used for bone metastases in which response assessment is difficult [1483,1484]. When bone scan is used to follow bone metastases, a quantitative estimation of tracer uptake at bone scan can be obtained through automated methods such as the Bone Scan Index [1485]. Nonetheless, bone scan is challen"
     },
     {
-      "id": "prostate-cancer-followup-075",
-      "question": "According to the Titan study secondary analysis cited in the guideline, what proportion of patients developing subsequent radiographic progression had no concomitant PSA rise during ADT plus ARPI treatment?",
+      "id": "prostate-cancer-followup-260",
+      "question": "According to the guidelines, what PSA decline level suggests a likely prolonged response in men on ADT alone or after ADT plus docetaxel?",
       "options": [
         {
           "id": "A",
-          "text": "Approximately 10%"
+          "text": "<1.0 ng/mL"
         },
         {
           "id": "B",
-          "text": "Approximately 25%"
+          "text": "<2.4 ng/mL"
         },
         {
           "id": "C",
-          "text": "Nearly half"
+          "text": "<4.0 ng/mL"
         },
         {
           "id": "D",
-          "text": "Approximately 75%"
+          "text": "<10 ng/mL"
         }
       ],
-      "correct": "C",
-      "explanation": "Section 7.4.5.b states that 'a secondary analysis of the Titan study found that nearly half of the patients developing subsequent radiographic progression had no concomitant PSA [1246].' This finding demonstrates why relying on PSA alone during combination therapy is insufficient for detecting progression.",
-      "section": "7.4.5.b",
-      "section_title": "7.4.5.b. Imaging as a marker of response in metastatic PCa",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#7-4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
-      "difficulty": "hard",
-      "fact": "A secondary analysis of the Titan study found that nearly half of the patients developing subsequent radiographic progression had no concomitant PSA",
+      "correct": 1,
+      "explanation": "The text explicitly states that a PSA decline to <2.4ng/mL suggests a likely prolonged response in men on ADT monotherapy as well as after ADT plus docetaxel.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#7.4.6-recommendations-for-follow-up-during-hormonal-treatment",
+      "section_title": "7.4.6. Recommendations for follow-up during hormonal treatment",
+      "source_text": "In metastatic patients, it is of the utmost importance to counsel about early signs of spinal cord compression, urinary tract complications (ureteral obstruction, bladder outlet obstruction) or bone lesions that are at an increased fracture risk. Since most men will receive another anticancer therapy combined with ADT such as ARPI, chemotherapy, local RT, or combinations, follow-up frequency should also be dependent on the treatment modality. A secondary analysis of the Titan study found that ne"
     },
     {
-      "id": "prostate-cancer-followup-076",
-      "question": "What is the minimum follow-up schedule for patients with stage M0 prostate cancer according to EAU guidelines?",
+      "id": "prostate-cancer-followup-261",
+      "question": "The 'flare' phenomenon on bone scan, which represents a favourable response, is observed within how many weeks of treatment initiation?",
       "options": [
         {
           "id": "A",
-          "text": "Every three months"
+          "text": "2-4 weeks"
         },
         {
           "id": "B",
-          "text": "At least every six months"
+          "text": "8-12 weeks"
         },
         {
           "id": "C",
-          "text": "Annually"
+          "text": "16-20 weeks"
         },
         {
           "id": "D",
-          "text": "Every two years"
+          "text": "24-28 weeks"
         }
       ],
-      "correct": "B",
-      "explanation": "The guideline explicitly states that in patients with stage M0 disease, follow-up should be scheduled at least every six months, including disease-specific history, PSA determination, and liver and renal function tests.",
-      "section": "Follow-up",
-      "section_title": "About EAU",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#about-eau",
-      "difficulty": "easy",
-      "fact": "In patients with stage M0 disease, schedule follow-up at least every six months.",
+      "correct": 1,
+      "explanation": "The text explicitly states that the 'flare' phenomenon, defined as treatment-induced demasking of earlier invisible metastases, actually represents a favourable response when observed within eight to twelve weeks of treatment initiation.",
       "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-077",
-      "question": "According to the EAU definition, what testosterone level threshold defines castration-resistant prostate cancer (CRPC)?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Less than 100ng/dL"
-        },
-        {
-          "id": "B",
-          "text": "Less than 50ng/dL (less than 1.7nmol/L)"
-        },
-        {
-          "id": "C",
-          "text": "Less than 200ng/dL"
-        },
-        {
-          "id": "D",
-          "text": "Less than 20ng/dL"
-        }
-      ],
-      "correct": "B",
-      "explanation": "The guideline explicitly states that by definition, castration-resistant PCa requires a testosterone level < 50ng/dL (< 1.7nmol/L). This threshold should be assessed in patients with suspected progression.",
-      "section": "Follow-up",
-      "section_title": "About EAU",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#about-eau",
-      "difficulty": "easy",
-      "fact": "By definition, castration-resistant PCa requires a testosterone level < 50ng/dL (< 1.7nmol/L).",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
-    },
-    {
-      "id": "prostate-cancer-followup-078",
-      "question": "In patients on long-term androgen deprivation therapy (ADT), which of the following is NOT a minimum requirement for follow-up according to EAU guidelines?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Haemoglobin measurement"
-        },
-        {
-          "id": "B",
-          "text": "Serum creatinine measurement"
-        },
-        {
-          "id": "C",
-          "text": "Testosterone measurement"
-        },
-        {
-          "id": "D",
-          "text": "Troponin levels"
-        }
-      ],
-      "correct": "D",
-      "explanation": "The guideline specifies that long-term ADT follow-up must include: medical history (including ADT-induced complications), haemoglobin, serum creatinine, alkaline phosphatase, lipid profiles, and HbA1c measurements. Troponin levels are not mentioned as a requirement.",
-      "section": "Follow-up",
-      "section_title": "About EAU",
-      "source_url": "https://uroweb.org/guidelines/prostate-cancer/chapter/followup#about-eau",
-      "difficulty": "medium",
-      "fact": "Long-term ADT minimum requirements include haemoglobin, serum creatinine, alkaline phosphatase, lipid profiles and HbA1c measurements.",
-      "chapter": "followup",
-      "guideline": "prostate-cancer"
+      "guideline": "prostate-cancer",
+      "section": "#7.4.6-recommendations-for-follow-up-during-hormonal-treatment",
+      "section_title": "7.4.6. Recommendations for follow-up during hormonal treatment",
+      "source_text": "In metastatic patients, it is of the utmost importance to counsel about early signs of spinal cord compression, urinary tract complications (ureteral obstruction, bladder outlet obstruction) or bone lesions that are at an increased fracture risk. Since most men will receive another anticancer therapy combined with ADT such as ARPI, chemotherapy, local RT, or combinations, follow-up frequency should also be dependent on the treatment modality. A secondary analysis of the Titan study found that ne"
     }
+  ],
+  "processed_anchors": [
+    "#7.3.3.b-digital-rectal-examination",
+    "#7.4.5.a-psa-monitoring",
+    "#7.1-watchful-waiting",
+    "#7.4.3-general-follow-up-of-men-on-hormonal-therapy",
+    "#7.4.4-follow-up-of-patients-on-adt-non-metastatic-mhspca",
+    "#7.4.6-recommendations-for-follow-up-during-hormonal-treatment",
+    "#7.4.3.a-testosterone-monitoring",
+    "#7.3.3-how-to-follow-up",
+    "#7.4.3.d-monitoring-of-metabolic-complications",
+    "#7.4.3.c-serum-creatinine-and-haematological-parameters",
+    "#7.2-active-surveillance-strategy",
+    "#7.3.5-summary-of-evidence-and-recommendations-for-follow-up-after-treatment-with-curative-intent",
+    "#7.3.3.c-transrectal-ultrasound-bone-scintigraphy-ct-mri-and-petct",
+    "#7.4-follow-up-during-first-line-hormonal-treatment-androgen-sensitive-period",
+    "#7.4.3.e-monitoring-bone-problems",
+    "#7.4.4.b-imaging",
+    "#7.3.3.d-functional-follow-up",
+    "#7.4.4.a-prostate-specific-antigen-monitoring",
+    "#7.4.5-methods-for-follow-up-in-men-under-adt-for-hormone-sensitive-metastatic-pca",
+    "#7.4.2-purpose-of-follow-up",
+    "#7.4.5.b-imaging-as-a-marker-of-response-in-metastatic-pca",
+    "#7.3.3.a-prostate-specific-antigen-monitoring",
+    "#7.3.4-how-long-to-follow-up",
+    "#7.4.3.f-monitoring-lifestyle-mental-health-cognition-fatigue-and-sexual-function",
+    "#7.3-follow-up-after-local-treatment-with-curative-intent",
+    "#7.3.2-why-follow-up",
+    "#7.4.3.b-liver-function-monitoring",
+    "#7-follow-up"
   ]
 }
