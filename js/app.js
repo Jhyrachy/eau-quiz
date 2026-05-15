@@ -457,7 +457,8 @@ function formatElapsed(s) {
 
 function buildSourceURL(q) {
   if (q.section) {
-    return `https://uroweb.org/guidelines/${q.guideline}/?section=${q.section}`;
+    const section = q.section.replace(/^#/, '').replace(/\./g, '-');
+    return `https://uroweb.org/guidelines/${q.guideline}/chapter/${q.chapter}#${section}`;
   }
   return `https://uroweb.org/guidelines/${q.guideline}`;
 }
