@@ -57,12 +57,12 @@ window.addEventListener('hashchange', render);
 // ─── App State ──────────────────────────────────────────────────────────────
 
 let state = {
-  view: 'landing',     // landing | quiz | results
-  guidelines: [],      // loaded index
-  selected: [],         // slugs checked on landing
-  questions: [],        // all questions for current session
-  current: 0,           // current question index
-  answers: {},          // question_id -> selected option
+  view: 'landing',
+  guidelines: [],
+  selected: [],
+  questions: [],
+  current: 0,
+  answers: {},
   startTime: null,
   elapsed: 0,
   timerInterval: null,
@@ -151,7 +151,6 @@ async function renderLanding(app) {
     </div>
   `;
 
-  // Wire up checklist
   const checks = document.querySelectorAll('.guideline-check');
   const startBtn = document.getElementById('start-btn');
 
@@ -184,7 +183,6 @@ async function renderLanding(app) {
 async function startQuiz() {
   if (state.selected.length === 0) return;
 
-  // Load all selected question files
   const allQuestions = [];
   for (const slug of state.selected) {
     try {
@@ -242,7 +240,7 @@ function renderQuiz(app, action) {
   state.view = 'quiz';
   const q = state.questions[state.current];
   const answered = state.answers[q.id];
-  const isCorrect = answered ? answered === q.correct : null;
+  const correctId = String.fromCharCode(65 + q.correct); // 0→A, 1→B, 2→C, 3→D
 
   app.innerHTML = `
     <div class="container quiz-container">
@@ -253,7 +251,7 @@ function renderQuiz(app, action) {
       </div>
 
       <div class="question-block">
-        <div class="q-meta">${q.chapter ? q.chapter.replace(/-/g, ' ') : ''} · ${q.difficulty || 'medium'}</div>
+        <div class="q-meta">${q.chapter ? q.chapter.replace(/-/g, ' ') : ''}</div>
         <div class="q-text">${q.question}</div>
       </div>
 
@@ -261,7 +259,7 @@ function renderQuiz(app, action) {
         ${['A','B','C','D'].map(opt => {
           const text = q.options.find(o => o.id === opt)?.text || '';
           const cls = answered
-            ? opt === q.correct ? 'correct'
+            ? opt === correctId ? 'correct'
               : opt === answered ? 'wrong'
               : ''
             : '';
@@ -278,7 +276,7 @@ function renderQuiz(app, action) {
         <div class="explanation">
           <strong>Explanation:</strong> ${q.explanation}
           <div class="src-link">
-            Source: <a href="${q.source_url || '#'}" target="_blank">${q.section || ' guideline'}</a>
+            Source: <a href="${buildSourceURL(q)}" target="_blank">${q.section_title || q.section || 'guideline'}</a>
           </div>
         </div>
         <button class="btn btn-primary next-btn" id="next-btn">
@@ -294,7 +292,6 @@ function renderQuiz(app, action) {
     </div>
   `;
 
-  // Wire up options (if not yet answered)
   if (!answered) {
     document.querySelectorAll('.option').forEach(el => {
       el.addEventListener('click', () => selectOption(el.dataset.opt));
@@ -306,7 +303,6 @@ function renderQuiz(app, action) {
     if (confirm('End quiz now?')) endQuiz();
   });
 
-  // Keyboard: 1-4 select, Enter next, E explanation
   document.onkeydown = (e) => {
     if (['A','B','C','D'].includes(answered)) {
       if (e.key === 'Enter') nextQuestion();
@@ -348,13 +344,15 @@ function renderResults(app) {
   const answers = state.answers;
   const correct = Object.entries(answers).filter(([id, opt]) => {
     const q = state.questions.find(q => q.id === id);
-    return q && q.correct === opt;
+    return q && opt === String.fromCharCode(65 + q.correct);
   }).length;
   const score = Math.round((correct / total) * 100);
 
   const mistakes = state.questions.filter(q => {
     const a = answers[q.id];
-    return a && a !== q.correct;
+    if (!a) return false;
+    const correctLetter = String.fromCharCode(65 + q.correct);
+    return a !== correctLetter;
   });
 
   app.innerHTML = `
@@ -373,17 +371,19 @@ function renderResults(app) {
 
       ${mistakes.length > 0 ? `
         <h2 class="section-title">Review mistakes</h2>
-        ${mistakes.map((q, i) => `
+        ${mistakes.map(q => {
+          const correctLetter = String.fromCharCode(65 + q.correct);
+          return `
           <div class="result-card">
             <div class="q-text">${q.question}</div>
             <div class="q-answers">
               <span class="your wrong">Your answer: ${q.options.find(o=>o.id===answers[q.id])?.text}</span>
-              <span class="correct-text">Correct: ${q.options.find(o=>o.id===q.correct)?.text}</span>
+              <span class="correct-text">Correct: ${q.options.find(o=>o.id===correctLetter)?.text}</span>
             </div>
             <div class="explanation-sm">${q.explanation}</div>
             <a class="report-link" href="${buildIssueURL(q)}" target="_blank">Report issue</a>
-          </div>
-        `).join('')}
+          </div>`;
+        }).join('')}
       ` : `<p class="empty">Perfect score! 🎉</p>`}
     </div>
   `;
@@ -409,10 +409,10 @@ function renderResults(app) {
 
 function exportAnki() {
   const qs = state.questions;
-  // Build TSV: front, back, tags
   const lines = qs.map(q => {
+    const correctLetter = String.fromCharCode(65 + q.correct);
     const front = q.question.replace(/\t/g, ' ').replace(/\n/g, ' ');
-    const back = `${q.options.find(o=>o.id===q.correct)?.text}\n\n${q.explanation}`.replace(/\t/g, ' ').replace(/\n/g, '<br>');
+    const back = `${q.options.find(o=>o.id===correctLetter)?.text}\n\n${q.explanation}`.replace(/\t/g, ' ').replace(/\n/g, '<br>');
     const tags = `${q.guideline} ${q.chapter || ''} ${q.difficulty || ''}`.trim().replace(/\s+/g, ' ');
     return [front, back, tags].join('\t');
   });
@@ -453,13 +453,34 @@ function formatElapsed(s) {
   return `${m}:${sec.toString().padStart(2, '0')}`;
 }
 
+// ─── URL Builders ─────────────────────────────────────────────────────────────
+
+function buildSourceURL(q) {
+  if (q.section) {
+    return `https://uroweb.org/guidelines/${q.guideline}/?section=${q.section}`;
+  }
+  return `https://uroweb.org/guidelines/${q.guideline}`;
+}
+
 function buildIssueURL(q) {
+  const correctLetter = String.fromCharCode(65 + q.correct);
   const title = encodeURIComponent(`Issue with question: ${q.id}`);
   const body = encodeURIComponent(
-`## Question\n${q.question}\n\n**ID:** \`${q.id}\`\n**Guideline:** ${q.guideline}\n**Chapter:** ${q.chapter}\n**Difficulty:** ${q.difficulty}\n\n## Problem\n- [ ] Factually incorrect\n- [ ] Wrong answer marked correct\n- [ ] Explanation is wrong\n- [ ] Other: ___
+`| ## Question
+${q.question}
 
+**ID:** \`${q.id}\`
+**Guideline:** ${q.guideline}
+**Chapter:** ${q.chapter}
+**Section:** ${q.section || 'N/A'}
 
-**Correct answer should be:** ${q.correct}
+## Problem
+- [ ] Factually incorrect
+- [ ] Wrong answer marked correct
+- [ ] Explanation is wrong
+- [ ] Other: ___
+
+**Correct answer should be:** ${correctLetter} — ${q.options?.find(o => o.id === correctLetter)?.text || ''}
 `
   );
   return `${REPO_ISSUES}?title=${title}&body=${body}&labels=question-error`;
