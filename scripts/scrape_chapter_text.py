@@ -184,11 +184,19 @@ def parse_chapter_sections(html, heading_ids):
 
     sections = []
     # Split on ALL heading levels present in the HTML (h2..h5)
-    # h5 sub-subsections are substantive and should be their own sections
     heading_pattern = re.compile(r'<h([2345])[^>]*>(.*?)</h\1>', re.DOTALL)
 
+    heading_matches = list(heading_pattern.finditer(html))
+    main_m = re.search(r'<main[^>]*>(.*)</main>', html, re.DOTALL)
+    end_pos = main_m.end() if main_m else len(html)
+
+    # Track positions for content block computation
+    # non_h5_end: end of last h2/h3/h4 seen (used as block start for non-h5 sections)
+    # prev_end: end of previous heading (used as block start for h5 sections)
+    non_h5_end = 0
     prev_end = 0
-    for m in heading_pattern.finditer(html):
+
+    for idx, m in enumerate(heading_matches):
         level = int(m.group(1))
         raw_text = m.group(2)
         h_text = re.sub(r'<[^>]+>', '', raw_text).strip()
@@ -201,8 +209,18 @@ def parse_chapter_sections(html, heading_ids):
         section_anchor = f"#{slug}"
         nav_anchor = compute_nav_anchor(section_anchor, level, level, heading_ids)
 
-        block_html = html[prev_end:m.start()]
-        prev_end = m.end()
+        next_start = heading_matches[idx + 1].start() if idx + 1 < len(heading_matches) else end_pos
+
+        if level == 5:
+            # h5: content block is AFTER this heading (until next heading)
+            block_html = html[m.end():next_start]
+        else:
+            # h2/h3/h4: content block is BEFORE this heading (intro text before this heading)
+            block_html = html[non_h5_end:m.start()]
+            # For next non-h5 section, block starts at THIS heading's end
+            non_h5_end = m.end()
+            # For next h5 section, block starts at THIS heading's end
+            prev_end = m.end()
 
         section_text = strip_tags(block_html)
         tables = extract_tables(block_html)
